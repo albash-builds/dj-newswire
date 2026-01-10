@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-10T11:02:17.094Z",
-  "total": 110,
+  "generatedAt": "2026-01-10T11:20:04.954Z",
+  "total": 101,
   "sources": [
     {
       "id": "decoded",
@@ -35,90 +35,6 @@
       "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6bd13efece9c194ddb15ae2374d15ed91ca2c654",
-      "title": "“Me acostumbré”, single con sabor ochentas de Lisasinson",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/lisasinson-me-acostumbre/",
-      "published": "2026-01-10T07:54:56.000Z",
-      "publishedTs": 1768031696000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/lisasinson-me-acostumbre.jpg",
-      "excerpt": "El lanzamiento de \"Me acostumbré\" marca el último adelanto del próximo álbum de Lisasinson, titulado \"Desde cuándo todo\". A escasos... La entrada “Me acostumbré”, single con sabor ochentas de Lisasinson se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7d5c4e21645b19725442dd8f3202c894f2107590",
-      "title": "Pignoise girarán por España con su “Las Ganas de Veros Tour”",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/pignoise-ganas-de-veros-tour/",
-      "published": "2026-01-10T07:54:25.000Z",
-      "publishedTs": 1768031665000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2024/04/pignoise-entrevista.jpg",
-      "excerpt": "Tras el lanzamiento de su nuevo disco “Las Ganas”, Pignoise vuelve a los escenarios del país para presentarlo este 2026.... La entrada Pignoise girarán por España con su “Las Ganas de Veros Tour” se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9566d017f464167cfcaa5bea9921ef0a55149add",
-      "title": "Pat Smear se perderá algunos shows de Foo Fighters por un accidente",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/pat-smear-foo-fighters/",
-      "published": "2026-01-10T07:53:28.000Z",
-      "publishedTs": 1768031608000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/pat-smear-foo-fighters.jpg",
-      "excerpt": "Pat Smear, guitarrista de Foo Fighters, se perderá los próximos conciertos de la banda a causa de un \"extraño accidente... La entrada Pat Smear se perderá algunos shows de Foo Fighters por un accidente se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a9f6cbe151a3cd76b646f5c491290b691bf0a020",
-      "title": "The Black Crowes comparten dos temas de “A Pound Of Feathers”",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/the-black-crowes-pound-of-feathers/",
-      "published": "2026-01-10T07:49:58.000Z",
-      "publishedTs": 1768031398000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/TheBlackCrowes.RossHalfinWEB.jpg",
-      "excerpt": "Dicen que se trata de su disco más ambicioso. Vaya a ser así o no, ya podemos escuchar los dos... La entrada The Black Crowes comparten dos temas de “A Pound Of Feathers” se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "082c01d452916c19617e1801857265e98bd381ac",
-      "title": "Olivia Rodrigo y David Byrne colaboran en el aniversario de “drivers license”",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/olivia-rodrigo-y-david-byrne-drivers-license/",
-      "published": "2026-01-10T07:47:16.000Z",
-      "publishedTs": 1768031236000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/Olivia-Rodrigo-y-David-Byrne.png",
-      "excerpt": "En el quinto aniversario de “drivers license”, Olivia Rodrigo ha dado el pistoletazo de salida a una serie de colaboraciones... La entrada Olivia Rodrigo y David Byrne colaboran en el aniversario de “drivers license” se publicó primero e…"
-    },
-    {
-      "id": "cf9eb0eed2ff94e1557b7d42b7f6fc05fb19d90c",
-      "title": "“Admitir la culpa nos hace un poco más libres”",
-      "link": "https://www.mondosonoro.com/entrevistas/miles-kane-entrevista-sunlight/",
-      "published": "2026-01-10T07:33:37.000Z",
-      "publishedTs": 1768030417000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Entrevistas"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/miles-kane-entrevista.jpg",
-      "excerpt": "Miles Kane dice que, cuando entró en los estudios de Easy Eye en Nashville, sintió las mismas vibraciones acogedoras que... La entrada “Admitir la culpa nos hace un poco más libres” se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
       "title": "Om Records Celebrates 30 Years with New Compilation",
       "link": "https://www.decodedmagazine.com/om-records-celebrates-30-years-with-new-compilation/",
@@ -137,48 +53,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
-    },
-    {
-      "id": "ddb25a81bb6544e1b5af8e14168481ae1d20abee",
-      "title": "Mikel Telleria presenta “Oroit Lou Reed” en Donostia",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/mikel-telleria-oroit-lou-reed/",
-      "published": "2026-01-09T12:56:49.000Z",
-      "publishedTs": 1767963409000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Mikel-Telleria.jpg",
-      "excerpt": "El músico idiazabaldarra Mikel Telleria presenta el 18 de enero en la sala Dabadaba su cuarto álbum de estudio, un... La entrada Mikel Telleria presenta “Oroit Lou Reed” en Donostia se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "17d3f1c7d09f35da33475962b49a5611c6bbd84a",
-      "title": "“ROCCO/TENTACIÓN” es lo nuevo de Ralphie Choo",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/rocco-tentacion-ralphie-choo/",
-      "published": "2026-01-09T11:24:09.000Z",
-      "publishedTs": 1767957849000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Ralphie-Choo-Tentacion.jpg",
-      "excerpt": "Ralphie Choo ha estrenado doble sencillo, “ROCCO/TENTACIÓN”, con el que adelanta su esperado segundo larga duración, previsto para primavera. No... La entrada “ROCCO/TENTACIÓN” es lo nuevo de Ralphie Choo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "31055e80be0b104bbea16e890214c23b0f38e8c3",
-      "title": "Morrissey publica, por fin, nuevo single, “Make-up is a Lie”",
-      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/morrissey-make-up-is-a-lie/",
-      "published": "2026-01-09T10:51:15.000Z",
-      "publishedTs": 1767955875000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Noticias"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/11/MorrisseyGira.jpg",
-      "excerpt": "Morrissey vuelve al mundo de la música publicada. Después de tres años sin tener sello y tras firmar recientemente con... La entrada Morrissey publica, por fin, nuevo single, “Make-up is a Lie” se publicó primero en MondoSonoro ."
     },
     {
       "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
@@ -593,6 +467,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/10/s-l1200-2.jpg?resize=810%2C892&ssl=1",
       "excerpt": "There&#8217;s something almost quaint about holding a rave tape pack now. These oversized blow-moulded plastic clamshells with their garish airbrushed covers, featuring cyborg ravers and futuristic dystopian landscapes courtesy of design…"
+    },
+    {
+      "id": "9486158854862fa5c32611fa3779891be73b68bf",
+      "title": "Festival line-ups you might have missed: Love international, AURA, Terminal V",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-terminal-v-aura-love-international-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Terminal-V.png?width=660&fit=cover&s=bolRVsi4JOzN4p8aCiOQBk6lJkjgSfvk03Z3tNdq-tQ",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "1e93b0c3c463b5bb067a2ef5b8370a899d2bdde0",
@@ -1541,18 +1427,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tim-westwood-court.jpg?width=660&fit=cover&s=U9XmW7fyXDaodiM6GcfxSQy_APOtUt7wYdEXUnD-ddw",
       "excerpt": "The former BBC Radio 1 DJ faces 15 charges in relation to seven women, including four counts of rape Continue reading..."
-    },
-    {
-      "id": "69e4b7c17c0a7062749879924f37d419efcf2e8f",
-      "title": "Get down to the garage: Celebrating New Zealand's most beloved party spot",
-      "link": "https://mixmag.net/feature/nz-garage-celebrating-aotearoas-most-beloved-party-spot-new-zealand-ikea-lab54",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nz-gargae.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=m1VanOj7ZgRzmClda8sJk6t6ZNU4rtFcFApqqzLiMro",
-      "excerpt": "The focal point of many Aotearoa homes, Laura McInnes headed to IKEA’s tribute to the garage in Auckland, part of its Kiwi Housewarming parties to honor the first-ever IKEA New Zealand location Continue reading..."
     }
   ]
 }
