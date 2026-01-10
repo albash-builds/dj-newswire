@@ -1,9 +1,9 @@
 name: build dj newswire json
 
-'on':
+on:
   workflow_dispatch:
   schedule:
-    - cron: "15 6 * * *" # daily at 06:15 utc
+    - cron: "0 * * * *" # hourly at :00 utc
 
 permissions:
   contents: write
