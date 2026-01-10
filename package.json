@@ -1,1 +1,12 @@
+{
+  "name": "dj-newswire",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-feeds.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
 
