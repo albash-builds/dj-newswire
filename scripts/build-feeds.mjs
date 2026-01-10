@@ -282,10 +282,7 @@ async function main() {
 
         const categories = pickCategories(it);
         const excerpt = pickExcerpt(it);
-if (feed.id === "mondosonoro") {
-  const hasDiscosCategory = categories.some(c => c.toLowerCase() === "discos");
-  if (!hasDiscosCategory) continue;
-}
+
 
         items.push({
           id: sha1(`${feed.id}|${link}`),
