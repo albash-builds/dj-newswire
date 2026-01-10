@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-10T10:42:52.030Z",
+  "generatedAt": "2026-01-10T11:02:17.094Z",
   "total": 110,
   "sources": [
     {
@@ -13,13 +13,111 @@
       "url": "https://mixmag.net/rss.xml"
     },
     {
-      "id": "xlr8r",
-      "name": "Xlr8r",
-      "url": "https://xlr8r.com/feed"
+      "id": "mondosonoro",
+      "name": "MondoSonoro",
+      "url": "https://www.mondosonoro.com/feed/"
     }
   ],
   "errors": [],
   "items": [
+    {
+      "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
+      "title": "Ambivalencia artificial",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jejeje-ambivalencia-artificial/",
+      "published": "2026-01-10T08:26:25.000Z",
+      "publishedTs": 1768033585000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jejeje-Ambivalencia-artificial.jpg",
+      "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6bd13efece9c194ddb15ae2374d15ed91ca2c654",
+      "title": "“Me acostumbré”, single con sabor ochentas de Lisasinson",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/lisasinson-me-acostumbre/",
+      "published": "2026-01-10T07:54:56.000Z",
+      "publishedTs": 1768031696000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/lisasinson-me-acostumbre.jpg",
+      "excerpt": "El lanzamiento de \"Me acostumbré\" marca el último adelanto del próximo álbum de Lisasinson, titulado \"Desde cuándo todo\". A escasos... La entrada “Me acostumbré”, single con sabor ochentas de Lisasinson se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7d5c4e21645b19725442dd8f3202c894f2107590",
+      "title": "Pignoise girarán por España con su “Las Ganas de Veros Tour”",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/pignoise-ganas-de-veros-tour/",
+      "published": "2026-01-10T07:54:25.000Z",
+      "publishedTs": 1768031665000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2024/04/pignoise-entrevista.jpg",
+      "excerpt": "Tras el lanzamiento de su nuevo disco “Las Ganas”, Pignoise vuelve a los escenarios del país para presentarlo este 2026.... La entrada Pignoise girarán por España con su “Las Ganas de Veros Tour” se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9566d017f464167cfcaa5bea9921ef0a55149add",
+      "title": "Pat Smear se perderá algunos shows de Foo Fighters por un accidente",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/pat-smear-foo-fighters/",
+      "published": "2026-01-10T07:53:28.000Z",
+      "publishedTs": 1768031608000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/pat-smear-foo-fighters.jpg",
+      "excerpt": "Pat Smear, guitarrista de Foo Fighters, se perderá los próximos conciertos de la banda a causa de un \"extraño accidente... La entrada Pat Smear se perderá algunos shows de Foo Fighters por un accidente se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a9f6cbe151a3cd76b646f5c491290b691bf0a020",
+      "title": "The Black Crowes comparten dos temas de “A Pound Of Feathers”",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/the-black-crowes-pound-of-feathers/",
+      "published": "2026-01-10T07:49:58.000Z",
+      "publishedTs": 1768031398000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/TheBlackCrowes.RossHalfinWEB.jpg",
+      "excerpt": "Dicen que se trata de su disco más ambicioso. Vaya a ser así o no, ya podemos escuchar los dos... La entrada The Black Crowes comparten dos temas de “A Pound Of Feathers” se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "082c01d452916c19617e1801857265e98bd381ac",
+      "title": "Olivia Rodrigo y David Byrne colaboran en el aniversario de “drivers license”",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/olivia-rodrigo-y-david-byrne-drivers-license/",
+      "published": "2026-01-10T07:47:16.000Z",
+      "publishedTs": 1768031236000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/01/Olivia-Rodrigo-y-David-Byrne.png",
+      "excerpt": "En el quinto aniversario de “drivers license”, Olivia Rodrigo ha dado el pistoletazo de salida a una serie de colaboraciones... La entrada Olivia Rodrigo y David Byrne colaboran en el aniversario de “drivers license” se publicó primero e…"
+    },
+    {
+      "id": "cf9eb0eed2ff94e1557b7d42b7f6fc05fb19d90c",
+      "title": "“Admitir la culpa nos hace un poco más libres”",
+      "link": "https://www.mondosonoro.com/entrevistas/miles-kane-entrevista-sunlight/",
+      "published": "2026-01-10T07:33:37.000Z",
+      "publishedTs": 1768030417000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Entrevistas"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/miles-kane-entrevista.jpg",
+      "excerpt": "Miles Kane dice que, cuando entró en los estudios de Easy Eye en Nashville, sintió las mismas vibraciones acogedoras que... La entrada “Admitir la culpa nos hace un poco más libres” se publicó primero en MondoSonoro ."
+    },
     {
       "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
       "title": "Om Records Celebrates 30 Years with New Compilation",
@@ -39,6 +137,48 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
+    },
+    {
+      "id": "ddb25a81bb6544e1b5af8e14168481ae1d20abee",
+      "title": "Mikel Telleria presenta “Oroit Lou Reed” en Donostia",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/mikel-telleria-oroit-lou-reed/",
+      "published": "2026-01-09T12:56:49.000Z",
+      "publishedTs": 1767963409000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Mikel-Telleria.jpg",
+      "excerpt": "El músico idiazabaldarra Mikel Telleria presenta el 18 de enero en la sala Dabadaba su cuarto álbum de estudio, un... La entrada Mikel Telleria presenta “Oroit Lou Reed” en Donostia se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "17d3f1c7d09f35da33475962b49a5611c6bbd84a",
+      "title": "“ROCCO/TENTACIÓN” es lo nuevo de Ralphie Choo",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/rocco-tentacion-ralphie-choo/",
+      "published": "2026-01-09T11:24:09.000Z",
+      "publishedTs": 1767957849000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Ralphie-Choo-Tentacion.jpg",
+      "excerpt": "Ralphie Choo ha estrenado doble sencillo, “ROCCO/TENTACIÓN”, con el que adelanta su esperado segundo larga duración, previsto para primavera. No... La entrada “ROCCO/TENTACIÓN” es lo nuevo de Ralphie Choo se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "31055e80be0b104bbea16e890214c23b0f38e8c3",
+      "title": "Morrissey publica, por fin, nuevo single, “Make-up is a Lie”",
+      "link": "https://www.mondosonoro.com/noticias-actualidad-musical/morrissey-make-up-is-a-lie/",
+      "published": "2026-01-09T10:51:15.000Z",
+      "publishedTs": 1767955875000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Noticias"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/11/MorrisseyGira.jpg",
+      "excerpt": "Morrissey vuelve al mundo de la música publicada. Después de tres años sin tener sello y tras firmar recientemente con... La entrada Morrissey publica, por fin, nuevo single, “Make-up is a Lie” se publicó primero en MondoSonoro ."
     },
     {
       "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
@@ -453,248 +593,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/10/s-l1200-2.jpg?resize=810%2C892&ssl=1",
       "excerpt": "There&#8217;s something almost quaint about holding a rave tape pack now. These oversized blow-moulded plastic clamshells with their garish airbrushed covers, featuring cyborg ravers and futuristic dystopian landscapes courtesy of design…"
-    },
-    {
-      "id": "1825ee3953583864a1e99b6fa0350c0af0429746",
-      "title": "Download an Ableton Live Set From Polygonia",
-      "link": "https://xlr8r.com/features/download-an-ableton-live-set-from-polygonia/",
-      "published": "2024-12-20T23:04:29.000Z",
-      "publishedTs": 1734735869000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "Features",
-        "Ableton",
-        "Ableton Live Set",
-        "IO collective",
-        "Polygonia",
-        "production masterclass"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/12/438_XLR8R-Polygonia_Blog-Image-1600x800_03-1024x512.jpg",
-      "excerpt": "Few artists demonstrate such a multifaceted talent and the poise to balance it all quite like Polygonia , the musical alias of Lindsey Wang. Having risen to prominence with an impressive combination of technical mastery and artistic refi…"
-    },
-    {
-      "id": "a76350df659904218aa45406781b8606732f09ce",
-      "title": "Bjarki Returns with New Album",
-      "link": "https://xlr8r.com/news/bjarki-returns-with-new-album/",
-      "published": "2024-10-29T22:19:52.000Z",
-      "publishedTs": 1730240392000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "album",
-        "Bjarki Sigurðarson",
-        "bridges",
-        "California",
-        "Coil",
-        "contemplation",
-        "Differance",
-        "Easy",
-        "Genesis P-Orridge",
-        "imagine",
-        "Lost"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/hh3gx_yg-1024x576.png",
-      "excerpt": "Bjarki will release a new album next month. A Guide To Hellthier Lifestyle is the first album to land on the Iceland artist&#8217;s Differance label, which he co-founded with the artist Thomas Harrington Rawle. Conceptually, the album ex…"
-    },
-    {
-      "id": "12053c89ed83629ac21d2f7b85541ab760f274bc",
-      "title": "Podcast 873: Andy Graham",
-      "link": "https://xlr8r.com/podcasts/podcast-873-andy-graham/",
-      "published": "2024-10-23T19:53:54.000Z",
-      "publishedTs": 1729713234000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "Podcasts",
-        "3XL",
-        "AG-Sounds",
-        "ambient",
-        "Andy Graham",
-        "AUS Music",
-        "bass-heavy",
-        "Brent Faiyaz",
-        "Calum Matheson",
-        "cinematic",
-        "Daisart",
-        "Fixed Abode"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/ANDY_GRAHAM_PODCAST_HERO6-scaled.jpg",
-      "excerpt": "Andy Graham is a Glasgow, Scotland-born electronic music producer who is known for his innovative approach to ambient soundscapes and cinematic atmospheres. Before studying audio technology in college and university, he was always intere…"
-    },
-    {
-      "id": "bfd546a1f1ed0495d45168fde6b3645470d11ed5",
-      "title": "Beatrice Dillon to Launch Label with Double-Single",
-      "link": "https://xlr8r.com/news/beatrice-dillon-to-launch-label-with-double-single/",
-      "published": "2024-10-23T08:37:18.000Z",
-      "publishedTs": 1729672638000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "acoustic",
-        "bass",
-        "bass clarinet",
-        "Beatrice Dillon",
-        "Cello",
-        "composition",
-        "electronic",
-        "evolution",
-        "Explore Ensemble",
-        "flute",
-        "London"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/unnamed-2-1024x768.jpg",
-      "excerpt": "Beatrice Dillon will release a new double-single next month. Seven Reorganisations is the first release on Dillon&#8217;s new label, HI. Originally commissioned by artist Mark Fell for Sheffield&#8217;s No Bounds Festival in 2022, the en…"
-    },
-    {
-      "id": "95e0d685cb7939e5b9d320eb6839a99147b512ba",
-      "title": "The Mole to Release Fifth Album on Circus Company",
-      "link": "https://xlr8r.com/news/the-mole-to-release-fifth-album-on-circus-company/",
-      "published": "2024-10-22T12:44:51.000Z",
-      "publishedTs": 1729601091000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "album",
-        "ambient",
-        "Antonio Carrau",
-        "Canada",
-        "Circus Company",
-        "Colin De La Plante",
-        "France",
-        "High Dreams",
-        "hip-hop",
-        "ideas",
-        "micro-boogie"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/0016586174_10-765x1024.jpg",
-      "excerpt": "The Mole will release a new album next month. High Hopes is the Canadian artist&#8217;s fifth solo album and his second for Circus Company , following The River Widens in 2023. High Hopes comprises 17 songs that sound nothing like last m…"
-    },
-    {
-      "id": "d6ae0216689c6a3e02cd6723b01158b8cb8854e3",
-      "title": "Curses to Release New Album",
-      "link": "https://xlr8r.com/news/curses-to-release-new-album/",
-      "published": "2024-10-17T21:29:48.000Z",
-      "publishedTs": 1729200588000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "album",
-        "Another Heaven",
-        "Berlin",
-        "Canada",
-        "cinematic",
-        "Curses",
-        "Dark",
-        "Dischi Autunno",
-        "Germany",
-        "Ghostly",
-        "Guitar"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/unnamed-1-759x1024.jpg",
-      "excerpt": "Curses will release a new album later this month. Known for making dark, romantic, cinematic new wave, Curses, real name Luca Venezia, has previously released two full length albums on Dischi Autunno—the latest, Incarnadine , coming in 2…"
-    },
-    {
-      "id": "fe618500774cce9d8b478229a7cbc79111b2edb2",
-      "title": "Podcast 872: Tadleeh",
-      "link": "https://xlr8r.com/podcasts/podcast-872-tadleeh/",
-      "published": "2024-10-16T17:07:56.000Z",
-      "publishedTs": 1729098476000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "Podcasts",
-        "activiyy",
-        "African Head Charge",
-        "body",
-        "brooding",
-        "Chaos",
-        "club",
-        "Crystallmess",
-        "Debut",
-        "disorder",
-        "drum & bass",
-        "Earth Plates"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/TADLEEH_PODCAST_HERO6-scaled.jpg",
-      "excerpt": "Tadleeh is the project of Indian-born, Italy-based musician Hazina Francia. Her route into electronic music began when she was a teenager and discovered techno and drum &amp; bass. &#8220;Then I&#8217;ve moved forward exploring more tech…"
-    },
-    {
-      "id": "e1a90333a484221223ed5b411dacad5c863b7a1e",
-      "title": "Flying Lotus Shares New House Track",
-      "link": "https://xlr8r.com/news/flying-lotus-shares-new-house-track/",
-      "published": "2024-10-16T08:23:14.000Z",
-      "publishedTs": 1729066994000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "bass",
-        "Brainfeeder",
-        "Flying Lotus",
-        "LA",
-        "Los Angeles",
-        "shimmering",
-        "upbeat",
-        "USA",
-        "Warp"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/FlyingLotus_Ingo-Swann_Tim_Saccenti_1400x933-682x1024.jpg",
-      "excerpt": "Flying Lotus has shared a new single, &#8220;Ingo Swann.” &#8220;Ingo Swann,&#8221; an upbeat, shimmering house number, sounds like nothing from Flying Lotus&#8217;s typical oeuvre. It takes its title from the famed psychic of the same n…"
-    },
-    {
-      "id": "87de66f3507b053b06bd7494fd50749fe34329ec",
-      "title": "Jackmaster Dies Aged 38",
-      "link": "https://xlr8r.com/news/jackmaster-dies-aged-38/",
-      "published": "2024-10-14T10:51:47.000Z",
-      "publishedTs": 1728903107000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "accident",
-        "disco",
-        "friends",
-        "Glasgow",
-        "Head",
-        "Hi Ibiza",
-        "House",
-        "Ibiza",
-        "injury",
-        "Jack Revill",
-        "Jackmaster"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/568732_8608425_updates.webp",
-      "excerpt": "Scottish DJ-producer Jack Revill, better known as Jackmaster, has died of an accidental head injury, aged 38. Revill&#8217;s family confirmed the news on Instagram yesterday. &#8220;It&#8217;s with profound sorrow that we confirm the unt…"
-    },
-    {
-      "id": "15db1103b2f0f73abfcc79198b0d42791cb05522",
-      "title": "AD 93 to Release a Collection of Sonic Poetry from BZDB",
-      "link": "https://xlr8r.com/news/ad-93-to-release-album-from-bzdb/",
-      "published": "2024-10-09T22:28:23.000Z",
-      "publishedTs": 1728512903000,
-      "sourceId": "xlr8r",
-      "sourceName": "Xlr8r",
-      "categories": [
-        "News",
-        "AD 93",
-        "Belinda Zhawi",
-        "BZDB",
-        "classical",
-        "Dialogue",
-        "Duncan Bellam",
-        "elliptical",
-        "explorative",
-        "illuminating",
-        "intimate",
-        "London"
-      ],
-      "image": "https://xlr8r.com/wp-content/uploads/2024/10/0037218482_10-1024x1024.jpg",
-      "excerpt": "AD 93 will release a new album from Duncan Bellamy and Belinda Zhawi as BZDB. Jump Ship, Sit Lean, Be Still, Stand Tall is a collection of sonic-poetry that sets Zhawi&#8217;s illuminating, elliptical words in dialogue with diffuse, expl…"
     },
     {
       "id": "1e93b0c3c463b5bb067a2ef5b8370a899d2bdde0",
