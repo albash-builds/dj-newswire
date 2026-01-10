@@ -1,6 +1,6 @@
 name: build dj newswire json
 
-on:
+'on':
   workflow_dispatch:
   schedule:
     - cron: "15 6 * * *" # daily at 06:15 utc
@@ -42,4 +42,3 @@ jobs:
 
           git commit -m "Update dj newswire feed"
           git push
-
