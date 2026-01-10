@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-10T11:38:11.826Z",
-  "total": 100,
+  "generatedAt": "2026-01-10T11:43:01.167Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -15,18 +15,25 @@
     {
       "id": "mondosonoro",
       "name": "MondoSonoro",
-      "url": "https://www.mondosonoro.com/criticas/discos-musica/"
+      "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
+      "title": "Ambivalencia artificial",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jejeje-ambivalencia-artificial/",
+      "published": "2026-01-10T08:26:25.000Z",
+      "publishedTs": 1768033585000,
       "sourceId": "mondosonoro",
       "sourceName": "MondoSonoro",
-      "url": "https://www.mondosonoro.com/criticas/discos-musica/",
-      "error": "Attribute without value\nLine: 37\nColumn: 148\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jejeje-Ambivalencia-artificial.jpg",
+      "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
+    },
     {
       "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
       "title": "Om Records Celebrates 30 Years with New Compilation",
@@ -48,6 +55,20 @@
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
     },
     {
+      "id": "ab0f688893df8e3b6c045679593623ac176b6a74",
+      "title": "Reseñamos 'Secret Love' de Dry Cleaning, álbum editado hoy viernes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dry-cleaning-secret-love/",
+      "published": "2026-01-09T10:21:27.000Z",
+      "publishedTs": 1767954087000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dry-Cleaning-Secret-Love.jpg",
+      "excerpt": "Tras dos álbumes producidos por John Parish, el titular que acompaña a “Secret Love”, tercer largo de la banda londinense,... La entrada Reseñamos &#039;Secret Love&#039; de Dry Cleaning, álbum editado hoy viernes se publicó primero en M…"
+    },
+    {
       "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
       "title": "Introducing Mix of the Year Winner – Wittak",
       "link": "https://www.decodedmagazine.com/introducing-mix-of-the-year-winner-wittak/",
@@ -62,6 +83,20 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
       "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
+    },
+    {
+      "id": "9fd0a6d49e948eb0dc2609618f8d81a5e5f4f3af",
+      "title": "Selling A Vibe",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-cribs-selling-a-vibe/",
+      "published": "2026-01-09T08:32:30.000Z",
+      "publishedTs": 1767947550000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Cribs-Selling-A-Vibe.jpg",
+      "excerpt": "No deja de ser llamativo (y, en cierto modo, meritorio), lo que a estas alturas del partido sucede con The... La entrada Selling A Vibe se publicó primero en MondoSonoro ."
     },
     {
       "id": "2a23106dfc1b35059afba298aa52bd0c66eea1e6",
@@ -106,6 +141,20 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/%40bonmk1-Connor-Baker-04417.jpg?resize=810%2C540&ssl=1",
       "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
+    },
+    {
+      "id": "8a08162a468a31435303800d6fe618b6fda04a39",
+      "title": "Forever, I’ve Been Being Born",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jesse-sykes-forever-i-ve-been-being-born/",
+      "published": "2026-01-08T07:57:53.000Z",
+      "publishedTs": 1767859073000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jesse-sykes-Forever-I-ve-Been-Being-Born.jpg",
+      "excerpt": "Lo reconozco, le había perdido la pista por completo a Jesse Sykes. Y, como yo, imagino que la mayoría de... La entrada Forever, I’ve Been Being Born se publicó primero en MondoSonoro ."
     },
     {
       "id": "f1642cb6672455ac5b564f6a8cec6fb758485eaf",
@@ -299,6 +348,76 @@
       "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
     },
     {
+      "id": "b4dd7c6fc71f40842bc3cdfe030d00d1bcea7d17",
+      "title": "Lightning Might Strike",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/juliana-hatfield-lightning-might-strike/",
+      "published": "2025-12-30T10:09:48.000Z",
+      "publishedTs": 1767089388000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Juliana-Hatfield-Lightning-Might-Strike.jpg",
+      "excerpt": "Resulta tan evidente que, en el caso de Juliana Hatfield, bien cabría dar de paso ese tópico irritante encargado de... La entrada Lightning Might Strike se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b99e61e60a07dc14e6164494811ddd312e399769",
+      "title": "Mañana y Siempre",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nadadora-manana-y-siempre/",
+      "published": "2025-12-29T07:55:33.000Z",
+      "publishedTs": 1766994933000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/nadadora_mananaysiempre.jpg",
+      "excerpt": "Quince años después, Nadadora vuelve con un disco que habla de reconstrucción y de una manera distinta de situarse en... La entrada Mañana y Siempre se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "75fc676f82d86d5f8ab0863fbba7a9a1fc620c8f",
+      "title": "Muturrez zerura",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bele-muturrez-zerura/",
+      "published": "2025-12-24T11:08:36.000Z",
+      "publishedTs": 1766574516000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Bele-muturrez.jpg",
+      "excerpt": "Bigarren lan luzea azaldu berri du Bele proiektuak, ‘Muturrez Zerura’ edota ‘M.Z.’. Musika beltzaren bueltan segitzen du Lide Hernandoren bakarkako... La entrada Muturrez zerura se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "149031f015e48c632dc04bd1de0d0a1b8f6d4e49",
+      "title": "Masquerade",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/thomas-raggi-masquerade/",
+      "published": "2025-12-23T06:58:42.000Z",
+      "publishedTs": 1766473122000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Thomas-Raggi-masquerade.jpg",
+      "excerpt": "Muchas veces hemos escuchado aquello de que el rock carece de relevo generacional, y otras tantas hemos visto aparecer nuevas... La entrada Masquerade se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "98045f4a836751f7e910674ed1138d503c9e8e01",
+      "title": "Mentemblanco (Reedición)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-banda-trapera-del-rio-mentemblanco/",
+      "published": "2025-12-23T05:17:44.000Z",
+      "publishedTs": 1766467064000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/La-Banda-Trapera-del-Rio-Mentemblanco-reedicion.jpg",
+      "excerpt": "Existe un acuerdo generalizado en la escena punk estatal sobre el tercer disco de La Banda Trapera del Río: lo... La entrada Mentemblanco (Reedición) se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
       "title": "French Electronic Music Receives Cultural Recognition",
       "link": "https://www.decodedmagazine.com/french-electronic-music-receives-cultural-recognition/",
@@ -318,6 +437,20 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/Jean-Michel-Jarre.png",
       "excerpt": "France has officially added electronic music to its national Inventory of Intangible Cultural Heritage, marking a decisive step toward a future UNESCO application. The announcement, reported by Le Figaro, highlights nearly a century of e…"
+    },
+    {
+      "id": "28269a3704fa185ab65bd9848720ee6052df1306",
+      "title": "Pulso",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/pulso/",
+      "published": "2025-12-22T09:57:29.000Z",
+      "publishedTs": 1766397449000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Coloso.jpg",
+      "excerpt": "Coloso publica “Pulso”, cinco canciones que, agrupadas, además de convertirse en epé, hacen también la función de presentación general. Es... La entrada Pulso se publicó primero en MondoSonoro ."
     },
     {
       "id": "140f3878fa9479d40a8b309674759346c7bdbcec",
