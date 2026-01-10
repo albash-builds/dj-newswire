@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-10T11:25:02.329Z",
-  "total": 101,
+  "generatedAt": "2026-01-10T11:35:36.752Z",
+  "total": 100,
   "sources": [
     {
       "id": "decoded",
@@ -15,25 +15,18 @@
     {
       "id": "mondosonoro",
       "name": "MondoSonoro",
-      "url": "https://www.mondosonoro.com/feed/"
+      "url": "https://www.mondosonoro.com/criticas/discos-musica/"
     }
   ],
-  "errors": [],
-  "items": [
+  "errors": [
     {
-      "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
-      "title": "Ambivalencia artificial",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jejeje-ambivalencia-artificial/",
-      "published": "2026-01-10T08:26:25.000Z",
-      "publishedTs": 1768033585000,
       "sourceId": "mondosonoro",
       "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jejeje-Ambivalencia-artificial.jpg",
-      "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
-    },
+      "url": "https://www.mondosonoro.com/criticas/discos-musica/",
+      "error": "Attribute without value\nLine: 37\nColumn: 148\nChar: >"
+    }
+  ],
+  "items": [
     {
       "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
       "title": "Om Records Celebrates 30 Years with New Compilation",
