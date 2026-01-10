@@ -7,8 +7,18 @@ const ROOT = process.cwd();
 const FEEDS_PATH = path.join(ROOT, "feeds.json");
 const OUT_PATH = path.join(ROOT, "output", "dj-news.json");
 
-// How many items to publish in the json (your page can show 12 and paginate).
+// Publish up to this many items in the json
 const MAX_ITEMS = 200;
+
+// Only scrape pages (og:image / published_time) for this many newest items
+// Keeps the workflow fast and avoids hammering sites.
+const ENRICH_LIMIT = 120;
+
+// Max concurrent page fetches for enrichment
+const ENRICH_CONCURRENCY = 4;
+
+// Per-page fetch timeout (ms)
+const FETCH_TIMEOUT = 9000;
 
 const parser = new Parser({
   customFields: {
@@ -41,11 +51,20 @@ function firstImageFromHtml(html = "") {
   return m?.[1] || "";
 }
 
+function decodeUrlEntities(u = "") {
+  // Feeds often html-escape query params (&amp; / &#038;)
+  return String(u)
+    .replace(/&amp;/g, "&")
+    .replace(/&#038;/g, "&")
+    .replace(/&#x26;/gi, "&");
+}
+
 function normalizeUrl(u = "") {
+  const cleaned = decodeUrlEntities((u || "").trim());
   try {
-    return new URL(u).toString();
+    return new URL(cleaned).toString();
   } catch {
-    return (u || "").trim();
+    return cleaned;
   }
 }
 
@@ -61,6 +80,14 @@ function pickCategories(item) {
     .map((c) => String(c || "").trim())
     .filter(Boolean)
     .slice(0, 12);
+}
+
+function isJunkImage(url = "") {
+  const u = String(url || "").toLowerCase();
+  // Common junk: wordpress emoji images showing up as “thumbnail”
+  if (u.includes("s.w.org/images/core/emoji")) return true;
+  // You can add more patterns here if you see other “fake thumbnails”
+  return false;
 }
 
 function pickImage(item) {
@@ -100,8 +127,111 @@ function pickExcerpt(item) {
   return text.length > 240 ? text.slice(0, 237) + "…" : text;
 }
 
+async function fetchText(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT);
+
+  try {
+    const res = await fetch(url, {
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (compatible; AlbashNewswireBot/1.0; +https://albash.es)",
+        "Accept":
+          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9"
+      }
+    });
+
+    if (!res.ok) throw new Error(`Fetch failed ${res.status} ${res.statusText}`);
+    return await res.text();
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+function extractMeta(html, key) {
+  // Matches: <meta property="og:image" content="...">
+  const re = new RegExp(
+    `<meta[^>]+(?:property|name)=["']${key}["'][^>]+content=["']([^"']+)["'][^>]*>`,
+    "i"
+  );
+  const m = String(html).match(re);
+  return m?.[1] || "";
+}
+
+function absolutizeMaybe(relativeOrAbs, pageUrl) {
+  const u = normalizeUrl(relativeOrAbs);
+  if (!u) return "";
+  try {
+    return new URL(u, pageUrl).toString();
+  } catch {
+    return u;
+  }
+}
+
+async function enrichOne(item) {
+  // Only enrich if we need something
+  const needsImage = !item.image || isJunkImage(item.image);
+  const needsDate = !item.publishedTs || item.publishedTs === 0;
+
+  if (!needsImage && !needsDate) return item;
+
+  try {
+    const html = await fetchText(item.link);
+
+    // Image enrichment
+    if (needsImage) {
+      const og =
+        extractMeta(html, "og:image") ||
+        extractMeta(html, "og:image:url") ||
+        extractMeta(html, "twitter:image") ||
+        extractMeta(html, "twitter:image:src");
+
+      const img = absolutizeMaybe(og, item.link);
+      if (img && !isJunkImage(img)) item.image = img;
+    }
+
+    // Date enrichment
+    if (needsDate) {
+      const ptime =
+        extractMeta(html, "article:published_time") ||
+        extractMeta(html, "og:updated_time") ||
+        extractMeta(html, "article:modified_time");
+
+      const ts = toTimestamp(ptime);
+      if (ts) {
+        item.published = ptime;
+        item.publishedTs = ts;
+      }
+    }
+  } catch {
+    // Silent fail: keep original item
+  }
+
+  return item;
+}
+
+async function asyncPool(limit, arr, fn) {
+  const ret = [];
+  const executing = [];
+
+  for (const item of arr) {
+    const p = Promise.resolve().then(() => fn(item));
+    ret.push(p);
+
+    if (limit <= arr.length) {
+      const e = p.then(() => executing.splice(executing.indexOf(e), 1));
+      executing.push(e);
+      if (executing.length >= limit) await Promise.race(executing);
+    }
+  }
+
+  return Promise.all(ret);
+}
+
 async function fetchXml(url) {
-  // Some feeds block “unknown” clients. These headers help.
   const res = await fetch(url, {
     redirect: "follow",
     headers: {
@@ -115,7 +245,11 @@ async function fetchXml(url) {
 
   if (!res.ok) {
     const body = await res.text().catch(() => "");
-    throw new Error(`Fetch failed ${res.status} ${res.statusText} for ${url}${body ? `: ${body.slice(0, 160)}` : ""}`);
+    throw new Error(
+      `Fetch failed ${res.status} ${res.statusText} for ${url}${
+        body ? `: ${body.slice(0, 160)}` : ""
+      }`
+    );
   }
 
   return res.text();
@@ -143,8 +277,10 @@ async function main() {
         const published = it.isoDate || it.pubDate || it.published || "";
         const publishedTs = toTimestamp(published);
 
+        let image = pickImage(it);
+        if (isJunkImage(image)) image = "";
+
         const categories = pickCategories(it);
-        const image = pickImage(it);
         const excerpt = pickExcerpt(it);
 
         items.push({
@@ -167,7 +303,6 @@ async function main() {
         url: feed.url,
         error: String(e?.message || e)
       });
-      console.error(`Error parsing ${feed.name}:`, e?.message || e);
     }
   }
 
@@ -177,9 +312,22 @@ async function main() {
     if (!byLink.has(it.link)) byLink.set(it.link, it);
   }
 
-  const merged = Array.from(byLink.values())
-    .sort((a, b) => (b.publishedTs || 0) - (a.publishedTs || 0))
-    .slice(0, MAX_ITEMS);
+  // Sort before enrichment so we enrich the newest items
+  let merged = Array.from(byLink.values()).sort(
+    (a, b) => (b.publishedTs || 0) - (a.publishedTs || 0)
+  );
+
+  const toEnrich = merged.slice(0, ENRICH_LIMIT);
+  const rest = merged.slice(ENRICH_LIMIT);
+
+  const enriched = await asyncPool(ENRICH_CONCURRENCY, toEnrich, enrichOne);
+
+  // Re-sort after enrichment (helps sources like Mixmag where feed date is missing)
+  merged = enriched.concat(rest).sort(
+    (a, b) => (b.publishedTs || 0) - (a.publishedTs || 0)
+  );
+
+  merged = merged.slice(0, MAX_ITEMS);
 
   const payload = {
     generatedAt: new Date().toISOString(),
@@ -191,15 +339,9 @@ async function main() {
 
   await fs.mkdir(path.dirname(OUT_PATH), { recursive: true });
   await fs.writeFile(OUT_PATH, JSON.stringify(payload, null, 2), "utf8");
-
-  console.log(`Wrote ${merged.length} items to ${OUT_PATH}`);
-  if (errors.length) {
-    console.log(`Completed with ${errors.length} source error(s). See payload.errors.`);
-  }
 }
 
 main().catch((e) => {
   console.error(e);
   process.exit(1);
 });
-
