@@ -283,6 +283,18 @@ async function main() {
         const categories = pickCategories(it);
         const excerpt = pickExcerpt(it);
 
+        // MondoSonoro: keep only "discos" items
+if (feed.id === "mondosonoro") {
+  const linkLc = link.toLowerCase();
+  const isDiscosPath =
+    linkLc.includes("/criticas/discos") || linkLc.includes("/criticas/discos-musica");
+
+  const hasDiscosCategory = categories.some(c => c.toLowerCase() === "discos");
+
+  if (!isDiscosPath && !hasDiscosCategory) continue;
+}
+
+
         items.push({
           id: sha1(`${feed.id}|${link}`),
           title,
