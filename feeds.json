@@ -1,1 +1,23 @@
+[
+  {
+    "id": "djtechtools",
+    "name": "DJ techtools",
+    "url": "https://djtechtools.com/feed"
+  },
+  {
+    "id": "decoded",
+    "name": "Decoded magazine",
+    "url": "https://www.decodedmagazine.com/feed/"
+  },
+  {
+    "id": "mixmag",
+    "name": "Mixmag",
+    "url": "https://mixmag.net/rss-category/news"
+  },
+  {
+    "id": "xlr8r",
+    "name": "Xlr8r",
+    "url": "https://xlr8r.com/feed"
+  }
+]
 
