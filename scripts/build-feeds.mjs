@@ -84,9 +84,9 @@ function pickCategories(item) {
 
 function isJunkImage(url = "") {
   const u = String(url || "").toLowerCase();
-  // Common junk: wordpress emoji images showing up as “thumbnail”
+  // Common junk: wordpress emoji images showing up as "thumbnail"
   if (u.includes("s.w.org/images/core/emoji")) return true;
-  // You can add more patterns here if you see other “fake thumbnails”
+  // You can add more patterns here if you see other "fake thumbnails"
   return false;
 }
 
@@ -258,13 +258,12 @@ async function fetchXml(url) {
 function sanitizeXml(xml) {
   // Fix common malformed entities in RSS feeds
   return xml
-    .replace(/&(?![a-zA-Z]+;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;')
-    .replace(/&([a-zA-Z]+)(?!=;)/g, '&amp;$1');
+    .replace(/&(?![a-zA-Z]+;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
 }
 
 async function parseFeedFromUrl(url) {
   const xml = await fetchXml(url);
-  const cleaned = sanitizeXml(xml);  // <- Add this
+  const cleaned = sanitizeXml(xml);
   return parser.parseString(cleaned);
 }
 
@@ -290,7 +289,6 @@ async function main() {
 
         const categories = pickCategories(it);
         const excerpt = pickExcerpt(it);
-
 
         items.push({
           id: sha1(`${feed.id}|${link}`),
