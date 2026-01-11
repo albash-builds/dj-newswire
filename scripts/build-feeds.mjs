@@ -255,9 +255,17 @@ async function fetchXml(url) {
   return res.text();
 }
 
+function sanitizeXml(xml) {
+  // Fix common malformed entities in RSS feeds
+  return xml
+    .replace(/&(?![a-zA-Z]+;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;')
+    .replace(/&([a-zA-Z]+)(?!=;)/g, '&amp;$1');
+}
+
 async function parseFeedFromUrl(url) {
   const xml = await fetchXml(url);
-  return parser.parseString(xml);
+  const cleaned = sanitizeXml(xml);  // <- Add this
+  return parser.parseString(cleaned);
 }
 
 async function main() {
