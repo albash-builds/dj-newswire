@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-11T16:24:53.951Z",
-  "total": 110,
+  "generatedAt": "2026-01-11T17:17:39.041Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
@@ -35,26 +42,6 @@
       "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
     },
     {
-      "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
-      "title": "Om Records Celebrates 30 Years with New Compilation",
-      "link": "https://www.decodedmagazine.com/om-records-celebrates-30-years-with-new-compilation/",
-      "published": "2026-01-09T22:24:07.000Z",
-      "publishedTs": 1767997447000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Groove Armada",
-        "House Music",
-        "Kenny Summit",
-        "Mark Farina",
-        "Om Records",
-        "San Francisco"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
-      "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
-    },
-    {
       "id": "ab0f688893df8e3b6c045679593623ac176b6a74",
       "title": "Reseñamos 'Secret Love' de Dry Cleaning, álbum editado hoy viernes",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dry-cleaning-secret-love/",
@@ -67,22 +54,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dry-Cleaning-Secret-Love.jpg",
       "excerpt": "Tras dos álbumes producidos por John Parish, el titular que acompaña a “Secret Love”, tercer largo de la banda londinense,... La entrada Reseñamos &#039;Secret Love&#039; de Dry Cleaning, álbum editado hoy viernes se publicó primero en M…"
-    },
-    {
-      "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
-      "title": "Introducing Mix of the Year Winner – Wittak",
-      "link": "https://www.decodedmagazine.com/introducing-mix-of-the-year-winner-wittak/",
-      "published": "2026-01-09T09:55:26.000Z",
-      "publishedTs": 1767952526000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Breaks &amp; DnB",
-        "Interviews",
-        "Mixes"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
     },
     {
       "id": "9fd0a6d49e948eb0dc2609618f8d81a5e5f4f3af",
@@ -99,50 +70,6 @@
       "excerpt": "No deja de ser llamativo (y, en cierto modo, meritorio), lo que a estas alturas del partido sucede con The... La entrada Selling A Vibe se publicó primero en MondoSonoro ."
     },
     {
-      "id": "2a23106dfc1b35059afba298aa52bd0c66eea1e6",
-      "title": "From DJs to Data Points: How We Traded Musical Expertise for Engagement Metrics",
-      "link": "https://www.decodedmagazine.com/from-djs-to-data-points-how-we-traded-musical-expertise-for-engagement-metrics/",
-      "published": "2026-01-09T07:29:44.000Z",
-      "publishedTs": 1767943784000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "AI",
-        "Algorythms",
-        "Humanity",
-        "Music Industry",
-        "music production",
-        "radio",
-        "record labels",
-        "Record Stores",
-        "Soul",
-        "Spotify"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/resized_image2-scaled.webp",
-      "excerpt": "Recently over the holidays, I took advantage of a Spotify deal, 2 months free back on an account I stopped paying for a year earlier, I had no need for it over the last year, but ease of use, no ads whilst kicking back with mates with my…"
-    },
-    {
-      "id": "63cb8699a2b12a6a9ff14edc748d4cda5f9b5f0a",
-      "title": "77 Unveils First Events of 2026",
-      "link": "https://www.decodedmagazine.com/77-unveils-first-events-of-2026/",
-      "published": "2026-01-09T06:23:03.000Z",
-      "publishedTs": 1767939783000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Dennis Ferrer",
-        "House Music",
-        "London",
-        "Techno",
-        "Zamna"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/%40bonmk1-Connor-Baker-04417.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
-    },
-    {
       "id": "8a08162a468a31435303800d6fe618b6fda04a39",
       "title": "Forever, I’ve Been Being Born",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jesse-sykes-forever-i-ve-been-being-born/",
@@ -155,197 +82,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jesse-sykes-Forever-I-ve-Been-Being-Born.jpg",
       "excerpt": "Lo reconozco, le había perdido la pista por completo a Jesse Sykes. Y, como yo, imagino que la mayoría de... La entrada Forever, I’ve Been Being Born se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f1642cb6672455ac5b564f6a8cec6fb758485eaf",
-      "title": "Throwback Thursday – Beastie Boys Licensed to Ill at 39: The Controversial Masterpiece That Made Rap Go Mainstream",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-beastie-boys-licensed-to-ill-at-39-the-controversial-masterpiece-that-made-rap-go-mainstream/",
-      "published": "2026-01-08T01:30:00.000Z",
-      "publishedTs": 1767835800000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Ad-Rock",
-        "Beastie Boys",
-        "Brooklyn",
-        "Def Jam Records",
-        "Hip Hop",
-        "Licensed to Ill",
-        "MCA",
-        "Mike D",
-        "NYC",
-        "Rap"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/April-10-Beastie-Boys-April-10-1987-10439204-essay.jpg?resize=810%2C494&ssl=1",
-      "excerpt": "Thirty nine years on from its release in November 1986, it still feels a bit surreal that three Jewish kids from New York managed to drop one of the most important albums in hip hop history. Licensed to Ill wasn&#8217;t just a commercial…"
-    },
-    {
-      "id": "08ea1555bf60ba136758deea2bc184bee2d728a8",
-      "title": "Passenger Presents: Body Language with Domenic Cappello (Subculture)",
-      "link": "https://www.decodedmagazine.com/passenger-presents-body-language-with-domenic-cappello-subculture/",
-      "published": "2026-01-07T08:34:28.000Z",
-      "publishedTs": 1767774868000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Glasgow",
-        "House Music",
-        "Passenger",
-        "Scotland",
-        "Sub Club",
-        "Subculture",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Domenic-Cappello.jpeg?resize=724%2C1024&ssl=1",
-      "excerpt": "From micro-club sessions to boutique festivals tucked away in the Scottish Highlands, Passenger has quietly built a reputation for throwing some of the UK’s most intimate and well-judged underground parties. This time they bring Sub Club…"
-    },
-    {
-      "id": "5ca23daf4a1653914fed1a700baec751ffef291b",
-      "title": "Someone Rebuilt MTV Before It Forgot What Music Was",
-      "link": "https://www.decodedmagazine.com/someone-rebuilt-mtv-before-it-forgot-what-music-was/",
-      "published": "2026-01-07T00:12:26.000Z",
-      "publishedTs": 1767744746000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "80s",
-        "MTV",
-        "Reality TV",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mtv.jpg",
-      "excerpt": "Somebody just built a time machine out of music videos and vintage commercials, and it might be the most honest thing on the internet right now. The site is called Want My MTV, and it does exactly one thing: streams 27,000 music videos, …"
-    },
-    {
-      "id": "e39af7356235712c2f98e87a6a86a7c246f5834a",
-      "title": "Mattias El Mansouri drops Disintegration EP",
-      "link": "https://www.decodedmagazine.com/mattias-el-mansouri-drops-disintegration-ep/",
-      "published": "2026-01-06T05:07:48.000Z",
-      "publishedTs": 1767676068000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Deep techno",
-        "Mattias El Mansouri",
-        "Stockholm",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a0299234061_10.jpg",
-      "excerpt": "Disintegration by Mattias El Mansouri A resident at Stockholm’s revered Under Bron/Trädgården, El Mansouri has found a home in one of Sweden’s most important incubators of electronic music talent. This residency has shaped him as an arti…"
-    },
-    {
-      "id": "d181e43a2735eee995353851cf88c99f8c2443e1",
-      "title": "The Economics Are Broken: How Touring DJ Fees Are Killing Clubs (And Why Residents Are The Answer)",
-      "link": "https://www.decodedmagazine.com/the-economics-are-broken-how-touring-dj-fees-are-killing-clubs-and-why-residents-are-the-answer/",
-      "published": "2026-01-06T04:44:08.000Z",
-      "publishedTs": 1767674648000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Bookers",
-        "Communities",
-        "DJ fees",
-        "Music Industry",
-        "Nightclubs",
-        "Residnet DJs",
-        "Touring Agents"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
-    },
-    {
-      "id": "5b9af9c745ca6b185b0ea8dbafed7c4e62e66e19",
-      "title": "Book of the Month – Techno is Boring by Daniel Avery",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-techno-is-boring-by-daniel-avery/",
-      "published": "2026-01-06T02:35:14.000Z",
-      "publishedTs": 1767666914000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Daniel Avery",
-        "Music Industry",
-        "photography",
-        "Techno",
-        "Velocity Press"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/9781913231767-939.jpg?resize=665%2C939&ssl=1",
-      "excerpt": "Long-time friends and collaborators, musician Daniel Avery, alongside photographer Keffer are proud to present Techno is Boring, a new book that collects a decade of work chronicling club culture in visceral form. Techno is Boring also i…"
-    },
-    {
-      "id": "63cc8709ae67075faff0efd6743baa41627e71a8",
-      "title": "Visions of Light cover New Order Blue Monday",
-      "link": "https://www.decodedmagazine.com/visions-of-light-cover-new-order-blue-monday/",
-      "published": "2026-01-06T02:27:29.000Z",
-      "publishedTs": 1767666449000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "New Order",
-        "Visions of Light"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/blue-monday.jpg",
-      "excerpt": "Blue Monday (Lunes Azul) by Visions-of-Light Visions of Light brings together Simon Sheldon, Muzka and Dan Dub Lounge, three artists united by a shared love of emotive, live-focused electronic music. Simon brings over 30 years of product…"
-    },
-    {
-      "id": "540a13f48f469ad8d56e66fb57083f371bf95691",
-      "title": "Half of Clubbers Think Phones Are Ruining the Dancefloor. We Asked the People Running the Clubs",
-      "link": "https://www.decodedmagazine.com/half-of-clubbers-think-phones-are-ruining-the-dancefloor-we-asked-the-people-running-the-clubs/",
-      "published": "2026-01-05T08:08:12.000Z",
-      "publishedTs": 1767600492000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "555",
-        "Clubbing",
-        "David Vincent",
-        "Kinki Malinki",
-        "Mobiel Phones",
-        "Nick Sheehy",
-        "O Beach Ibiza",
-        "Paul Crane",
-        "Pikes Ibiza",
-        "Sankeys Manchester"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/503684651_1265919435099158_8434001308026866087_n.jpg?resize=412%2C590&ssl=1",
-      "excerpt": "Look, we know. Another piece about phones ruining club culture. The think pieces have been written, the surveys conducted, the hot takes delivered. But here&#8217;s the thing: most of that conversation has been happening in the abstract,…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-01-01T10:10:05.000Z",
-      "publishedTs": 1767262205000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
     },
     {
       "id": "b4dd7c6fc71f40842bc3cdfe030d00d1bcea7d17",
@@ -418,27 +154,6 @@
       "excerpt": "Existe un acuerdo generalizado en la escena punk estatal sobre el tercer disco de La Banda Trapera del Río: lo... La entrada Mentemblanco (Reedición) se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
-      "title": "French Electronic Music Receives Cultural Recognition",
-      "link": "https://www.decodedmagazine.com/french-electronic-music-receives-cultural-recognition/",
-      "published": "2025-12-23T03:18:24.000Z",
-      "publishedTs": 1766459904000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Air",
-        "Cassius",
-        "Daft Punk",
-        "Electronic music",
-        "France",
-        "Jean-Michel Jarre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/Jean-Michel-Jarre.png",
-      "excerpt": "France has officially added electronic music to its national Inventory of Intangible Cultural Heritage, marking a decisive step toward a future UNESCO application. The announcement, reported by Le Figaro, highlights nearly a century of e…"
-    },
-    {
       "id": "28269a3704fa185ab65bd9848720ee6052df1306",
       "title": "Pulso",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/pulso/",
@@ -451,148 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Coloso.jpg",
       "excerpt": "Coloso publica “Pulso”, cinco canciones que, agrupadas, además de convertirse en epé, hacen también la función de presentación general. Es... La entrada Pulso se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "140f3878fa9479d40a8b309674759346c7bdbcec",
-      "title": "Merry Christmas from Decoded Magazine",
-      "link": "https://www.decodedmagazine.com/merry-christmas-from-decoded-magazine/",
-      "published": "2025-12-20T11:41:16.000Z",
-      "publishedTs": 1766230876000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Ben Cain",
-        "Ben Clifford",
-        "Chirstmas",
-        "Clive Henry",
-        "David Divehall",
-        "New Years Eve",
-        "Paul O'Connor",
-        "Siggy",
-        "Thank you"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/decodedmagazine-fb-headers.png",
-      "excerpt": "What a year it&#8217;s been. Seriously. We&#8217;ve all been absolutely flat out, and honestly, it&#8217;s been incredible to see how much Decoded has grown and evolved over the past twelve months. We celebrated our 12th birthday this ye…"
-    },
-    {
-      "id": "4334e1756711477f4b4dae8f31c3bde7dcdc0e61",
-      "title": "Jeff Mills’ 1995 Live at Liquid Room DJ Mix Arrives on Apple Music",
-      "link": "https://www.decodedmagazine.com/jeff-mills-1995-live-at-liquid-room-dj-mix-arrives-on-apple-music/",
-      "published": "2025-12-19T11:25:22.000Z",
-      "publishedTs": 1766143522000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Derrick May",
-        "DJ Funk",
-        "Jeff Mills",
-        "Joey Beltram",
-        "Luke Slater",
-        "Robert Armani",
-        "Surgeon",
-        "Techno",
-        "The Advent"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/AXCD060frontcover_3000.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "One of the most influential DJ mixes ever recorded, Jeff Mills’ Live at Liquid Room , is now available to stream exclusively on Apple Music, marking the first time the iconic mix has been accessible in full on a streaming service. Origin…"
-    },
-    {
-      "id": "c46624cbf582e618eb697333995f748e830b9e24",
-      "title": "The Unsung Heroes Behind the Velvet Rope",
-      "link": "https://www.decodedmagazine.com/the-unsung-heroes-behind-the-velvet-rope/",
-      "published": "2025-12-18T03:07:32.000Z",
-      "publishedTs": 1766027252000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "bars",
-        "Bouncers",
-        "Clubbing",
-        "Door Staff",
-        "Hosts",
-        "Music Industry",
-        "Nightclubs",
-        "Promoters",
-        "pubs"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/3c4703e7bd02bd02744766a6a33ea92d.1000x563x1.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "There&#8217;s a particular taxonomy of human behaviour that only reveals itself at 1am on a Saturday night, and the people who catalogue it aren&#8217;t anthropologists or sociologists. They&#8217;re the ones standing in the cold, counti…"
-    },
-    {
-      "id": "d95cb445e959550e71807a481a66f0984c950382",
-      "title": "Above & Beyond announce Group Therapy 700 (ABGT700) at The Gorge Amphitheatre",
-      "link": "https://www.decodedmagazine.com/above-beyond-announce-group-therapy-700-abgt700-at-the-gorge-amphitheatre/",
-      "published": "2025-12-17T12:39:29.000Z",
-      "publishedTs": 1765975169000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "North America and Canada",
-        "Above &amp; Beyond",
-        "deep house",
-        "Group Therapy",
-        "Melodic Techno",
-        "Progressive House",
-        "Washington"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/above-and-beyond.jpg",
-      "excerpt": "Above &amp; Beyond announce that their 700th episode of their globally celebrated radio show, Group Therapy (ABGT700), will take place at the Gorge Amphitheatre in Washington State across the weekend of September 11–13, 2026. This marks …"
-    },
-    {
-      "id": "9b0e63df5fbade49c3d37e9d08d28571f870b3a0",
-      "title": "Space Ibiza Returns for One-Off New Years Eve Show at London’s Eutopia Warehouse",
-      "link": "https://www.decodedmagazine.com/space-ibiza-returns-for-one-off-new-years-eve-show-at-londons-eutopia-warehouse/",
-      "published": "2025-12-17T12:31:48.000Z",
-      "publishedTs": 1765974708000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Booka Shade",
-        "Dense &amp; Pika",
-        "Fat Tony",
-        "Garage",
-        "House Music",
-        "James Zabeila",
-        "London",
-        "NYE",
-        "Space Ibiza",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/space-nye-london.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Space Ibiza will return to London on 31 December for a one-night New Year’s Eve event at Eutopia Warehouse, the new 4,000-capacity indoor-outdoor cultural complex in Barking. The event marks Space’s first London appearance in nearly thre…"
-    },
-    {
-      "id": "4489c077345752b239751957ed8a3557567292a0",
-      "title": "The Magnetic Legacy: How 90s Rave Tapes Became Underground Gold",
-      "link": "https://www.decodedmagazine.com/the-magnetic-legacy-how-90s-rave-tapes-became-underground-gold/",
-      "published": "2025-12-17T11:40:16.000Z",
-      "publishedTs": 1765971616000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "90s",
-        "Acid House",
-        "DJ SS",
-        "Dreamscape",
-        "Happy Hardcore",
-        "Helter Skelter",
-        "Jungle",
-        "Kinetic",
-        "raving",
-        "Seduction"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/10/s-l1200-2.jpg?resize=810%2C892&ssl=1",
-      "excerpt": "There&#8217;s something almost quaint about holding a rave tape pack now. These oversized blow-moulded plastic clamshells with their garish airbrushed covers, featuring cyborg ravers and futuristic dystopian landscapes courtesy of design…"
     },
     {
       "id": "c89f7ac4ea8d7a2ea46aa9cbc4a2cb824baddbeb",
