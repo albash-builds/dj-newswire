@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-12T14:25:54.069Z",
+  "generatedAt": "2026-01-12T15:26:29.170Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "35029925109206322f4802f9ff91dd23d3f01075",
+      "title": "Look Out Live!",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/johnny-marr-look-out-live/",
+      "published": "2026-01-12T15:25:50.000Z",
+      "publishedTs": 1768231550000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Johnny-Marr-Look-Out-Live.jpg",
+      "excerpt": "Sorprende un poco que el legendario guitarrista de The Smiths lance un nuevo directo una década después de otro artefacto... La entrada Look Out Live! se publicó primero en MondoSonoro ."
+    },
     {
       "id": "485c861b917d1022d28eea42856e9e0952bfeb69",
       "title": "PsychoWarrior: MG Ultra X",
@@ -479,20 +493,6 @@
       "excerpt": "Muchas veces hemos escuchado aquello de que el rock carece de relevo generacional, y otras tantas hemos visto aparecer nuevas... La entrada Masquerade se publicó primero en MondoSonoro ."
     },
     {
-      "id": "98045f4a836751f7e910674ed1138d503c9e8e01",
-      "title": "Mentemblanco (Reedición)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-banda-trapera-del-rio-mentemblanco/",
-      "published": "2025-12-23T05:17:44.000Z",
-      "publishedTs": 1766467064000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/La-Banda-Trapera-del-Rio-Mentemblanco-reedicion.jpg",
-      "excerpt": "Existe un acuerdo generalizado en la escena punk estatal sobre el tercer disco de La Banda Trapera del Río: lo... La entrada Mentemblanco (Reedición) se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
       "title": "French Electronic Music Receives Cultural Recognition",
       "link": "https://www.decodedmagazine.com/french-electronic-music-receives-cultural-recognition/",
@@ -584,6 +584,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/3c4703e7bd02bd02744766a6a33ea92d.1000x563x1.jpg?resize=810%2C456&ssl=1",
       "excerpt": "There&#8217;s a particular taxonomy of human behaviour that only reveals itself at 1am on a Saturday night, and the people who catalogue it aren&#8217;t anthropologists or sociologists. They&#8217;re the ones standing in the cold, counti…"
+    },
+    {
+      "id": "3186ea6bfa5238bfce93b91df3c9d214507895db",
+      "title": "Listen to a mix from DAYTIMERS' Provhat Rahman inspired by the birth of UK Bhangra",
+      "link": "https://mixmag.net/feature/daytimers-provhat-rahman-traces-the-origins-of-bradfords-bhangra-movement",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
+      "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
+    },
+    {
+      "id": "2b59a8fa49b2d6f5bd7e235806df75190736cca0",
+      "title": "69% of Gen Z use drugs \"daily or weekly\" to cope with work stress",
+      "link": "https://mixmag.net/read/69-of-gen-z-use-drugs-to-cope-with-work-stress-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gen0-z.png?width=660&fit=cover&s=lvyGHiSv3rFEZPdH5YNGq-GnPlnNXhla1n76vj_lgv0",
+      "excerpt": "In a survey of 1,000 US workers, 34% of respondents said they use drugs on the job Continue reading..."
     },
     {
       "id": "f788e445e2a4110f63cad5e40d4d5e08cef7df73",
@@ -1520,30 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/o2-arena-credit-daniel-reynaga.jpg?width=660&fit=cover&s=0FoKXz0zQSnRE6wQ1NKq3ClZyIsLqOdVHgLAgy4qVWw",
       "excerpt": "The London arena will make an initial “six-figure donation” to Music Venue Trust to launch the initiative Continue reading..."
-    },
-    {
-      "id": "12c6c70ddd14198c54f4f365cb3b6eceb8efa792",
-      "title": "The Top 25 DJs Who Defined The Year 2025",
-      "link": "https://mixmag.net/feature/top-25-djs-defined-of-the-year-2025-dance-music",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-Top-25-DJs-Who-Defined-The-Year-2025.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=NUTDHs6JTvQ1HnVNDKtqgw0GYscbNn3Zfnd9Jo_NTi4",
-      "excerpt": "As we hit the close of the first major chapter of the 21st century, these are the DJs who defined the year in dance music Continue reading..."
-    },
-    {
-      "id": "e27fd762de535cdee02ed1e45b5c5fb4b865aeed",
-      "title": "Comedy film centred around Berghain entry attempt is in the works",
-      "link": "https://mixmag.net/read/comedy-film-berghain-searchlight-disney-berlin-club-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berghain-credit-michael-mayer.jpg?width=660&fit=cover&s=KAp-her_rRVKcYC-zh0SGaTwsZb73c8Rf_NpWgrLqKA",
-      "excerpt": "The film is based on a podcast following two Americans as they journey to the notoriously exclusive club Continue reading..."
     }
   ]
 }
