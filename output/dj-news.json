@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-12T10:25:59.794Z",
+  "generatedAt": "2026-01-12T11:20:44.165Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "485c861b917d1022d28eea42856e9e0952bfeb69",
+      "title": "PsychoWarrior: MG Ultra X",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/machine-girl-psychowarrior-mg-ultra-x/",
+      "published": "2026-01-12T10:27:56.000Z",
+      "publishedTs": 1768213676000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Machine-Girl-PsychoWarrior-MG-Ultra-X.jpg",
+      "excerpt": "Con elementos pop, metal, rave, post-punk, cartoon music y drum’n’bass, la propuesta de Machine Girl se podría definir como un... La entrada PsychoWarrior: MG Ultra X se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
       "title": "Damian Lazarus Announces Day Zero Bali Lineup ft. Jamie Jones, Ame, Bonobo + more",
@@ -498,20 +512,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/Jean-Michel-Jarre.png",
       "excerpt": "France has officially added electronic music to its national Inventory of Intangible Cultural Heritage, marking a decisive step toward a future UNESCO application. The announcement, reported by Le Figaro, highlights nearly a century of e…"
-    },
-    {
-      "id": "28269a3704fa185ab65bd9848720ee6052df1306",
-      "title": "Pulso",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/pulso/",
-      "published": "2025-12-22T09:57:29.000Z",
-      "publishedTs": 1766397449000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Coloso.jpg",
-      "excerpt": "Coloso publica “Pulso”, cinco canciones que, agrupadas, además de convertirse en epé, hacen también la función de presentación general. Es... La entrada Pulso se publicó primero en MondoSonoro ."
     },
     {
       "id": "140f3878fa9479d40a8b309674759346c7bdbcec",
