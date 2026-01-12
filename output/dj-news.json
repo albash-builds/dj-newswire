@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-12T09:32:15.589Z",
+  "generatedAt": "2026-01-12T10:25:59.794Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
+      "title": "Damian Lazarus Announces Day Zero Bali Lineup ft. Jamie Jones, Ame, Bonobo + more",
+      "link": "https://www.decodedmagazine.com/damian-lazarus-announces-day-zero-bali-lineup-ft-jamie-jones-ame-bonobo-more/",
+      "published": "2026-01-12T09:51:57.000Z",
+      "publishedTs": 1768211517000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "World",
+        "Damian Lazarus",
+        "deep house",
+        "GWK Cultural Park",
+        "House Music",
+        "Indonesia",
+        "Tech House",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/DZT2025_0112_074259-6962_DRB.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Damian Lazarus’ Day Zero takes shape as Day Zero Bali reveals the artists that will guide its next sacred gathering. On April 17, 2026, sound, land, and spirit align in a rare convergence &#8211; a carefully curated assembly of global se…"
+    },
     {
       "id": "fb547c100fdb04087d00aada4b2f477fdc9adafb",
       "title": "Brickman drops Ixtlan",
@@ -562,27 +584,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/3c4703e7bd02bd02744766a6a33ea92d.1000x563x1.jpg?resize=810%2C456&ssl=1",
       "excerpt": "There&#8217;s a particular taxonomy of human behaviour that only reveals itself at 1am on a Saturday night, and the people who catalogue it aren&#8217;t anthropologists or sociologists. They&#8217;re the ones standing in the cold, counti…"
-    },
-    {
-      "id": "d95cb445e959550e71807a481a66f0984c950382",
-      "title": "Above & Beyond announce Group Therapy 700 (ABGT700) at The Gorge Amphitheatre",
-      "link": "https://www.decodedmagazine.com/above-beyond-announce-group-therapy-700-abgt700-at-the-gorge-amphitheatre/",
-      "published": "2025-12-17T12:39:29.000Z",
-      "publishedTs": 1765975169000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "North America and Canada",
-        "Above &amp; Beyond",
-        "deep house",
-        "Group Therapy",
-        "Melodic Techno",
-        "Progressive House",
-        "Washington"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/above-and-beyond.jpg",
-      "excerpt": "Above &amp; Beyond announce that their 700th episode of their globally celebrated radio show, Group Therapy (ABGT700), will take place at the Gorge Amphitheatre in Washington State across the weekend of September 11–13, 2026. This marks …"
     },
     {
       "id": "c89f7ac4ea8d7a2ea46aa9cbc4a2cb824baddbeb",
