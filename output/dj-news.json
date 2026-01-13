@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T09:28:28.554Z",
+  "generatedAt": "2026-01-13T10:24:24.022Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2a2cebf37904098120092ff8b780c0ace1bedf65",
+      "title": "Azul",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/moises-no-duerme-azul/",
+      "published": "2026-01-13T09:37:13.000Z",
+      "publishedTs": 1768297033000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/moises-no-duerme.jpg",
+      "excerpt": "“Azul” es el nuevo álbum publicado por el rapero navarro Moisés No Duerme, un trabajo que planea por una mullida... La entrada Azul se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ad9b322d157bcf2a84f6d324cb159ff35afae397",
       "title": "With Heaven On Top",
@@ -502,20 +516,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Juliana-Hatfield-Lightning-Might-Strike.jpg",
       "excerpt": "Resulta tan evidente que, en el caso de Juliana Hatfield, bien cabría dar de paso ese tópico irritante encargado de... La entrada Lightning Might Strike se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b99e61e60a07dc14e6164494811ddd312e399769",
-      "title": "Mañana y Siempre",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nadadora-manana-y-siempre/",
-      "published": "2025-12-29T07:55:33.000Z",
-      "publishedTs": 1766994933000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/nadadora_mananaysiempre.jpg",
-      "excerpt": "Quince años después, Nadadora vuelve con un disco que habla de reconstrucción y de una manera distinta de situarse en... La entrada Mañana y Siempre se publicó primero en MondoSonoro ."
     },
     {
       "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
