@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T14:25:37.592Z",
+  "generatedAt": "2026-01-13T15:25:43.212Z",
   "total": 110,
   "sources": [
     {
@@ -582,6 +582,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/decodedmagazine-fb-headers.png",
       "excerpt": "What a year it&#8217;s been. Seriously. We&#8217;ve all been absolutely flat out, and honestly, it&#8217;s been incredible to see how much Decoded has grown and evolved over the past twelve months. We celebrated our 12th birthday this ye…"
+    },
+    {
+      "id": "745740890c1a95bf08497a09370cb971235dcbed",
+      "title": "DJ Tennis and Demi Riquísimo appear in nightclub scene on latest season of Industry",
+      "link": "https://mixmag.net/read/dj-tennis-demi-riquisimo-appear-nightclub-scene-latest-season-industry-bbc-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/industry-nightclub.jpg?width=660&fit=cover&s=dYDE1ySbOVgSCq4MtBH9gtntVwJXVGF5syAzBqU0k6A",
+      "excerpt": "They can be seen together in the booth as New Order’s ‘True Faith’ plays Continue reading..."
     },
     {
       "id": "fb29a81a48d96a7ca6ff32b58de1abbd47fcef24",
@@ -1530,18 +1542,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Stone-techno-x.png?width=660&fit=cover&s=aQjYV_6lPkLQARGpIOXGp5AKDtjfH25o0JaF8Jf2EXk",
       "excerpt": "The techno-oriented three-dayer will return to the UNESCO World Heritage-protected former coal mine Zeche Zollverein in Essen, Germany, next July Continue reading..."
-    },
-    {
-      "id": "3d3bb7dc7b7e27518f5a372aedb38f9b634de70d",
-      "title": "The Top 25 Producers Who Defined The Year 2025",
-      "link": "https://mixmag.net/feature/the-top-25-producers-who-defined-the-year-2025-dance-music",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/EOY_PRODUCERS_WEB2.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=AmIzSuSuJJT7YmyDcjrQN_M28f6ZmIdXLtcmLhCVuY8",
-      "excerpt": "The artists who make the culture tick Continue reading..."
     }
   ]
 }
