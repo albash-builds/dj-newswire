@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T08:31:11.795Z",
+  "generatedAt": "2026-01-13T09:28:28.554Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ad9b322d157bcf2a84f6d324cb159ff35afae397",
+      "title": "With Heaven On Top",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/zach-bryan-with-heaven-on-top/",
+      "published": "2026-01-13T09:12:22.000Z",
+      "publishedTs": 1768295542000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/zach-bryan-With-Heaven-On-Top.jpg",
+      "excerpt": "Zach Bryan es un hombre feliz. Muy feliz. Por lo visto todo le viene a favor y se encuentra en... La entrada With Heaven On Top se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
       "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
@@ -502,20 +516,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/nadadora_mananaysiempre.jpg",
       "excerpt": "Quince años después, Nadadora vuelve con un disco que habla de reconstrucción y de una manera distinta de situarse en... La entrada Mañana y Siempre se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "75fc676f82d86d5f8ab0863fbba7a9a1fc620c8f",
-      "title": "Muturrez zerura",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bele-muturrez-zerura/",
-      "published": "2025-12-24T11:08:36.000Z",
-      "publishedTs": 1766574516000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Bele-muturrez.jpg",
-      "excerpt": "Bigarren lan luzea azaldu berri du Bele proiektuak, ‘Muturrez Zerura’ edota ‘M.Z.’. Musika beltzaren bueltan segitzen du Lide Hernandoren bakarkako... La entrada Muturrez zerura se publicó primero en MondoSonoro ."
     },
     {
       "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
