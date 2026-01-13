@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T11:20:33.202Z",
+  "generatedAt": "2026-01-13T12:47:10.707Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "07f4d6ec15c80dfe10d2302ff3d995f888c75a36",
+      "title": "David August announces forthcoming album ‘Hymns",
+      "link": "https://www.decodedmagazine.com/david-august-announces-forthcoming-album-hymns/",
+      "published": "2026-01-13T12:37:10.000Z",
+      "publishedTs": 1768307830000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "chill out",
+        "David August",
+        "deep house",
+        "Electronica",
+        "Germany",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
+      "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
+    },
     {
       "id": "2a2cebf37904098120092ff8b780c0ace1bedf65",
       "title": "Azul",
@@ -561,30 +582,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/decodedmagazine-fb-headers.png",
       "excerpt": "What a year it&#8217;s been. Seriously. We&#8217;ve all been absolutely flat out, and honestly, it&#8217;s been incredible to see how much Decoded has grown and evolved over the past twelve months. We celebrated our 12th birthday this ye…"
-    },
-    {
-      "id": "4334e1756711477f4b4dae8f31c3bde7dcdc0e61",
-      "title": "Jeff Mills’ 1995 Live at Liquid Room DJ Mix Arrives on Apple Music",
-      "link": "https://www.decodedmagazine.com/jeff-mills-1995-live-at-liquid-room-dj-mix-arrives-on-apple-music/",
-      "published": "2025-12-19T11:25:22.000Z",
-      "publishedTs": 1766143522000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Derrick May",
-        "DJ Funk",
-        "Jeff Mills",
-        "Joey Beltram",
-        "Luke Slater",
-        "Robert Armani",
-        "Surgeon",
-        "Techno",
-        "The Advent"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/AXCD060frontcover_3000.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "One of the most influential DJ mixes ever recorded, Jeff Mills’ Live at Liquid Room , is now available to stream exclusively on Apple Music, marking the first time the iconic mix has been accessible in full on a streaming service. Origin…"
     },
     {
       "id": "727780a21422c36b05a35087c96cee6dda261c67",
