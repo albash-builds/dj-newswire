@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T07:25:15.152Z",
+  "generatedAt": "2026-01-13T08:31:11.795Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
+      "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
+      "link": "https://www.decodedmagazine.com/skip-the-certificate-buy-more-records-the-case-against-dj-schools/",
+      "published": "2026-01-13T07:25:27.000Z",
+      "publishedTs": 1768289127000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "beatmatching",
+        "Courses",
+        "Digital DJ Tips",
+        "DJ City",
+        "DJ Classes",
+        "DJ schools",
+        "Music Academy",
+        "music production",
+        "Scratching",
+        "Youtube"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/595933632_1452432293448452_1254124789013007118_n.jpg",
+      "excerpt": "There&#8217;s a certain irony in the modern dance music landscape. We&#8217;ve got more resources, more technology, and more supposed shortcuts to DJ stardom than ever before, yet we&#8217;re somehow producing fewer truly distinctive voi…"
+    },
     {
       "id": "f4426c558b1d06abe05006c8409d2df1d2044f45",
       "title": "Conflict DLC",
@@ -560,30 +585,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/AXCD060frontcover_3000.jpg?resize=810%2C810&ssl=1",
       "excerpt": "One of the most influential DJ mixes ever recorded, Jeff Mills’ Live at Liquid Room , is now available to stream exclusively on Apple Music, marking the first time the iconic mix has been accessible in full on a streaming service. Origin…"
-    },
-    {
-      "id": "c46624cbf582e618eb697333995f748e830b9e24",
-      "title": "The Unsung Heroes Behind the Velvet Rope",
-      "link": "https://www.decodedmagazine.com/the-unsung-heroes-behind-the-velvet-rope/",
-      "published": "2025-12-18T03:07:32.000Z",
-      "publishedTs": 1766027252000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "bars",
-        "Bouncers",
-        "Clubbing",
-        "Door Staff",
-        "Hosts",
-        "Music Industry",
-        "Nightclubs",
-        "Promoters",
-        "pubs"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/12/3c4703e7bd02bd02744766a6a33ea92d.1000x563x1.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "There&#8217;s a particular taxonomy of human behaviour that only reveals itself at 1am on a Saturday night, and the people who catalogue it aren&#8217;t anthropologists or sociologists. They&#8217;re the ones standing in the cold, counti…"
     },
     {
       "id": "727780a21422c36b05a35087c96cee6dda261c67",
