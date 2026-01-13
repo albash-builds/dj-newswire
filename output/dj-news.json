@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-13T05:26:00.807Z",
+  "generatedAt": "2026-01-13T06:34:20.023Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f4426c558b1d06abe05006c8409d2df1d2044f45",
+      "title": "Conflict DLC",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/health-conflict-dlc/",
+      "published": "2026-01-13T05:33:50.000Z",
+      "publishedTs": 1768282430000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/health-conflict-dlc.jpg",
+      "excerpt": "Health llega al estertor de 2025 con una respuesta urgente al ruido que generó su anterior disco “RAT WARS” de... La entrada Conflict DLC se publicó primero en MondoSonoro ."
+    },
     {
       "id": "35029925109206322f4802f9ff91dd23d3f01075",
       "title": "Look Out Live!",
@@ -477,20 +491,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Bele-muturrez.jpg",
       "excerpt": "Bigarren lan luzea azaldu berri du Bele proiektuak, ‘Muturrez Zerura’ edota ‘M.Z.’. Musika beltzaren bueltan segitzen du Lide Hernandoren bakarkako... La entrada Muturrez zerura se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "149031f015e48c632dc04bd1de0d0a1b8f6d4e49",
-      "title": "Masquerade",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/thomas-raggi-masquerade/",
-      "published": "2025-12-23T06:58:42.000Z",
-      "publishedTs": 1766473122000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Thomas-Raggi-masquerade.jpg",
-      "excerpt": "Muchas veces hemos escuchado aquello de que el rock carece de relevo generacional, y otras tantas hemos visto aparecer nuevas... La entrada Masquerade se publicó primero en MondoSonoro ."
     },
     {
       "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
