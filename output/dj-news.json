@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T09:29:02.063Z",
+  "generatedAt": "2026-01-14T10:25:21.182Z",
   "total": 110,
   "sources": [
     {
@@ -96,6 +96,20 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
       "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
+    },
+    {
+      "id": "d54293358d5637753b6be38d3e74cb2d53715641",
+      "title": "Uno de esos días",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-jorge-uno-de-esos-dias/",
+      "published": "2026-01-13T09:55:05.000Z",
+      "publishedTs": 1768298105000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Chico-Jorge-Uno-de-esos-dias.jpg",
+      "excerpt": "Hay discos que suenan como una conversación pendiente con uno mismo. “Uno de esos días” (25), el debut de Chico... La entrada Uno de esos días se publicó primero en MondoSonoro ."
     },
     {
       "id": "2a2cebf37904098120092ff8b780c0ace1bedf65",
@@ -374,20 +388,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/%40bonmk1-Connor-Baker-04417.jpg?resize=810%2C540&ssl=1",
       "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
-    },
-    {
-      "id": "8a08162a468a31435303800d6fe618b6fda04a39",
-      "title": "Forever, I’ve Been Being Born",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jesse-sykes-forever-i-ve-been-being-born/",
-      "published": "2026-01-08T07:57:53.000Z",
-      "publishedTs": 1767859073000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jesse-sykes-Forever-I-ve-Been-Being-Born.jpg",
-      "excerpt": "Lo reconozco, le había perdido la pista por completo a Jesse Sykes. Y, como yo, imagino que la mayoría de... La entrada Forever, I’ve Been Being Born se publicó primero en MondoSonoro ."
     },
     {
       "id": "f1642cb6672455ac5b564f6a8cec6fb758485eaf",
