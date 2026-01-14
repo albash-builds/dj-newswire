@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T16:30:36.257Z",
+  "generatedAt": "2026-01-14T17:27:31.742Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
+    },
+    {
+      "id": "fbbd7897d0dca0bfcfab8abc4a46558ef499f1ad",
+      "title": "Plans unveiled for 4,000-capacity events venue in Milton Keynes",
+      "link": "https://mixmag.net/read/plans-unveiled-4000-capacity-music-venue-milton-keynes-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Milton-Keynes.png?width=660&fit=cover&s=G6P38nkFSAKSMvDVPrXW5AsrcpwcCTvH_5lO6mNFHDY",
+      "excerpt": "Set to host &quot;larger-scale music performances and live experiences&quot;, the new venue could be completed by 2029 Continue reading..."
     },
     {
       "id": "0c03ab62a7dda04a3ada0b8483265b7f964d4572",
@@ -1527,18 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hercules.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=b1HBV4svNSagbNQJcyqu4Fnq-6PgFDO9pHqzcomC-lY",
       "excerpt": "Hercules&#039; ultimate portable DJ mixer has a whole host of features to help kick off those dreams of DJ stardom this Christmas Continue reading..."
-    },
-    {
-      "id": "83875ed66b15cd2cb6e65d61ad5b6673fed99dd0",
-      "title": "New York nightclub Paragon to host inauguration party for new mayor Zohran Mamdani",
-      "link": "https://mixmag.net/read/new-york-nightclub-paragon-host-inauguration-party-mayor-zohran-mamdani-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/zohran-mamdani-credit-Kara-McCurdy.jpg?width=660&fit=cover&s=W0CuYh7cXfRhoyxNbDcYcffn6YB5VPZn0VJ2XsOFzUM",
-      "excerpt": "The event will go ahead on New Year’s Day featuring a bill of Brooklyn DJs Continue reading..."
     }
   ]
 }
