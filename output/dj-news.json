@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T05:24:24.501Z",
+  "generatedAt": "2026-01-14T06:34:23.107Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
+      "title": "Three-day experiential program merging Art and Electronic Music to close San Francisco Art Week",
+      "link": "https://www.decodedmagazine.com/three-day-experiential-program-merging-art-and-electronic-music-to-close-san-francisco-art-week/",
+      "published": "2026-01-14T06:31:53.000Z",
+      "publishedTs": 1768372313000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Art",
+        "California",
+        "Electronica",
+        "House Music",
+        "Pier 29",
+        "San Francisco Art Week",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/sfartweek.webp",
+      "excerpt": "Bay Area nonprofit Endzeit announces California: a shifting identity , a landmark three-day program exploring shifting sociocultural landscapes through contemporary art and live electronic music. Taking place January 23–25, 2026, at the …"
+    },
+    {
+      "id": "3ac31e600616431d3622c88560c9ea3e10e9bc83",
+      "title": "Mobilee presents Part Two of the 20 year anniversary compilation",
+      "link": "https://www.decodedmagazine.com/mobilee-presents-part-two-of-the-20-year-anniversary-compilation/",
+      "published": "2026-01-14T06:17:34.000Z",
+      "publishedTs": 1768371454000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Anja Schneider",
+        "House Music",
+        "Mobilee",
+        "Progressive House",
+        "Ralf Kollmann",
+        "Rodriguez Jr",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mobilee.jpg",
+      "excerpt": "Mobilee presents Part Two of the 20 year anniversary compilation, a release that shines a light on the label’s evolution throughout the last decade. While Part One revisited the foundations and early milestones of mobilee, this second in…"
+    },
     {
       "id": "07f4d6ec15c80dfe10d2302ff3d995f888c75a36",
       "title": "David August announces forthcoming album ‘Hymns",
@@ -537,51 +579,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Juliana-Hatfield-Lightning-Might-Strike.jpg",
       "excerpt": "Resulta tan evidente que, en el caso de Juliana Hatfield, bien cabría dar de paso ese tópico irritante encargado de... La entrada Lightning Might Strike se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4745dc50bdf57da7ce4076dd520d0a9e6bfa6811",
-      "title": "French Electronic Music Receives Cultural Recognition",
-      "link": "https://www.decodedmagazine.com/french-electronic-music-receives-cultural-recognition/",
-      "published": "2025-12-23T03:18:24.000Z",
-      "publishedTs": 1766459904000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Air",
-        "Cassius",
-        "Daft Punk",
-        "Electronic music",
-        "France",
-        "Jean-Michel Jarre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/Jean-Michel-Jarre.png",
-      "excerpt": "France has officially added electronic music to its national Inventory of Intangible Cultural Heritage, marking a decisive step toward a future UNESCO application. The announcement, reported by Le Figaro, highlights nearly a century of e…"
-    },
-    {
-      "id": "140f3878fa9479d40a8b309674759346c7bdbcec",
-      "title": "Merry Christmas from Decoded Magazine",
-      "link": "https://www.decodedmagazine.com/merry-christmas-from-decoded-magazine/",
-      "published": "2025-12-20T11:41:16.000Z",
-      "publishedTs": 1766230876000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Ben Cain",
-        "Ben Clifford",
-        "Chirstmas",
-        "Clive Henry",
-        "David Divehall",
-        "New Years Eve",
-        "Paul O'Connor",
-        "Siggy",
-        "Thank you"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/decodedmagazine-fb-headers.png",
-      "excerpt": "What a year it&#8217;s been. Seriously. We&#8217;ve all been absolutely flat out, and honestly, it&#8217;s been incredible to see how much Decoded has grown and evolved over the past twelve months. We celebrated our 12th birthday this ye…"
     },
     {
       "id": "558040fef170653492f90f918b9fbcfaa46267ce",
