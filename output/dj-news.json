@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T07:25:36.982Z",
+  "generatedAt": "2026-01-14T08:30:59.915Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "113fdc3b0e60aa26a27619a4a10bca8225c39aa6",
+      "title": "The Downward Spiral (Redux)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-downward-spiral-redux/",
+      "published": "2026-01-14T08:25:34.000Z",
+      "publishedTs": 1768379134000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Downward-Spiral-Redux.jpg",
+      "excerpt": "La zaga de los Redux del sello neoyorquino Magnetic Eye Records vuelve a demostrar que tiene una curaduría de gran... La entrada The Downward Spiral (Redux) se publicó primero en MondoSonoro ."
+    },
     {
       "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
       "title": "Three-day experiential program merging Art and Electronic Music to close San Francisco Art Week",
@@ -565,20 +579,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
-    },
-    {
-      "id": "b4dd7c6fc71f40842bc3cdfe030d00d1bcea7d17",
-      "title": "Lightning Might Strike",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/juliana-hatfield-lightning-might-strike/",
-      "published": "2025-12-30T10:09:48.000Z",
-      "publishedTs": 1767089388000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2025/12/Juliana-Hatfield-Lightning-Might-Strike.jpg",
-      "excerpt": "Resulta tan evidente que, en el caso de Juliana Hatfield, bien cabría dar de paso ese tópico irritante encargado de... La entrada Lightning Might Strike se publicó primero en MondoSonoro ."
     },
     {
       "id": "558040fef170653492f90f918b9fbcfaa46267ce",
