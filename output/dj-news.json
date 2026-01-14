@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T14:25:43.687Z",
+  "generatedAt": "2026-01-14T15:26:45.107Z",
   "total": 110,
   "sources": [
     {
@@ -591,6 +591,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bandcampx.png?width=660&fit=cover&s=Fx2-kgIkxHP37LTewNLRclrmGKGrpr1Ayc-e8mmfreQ",
       "excerpt": "Any music found to have been generated &quot;wholly or in a substantial part&quot; by AI tools will no longer be permitted on the music distribution platform Continue reading..."
+    },
+    {
+      "id": "30fc5055b8873f673ad988277a841041f9ca8e07",
+      "title": "Lawsuit challenging Ticketmaster's fee practices given green light by Quebec court",
+      "link": "https://mixmag.net/read/class-action-lawsuit-against-ticketmaster-cleared-proceed-quebec-court-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mid-week-club-nights.png?width=660&fit=cover&s=IqgYMW4gcU7PysDA5JKX-ZiExqrMgDYnyl0NSVmnqJA",
+      "excerpt": "The complaint argues that the ticketing platform&#039;s pricing model is “excessive and unreasonable” Continue reading..."
     },
     {
       "id": "fe10729770ecad0d94e5badf3cf3d464edddc9e5",
@@ -1527,18 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/zohran-mamdani-credit-Kara-McCurdy.jpg?width=660&fit=cover&s=W0CuYh7cXfRhoyxNbDcYcffn6YB5VPZn0VJ2XsOFzUM",
       "excerpt": "The event will go ahead on New Year’s Day featuring a bill of Brooklyn DJs Continue reading..."
-    },
-    {
-      "id": "a5ed9d13866a87cf06c1ab6aea5558760c2d68e8",
-      "title": "A breakthrough treatment for tinnitus could finally be on the way",
-      "link": "https://mixmag.net/read/breakthrough-treatment-tinnitus-finally-on-the-way-research-newcastle-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tinnitus-treatment-research.jpg?width=660&fit=cover&s=zUH6xzPlGvoJxRpu6rBBdmR7RoaDOWyyCrH8YjxM-Kk",
-      "excerpt": "Researchers believe they may have found a remedy to alleviate symptoms of the condition, which is thought to impact around seven million people in the UK Continue reading..."
     }
   ]
 }
