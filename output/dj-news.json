@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T10:25:21.182Z",
+  "generatedAt": "2026-01-14T11:21:35.570Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8d929f3c031041df7c164a9f93310168985a9edc",
+      "title": "R is for Rocket",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/rocket-r-is-for-rocket/",
+      "published": "2026-01-14T10:35:43.000Z",
+      "publishedTs": 1768386943000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Rocket-R-is-for-Rocket.jpg",
+      "excerpt": "La sensación escuchando \"R is for Rocket\" es un poco como cuando entrabas demasiado pronto al A Saco y el... La entrada R is for Rocket se publicó primero en MondoSonoro ."
+    },
     {
       "id": "113fdc3b0e60aa26a27619a4a10bca8225c39aa6",
       "title": "The Downward Spiral (Redux)",
@@ -330,20 +344,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
       "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
-    },
-    {
-      "id": "9fd0a6d49e948eb0dc2609618f8d81a5e5f4f3af",
-      "title": "Selling A Vibe",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-cribs-selling-a-vibe/",
-      "published": "2026-01-09T08:32:30.000Z",
-      "publishedTs": 1767947550000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Cribs-Selling-A-Vibe.jpg",
-      "excerpt": "No deja de ser llamativo (y, en cierto modo, meritorio), lo que a estas alturas del partido sucede con The... La entrada Selling A Vibe se publicó primero en MondoSonoro ."
     },
     {
       "id": "2a23106dfc1b35059afba298aa52bd0c66eea1e6",
