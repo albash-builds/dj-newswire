@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-14T12:45:42.533Z",
+  "generatedAt": "2026-01-14T13:40:21.967Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
+    },
+    {
+      "id": "0c03ab62a7dda04a3ada0b8483265b7f964d4572",
+      "title": "Bandcamp has banned AI-generated music",
+      "link": "https://mixmag.net/read/bandcamp-has-banned-ai-generated-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bandcampx.png?width=660&fit=cover&s=Fx2-kgIkxHP37LTewNLRclrmGKGrpr1Ayc-e8mmfreQ",
+      "excerpt": "Any music found to have been generated &quot;wholly or in a substantial part&quot; by AI tools will no longer be permitted on the music distribution platfrom Continue reading..."
     },
     {
       "id": "fe10729770ecad0d94e5badf3cf3d464edddc9e5",
@@ -1527,18 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tinnitus-treatment-research.jpg?width=660&fit=cover&s=zUH6xzPlGvoJxRpu6rBBdmR7RoaDOWyyCrH8YjxM-Kk",
       "excerpt": "Researchers believe they may have found a remedy to alleviate symptoms of the condition, which is thought to impact around seven million people in the UK Continue reading..."
-    },
-    {
-      "id": "e9855c771e6a0b83dee18c0f3e1ec15f7de30acc",
-      "title": "London-based DJ and label founder Miguel Estevez convicted of sexual assault",
-      "link": "https://mixmag.net/read/london-based-dj-label-head-miguel-estevez-convicted-sexual-assault-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Miguel-2.png?width=660&fit=cover&s=xIkxTA7i4YU4rjKqwqqQAGwYrTX1nwgPUKPCy6KgaI4",
-      "excerpt": "Estevez has held various roles in London&#039;s dance music industry and was sentenced this month for an incident in 2019 Continue reading..."
     }
   ]
 }
