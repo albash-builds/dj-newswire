@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T08:31:22.261Z",
+  "generatedAt": "2026-01-15T09:28:04.629Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a293b9598d2b717c6466348d500e8109ba0af83e",
+      "title": "Ferrum Sidereum",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/zu-ferrum-sidereum/",
+      "published": "2026-01-15T09:09:55.000Z",
+      "publishedTs": 1768468195000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Zu-Ferrum-Sidereum.jpg",
+      "excerpt": "El nombre del nuevo disco del trío romano Zu, tiene total correlación con la entereza de su carrera. “Ferrum Sidereum”... La entrada Ferrum Sidereum se publicó primero en MondoSonoro ."
+    },
     {
       "id": "65609a9dfc0702095f1b2afad1b78ed7a0b51185",
       "title": "Bandcamp takes a stand against AI-generated content",
@@ -355,20 +369,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
-    },
-    {
-      "id": "ab0f688893df8e3b6c045679593623ac176b6a74",
-      "title": "Secret Love",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dry-cleaning-secret-love/",
-      "published": "2026-01-09T10:21:27.000Z",
-      "publishedTs": 1767954087000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dry-Cleaning-Secret-Love.jpg",
-      "excerpt": "Tras dos álbumes producidos por John Parish, el titular que acompaña a “Secret Love”, tercer largo de la banda londinense,... La entrada Secret Love se publicó primero en MondoSonoro ."
     },
     {
       "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
