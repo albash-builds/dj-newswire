@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T03:41:02.840Z",
+  "generatedAt": "2026-01-15T04:40:36.989Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "65609a9dfc0702095f1b2afad1b78ed7a0b51185",
+      "title": "Bandcamp takes a stand against AI-generated content",
+      "link": "https://www.decodedmagazine.com/bandcamp-takes-a-stand-against-ai-generated-content/",
+      "published": "2026-01-15T04:07:19.000Z",
+      "publishedTs": 1768450039000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "AI",
+        "artists",
+        "Bandcamp",
+        "Music distribution",
+        "Streaming"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/bandcamp-decoded.png",
+      "excerpt": "Bandcamp has drawn a line in the sand. In an announcement posted to their blog on 13th January , the platform declared that music generated wholly or substantially by AI will no longer be permitted on their service. It&#8217;s a policy t…"
+    },
     {
       "id": "f82956c298c07e877324b5e87a08870c7c071b10",
       "title": "Throwback Thursday – How Surrender Cemented the Chemical Brothers as All Time Greats",
@@ -552,31 +571,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/blue-monday.jpg",
       "excerpt": "Blue Monday (Lunes Azul) by Visions-of-Light Visions of Light brings together Simon Sheldon, Muzka and Dan Dub Lounge, three artists united by a shared love of emotive, live-focused electronic music. Simon brings over 30 years of product…"
-    },
-    {
-      "id": "540a13f48f469ad8d56e66fb57083f371bf95691",
-      "title": "Half of Clubbers Think Phones Are Ruining the Dancefloor. We Asked the People Running the Clubs",
-      "link": "https://www.decodedmagazine.com/half-of-clubbers-think-phones-are-ruining-the-dancefloor-we-asked-the-people-running-the-clubs/",
-      "published": "2026-01-05T08:08:12.000Z",
-      "publishedTs": 1767600492000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "555",
-        "Clubbing",
-        "David Vincent",
-        "Kinki Malinki",
-        "Mobiel Phones",
-        "Nick Sheehy",
-        "O Beach Ibiza",
-        "Paul Crane",
-        "Pikes Ibiza",
-        "Sankeys Manchester"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/503684651_1265919435099158_8434001308026866087_n.jpg?resize=412%2C590&ssl=1",
-      "excerpt": "Look, we know. Another piece about phones ruining club culture. The think pieces have been written, the surveys conducted, the hot takes delivered. But here&#8217;s the thing: most of that conversation has been happening in the abstract,…"
     },
     {
       "id": "fbbd7897d0dca0bfcfab8abc4a46558ef499f1ad",
