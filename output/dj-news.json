@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T12:45:11.768Z",
+  "generatedAt": "2026-01-15T13:39:59.124Z",
   "total": 110,
   "sources": [
     {
@@ -571,6 +571,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/blue-monday.jpg",
       "excerpt": "Blue Monday (Lunes Azul) by Visions-of-Light Visions of Light brings together Simon Sheldon, Muzka and Dan Dub Lounge, three artists united by a shared love of emotive, live-focused electronic music. Simon brings over 30 years of product…"
+    },
+    {
+      "id": "af905f404ffcbad0b8c6de5d2b37adaa7d383c6b",
+      "title": "A never-before-heard Tupac recording is going up for auction",
+      "link": "https://mixmag.net/read/never-before-heard-tupac-recording-auction-wax-poetics-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tupac.jpg?width=660&fit=cover&s=vj8YdpjvUHi9vrPNndVjEPKOioScUV63-DvmCMbB1Is",
+      "excerpt": "Thought to be taped between 1987 - 1988, it’s the “earliest known” recording from the late rapper Continue reading..."
+    },
+    {
+      "id": "3ec3bbe3d0986e5955ff08d0f295454febdabd72",
+      "title": "PinkPantheress, Skepta, and Jim Legxacy among 2026 MOBO Awards nominees",
+      "link": "https://mixmag.net/read/2026-mobo-awards-nominees-pinkpantheress-skepta-jim-legxacy-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PinkPantheress-a.jpg?width=660&fit=cover&s=fJHSjBLm02FL6026ktSqPH8JmOFrvcuM3MOaZJjf2ME",
+      "excerpt": "This year&#039;s ceremony will take place at Manchester&#039;s Co-op Live on March 26 Continue reading..."
     },
     {
       "id": "fbbd7897d0dca0bfcfab8abc4a46558ef499f1ad",
@@ -1507,30 +1531,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rowans.png?width=660&fit=cover&s=_n5i_Jp_Q34Kqf6HwZPCvdVgCLA4XRPkmhp8Ksg1VIg",
       "excerpt": "Haringey Council is reportedly reviewing plans to develop the Finsbury Park-based bowling alley and late-night bar into 190 flats Continue reading..."
-    },
-    {
-      "id": "55db4d8bb4a5c7de8460b5f651c1f31d0d67bbdc",
-      "title": "Mixmag's guide to the best Christmas gifts you can buy in 2025",
-      "link": "https://mixmag.net/feature/mixmags-2025-gift-guide",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gift-Guide-2025_LEAD2.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=7aZCtpatCYOCQCOhm4EgV590vx4tiY5UzVHAeaftP1o",
-      "excerpt": "From headphones to dog bowls, here are more than 30 gift ideas for your friends, family, and fellow ravers this holiday season Continue reading..."
-    },
-    {
-      "id": "ebdfb9d39814e51e3553dd0e69c330fd07c60fce",
-      "title": "5 key features on the DJControl Mix Ultra that will you get started with DJing",
-      "link": "https://mixmag.net/feature/5-key-features-on-the-djcontrol-mix-ultra-that-will-you-get-started-with-djing",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hercules.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=b1HBV4svNSagbNQJcyqu4Fnq-6PgFDO9pHqzcomC-lY",
-      "excerpt": "Hercules&#039; ultimate portable DJ mixer has a whole host of features to help kick off those dreams of DJ stardom this Christmas Continue reading..."
     }
   ]
 }
