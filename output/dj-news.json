@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-15T01:43:41.095Z",
+  "generatedAt": "2026-01-15T03:41:02.840Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f82956c298c07e877324b5e87a08870c7c071b10",
+      "title": "Throwback Thursday – How Surrender Cemented the Chemical Brothers as All Time Greats",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-how-surrender-cemented-the-chemical-brothers-as-all-time-greats/",
+      "published": "2026-01-15T03:33:07.000Z",
+      "publishedTs": 1768447987000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "Big Beat",
+        "Brit Award",
+        "Electronica",
+        "Indie",
+        "Noel Gallagher",
+        "Surrender",
+        "The Chemical Brothers"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Chemical-Brothers-Tom-Rowlands-1997-scaled.webp",
+      "excerpt": "There&#8217;s something instructive about the cover of Surrender. A solitary figure, arms aloft in total euphoria, captured at the 1976 Olympia Music Festival. Richard Young&#8217;s photograph, saturated in vibrant colour, presents a kin…"
+    },
     {
       "id": "8d929f3c031041df7c164a9f93310168985a9edc",
       "title": "R is for Rocket",
@@ -555,30 +577,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/503684651_1265919435099158_8434001308026866087_n.jpg?resize=412%2C590&ssl=1",
       "excerpt": "Look, we know. Another piece about phones ruining club culture. The think pieces have been written, the surveys conducted, the hot takes delivered. But here&#8217;s the thing: most of that conversation has been happening in the abstract,…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-01-01T10:10:05.000Z",
-      "publishedTs": 1767262205000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 JANUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enli…"
     },
     {
       "id": "fbbd7897d0dca0bfcfab8abc4a46558ef499f1ad",
