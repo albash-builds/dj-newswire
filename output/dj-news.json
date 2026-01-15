@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-15T16:35:34.109Z",
-  "total": 110,
+  "generatedAt": "2026-01-15T17:32:09.097Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "a293b9598d2b717c6466348d500e8109ba0af83e",
@@ -33,47 +40,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Zu-Ferrum-Sidereum.jpg",
       "excerpt": "El nombre del nuevo disco del trío romano Zu, tiene total correlación con la entereza de su carrera. “Ferrum Sidereum”... La entrada Ferrum Sidereum se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "65609a9dfc0702095f1b2afad1b78ed7a0b51185",
-      "title": "Bandcamp takes a stand against AI-generated content",
-      "link": "https://www.decodedmagazine.com/bandcamp-takes-a-stand-against-ai-generated-content/",
-      "published": "2026-01-15T04:07:19.000Z",
-      "publishedTs": 1768450039000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "AI",
-        "artists",
-        "Bandcamp",
-        "Music distribution",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/bandcamp-decoded.png",
-      "excerpt": "Bandcamp has drawn a line in the sand. In an announcement posted to their blog on 13th January , the platform declared that music generated wholly or substantially by AI will no longer be permitted on their service. It&#8217;s a policy t…"
-    },
-    {
-      "id": "f82956c298c07e877324b5e87a08870c7c071b10",
-      "title": "Throwback Thursday – How Surrender Cemented the Chemical Brothers as All Time Greats",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-how-surrender-cemented-the-chemical-brothers-as-all-time-greats/",
-      "published": "2026-01-15T03:33:07.000Z",
-      "publishedTs": 1768447987000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Big Beat",
-        "Brit Award",
-        "Electronica",
-        "Indie",
-        "Noel Gallagher",
-        "Surrender",
-        "The Chemical Brothers"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Chemical-Brothers-Tom-Rowlands-1997-scaled.webp",
-      "excerpt": "There&#8217;s something instructive about the cover of Surrender. A solitary figure, arms aloft in total euphoria, captured at the 1976 Olympia Music Festival. Richard Young&#8217;s photograph, saturated in vibrant colour, presents a kin…"
     },
     {
       "id": "8d929f3c031041df7c164a9f93310168985a9edc",
@@ -102,69 +68,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Downward-Spiral-Redux.jpg",
       "excerpt": "La zaga de los Redux del sello neoyorquino Magnetic Eye Records vuelve a demostrar que tiene una curaduría de gran... La entrada The Downward Spiral (Redux) se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
-      "title": "Three-day experiential program merging Art and Electronic Music to close San Francisco Art Week",
-      "link": "https://www.decodedmagazine.com/three-day-experiential-program-merging-art-and-electronic-music-to-close-san-francisco-art-week/",
-      "published": "2026-01-14T06:31:53.000Z",
-      "publishedTs": 1768372313000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Art",
-        "California",
-        "Electronica",
-        "House Music",
-        "Pier 29",
-        "San Francisco Art Week",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/sfartweek.webp",
-      "excerpt": "Bay Area nonprofit Endzeit announces California: a shifting identity , a landmark three-day program exploring shifting sociocultural landscapes through contemporary art and live electronic music. Taking place January 23–25, 2026, at the …"
-    },
-    {
-      "id": "3ac31e600616431d3622c88560c9ea3e10e9bc83",
-      "title": "Mobilee presents Part Two of the 20 year anniversary compilation",
-      "link": "https://www.decodedmagazine.com/mobilee-presents-part-two-of-the-20-year-anniversary-compilation/",
-      "published": "2026-01-14T06:17:34.000Z",
-      "publishedTs": 1768371454000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Anja Schneider",
-        "House Music",
-        "Mobilee",
-        "Progressive House",
-        "Ralf Kollmann",
-        "Rodriguez Jr",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mobilee.jpg",
-      "excerpt": "Mobilee presents Part Two of the 20 year anniversary compilation, a release that shines a light on the label’s evolution throughout the last decade. While Part One revisited the foundations and early milestones of mobilee, this second in…"
-    },
-    {
-      "id": "07f4d6ec15c80dfe10d2302ff3d995f888c75a36",
-      "title": "David August announces forthcoming album ‘Hymns",
-      "link": "https://www.decodedmagazine.com/david-august-announces-forthcoming-album-hymns/",
-      "published": "2026-01-13T12:37:10.000Z",
-      "publishedTs": 1768307830000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "David August",
-        "deep house",
-        "Electronica",
-        "Germany",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
-      "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
     },
     {
       "id": "d54293358d5637753b6be38d3e74cb2d53715641",
@@ -209,31 +112,6 @@
       "excerpt": "Zach Bryan es un hombre feliz. Muy feliz. Por lo visto todo le viene a favor y se encuentra en... La entrada With Heaven On Top se publicó primero en MondoSonoro ."
     },
     {
-      "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
-      "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
-      "link": "https://www.decodedmagazine.com/skip-the-certificate-buy-more-records-the-case-against-dj-schools/",
-      "published": "2026-01-13T07:25:27.000Z",
-      "publishedTs": 1768289127000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "beatmatching",
-        "Courses",
-        "Digital DJ Tips",
-        "DJ City",
-        "DJ Classes",
-        "DJ schools",
-        "Music Academy",
-        "music production",
-        "Scratching",
-        "Youtube"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/595933632_1452432293448452_1254124789013007118_n.jpg",
-      "excerpt": "There&#8217;s a certain irony in the modern dance music landscape. We&#8217;ve got more resources, more technology, and more supposed shortcuts to DJ stardom than ever before, yet we&#8217;re somehow producing fewer truly distinctive voi…"
-    },
-    {
       "id": "f4426c558b1d06abe05006c8409d2df1d2044f45",
       "title": "Conflict DLC",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/health-conflict-dlc/",
@@ -276,67 +154,6 @@
       "excerpt": "Con elementos pop, metal, rave, post-punk, cartoon music y drum’n’bass, la propuesta de Machine Girl se podría definir como un... La entrada PsychoWarrior: MG Ultra X se publicó primero en MondoSonoro ."
     },
     {
-      "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
-      "title": "Damian Lazarus Announces Day Zero Bali Lineup ft. Jamie Jones, Ame, Bonobo + more",
-      "link": "https://www.decodedmagazine.com/damian-lazarus-announces-day-zero-bali-lineup-ft-jamie-jones-ame-bonobo-more/",
-      "published": "2026-01-12T09:51:57.000Z",
-      "publishedTs": 1768211517000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "World",
-        "Damian Lazarus",
-        "deep house",
-        "GWK Cultural Park",
-        "House Music",
-        "Indonesia",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/DZT2025_0112_074259-6962_DRB.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Damian Lazarus’ Day Zero takes shape as Day Zero Bali reveals the artists that will guide its next sacred gathering. On April 17, 2026, sound, land, and spirit align in a rare convergence &#8211; a carefully curated assembly of global se…"
-    },
-    {
-      "id": "fb547c100fdb04087d00aada4b2f477fdc9adafb",
-      "title": "Brickman drops Ixtlan",
-      "link": "https://www.decodedmagazine.com/brickman-drops-ixtlan/",
-      "published": "2026-01-12T06:02:44.000Z",
-      "publishedTs": 1768197764000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Brickman",
-        "dub techno",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a2972824982_10.jpg",
-      "excerpt": "Brickman &#8211; Ixtlan [LF361] by Brickman This is pure sonic hypnosis. With Ixtlan, Brickman returns to Lucidflow at his absolute creative peak delivering one of the most transcendent dub techno journeys of the year. Brickman has long …"
-    },
-    {
-      "id": "c42eafe1db7e1a2013bbfbac1982c277334f3292",
-      "title": "Decoded Magazine Launches Discord Community",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-launches-discord-community/",
-      "published": "2026-01-12T05:21:09.000Z",
-      "publishedTs": 1768195269000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "advice",
-        "AMA",
-        "Chat",
-        "Discord",
-        "Forum",
-        "Mix of the Month",
-        "Social media"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
-      "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
-    },
-    {
       "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
       "title": "Ambivalencia artificial",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jejeje-ambivalencia-artificial/",
@@ -351,226 +168,28 @@
       "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
     },
     {
-      "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
-      "title": "Om Records Celebrates 30 Years with New Compilation",
-      "link": "https://www.decodedmagazine.com/om-records-celebrates-30-years-with-new-compilation/",
-      "published": "2026-01-09T22:24:07.000Z",
-      "publishedTs": 1767997447000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Groove Armada",
-        "House Music",
-        "Kenny Summit",
-        "Mark Farina",
-        "Om Records",
-        "San Francisco"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
-      "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
+      "id": "7d74b952a0ff076b08e33bcd97feae6ad310d7b4",
+      "title": "AlphaTheta unveils new DJ effector and sampler, RMX-Ignite",
+      "link": "https://mixmag.net/read/alphatheta-new-dj-effector-sampler-rmx-ignite-tech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rmx-ignite.jpg?width=660&fit=cover&s=7ofltrhevSC9dL450IFzVneGii-eiX314p1oTfuvS9Y",
+      "excerpt": "It builds on the unit’s popular 2012 predecessor RMX-1000, boasting “next-gen” quality Continue reading..."
     },
     {
-      "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
-      "title": "Introducing Mix of the Year Winner – Wittak",
-      "link": "https://www.decodedmagazine.com/introducing-mix-of-the-year-winner-wittak/",
-      "published": "2026-01-09T09:55:26.000Z",
-      "publishedTs": 1767952526000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Breaks &amp; DnB",
-        "Interviews",
-        "Mixes"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
-    },
-    {
-      "id": "2a23106dfc1b35059afba298aa52bd0c66eea1e6",
-      "title": "From DJs to Data Points: How We Traded Musical Expertise for Engagement Metrics",
-      "link": "https://www.decodedmagazine.com/from-djs-to-data-points-how-we-traded-musical-expertise-for-engagement-metrics/",
-      "published": "2026-01-09T07:29:44.000Z",
-      "publishedTs": 1767943784000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "AI",
-        "Algorythms",
-        "Humanity",
-        "Music Industry",
-        "music production",
-        "radio",
-        "record labels",
-        "Record Stores",
-        "Soul",
-        "Spotify"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/resized_image2-scaled.webp",
-      "excerpt": "Recently over the holidays, I took advantage of a Spotify deal, 2 months free back on an account I stopped paying for a year earlier, I had no need for it over the last year, but ease of use, no ads whilst kicking back with mates with my…"
-    },
-    {
-      "id": "63cb8699a2b12a6a9ff14edc748d4cda5f9b5f0a",
-      "title": "77 Unveils First Events of 2026",
-      "link": "https://www.decodedmagazine.com/77-unveils-first-events-of-2026/",
-      "published": "2026-01-09T06:23:03.000Z",
-      "publishedTs": 1767939783000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Dennis Ferrer",
-        "House Music",
-        "London",
-        "Techno",
-        "Zamna"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/%40bonmk1-Connor-Baker-04417.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
-    },
-    {
-      "id": "f1642cb6672455ac5b564f6a8cec6fb758485eaf",
-      "title": "Throwback Thursday – Beastie Boys Licensed to Ill at 39: The Controversial Masterpiece That Made Rap Go Mainstream",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-beastie-boys-licensed-to-ill-at-39-the-controversial-masterpiece-that-made-rap-go-mainstream/",
-      "published": "2026-01-08T01:30:00.000Z",
-      "publishedTs": 1767835800000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Ad-Rock",
-        "Beastie Boys",
-        "Brooklyn",
-        "Def Jam Records",
-        "Hip Hop",
-        "Licensed to Ill",
-        "MCA",
-        "Mike D",
-        "NYC",
-        "Rap"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/April-10-Beastie-Boys-April-10-1987-10439204-essay.jpg?resize=810%2C494&ssl=1",
-      "excerpt": "Thirty nine years on from its release in November 1986, it still feels a bit surreal that three Jewish kids from New York managed to drop one of the most important albums in hip hop history. Licensed to Ill wasn&#8217;t just a commercial…"
-    },
-    {
-      "id": "08ea1555bf60ba136758deea2bc184bee2d728a8",
-      "title": "Passenger Presents: Body Language with Domenic Cappello (Subculture)",
-      "link": "https://www.decodedmagazine.com/passenger-presents-body-language-with-domenic-cappello-subculture/",
-      "published": "2026-01-07T08:34:28.000Z",
-      "publishedTs": 1767774868000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Glasgow",
-        "House Music",
-        "Passenger",
-        "Scotland",
-        "Sub Club",
-        "Subculture",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Domenic-Cappello.jpeg?resize=724%2C1024&ssl=1",
-      "excerpt": "From micro-club sessions to boutique festivals tucked away in the Scottish Highlands, Passenger has quietly built a reputation for throwing some of the UK’s most intimate and well-judged underground parties. This time they bring Sub Club…"
-    },
-    {
-      "id": "5ca23daf4a1653914fed1a700baec751ffef291b",
-      "title": "Someone Rebuilt MTV Before It Forgot What Music Was",
-      "link": "https://www.decodedmagazine.com/someone-rebuilt-mtv-before-it-forgot-what-music-was/",
-      "published": "2026-01-07T00:12:26.000Z",
-      "publishedTs": 1767744746000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "80s",
-        "MTV",
-        "Reality TV",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mtv.jpg",
-      "excerpt": "Somebody just built a time machine out of music videos and vintage commercials, and it might be the most honest thing on the internet right now. The site is called Want My MTV, and it does exactly one thing: streams 27,000 music videos, …"
-    },
-    {
-      "id": "e39af7356235712c2f98e87a6a86a7c246f5834a",
-      "title": "Mattias El Mansouri drops Disintegration EP",
-      "link": "https://www.decodedmagazine.com/mattias-el-mansouri-drops-disintegration-ep/",
-      "published": "2026-01-06T05:07:48.000Z",
-      "publishedTs": 1767676068000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Deep techno",
-        "Mattias El Mansouri",
-        "Stockholm",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a0299234061_10.jpg",
-      "excerpt": "Disintegration by Mattias El Mansouri A resident at Stockholm’s revered Under Bron/Trädgården, El Mansouri has found a home in one of Sweden’s most important incubators of electronic music talent. This residency has shaped him as an arti…"
-    },
-    {
-      "id": "d181e43a2735eee995353851cf88c99f8c2443e1",
-      "title": "The Economics Are Broken: How Touring DJ Fees Are Killing Clubs (And Why Residents Are The Answer)",
-      "link": "https://www.decodedmagazine.com/the-economics-are-broken-how-touring-dj-fees-are-killing-clubs-and-why-residents-are-the-answer/",
-      "published": "2026-01-06T04:44:08.000Z",
-      "publishedTs": 1767674648000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Bookers",
-        "Communities",
-        "DJ fees",
-        "Music Industry",
-        "Nightclubs",
-        "Residnet DJs",
-        "Touring Agents"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
-    },
-    {
-      "id": "5b9af9c745ca6b185b0ea8dbafed7c4e62e66e19",
-      "title": "Book of the Month – Techno is Boring by Daniel Avery",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-techno-is-boring-by-daniel-avery/",
-      "published": "2026-01-06T02:35:14.000Z",
-      "publishedTs": 1767666914000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Daniel Avery",
-        "Music Industry",
-        "photography",
-        "Techno",
-        "Velocity Press"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/9781913231767-939.jpg?resize=665%2C939&ssl=1",
-      "excerpt": "Long-time friends and collaborators, musician Daniel Avery, alongside photographer Keffer are proud to present Techno is Boring, a new book that collects a decade of work chronicling club culture in visceral form. Techno is Boring also i…"
-    },
-    {
-      "id": "63cc8709ae67075faff0efd6743baa41627e71a8",
-      "title": "Visions of Light cover New Order Blue Monday",
-      "link": "https://www.decodedmagazine.com/visions-of-light-cover-new-order-blue-monday/",
-      "published": "2026-01-06T02:27:29.000Z",
-      "publishedTs": 1767666449000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "New Order",
-        "Visions of Light"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/blue-monday.jpg",
-      "excerpt": "Blue Monday (Lunes Azul) by Visions-of-Light Visions of Light brings together Simon Sheldon, Muzka and Dan Dub Lounge, three artists united by a shared love of emotive, live-focused electronic music. Simon brings over 30 years of product…"
+      "id": "8bc79d2934cb1c4063b4d366ba52572858a9ce12",
+      "title": "The Green Party is throwing a rave in London this month",
+      "link": "https://mixmag.net/read/the-green-party-to-host-club-night-in-london-this-month-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Zack_Polanski_Green_Party_London_Assembly_Member.jpg?width=660&fit=cover&s=gwRc8Ja2G7aA6BmDjsWgn7r8a7n-DTUYbj9OHjTjBYc",
+      "excerpt": "Leader Zack Polanski will be &quot;on the mic&quot; at the fundraising event, alongside sets from Mixtress, Lobsta B, DJ Love and more Continue reading..."
     },
     {
       "id": "af905f404ffcbad0b8c6de5d2b37adaa7d383c6b",
@@ -1507,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Diddy-credit-Shamsuddin-Muhammad.jpg?width=660&fit=cover&s=_484KzwgiYA3b-Kqb1WhTBZ7GaNYCvR6oNQ3NnqWG4A",
       "excerpt": "Sean Combs allegedly landed in trouble with prison officials for consuming “homemade alcohol” Continue reading..."
-    },
-    {
-      "id": "3dc67d6d017acd6964c368b2465bed86d5ffd485",
-      "title": "The Top 25 Artists To Watch In 2026",
-      "link": "https://mixmag.net/feature/the-top-25-dj-producer-rapper-artists-to-watch-in-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Artists-To-Watch-2026.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=_jKtBG5Ss3WncwcwjSs-4qGGwKeFV8WvtL3lfbmcHm4",
-      "excerpt": "Keep your eyes on these future stars of DJing, production and rap Continue reading..."
-    },
-    {
-      "id": "161ca55dd8945ef9a5c35b063bbdaf6d48f589f6",
-      "title": "London nightlife venue Rowans \"under threat\" from developers",
-      "link": "https://mixmag.net/read/london-bowling-alley-nightclub-rowans-under-threat-developers-haringey-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rowans.png?width=660&fit=cover&s=_n5i_Jp_Q34Kqf6HwZPCvdVgCLA4XRPkmhp8Ksg1VIg",
-      "excerpt": "Haringey Council is reportedly reviewing plans to develop the Finsbury Park-based bowling alley and late-night bar into 190 flats Continue reading..."
     }
   ]
 }
