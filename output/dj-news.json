@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-16T01:45:23.183Z",
+  "generatedAt": "2026-01-16T03:39:34.210Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "59314494a7b14a5b2b3158edb9ae0ad31609dc12",
+      "title": "A decade later, Hernan Cattaneo and Mercurio rework HVOB’s “Attention”",
+      "link": "https://www.decodedmagazine.com/a-decade-later-hernan-cattaneo-and-mercurio-rework-hvobs-attention/",
+      "published": "2026-01-16T03:31:39.000Z",
+      "publishedTs": 1768534299000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Cercle Music",
+        "Hernan Cattaneo",
+        "HVOB",
+        "Progressive House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Cover_HVOB_Attention-Hernan-Cattaneo-Mercurio-Remix-scaled.jpg",
+      "excerpt": "Cercle Records kicks off the year with the release of HVOB’s “Attention”, reimagined by Hernan Cattaneo &amp; Mercurio. Ten years after its original release, this new version honors the original track’s hypnotic beauty while infusing it …"
+    },
     {
       "id": "a293b9598d2b717c6466348d500e8109ba0af83e",
       "title": "Ferrum Sidereum",
@@ -553,24 +571,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/9781913231767-939.jpg?resize=665%2C939&ssl=1",
       "excerpt": "Long-time friends and collaborators, musician Daniel Avery, alongside photographer Keffer are proud to present Techno is Boring, a new book that collects a decade of work chronicling club culture in visceral form. Techno is Boring also i…"
-    },
-    {
-      "id": "63cc8709ae67075faff0efd6743baa41627e71a8",
-      "title": "Visions of Light cover New Order Blue Monday",
-      "link": "https://www.decodedmagazine.com/visions-of-light-cover-new-order-blue-monday/",
-      "published": "2026-01-06T02:27:29.000Z",
-      "publishedTs": 1767666449000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "New Order",
-        "Visions of Light"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/blue-monday.jpg",
-      "excerpt": "Blue Monday (Lunes Azul) by Visions-of-Light Visions of Light brings together Simon Sheldon, Muzka and Dan Dub Lounge, three artists united by a shared love of emotive, live-focused electronic music. Simon brings over 30 years of product…"
     },
     {
       "id": "870218ac35b8ddbc5ba11f6a562fae3262919525",
