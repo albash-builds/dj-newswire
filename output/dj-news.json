@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-16T11:19:42.689Z",
+  "generatedAt": "2026-01-16T12:44:18.899Z",
   "total": 110,
   "sources": [
     {
@@ -569,6 +569,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
       "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
+    },
+    {
+      "id": "38441b0da617058f42c0eec4cf5d0fa29a93cbb9",
+      "title": "Steve Aoki sued over influencing purchases of “worthless” NFTs",
+      "link": "https://mixmag.net/read/steve-aoki-sued-over-influencing-purchases-worthless-nfts-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Steve_Aoki-credit-Collision-Conf.jpg?width=660&fit=cover&s=1VRZL81hcLsbcuAM14kZdq59wpDn0pVmZd50RzwO59o",
+      "excerpt": "A class action lawsuit alleges that he promoted NFTs without disclosing endorsements Continue reading..."
     },
     {
       "id": "870218ac35b8ddbc5ba11f6a562fae3262919525",
@@ -1517,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/night-out-survey.jpg?width=660&fit=cover&s=3z_AtafvyoCZe4Hku2wJTdMDOiSmoiYsyT1aVW-qQws",
       "excerpt": "Those surveyed overspent by an average of £256 in the last year Continue reading..."
-    },
-    {
-      "id": "3a70771eee75ff316b1a6e6e0657bfc5f3678f0d",
-      "title": "Dutch darts player goes viral for hardstyle walk-on at Ally Pally",
-      "link": "https://mixmag.net/read/dutch-darts-player-dirk-van-duijvenbode-viral-hardstyle-walk-on-ally-pally-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/darts-d.png?width=660&fit=cover&s=CNVGhngrqXu7_jM9Oi1VtqGpZh-n9F3enJ1m11_lpgQ",
-      "excerpt": "The &quot;Aubergenius&quot; Dirk van Duijvenbode sent spectators at the PDC World Darts Championships into a rave frenzy ahead of his victory against Andy Baetens Continue reading..."
     }
   ]
 }
