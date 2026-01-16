@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-16T03:39:34.210Z",
+  "generatedAt": "2026-01-16T04:39:47.444Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d534780babd70a3561eb5efca319b3a34384e097",
+      "title": "fabric taps DJ Tennis for new mix compilation",
+      "link": "https://www.decodedmagazine.com/fabric-taps-dj-tennis-for-new-mix-compilation/",
+      "published": "2026-01-16T03:45:28.000Z",
+      "publishedTs": 1768535128000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "DJ Tennis",
+        "Fabric",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Artwork.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
+    },
     {
       "id": "59314494a7b14a5b2b3158edb9ae0ad31609dc12",
       "title": "A decade later, Hernan Cattaneo and Mercurio rework HVOB’s “Attention”",
@@ -551,26 +569,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
       "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
-    },
-    {
-      "id": "5b9af9c745ca6b185b0ea8dbafed7c4e62e66e19",
-      "title": "Book of the Month – Techno is Boring by Daniel Avery",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-techno-is-boring-by-daniel-avery/",
-      "published": "2026-01-06T02:35:14.000Z",
-      "publishedTs": 1767666914000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Daniel Avery",
-        "Music Industry",
-        "photography",
-        "Techno",
-        "Velocity Press"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/9781913231767-939.jpg?resize=665%2C939&ssl=1",
-      "excerpt": "Long-time friends and collaborators, musician Daniel Avery, alongside photographer Keffer are proud to present Techno is Boring, a new book that collects a decade of work chronicling club culture in visceral form. Techno is Boring also i…"
     },
     {
       "id": "870218ac35b8ddbc5ba11f6a562fae3262919525",
