@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-16T13:37:34.875Z",
+  "generatedAt": "2026-01-16T14:23:51.845Z",
   "total": 110,
   "sources": [
     {
@@ -569,6 +569,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
       "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
+    },
+    {
+      "id": "cc98d792f8fb14f1874166bdb1514661d3f6b92e",
+      "title": "Adelaide festival says it won’t pull Sama’ Abdulhadi from bill following calls from pro-Israel campaign",
+      "link": "https://mixmag.net/read/adelaide-festival-wont-pull-sama-abdulhadi-bill-following-calls-pro-israel-campaign-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/womadelaide-statement.jpg?width=660&fit=cover&s=XsnfUMSE_FCi82xeBrjmxVVDqzrRyRnd398JzzElCuU",
+      "excerpt": "The group reportedly called for the Palestinian DJ to be “urgently removed” from the festival’s 2026 line-up Continue reading..."
     },
     {
       "id": "38441b0da617058f42c0eec4cf5d0fa29a93cbb9",
@@ -1517,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-warras.jpg?width=660&fit=cover&s=PHYBwTjLtddXEl5LQwTIzZ-KtPnmsKWAnfWTQaIRFIQ",
       "excerpt": "The popular club DJ was gunned down on Tuesday afternoon after being approached by three people Continue reading..."
-    },
-    {
-      "id": "e98e9372b64269bb35f9ba788274da2a8e416941",
-      "title": "Almost 50% of Brits go over budget on a night out, new report finds",
-      "link": "https://mixmag.net/read/50-percent-brits-go-over-budget-night-out-uk-report-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/night-out-survey.jpg?width=660&fit=cover&s=3z_AtafvyoCZe4Hku2wJTdMDOiSmoiYsyT1aVW-qQws",
-      "excerpt": "Those surveyed overspent by an average of £256 in the last year Continue reading..."
     }
   ]
 }
