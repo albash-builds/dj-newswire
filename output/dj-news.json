@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-17T11:17:15.492Z",
+  "generatedAt": "2026-01-17T12:39:25.577Z",
   "total": 110,
   "sources": [
     {
@@ -569,6 +569,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
       "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
+    },
+    {
+      "id": "61922af47d457935f2bbf93bc48c3e9b7dcdf522",
+      "title": "Festival line-ups you might have missed: Docklands, C2C NYC, Paradise City",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-4-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Simone-Loup.png?width=660&fit=cover&s=q0qcjOR2d9AWEpQROoXYliodQEtITbeM_pvvkUkq4hU",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "cc98d792f8fb14f1874166bdb1514661d3f6b92e",
@@ -1517,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/BW-Px8-S2-Onyx-Black-Beauty-2-16x9.jpg?width=660&fit=cover&s=jU2uIIwO4O_LnwOcXVajT5B4AJSPSuhTJxNn5mkMynE",
       "excerpt": "The latest flagship model from the renowned British audio brand builds on the multi-award-winning Px7 S3 Continue reading..."
-    },
-    {
-      "id": "9f1f80f38558e7d3f1e6643ceb5378759a0ea61a",
-      "title": "The Mix 088: Wata Igarashi",
-      "link": "https://mixmag.net/feature/the-mix-088-wata-igarashi-dj-interview-my-supernova-japan-dekmantel",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_W2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=5qhy1oBwilQdFC4tORWEzbSgZiXdX9KXvGp_NkkI7hk",
-      "excerpt": "Our final mix of 2025 is psychedelic, textured trip from Japanese techno master Wata Igarashi Continue reading..."
     }
   ]
 }
