@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-19T12:50:44.559Z",
+  "generatedAt": "2026-01-19T13:45:31.638Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fcc216396ea570fe9edae91c475ed461b1a2e0dd",
+      "title": "Primer Moviment",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/romantic-dimoni-primer-moviment/",
+      "published": "2026-01-19T12:55:12.000Z",
+      "publishedTs": 1768827312000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Romantic-Dimoni-PRIMER-MOVIMENT.jpg",
+      "excerpt": "La sinceridad es un ejercicio casi suicida en la sociedad actual. Por eso, la ternura y el cariño son actos... La entrada Primer Moviment se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2d385669f8552c235d85fa8bf08d02873bf917c7",
       "title": "The Politics of Partying: Why Electronic Music Has Always Been Political",
@@ -396,20 +410,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
-    },
-    {
-      "id": "808d162822c8c8ae44639612cc00653e162c9f9a",
-      "title": "Ambivalencia artificial",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jejeje-ambivalencia-artificial/",
-      "published": "2026-01-10T08:26:25.000Z",
-      "publishedTs": 1768033585000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/jejeje-Ambivalencia-artificial.jpg",
-      "excerpt": "Detrás de una onomatopeya que invita a tomarse la vida con cierta ligereza –lo cual se agradece, especialmente en esta... La entrada Ambivalencia artificial se publicó primero en MondoSonoro ."
     },
     {
       "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
