@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-19T08:33:26.068Z",
+  "generatedAt": "2026-01-19T09:34:35.108Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2d385669f8552c235d85fa8bf08d02873bf917c7",
+      "title": "The Politics of Partying: Why Electronic Music Has Always Been Political",
+      "link": "https://www.decodedmagazine.com/the-politics-of-partying-why-electronic-music-has-always-been-political/",
+      "published": "2026-01-19T08:34:09.000Z",
+      "publishedTs": 1768811649000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Criminal Justice and Public Order Act",
+        "Detroit",
+        "History",
+        "Iran",
+        "Minorities",
+        "Music Industry",
+        "Politics",
+        "Race",
+        "Russia",
+        "Social media"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/reading-the-rosetta-stone-of-rave-culture-looking-at-the-criminal-justice-and-public-order-act-of-1994-body-image-1488968311.webp?resize=810%2C521&ssl=1",
+      "excerpt": "Thirty years into this thing we do, and I&#8217;m still hearing the same tired argument: electronic music isn&#8217;t political; it&#8217;s just escapism, just hedonism, just 4/4 music and ravers preaching PLUR in dark rooms. If I had a …"
+    },
     {
       "id": "d534780babd70a3561eb5efca319b3a34384e097",
       "title": "fabric taps DJ Tennis for new mix compilation",
@@ -547,28 +572,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a0299234061_10.jpg",
       "excerpt": "Disintegration by Mattias El Mansouri A resident at Stockholm’s revered Under Bron/Trädgården, El Mansouri has found a home in one of Sweden’s most important incubators of electronic music talent. This residency has shaped him as an arti…"
-    },
-    {
-      "id": "d181e43a2735eee995353851cf88c99f8c2443e1",
-      "title": "The Economics Are Broken: How Touring DJ Fees Are Killing Clubs (And Why Residents Are The Answer)",
-      "link": "https://www.decodedmagazine.com/the-economics-are-broken-how-touring-dj-fees-are-killing-clubs-and-why-residents-are-the-answer/",
-      "published": "2026-01-06T04:44:08.000Z",
-      "publishedTs": 1767674648000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Bookers",
-        "Communities",
-        "DJ fees",
-        "Music Industry",
-        "Nightclubs",
-        "Residnet DJs",
-        "Touring Agents"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2018/08/night-club-moog.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "The maths doesn&#8217;t work anymore, it&#8217;s that simple. Clubs are closing at a record rate across the world, from legendary institutions to promising newcomers, and while there are multiple factors at play (rent, licensing, gentrif…"
     },
     {
       "id": "c35a61a0d0ec5fbb789316e7b2cee3363ce1a43b",
