@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-19T14:27:38.311Z",
+  "generatedAt": "2026-01-19T15:26:53.872Z",
   "total": 110,
   "sources": [
     {
@@ -572,6 +572,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a0299234061_10.jpg",
       "excerpt": "Disintegration by Mattias El Mansouri A resident at Stockholm’s revered Under Bron/Trädgården, El Mansouri has found a home in one of Sweden’s most important incubators of electronic music talent. This residency has shaped him as an arti…"
+    },
+    {
+      "id": "eada0bda0f43d12aac4e5b712b5b0f8630f2c50d",
+      "title": "Second US Sphere to open in Washington D.C.",
+      "link": "https://mixmag.net/read/second-us-sphere-open-washington-dc-las-vegas-maryland-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Sphere-US.png?width=660&fit=cover&s=2o4tpIPZ-pA1EW8UoXv2b_odtkIGahUY8Yx-4UDuJjU",
+      "excerpt": "Developers say the live music and events venue will be a &quot;smaller-scale&quot; version of its Las Vegas counterpart Continue reading..."
     },
     {
       "id": "3ab7585d8bcddb26e506d95431875fa8314c97ba",
@@ -1520,18 +1532,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Comp-1-0-00-00-00.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=CHcbuhCE89WDNU5VwGflILdT33WXXTG8cGlj-JMeu80",
       "excerpt": "The standout clubbing tracks of 2025 Continue reading..."
-    },
-    {
-      "id": "8fc5fdd352a38af59dad71724f9e010cc63ad85f",
-      "title": "Donna Summer posthumously inducted into Songwriters Hall Of Fame",
-      "link": "https://mixmag.net/read/donna-summer-posthumously-inducted-into-songwriters-hall-of-fame-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/donna-summer.png?width=660&fit=cover&s=xqtf1A6xgfkya_OxDbX7TmrxTOaHEreh3ryxMs6ZJKw",
-      "excerpt": "Summer’s husband said he knew “how important” the accolade would have been to the legendary disco artist Continue reading..."
     }
   ]
 }
