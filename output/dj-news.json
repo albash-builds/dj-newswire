@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T13:46:49.962Z",
+  "generatedAt": "2026-01-20T14:31:01.717Z",
   "total": 110,
   "sources": [
     {
@@ -565,7 +565,7 @@
     },
     {
       "id": "88254b9e60f329ba11e1accd174eb622fcba6369",
-      "title": "Development begins on Lewisham venue Sister Midnight, plans Spring opening",
+      "title": "Development begins on Lewisham venue Sister Midnight, plans spring completion",
       "link": "https://mixmag.net/read/development-begins-lewisham-community-venue-sister-midnight-plans-spring-opening-news",
       "published": "",
       "publishedTs": 0,
@@ -573,19 +573,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sister-midnight-lewisham-venue-community-owned.png?width=660&fit=cover&s=vgcoxLoopCnC3d2HNbmkF1vUuZ1EcZqXgYFiUcUetMo",
-      "excerpt": "The community venue has also launched a series of broadcasted live sessions and a new monthly radio programme Continue reading..."
-    },
-    {
-      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
-      "title": "Burn Energy and Mixmag announce the Burn Energy Tour 2025",
-      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
-      "excerpt": "Our high-energy club tour and community spotlight is back, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
+      "excerpt": "It comes almost three years after the team behind the community space secured its lease Continue reading..."
     },
     {
       "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
@@ -1222,6 +1210,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Destinys-Child-cover.jpg?width=660&fit=cover&s=QJOo9dxiALYM7uWYV_QL0ri1KUgQg-gxCcjmH2b-Q5E",
       "excerpt": "Writer and producer Rodney Jerkins recalled the dance music-inspired vision behind the hit track in a new interview Continue reading..."
+    },
+    {
+      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
+      "title": "Burn Energy and Mixmag announce the Burn Energy Tour 2025",
+      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
+      "excerpt": "Our high-energy club tour and community spotlight is back, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
     },
     {
       "id": "9f1ce36eee1a176a2fc4e487e551c039b8472dbd",
