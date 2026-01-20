@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T10:28:03.248Z",
+  "generatedAt": "2026-01-20T11:23:49.728Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "17d6f131cf6bd6cca454ae974a1f164a10f9238c",
+      "title": "lovetempo drops Never the Same single",
+      "link": "https://www.decodedmagazine.com/lovetempo-drops-never-the-same-single/",
+      "published": "2026-01-20T10:35:28.000Z",
+      "publishedTs": 1768905328000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "downtempo",
+        "Electronica",
+        "Jazz",
+        "Soul",
+        "Soulful House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/lovetempo-press-photo-2-Jul-25-Moriah-Ziman-scaled.jpg",
+      "excerpt": "lovetempo is the project of Brooklyn-based musician and vocalist Mattie Safer, also known for his work with Poolside and The Rapture. Blending soul, disco, house, and jazz-funk with soul-baring tenderness and an ear for rhythmic detail, …"
+    },
     {
       "id": "a48a00fd78935b0bc55df9bc98072d49906262db",
       "title": "Amnesia celebrates its 50th anniversary",
@@ -545,29 +564,16 @@
       "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
     },
     {
-      "id": "f1642cb6672455ac5b564f6a8cec6fb758485eaf",
-      "title": "Throwback Thursday – Beastie Boys Licensed to Ill at 39: The Controversial Masterpiece That Made Rap Go Mainstream",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-beastie-boys-licensed-to-ill-at-39-the-controversial-masterpiece-that-made-rap-go-mainstream/",
-      "published": "2026-01-08T01:30:00.000Z",
-      "publishedTs": 1767835800000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Ad-Rock",
-        "Beastie Boys",
-        "Brooklyn",
-        "Def Jam Records",
-        "Hip Hop",
-        "Licensed to Ill",
-        "MCA",
-        "Mike D",
-        "NYC",
-        "Rap"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/April-10-Beastie-Boys-April-10-1987-10439204-essay.jpg?resize=810%2C494&ssl=1",
-      "excerpt": "Thirty nine years on from its release in November 1986, it still feels a bit surreal that three Jewish kids from New York managed to drop one of the most important albums in hip hop history. Licensed to Ill wasn&#8217;t just a commercial…"
+      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
+      "title": "Burn Energy and Mixmag announce the Burn Energy Tour 2025",
+      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
+      "excerpt": "Our high-energy club tour and community spotlight is back, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
     },
     {
       "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
@@ -1516,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/renate-credit-3KS-e.V.jpg?width=660&fit=cover&s=Qq6LIT_ro-x4y0vYVMTarnQALRp8Et564dE5-FkM8uk",
       "excerpt": "The long-running nightclub was set to close for good on New Year&#039;s Eve, but will now relaunch at an &quot;unknown date&quot; next year Continue reading..."
-    },
-    {
-      "id": "25fcb9d6d3159fb1d13714fb81f0d48835ad3d7f",
-      "title": "The most exciting music tech of 2025",
-      "link": "https://mixmag.net/feature/most-exciting-best-electronic-music-tech-hardware-software-2025",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Comp-1-0-00-00-00_2025-12-18-134143_hrpx.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=o6Ep7tqwixWOirJTP3hnHrDKGa17jAhkQsYsNCACBfc",
-      "excerpt": "A diverse range of artists and technologists share the electronic music hardware and software which has most excited them this year Continue reading..."
     }
   ]
 }
