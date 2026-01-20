@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T04:45:06.460Z",
+  "generatedAt": "2026-01-20T05:29:03.244Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,41 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "be932ac473905cabd5107816881c2426c3983f2b",
+      "title": "HAAi and Weirdcore Collaborate on New Track and Visualizer for Native Instruments’ Absynth 6",
+      "link": "https://www.decodedmagazine.com/haai-and-weirdcore-collaborate-on-new-track-and-visualizer-for-native-instruments-absynth-6/",
+      "published": "2026-01-20T05:17:07.000Z",
+      "publishedTs": 1768886227000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Absynth",
+        "HAAi",
+        "Native Instruments",
+        "Visualiser",
+        "Weirdcore"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/unnamed-9.jpg",
+      "excerpt": "London-based digital artist Weirdcore (Aphex Twin, Radiohead/the smile, Charli XCX, Daniel Lopatin) has collaborated with Native Instruments to create the visuals for the newly released Absynth 6 &#8211; the legendary soft synth used on …"
+    },
+    {
+      "id": "1ea89ced61df4be6840d62ffc0ea6932318154bb",
+      "title": "SCI+TEC just announced Perception by Marcel Reix",
+      "link": "https://www.decodedmagazine.com/scitec-just-announced-perception-by-marcel-reix/",
+      "published": "2026-01-20T05:05:48.000Z",
+      "publishedTs": 1768885548000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Marcel Reix",
+        "SCI+TEC"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a3356282128_10.jpg",
+      "excerpt": "Perception by Marcel Reix Barcelona&#8217;s Marcel Reix debuts on SCI+TEC with &#8220;Perception&#8221;, fulfilling a dream for the longtime Dubfire admirer. The three-track EP showcases Marcel&#8217;s range: title track &#8220;Perceptio…"
+    },
     {
       "id": "fcc216396ea570fe9edae91c475ed461b1a2e0dd",
       "title": "Primer Moviment",
@@ -536,42 +571,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Domenic-Cappello.jpeg?resize=724%2C1024&ssl=1",
       "excerpt": "From micro-club sessions to boutique festivals tucked away in the Scottish Highlands, Passenger has quietly built a reputation for throwing some of the UK’s most intimate and well-judged underground parties. This time they bring Sub Club…"
-    },
-    {
-      "id": "5ca23daf4a1653914fed1a700baec751ffef291b",
-      "title": "Someone Rebuilt MTV Before It Forgot What Music Was",
-      "link": "https://www.decodedmagazine.com/someone-rebuilt-mtv-before-it-forgot-what-music-was/",
-      "published": "2026-01-07T00:12:26.000Z",
-      "publishedTs": 1767744746000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "80s",
-        "MTV",
-        "Reality TV",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mtv.jpg",
-      "excerpt": "Somebody just built a time machine out of music videos and vintage commercials, and it might be the most honest thing on the internet right now. The site is called Want My MTV, and it does exactly one thing: streams 27,000 music videos, …"
-    },
-    {
-      "id": "e39af7356235712c2f98e87a6a86a7c246f5834a",
-      "title": "Mattias El Mansouri drops Disintegration EP",
-      "link": "https://www.decodedmagazine.com/mattias-el-mansouri-drops-disintegration-ep/",
-      "published": "2026-01-06T05:07:48.000Z",
-      "publishedTs": 1767676068000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Deep techno",
-        "Mattias El Mansouri",
-        "Stockholm",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a0299234061_10.jpg",
-      "excerpt": "Disintegration by Mattias El Mansouri A resident at Stockholm’s revered Under Bron/Trädgården, El Mansouri has found a home in one of Sweden’s most important incubators of electronic music talent. This residency has shaped him as an arti…"
     },
     {
       "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
