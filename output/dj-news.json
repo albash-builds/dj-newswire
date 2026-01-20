@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T09:33:24.384Z",
+  "generatedAt": "2026-01-20T10:28:03.248Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a48a00fd78935b0bc55df9bc98072d49906262db",
+      "title": "Amnesia celebrates its 50th anniversary",
+      "link": "https://www.decodedmagazine.com/amnesia-celebrates-its-50th-anniversary/",
+      "published": "2026-01-20T10:10:40.000Z",
+      "publishedTs": 1768903840000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Ibiza",
+        "Amnesia",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/amnesia-ibiza-2026.png?resize=810%2C1013&ssl=1",
+      "excerpt": "Amnesia, Ibiza’s home of underground clubbing for 50 years, marks five decades of music, movement, and shared experience with a year of anniversary events, guest line ups, and cultural collaborations throughout 2026. A landmark year for …"
+    },
     {
       "id": "61ac6eb05439db00630b4511a8ca2325e5fc7b8d",
       "title": "Don’t Be Dumb",
@@ -550,27 +568,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/April-10-Beastie-Boys-April-10-1987-10439204-essay.jpg?resize=810%2C494&ssl=1",
       "excerpt": "Thirty nine years on from its release in November 1986, it still feels a bit surreal that three Jewish kids from New York managed to drop one of the most important albums in hip hop history. Licensed to Ill wasn&#8217;t just a commercial…"
-    },
-    {
-      "id": "08ea1555bf60ba136758deea2bc184bee2d728a8",
-      "title": "Passenger Presents: Body Language with Domenic Cappello (Subculture)",
-      "link": "https://www.decodedmagazine.com/passenger-presents-body-language-with-domenic-cappello-subculture/",
-      "published": "2026-01-07T08:34:28.000Z",
-      "publishedTs": 1767774868000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Glasgow",
-        "House Music",
-        "Passenger",
-        "Scotland",
-        "Sub Club",
-        "Subculture",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Domenic-Cappello.jpeg?resize=724%2C1024&ssl=1",
-      "excerpt": "From micro-club sessions to boutique festivals tucked away in the Scottish Highlands, Passenger has quietly built a reputation for throwing some of the UK’s most intimate and well-judged underground parties. This time they bring Sub Club…"
     },
     {
       "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
