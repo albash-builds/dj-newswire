@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T16:36:12.606Z",
+  "generatedAt": "2026-01-20T17:29:50.058Z",
   "total": 110,
   "sources": [
     {
@@ -576,6 +576,18 @@
       "excerpt": "The long-running nightclub confirmed it will relaunch this year after securing an extension on its lease Continue reading..."
     },
     {
+      "id": "7e814bfc16e3ae8e22df7c5e05befc87f9d890f2",
+      "title": "Mural planned honouring legendary Stoke-on-Trent nightclubs and DJs",
+      "link": "https://mixmag.net/read/mural-planned-honouring-legendary-stoke-on-trent-nightclubs-djs-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shelleys-BR.png?width=660&fit=cover&s=O-pmrs5fdvMvnzxA1KjUij1jx6Ihn2vrxqUe19VWPfA",
+      "excerpt": "&quot;No disrespect to Rochdale but Stoke-on-Trent has given so much to the world” Continue reading..."
+    },
+    {
       "id": "434ef83645cb0e88925511df25a0d1b0083cf1a2",
       "title": "Hip hop most downloaded genre on Splice for third year in a row",
       "link": "https://mixmag.net/read/hip-hop-most-downloaded-genre-on-splice-for-third-year-in-a-row-news",
@@ -598,6 +610,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sister-midnight-lewisham-venue-community-owned.png?width=660&fit=cover&s=vgcoxLoopCnC3d2HNbmkF1vUuZ1EcZqXgYFiUcUetMo",
       "excerpt": "It comes almost three years after the team behind the community space secured its lease Continue reading..."
+    },
+    {
+      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
+      "title": "Burn Energy and Mixmag announce the Burn Energy Tour 2025",
+      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
+      "excerpt": "Our high-energy club tour and community spotlight is back, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
     },
     {
       "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
@@ -1236,18 +1260,6 @@
       "excerpt": "Writer and producer Rodney Jerkins recalled the dance music-inspired vision behind the hit track in a new interview Continue reading..."
     },
     {
-      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
-      "title": "Burn Energy and Mixmag announce the Burn Energy Tour 2025",
-      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
-      "excerpt": "Our high-energy club tour and community spotlight is back, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
-    },
-    {
       "id": "9f1ce36eee1a176a2fc4e487e551c039b8472dbd",
       "title": "Inside The Movement of Artists and Fans Boycotting Spotify",
       "link": "https://mixmag.net/feature/spotify-boycott-movement-artists-fans-daniel-ek-military-streaming-investigation",
@@ -1510,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Crowds-at-Pavilion-Festival-2025.png?width=660&fit=cover&s=nhcEWZ7j-M4ciJWH8_89PkdnxP2ZHKMfXUHJBd3WhvY",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "b575a122bbbb52316c56ed192afa87ac99530ebb",
-      "title": "Fundraiser event to support “life-changing” MS treatment for wife of Leftfield’s Neil Barnes",
-      "link": "https://mixmag.net/read/fundraiser-event-support-life-changing-ms-treatment-wife-leftfield-neil-barnes-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/leftfield_2026-01-08-140021_kwrx.jpg?width=660&fit=cover&s=n6MZse0Kh_vai1H5hRJjCUqgU8CKMYfROgYI25ExVGk",
-      "excerpt": "‘Dance For Tan’ will go ahead on January 31 at Concorde 2 in Brighton, headlined by Leftfield Continue reading..."
     }
   ]
 }
