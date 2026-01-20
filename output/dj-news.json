@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T08:32:20.222Z",
+  "generatedAt": "2026-01-20T09:33:24.384Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "61ac6eb05439db00630b4511a8ca2325e5fc7b8d",
+      "title": "Don’t Be Dumb",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/asap-rocky-dont-be-dumb/",
+      "published": "2026-01-20T09:14:50.000Z",
+      "publishedTs": 1768900490000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/ASAP-Rocky-Don-t-Be-Dumb.jpg",
+      "excerpt": "En una entrevista previa a la publicación de “Don’t Be Dumb”, su primer disco en casi una década, A$AP Rocky... La entrada Don’t Be Dumb se publicó primero en MondoSonoro ."
+    },
     {
       "id": "be932ac473905cabd5107816881c2426c3983f2b",
       "title": "HAAi and Weirdcore Collaborate on New Track and Visualizer for Native Instruments’ Absynth 6",
@@ -370,20 +384,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Johnny-Marr-Look-Out-Live.jpg",
       "excerpt": "Sorprende un poco que el legendario guitarrista de The Smiths lance un nuevo directo una década después de otro artefacto... La entrada Look Out Live! se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "485c861b917d1022d28eea42856e9e0952bfeb69",
-      "title": "PsychoWarrior: MG Ultra X",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/machine-girl-psychowarrior-mg-ultra-x/",
-      "published": "2026-01-12T10:27:56.000Z",
-      "publishedTs": 1768213676000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Machine-Girl-PsychoWarrior-MG-Ultra-X.jpg",
-      "excerpt": "Con elementos pop, metal, rave, post-punk, cartoon music y drum’n’bass, la propuesta de Machine Girl se podría definir como un... La entrada PsychoWarrior: MG Ultra X se publicó primero en MondoSonoro ."
     },
     {
       "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
