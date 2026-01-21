@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T23:22:16.270Z",
+  "generatedAt": "2026-01-21T01:47:59.426Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "405fd707d0733d567fcdf82f73d38730ee6a88cc",
+      "title": "Exclusive Premiere – Bebetta – We’re Getting Down",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-bebetta-were-getting-down/",
+      "published": "2026-01-21T01:22:35.000Z",
+      "publishedTs": 1768958555000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
+    },
     {
       "id": "b43e3d6d1d403602ed604de1b62d856a02336b86",
       "title": "Madrid 15-02-2025 Akelarre Antifascista",
@@ -543,25 +557,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/resized_image2-scaled.webp",
       "excerpt": "Recently over the holidays, I took advantage of a Spotify deal, 2 months free back on an account I stopped paying for a year earlier, I had no need for it over the last year, but ease of use, no ads whilst kicking back with mates with my…"
-    },
-    {
-      "id": "63cb8699a2b12a6a9ff14edc748d4cda5f9b5f0a",
-      "title": "77 Unveils First Events of 2026",
-      "link": "https://www.decodedmagazine.com/77-unveils-first-events-of-2026/",
-      "published": "2026-01-09T06:23:03.000Z",
-      "publishedTs": 1767939783000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Dennis Ferrer",
-        "House Music",
-        "London",
-        "Techno",
-        "Zamna"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/%40bonmk1-Connor-Baker-04417.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "As it enters the new year, London music venue 77 has announced its 2026 opening schedule, continuing its focus on music-led events within a purpose-built space designed around sound, lighting and a deep connection between artist and crow…"
     },
     {
       "id": "9d1d6fd10181cabee34a134049c61e02bf5205ea",
