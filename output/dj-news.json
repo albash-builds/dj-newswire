@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T04:44:05.471Z",
+  "generatedAt": "2026-01-21T05:29:00.216Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fafd63c6657b6429a4185242734e23fe16422c60",
+      "title": "From Dorset to Burning Man: Director Hoj Jomehri on Telling Lee Burridge’s Story",
+      "link": "https://www.decodedmagazine.com/from-dorset-to-burning-man-director-hoj-jomehri-on-telling-lee-burridges-story/",
+      "published": "2026-01-21T05:20:59.000Z",
+      "publishedTs": 1768972859000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "All Day I Dream",
+        "deep house",
+        "Documentary",
+        "Lee Burridge",
+        "Progressive House",
+        "Rave Culture",
+        "Video production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/soad_bts_LeeInterview.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "There&#8217;s something quietly compelling about documentaries that manage to capture the essence of electronic music culture without resorting to the usual visual clichés or breathless narration. Hoj Jomehri&#8217; s Sound of a Dream, w…"
+    },
     {
       "id": "405fd707d0733d567fcdf82f73d38730ee6a88cc",
       "title": "Exclusive Premiere – Bebetta – We’re Getting Down",
@@ -532,31 +554,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
       "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
-    },
-    {
-      "id": "2a23106dfc1b35059afba298aa52bd0c66eea1e6",
-      "title": "From DJs to Data Points: How We Traded Musical Expertise for Engagement Metrics",
-      "link": "https://www.decodedmagazine.com/from-djs-to-data-points-how-we-traded-musical-expertise-for-engagement-metrics/",
-      "published": "2026-01-09T07:29:44.000Z",
-      "publishedTs": 1767943784000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "AI",
-        "Algorythms",
-        "Humanity",
-        "Music Industry",
-        "music production",
-        "radio",
-        "record labels",
-        "Record Stores",
-        "Soul",
-        "Spotify"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/resized_image2-scaled.webp",
-      "excerpt": "Recently over the holidays, I took advantage of a Spotify deal, 2 months free back on an account I stopped paying for a year earlier, I had no need for it over the last year, but ease of use, no ads whilst kicking back with mates with my…"
     },
     {
       "id": "9d1d6fd10181cabee34a134049c61e02bf5205ea",
