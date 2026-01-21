@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T07:28:31.094Z",
+  "generatedAt": "2026-01-21T08:32:21.944Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "454921baf9ad34c6c4625839542c616eb15ffd55",
+      "title": "Sydney’s Lockout Laws Finally Abolished After 12 Years of Cultural Damage",
+      "link": "https://www.decodedmagazine.com/sydneys-lockout-laws-finally-abolished-after-12-years-of-cultural-damage/",
+      "published": "2026-01-21T08:18:35.000Z",
+      "publishedTs": 1768983515000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "News",
+        "Clubbing",
+        "Economy",
+        "Lock Out Laws",
+        "Music Industry",
+        "Nightlife",
+        "NSW"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/kings-cross-sydney.webp",
+      "excerpt": "Twelve years to the day since they were first announced, Sydney&#8217;s lockout laws have been officially consigned to history. On 21 January 2026, the Minns Labor Government repealed the final major restrictions that have hung over the …"
+    },
     {
       "id": "fafd63c6657b6429a4185242734e23fe16422c60",
       "title": "From Dorset to Burning Man: Director Hoj Jomehri on Telling Lee Burridge’s Story",
@@ -538,22 +559,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
-    },
-    {
-      "id": "6609a157b7fb130c408f73abf772f3e7add84ed6",
-      "title": "Introducing Mix of the Year Winner – Wittak",
-      "link": "https://www.decodedmagazine.com/introducing-mix-of-the-year-winner-wittak/",
-      "published": "2026-01-09T09:55:26.000Z",
-      "publishedTs": 1767952526000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Breaks &amp; DnB",
-        "Interviews",
-        "Mixes"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Wittak-NSa-scaled.jpeg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner December 2025 and Mix of the Year &#8211; Wittak When a DJ wins our Mix of the Month competition in December and then goes on to claim 2025 Mix of the Year in the public vote barely a week or tw…"
     },
     {
       "id": "9d1d6fd10181cabee34a134049c61e02bf5205ea",
