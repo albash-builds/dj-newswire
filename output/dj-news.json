@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-21T12:50:38.676Z",
+  "generatedAt": "2026-01-21T13:46:02.272Z",
   "total": 110,
   "sources": [
     {
@@ -559,6 +559,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
       "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
+    },
+    {
+      "id": "eac93180ffa97ab17d340a9f98b627725349375d",
+      "title": "More than half of UK grassroots music venues failed to make a profit in 2025",
+      "link": "https://mixmag.net/read/more-than-half-uk-grassroots-music-venues-failed-make-profit-2025-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mvt-grassroots.jpg?width=660&fit=cover&s=j1Bj1VotTw59txPRrE2U6VlRfL1UmcLAeMJzUAOlyKA",
+      "excerpt": "Despite the figures, Music Venue Trust’s report did find that GMVs saw the lowest rate of decline since 2018 last year Continue reading..."
     },
     {
       "id": "9d1d6fd10181cabee34a134049c61e02bf5205ea",
@@ -1507,18 +1519,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-music.png?width=660&fit=cover&s=aQj7HwiXNbEh9f0rSROqI0G6V9piMydnSGoyAHQ3SD4",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "1394d32802a6525db79920cc20496a2742896f1d",
-      "title": "Festival line-ups you might have missed: Pavilion, We Love Green, Caprices",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-pavilion-we-love-green-caprices-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Crowds-at-Pavilion-Festival-2025.png?width=660&fit=cover&s=nhcEWZ7j-M4ciJWH8_89PkdnxP2ZHKMfXUHJBd3WhvY",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
