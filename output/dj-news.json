@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T01:48:02.355Z",
+  "generatedAt": "2026-01-22T03:48:01.776Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,30 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
+      "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
+      "link": "https://www.decodedmagazine.com/richie-hawtins-minimal-masterclass-revisiting-sheet-one-three-decades-on/",
+      "published": "2026-01-22T02:32:05.000Z",
+      "publishedTs": 1769049125000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "303",
+        "606",
+        "acid techno",
+        "Classic Album",
+        "minimal techno",
+        "Plastikman",
+        "Richie Hawtin",
+        "Techno",
+        "Throwback Thursday"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sheet-one-plastikman.jpg?resize=810%2C547&ssl=1",
+      "excerpt": "By 1993, techno had moved well beyond its first wave. The rave scene was pulling serious numbers into abandoned warehouses across the Midwest and Europe, while Warp&#8217;s Artificial Intelligence compilation had made it acceptable to su…"
+    },
     {
       "id": "454921baf9ad34c6c4625839542c616eb15ffd55",
       "title": "Sydney’s Lockout Laws Finally Abolished After 12 Years of Cultural Damage",
@@ -539,26 +563,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
-    },
-    {
-      "id": "b2236ad8e0cc5c60de019db33b59db68c2205b73",
-      "title": "Om Records Celebrates 30 Years with New Compilation",
-      "link": "https://www.decodedmagazine.com/om-records-celebrates-30-years-with-new-compilation/",
-      "published": "2026-01-09T22:24:07.000Z",
-      "publishedTs": 1767997447000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Groove Armada",
-        "House Music",
-        "Kenny Summit",
-        "Mark Farina",
-        "Om Records",
-        "San Francisco"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/om-records-2020-billboard-1548-1598378940-scaled.webp",
-      "excerpt": "Before labels like Dirtybird, Experts Only and Monstercat there was Om. Legends in the game and survivors of the past thirty years, Om — with over 800 releases under its belt – has withstood 9/11, the Dot Com bubble and burst, Napster, t…"
     },
     {
       "id": "fa2d581b4d20ded95c1c8453fc695320be4133ea",
