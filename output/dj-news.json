@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T16:37:14.973Z",
+  "generatedAt": "2026-01-22T17:29:12.621Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "720e509053692bdc666f31f76e67807bf24d08d2",
+      "title": "The Demise of Planet X",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sleaford-mods-the-demise-of-planet-x/",
+      "published": "2026-01-22T16:46:15.000Z",
+      "publishedTs": 1769100375000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Sleaford-Mods-The-Demise-of-Planet-X.jpg",
+      "excerpt": "Si hay algo de lo que no se puede acusar a los de Nottingham es falta de ética de trabajo.... La entrada The Demise of Planet X se publicó primero en MondoSonoro ."
+    },
     {
       "id": "e54d6f8611a04c189b3579a98679d241421fc108",
       "title": "Holo Boy",
@@ -329,7 +343,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Zu-Ferrum-Sidereum.jpg",
+      "image": "",
       "excerpt": "El nombre del nuevo disco del trío romano Zu, tiene total correlación con la entereza de su carrera. “Ferrum Sidereum”... La entrada Ferrum Sidereum se publicó primero en MondoSonoro ."
     },
     {
@@ -465,20 +479,6 @@
       "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
     },
     {
-      "id": "d54293358d5637753b6be38d3e74cb2d53715641",
-      "title": "Uno de esos días",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-jorge-uno-de-esos-dias/",
-      "published": "2026-01-13T09:55:05.000Z",
-      "publishedTs": 1768298105000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Chico-Jorge-Uno-de-esos-dias.jpg",
-      "excerpt": "Hay discos que suenan como una conversación pendiente con uno mismo. “Uno de esos días” (25), el debut de Chico... La entrada Uno de esos días se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
       "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
       "link": "https://www.decodedmagazine.com/skip-the-certificate-buy-more-records-the-case-against-dj-schools/",
@@ -563,6 +563,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
+    },
+    {
+      "id": "3d750c20136adbfd778cfbb33e16ccdb8eab0548",
+      "title": "Barbican announces new late-night party series",
+      "link": "https://mixmag.net/read/barbican-announces-new-late-night-party-series-anyone-can-dance-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Barbican.png?width=660&fit=cover&s=HKT41xMcTWFDJn9HxZEsfnWvpVNnuUyYVR3n3AcHk_A",
+      "excerpt": "Kicking off next month with a takeover from Eastern Margins, the party series will consist of five events each running until 3:AM Continue reading..."
     },
     {
       "id": "e46f3a0e363e2458ce18c57ac86dbd49a667effb",
@@ -1511,18 +1523,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spotify-credit-garley-gibson.jpg?width=660&fit=cover&s=2F87zO_fE9WpJQlM4HeB3r5Gaw48-3XyjiZmVCabTG8",
       "excerpt": "The group, named Anna’s Archive, says it now plans to release that music online Continue reading..."
-    },
-    {
-      "id": "d67a4422e5458761ed0d45f61f078a0e2d87a675",
-      "title": "The best DJ mixes of the year 2025",
-      "link": "https://mixmag.net/feature/best-dj-mixes-2025-dance-electronic-music-house-techno-club-amapiano-jungle-dnb",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-best-DJ-mixes-of-the-year-2025.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=qT7LxGCaGQmQOIbP_77jW9pnOL2Kx3m5tpWfZTIMf-U",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2025 Continue reading..."
     }
   ]
 }
