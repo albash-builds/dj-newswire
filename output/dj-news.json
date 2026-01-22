@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T08:32:53.868Z",
+  "generatedAt": "2026-01-22T09:32:50.301Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e54d6f8611a04c189b3579a98679d241421fc108",
+      "title": "Holo Boy",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/this-is-lorelei-holo-boy/",
+      "published": "2026-01-22T09:19:44.000Z",
+      "publishedTs": 1769073584000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/This-Is-Lorelei-Holo-Boy.jpg",
+      "excerpt": "No hace mucho tiempo que estábamos alabando las bonanzas del reciente álbum de Water From Your Eyes cuando pocos meses... La entrada Holo Boy se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c98e64e5e1add18016cd6281623048b873112ea3",
       "title": "Manolito",
@@ -463,20 +477,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Chico-Jorge-Uno-de-esos-dias.jpg",
       "excerpt": "Hay discos que suenan como una conversación pendiente con uno mismo. “Uno de esos días” (25), el debut de Chico... La entrada Uno de esos días se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2a2cebf37904098120092ff8b780c0ace1bedf65",
-      "title": "Azul",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/moises-no-duerme-azul/",
-      "published": "2026-01-13T09:37:13.000Z",
-      "publishedTs": 1768297033000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/moises-no-duerme.jpg",
-      "excerpt": "“Azul” es el nuevo álbum publicado por el rapero navarro Moisés No Duerme, un trabajo que planea por una mullida... La entrada Azul se publicó primero en MondoSonoro ."
     },
     {
       "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
