@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T07:27:51.882Z",
+  "generatedAt": "2026-01-22T08:32:53.868Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c98e64e5e1add18016cd6281623048b873112ea3",
+      "title": "Manolito",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/foyone-manolito/",
+      "published": "2026-01-22T07:41:47.000Z",
+      "publishedTs": 1769067707000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Foyone-Manolito.jpg",
+      "excerpt": "“Manolito” es el noveno álbum de Foyone como solista. Desde que el primero titulado “Mi Zoológico” (11) prendiera la cerilla... La entrada Manolito se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
       "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
@@ -463,20 +477,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/moises-no-duerme.jpg",
       "excerpt": "“Azul” es el nuevo álbum publicado por el rapero navarro Moisés No Duerme, un trabajo que planea por una mullida... La entrada Azul se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ad9b322d157bcf2a84f6d324cb159ff35afae397",
-      "title": "With Heaven On Top",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/zach-bryan-with-heaven-on-top/",
-      "published": "2026-01-13T09:12:22.000Z",
-      "publishedTs": 1768295542000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/zach-bryan-With-Heaven-On-Top.jpg",
-      "excerpt": "Zach Bryan es un hombre feliz. Muy feliz. Por lo visto todo le viene a favor y se encuentra en... La entrada With Heaven On Top se publicó primero en MondoSonoro ."
     },
     {
       "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
