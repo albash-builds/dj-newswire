@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-22T12:50:24.224Z",
+  "generatedAt": "2026-01-22T13:47:16.527Z",
   "total": 110,
   "sources": [
     {
@@ -563,6 +563,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
+    },
+    {
+      "id": "91fd7c06b8800f7354b3089397c16a7b24c39010",
+      "title": "Nightlife contributes £112 billion to UK economy annually, new report reveals",
+      "link": "https://mixmag.net/read/nightlife-contributes-112-billion-uk-economy-annually-new-report-reveals-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-credit-aj-collins.jpg?width=660&fit=cover&s=5UzSmTCG8UdPrLPZ31H0I8ZJw4mi9mBN0XZdfZxb8Lg",
+      "excerpt": "The report claims that the nightlife economy is the “most undervalued asset class in culture” Continue reading..."
+    },
+    {
+      "id": "fbc131de939c07e1034fea728647a7ce133ed2b2",
+      "title": "SHERELLE announces SHERELLELAND grassroots music venue tour",
+      "link": "https://mixmag.net/read/sherelle-announces-sherelleland-grassroots-musc-venue-tour-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHERELLE.png?width=660&fit=cover&s=fda-WNBSIWsH4w6T21JPITfgFDRbqFKuHzW2BAVhEtE",
+      "excerpt": "Working alongside Save Our Scene and the Music Venue Trust, SHERELLE will host affordable shows in Blackpool, Exeter, Sheffield, and more Continue reading..."
     },
     {
       "id": "82902cb3f313de986ee5923c2423db7a19ec44fd",
@@ -1499,30 +1523,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bestof25_header-01-01.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=xkD1IX2MWRzc9I7jNcK2lqb78D6R47Dqesp8jsyDQPs",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2025 Continue reading..."
-    },
-    {
-      "id": "29e44e08f103df4b568a81fef6b301a6bb4d1554",
-      "title": "Industry Insider: An interview with The Pacha Group CEO, Aloki Batra",
-      "link": "https://mixmag.net/feature/industry-insider-an-interview-with-the-pacha-group-ceo-aloki-batra",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Aloki-Batra-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=U4sUyAHpWvpbbgULDqMeKweNn1DG4QE8DX2Rxulh6ug",
-      "excerpt": "We spoke to the head of FIVE Hospitality and The Pacha Group about the reimagining of Destino Pacha Hotel, and the equal parts art and science behind club programming Continue reading..."
-    },
-    {
-      "id": "6810530ba681b91bad11b1765bb388c4e1026c91",
-      "title": "Ken Downie, founding member of Sheffield electronic outfit The Black Dog, has died",
-      "link": "https://mixmag.net/read/the-black-dogs-ken-downie-has-died-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-Black-Dog.png?width=660&fit=cover&s=MerEXmTQWS1CHeHmXqJLoav3Py3bO6aADfSrP9hFKcs",
-      "excerpt": "Downie&#039;s bandmates have paid tribute to the late experimental artist online Continue reading..."
     }
   ]
 }
