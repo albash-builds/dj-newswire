@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-23T12:47:21.094Z",
+  "generatedAt": "2026-01-23T13:42:44.266Z",
   "total": 110,
   "sources": [
     {
@@ -563,6 +563,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
+    },
+    {
+      "id": "2af0eb313e20e5f0a8d43cb6b19081779fc2b7b8",
+      "title": "Video series spotlighting UK record stores returns for 12-episode run",
+      "link": "https://mixmag.net/read/video-series-spotlighting-uk-record-stores-returns-12-episode-run-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/behind-the-counter.jpg?width=660&fit=cover&s=1ls2L9rRSHDVfPMUBLT744RUAGsCeCefhfAE-ebggBk",
+      "excerpt": "Each episode of Behind the Counter offers an &quot;intimate look&quot; at independent stores Continue reading..."
     },
     {
       "id": "3d750c20136adbfd778cfbb33e16ccdb8eab0548",
@@ -1511,18 +1523,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pras-michel-credit-vlad-tv.jpg?width=660&fit=cover&s=GoD7lT_N3EfuN6QmWqz4RmeNR3wxGdGUUwUhIGNMubo",
       "excerpt": "A spokesperson for Pras called his trial a “coronation of guilt” in a statement to Mixmag Continue reading..."
-    },
-    {
-      "id": "3a7058ea5d673ed8a6310a3618e99ecf1176c8bf",
-      "title": "Activist group claims to have scraped 86 million songs from Spotify",
-      "link": "https://mixmag.net/read/activist-group-says-scraped-86-million-songs-spotify-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spotify-credit-garley-gibson.jpg?width=660&fit=cover&s=2F87zO_fE9WpJQlM4HeB3r5Gaw48-3XyjiZmVCabTG8",
-      "excerpt": "The group, named Anna’s Archive, says it now plans to release that music online Continue reading..."
     }
   ]
 }
