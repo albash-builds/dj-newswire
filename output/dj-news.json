@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-25T09:21:59.134Z",
+  "generatedAt": "2026-01-25T10:21:28.651Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Downward-Spiral-Redux.jpg",
       "excerpt": "La zaga de los Redux del sello neoyorquino Magnetic Eye Records vuelve a demostrar que tiene una curaduría de gran... La entrada The Downward Spiral (Redux) se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1da4263e637c594b8e0cb01ae31544cf95da2868",
+      "title": "New music on our radar this week: James Blake, Honey Dijon, Gooooose",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-james-blake-honey-dijon-gooooose-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-t.png?width=660&fit=cover&s=WrjEXXFz9uwaLpw8ut0NL5gYXUe_KhB5oijq1R43Kck",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "75f5031af27904435650a8c2e9e7eeb4788ed239",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MDMA-Testing.png?width=660&fit=cover&s=W_uZxczx4coTQh6wQeQHc2nNAHVielJ5hXwe4yGBN_k",
       "excerpt": "According to testing figures from The Loop, around 40% of pills contained over 200mg of MDMA Continue reading..."
-    },
-    {
-      "id": "fe4497cc6ea4a392d51c69e6e1934a0dbcc50d26",
-      "title": "Wiz Khalifa given 9-month jail sentence in Romania for smoking weed on stage",
-      "link": "https://mixmag.net/read/wiz-khalifa-given-9-month-jail-sentence-in-romania-for-smoking-weed-on-stage-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wiz-khalifa.png?width=660&fit=cover&s=54lBlWiL7anfN5HnZwEe5NOr9xa7KuLSZLDo0ugjwcU",
-      "excerpt": "A Romanian appeals court overturned a fine against the US rapper concerning an incident that took place at Beach, Please! Festival in 2024 Continue reading..."
     }
   ]
 }
