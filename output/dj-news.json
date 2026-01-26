@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T11:20:49.952Z",
+  "generatedAt": "2026-01-26T12:48:51.804Z",
   "total": 110,
   "sources": [
     {
@@ -563,6 +563,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
       "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
+    },
+    {
+      "id": "e1998e597162da9013c584bce248ed9b0c6ed0d7",
+      "title": "Robert Pattinson: “I had my headphones over the bat ears, making electronic music”",
+      "link": "https://mixmag.net/read/robert-pattinson-batman-making-ambient-electronic-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-batman.png?width=660&fit=cover&s=aSpoQV-tNlR9r8xwn5lO5FriXjuRIJV7tFkpocjkC9s",
+      "excerpt": "The Batman star spoke about his love for 100 Gecs and making &quot;ambient&quot; music in a new interview Continue reading..."
+    },
+    {
+      "id": "c1b8ab84d90894e4e3ce81b297aa7b197b26e856",
+      "title": "French nightclubs closed over fire safety concerns following deadly Swiss club blaze",
+      "link": "https://mixmag.net/read/fire-safety-closures-across-france-following-deadly-swiss-blaze-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/swiss-nightlcub.png?width=660&fit=cover&s=hhCev2XH5_XyydxfyZTMhRhnbzRY0XjfOOQvwQIet1s",
+      "excerpt": "40 people were killed and a further 100 injured as a result of the fire in Switzerland, which ripped through Le Constellation bar in Crans Montana on New Year&#039;s Eve Continue reading..."
     },
     {
       "id": "1da4263e637c594b8e0cb01ae31544cf95da2868",
@@ -1499,30 +1523,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kneecap-shirt.png?width=660&fit=cover&s=iwiNNMgps7BuAOo94QQOdaSJfuw1iGGrjvifQL7YkH8",
       "excerpt": "30% of all profits from the Dublin football club&#039;s away shirt will go to West Bank charity ACLAÍ Palestine Continue reading..."
-    },
-    {
-      "id": "0253ffb4d580bed1b24e453217b332c17ed6aafa",
-      "title": "The Cover Mix: Lancey Foux",
-      "link": "https://mixmag.net/feature/lancey-foux-cover-mix-mixmag-lab-club-blue",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_LF_WEB2_2025-11-03-125715_eekl.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=fIH5CMfnPyh2cxn_UXQpNwwhJ_OXg4k0XHaqjUCkhR4",
-      "excerpt": "Lancey Foux &amp; Friends takes over the Mixmag Lab London for a special performance and showcase of his CLUB BLUE concept for his exclusive Cover Mix Continue reading..."
-    },
-    {
-      "id": "a15b4c62aa7bb9dbf0894b82f463fdebf57ea388",
-      "title": "Average UK pill strength was double the common adult dose in 2025",
-      "link": "https://mixmag.net/read/average-uk-pill-strength-was-double-common-adult-dose-in-2025-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MDMA-Testing.png?width=660&fit=cover&s=W_uZxczx4coTQh6wQeQHc2nNAHVielJ5hXwe4yGBN_k",
-      "excerpt": "According to testing figures from The Loop, around 40% of pills contained over 200mg of MDMA Continue reading..."
     }
   ]
 }
