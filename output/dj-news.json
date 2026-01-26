@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T16:34:36.013Z",
+  "generatedAt": "2026-01-26T17:29:26.142Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "638ccf0966a078b12669c66e8ec39bdfd0855eaf",
+      "title": "Burdin gozoa eta arrabioa",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/physis-versus-nomos-burdin-gozoa-eta-arrabioa/",
+      "published": "2026-01-26T16:57:11.000Z",
+      "publishedTs": 1769446631000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Physis-vs-nomos.jpg",
+      "excerpt": "Batzuetan tiradera batean abestiak gordeta ekartzeak etorkizuneko lan berriak sortzeko bide ematen du eta ez dago zalantzarik itxaronaldiak merezi izan... La entrada Burdin gozoa eta arrabioa se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "abff1336c134fecaf427af541ce0e1450ff711e5",
+      "title": "Una mudanza",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hens-una-mudanza/",
+      "published": "2026-01-26T16:48:52.000Z",
+      "publishedTs": 1769446132000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/hens-una-mudanza.jpg",
+      "excerpt": "\"Una Mudanza\" no es solo el título del nuevo álbum de Hens, es la declaración de intenciones de un artista... La entrada Una mudanza se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2f1e2bed5165cb0340105fe185d142ba64699d0d",
       "title": "Valentine",
@@ -251,20 +279,6 @@
       "excerpt": "Amnesia, Ibiza’s home of underground clubbing for 50 years, marks five decades of music, movement, and shared experience with a year of anniversary events, guest line ups, and cultural collaborations throughout 2026. A landmark year for …"
     },
     {
-      "id": "61ac6eb05439db00630b4511a8ca2325e5fc7b8d",
-      "title": "Don’t Be Dumb",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/asap-rocky-dont-be-dumb/",
-      "published": "2026-01-20T09:14:50.000Z",
-      "publishedTs": 1768900490000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/ASAP-Rocky-Don-t-Be-Dumb.jpg",
-      "excerpt": "En una entrevista previa a la publicación de “Don’t Be Dumb”, su primer disco en casi una década, A$AP Rocky... La entrada Don’t Be Dumb se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "be932ac473905cabd5107816881c2426c3983f2b",
       "title": "HAAi and Weirdcore Collaborate on New Track and Visualizer for Native Instruments’ Absynth 6",
       "link": "https://www.decodedmagazine.com/haai-and-weirdcore-collaborate-on-new-track-and-visualizer-for-native-instruments-absynth-6/",
@@ -298,20 +312,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a3356282128_10.jpg",
       "excerpt": "Perception by Marcel Reix Barcelona&#8217;s Marcel Reix debuts on SCI+TEC with &#8220;Perception&#8221;, fulfilling a dream for the longtime Dubfire admirer. The three-track EP showcases Marcel&#8217;s range: title track &#8220;Perceptio…"
-    },
-    {
-      "id": "fcc216396ea570fe9edae91c475ed461b1a2e0dd",
-      "title": "Primer Moviment",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/romantic-dimoni-primer-moviment/",
-      "published": "2026-01-19T12:55:12.000Z",
-      "publishedTs": 1768827312000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Romantic-Dimoni-PRIMER-MOVIMENT.jpg",
-      "excerpt": "La sinceridad es un ejercicio casi suicida en la sociedad actual. Por eso, la ternura y el cariño son actos... La entrada Primer Moviment se publicó primero en MondoSonoro ."
     },
     {
       "id": "2d385669f8552c235d85fa8bf08d02873bf917c7",
