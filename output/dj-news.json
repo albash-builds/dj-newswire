@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-26T07:27:55.169Z",
+  "generatedAt": "2026-01-26T08:33:22.560Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8eda919042d87717efba4e399fe60d4e3d905874",
+      "title": "Blizzard",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dove-ellis-blizzard/",
+      "published": "2026-01-26T08:30:03.000Z",
+      "publishedTs": 1769416203000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dove-Ellis-Blizzard.jpg",
+      "excerpt": "Dove Ellis no inventa la rueda, pero puede decirse que perfecciona el diseño de sus bandas de rodaje, y ese... La entrada Blizzard se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "fc73166b9e4f08c9f8c06993476c00e9c97fa18a",
+      "title": "Ana Curra y los 13 Apóstoles presentan: La Última Cena de Parálisis Permanente",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ana-curra-y-los-13-apostoles-presentan/",
+      "published": "2026-01-26T08:09:31.000Z",
+      "publishedTs": 1769414971000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Ana-Curra-y-los-13-Apostoles-presentan.jpg",
+      "excerpt": "Ana Curra se rodea de trece apóstoles muy actuales para volver a mirar “El Acto”, uno de los trabajos más... La entrada Ana Curra y los 13 Apóstoles presentan: La Última Cena de Parálisis Permanente se publicó primero en MondoSonoro ."
+    },
     {
       "id": "720e509053692bdc666f31f76e67807bf24d08d2",
       "title": "The Demise of Planet X",
@@ -386,34 +414,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Chemical-Brothers-Tom-Rowlands-1997-scaled.webp",
       "excerpt": "There&#8217;s something instructive about the cover of Surrender. A solitary figure, arms aloft in total euphoria, captured at the 1976 Olympia Music Festival. Richard Young&#8217;s photograph, saturated in vibrant colour, presents a kin…"
-    },
-    {
-      "id": "8d929f3c031041df7c164a9f93310168985a9edc",
-      "title": "R is for Rocket",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/rocket-r-is-for-rocket/",
-      "published": "2026-01-14T10:35:43.000Z",
-      "publishedTs": 1768386943000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Rocket-R-is-for-Rocket.jpg",
-      "excerpt": "La sensación escuchando \"R is for Rocket\" es un poco como cuando entrabas demasiado pronto al A Saco y el... La entrada R is for Rocket se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "113fdc3b0e60aa26a27619a4a10bca8225c39aa6",
-      "title": "The Downward Spiral (Redux)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-downward-spiral-redux/",
-      "published": "2026-01-14T08:25:34.000Z",
-      "publishedTs": 1768379134000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Downward-Spiral-Redux.jpg",
-      "excerpt": "La zaga de los Redux del sello neoyorquino Magnetic Eye Records vuelve a demostrar que tiene una curaduría de gran... La entrada The Downward Spiral (Redux) se publicó primero en MondoSonoro ."
     },
     {
       "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
