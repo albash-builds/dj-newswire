@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-26T10:27:05.340Z",
-  "total": 90,
+  "generatedAt": "2026-01-26T11:20:49.952Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,14 +18,7 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
-    {
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "id": "2f1e2bed5165cb0340105fe185d142ba64699d0d",
@@ -126,6 +119,87 @@
       "excerpt": "“Manolito” es el noveno álbum de Foyone como solista. Desde que el primero titulado “Mi Zoológico” (11) prendiera la cerilla... La entrada Manolito se publicó primero en MondoSonoro ."
     },
     {
+      "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
+      "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
+      "link": "https://www.decodedmagazine.com/richie-hawtins-minimal-masterclass-revisiting-sheet-one-three-decades-on/",
+      "published": "2026-01-22T02:32:05.000Z",
+      "publishedTs": 1769049125000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "303",
+        "606",
+        "acid techno",
+        "Classic Album",
+        "minimal techno",
+        "Plastikman",
+        "Richie Hawtin",
+        "Techno",
+        "Throwback Thursday"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sheet-one-plastikman.jpg?resize=810%2C547&ssl=1",
+      "excerpt": "By 1993, techno had moved well beyond its first wave. The rave scene was pulling serious numbers into abandoned warehouses across the Midwest and Europe, while Warp&#8217;s Artificial Intelligence compilation had made it acceptable to su…"
+    },
+    {
+      "id": "454921baf9ad34c6c4625839542c616eb15ffd55",
+      "title": "Sydney’s Lockout Laws Finally Abolished After 12 Years of Cultural Damage",
+      "link": "https://www.decodedmagazine.com/sydneys-lockout-laws-finally-abolished-after-12-years-of-cultural-damage/",
+      "published": "2026-01-21T08:18:35.000Z",
+      "publishedTs": 1768983515000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "News",
+        "Clubbing",
+        "Economy",
+        "Lock Out Laws",
+        "Music Industry",
+        "Nightlife",
+        "NSW"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/kings-cross-sydney.webp",
+      "excerpt": "Twelve years to the day since they were first announced, Sydney&#8217;s lockout laws have been officially consigned to history. On 21 January 2026, the Minns Labor Government repealed the final major restrictions that have hung over the …"
+    },
+    {
+      "id": "fafd63c6657b6429a4185242734e23fe16422c60",
+      "title": "From Dorset to Burning Man: Director Hoj Jomehri on Telling Lee Burridge’s Story",
+      "link": "https://www.decodedmagazine.com/from-dorset-to-burning-man-director-hoj-jomehri-on-telling-lee-burridges-story/",
+      "published": "2026-01-21T05:20:59.000Z",
+      "publishedTs": 1768972859000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "All Day I Dream",
+        "deep house",
+        "Documentary",
+        "Lee Burridge",
+        "Progressive House",
+        "Rave Culture",
+        "Video production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/soad_bts_LeeInterview.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "There&#8217;s something quietly compelling about documentaries that manage to capture the essence of electronic music culture without resorting to the usual visual clichés or breathless narration. Hoj Jomehri&#8217; s Sound of a Dream, w…"
+    },
+    {
+      "id": "405fd707d0733d567fcdf82f73d38730ee6a88cc",
+      "title": "Exclusive Premiere – Bebetta – We’re Getting Down",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-bebetta-were-getting-down/",
+      "published": "2026-01-21T01:22:35.000Z",
+      "publishedTs": 1768958555000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
+    },
+    {
       "id": "b43e3d6d1d403602ed604de1b62d856a02336b86",
       "title": "Madrid 15-02-2025 Akelarre Antifascista",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/akelarre-antifascista/",
@@ -138,6 +212,43 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Akelarre-Antifascista.jpg",
       "excerpt": "“¡Madrid, qué bien resistes!”. Esta fue la última frase que exclamó Fermin Muguruza al terminar su concierto en Madrid el... La entrada Madrid 15-02-2025 Akelarre Antifascista se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "17d6f131cf6bd6cca454ae974a1f164a10f9238c",
+      "title": "lovetempo drops Never the Same single",
+      "link": "https://www.decodedmagazine.com/lovetempo-drops-never-the-same-single/",
+      "published": "2026-01-20T10:35:28.000Z",
+      "publishedTs": 1768905328000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "downtempo",
+        "Electronica",
+        "Jazz",
+        "Soul",
+        "Soulful House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/lovetempo-press-photo-2-Jul-25-Moriah-Ziman-scaled.jpg",
+      "excerpt": "lovetempo is the project of Brooklyn-based musician and vocalist Mattie Safer, also known for his work with Poolside and The Rapture. Blending soul, disco, house, and jazz-funk with soul-baring tenderness and an ear for rhythmic detail, …"
+    },
+    {
+      "id": "a48a00fd78935b0bc55df9bc98072d49906262db",
+      "title": "Amnesia celebrates its 50th anniversary",
+      "link": "https://www.decodedmagazine.com/amnesia-celebrates-its-50th-anniversary/",
+      "published": "2026-01-20T10:10:40.000Z",
+      "publishedTs": 1768903840000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Ibiza",
+        "Amnesia",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/amnesia-ibiza-2026.png?resize=810%2C1013&ssl=1",
+      "excerpt": "Amnesia, Ibiza’s home of underground clubbing for 50 years, marks five decades of music, movement, and shared experience with a year of anniversary events, guest line ups, and cultural collaborations throughout 2026. A landmark year for …"
     },
     {
       "id": "61ac6eb05439db00630b4511a8ca2325e5fc7b8d",
@@ -154,6 +265,41 @@
       "excerpt": "En una entrevista previa a la publicación de “Don’t Be Dumb”, su primer disco en casi una década, A$AP Rocky... La entrada Don’t Be Dumb se publicó primero en MondoSonoro ."
     },
     {
+      "id": "be932ac473905cabd5107816881c2426c3983f2b",
+      "title": "HAAi and Weirdcore Collaborate on New Track and Visualizer for Native Instruments’ Absynth 6",
+      "link": "https://www.decodedmagazine.com/haai-and-weirdcore-collaborate-on-new-track-and-visualizer-for-native-instruments-absynth-6/",
+      "published": "2026-01-20T05:17:07.000Z",
+      "publishedTs": 1768886227000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Absynth",
+        "HAAi",
+        "Native Instruments",
+        "Visualiser",
+        "Weirdcore"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/unnamed-9.jpg",
+      "excerpt": "London-based digital artist Weirdcore (Aphex Twin, Radiohead/the smile, Charli XCX, Daniel Lopatin) has collaborated with Native Instruments to create the visuals for the newly released Absynth 6 &#8211; the legendary soft synth used on …"
+    },
+    {
+      "id": "1ea89ced61df4be6840d62ffc0ea6932318154bb",
+      "title": "SCI+TEC just announced Perception by Marcel Reix",
+      "link": "https://www.decodedmagazine.com/scitec-just-announced-perception-by-marcel-reix/",
+      "published": "2026-01-20T05:05:48.000Z",
+      "publishedTs": 1768885548000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Marcel Reix",
+        "SCI+TEC"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a3356282128_10.jpg",
+      "excerpt": "Perception by Marcel Reix Barcelona&#8217;s Marcel Reix debuts on SCI+TEC with &#8220;Perception&#8221;, fulfilling a dream for the longtime Dubfire admirer. The three-track EP showcases Marcel&#8217;s range: title track &#8220;Perceptio…"
+    },
+    {
       "id": "fcc216396ea570fe9edae91c475ed461b1a2e0dd",
       "title": "Primer Moviment",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/romantic-dimoni-primer-moviment/",
@@ -166,6 +312,257 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Romantic-Dimoni-PRIMER-MOVIMENT.jpg",
       "excerpt": "La sinceridad es un ejercicio casi suicida en la sociedad actual. Por eso, la ternura y el cariño son actos... La entrada Primer Moviment se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "2d385669f8552c235d85fa8bf08d02873bf917c7",
+      "title": "The Politics of Partying: Why Electronic Music Has Always Been Political",
+      "link": "https://www.decodedmagazine.com/the-politics-of-partying-why-electronic-music-has-always-been-political/",
+      "published": "2026-01-19T08:34:09.000Z",
+      "publishedTs": 1768811649000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Criminal Justice and Public Order Act",
+        "Detroit",
+        "History",
+        "Iran",
+        "Minorities",
+        "Music Industry",
+        "Politics",
+        "Race",
+        "Russia",
+        "Social media"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/reading-the-rosetta-stone-of-rave-culture-looking-at-the-criminal-justice-and-public-order-act-of-1994-body-image-1488968311.webp?resize=810%2C521&ssl=1",
+      "excerpt": "Thirty years into this thing we do, and I&#8217;m still hearing the same tired argument: electronic music isn&#8217;t political; it&#8217;s just escapism, just hedonism, just 4/4 music and ravers preaching PLUR in dark rooms. If I had a …"
+    },
+    {
+      "id": "d534780babd70a3561eb5efca319b3a34384e097",
+      "title": "fabric taps DJ Tennis for new mix compilation",
+      "link": "https://www.decodedmagazine.com/fabric-taps-dj-tennis-for-new-mix-compilation/",
+      "published": "2026-01-16T03:45:28.000Z",
+      "publishedTs": 1768535128000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "DJ Tennis",
+        "Fabric",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Artwork.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
+    },
+    {
+      "id": "59314494a7b14a5b2b3158edb9ae0ad31609dc12",
+      "title": "A decade later, Hernan Cattaneo and Mercurio rework HVOB’s “Attention”",
+      "link": "https://www.decodedmagazine.com/a-decade-later-hernan-cattaneo-and-mercurio-rework-hvobs-attention/",
+      "published": "2026-01-16T03:31:39.000Z",
+      "publishedTs": 1768534299000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Cercle Music",
+        "Hernan Cattaneo",
+        "HVOB",
+        "Progressive House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Cover_HVOB_Attention-Hernan-Cattaneo-Mercurio-Remix-scaled.jpg",
+      "excerpt": "Cercle Records kicks off the year with the release of HVOB’s “Attention”, reimagined by Hernan Cattaneo &amp; Mercurio. Ten years after its original release, this new version honors the original track’s hypnotic beauty while infusing it …"
+    },
+    {
+      "id": "65609a9dfc0702095f1b2afad1b78ed7a0b51185",
+      "title": "Bandcamp takes a stand against AI-generated content",
+      "link": "https://www.decodedmagazine.com/bandcamp-takes-a-stand-against-ai-generated-content/",
+      "published": "2026-01-15T04:07:19.000Z",
+      "publishedTs": 1768450039000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "AI",
+        "artists",
+        "Bandcamp",
+        "Music distribution",
+        "Streaming"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/bandcamp-decoded.png",
+      "excerpt": "Bandcamp has drawn a line in the sand. In an announcement posted to their blog on 13th January , the platform declared that music generated wholly or substantially by AI will no longer be permitted on their service. It&#8217;s a policy t…"
+    },
+    {
+      "id": "f82956c298c07e877324b5e87a08870c7c071b10",
+      "title": "Throwback Thursday – How Surrender Cemented the Chemical Brothers as All Time Greats",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-how-surrender-cemented-the-chemical-brothers-as-all-time-greats/",
+      "published": "2026-01-15T03:33:07.000Z",
+      "publishedTs": 1768447987000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "Big Beat",
+        "Brit Award",
+        "Electronica",
+        "Indie",
+        "Noel Gallagher",
+        "Surrender",
+        "The Chemical Brothers"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Chemical-Brothers-Tom-Rowlands-1997-scaled.webp",
+      "excerpt": "There&#8217;s something instructive about the cover of Surrender. A solitary figure, arms aloft in total euphoria, captured at the 1976 Olympia Music Festival. Richard Young&#8217;s photograph, saturated in vibrant colour, presents a kin…"
+    },
+    {
+      "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
+      "title": "Three-day experiential program merging Art and Electronic Music to close San Francisco Art Week",
+      "link": "https://www.decodedmagazine.com/three-day-experiential-program-merging-art-and-electronic-music-to-close-san-francisco-art-week/",
+      "published": "2026-01-14T06:31:53.000Z",
+      "publishedTs": 1768372313000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Art",
+        "California",
+        "Electronica",
+        "House Music",
+        "Pier 29",
+        "San Francisco Art Week",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/sfartweek.webp",
+      "excerpt": "Bay Area nonprofit Endzeit announces California: a shifting identity , a landmark three-day program exploring shifting sociocultural landscapes through contemporary art and live electronic music. Taking place January 23–25, 2026, at the …"
+    },
+    {
+      "id": "3ac31e600616431d3622c88560c9ea3e10e9bc83",
+      "title": "Mobilee presents Part Two of the 20 year anniversary compilation",
+      "link": "https://www.decodedmagazine.com/mobilee-presents-part-two-of-the-20-year-anniversary-compilation/",
+      "published": "2026-01-14T06:17:34.000Z",
+      "publishedTs": 1768371454000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Anja Schneider",
+        "House Music",
+        "Mobilee",
+        "Progressive House",
+        "Ralf Kollmann",
+        "Rodriguez Jr",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mobilee.jpg",
+      "excerpt": "Mobilee presents Part Two of the 20 year anniversary compilation, a release that shines a light on the label’s evolution throughout the last decade. While Part One revisited the foundations and early milestones of mobilee, this second in…"
+    },
+    {
+      "id": "07f4d6ec15c80dfe10d2302ff3d995f888c75a36",
+      "title": "David August announces forthcoming album ‘Hymns",
+      "link": "https://www.decodedmagazine.com/david-august-announces-forthcoming-album-hymns/",
+      "published": "2026-01-13T12:37:10.000Z",
+      "publishedTs": 1768307830000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "chill out",
+        "David August",
+        "deep house",
+        "Electronica",
+        "Germany",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
+      "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
+    },
+    {
+      "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
+      "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
+      "link": "https://www.decodedmagazine.com/skip-the-certificate-buy-more-records-the-case-against-dj-schools/",
+      "published": "2026-01-13T07:25:27.000Z",
+      "publishedTs": 1768289127000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "beatmatching",
+        "Courses",
+        "Digital DJ Tips",
+        "DJ City",
+        "DJ Classes",
+        "DJ schools",
+        "Music Academy",
+        "music production",
+        "Scratching",
+        "Youtube"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/595933632_1452432293448452_1254124789013007118_n.jpg",
+      "excerpt": "There&#8217;s a certain irony in the modern dance music landscape. We&#8217;ve got more resources, more technology, and more supposed shortcuts to DJ stardom than ever before, yet we&#8217;re somehow producing fewer truly distinctive voi…"
+    },
+    {
+      "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
+      "title": "Damian Lazarus Announces Day Zero Bali Lineup ft. Jamie Jones, Ame, Bonobo + more",
+      "link": "https://www.decodedmagazine.com/damian-lazarus-announces-day-zero-bali-lineup-ft-jamie-jones-ame-bonobo-more/",
+      "published": "2026-01-12T09:51:57.000Z",
+      "publishedTs": 1768211517000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "World",
+        "Damian Lazarus",
+        "deep house",
+        "GWK Cultural Park",
+        "House Music",
+        "Indonesia",
+        "Tech House",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/DZT2025_0112_074259-6962_DRB.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Damian Lazarus’ Day Zero takes shape as Day Zero Bali reveals the artists that will guide its next sacred gathering. On April 17, 2026, sound, land, and spirit align in a rare convergence &#8211; a carefully curated assembly of global se…"
+    },
+    {
+      "id": "fb547c100fdb04087d00aada4b2f477fdc9adafb",
+      "title": "Brickman drops Ixtlan",
+      "link": "https://www.decodedmagazine.com/brickman-drops-ixtlan/",
+      "published": "2026-01-12T06:02:44.000Z",
+      "publishedTs": 1768197764000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Brickman",
+        "dub techno",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a2972824982_10.jpg",
+      "excerpt": "Brickman &#8211; Ixtlan [LF361] by Brickman This is pure sonic hypnosis. With Ixtlan, Brickman returns to Lucidflow at his absolute creative peak delivering one of the most transcendent dub techno journeys of the year. Brickman has long …"
+    },
+    {
+      "id": "c42eafe1db7e1a2013bbfbac1982c277334f3292",
+      "title": "Decoded Magazine Launches Discord Community",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-launches-discord-community/",
+      "published": "2026-01-12T05:21:09.000Z",
+      "publishedTs": 1768195269000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "advice",
+        "AMA",
+        "Chat",
+        "Discord",
+        "Forum",
+        "Mix of the Month",
+        "Social media"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
+      "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
     },
     {
       "id": "1da4263e637c594b8e0cb01ae31544cf95da2868",
