@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T09:33:21.596Z",
+  "generatedAt": "2026-01-27T10:28:14.983Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "22ed1f7bf0ba74d6195a7c69218af30db46835d2",
+      "title": "Not Like Everybody Else",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-damned-not-like-everybody-else/",
+      "published": "2026-01-27T10:13:35.000Z",
+      "publishedTs": 1769508815000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Damned-Not-Like-Everybody-Else.jpg",
+      "excerpt": "Este no es un disco de circunstancias, aunque nazca de una ausencia. Es un gesto. Un cierre de círculo. The... La entrada Not Like Everybody Else se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5062a76473c831e1856574d8171b41adb17ebee9",
       "title": "XOYO London Returns To Independent, Underground Roots",
@@ -354,20 +368,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
       "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
-    },
-    {
-      "id": "b43e3d6d1d403602ed604de1b62d856a02336b86",
-      "title": "Madrid 15-02-2025 Akelarre Antifascista",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/akelarre-antifascista/",
-      "published": "2026-01-20T16:13:36.000Z",
-      "publishedTs": 1768925616000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Akelarre-Antifascista.jpg",
-      "excerpt": "“¡Madrid, qué bien resistes!”. Esta fue la última frase que exclamó Fermin Muguruza al terminar su concierto en Madrid el... La entrada Madrid 15-02-2025 Akelarre Antifascista se publicó primero en MondoSonoro ."
     },
     {
       "id": "17d6f131cf6bd6cca454ae974a1f164a10f9238c",
