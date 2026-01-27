@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T07:27:47.815Z",
+  "generatedAt": "2026-01-27T08:33:37.202Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,23 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5062a76473c831e1856574d8171b41adb17ebee9",
+      "title": "XOYO London Returns To Independent, Underground Roots",
+      "link": "https://www.decodedmagazine.com/xoyo-london-returns-to-independent-underground-roots/",
+      "published": "2026-01-27T07:53:19.000Z",
+      "publishedTs": 1769500399000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "London",
+        "Nightclub",
+        "XOYO London"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
+      "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
+    },
     {
       "id": "ecb6d12c994ce5d42b6d45faae5e4851d333d7b5",
       "title": "Should Governments Pay Artists a Living Wage?",
@@ -546,27 +563,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/sfartweek.webp",
       "excerpt": "Bay Area nonprofit Endzeit announces California: a shifting identity , a landmark three-day program exploring shifting sociocultural landscapes through contemporary art and live electronic music. Taking place January 23–25, 2026, at the …"
-    },
-    {
-      "id": "3ac31e600616431d3622c88560c9ea3e10e9bc83",
-      "title": "Mobilee presents Part Two of the 20 year anniversary compilation",
-      "link": "https://www.decodedmagazine.com/mobilee-presents-part-two-of-the-20-year-anniversary-compilation/",
-      "published": "2026-01-14T06:17:34.000Z",
-      "publishedTs": 1768371454000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Anja Schneider",
-        "House Music",
-        "Mobilee",
-        "Progressive House",
-        "Ralf Kollmann",
-        "Rodriguez Jr",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mobilee.jpg",
-      "excerpt": "Mobilee presents Part Two of the 20 year anniversary compilation, a release that shines a light on the label’s evolution throughout the last decade. While Part One revisited the foundations and early milestones of mobilee, this second in…"
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
