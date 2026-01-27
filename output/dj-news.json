@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T06:35:48.587Z",
+  "generatedAt": "2026-01-27T07:27:47.815Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ecb6d12c994ce5d42b6d45faae5e4851d333d7b5",
+      "title": "Should Governments Pay Artists a Living Wage?",
+      "link": "https://www.decodedmagazine.com/should-governments-pay-artists-a-living-wage/",
+      "published": "2026-01-27T06:38:26.000Z",
+      "publishedTs": 1769495906000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "artists",
+        "Ireland",
+        "Living Wage",
+        "Music Industry",
+        "Musicians",
+        "Universal Income"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Musician-universal-icome-decoded-magazine-scaled.jpg",
+      "excerpt": "Ireland did something most governments only talk about. In October 2025, they announced their Basic Income for the Arts pilot would become permanent, making them the first country to commit state funding to directly support artists throu…"
+    },
     {
       "id": "5dd006639b326cca4c782c70b39c76276dd6fe30",
       "title": "Landmark Nightlife Taskforce Report Sets Out Clear Roadmap for London After Dark",
@@ -546,27 +567,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/mobilee.jpg",
       "excerpt": "Mobilee presents Part Two of the 20 year anniversary compilation, a release that shines a light on the label’s evolution throughout the last decade. While Part One revisited the foundations and early milestones of mobilee, this second in…"
-    },
-    {
-      "id": "07f4d6ec15c80dfe10d2302ff3d995f888c75a36",
-      "title": "David August announces forthcoming album ‘Hymns",
-      "link": "https://www.decodedmagazine.com/david-august-announces-forthcoming-album-hymns/",
-      "published": "2026-01-13T12:37:10.000Z",
-      "publishedTs": 1768307830000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "David August",
-        "deep house",
-        "Electronica",
-        "Germany",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
-      "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
