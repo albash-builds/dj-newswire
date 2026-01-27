@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T12:51:16.807Z",
+  "generatedAt": "2026-01-27T13:47:57.144Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a39dbaae1d84b1af62b82c0b2977b9a5efb3056d",
+      "title": "Crítica de 'Vidas Semipreciosas', lo nuevo de Nacho Vegas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nacho-vegas-vidas-semipreciosas/",
+      "published": "2026-01-27T13:31:34.000Z",
+      "publishedTs": 1769520694000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Nacho-Vegas-Vidas-Semipreciosas.jpg",
+      "excerpt": "Andan los tiempos jodidos y puede que ese sea el mejor caldo de cultivo para un tipo como Nacho Vegas,... La entrada Crítica de &#039;Vidas Semipreciosas&#039;, lo nuevo de Nacho Vegas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
       "title": "Terrence Dixon returns to Tresor with ‘When Stars Remember’ EP",
@@ -316,20 +330,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/This-Is-Lorelei-Holo-Boy.jpg",
       "excerpt": "No hace mucho tiempo que estábamos alabando las bonanzas del reciente álbum de Water From Your Eyes cuando pocos meses... La entrada Holo Boy se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c98e64e5e1add18016cd6281623048b873112ea3",
-      "title": "Manolito",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/foyone-manolito/",
-      "published": "2026-01-22T07:41:47.000Z",
-      "publishedTs": 1769067707000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Foyone-Manolito.jpg",
-      "excerpt": "“Manolito” es el noveno álbum de Foyone como solista. Desde que el primero titulado “Mi Zoológico” (11) prendiera la cerilla... La entrada Manolito se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
