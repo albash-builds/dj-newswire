@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T11:23:12.599Z",
+  "generatedAt": "2026-01-27T12:51:16.807Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,49 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
+      "title": "Terrence Dixon returns to Tresor with ‘When Stars Remember’ EP",
+      "link": "https://www.decodedmagazine.com/terrence-dixon-returns-to-tresor-with-when-stars-remember-ep/",
+      "published": "2026-01-27T12:24:37.000Z",
+      "publishedTs": 1769516677000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Detroit",
+        "Techno",
+        "Terrence Dixon",
+        "Tresor"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Terrence-Dixon-photo-credit-Evan-Zott.png",
+      "excerpt": "When Stars Remember by Terrence Dixon Despite his thirty-year career, Detroit original Terrence Dixon has always managed to keep a lower profile than his peers; he has given few interviews, preferring instead to speak through his music, …"
+    },
+    {
+      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
+      "title": "Barcelona’s MOSTRA Festival Celebrates its 5th Birthday",
+      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
+      "published": "2026-01-27T11:32:30.000Z",
+      "publishedTs": 1769513550000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Featured",
+        "Festivals",
+        "Al Blayney",
+        "Angel Molina",
+        "Barcelona",
+        "Electronica",
+        "House Music",
+        "Lemont",
+        "Marylou",
+        "Melina Serser",
+        "Muted"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
+      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
+    },
     {
       "id": "22ed1f7bf0ba74d6195a7c69218af30db46835d2",
       "title": "Not Like Everybody Else",
@@ -522,47 +565,40 @@
       "excerpt": "Bandcamp has drawn a line in the sand. In an announcement posted to their blog on 13th January , the platform declared that music generated wholly or substantially by AI will no longer be permitted on their service. It&#8217;s a policy t…"
     },
     {
-      "id": "f82956c298c07e877324b5e87a08870c7c071b10",
-      "title": "Throwback Thursday – How Surrender Cemented the Chemical Brothers as All Time Greats",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-how-surrender-cemented-the-chemical-brothers-as-all-time-greats/",
-      "published": "2026-01-15T03:33:07.000Z",
-      "publishedTs": 1768447987000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Big Beat",
-        "Brit Award",
-        "Electronica",
-        "Indie",
-        "Noel Gallagher",
-        "Surrender",
-        "The Chemical Brothers"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Chemical-Brothers-Tom-Rowlands-1997-scaled.webp",
-      "excerpt": "There&#8217;s something instructive about the cover of Surrender. A solitary figure, arms aloft in total euphoria, captured at the 1976 Olympia Music Festival. Richard Young&#8217;s photograph, saturated in vibrant colour, presents a kin…"
+      "id": "066c9b2121556c035aba4472823fd27845e7eefd",
+      "title": "Discrimination against working class people should be illegal, cultural report recommends",
+      "link": "https://mixmag.net/read/discrimination-against-working-class-people-should-be-illegal-cultural-report-recommends-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/derio.png?width=660&fit=cover&s=3_Bys5CScPUtmZavbt_EU41mpHDjP5ehZlZvsH2NV54",
+      "excerpt": "50% of respondents to the &#039;Class Ceiling&#039; survey said they had experienced harassment or bias due to their background Continue reading..."
     },
     {
-      "id": "544a6de20d6f4c85278ab23835b2637b3f8b82dc",
-      "title": "Three-day experiential program merging Art and Electronic Music to close San Francisco Art Week",
-      "link": "https://www.decodedmagazine.com/three-day-experiential-program-merging-art-and-electronic-music-to-close-san-francisco-art-week/",
-      "published": "2026-01-14T06:31:53.000Z",
-      "publishedTs": 1768372313000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Art",
-        "California",
-        "Electronica",
-        "House Music",
-        "Pier 29",
-        "San Francisco Art Week",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/sfartweek.webp",
-      "excerpt": "Bay Area nonprofit Endzeit announces California: a shifting identity , a landmark three-day program exploring shifting sociocultural landscapes through contemporary art and live electronic music. Taking place January 23–25, 2026, at the …"
+      "id": "4987d7762bd40d8236531940de26d3b0e9d4276c",
+      "title": "Ben Hemsley accuses Hugel and Matt Sassari of plagiarism",
+      "link": "https://mixmag.net/read/ben-hemsley-accuses-hugel-and-matt-sassari-of-plagiarism-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ben_hemsley_newcastle.jpg?width=660&fit=cover&s=HcZyXjaRL2vstBduimWnstvCG9320BNv81xo8L2cF80",
+      "excerpt": "He alleges that the French producers ripped off his idea for a remix of Sonique’s ‘It Feels So Good’ Continue reading..."
+    },
+    {
+      "id": "631da60aa58b0966ca673102b9e676541eeaab30",
+      "title": "Sadiq Khan's Nightlife Taskforce share 23 recommendations for London's night-time economy",
+      "link": "https://mixmag.net/read/sadiq-khan-nightlife-taskforce-shares-23-recomendations-for-londons-scene-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightlife-taskforce.png?width=660&fit=cover&s=v4Nux2iJ30Cex-IQ1zDOoTN4QeGCfD8YPwVxBip6spI",
+      "excerpt": "Recommendations include licensing reforms, a review of late-night transport links, and a &quot;Nightlife Future Fund&quot; to support new nightlife projects from underrepresented communities Continue reading..."
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
@@ -1487,42 +1523,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Destinys-Child-cover.jpg?width=660&fit=cover&s=QJOo9dxiALYM7uWYV_QL0ri1KUgQg-gxCcjmH2b-Q5E",
       "excerpt": "Writer and producer Rodney Jerkins recalled the dance music-inspired vision behind the hit track in a new interview Continue reading..."
-    },
-    {
-      "id": "9f1ce36eee1a176a2fc4e487e551c039b8472dbd",
-      "title": "Inside The Movement of Artists and Fans Boycotting Spotify",
-      "link": "https://mixmag.net/feature/spotify-boycott-movement-artists-fans-daniel-ek-military-streaming-investigation",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Spotify-lead.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=rZtbZD5-zeld1aIJry386W9wOivxFLAcFKz6NWJHtY0",
-      "excerpt": "The meagre financial returns of streaming for artists has been a point of controversy since its inception. Now substantial investments in AI weaponry are causing musicians, labels, and consumers to further question their relationship wit…"
-    },
-    {
-      "id": "1cdd3bca9d80da4424cb60183fcc2132831f5898",
-      "title": "Raves ranked as UK's favourite New Year’s Eve activity in new study",
-      "link": "https://mixmag.net/read/raves-ranked-brits-favourite-new-years-eve-activity-new-study-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rave-credit-Dominic-Simpson.jpg?width=660&fit=cover&s=XPG34PAZUAs_OyAUtHAzuT-dp5sySSTtllyn2yqww88",
-      "excerpt": "According to analysis of Google Analytics findings, raves ranked higher than clubbing, concerts, and casinos Continue reading..."
-    },
-    {
-      "id": "e4e82623b5b1746630256b0ac5315dc317ff9481",
-      "title": "The Best Dance Tracks Of The 21st Century So Far",
-      "link": "https://mixmag.net/feature/best-dance-music-tracks-of-the-21st-century-so-far-2000-2025",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Comp-1-0-00-00-00_2025-12-24-110029_inwb.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=RGB5tUGdQyFqZmCB_Btu-cmKZ_05Or_gKMk9zCGaUEg",
-      "excerpt": "Times change, bangers remain eternal Continue reading..."
     }
   ]
 }
