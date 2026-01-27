@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T03:48:13.887Z",
+  "generatedAt": "2026-01-27T04:47:12.421Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "205beee8c4e9755186911d6661d18a19f1a28cd5",
+      "title": "Decoded Magazine Presents Dave Walker",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-presents-dave-walker/",
+      "published": "2026-01-27T04:27:45.000Z",
+      "publishedTs": 1769488065000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "Progressive",
+        "Armada",
+        "Balance Series",
+        "Forensic Records",
+        "John Digweed",
+        "John OO Flemming",
+        "Lost Language",
+        "Mango Alley Records",
+        "Melodic Techno",
+        "Progressive House"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
+      "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
+    },
     {
       "id": "6c64d6a285bd10c12e5122201e6aae690b239f8e",
       "title": "‘Intro’ by Alan Braxe and Fred Falke celebrates turning 25 this year.",
@@ -544,28 +569,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/595933632_1452432293448452_1254124789013007118_n.jpg",
       "excerpt": "There&#8217;s a certain irony in the modern dance music landscape. We&#8217;ve got more resources, more technology, and more supposed shortcuts to DJ stardom than ever before, yet we&#8217;re somehow producing fewer truly distinctive voi…"
-    },
-    {
-      "id": "ec2b37bbf0f337ca718b7a2b63558a69e5c13d50",
-      "title": "Damian Lazarus Announces Day Zero Bali Lineup ft. Jamie Jones, Ame, Bonobo + more",
-      "link": "https://www.decodedmagazine.com/damian-lazarus-announces-day-zero-bali-lineup-ft-jamie-jones-ame-bonobo-more/",
-      "published": "2026-01-12T09:51:57.000Z",
-      "publishedTs": 1768211517000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "World",
-        "Damian Lazarus",
-        "deep house",
-        "GWK Cultural Park",
-        "House Music",
-        "Indonesia",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/DZT2025_0112_074259-6962_DRB.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Damian Lazarus’ Day Zero takes shape as Day Zero Bali reveals the artists that will guide its next sacred gathering. On April 17, 2026, sound, land, and spirit align in a rare convergence &#8211; a carefully curated assembly of global se…"
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
