@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T04:47:12.421Z",
+  "generatedAt": "2026-01-27T05:26:56.914Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5dd006639b326cca4c782c70b39c76276dd6fe30",
+      "title": "Landmark Nightlife Taskforce Report Sets Out Clear Roadmap for London After Dark",
+      "link": "https://www.decodedmagazine.com/landmark-nightlife-taskforce-report-sets-out-clear-roadmap-for-london-after-dark/",
+      "published": "2026-01-27T05:04:01.000Z",
+      "publishedTs": 1769490241000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "bars",
+        "Clubs",
+        "Hackney",
+        "London",
+        "Nightlife",
+        "NTIA",
+        "Restaurants",
+        "Shoreditch",
+        "SOHO"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
+      "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
+    },
     {
       "id": "205beee8c4e9755186911d6661d18a19f1a28cd5",
       "title": "Decoded Magazine Presents Dave Walker",
@@ -544,31 +567,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/DAVID_AUGUST_HYMNS_ALBUM_FRONT-HQ-scaled.png",
       "excerpt": "HYMNS by David August Following up &#8216;VĪS&#8217;, David August&#8217;s most expansive, ambitious album to date, the Italian-German composer and producer lets his vast sonic universe collapse, rediscovering in its wake an instrument t…"
-    },
-    {
-      "id": "f398280e9488465ed6fcd81b006f95e0dff5dbe1",
-      "title": "You Can’t Learn Soul in a Classroom: The Truth About DJ Courses",
-      "link": "https://www.decodedmagazine.com/skip-the-certificate-buy-more-records-the-case-against-dj-schools/",
-      "published": "2026-01-13T07:25:27.000Z",
-      "publishedTs": 1768289127000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "beatmatching",
-        "Courses",
-        "Digital DJ Tips",
-        "DJ City",
-        "DJ Classes",
-        "DJ schools",
-        "Music Academy",
-        "music production",
-        "Scratching",
-        "Youtube"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/595933632_1452432293448452_1254124789013007118_n.jpg",
-      "excerpt": "There&#8217;s a certain irony in the modern dance music landscape. We&#8217;ve got more resources, more technology, and more supposed shortcuts to DJ stardom than ever before, yet we&#8217;re somehow producing fewer truly distinctive voi…"
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
