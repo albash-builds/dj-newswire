@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-27T01:51:14.269Z",
+  "generatedAt": "2026-01-27T03:48:13.887Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6c64d6a285bd10c12e5122201e6aae690b239f8e",
+      "title": "‘Intro’ by Alan Braxe and Fred Falke celebrates turning 25 this year.",
+      "link": "https://www.decodedmagazine.com/intro-by-alan-braxe-and-fred-falke-celebrates-turning-25-this-year/",
+      "published": "2026-01-27T02:56:14.000Z",
+      "publishedTs": 1769482574000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Alan Braxe",
+        "Classic",
+        "Fred Falke",
+        "French House",
+        "House Music",
+        "Vulture Music"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fred-falke-and-alan-braxe-Credit-Philippe-Levy.jpg",
+      "excerpt": "Originally released in 2000 on Alan Braxe’s own label Vulture Music and later released on the acclaimed album ‘The Upper Cuts’, since its release ‘Intro’ has become one of the most celebrated tracks of the era, and is quintessential of t…"
+    },
+    {
+      "id": "3c8c607fb4b630ecb48ce7417b2a73b80c9b4331",
+      "title": "Japan’s rural Festival 2026: First Artist Announcement – Willikens & Ivkovic, Al Wootton & More",
+      "link": "https://www.decodedmagazine.com/japans-rural-festival-2026-first-artist-announcement-willikens-ivkovic-al-wootton-more/",
+      "published": "2026-01-27T02:36:52.000Z",
+      "publishedTs": 1769481412000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Asia",
+        "Festivals",
+        "World",
+        "Electronica",
+        "Fukushima",
+        "Japan",
+        "Numajiri Highlands",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/rural-2025-Takashi-Hamada381.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Located in Numajiri Highlands, Fukushima, the outdoor music festival rural 2026 will take place over four days, from July 17 (Friday) to July 20 (Monday, public holiday), 2026. Artists who continue to operate beyond existing genre bounda…"
+    },
     {
       "id": "638ccf0966a078b12669c66e8ec39bdfd0855eaf",
       "title": "Burdin gozoa eta arrabioa",
@@ -524,45 +566,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/DZT2025_0112_074259-6962_DRB.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Damian Lazarus’ Day Zero takes shape as Day Zero Bali reveals the artists that will guide its next sacred gathering. On April 17, 2026, sound, land, and spirit align in a rare convergence &#8211; a carefully curated assembly of global se…"
-    },
-    {
-      "id": "fb547c100fdb04087d00aada4b2f477fdc9adafb",
-      "title": "Brickman drops Ixtlan",
-      "link": "https://www.decodedmagazine.com/brickman-drops-ixtlan/",
-      "published": "2026-01-12T06:02:44.000Z",
-      "publishedTs": 1768197764000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Brickman",
-        "dub techno",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a2972824982_10.jpg",
-      "excerpt": "Brickman &#8211; Ixtlan [LF361] by Brickman This is pure sonic hypnosis. With Ixtlan, Brickman returns to Lucidflow at his absolute creative peak delivering one of the most transcendent dub techno journeys of the year. Brickman has long …"
-    },
-    {
-      "id": "c42eafe1db7e1a2013bbfbac1982c277334f3292",
-      "title": "Decoded Magazine Launches Discord Community",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-launches-discord-community/",
-      "published": "2026-01-12T05:21:09.000Z",
-      "publishedTs": 1768195269000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "advice",
-        "AMA",
-        "Chat",
-        "Discord",
-        "Forum",
-        "Mix of the Month",
-        "Social media"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/discord-decoded-magazine-1.png",
-      "excerpt": "After 12 years of publishing, we&#8217;re opening up a new chapter at Decoded Magazine, and it starts with building a proper community space. Today, we&#8217;re launching our Discord &#8220;server&#8221; (i.e. community group) &#8211; a …"
     },
     {
       "id": "808659095977aef198a7cd359115deb87e5c8483",
