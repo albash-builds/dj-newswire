@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T12:50:56.158Z",
+  "generatedAt": "2026-01-28T13:48:59.600Z",
   "total": 110,
   "sources": [
     {
@@ -562,6 +562,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Artwork.jpg?resize=810%2C810&ssl=1",
       "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
+    },
+    {
+      "id": "03ac9e1373aba128d722def84e1d144527a2790b",
+      "title": "Giggs allegedly targeted in drive-by shooting at DJ AG event, Channel 4 reveals",
+      "link": "https://mixmag.net/read/giggs-allegedly-targeted-drive-by-shooting-dj-ag-event-documentary-reveals-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/giggs-dsg.png?width=660&fit=cover&s=O-Grt_9xdorQllBCVNb0J7MS8eVbd5bqGnkZ7-3pv8s",
+      "excerpt": "A bystander was shot in the foot during the incident, which reportedly took place in Peckham last February Continue reading..."
     },
     {
       "id": "c78198b6606c2317a11fa774347702ab1d14f3c7",
@@ -1510,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ivy-Lab-Web-Layout3.jpg?width=660&fit=cover&s=PKvnB0MuEPKSeHgegz1F93pVbonyeOR42M_ktxnoDqc",
       "excerpt": "The duo will continue their solo projects as Stray and Sabre Continue reading..."
-    },
-    {
-      "id": "e4c1dc1446bc6e096aa347a9c5daf19ae7011454",
-      "title": "EsDeeKid \"nukes\" The Chainsmokers' '4 Raws' remix from streaming services",
-      "link": "https://mixmag.net/read/esdeekid-the-chainsmokers-nukes-twitter-mate-liverpool-scouse-4-raws-timothee-chalamet-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/EsDeeKid.png?width=660&fit=cover&s=6YOeywT_7qTvOWXil5ADi8h13uWtVO03Ai2mZP-QiXI",
-      "excerpt": "&quot;Don’t remix my shit and think it’s cool to post to all DSPs,&quot; the Scouse rapper said in a post on Twitter Continue reading..."
     }
   ]
 }
