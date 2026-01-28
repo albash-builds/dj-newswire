@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T13:48:59.600Z",
+  "generatedAt": "2026-01-28T14:30:25.663Z",
   "total": 110,
   "sources": [
     {
@@ -564,6 +564,18 @@
       "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
     },
     {
+      "id": "45fcdb655578b32bc3490a867635874ff00d7428",
+      "title": "Music Venue Trust backs new \"ethical\" ticket resale platform",
+      "link": "https://mixmag.net/read/music-venue-trust-backs-new-ethical-ticket-resale-platform-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/live-music.png?width=660&fit=cover&s=UVtWgHNzJKwiuazSC4Hu3WoAXVFVglB8cSnXe94KUiQ",
+      "excerpt": "Tickets9 will prohibit the sale of tickets above face value, with a £1 levy from each ticket sold for events of 5,000-capacity or above Continue reading..."
+    },
+    {
       "id": "03ac9e1373aba128d722def84e1d144527a2790b",
       "title": "Giggs allegedly targeted in drive-by shooting at DJ AG event, Channel 4 reveals",
       "link": "https://mixmag.net/read/giggs-allegedly-targeted-drive-by-shooting-dj-ag-event-documentary-reveals-news",
@@ -574,6 +586,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/giggs-dsg.png?width=660&fit=cover&s=O-Grt_9xdorQllBCVNb0J7MS8eVbd5bqGnkZ7-3pv8s",
       "excerpt": "A bystander was shot in the foot during the incident, which reportedly took place in Peckham last February Continue reading..."
+    },
+    {
+      "id": "d04fe84f18066979088b9c0a36b46e45a69ecbd6",
+      "title": "London rapper DigDat jailed for life following drive-by shooting",
+      "link": "https://mixmag.net/read/london-rapper-digdat-jailed-life-drive-by-shooting-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/digdat-jailed.jpg?width=660&fit=cover&s=LT8QZkPxD89EnuYSW87HgIsm73zR7bjLBV1xQpz34VI",
+      "excerpt": "The incident, which occurred in 2023, left a 27-year-old with life-threatening injuries Continue reading..."
     },
     {
       "id": "c78198b6606c2317a11fa774347702ab1d14f3c7",
@@ -860,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Sassy2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=79DtN_BRptKYbsW_53J8cby7xmaXvrbdqcRxzsUw0D4",
+      "image": "",
       "excerpt": "The Norwegian alt-pop visionary invites us into her fantastical realm with her electro and machine funk-charged mix, and speaks to Megan Townsend about absurd emotions, Donnie Darko, and the &quot;rebirth&quot; that led to her debut albu…"
     },
     {
@@ -944,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
+      "image": "",
       "excerpt": "Our high-energy club tour and community spotlight returned in 2025, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
     },
     {
@@ -1268,7 +1292,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
+      "image": "",
       "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
     },
     {
@@ -1498,30 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kneecap-credit-garry-jones.jpg?width=660&fit=cover&s=2oj2eGfsuqCaskMULU52AQU6ig90YKxK49JTNs5nSnI",
       "excerpt": "The UK government is set to re-examine a legal rule that curbed a terror charge against the Irish rapper Continue reading..."
-    },
-    {
-      "id": "f3a3dd3150bad45eb4275f006f22e98bd2af69f3",
-      "title": "Kelela, PinkPantheress and more join \"one-of-a-kind\" Sudan fundraising auction",
-      "link": "https://mixmag.net/read/kelela-pinkpantheress-auction-gifts-experiences-sudan-fundraiser-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kelela_2026-01-06-124207_dlug.jpg?width=660&fit=cover&s=ir4wKHLVJ_2yFsq0uFDb3gDa65n0sjLwnLgme_SeqrA",
-      "excerpt": "The online auction runs from January 6 - 12, providing essential food and medical assistance to those in Sudan Continue reading..."
-    },
-    {
-      "id": "5e76b8f395989524298ff3c1f4d4a8e495ef9ad4",
-      "title": "“2026 will be our last year in operation”: Ivy Lab to part ways after 13 years",
-      "link": "https://mixmag.net/read/2026-last-year-operation-ivy-lab-part-ways-after-13-years-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ivy-Lab-Web-Layout3.jpg?width=660&fit=cover&s=PKvnB0MuEPKSeHgegz1F93pVbonyeOR42M_ktxnoDqc",
-      "excerpt": "The duo will continue their solo projects as Stray and Sabre Continue reading..."
     }
   ]
 }
