@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T01:47:37.502Z",
+  "generatedAt": "2026-01-28T03:45:17.122Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6ea77fef3b86d507b561a7a7596c2d839fc8e8e7",
+      "title": "Carl Craig Named Michigan State University’s Next Artist-In-Residence",
+      "link": "https://www.decodedmagazine.com/carl-craig-named-michigan-state-universitys-next-artist-in-residence/",
+      "published": "2026-01-28T02:23:17.000Z",
+      "publishedTs": 1769566997000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Electronica",
+        "Michigan",
+        "Michigan State University",
+        "Music Industry",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/09/carl-craig-big.jpg",
+      "excerpt": "Michigan State University has selected internationally renowned Detroit DJ, producer, and techno innovator Carl Craig as a MSUFCU Arts Power Up artist-in-residence, a program that brings visionary artists to campus to explore the interse…"
+    },
     {
       "id": "a39dbaae1d84b1af62b82c0b2977b9a5efb3056d",
       "title": "Crítica de 'Vidas Semipreciosas', lo nuevo de Nacho Vegas",
@@ -544,25 +563,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Cover_HVOB_Attention-Hernan-Cattaneo-Mercurio-Remix-scaled.jpg",
       "excerpt": "Cercle Records kicks off the year with the release of HVOB’s “Attention”, reimagined by Hernan Cattaneo &amp; Mercurio. Ten years after its original release, this new version honors the original track’s hypnotic beauty while infusing it …"
-    },
-    {
-      "id": "65609a9dfc0702095f1b2afad1b78ed7a0b51185",
-      "title": "Bandcamp takes a stand against AI-generated content",
-      "link": "https://www.decodedmagazine.com/bandcamp-takes-a-stand-against-ai-generated-content/",
-      "published": "2026-01-15T04:07:19.000Z",
-      "publishedTs": 1768450039000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "AI",
-        "artists",
-        "Bandcamp",
-        "Music distribution",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/bandcamp-decoded.png",
-      "excerpt": "Bandcamp has drawn a line in the sand. In an announcement posted to their blog on 13th January , the platform declared that music generated wholly or substantially by AI will no longer be permitted on their service. It&#8217;s a policy t…"
     },
     {
       "id": "6d04716abfcaf5639c6359af0336512370d413d1",
