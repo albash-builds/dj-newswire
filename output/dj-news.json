@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T11:23:31.265Z",
+  "generatedAt": "2026-01-28T12:50:56.158Z",
   "total": 110,
   "sources": [
     {
@@ -562,6 +562,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Artwork.jpg?resize=810%2C810&ssl=1",
       "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
+    },
+    {
+      "id": "c78198b6606c2317a11fa774347702ab1d14f3c7",
+      "title": "Reggae legend and Sly & Robbie member Sly Dunbar has died aged 73",
+      "link": "https://mixmag.net/read/reggae-legend-sly-robbie-member-sly-dunbar-died-aged-73-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sly-dunbar.jpg?width=660&fit=cover&s=UULR4ufqapstc5xT8qQ7NYzDcxlva1WaZtzUZsJslQ0",
+      "excerpt": "The GRAMMY-winning artist performed alongside the likes of The Rolling Stones and Bob Marley Continue reading..."
     },
     {
       "id": "6d04716abfcaf5639c6359af0336512370d413d1",
@@ -1510,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/EsDeeKid.png?width=660&fit=cover&s=6YOeywT_7qTvOWXil5ADi8h13uWtVO03Ai2mZP-QiXI",
       "excerpt": "&quot;Don’t remix my shit and think it’s cool to post to all DSPs,&quot; the Scouse rapper said in a post on Twitter Continue reading..."
-    },
-    {
-      "id": "1acb0c6a072a43da98181d1b1ba9c158c801cf0d",
-      "title": "Meda Fury label founder Nick Williams dies aged 49, Phonica Records and fabric pay tribute",
-      "link": "https://mixmag.net/read/phonica-records-fabric-pay-tribute-meda-fury-founder-nick-williams-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nick-williams-dj.jpg?width=660&fit=cover&s=qu0emRWLHeuaVuRM8QO3zcDU9fDkQ_XHxs8eUlpnoJg",
-      "excerpt": "Williams passed away in December following a battle with cancer Continue reading..."
     }
   ]
 }
