@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T07:26:36.685Z",
+  "generatedAt": "2026-01-28T08:32:43.561Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "31eb1dc824fe98a185f2c995a3be46ae8cdec247",
+      "title": "El día que me olvides",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/walls-el-dia-que-me-olvides/",
+      "published": "2026-01-28T07:38:58.000Z",
+      "publishedTs": 1769585938000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Walls-El-dia-que-me-olvides.jpg",
+      "excerpt": "Han pasado ya nueve años desde que conocimos a un joven freestyler apodado Walls que se hacía un hueco dentro... La entrada El día que me olvides se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
       "title": "Butch’s “Formula E” single on DJ Tennis’s Life and Death",
@@ -352,20 +366,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Sleaford-Mods-The-Demise-of-Planet-X.jpg",
       "excerpt": "Si hay algo de lo que no se puede acusar a los de Nottingham es falta de ética de trabajo.... La entrada The Demise of Planet X se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e54d6f8611a04c189b3579a98679d241421fc108",
-      "title": "Holo Boy",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/this-is-lorelei-holo-boy/",
-      "published": "2026-01-22T09:19:44.000Z",
-      "publishedTs": 1769073584000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/This-Is-Lorelei-Holo-Boy.jpg",
-      "excerpt": "No hace mucho tiempo que estábamos alabando las bonanzas del reciente álbum de Water From Your Eyes cuando pocos meses... La entrada Holo Boy se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
