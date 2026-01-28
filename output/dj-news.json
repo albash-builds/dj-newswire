@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T15:32:58.143Z",
+  "generatedAt": "2026-01-28T16:37:29.271Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,44 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
+      "title": "Sankeys Manchester reveal season line-up + new location",
+      "link": "https://www.decodedmagazine.com/sankeys-manchester-reveal-season-line-up-new-location/",
+      "published": "2026-01-28T15:46:04.000Z",
+      "publishedTs": 1769615164000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Bontan",
+        "House Music",
+        "Magda",
+        "Manchester",
+        "Maya Jane Coles",
+        "Oxia",
+        "Sankeys",
+        "Stacey Pullen",
+        "Steve Lawler",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sankeys-manchester.png?resize=810%2C810&ssl=1",
+      "excerpt": "Sankeys Manchester has revealed the first wave of artists set to perform at its new Sidney Street location throughout February to June 2026. The A–Z lineup marks the next chapter for the underground institution with more special guests a…"
+    },
+    {
+      "id": "d15af2e77c44f098396d8755ac61eb5fcd4d6120",
+      "title": "La vida de Nadie",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/besmaya-la-vida-de-nadie/",
+      "published": "2026-01-28T15:38:17.000Z",
+      "publishedTs": 1769614697000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Besmaya-La-vida-de-Nadie.jpg",
+      "excerpt": "Besmaya abrazan la nostalgia por tiempos mejores para lanzar un mensaje de ánimo, un abrazo, a su generación. “La vida... La entrada La vida de Nadie se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4117fdc5ecfe1b1e80986f313bc9da4694b540d8",
       "title": "Desde Cuándo Todo",
@@ -354,20 +392,6 @@
       "excerpt": "Sea una bendición o un castigo, lo cierto es que la música, y por extensión cualquier disciplina artística, cuenta con... La entrada Valentine se publicó primero en MondoSonoro ."
     },
     {
-      "id": "8eda919042d87717efba4e399fe60d4e3d905874",
-      "title": "Blizzard",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dove-ellis-blizzard/",
-      "published": "2026-01-26T08:30:03.000Z",
-      "publishedTs": 1769416203000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dove-Ellis-Blizzard.jpg",
-      "excerpt": "Dove Ellis no inventa la rueda, pero puede decirse que perfecciona el diseño de sus bandas de rodaje, y ese... La entrada Blizzard se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
       "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
       "link": "https://www.decodedmagazine.com/richie-hawtins-minimal-masterclass-revisiting-sheet-one-three-decades-on/",
@@ -544,24 +568,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/reading-the-rosetta-stone-of-rave-culture-looking-at-the-criminal-justice-and-public-order-act-of-1994-body-image-1488968311.webp?resize=810%2C521&ssl=1",
       "excerpt": "Thirty years into this thing we do, and I&#8217;m still hearing the same tired argument: electronic music isn&#8217;t political; it&#8217;s just escapism, just hedonism, just 4/4 music and ravers preaching PLUR in dark rooms. If I had a …"
-    },
-    {
-      "id": "d534780babd70a3561eb5efca319b3a34384e097",
-      "title": "fabric taps DJ Tennis for new mix compilation",
-      "link": "https://www.decodedmagazine.com/fabric-taps-dj-tennis-for-new-mix-compilation/",
-      "published": "2026-01-16T03:45:28.000Z",
-      "publishedTs": 1768535128000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "DJ Tennis",
-        "Fabric",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Artwork.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "fabric Records has enlisted visionary renegade DJ Tennis for the next installment of its prestigious mix compilation series, fabric presents . Set for full release on February 13, fabric presents DJ Tennis will showcase his diligent cura…"
     },
     {
       "id": "45fcdb655578b32bc3490a867635874ff00d7428",
