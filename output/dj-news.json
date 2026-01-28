@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T14:30:25.663Z",
+  "generatedAt": "2026-01-28T15:32:58.143Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4117fdc5ecfe1b1e80986f313bc9da4694b540d8",
+      "title": "Desde Cuándo Todo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lisasinson-desde-cuando-todo/",
+      "published": "2026-01-28T15:25:14.000Z",
+      "publishedTs": 1769613914000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Lisasinson-Desde-Cuando-Todo.jpg",
+      "excerpt": "La llegada de “Desde Cuándo Todo” supone la aparición del que, posiblemente, sea el disco más firme y compacto que... La entrada Desde Cuándo Todo se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3beb35aa1a3e443f0abc7c85802c72d1d8841ab9",
+      "title": "Nola mozorrotua zara?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/noiz-nola-mozorrotua-zara/",
+      "published": "2026-01-28T15:05:59.000Z",
+      "publishedTs": 1769612759000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/noiz.jpg",
+      "excerpt": "Saran kokatutako boskoteak, Sorotan Babies taldearen errautsetatik sortutako proiektu sendoak, \"Nola mozorrotua zara?\" EParekin euskal post-rock eszenari kolpe sendoa eman... La entrada Nola mozorrotua zara? se publicó primero en MondoSo…"
+    },
     {
       "id": "070fa18777123370d1651e3cb7ddcfb993f6e280",
       "title": "Reseñamos 'Hijos de la Ruina Vol. 4', la reunión de nuevo de Natos y Waor con Recycled J",
@@ -338,34 +366,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dove-Ellis-Blizzard.jpg",
       "excerpt": "Dove Ellis no inventa la rueda, pero puede decirse que perfecciona el diseño de sus bandas de rodaje, y ese... La entrada Blizzard se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cc17522cdb3f34c042841092c98fe072bc6f6f17",
-      "title": "Príncipe",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/al-safir-principe/",
-      "published": "2026-01-26T08:12:34.000Z",
-      "publishedTs": 1769415154000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Al-Safir-Principe.jpg",
-      "excerpt": "Diego Izquierdo (1995) lleva más de un lustro abriéndose camino de manera silenciosa pero firme en la escen del rap... La entrada Príncipe se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "fc73166b9e4f08c9f8c06993476c00e9c97fa18a",
-      "title": "Ana Curra y los 13 Apóstoles presentan: La Última Cena de Parálisis Permanente",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ana-curra-y-los-13-apostoles-presentan/",
-      "published": "2026-01-26T08:09:31.000Z",
-      "publishedTs": 1769414971000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Ana-Curra-y-los-13-Apostoles-presentan.jpg",
-      "excerpt": "Ana Curra se rodea de trece apóstoles muy actuales para volver a mirar “El Acto”, uno de los trabajos más... La entrada Ana Curra y los 13 Apóstoles presentan: La Última Cena de Parálisis Permanente se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
@@ -884,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Sassy2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=79DtN_BRptKYbsW_53J8cby7xmaXvrbdqcRxzsUw0D4",
       "excerpt": "The Norwegian alt-pop visionary invites us into her fantastical realm with her electro and machine funk-charged mix, and speaks to Megan Townsend about absurd emotions, Donnie Darko, and the &quot;rebirth&quot; that led to her debut albu…"
     },
     {
@@ -968,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
       "excerpt": "Our high-energy club tour and community spotlight returned in 2025, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
     },
     {
@@ -1292,7 +1292,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
       "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
     },
     {
