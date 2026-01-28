@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-28T10:28:56.822Z",
+  "generatedAt": "2026-01-28T11:23:31.265Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "070fa18777123370d1651e3cb7ddcfb993f6e280",
+      "title": "Reseñamos 'Hijos de la Ruina Vol. 4', la reunión de nuevo de Natos y Waor con Recycled J",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hijos-de-la-ruina-vol-iv/",
+      "published": "2026-01-28T10:33:00.000Z",
+      "publishedTs": 1769596380000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Hijos-de-la-Ruina-Vol-IV.jpg",
+      "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Reseñamos &#039;Hijos de la Ruina Vol. 4&#039;, la reunión de nuevo de Natos y Waor con Recycled J se publicó …"
+    },
     {
       "id": "31eb1dc824fe98a185f2c995a3be46ae8cdec247",
       "title": "El día que me olvides",
@@ -352,20 +366,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Ana-Curra-y-los-13-Apostoles-presentan.jpg",
       "excerpt": "Ana Curra se rodea de trece apóstoles muy actuales para volver a mirar “El Acto”, uno de los trabajos más... La entrada Ana Curra y los 13 Apóstoles presentan: La Última Cena de Parálisis Permanente se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "720e509053692bdc666f31f76e67807bf24d08d2",
-      "title": "The Demise of Planet X",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sleaford-mods-the-demise-of-planet-x/",
-      "published": "2026-01-22T16:46:15.000Z",
-      "publishedTs": 1769100375000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Sleaford-Mods-The-Demise-of-Planet-X.jpg",
-      "excerpt": "Si hay algo de lo que no se puede acusar a los de Nottingham es falta de ética de trabajo.... La entrada The Demise of Planet X se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
