@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-29T11:31:21.019Z",
+  "generatedAt": "2026-01-29T12:57:28.999Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6eaf8cec33e4aa11a76b5e404a2059f420677385",
+      "title": "Tiempo perdido en la memoria",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/morfi-grei-tiempo-perdido-en-la-memoria/",
+      "published": "2026-01-29T12:04:30.000Z",
+      "publishedTs": 1769688270000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Morfi-Grei-Tiempo-perdido-en-la-memoria.jpg",
+      "excerpt": "Después de recuperar “Mentemblanco”, el tercer disco de La Banda Trapera del Río, el sello Kasba sigue escarbando en el... La entrada Tiempo perdido en la memoria se publicó primero en MondoSonoro ."
+    },
     {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
       "title": "Sankeys Manchester reveal season line-up + new location",
@@ -376,20 +390,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/hens-una-mudanza.jpg",
       "excerpt": "\"Una Mudanza\" no es solo el título del nuevo álbum de Hens, es la declaración de intenciones de un artista... La entrada Una mudanza se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2f1e2bed5165cb0340105fe185d142ba64699d0d",
-      "title": "Valentine",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/courtney-marie-andrews-valentine/",
-      "published": "2026-01-26T09:00:40.000Z",
-      "publishedTs": 1769418040000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Courtney-Marie-Andrews-Valentine.jpg",
-      "excerpt": "Sea una bendición o un castigo, lo cierto es que la música, y por extensión cualquier disciplina artística, cuenta con... La entrada Valentine se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
