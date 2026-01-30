@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T13:57:19.766Z",
+  "generatedAt": "2026-01-30T14:38:52.423Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "07ec2f4852861080d06bfead77460f155ba6db01",
+      "title": "Tara Donovan’s Stratagems takes thousands of recycled CDs to form reflective vertical sculptures",
+      "link": "https://www.decodedmagazine.com/tara-donovans-stratagems-takes-thousands-of-recycled-cds-form-reflective-vertical-sculptures/",
+      "published": "2026-01-30T13:59:43.000Z",
+      "publishedTs": 1769781583000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "North America and Canada",
+        "CD",
+        "San Francisco",
+        "Tara Donovan",
+        "Transamerica Pyramid Center"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/ICA-SF_Stratagems-by-Tara-Donovan_Nicholas-Lea-Bruno_SP26-8-scaled.jpg",
+      "excerpt": "Got a spare 10,000 CDs lying around? Doubt it. Ever wondered what you could do with them if you did? Tara Donovan has an answer, and it&#8217;s currently installed at San Francisco&#8217;s Transamerica Pyramid Center through July. Her sh…"
+    },
     {
       "id": "c9bf91331439e6e0a4ab9389b9a613a56160b883",
       "title": "Anjunadeep returns to Labyrinth on the Thames",
@@ -562,22 +581,28 @@
       "excerpt": "lovetempo is the project of Brooklyn-based musician and vocalist Mattie Safer, also known for his work with Poolside and The Rapture. Blending soul, disco, house, and jazz-funk with soul-baring tenderness and an ear for rhythmic detail, …"
     },
     {
-      "id": "a48a00fd78935b0bc55df9bc98072d49906262db",
-      "title": "Amnesia celebrates its 50th anniversary",
-      "link": "https://www.decodedmagazine.com/amnesia-celebrates-its-50th-anniversary/",
-      "published": "2026-01-20T10:10:40.000Z",
-      "publishedTs": 1768903840000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Ibiza",
-        "Amnesia",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/amnesia-ibiza-2026.png?resize=810%2C1013&ssl=1",
-      "excerpt": "Amnesia, Ibiza’s home of underground clubbing for 50 years, marks five decades of music, movement, and shared experience with a year of anniversary events, guest line ups, and cultural collaborations throughout 2026. A landmark year for …"
+      "id": "770a74bb21d692b3b1bcae3f59ed47c6d4782994",
+      "title": "Darius Syrossian forced to cancel US shows, cites Trump's Iranian travel ban",
+      "link": "https://mixmag.net/read/darius-syrossian-forced-to-cancel-us-shows-due-to-trump-travel-rules-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Darius-s.png?width=660&fit=cover&s=v4enJRdqQ29Wo6529WQqH_KogNCOp2qL578JHvA82k0",
+      "excerpt": "The Tehran-born DJ shared his &quot;serious concerns&quot; around travelling to the US amid restrictions for Iranian citizens Continue reading..."
+    },
+    {
+      "id": "f5adba8575e6c7e9982165d9da3191754d320b71",
+      "title": "Buckinghamshire's Above Below Festival pauses indefinitely: “It’s been a privilege”",
+      "link": "https://mixmag.net/read/boutique-festival-above-below-pauses-indefinitely-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AB6.jpg?width=660&fit=cover&s=DdQYYFcDTRGJPhOC1pl0n5noUlQXzcvejHRKmoUnDLY",
+      "excerpt": "The boutique UK festival previously said it was taking a “breather”, but is unsure if it will return Continue reading..."
     },
     {
       "id": "d4b27599ff955179ec31aba2c8b21bf093238602",
@@ -1428,7 +1453,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
       "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
     },
     {
@@ -1514,30 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/David-Bowie.png?width=660&fit=cover&s=xh1N1Wq8zOE9x2-tS8DXeaGmvqdH8ZqGBtJj-E2jYBA",
       "excerpt": "Heritage of London Trust has announced plans to restore the property, with work expected to be completed by 2027 Continue reading..."
-    },
-    {
-      "id": "70684d688032413647ae53b8638496729b710bad",
-      "title": "Calls made to honour jungle legend Stevie Hyper D with blue plaque",
-      "link": "https://mixmag.net/read/calls-made-honour-jungle-legend-stevie-hyper-d-blue-plaque-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Stevie-Hyper-D-credit-Tristan-ONeil.jpg?width=660&fit=cover&s=S7O7MvKTkcGr3DWkoNjBoY3mSeaWQ_-l37iWxZxKuCM",
-      "excerpt": "Family and friends of the late MC are attempting to get a plaque installed at his former home Continue reading..."
-    },
-    {
-      "id": "834be6bfc524d487b6fb19ead4053452ab7e6664",
-      "title": "Canadian artist's gig cancelled after AI wrongly identifies him as a sex offender",
-      "link": "https://mixmag.net/read/venue-in-canada-cancels-gig-after-ai-wrongly-identifies-artist-as-sex-offender-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ashley-MacIsaac-1.png?width=660&fit=cover&s=jbA42g0mdrrCbQd6cJv404JpvMnUjIyxj4LPfAUJnCQ",
-      "excerpt": "Ashley MacIsaac is now threatening legal action, insisting that he “could have been at a border and put in jail&quot; as a result of Google AI&#039;s misinformation Continue reading..."
     }
   ]
 }
