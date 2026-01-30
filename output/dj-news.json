@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T11:28:17.467Z",
+  "generatedAt": "2026-01-30T12:55:37.512Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,58 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1958bd30855a2e91cbd61012abe29e848b25478f",
+      "title": "Native Instruments CEO breaks his silence",
+      "link": "https://www.decodedmagazine.com/native-instruments-ceo-breaks-his-silence/",
+      "published": "2026-01-30T12:46:13.000Z",
+      "publishedTs": 1769777173000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Brainworx",
+        "Hardware",
+        "iZotope",
+        "Music Industry",
+        "music production",
+        "Native Instruments",
+        "Plugin Alliance",
+        "software",
+        "Traktor"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/01/Native-Instruments-logo.png",
+      "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
+    },
+    {
+      "id": "553b2d5820ca9cd842b2993431ea256dfdde202f",
+      "title": "Wasted On Youth",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/wasted-on-youth/",
+      "published": "2026-01-30T12:08:27.000Z",
+      "publishedTs": 1769774907000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Molotovs-Wasted-On-Youth-.jpg",
+      "excerpt": "Después de reclamar el foco en base un desfile de singles previos y multitud de conciertos (incluidos los ofrecidos sobre... La entrada Wasted On Youth se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1aa3e181efd82089f965ab5518a2de524ddd4b5a",
+      "title": "Zura",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/olaia-inziarte-zura/",
+      "published": "2026-01-30T11:55:58.000Z",
+      "publishedTs": 1769774158000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Olaia-Inziarte.jpg",
+      "excerpt": "Espero gabeko hiru kantu etorri ziren urte bukaeran Olaia Inziarteren eskutik, ‘Zura’ deituriko EP batean. ‘Zerrautsa’ izeneko diskoa kaleratu zuen... La entrada Zura se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6047240aeec3211d8b237c2a6f161cbdee7b5ce8",
       "title": "Wormslayer",
@@ -157,20 +209,6 @@
       "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Reseñamos &#039;Hijos de la Ruina Vol. 4&#039;, la reunión de nuevo de Natos y Waor con Recycled J se publicó …"
     },
     {
-      "id": "31eb1dc824fe98a185f2c995a3be46ae8cdec247",
-      "title": "El día que me olvides",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/walls-el-dia-que-me-olvides/",
-      "published": "2026-01-28T07:38:58.000Z",
-      "publishedTs": 1769585938000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Walls-El-dia-que-me-olvides.jpg",
-      "excerpt": "Han pasado ya nueve años desde que conocimos a un joven freestyler apodado Walls que se hacía un hueco dentro... La entrada El día que me olvides se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
       "title": "Butch’s “Formula E” single on DJ Tennis’s Life and Death",
       "link": "https://www.decodedmagazine.com/butchs-formula-e-single-on-dj-tenniss-life-and-death/",
@@ -205,20 +243,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/09/carl-craig-big.jpg",
       "excerpt": "Michigan State University has selected internationally renowned Detroit DJ, producer, and techno innovator Carl Craig as a MSUFCU Arts Power Up artist-in-residence, a program that brings visionary artists to campus to explore the interse…"
-    },
-    {
-      "id": "a39dbaae1d84b1af62b82c0b2977b9a5efb3056d",
-      "title": "Vidas Semipreciosas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nacho-vegas-vidas-semipreciosas/",
-      "published": "2026-01-27T13:31:34.000Z",
-      "publishedTs": 1769520694000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Nacho-Vegas-Vidas-Semipreciosas.jpg",
-      "excerpt": "Andan los tiempos jodidos y puede que ese sea el mejor caldo de cultivo para un tipo como Nacho Vegas,... La entrada Vidas Semipreciosas se publicó primero en MondoSonoro ."
     },
     {
       "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
@@ -545,29 +569,16 @@
       "excerpt": "Perception by Marcel Reix Barcelona&#8217;s Marcel Reix debuts on SCI+TEC with &#8220;Perception&#8221;, fulfilling a dream for the longtime Dubfire admirer. The three-track EP showcases Marcel&#8217;s range: title track &#8220;Perceptio…"
     },
     {
-      "id": "2d385669f8552c235d85fa8bf08d02873bf917c7",
-      "title": "The Politics of Partying: Why Electronic Music Has Always Been Political",
-      "link": "https://www.decodedmagazine.com/the-politics-of-partying-why-electronic-music-has-always-been-political/",
-      "published": "2026-01-19T08:34:09.000Z",
-      "publishedTs": 1768811649000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Criminal Justice and Public Order Act",
-        "Detroit",
-        "History",
-        "Iran",
-        "Minorities",
-        "Music Industry",
-        "Politics",
-        "Race",
-        "Russia",
-        "Social media"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/reading-the-rosetta-stone-of-rave-culture-looking-at-the-criminal-justice-and-public-order-act-of-1994-body-image-1488968311.webp?resize=810%2C521&ssl=1",
-      "excerpt": "Thirty years into this thing we do, and I&#8217;m still hearing the same tired argument: electronic music isn&#8217;t political; it&#8217;s just escapism, just hedonism, just 4/4 music and ravers preaching PLUR in dark rooms. If I had a …"
+      "id": "d4b27599ff955179ec31aba2c8b21bf093238602",
+      "title": "Fela Kuti becomes first African artist to receive GRAMMY Lifetime Achievement Award",
+      "link": "https://mixmag.net/read/fela-kuti-first-african-artist-receive-lifetime-achievement-award-grammys-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fela-kuti-grammys.jpg?width=660&fit=cover&s=7etJZH41QPlQpu2QBpkPrqwfV0jLEDjJjxm1xiYIt0A",
+      "excerpt": "The Afrobeats pioneer is being awarded by the US Recording Academy some 30 years after his death Continue reading..."
     },
     {
       "id": "4ad0456fead22cbdab25340b34600ea5b5bed1aa",
@@ -1516,18 +1527,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ashley-MacIsaac-1.png?width=660&fit=cover&s=jbA42g0mdrrCbQd6cJv404JpvMnUjIyxj4LPfAUJnCQ",
       "excerpt": "Ashley MacIsaac is now threatening legal action, insisting that he “could have been at a border and put in jail&quot; as a result of Google AI&#039;s misinformation Continue reading..."
-    },
-    {
-      "id": "cb32ce881c9395c89545d5d4dcce124a394dcddc",
-      "title": "AlphaTheta adds Apple Music integration as part of new CDJ-3000X update",
-      "link": "https://mixmag.net/read/alphatheta-adds-apple-music-integration-as-part-of-new-cdj-3000x-update-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CDJ3000x.png?width=660&fit=cover&s=kZt6ZPcduutpJspvhCOL3AvBejsE_GwPFASmg1H2J_Y",
-      "excerpt": "Users can now access 100 million tracks from the streaming platform directly via the DJ deck Continue reading..."
     }
   ]
 }
