@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T07:40:15.683Z",
+  "generatedAt": "2026-01-30T08:39:17.294Z",
   "total": 110,
   "sources": [
     {
@@ -21,9 +21,37 @@
   "errors": [],
   "items": [
     {
-      "id": "def473964c4859626149782c774cfe2d561bc53d",
+      "id": "6047240aeec3211d8b237c2a6f161cbdee7b5ce8",
+      "title": "Wormslayer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kula-shaker-wormslayer/",
+      "published": "2026-01-30T08:31:34.000Z",
+      "publishedTs": 1769761894000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Kula-Shaker-Wormslayer.jpg",
+      "excerpt": "Kula Shaker cogen definitiva carrerilla y, además de ese excelente estado de forma probado sobre los escenarios en las últimas... La entrada Wormslayer se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "29ed287cf67af15e42e3088cdef299db583cb32b",
+      "title": "Amores Pasajeros",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dani-dicostas-amores-pasajeros/",
+      "published": "2026-01-30T08:10:01.000Z",
+      "publishedTs": 1769760601000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dani-dicostas-Amores-Pasajeros.jpg",
+      "excerpt": "Rendida ante la inmensidad del momento. A su dolor y su gloria. Dani Dicostas llora, baila y celebra a sus... La entrada Amores Pasajeros se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7d595b420fa1f0deddc9792a3bf7afe6a561f29b",
       "title": "Crítica de 'I Used to Go to This Bar', lo nuevo de Joyce Manor",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/joyce-manor-i-used-to-go-to-this-bar515878/",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/joyce-manor-i-used-to-go-to-this-bar/",
       "published": "2026-01-30T07:31:55.000Z",
       "publishedTs": 1769758315000,
       "sourceId": "mondosonoro",
@@ -236,20 +264,6 @@
       "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
     },
     {
-      "id": "22ed1f7bf0ba74d6195a7c69218af30db46835d2",
-      "title": "Not Like Everybody Else",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-damned-not-like-everybody-else/",
-      "published": "2026-01-27T10:13:35.000Z",
-      "publishedTs": 1769508815000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Damned-Not-Like-Everybody-Else.jpg",
-      "excerpt": "Este no es un disco de circunstancias, aunque nazca de una ausencia. Es un gesto. Un cierre de círculo. The... La entrada Not Like Everybody Else se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "5062a76473c831e1856574d8171b41adb17ebee9",
       "title": "XOYO London Returns To Independent, Underground Roots",
       "link": "https://www.decodedmagazine.com/xoyo-london-returns-to-independent-underground-roots/",
@@ -376,20 +390,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/rural-2025-Takashi-Hamada381.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Located in Numajiri Highlands, Fukushima, the outdoor music festival rural 2026 will take place over four days, from July 17 (Friday) to July 20 (Monday, public holiday), 2026. Artists who continue to operate beyond existing genre bounda…"
-    },
-    {
-      "id": "638ccf0966a078b12669c66e8ec39bdfd0855eaf",
-      "title": "Burdin gozoa eta arrabioa",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/physis-versus-nomos-burdin-gozoa-eta-arrabioa/",
-      "published": "2026-01-26T16:57:11.000Z",
-      "publishedTs": 1769446631000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Physis-vs-nomos.jpg",
-      "excerpt": "Batzuetan tiradera batean abestiak gordeta ekartzeak etorkizuneko lan berriak sortzeko bide ematen du eta ez dago zalantzarik itxaronaldiak merezi izan... La entrada Burdin gozoa eta arrabioa se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
