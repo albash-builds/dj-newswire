@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T15:34:22.889Z",
+  "generatedAt": "2026-01-30T16:39:05.881Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c7a23ed20c23d003a892fd066343665c2ebc2b29",
+      "title": "French techno producer Sina XX releases his new album Let There Be Light",
+      "link": "https://www.decodedmagazine.com/french-techno-producer-sina-xx-releases-his-new-album-let-there-be-light/",
+      "published": "2026-01-30T15:52:21.000Z",
+      "publishedTs": 1769788341000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "France",
+        "Sina XX",
+        "subtyl",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/image.jpeg?resize=399%2C399&ssl=1",
+      "excerpt": "Let There Be Light by Sina XX French techno producer Sina XX has unveiled his new album Let There Be Light , featuring focus single ‘Myt’ out on his own imprint subtyl. Rooted in ritual, movement, and futurism, the album opens with “Wake…"
+    },
     {
       "id": "07ec2f4852861080d06bfead77460f155ba6db01",
       "title": "Tara Donovan’s Stratagems takes thousands of recycled CDs to form reflective vertical sculptures",
@@ -560,25 +578,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
       "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
-    },
-    {
-      "id": "17d6f131cf6bd6cca454ae974a1f164a10f9238c",
-      "title": "lovetempo drops Never the Same single",
-      "link": "https://www.decodedmagazine.com/lovetempo-drops-never-the-same-single/",
-      "published": "2026-01-20T10:35:28.000Z",
-      "publishedTs": 1768905328000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "downtempo",
-        "Electronica",
-        "Jazz",
-        "Soul",
-        "Soulful House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/lovetempo-press-photo-2-Jul-25-Moriah-Ziman-scaled.jpg",
-      "excerpt": "lovetempo is the project of Brooklyn-based musician and vocalist Mattie Safer, also known for his work with Poolside and The Rapture. Blending soul, disco, house, and jazz-funk with soul-baring tenderness and an ear for rhythmic detail, …"
     },
     {
       "id": "770a74bb21d692b3b1bcae3f59ed47c6d4782994",
