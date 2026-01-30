@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T12:55:37.512Z",
+  "generatedAt": "2026-01-30T13:57:19.766Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,52 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c9bf91331439e6e0a4ab9389b9a613a56160b883",
+      "title": "Anjunadeep returns to Labyrinth on the Thames",
+      "link": "https://www.decodedmagazine.com/anjunadeep-returns-to-labyrinth-on-the-thames/",
+      "published": "2026-01-30T13:44:57.000Z",
+      "publishedTs": 1769780697000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Anjunadeep",
+        "House Music",
+        "London",
+        "Melodic Techno",
+        "Old Royal Naval College",
+        "Progressive House",
+        "Techno",
+        "Thames"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Copy-of-Anjunadeep-Open-Air-London-Old-Royal-Naval-College-10th-August-2025-by-Luke-Dyson-LD2_1378.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Labyrinth Events has announced the return of Anjunadeep to London after a sold-out debut last summer at The Old Royal Naval College, a UNESCO World Heritage Site, on 9th August 2026. Founded by Above &amp; Beyond and James Grant, Anjunad…"
+    },
+    {
+      "id": "19c03f40b70d5b45bee2ebdc1d1a52c6294aef59",
+      "title": "Junction 2 refines format and dates for its 10th anniversary",
+      "link": "https://www.decodedmagazine.com/junction-2-refines-format-and-dates-for-its-10th-anniversary/",
+      "published": "2026-01-30T13:26:10.000Z",
+      "publishedTs": 1769779570000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Boston Manor Park",
+        "fabric london",
+        "Festival",
+        "House Music",
+        "Junction 2",
+        "London",
+        "M4",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/J2-2026-Launch-3x4-1.png?resize=768%2C1024&ssl=1",
+      "excerpt": "Junction 2 returns to Boston Manor Park in 2026 with a refined and focused format that reflects both its roots and its future. For its 10th anniversary edition, two iconic stages will form the core of the J2 X experience. Now with more s…"
+    },
     {
       "id": "1958bd30855a2e91cbd61012abe29e848b25478f",
       "title": "Native Instruments CEO breaks his silence",
@@ -532,41 +578,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/amnesia-ibiza-2026.png?resize=810%2C1013&ssl=1",
       "excerpt": "Amnesia, Ibiza’s home of underground clubbing for 50 years, marks five decades of music, movement, and shared experience with a year of anniversary events, guest line ups, and cultural collaborations throughout 2026. A landmark year for …"
-    },
-    {
-      "id": "be932ac473905cabd5107816881c2426c3983f2b",
-      "title": "HAAi and Weirdcore Collaborate on New Track and Visualizer for Native Instruments’ Absynth 6",
-      "link": "https://www.decodedmagazine.com/haai-and-weirdcore-collaborate-on-new-track-and-visualizer-for-native-instruments-absynth-6/",
-      "published": "2026-01-20T05:17:07.000Z",
-      "publishedTs": 1768886227000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Absynth",
-        "HAAi",
-        "Native Instruments",
-        "Visualiser",
-        "Weirdcore"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/unnamed-9.jpg",
-      "excerpt": "London-based digital artist Weirdcore (Aphex Twin, Radiohead/the smile, Charli XCX, Daniel Lopatin) has collaborated with Native Instruments to create the visuals for the newly released Absynth 6 &#8211; the legendary soft synth used on …"
-    },
-    {
-      "id": "1ea89ced61df4be6840d62ffc0ea6932318154bb",
-      "title": "SCI+TEC just announced Perception by Marcel Reix",
-      "link": "https://www.decodedmagazine.com/scitec-just-announced-perception-by-marcel-reix/",
-      "published": "2026-01-20T05:05:48.000Z",
-      "publishedTs": 1768885548000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Marcel Reix",
-        "SCI+TEC"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/a3356282128_10.jpg",
-      "excerpt": "Perception by Marcel Reix Barcelona&#8217;s Marcel Reix debuts on SCI+TEC with &#8220;Perception&#8221;, fulfilling a dream for the longtime Dubfire admirer. The three-track EP showcases Marcel&#8217;s range: title track &#8220;Perceptio…"
     },
     {
       "id": "d4b27599ff955179ec31aba2c8b21bf093238602",
@@ -1417,7 +1428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
+      "image": "",
       "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
     },
     {
