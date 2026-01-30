@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-30T17:33:59.792Z",
-  "total": 90,
+  "generatedAt": "2026-01-30T18:42:16.007Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,15 +18,114 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "c7a23ed20c23d003a892fd066343665c2ebc2b29",
+      "title": "French techno producer Sina XX releases his new album Let There Be Light",
+      "link": "https://www.decodedmagazine.com/french-techno-producer-sina-xx-releases-his-new-album-let-there-be-light/",
+      "published": "2026-01-30T15:52:21.000Z",
+      "publishedTs": 1769788341000,
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "Music Premieres",
+        "France",
+        "Sina XX",
+        "subtyl",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/image.jpeg?resize=399%2C399&ssl=1",
+      "excerpt": "Let There Be Light by Sina XX French techno producer Sina XX has unveiled his new album Let There Be Light , featuring focus single ‘Myt’ out on his own imprint subtyl. Rooted in ritual, movement, and futurism, the album opens with “Wake…"
+    },
+    {
+      "id": "07ec2f4852861080d06bfead77460f155ba6db01",
+      "title": "Tara Donovan’s Stratagems takes thousands of recycled CDs to form reflective vertical sculptures",
+      "link": "https://www.decodedmagazine.com/tara-donovans-stratagems-takes-thousands-of-recycled-cds-form-reflective-vertical-sculptures/",
+      "published": "2026-01-30T13:59:43.000Z",
+      "publishedTs": 1769781583000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "CD",
+        "San Francisco",
+        "Tara Donovan",
+        "Transamerica Pyramid Center"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/ICA-SF_Stratagems-by-Tara-Donovan_Nicholas-Lea-Bruno_SP26-8-scaled.jpg",
+      "excerpt": "Got a spare 10,000 CDs lying around? Doubt it. Ever wondered what you could do with them if you did? Tara Donovan has an answer, and it&#8217;s currently installed at San Francisco&#8217;s Transamerica Pyramid Center through July. Her sh…"
+    },
+    {
+      "id": "c9bf91331439e6e0a4ab9389b9a613a56160b883",
+      "title": "Anjunadeep returns to Labyrinth on the Thames",
+      "link": "https://www.decodedmagazine.com/anjunadeep-returns-to-labyrinth-on-the-thames/",
+      "published": "2026-01-30T13:44:57.000Z",
+      "publishedTs": 1769780697000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Anjunadeep",
+        "House Music",
+        "London",
+        "Melodic Techno",
+        "Old Royal Naval College",
+        "Progressive House",
+        "Techno",
+        "Thames"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Copy-of-Anjunadeep-Open-Air-London-Old-Royal-Naval-College-10th-August-2025-by-Luke-Dyson-LD2_1378.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Labyrinth Events has announced the return of Anjunadeep to London after a sold-out debut last summer at The Old Royal Naval College, a UNESCO World Heritage Site, on 9th August 2026. Founded by Above &amp; Beyond and James Grant, Anjunad…"
+    },
+    {
+      "id": "19c03f40b70d5b45bee2ebdc1d1a52c6294aef59",
+      "title": "Junction 2 refines format and dates for its 10th anniversary",
+      "link": "https://www.decodedmagazine.com/junction-2-refines-format-and-dates-for-its-10th-anniversary/",
+      "published": "2026-01-30T13:26:10.000Z",
+      "publishedTs": 1769779570000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Boston Manor Park",
+        "fabric london",
+        "Festival",
+        "House Music",
+        "Junction 2",
+        "London",
+        "M4",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/J2-2026-Launch-3x4-1.png?resize=768%2C1024&ssl=1",
+      "excerpt": "Junction 2 returns to Boston Manor Park in 2026 with a refined and focused format that reflects both its roots and its future. For its 10th anniversary edition, two iconic stages will form the core of the J2 X experience. Now with more s…"
+    },
+    {
+      "id": "1958bd30855a2e91cbd61012abe29e848b25478f",
+      "title": "Native Instruments CEO breaks his silence",
+      "link": "https://www.decodedmagazine.com/native-instruments-ceo-breaks-his-silence/",
+      "published": "2026-01-30T12:46:13.000Z",
+      "publishedTs": 1769777173000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Brainworx",
+        "Hardware",
+        "iZotope",
+        "Music Industry",
+        "music production",
+        "Native Instruments",
+        "Plugin Alliance",
+        "software",
+        "Traktor"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Native-Instruments-logo.png",
+      "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
+    },
     {
       "id": "553b2d5820ca9cd842b2993431ea256dfdde202f",
       "title": "Wasted On Youth",
@@ -112,6 +211,30 @@
       "excerpt": "Después de recuperar “Mentemblanco”, el tercer disco de La Banda Trapera del Río, el sello Kasba sigue escarbando en el... La entrada Tiempo perdido en la memoria se publicó primero en MondoSonoro ."
     },
     {
+      "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
+      "title": "Sankeys Manchester reveal season line-up + new location",
+      "link": "https://www.decodedmagazine.com/sankeys-manchester-reveal-season-line-up-new-location/",
+      "published": "2026-01-28T15:46:04.000Z",
+      "publishedTs": 1769615164000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Bontan",
+        "House Music",
+        "Magda",
+        "Manchester",
+        "Maya Jane Coles",
+        "Oxia",
+        "Sankeys",
+        "Stacey Pullen",
+        "Steve Lawler",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sankeys-manchester.png?resize=810%2C810&ssl=1",
+      "excerpt": "Sankeys Manchester has revealed the first wave of artists set to perform at its new Sidney Street location throughout February to June 2026. The A–Z lineup marks the next chapter for the underground institution with more special guests a…"
+    },
+    {
       "id": "d15af2e77c44f098396d8755ac61eb5fcd4d6120",
       "title": "La vida de Nadie",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/besmaya-la-vida-de-nadie/",
@@ -166,6 +289,294 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Hijos-de-la-Ruina-Vol-IV.jpg",
       "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Reseñamos &#039;Hijos de la Ruina Vol. 4&#039;, la reunión de nuevo de Natos y Waor con Recycled J se publicó …"
+    },
+    {
+      "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
+      "title": "Butch’s “Formula E” single on DJ Tennis’s Life and Death",
+      "link": "https://www.decodedmagazine.com/butchs-formula-e-single-on-dj-tenniss-life-and-death/",
+      "published": "2026-01-28T07:21:03.000Z",
+      "publishedTs": 1769584863000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Butch",
+        "DJ Tennis",
+        "Life and Death Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
+      "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
+    },
+    {
+      "id": "6ea77fef3b86d507b561a7a7596c2d839fc8e8e7",
+      "title": "Carl Craig Named Michigan State University’s Next Artist-In-Residence",
+      "link": "https://www.decodedmagazine.com/carl-craig-named-michigan-state-universitys-next-artist-in-residence/",
+      "published": "2026-01-28T02:23:17.000Z",
+      "publishedTs": 1769566997000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Electronica",
+        "Michigan",
+        "Michigan State University",
+        "Music Industry",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/09/carl-craig-big.jpg",
+      "excerpt": "Michigan State University has selected internationally renowned Detroit DJ, producer, and techno innovator Carl Craig as a MSUFCU Arts Power Up artist-in-residence, a program that brings visionary artists to campus to explore the interse…"
+    },
+    {
+      "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
+      "title": "Terrence Dixon returns to Tresor with ‘When Stars Remember’ EP",
+      "link": "https://www.decodedmagazine.com/terrence-dixon-returns-to-tresor-with-when-stars-remember-ep/",
+      "published": "2026-01-27T12:24:37.000Z",
+      "publishedTs": 1769516677000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Detroit",
+        "Techno",
+        "Terrence Dixon",
+        "Tresor"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Terrence-Dixon-photo-credit-Evan-Zott.png",
+      "excerpt": "When Stars Remember by Terrence Dixon Despite his thirty-year career, Detroit original Terrence Dixon has always managed to keep a lower profile than his peers; he has given few interviews, preferring instead to speak through his music, …"
+    },
+    {
+      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
+      "title": "Barcelona’s MOSTRA Festival Celebrates its 5th Birthday",
+      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
+      "published": "2026-01-27T11:32:30.000Z",
+      "publishedTs": 1769513550000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Featured",
+        "Festivals",
+        "Al Blayney",
+        "Angel Molina",
+        "Barcelona",
+        "Electronica",
+        "House Music",
+        "Lemont",
+        "Marylou",
+        "Melina Serser",
+        "Muted"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
+      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
+    },
+    {
+      "id": "5062a76473c831e1856574d8171b41adb17ebee9",
+      "title": "XOYO London Returns To Independent, Underground Roots",
+      "link": "https://www.decodedmagazine.com/xoyo-london-returns-to-independent-underground-roots/",
+      "published": "2026-01-27T07:53:19.000Z",
+      "publishedTs": 1769500399000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "London",
+        "Nightclub",
+        "XOYO London"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
+      "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
+    },
+    {
+      "id": "ecb6d12c994ce5d42b6d45faae5e4851d333d7b5",
+      "title": "Should Governments Pay Artists a Living Wage?",
+      "link": "https://www.decodedmagazine.com/should-governments-pay-artists-a-living-wage/",
+      "published": "2026-01-27T06:38:26.000Z",
+      "publishedTs": 1769495906000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "artists",
+        "Ireland",
+        "Living Wage",
+        "Music Industry",
+        "Musicians",
+        "Universal Income"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Musician-universal-icome-decoded-magazine-scaled.jpg",
+      "excerpt": "Ireland did something most governments only talk about. In October 2025, they announced their Basic Income for the Arts pilot would become permanent, making them the first country to commit state funding to directly support artists throu…"
+    },
+    {
+      "id": "5dd006639b326cca4c782c70b39c76276dd6fe30",
+      "title": "Landmark Nightlife Taskforce Report Sets Out Clear Roadmap for London After Dark",
+      "link": "https://www.decodedmagazine.com/landmark-nightlife-taskforce-report-sets-out-clear-roadmap-for-london-after-dark/",
+      "published": "2026-01-27T05:04:01.000Z",
+      "publishedTs": 1769490241000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "bars",
+        "Clubs",
+        "Hackney",
+        "London",
+        "Nightlife",
+        "NTIA",
+        "Restaurants",
+        "Shoreditch",
+        "SOHO"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
+      "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
+    },
+    {
+      "id": "205beee8c4e9755186911d6661d18a19f1a28cd5",
+      "title": "Decoded Magazine Presents Dave Walker",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-presents-dave-walker/",
+      "published": "2026-01-27T04:27:45.000Z",
+      "publishedTs": 1769488065000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "Progressive",
+        "Armada",
+        "Balance Series",
+        "Forensic Records",
+        "John Digweed",
+        "John OO Flemming",
+        "Lost Language",
+        "Mango Alley Records",
+        "Melodic Techno",
+        "Progressive House"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
+      "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
+    },
+    {
+      "id": "6c64d6a285bd10c12e5122201e6aae690b239f8e",
+      "title": "‘Intro’ by Alan Braxe and Fred Falke celebrates turning 25 this year.",
+      "link": "https://www.decodedmagazine.com/intro-by-alan-braxe-and-fred-falke-celebrates-turning-25-this-year/",
+      "published": "2026-01-27T02:56:14.000Z",
+      "publishedTs": 1769482574000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Alan Braxe",
+        "Classic",
+        "Fred Falke",
+        "French House",
+        "House Music",
+        "Vulture Music"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fred-falke-and-alan-braxe-Credit-Philippe-Levy.jpg",
+      "excerpt": "Originally released in 2000 on Alan Braxe’s own label Vulture Music and later released on the acclaimed album ‘The Upper Cuts’, since its release ‘Intro’ has become one of the most celebrated tracks of the era, and is quintessential of t…"
+    },
+    {
+      "id": "3c8c607fb4b630ecb48ce7417b2a73b80c9b4331",
+      "title": "Japan’s rural Festival 2026: First Artist Announcement – Willikens & Ivkovic, Al Wootton & More",
+      "link": "https://www.decodedmagazine.com/japans-rural-festival-2026-first-artist-announcement-willikens-ivkovic-al-wootton-more/",
+      "published": "2026-01-27T02:36:52.000Z",
+      "publishedTs": 1769481412000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Asia",
+        "Festivals",
+        "World",
+        "Electronica",
+        "Fukushima",
+        "Japan",
+        "Numajiri Highlands",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/rural-2025-Takashi-Hamada381.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Located in Numajiri Highlands, Fukushima, the outdoor music festival rural 2026 will take place over four days, from July 17 (Friday) to July 20 (Monday, public holiday), 2026. Artists who continue to operate beyond existing genre bounda…"
+    },
+    {
+      "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
+      "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
+      "link": "https://www.decodedmagazine.com/richie-hawtins-minimal-masterclass-revisiting-sheet-one-three-decades-on/",
+      "published": "2026-01-22T02:32:05.000Z",
+      "publishedTs": 1769049125000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "303",
+        "606",
+        "acid techno",
+        "Classic Album",
+        "minimal techno",
+        "Plastikman",
+        "Richie Hawtin",
+        "Techno",
+        "Throwback Thursday"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sheet-one-plastikman.jpg?resize=810%2C547&ssl=1",
+      "excerpt": "By 1993, techno had moved well beyond its first wave. The rave scene was pulling serious numbers into abandoned warehouses across the Midwest and Europe, while Warp&#8217;s Artificial Intelligence compilation had made it acceptable to su…"
+    },
+    {
+      "id": "454921baf9ad34c6c4625839542c616eb15ffd55",
+      "title": "Sydney’s Lockout Laws Finally Abolished After 12 Years of Cultural Damage",
+      "link": "https://www.decodedmagazine.com/sydneys-lockout-laws-finally-abolished-after-12-years-of-cultural-damage/",
+      "published": "2026-01-21T08:18:35.000Z",
+      "publishedTs": 1768983515000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "News",
+        "Clubbing",
+        "Economy",
+        "Lock Out Laws",
+        "Music Industry",
+        "Nightlife",
+        "NSW"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/kings-cross-sydney.webp",
+      "excerpt": "Twelve years to the day since they were first announced, Sydney&#8217;s lockout laws have been officially consigned to history. On 21 January 2026, the Minns Labor Government repealed the final major restrictions that have hung over the …"
+    },
+    {
+      "id": "fafd63c6657b6429a4185242734e23fe16422c60",
+      "title": "From Dorset to Burning Man: Director Hoj Jomehri on Telling Lee Burridge’s Story",
+      "link": "https://www.decodedmagazine.com/from-dorset-to-burning-man-director-hoj-jomehri-on-telling-lee-burridges-story/",
+      "published": "2026-01-21T05:20:59.000Z",
+      "publishedTs": 1768972859000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "All Day I Dream",
+        "deep house",
+        "Documentary",
+        "Lee Burridge",
+        "Progressive House",
+        "Rave Culture",
+        "Video production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/soad_bts_LeeInterview.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "There&#8217;s something quietly compelling about documentaries that manage to capture the essence of electronic music culture without resorting to the usual visual clichés or breathless narration. Hoj Jomehri&#8217; s Sound of a Dream, w…"
+    },
+    {
+      "id": "405fd707d0733d567fcdf82f73d38730ee6a88cc",
+      "title": "Exclusive Premiere – Bebetta – We’re Getting Down",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-bebetta-were-getting-down/",
+      "published": "2026-01-21T01:22:35.000Z",
+      "publishedTs": 1768958555000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
     },
     {
       "id": "718e0f304951485d9ca8a84a8d3fd1d93501c759",
