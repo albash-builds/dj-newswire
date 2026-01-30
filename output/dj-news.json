@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-30T06:50:07.125Z",
+  "generatedAt": "2026-01-30T07:40:15.683Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "def473964c4859626149782c774cfe2d561bc53d",
+      "title": "Crítica de 'I Used to Go to This Bar', lo nuevo de Joyce Manor",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/joyce-manor-i-used-to-go-to-this-bar515878/",
+      "published": "2026-01-30T07:31:55.000Z",
+      "publishedTs": 1769758315000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Joyce-Manor-I-Used-to-Go-to-This-Bar-.jpg",
+      "excerpt": "El nombre de Joyce Manor aparece en el cartel del próximo Coachella, el epítome de los macrofestivales brilli-brilli, pero la banda... La entrada Crítica de &#039;I Used to Go to This Bar&#039;, lo nuevo de Joyce Manor se publicó primero…"
+    },
     {
       "id": "6eaf8cec33e4aa11a76b5e404a2059f420677385",
       "title": "Tiempo perdido en la memoria",
@@ -166,7 +180,7 @@
     },
     {
       "id": "a39dbaae1d84b1af62b82c0b2977b9a5efb3056d",
-      "title": "Crítica de 'Vidas Semipreciosas', lo nuevo de Nacho Vegas",
+      "title": "Vidas Semipreciosas",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/nacho-vegas-vidas-semipreciosas/",
       "published": "2026-01-27T13:31:34.000Z",
       "publishedTs": 1769520694000,
@@ -176,7 +190,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Nacho-Vegas-Vidas-Semipreciosas.jpg",
-      "excerpt": "Andan los tiempos jodidos y puede que ese sea el mejor caldo de cultivo para un tipo como Nacho Vegas,... La entrada Crítica de &#039;Vidas Semipreciosas&#039;, lo nuevo de Nacho Vegas se publicó primero en MondoSonoro ."
+      "excerpt": "Andan los tiempos jodidos y puede que ese sea el mejor caldo de cultivo para un tipo como Nacho Vegas,... La entrada Vidas Semipreciosas se publicó primero en MondoSonoro ."
     },
     {
       "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
@@ -376,20 +390,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Physis-vs-nomos.jpg",
       "excerpt": "Batzuetan tiradera batean abestiak gordeta ekartzeak etorkizuneko lan berriak sortzeko bide ematen du eta ez dago zalantzarik itxaronaldiak merezi izan... La entrada Burdin gozoa eta arrabioa se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "abff1336c134fecaf427af541ce0e1450ff711e5",
-      "title": "Una mudanza",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hens-una-mudanza/",
-      "published": "2026-01-26T16:48:52.000Z",
-      "publishedTs": 1769446132000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/hens-una-mudanza.jpg",
-      "excerpt": "\"Una Mudanza\" no es solo el título del nuevo álbum de Hens, es la declaración de intenciones de un artista... La entrada Una mudanza se publicó primero en MondoSonoro ."
     },
     {
       "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
