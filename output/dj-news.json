@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-31T05:38:24.271Z",
+  "generatedAt": "2026-01-31T06:39:11.149Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d381c00668046e209db4dedad773e1764cff176d",
+      "title": "LEGO and Crocs Just Made Wearable Bricks and We’re Not Even Surprised",
+      "link": "https://www.decodedmagazine.com/lego-and-crocs-just-made-wearable-bricks-and-were-not-even-surprised/",
+      "published": "2026-01-31T05:49:14.000Z",
+      "publishedTs": 1769838554000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Fashion",
+        "Lifestyle",
+        "Crocs",
+        "Fun",
+        "lifestyle",
+        "Shoes"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/5010203_Lifestyle03.jpg?resize=683%2C1024&ssl=1",
+      "excerpt": "Look, we need to talk about something properly ridiculous that&#8217;s just dropped, and honestly, it&#8217;s brilliant in the most absurd way possible. LEGO and Crocs have got together and done the unthinkable: they&#8217;ve made actual…"
+    },
     {
       "id": "c7a23ed20c23d003a892fd066343665c2ebc2b29",
       "title": "French techno producer Sina XX releases his new album Let There Be Light",
@@ -563,20 +582,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/soad_bts_LeeInterview.jpg?resize=810%2C608&ssl=1",
       "excerpt": "There&#8217;s something quietly compelling about documentaries that manage to capture the essence of electronic music culture without resorting to the usual visual clichés or breathless narration. Hoj Jomehri&#8217; s Sound of a Dream, w…"
-    },
-    {
-      "id": "405fd707d0733d567fcdf82f73d38730ee6a88cc",
-      "title": "Exclusive Premiere – Bebetta – We’re Getting Down",
-      "link": "https://www.decodedmagazine.com/exclusive-premiere-bebetta-were-getting-down/",
-      "published": "2026-01-21T01:22:35.000Z",
-      "publishedTs": 1768958555000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/UGM100-COVER-scaled.png",
-      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bebetta &#8211; We&#x27;re Getting Down (Extended Mix) [UGENIUS] Melbourne&#8217;s Ugenius Music hits release number 100 with a two-part compilation that tracks 13 years of progressive house …"
     },
     {
       "id": "718e0f304951485d9ca8a84a8d3fd1d93501c759",
@@ -1367,7 +1372,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
+      "image": "",
       "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
     },
     {
@@ -1475,7 +1480,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/provhat_2026-01-12-151704_twso.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=SOGTFW5ia14hUF0iScyyIsJBO9N4YgfCFbpKaRuvhkk",
+      "image": "",
       "excerpt": "Inspired by the recent Built By Sound Installation, which premiered as part of Bradford&#039;s UK City of Culture 2025 programme in November, Provhat Rahman traces the origins of the South Asian daytimers movement in this exclusive mix C…"
     },
     {
