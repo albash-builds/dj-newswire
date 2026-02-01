@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-01T07:37:21.955Z",
+  "generatedAt": "2026-02-01T08:32:51.728Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
+      "title": "Submit your Mix of the Month DJ Competition entry",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
+      "published": "2026-02-01T07:51:44.000Z",
+      "publishedTs": 1769932304000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Mixes",
+        "breaks",
+        "DJ Competition",
+        "DnB",
+        "dub techno",
+        "House Music",
+        "Melodic Techno",
+        "Progressive House",
+        "Techno",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
+      "excerpt": "ENTRIES CLOSE ON 20 FEBRUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enl…"
+    },
     {
       "id": "d381c00668046e209db4dedad773e1764cff176d",
       "title": "LEGO and Crocs Just Made Wearable Bricks and We’re Not Even Surprised",
@@ -297,7 +320,7 @@
     },
     {
       "id": "070fa18777123370d1651e3cb7ddcfb993f6e280",
-      "title": "Reseñamos 'Hijos de la Ruina Vol. 4', la reunión de nuevo de Natos y Waor con Recycled J",
+      "title": "Hijos de la Ruina Vol. 4",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/hijos-de-la-ruina-vol-iv/",
       "published": "2026-01-28T10:33:00.000Z",
       "publishedTs": 1769596380000,
@@ -307,7 +330,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Hijos-de-la-Ruina-Vol-IV.jpg",
-      "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Reseñamos &#039;Hijos de la Ruina Vol. 4&#039;, la reunión de nuevo de Natos y Waor con Recycled J se publicó …"
+      "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Hijos de la Ruina Vol. 4 se publicó primero en MondoSonoro ."
     },
     {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
@@ -560,28 +583,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/kings-cross-sydney.webp",
       "excerpt": "Twelve years to the day since they were first announced, Sydney&#8217;s lockout laws have been officially consigned to history. On 21 January 2026, the Minns Labor Government repealed the final major restrictions that have hung over the …"
-    },
-    {
-      "id": "fafd63c6657b6429a4185242734e23fe16422c60",
-      "title": "From Dorset to Burning Man: Director Hoj Jomehri on Telling Lee Burridge’s Story",
-      "link": "https://www.decodedmagazine.com/from-dorset-to-burning-man-director-hoj-jomehri-on-telling-lee-burridges-story/",
-      "published": "2026-01-21T05:20:59.000Z",
-      "publishedTs": 1768972859000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "All Day I Dream",
-        "deep house",
-        "Documentary",
-        "Lee Burridge",
-        "Progressive House",
-        "Rave Culture",
-        "Video production"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/soad_bts_LeeInterview.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "There&#8217;s something quietly compelling about documentaries that manage to capture the essence of electronic music culture without resorting to the usual visual clichés or breathless narration. Hoj Jomehri&#8217; s Sound of a Dream, w…"
     },
     {
       "id": "bf72f82645fc0165c60d42c85ae6159cf7ee69e6",
