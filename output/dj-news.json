@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T15:37:51.901Z",
+  "generatedAt": "2026-02-02T16:40:35.380Z",
   "total": 110,
   "sources": [
     {
@@ -506,7 +506,7 @@
         "Shoreditch",
         "SOHO"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
+      "image": "",
       "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
     },
     {
@@ -552,7 +552,7 @@
         "House Music",
         "Vulture Music"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fred-falke-and-alan-braxe-Credit-Philippe-Levy.jpg",
+      "image": "",
       "excerpt": "Originally released in 2000 on Alan Braxe’s own label Vulture Music and later released on the acclaimed album ‘The Upper Cuts’, since its release ‘Intro’ has become one of the most celebrated tracks of the era, and is quintessential of t…"
     },
     {
@@ -1425,7 +1425,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
       "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
     },
     {
