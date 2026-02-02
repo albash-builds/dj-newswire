@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T16:40:35.380Z",
+  "generatedAt": "2026-02-02T17:37:36.826Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c3d629758868d8e81e6bbe05e291fd91f948b9a0",
+      "title": "Panical",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/panical/",
+      "published": "2026-02-02T17:02:15.000Z",
+      "publishedTs": 1770051735000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Alba-Careta-Panical.jpg",
+      "excerpt": "Este disco llega en un momento propicio. Sin duda, estas eran las canciones que le tocaba hacer a una mujer... La entrada Panical se publicó primero en MondoSonoro ."
+    },
     {
       "id": "0b645414df11894de44eb2338f52eec84a2f63be",
       "title": "Un paseo aleatorio",
@@ -356,20 +370,6 @@
       "excerpt": "Sankeys Manchester has revealed the first wave of artists set to perform at its new Sidney Street location throughout February to June 2026. The A–Z lineup marks the next chapter for the underground institution with more special guests a…"
     },
     {
-      "id": "d15af2e77c44f098396d8755ac61eb5fcd4d6120",
-      "title": "La vida de Nadie",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/besmaya-la-vida-de-nadie/",
-      "published": "2026-01-28T15:38:17.000Z",
-      "publishedTs": 1769614697000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Besmaya-La-vida-de-Nadie.jpg",
-      "excerpt": "Besmaya abrazan la nostalgia por tiempos mejores para lanzar un mensaje de ánimo, un abrazo, a su generación. “La vida... La entrada La vida de Nadie se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
       "title": "Butch’s “Formula E” single on DJ Tennis’s Life and Death",
       "link": "https://www.decodedmagazine.com/butchs-formula-e-single-on-dj-tenniss-life-and-death/",
@@ -506,7 +506,7 @@
         "Shoreditch",
         "SOHO"
       ],
-      "image": "",
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
       "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
     },
     {
@@ -552,7 +552,7 @@
         "House Music",
         "Vulture Music"
       ],
-      "image": "",
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fred-falke-and-alan-braxe-Credit-Philippe-Levy.jpg",
       "excerpt": "Originally released in 2000 on Alan Braxe’s own label Vulture Music and later released on the acclaimed album ‘The Upper Cuts’, since its release ‘Intro’ has become one of the most celebrated tracks of the era, and is quintessential of t…"
     },
     {
