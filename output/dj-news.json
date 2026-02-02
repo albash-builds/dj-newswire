@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T08:42:43.225Z",
+  "generatedAt": "2026-02-02T09:50:11.698Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "bbef3e7e92153f74814898989b5d5c8db7f37790",
+      "title": "Reseñamos 'Por la hierba', el nuevo trabajo de Ángel Stanich",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/angel-stanich-por-la-hierbapor-la-hierba/",
+      "published": "2026-02-02T05:38:12.000Z",
+      "publishedTs": 1770010692000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Angel-Stanich-Por-la-hierba.jpg",
+      "excerpt": "El tercer disco de Ángel Stanich, \"Por la hierba\", sigue transitando por su particular mundo lírico lleno de referencias, surrealismo... La entrada Reseñamos &#039;Por la hierba&#039;, el nuevo trabajo de Ángel Stanich se publicó primero…"
+    },
     {
       "id": "4f72668696335f854ec2dfeb7505548b35c57535",
       "title": "KVLTÖ Records releases Emerald Dreams by Orca Silent",
@@ -354,20 +368,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/noiz.jpg",
       "excerpt": "Saran kokatutako boskoteak, Sorotan Babies taldearen errautsetatik sortutako proiektu sendoak, \"Nola mozorrotua zara?\" EParekin euskal post-rock eszenari kolpe sendoa eman... La entrada Nola mozorrotua zara? se publicó primero en MondoSo…"
-    },
-    {
-      "id": "070fa18777123370d1651e3cb7ddcfb993f6e280",
-      "title": "Hijos de la Ruina Vol. 4",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hijos-de-la-ruina-vol-iv/",
-      "published": "2026-01-28T10:33:00.000Z",
-      "publishedTs": 1769596380000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Hijos-de-la-Ruina-Vol-IV.jpg",
-      "excerpt": "Desde que dieran sus primeros pasos hace más de quince años incursionando en las fragosas batallas de rap que se... La entrada Hijos de la Ruina Vol. 4 se publicó primero en MondoSonoro ."
     },
     {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
