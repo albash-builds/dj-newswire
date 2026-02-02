@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T02:08:16.164Z",
+  "generatedAt": "2026-02-02T04:57:02.078Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,43 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4f72668696335f854ec2dfeb7505548b35c57535",
+      "title": "KVLTÖ Records releases Emerald Dreams by Orca Silent",
+      "link": "https://www.decodedmagazine.com/kvlto-records-releases-emerald-dreams-by-orca-silent/",
+      "published": "2026-02-02T04:21:23.000Z",
+      "publishedTs": 1770006083000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "deep house",
+        "Electronica",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1649427478_10.jpg",
+      "excerpt": "Emerald Dreams by Orca Silent KV077 has arrived in the hands of Orca Silent. From Canada, the artist debuts on KVLTÖ Records with &#8220;Emerald Dreams,&#8221; a 14-track album that journeys between magic, rhythm, and depth. Each piece h…"
+    },
+    {
+      "id": "17ac936f3a23a50d8bca0a39f9ebc14ba53a13f6",
+      "title": "Mikkel Metal makes a welcome return to Echocord with his new ‘Rebuild’ EP",
+      "link": "https://www.decodedmagazine.com/mikkel-metal-makes-a-welcome-return-to-echocord-with-his-new-rebuild-ep/",
+      "published": "2026-02-02T04:13:42.000Z",
+      "publishedTs": 1770005622000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "dub techno",
+        "Frenk Dublin",
+        "Luke Hess",
+        "Mikkel Metal",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/213509-mikkel-metal-rebuild-scaled.jpg",
+      "excerpt": "Rebuild by Mikkel Metal Copenhagen’s Mikkel Metal is a pioneering figure in dub-techno and minimal house, known for his atmospheric soundscapes and textured production. With acclaimed releases on Kompakt and Echocord, including Close Sel…"
+    },
     {
       "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
       "title": "Submit your Mix of the Month DJ Competition entry",
@@ -538,51 +575,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/rural-2025-Takashi-Hamada381.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Located in Numajiri Highlands, Fukushima, the outdoor music festival rural 2026 will take place over four days, from July 17 (Friday) to July 20 (Monday, public holiday), 2026. Artists who continue to operate beyond existing genre bounda…"
-    },
-    {
-      "id": "5551f8ea43a5be88af3f4c84a3a6fcf69e8daa44",
-      "title": "Richie Hawtin’s Minimal Masterclass: Revisiting Sheet One Three Decades On",
-      "link": "https://www.decodedmagazine.com/richie-hawtins-minimal-masterclass-revisiting-sheet-one-three-decades-on/",
-      "published": "2026-01-22T02:32:05.000Z",
-      "publishedTs": 1769049125000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "303",
-        "606",
-        "acid techno",
-        "Classic Album",
-        "minimal techno",
-        "Plastikman",
-        "Richie Hawtin",
-        "Techno",
-        "Throwback Thursday"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/sheet-one-plastikman.jpg?resize=810%2C547&ssl=1",
-      "excerpt": "By 1993, techno had moved well beyond its first wave. The rave scene was pulling serious numbers into abandoned warehouses across the Midwest and Europe, while Warp&#8217;s Artificial Intelligence compilation had made it acceptable to su…"
-    },
-    {
-      "id": "454921baf9ad34c6c4625839542c616eb15ffd55",
-      "title": "Sydney’s Lockout Laws Finally Abolished After 12 Years of Cultural Damage",
-      "link": "https://www.decodedmagazine.com/sydneys-lockout-laws-finally-abolished-after-12-years-of-cultural-damage/",
-      "published": "2026-01-21T08:18:35.000Z",
-      "publishedTs": 1768983515000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "News",
-        "Clubbing",
-        "Economy",
-        "Lock Out Laws",
-        "Music Industry",
-        "Nightlife",
-        "NSW"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/kings-cross-sydney.webp",
-      "excerpt": "Twelve years to the day since they were first announced, Sydney&#8217;s lockout laws have been officially consigned to history. On 21 January 2026, the Minns Labor Government repealed the final major restrictions that have hung over the …"
     },
     {
       "id": "e6a6814ea0801c69234d0b92aa6b818151547547",
