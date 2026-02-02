@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-02T09:50:11.698Z",
+  "generatedAt": "2026-02-02T10:43:43.832Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5a50135584d16af960f673d357ddf1d6251893c0",
+      "title": "Amores de Verbena",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-vinagres-amores-de-verbena-amores-de-verbena/",
+      "published": "2026-02-02T09:56:46.000Z",
+      "publishedTs": 1770026206000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Los-Vinagres-Amores-de-Verbena.jpg",
+      "excerpt": "Duele mucho que estés a punto de despegar y las circunstancias te obliguen a empezar casi desde el principio. En... La entrada Amores de Verbena se publicó primero en MondoSonoro ."
+    },
     {
       "id": "bbef3e7e92153f74814898989b5d5c8db7f37790",
       "title": "Reseñamos 'Por la hierba', el nuevo trabajo de Ángel Stanich",
@@ -354,20 +368,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Lisasinson-Desde-Cuando-Todo.jpg",
       "excerpt": "La llegada de “Desde Cuándo Todo” supone la aparición del que, posiblemente, sea el disco más firme y compacto que... La entrada Desde Cuándo Todo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3beb35aa1a3e443f0abc7c85802c72d1d8841ab9",
-      "title": "Nola mozorrotua zara?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/noiz-nola-mozorrotua-zara/",
-      "published": "2026-01-28T15:05:59.000Z",
-      "publishedTs": 1769612759000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/noiz.jpg",
-      "excerpt": "Saran kokatutako boskoteak, Sorotan Babies taldearen errautsetatik sortutako proiektu sendoak, \"Nola mozorrotua zara?\" EParekin euskal post-rock eszenari kolpe sendoa eman... La entrada Nola mozorrotua zara? se publicó primero en MondoSo…"
     },
     {
       "id": "8c269db4d5fa2adcd178c5b7a83f3c99abf22d24",
