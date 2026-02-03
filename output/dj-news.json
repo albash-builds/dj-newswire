@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T14:08:38.537Z",
+  "generatedAt": "2026-02-03T15:50:43.182Z",
   "total": 110,
   "sources": [
     {
@@ -574,6 +574,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
       "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
+    },
+    {
+      "id": "831d8614f36ea2400d01665dd946eed3f6cea1aa",
+      "title": "Cardiff’s Clwb Ifor Bach undergoes major renovation to expand into derelict building",
+      "link": "https://mixmag.net/read/cardiff-clwb-ifor-bach-undergoes-major-renovation-expand-into-derelict-building-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clwb-ifor-bach.jpg?width=660&fit=cover&s=FtWYkdMEl6RJJgyfo8_lIf4Zm72tcFEmHnDdJq1SuLA",
+      "excerpt": "The legendary club and live music space previously called for donations to support the redevelopment Continue reading..."
     },
     {
       "id": "05e3856dfcc64415fba4364dc55c406de0dc2f4c",
@@ -1522,18 +1534,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/chriss-ronson.jpg?width=660&fit=cover&s=jF_kBjI3-stfjaxuM9MxCn3iu4-wUDm9WhTJA4Nnjns",
       "excerpt": "The Sasha and John Digweed collaborator passed away following a lengthy illness Continue reading..."
-    },
-    {
-      "id": "fc1aaea4aae11ff2a2f9c39bbf0a22f139069a63",
-      "title": "Elon Musk is suing major music publishers over X takedown notices",
-      "link": "https://mixmag.net/read/elon-musk-is-suing-major-music-publishers-over-x-takedown-notices-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Musk-x.png?width=660&fit=cover&s=yFpL1pHXrYmHk5MUKzV2WHpjs-epmFUKGh-R8GwmC4M",
-      "excerpt": "Sony Music, Universal Music, and Warner Chappell Music are among plaintiffs in the lawsuit, which claims publishers are &quot;colluding&quot; to force X into accepting &quot;supracompetitive rates” for licenses Continue reading..."
     }
   ]
 }
