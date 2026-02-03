@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T16:53:33.602Z",
+  "generatedAt": "2026-02-03T17:52:48.169Z",
   "total": 110,
   "sources": [
     {
@@ -574,6 +574,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
       "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
+    },
+    {
+      "id": "777812a9f1818b8f5c4408af746a7d7b49efedd3",
+      "title": "No judgement: How Normie Corp turned online raving into Vancouver’s liveliest queer club night",
+      "link": "https://mixmag.net/feature/how-normie-corp-turned-online-raving-vancouver-liveliest-queer-club-night",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_FUNCTIONS_WEBSTORY.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=Im0DioVKtKWHKY9cUFrY6WEWqW7SMIpWzTg5MtTl4FM",
+      "excerpt": "Born during the pandemic as a Zoom party, Normie Corp now brings its wild and hyper-specific themed parties to venues across Vancouver, uplifting its community of “normies-turned-creatives”. We meet Normie Corp’s founders to find out mor…"
     },
     {
       "id": "831d8614f36ea2400d01665dd946eed3f6cea1aa",
@@ -1522,18 +1534,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hacienda_2026-01-13-125324_ozxu.png?width=660&fit=cover&s=K8CgeT3AhQlCatRyaaJhgM-h0kXwMvLrBjLWWIefP8c",
       "excerpt": "Lots from the Tony Wilson Archive include a poster from Joy Division&#039;s first show at The Factory Club in 1978 and two FAC51 Haçienda membership cards from the 1980s Continue reading..."
-    },
-    {
-      "id": "727780a21422c36b05a35087c96cee6dda261c67",
-      "title": "Progressive house DJ Chriss Ronson has died aged 48",
-      "link": "https://mixmag.net/read/progressive-house-dj-chriss-ronson-has-died-aged-48-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/chriss-ronson.jpg?width=660&fit=cover&s=jF_kBjI3-stfjaxuM9MxCn3iu4-wUDm9WhTJA4Nnjns",
-      "excerpt": "The Sasha and John Digweed collaborator passed away following a lengthy illness Continue reading..."
     }
   ]
 }
