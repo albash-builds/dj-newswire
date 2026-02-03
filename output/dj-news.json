@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T11:34:31.767Z",
+  "generatedAt": "2026-02-03T13:00:05.232Z",
   "total": 110,
   "sources": [
     {
@@ -574,6 +574,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
       "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
+    },
+    {
+      "id": "05e3856dfcc64415fba4364dc55c406de0dc2f4c",
+      "title": "Native Instruments says “business continues as usual” after insolvency proceedings",
+      "link": "https://mixmag.net/read/native-instruments-says-business-continues-usual-after-insolvency-proceedings-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments_2026-01-27-174317_xtlk.jpg?width=660&fit=cover&s=EZJa3orOvNSize0ug-xOfDc9MbngLse3YjLmGrInDtI",
+      "excerpt": "CEO Nick Williams insists that he’s seeking a “sustainable” future for the music tech company Continue reading..."
     },
     {
       "id": "a19157d13c5fd385c050815fb115db69a0a343c8",
@@ -1522,18 +1534,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Musk-x.png?width=660&fit=cover&s=yFpL1pHXrYmHk5MUKzV2WHpjs-epmFUKGh-R8GwmC4M",
       "excerpt": "Sony Music, Universal Music, and Warner Chappell Music are among plaintiffs in the lawsuit, which claims publishers are &quot;colluding&quot; to force X into accepting &quot;supracompetitive rates” for licenses Continue reading..."
-    },
-    {
-      "id": "4e76dd117fb7fcd5fb36f7d96b359f79f075996e",
-      "title": "Body of missing DJ and MC Maycon Douglas found on beach in Portugal",
-      "link": "https://mixmag.net/read/body-missing-dj-mc-maycon-douglas-found-beach-portugal-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/maycon-douglas.jpg?width=660&fit=cover&s=19b-9QXMxexq9Go0oDGC9cuaZOexPc2WZaPsoEvm9jY",
-      "excerpt": "The 26-year-old was discovered on January 7, more than a week after he was reported missing Continue reading..."
     }
   ]
 }
