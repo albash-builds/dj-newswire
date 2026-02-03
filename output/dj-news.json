@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T07:42:34.913Z",
+  "generatedAt": "2026-02-03T08:36:49.433Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "80f8b8be4b639bec90af6c9fc12376a86c5ead9f",
+      "title": "For The First Time, Again",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tyler-ballgame-for-the-first-time-again/",
+      "published": "2026-02-03T08:04:08.000Z",
+      "publishedTs": 1770105848000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Tyler-Ballgame-For-The-First-Time-Again.jpg",
+      "excerpt": "El debut de Tyler Ballgame suena como si a Roy Orbison o Elvis alguien les hubiera grabado un disco a... La entrada For The First Time, Again se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3577f5727b34aed59266ebc4d3cbfa95a96aec8d",
       "title": "John Digweed Draws 35,000 to Free Pop-Up Party in Rosario, Argentina",
@@ -371,20 +385,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Joyce-Manor-I-Used-to-Go-to-This-Bar-.jpg",
       "excerpt": "El nombre de Joyce Manor aparece en el cartel del próximo Coachella, el epítome de los macrofestivales brilli-brilli, pero la banda... La entrada I Used to Go to This Bar se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6eaf8cec33e4aa11a76b5e404a2059f420677385",
-      "title": "Tiempo perdido en la memoria",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/morfi-grei-tiempo-perdido-en-la-memoria/",
-      "published": "2026-01-29T12:04:30.000Z",
-      "publishedTs": 1769688270000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Morfi-Grei-Tiempo-perdido-en-la-memoria.jpg",
-      "excerpt": "Después de recuperar “Mentemblanco”, el tercer disco de La Banda Trapera del Río, el sello Kasba sigue escarbando en el... La entrada Tiempo perdido en la memoria se publicó primero en MondoSonoro ."
     },
     {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
