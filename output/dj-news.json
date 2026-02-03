@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T15:50:43.182Z",
+  "generatedAt": "2026-02-03T16:53:33.602Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c304fe240e3d7be2f4180b57ee0346e8d929bc93",
+      "title": "Un destello de luz",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/adios-cometa-un-destello-de-luz/",
+      "published": "2026-02-03T16:14:16.000Z",
+      "publishedTs": 1770135256000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Adios-Cometa-Un-destello-de-luz.jpg",
+      "excerpt": "Las gentes de Spinda Records nos tienen muy mal acostumbrados. De un tiempo a esta parte parece que donde ponen... La entrada Un destello de luz se publicó primero en MondoSonoro ."
+    },
     {
       "id": "80f8b8be4b639bec90af6c9fc12376a86c5ead9f",
       "title": "For The First Time, Again",
@@ -371,20 +385,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dani-dicostas-Amores-Pasajeros.jpg",
       "excerpt": "Rendida ante la inmensidad del momento. A su dolor y su gloria. Dani Dicostas llora, baila y celebra a sus... La entrada Amores Pasajeros se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7d595b420fa1f0deddc9792a3bf7afe6a561f29b",
-      "title": "I Used to Go to This Bar",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/joyce-manor-i-used-to-go-to-this-bar/",
-      "published": "2026-01-30T07:31:55.000Z",
-      "publishedTs": 1769758315000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Joyce-Manor-I-Used-to-Go-to-This-Bar-.jpg",
-      "excerpt": "El nombre de Joyce Manor aparece en el cartel del próximo Coachella, el epítome de los macrofestivales brilli-brilli, pero la banda... La entrada I Used to Go to This Bar se publicó primero en MondoSonoro ."
     },
     {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
