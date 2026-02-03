@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-03T04:46:20.395Z",
+  "generatedAt": "2026-02-03T05:50:53.330Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,47 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3577f5727b34aed59266ebc4d3cbfa95a96aec8d",
+      "title": "John Digweed Draws 35,000 to Free Pop-Up Party in Rosario, Argentina",
+      "link": "https://www.decodedmagazine.com/john-digweed-draws-35000-to-free-pop-up-party-in-rosario-argentina/",
+      "published": "2026-02-03T05:15:48.000Z",
+      "publishedTs": 1770095748000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Argentina",
+        "Free Party",
+        "John Digweed",
+        "Progressive House"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/GDR02558.jpg?resize=810%2C456&ssl=1",
+      "excerpt": "Last Friday (January 30th), with just 24 hours’ notice, John Digweed and the city of Rosario delivered a truly historic moment for electronic music in Argentina, performing a free pop-up party that drew over 35,000 people to the area sur…"
+    },
+    {
+      "id": "a8b5f08374e920ad2d7eca4636aba0c80e6c2e18",
+      "title": "The One-Hour Set Has Killed the Art of DJing",
+      "link": "https://www.decodedmagazine.com/the-one-hour-set-has-killed-the-art-of-djing/",
+      "published": "2026-02-03T04:55:26.000Z",
+      "publishedTs": 1770094526000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Clubs",
+        "festivals",
+        "Hernan Cattaneo",
+        "John Digweed",
+        "Long mixes",
+        "Nick Warren",
+        "Sasha",
+        "Warm up DJ"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
+      "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
+    },
     {
       "id": "c3d629758868d8e81e6bbe05e291fd91f948b9a0",
       "title": "Panical",
@@ -91,7 +132,7 @@
         "Electronica",
         "Techno"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1649427478_10.jpg",
+      "image": "",
       "excerpt": "Emerald Dreams by Orca Silent KV077 has arrived in the hands of Orca Silent. From Canada, the artist debuts on KVLTÖ Records with &#8220;Emerald Dreams,&#8221; a 14-track album that journeys between magic, rhythm, and depth. Each piece h…"
     },
     {
@@ -110,7 +151,7 @@
         "Mikkel Metal",
         "Techno"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/213509-mikkel-metal-rebuild-scaled.jpg",
+      "image": "",
       "excerpt": "Rebuild by Mikkel Metal Copenhagen’s Mikkel Metal is a pioneering figure in dub-techno and minimal house, known for his atmospheric soundscapes and textured production. With acclaimed releases on Kompakt and Echocord, including Close Sel…"
     },
     {
@@ -133,7 +174,7 @@
         "Techno",
         "Trip Hop"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
+      "image": "",
       "excerpt": "ENTRIES CLOSE ON 20 FEBRUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enl…"
     },
     {
@@ -188,7 +229,7 @@
         "Tara Donovan",
         "Transamerica Pyramid Center"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/ICA-SF_Stratagems-by-Tara-Donovan_Nicholas-Lea-Bruno_SP26-8-scaled.jpg",
+      "image": "",
       "excerpt": "Got a spare 10,000 CDs lying around? Doubt it. Ever wondered what you could do with them if you did? Tara Donovan has an answer, and it&#8217;s currently installed at San Francisco&#8217;s Transamerica Pyramid Center through July. Her sh…"
     },
     {
@@ -258,7 +299,7 @@
         "software",
         "Traktor"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Native-Instruments-logo.png",
+      "image": "",
       "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
     },
     {
@@ -383,7 +424,7 @@
         "DJ Tennis",
         "Life and Death Records"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
+      "image": "",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
     },
     {
@@ -402,7 +443,7 @@
         "Music Industry",
         "Techno"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/09/carl-craig-big.jpg",
+      "image": "",
       "excerpt": "Michigan State University has selected internationally renowned Detroit DJ, producer, and techno innovator Carl Craig as a MSUFCU Arts Power Up artist-in-residence, a program that brings visionary artists to campus to explore the interse…"
     },
     {
@@ -420,7 +461,7 @@
         "Terrence Dixon",
         "Tresor"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Terrence-Dixon-photo-credit-Evan-Zott.png",
+      "image": "",
       "excerpt": "When Stars Remember by Terrence Dixon Despite his thirty-year career, Detroit original Terrence Dixon has always managed to keep a lower profile than his peers; he has given few interviews, preferring instead to speak through his music, …"
     },
     {
@@ -483,7 +524,7 @@
         "Musicians",
         "Universal Income"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Musician-universal-icome-decoded-magazine-scaled.jpg",
+      "image": "",
       "excerpt": "Ireland did something most governments only talk about. In October 2025, they announced their Basic Income for the Arts pilot would become permanent, making them the first country to commit state funding to directly support artists throu…"
     },
     {
@@ -506,7 +547,7 @@
         "Shoreditch",
         "SOHO"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
+      "image": "",
       "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
     },
     {
@@ -533,48 +574,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
       "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
-    },
-    {
-      "id": "6c64d6a285bd10c12e5122201e6aae690b239f8e",
-      "title": "‘Intro’ by Alan Braxe and Fred Falke celebrates turning 25 this year.",
-      "link": "https://www.decodedmagazine.com/intro-by-alan-braxe-and-fred-falke-celebrates-turning-25-this-year/",
-      "published": "2026-01-27T02:56:14.000Z",
-      "publishedTs": 1769482574000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Alan Braxe",
-        "Classic",
-        "Fred Falke",
-        "French House",
-        "House Music",
-        "Vulture Music"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fred-falke-and-alan-braxe-Credit-Philippe-Levy.jpg",
-      "excerpt": "Originally released in 2000 on Alan Braxe’s own label Vulture Music and later released on the acclaimed album ‘The Upper Cuts’, since its release ‘Intro’ has become one of the most celebrated tracks of the era, and is quintessential of t…"
-    },
-    {
-      "id": "3c8c607fb4b630ecb48ce7417b2a73b80c9b4331",
-      "title": "Japan’s rural Festival 2026: First Artist Announcement – Willikens & Ivkovic, Al Wootton & More",
-      "link": "https://www.decodedmagazine.com/japans-rural-festival-2026-first-artist-announcement-willikens-ivkovic-al-wootton-more/",
-      "published": "2026-01-27T02:36:52.000Z",
-      "publishedTs": 1769481412000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Asia",
-        "Festivals",
-        "World",
-        "Electronica",
-        "Fukushima",
-        "Japan",
-        "Numajiri Highlands",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/rural-2025-Takashi-Hamada381.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Located in Numajiri Highlands, Fukushima, the outdoor music festival rural 2026 will take place over four days, from July 17 (Friday) to July 20 (Monday, public holiday), 2026. Artists who continue to operate beyond existing genre bounda…"
     },
     {
       "id": "dd0e4212dd5cf30f8a02d3442a2db21b4b397134",
