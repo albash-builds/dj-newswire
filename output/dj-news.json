@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T06:53:11.986Z",
+  "generatedAt": "2026-02-04T07:43:57.822Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,77 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "204c9922bf50a40e0c028b9f89a431072811f94e",
+      "title": "The James Hunter Six Off The Fence",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-james-hunter-six-off-the-fence/",
+      "published": "2026-02-04T07:42:01.000Z",
+      "publishedTs": 1770190921000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/The-James-Hunter-Six-Off-The-Fence.jpg",
+      "excerpt": "Ser absorbido por la rutina no es sinónimo exclusivamente de la repetición de esquemas, el verdadero tedio asoma cuando queda... La entrada The James Hunter Six Off The Fence se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
+      "title": "The Twilo reunion lands in the original West 27th Street room for a 25th anniversary Weekend",
+      "link": "https://www.decodedmagazine.com/the-twilo-reunion-lands-in-the-original-west-27th-street-room-for-a-25th-anniversary-weekend/",
+      "published": "2026-02-04T07:36:52.000Z",
+      "publishedTs": 1770190612000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Danny Tenaglia",
+        "House Music",
+        "John Digweed",
+        "NYC",
+        "Techno",
+        "Twilo"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/image.webp?resize=487%2C740&ssl=1",
+      "excerpt": "The pulse of an NYC golden era is finally coming home. Twenty-five years since the closing night of the Chelsea underground space that became the north star for music-first late-90s dance culture, Twilo Events brings the incomparable ene…"
+    },
+    {
+      "id": "acd6b4d88722ee7aaf2aa37c8c40f0de22f0b3d6",
+      "title": "Jeremy Olander Announces Debut Album When The Rain Falls",
+      "link": "https://www.decodedmagazine.com/jeremy-olander-announces-debut-album-when-the-rain-falls/",
+      "published": "2026-02-04T07:06:01.000Z",
+      "publishedTs": 1770188761000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "House Music",
+        "Jeremy Olander",
+        "Progressive House",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeremy-Olander-credit-Jonas-Dyrsmeds.jpg",
+      "excerpt": "Jeremy Olander&nbsp;announces his long-awaited&nbsp;debut album&nbsp; When The Rain Falls , marking a defining new chapter in his esteemed career. Set for release on&nbsp;March 13 via his imprint Vivrant, the album stands as a deeply per…"
+    },
+    {
+      "id": "d37e5f1b291e25c8874e88da55411ce7989a744b",
+      "title": "Brooklyn Mirage rebrands as Pacha New York under new management",
+      "link": "https://www.decodedmagazine.com/brooklyn-mirage-rebrands-as-pacha-new-york-under-new-management/",
+      "published": "2026-02-04T06:59:59.000Z",
+      "publishedTs": 1770188399000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Avant Gardner",
+        "Brookly Mirage",
+        "Five Holdings",
+        "NYC",
+        "Pacha"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Pacha-NYC.png",
+      "excerpt": "The Brooklyn Mirage in East Williamsburg will reopen in June 2026 as Pacha New York, following a year of significant operational and financial difficulties that saw the venue remain closed throughout the entire 2025 season. FIVE Holdings…"
+    },
     {
       "id": "c304fe240e3d7be2f4180b57ee0346e8d929bc93",
       "title": "Un destello de luz",
@@ -373,20 +444,6 @@
       "excerpt": "Kula Shaker cogen definitiva carrerilla y, además de ese excelente estado de forma probado sobre los escenarios en las últimas... La entrada Wormslayer se publicó primero en MondoSonoro ."
     },
     {
-      "id": "29ed287cf67af15e42e3088cdef299db583cb32b",
-      "title": "Amores Pasajeros",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dani-dicostas-amores-pasajeros/",
-      "published": "2026-01-30T08:10:01.000Z",
-      "publishedTs": 1769760601000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Dani-dicostas-Amores-Pasajeros.jpg",
-      "excerpt": "Rendida ante la inmensidad del momento. A su dolor y su gloria. Dani Dicostas llora, baila y celebra a sus... La entrada Amores Pasajeros se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
       "title": "Sankeys Manchester reveal season line-up + new location",
       "link": "https://www.decodedmagazine.com/sankeys-manchester-reveal-season-line-up-new-location/",
@@ -505,75 +562,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
       "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
-    },
-    {
-      "id": "ecb6d12c994ce5d42b6d45faae5e4851d333d7b5",
-      "title": "Should Governments Pay Artists a Living Wage?",
-      "link": "https://www.decodedmagazine.com/should-governments-pay-artists-a-living-wage/",
-      "published": "2026-01-27T06:38:26.000Z",
-      "publishedTs": 1769495906000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "artists",
-        "Ireland",
-        "Living Wage",
-        "Music Industry",
-        "Musicians",
-        "Universal Income"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Musician-universal-icome-decoded-magazine-scaled.jpg",
-      "excerpt": "Ireland did something most governments only talk about. In October 2025, they announced their Basic Income for the Arts pilot would become permanent, making them the first country to commit state funding to directly support artists throu…"
-    },
-    {
-      "id": "5dd006639b326cca4c782c70b39c76276dd6fe30",
-      "title": "Landmark Nightlife Taskforce Report Sets Out Clear Roadmap for London After Dark",
-      "link": "https://www.decodedmagazine.com/landmark-nightlife-taskforce-report-sets-out-clear-roadmap-for-london-after-dark/",
-      "published": "2026-01-27T05:04:01.000Z",
-      "publishedTs": 1769490241000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "bars",
-        "Clubs",
-        "Hackney",
-        "London",
-        "Nightlife",
-        "NTIA",
-        "Restaurants",
-        "Shoreditch",
-        "SOHO"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/soho-1.webp",
-      "excerpt": "London’s independent, industry-led Nightlife Taskforce has published the most comprehensive evidence-based assessment of the capital’s nightlife ever produced, setting out 23 recommendations across 10 areas to protect, support and grow L…"
-    },
-    {
-      "id": "205beee8c4e9755186911d6661d18a19f1a28cd5",
-      "title": "Decoded Magazine Presents Dave Walker",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-presents-dave-walker/",
-      "published": "2026-01-27T04:27:45.000Z",
-      "publishedTs": 1769488065000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "Progressive",
-        "Armada",
-        "Balance Series",
-        "Forensic Records",
-        "John Digweed",
-        "John OO Flemming",
-        "Lost Language",
-        "Mango Alley Records",
-        "Melodic Techno",
-        "Progressive House"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Dave-Walker-High-Res-2.jpg?resize=810%2C872&ssl=1",
-      "excerpt": "Decoded Magazine · Decoded Magazine Presents Dave Walker Twenty years in the studio has given Warwickshire producer Dave Walker enough time to work out what he&#8217;s after with melodic progressive dance music. Working both as one half …"
     },
     {
       "id": "777812a9f1818b8f5c4408af746a7d7b49efedd3",
@@ -1472,7 +1460,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
+      "image": "",
       "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
     },
     {
