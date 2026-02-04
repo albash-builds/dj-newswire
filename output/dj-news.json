@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T16:48:22.487Z",
+  "generatedAt": "2026-02-04T17:45:03.290Z",
   "total": 110,
   "sources": [
     {
@@ -562,6 +562,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
       "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
+    },
+    {
+      "id": "952ea331d0b92a134bbec9f560976c9c1062792b",
+      "title": "The Mix 092: Clementaum",
+      "link": "https://mixmag.net/feature/the-mix-092-clementaum-brazil-funk-dj-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CLE2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=BzDMqHXA3wC96EZ8lbp4rcdhO52vVwzzH9_Mg_sZx_Q",
+      "excerpt": "Brazilian force of nature Clementaum delivers an 100% production mix and speaks to Patrick Hinton about representing queerness and femininity in Brazil&#039;s funk scene, the power of vocals, and the meaning behind her nickname LA MAYOR …"
     },
     {
       "id": "f932cea50d647e0b937f468fabee165773151751",
@@ -1510,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/John_Forte-credit-Kris-Kru%CC%88g.jpg?width=660&fit=cover&s=ztM06Llukj5M2etVtOK31KWcdqu8U7gGsK8qKSLr0Ac",
       "excerpt": "The GRAMMY-winning artist was found dead at his home in Massachusetts earlier this week Continue reading..."
-    },
-    {
-      "id": "558040fef170653492f90f918b9fbcfaa46267ce",
-      "title": "Spanish police seize 10 tonnes of cocaine hidden in salt shipment",
-      "link": "https://mixmag.net/read/spanish-police-seize-10-tonnes-of-cocaine-hidden-in-salt-shipment-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cocaine-2s.png?width=660&fit=cover&s=qn66YoLmE93Esz_-FN76SfKAIEgAbvfibuLVJQMcH6U",
-      "excerpt": "Officers dug cocaine out of large quantities of salt during a raid on a merchant ship in the Canary Islands Continue reading..."
     }
   ]
 }
