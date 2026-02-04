@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T07:43:57.822Z",
+  "generatedAt": "2026-02-04T08:41:26.485Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "43127f99fcf079fc4cd33cc730a0d6e9581df189",
+      "title": "Gluecifer Same Drug New High",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gluecifer-same-drug-new-high/",
+      "published": "2026-02-04T08:08:24.000Z",
+      "publishedTs": 1770192504000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Gluecifer-Same-Drug-New-High.jpg",
+      "excerpt": "Los miembros de Gluecifer son unos tipos de fiar. Quizá los que más de aquella lejana escena de rock escandinavo... La entrada Gluecifer Same Drug New High se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "daed6083a5f4ada07cb61c94fb0d1470120d9259",
+      "title": "Megadeth",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/megadeth-disco/",
+      "published": "2026-02-04T07:56:57.000Z",
+      "publishedTs": 1770191817000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/megadeth-disco.jpg",
+      "excerpt": "Si el nuevo lanzamiento de Megadeth está generando mayor ruido de lo habitual se debe, sin duda, a que estamos... La entrada Megadeth se publicó primero en MondoSonoro ."
+    },
     {
       "id": "204c9922bf50a40e0c028b9f89a431072811f94e",
       "title": "The James Hunter Six Off The Fence",
@@ -414,34 +442,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Molotovs-Wasted-On-Youth-.jpg",
       "excerpt": "Después de reclamar el foco en base un desfile de singles previos y multitud de conciertos (incluidos los ofrecidos sobre... La entrada Wasted On Youth se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1aa3e181efd82089f965ab5518a2de524ddd4b5a",
-      "title": "Zura",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/olaia-inziarte-zura/",
-      "published": "2026-01-30T11:55:58.000Z",
-      "publishedTs": 1769774158000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Olaia-Inziarte.jpg",
-      "excerpt": "Espero gabeko hiru kantu etorri ziren urte bukaeran Olaia Inziarteren eskutik, ‘Zura’ deituriko EP batean. ‘Zerrautsa’ izeneko diskoa kaleratu zuen... La entrada Zura se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6047240aeec3211d8b237c2a6f161cbdee7b5ce8",
-      "title": "Wormslayer",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kula-shaker-wormslayer/",
-      "published": "2026-01-30T08:31:34.000Z",
-      "publishedTs": 1769761894000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/Kula-Shaker-Wormslayer.jpg",
-      "excerpt": "Kula Shaker cogen definitiva carrerilla y, además de ese excelente estado de forma probado sobre los escenarios en las últimas... La entrada Wormslayer se publicó primero en MondoSonoro ."
     },
     {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
@@ -1460,7 +1460,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
       "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
     },
     {
