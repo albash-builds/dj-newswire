@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T14:06:19.850Z",
+  "generatedAt": "2026-02-04T15:42:43.402Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "37f35c0d15fc0adcd1ae3324e2b5b646238e5e71",
+      "title": "Pensamientos cayendo al vacío",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/monos-pensamientos-cayendo-al-vacio/",
+      "published": "2026-02-04T14:54:09.000Z",
+      "publishedTs": 1770216849000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/monos.jpg",
+      "excerpt": "Los getxotarras Monos presentan un EP de cinco canciones magistralmente producidas en El Tigre Studios por Jon Aguirrezabalaga y Xabi... La entrada Pensamientos cayendo al vacío se publicó primero en MondoSonoro ."
+    },
     {
       "id": "43127f99fcf079fc4cd33cc730a0d6e9581df189",
       "title": "Gluecifer Same Drug New High",
@@ -430,20 +444,6 @@
       "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
     },
     {
-      "id": "553b2d5820ca9cd842b2993431ea256dfdde202f",
-      "title": "Wasted On Youth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/wasted-on-youth/",
-      "published": "2026-01-30T12:08:27.000Z",
-      "publishedTs": 1769774907000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/01/The-Molotovs-Wasted-On-Youth-.jpg",
-      "excerpt": "Después de reclamar el foco en base un desfile de singles previos y multitud de conciertos (incluidos los ofrecidos sobre... La entrada Wasted On Youth se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "beefbc4bee1c364a9ddac7e6d19378380a351cfa",
       "title": "Sankeys Manchester reveal season line-up + new location",
       "link": "https://www.decodedmagazine.com/sankeys-manchester-reveal-season-line-up-new-location/",
@@ -562,6 +562,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
       "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
+    },
+    {
+      "id": "f932cea50d647e0b937f468fabee165773151751",
+      "title": "Philip Glass withdraws from Kennedy Center in protest against Donald Trump",
+      "link": "https://mixmag.net/read/philip-glass-withdraws-from-kennedy-center-in-protest-against-donald-trump-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "",
+      "excerpt": "The legendary composer had been set to premiere his new symphony at the centre in June Continue reading..."
+    },
+    {
+      "id": "805f592451a192f3321ee74adf992ecbc4acb753",
+      "title": "Todd Terry set to open new listening bar in Liverpool",
+      "link": "https://mixmag.net/read/todd-terry-to-help-launch-new-venue-in-liverpool-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Todd-Terry.png?width=660&fit=cover&s=0i1HW7lh1HyMN5qaD02KTHRhDxxb2yNsKLBsnzThvxs",
+      "excerpt": "Named after Terry&#039;s imprint, Freeze Hifi will feature vinyl music curation from the legendary New York DJ and producer Continue reading..."
     },
     {
       "id": "ee4682574bad6376d8963bed9dc09679e8d93c62",
@@ -1498,30 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cocaine-2s.png?width=660&fit=cover&s=qn66YoLmE93Esz_-FN76SfKAIEgAbvfibuLVJQMcH6U",
       "excerpt": "Officers dug cocaine out of large quantities of salt during a raid on a merchant ship in the Canary Islands Continue reading..."
-    },
-    {
-      "id": "9108e61536cf1d0607ff481a17ab149c07539ef4",
-      "title": "Salt-N-Pepa to appeal dismissal of copyright lawsuit against Universal Music",
-      "link": "https://mixmag.net/read/salt-n-pepa-appeal-dismissal-copyright-lawsuit-against-universal-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Salt-n-Pepa.jpg?width=660&fit=cover&s=H61QuQZt8-sI0tu1u8BY8ekkEBk4DC-KrErn5x2IRoU",
-      "excerpt": "The hip hop duo said they “respectfully disagree with the court’s decision” amid their bid to regain rights over their physical master recordings Continue reading..."
-    },
-    {
-      "id": "745740890c1a95bf08497a09370cb971235dcbed",
-      "title": "DJ Tennis and Demi Riquísimo appear in nightclub scene on latest season of Industry",
-      "link": "https://mixmag.net/read/dj-tennis-demi-riquisimo-appear-nightclub-scene-latest-season-industry-bbc-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/industry-nightclub.jpg?width=660&fit=cover&s=dYDE1ySbOVgSCq4MtBH9gtntVwJXVGF5syAzBqU0k6A",
-      "excerpt": "They can be seen together in the booth as New Order’s ‘True Faith’ plays Continue reading..."
     }
   ]
 }
