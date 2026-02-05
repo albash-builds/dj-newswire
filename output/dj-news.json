@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T08:42:01.342Z",
+  "generatedAt": "2026-02-05T09:43:50.017Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
+      "title": "Decoded is heading to Barcelona with MOSTRA Festival",
+      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
+      "published": "2026-02-05T08:45:49.000Z",
+      "publishedTs": 1770281149000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Festivals",
+        "Giveaways",
+        "Al Blayney",
+        "Angel Molina",
+        "Barcelona",
+        "Electronica",
+        "House Music",
+        "Lemont",
+        "Marylou",
+        "Melina Serser",
+        "Muted"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
+      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
+    },
     {
       "id": "d5dc72cb3e2eaaab009d2c3dfbe0b11589ca64b2",
       "title": "Throwback Thursday – Timeless at 30: Goldie’s Masterpiece Still Defines the Drum and Bass Blueprint",
@@ -269,7 +294,7 @@
     },
     {
       "id": "bbef3e7e92153f74814898989b5d5c8db7f37790",
-      "title": "Reseñamos 'Por la hierba', el nuevo trabajo de Ángel Stanich",
+      "title": "Por la hierba",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/angel-stanich-por-la-hierbapor-la-hierba/",
       "published": "2026-02-02T05:38:12.000Z",
       "publishedTs": 1770010692000,
@@ -279,7 +304,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Angel-Stanich-Por-la-hierba.jpg",
-      "excerpt": "El cuarto disco de Ángel Stanich, \"Por la hierba\", sigue transitando por su particular mundo lírico lleno de referencias, surrealismo... La entrada Reseñamos &#039;Por la hierba&#039;, el nuevo trabajo de Ángel Stanich se publicó primero…"
+      "excerpt": "El cuarto disco de Ángel Stanich, \"Por la hierba\", sigue transitando por su particular mundo lírico lleno de referencias, surrealismo... La entrada Por la hierba se publicó primero en MondoSonoro ."
     },
     {
       "id": "4f72668696335f854ec2dfeb7505548b35c57535",
@@ -543,31 +568,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Terrence-Dixon-photo-credit-Evan-Zott.png",
       "excerpt": "When Stars Remember by Terrence Dixon Despite his thirty-year career, Detroit original Terrence Dixon has always managed to keep a lower profile than his peers; he has given few interviews, preferring instead to speak through his music, …"
-    },
-    {
-      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
-      "title": "Barcelona’s MOSTRA Festival Celebrates its 5th Birthday",
-      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
-      "published": "2026-01-27T11:32:30.000Z",
-      "publishedTs": 1769513550000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Festivals",
-        "Al Blayney",
-        "Angel Molina",
-        "Barcelona",
-        "Electronica",
-        "House Music",
-        "Lemont",
-        "Marylou",
-        "Melina Serser",
-        "Muted"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
-      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
     },
     {
       "id": "952ea331d0b92a134bbec9f560976c9c1062792b",
