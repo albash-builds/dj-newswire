@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T13:01:56.172Z",
+  "generatedAt": "2026-02-05T14:42:26.946Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,30 @@
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
     },
     {
+      "id": "c8848b3143c46350bfef524af02ccbbcdaa0dcfa",
+      "title": "Soulwax to host first-ever \"rave\" at London's Abbey Road Studios",
+      "link": "https://mixmag.net/read/soulwax-to-host-first-ever-rave-at-londons-iconic-abbey-road-studios-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/soulwax.png?width=660&fit=cover&s=YtpSJFyt8oJt-j-XsgHT6c2yKEgwzml_uxKClRDb_eY",
+      "excerpt": "Featuring a DJ set from the Belgian duo under their 2manydjs moniker, Abbey Road After Hours will see Studio One transform into a rowdy dancefloor this month Continue reading..."
+    },
+    {
+      "id": "f3fcfb2ea1372457f46ca11d1510f5c9759c6041",
+      "title": "The Glove That Fits secures 4:AM licence and reveals “major transformation”",
+      "link": "https://mixmag.net/read/hackney-glove-that-fits-secures-4am-licence-reveals-major-transformation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-glove-that-fits.jpg?width=660&fit=cover&s=ZbiTsv4RM9eED9yeYLUKVaDrCNVWdINnM32fFuwlqgE",
+      "excerpt": "The Hackney venue will now feature a new layout, upgraded soundsystem, and new lighting Continue reading..."
+    },
+    {
       "id": "5a1acd49b164a30d0ccd3aed44db0eb2a0bfaf34",
       "title": "Global alcohol market plummets by $830 billion as Gen Z drinking declines",
       "link": "https://mixmag.net/read/alcohol-market-plummets-by-830-billion-as-gen-z-drinking-habits-change-study-finds-news",
@@ -683,7 +707,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boomtown-lead-2026.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=6_FGTCqAbEUBnpCBYfXEcRuUYP59n5-j8zvwZyLmr7k",
+      "image": "",
       "excerpt": "With major changes planned for the festival’s 17th edition, Boomtown is undergoing a “radical redesign” this year. Director of Music Strategy &amp; Programming James Cousins talks the return of fan-fave stages, new districts, and the “ev…"
     },
     {
@@ -1513,30 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bandcampx.png?width=660&fit=cover&s=Fx2-kgIkxHP37LTewNLRclrmGKGrpr1Ayc-e8mmfreQ",
       "excerpt": "Any music found to have been generated &quot;wholly or in a substantial part&quot; by AI tools will no longer be permitted on the music distribution platform Continue reading..."
-    },
-    {
-      "id": "30fc5055b8873f673ad988277a841041f9ca8e07",
-      "title": "Lawsuit challenging Ticketmaster's fee practices given green light by Quebec court",
-      "link": "https://mixmag.net/read/class-action-lawsuit-against-ticketmaster-cleared-proceed-quebec-court-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mid-week-club-nights.png?width=660&fit=cover&s=IqgYMW4gcU7PysDA5JKX-ZiExqrMgDYnyl0NSVmnqJA",
-      "excerpt": "The complaint argues that the ticketing platform&#039;s pricing model is “excessive and unreasonable” Continue reading..."
-    },
-    {
-      "id": "fe10729770ecad0d94e5badf3cf3d464edddc9e5",
-      "title": "The Mix 089: Dopplereffekt",
-      "link": "https://mixmag.net/feature/the-mix-089-dopplereffekt-detroit-dj-duo-drexciya-tresor-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
-      "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
     }
   ]
 }
