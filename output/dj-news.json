@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T07:54:47.599Z",
+  "generatedAt": "2026-02-05T08:42:01.342Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d5dc72cb3e2eaaab009d2c3dfbe0b11589ca64b2",
+      "title": "Throwback Thursday – Timeless at 30: Goldie’s Masterpiece Still Defines the Drum and Bass Blueprint",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-timeless-at-30-goldies-masterpiece-still-defines-the-drum-and-bass-blueprint/",
+      "published": "2026-02-05T08:20:32.000Z",
+      "publishedTs": 1770279632000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "90s",
+        "Drum and Bass",
+        "Goldie",
+        "Jungle",
+        "Metalheadz",
+        "Rave",
+        "Throwback Thursday",
+        "Timeless"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/goldie-scaled.jpg",
+      "excerpt": "By no means am I a diehard drum and bass devotee. I could never do a night of just DnB / Jungle. But growing up in the 90s, raving to a broad spectrum of tunes from techno to breakbeat to whatever the DJ felt like dropping that night, ce…"
+    },
     {
       "id": "37f35c0d15fc0adcd1ae3324e2b5b646238e5e71",
       "title": "Pensamientos cayendo al vacío",
@@ -545,23 +568,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
       "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
-    },
-    {
-      "id": "5062a76473c831e1856574d8171b41adb17ebee9",
-      "title": "XOYO London Returns To Independent, Underground Roots",
-      "link": "https://www.decodedmagazine.com/xoyo-london-returns-to-independent-underground-roots/",
-      "published": "2026-01-27T07:53:19.000Z",
-      "publishedTs": 1769500399000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "London",
-        "Nightclub",
-        "XOYO London"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/7.png?resize=683%2C1024&ssl=1",
-      "excerpt": "XOYO London will reopen on Saturday, 31st&nbsp;January, after a full refurb, to reclaim its position as one of London’s best underground clubs. This marks a new chapter for the long-running Shoreditch venue as it returns to independent o…"
     },
     {
       "id": "952ea331d0b92a134bbec9f560976c9c1062792b",
