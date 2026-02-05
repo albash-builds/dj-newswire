@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T14:42:26.946Z",
+  "generatedAt": "2026-02-05T15:40:59.391Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,18 @@
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
     },
     {
+      "id": "61e8402fab29cbe519c12464238d0435985a545a",
+      "title": "An oral history of Eddie Halliwell's 'Bosh! 12 Sizzling Bangers' mix CD",
+      "link": "https://mixmag.net/feature/eddie-halliwell-bosh-12-sizzling-bangers-cover-mix-cd-oral-history",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bosh-CD.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=WfPCbMHprTRyvrE0IYRI6U7UTvVE8eSi-RZgPrDObBY",
+      "excerpt": "To mark 24 years of one of Mixmag&#039;s most iconic mix CDs, we spoke with the designer, music editor and DJ responsible for bringing it to life Continue reading..."
+    },
+    {
       "id": "c8848b3143c46350bfef524af02ccbbcdaa0dcfa",
       "title": "Soulwax to host first-ever \"rave\" at London's Abbey Road Studios",
       "link": "https://mixmag.net/read/soulwax-to-host-first-ever-rave-at-londons-iconic-abbey-road-studios-news",
@@ -707,7 +719,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boomtown-lead-2026.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=6_FGTCqAbEUBnpCBYfXEcRuUYP59n5-j8zvwZyLmr7k",
       "excerpt": "With major changes planned for the festival’s 17th edition, Boomtown is undergoing a “radical redesign” this year. Director of Music Strategy &amp; Programming James Cousins talks the return of fan-fave stages, new districts, and the “ev…"
     },
     {
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Milton-Keynes.png?width=660&fit=cover&s=G6P38nkFSAKSMvDVPrXW5AsrcpwcCTvH_5lO6mNFHDY",
       "excerpt": "Set to host &quot;larger-scale music performances and live experiences&quot;, the new venue could be completed by 2029 Continue reading..."
-    },
-    {
-      "id": "0c03ab62a7dda04a3ada0b8483265b7f964d4572",
-      "title": "Bandcamp bans AI-generated music: \"We’re putting human creativity first\"",
-      "link": "https://mixmag.net/read/bandcamp-has-banned-ai-generated-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bandcampx.png?width=660&fit=cover&s=Fx2-kgIkxHP37LTewNLRclrmGKGrpr1Ayc-e8mmfreQ",
-      "excerpt": "Any music found to have been generated &quot;wholly or in a substantial part&quot; by AI tools will no longer be permitted on the music distribution platform Continue reading..."
     }
   ]
 }
