@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T11:35:13.543Z",
+  "generatedAt": "2026-02-05T13:01:56.172Z",
   "total": 110,
   "sources": [
     {
@@ -577,6 +577,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
+    },
+    {
+      "id": "5a1acd49b164a30d0ccd3aed44db0eb2a0bfaf34",
+      "title": "Global alcohol market plummets by $830 billion as Gen Z drinking declines",
+      "link": "https://mixmag.net/read/alcohol-market-plummets-by-830-billion-as-gen-z-drinking-habits-change-study-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/beer-cheers-credit-darlene-alderson.jpg?width=660&fit=cover&s=fuhs98_pOivlkXNRvBCoPOL6wNZlZtTlMQbglagACog",
+      "excerpt": "According to NHS England statistics around a third of 16 to 24-year-olds went teetotal in 2024 Continue reading..."
     },
     {
       "id": "952ea331d0b92a134bbec9f560976c9c1062792b",
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dopplereffekt2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-atdJL9ytQBgTUIO4RDMd4KGDEecgTLEFGJvNxEwr-E",
       "excerpt": "Detroit duo Dopplereffekt transmit &quot;a higher dimensional experience&quot; through a mix of celestial sounds and speak to Marcus Barnes about the concepts fuelling their boundary-pushing music Continue reading..."
-    },
-    {
-      "id": "d0be2b8235af0d31426a9058cf5ed4eec9c44094",
-      "title": "Fugees collaborator and rapper John Forté has died aged 50",
-      "link": "https://mixmag.net/read/fugees-collaborator-rapper-john-forte-died-aged-50-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/John_Forte-credit-Kris-Kru%CC%88g.jpg?width=660&fit=cover&s=ztM06Llukj5M2etVtOK31KWcdqu8U7gGsK8qKSLr0Ac",
-      "excerpt": "The GRAMMY-winning artist was found dead at his home in Massachusetts earlier this week Continue reading..."
     }
   ]
 }
