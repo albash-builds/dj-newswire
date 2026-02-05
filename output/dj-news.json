@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T09:43:50.017Z",
+  "generatedAt": "2026-02-05T10:40:27.673Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,52 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
+      "title": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026",
+      "link": "https://www.decodedmagazine.com/godskitchen-returns-to-birmingham-on-bank-holiday-sunday-24th-may-2026/",
+      "published": "2026-02-05T10:07:15.000Z",
+      "publishedTs": 1770286035000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "AJ Gibson",
+        "Birmingham",
+        "Digbeth",
+        "Eddie Halliwell",
+        "Godskicthen",
+        "Jeremy Healy",
+        "John 00 Fleming",
+        "Lange",
+        "Lisa Lashes",
+        "Luna Springs",
+        "Marco V"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/251126_1MT_GK_Birmingham_8.png?resize=810%2C1013&ssl=1",
+      "excerpt": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026, with a full-scale day-and-night event that brings the brand back to the city where it all began. Spanning outdoor and indoor spaces across the Digbeth Triangle, the…"
+    },
+    {
+      "id": "6fac1be1942d0f8757af8d214e0fcbc98a76a1ff",
+      "title": "Tech Review – FabFilter Pro-C 3",
+      "link": "https://www.decodedmagazine.com/tech-review-fabfilter-pro-c-3/",
+      "published": "2026-02-05T09:49:40.000Z",
+      "publishedTs": 1770284980000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Compressor",
+        "DAW",
+        "Fabfilter",
+        "music production",
+        "plugin",
+        "Pro-C 3"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-11.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "FabFilter Pro-C 2 has been my default channel compressor for years, partly because it was dependable, and partly because its interface made it very easy to see what was actually happening to the sound. It was the tool you reached for whe…"
+    },
     {
       "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
       "title": "Decoded is heading to Barcelona with MOSTRA Festival",
@@ -531,43 +577,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
-    },
-    {
-      "id": "6ea77fef3b86d507b561a7a7596c2d839fc8e8e7",
-      "title": "Carl Craig Named Michigan State University’s Next Artist-In-Residence",
-      "link": "https://www.decodedmagazine.com/carl-craig-named-michigan-state-universitys-next-artist-in-residence/",
-      "published": "2026-01-28T02:23:17.000Z",
-      "publishedTs": 1769566997000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Electronica",
-        "Michigan",
-        "Michigan State University",
-        "Music Industry",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/09/carl-craig-big.jpg",
-      "excerpt": "Michigan State University has selected internationally renowned Detroit DJ, producer, and techno innovator Carl Craig as a MSUFCU Arts Power Up artist-in-residence, a program that brings visionary artists to campus to explore the interse…"
-    },
-    {
-      "id": "4ec69a04c7389190b63942c17252191d7fbd1305",
-      "title": "Terrence Dixon returns to Tresor with ‘When Stars Remember’ EP",
-      "link": "https://www.decodedmagazine.com/terrence-dixon-returns-to-tresor-with-when-stars-remember-ep/",
-      "published": "2026-01-27T12:24:37.000Z",
-      "publishedTs": 1769516677000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Detroit",
-        "Techno",
-        "Terrence Dixon",
-        "Tresor"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Terrence-Dixon-photo-credit-Evan-Zott.png",
-      "excerpt": "When Stars Remember by Terrence Dixon Despite his thirty-year career, Detroit original Terrence Dixon has always managed to keep a lower profile than his peers; he has given few interviews, preferring instead to speak through his music, …"
     },
     {
       "id": "952ea331d0b92a134bbec9f560976c9c1062792b",
