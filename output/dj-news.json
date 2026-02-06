@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T10:39:30.495Z",
+  "generatedAt": "2026-02-06T11:34:01.512Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "649ec13da3aeb8ad837911520bf2e0296430cbf1",
+      "title": "\"Lovers & Fears\" es el nuevo trabajo de la gaditana La Perra Blanco",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-perra-blanco-lovers-fears/",
+      "published": "2026-02-06T10:53:21.000Z",
+      "publishedTs": 1770375201000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Perra-Blanco-Lovers-Fears.jpg",
+      "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada &quot;Lovers &#038; Fears&quot; es el nuevo trabajo de la gaditana La Perra Blanco se public…"
+    },
     {
       "id": "6aaf05516f22a52dad836d56089b2754b9dd5d5e",
       "title": "Crítica de 'Stalker', el nuevo disco de Erik Urano publicado hoy",
@@ -337,20 +351,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
       "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
-    },
-    {
-      "id": "c3d629758868d8e81e6bbe05e291fd91f948b9a0",
-      "title": "Panical",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/panical/",
-      "published": "2026-02-02T17:02:15.000Z",
-      "publishedTs": 1770051735000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Alba-Careta-Panical.jpg",
-      "excerpt": "Este disco llega en un momento propicio. Sin duda, estas eran las canciones que le tocaba hacer a una mujer... La entrada Panical se publicó primero en MondoSonoro ."
     },
     {
       "id": "4f72668696335f854ec2dfeb7505548b35c57535",
