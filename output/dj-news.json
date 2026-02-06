@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T09:42:34.080Z",
+  "generatedAt": "2026-02-06T10:39:30.495Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6aaf05516f22a52dad836d56089b2754b9dd5d5e",
+      "title": "Crítica de 'Stalker', el nuevo disco de Erik Urano publicado hoy",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/erik-urano-stalker/",
+      "published": "2026-02-06T10:12:40.000Z",
+      "publishedTs": 1770372760000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Erik-Urano-Stalker.jpg",
+      "excerpt": "A finales de 2009 el grupo vallisoletano Urano Players se puso en órbita por primera vez con el álbum “Voyagers... La entrada Crítica de &#039;Stalker&#039;, el nuevo disco de Erik Urano publicado hoy se publicó primero en MondoSonoro ."
+    },
     {
       "id": "be5073ecaf3771e45913f4eebec5081b5eea6cf2",
       "title": "Reseñamos 'Butterfly', el nuevo álbum de Daphni",
@@ -337,20 +351,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Alba-Careta-Panical.jpg",
       "excerpt": "Este disco llega en un momento propicio. Sin duda, estas eran las canciones que le tocaba hacer a una mujer... La entrada Panical se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0b645414df11894de44eb2338f52eec84a2f63be",
-      "title": "Un paseo aleatorio",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/keax-un-paseo-aleatorio/",
-      "published": "2026-02-02T11:40:36.000Z",
-      "publishedTs": 1770032436000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/keax.jpg",
-      "excerpt": "Segundo trabajo de la banda vizcaína, y en la que siguen profundizando en su particular propuesta de pop y electrónica... La entrada Un paseo aleatorio se publicó primero en MondoSonoro ."
     },
     {
       "id": "4f72668696335f854ec2dfeb7505548b35c57535",
