@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T07:46:17.679Z",
+  "generatedAt": "2026-02-06T08:41:18.776Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "be5073ecaf3771e45913f4eebec5081b5eea6cf2",
+      "title": "Reseñamos 'Butterfly', el nuevo álbum de Daphni",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/daphni-butterfly-disco/",
+      "published": "2026-02-06T08:39:52.000Z",
+      "publishedTs": 1770367192000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Daphni-Butterfly.jpg",
+      "excerpt": "La línea que separa los distintos proyectos del canadiense Dan Snaith es ya casi inexistente; en 2024 el último trabajo... La entrada Reseñamos &#039;Butterfly&#039;, el nuevo álbum de Daphni se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4d546cf14a471c1e59d2d5b6909a51cf51ff811a",
       "title": "Sueños, ideas y recuerdos",
@@ -337,20 +351,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/keax.jpg",
       "excerpt": "Segundo trabajo de la banda vizcaína, y en la que siguen profundizando en su particular propuesta de pop y electrónica... La entrada Un paseo aleatorio se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5a50135584d16af960f673d357ddf1d6251893c0",
-      "title": "Amores de Verbena",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-vinagres-amores-de-verbena-amores-de-verbena/",
-      "published": "2026-02-02T09:56:46.000Z",
-      "publishedTs": 1770026206000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Los-Vinagres-Amores-de-Verbena.jpg",
-      "excerpt": "Duele mucho que estés a punto de despegar y las circunstancias te obliguen a empezar casi desde el principio. En... La entrada Amores de Verbena se publicó primero en MondoSonoro ."
     },
     {
       "id": "4f72668696335f854ec2dfeb7505548b35c57535",
