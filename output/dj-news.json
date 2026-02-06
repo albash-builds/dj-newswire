@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T11:34:01.512Z",
+  "generatedAt": "2026-02-06T12:59:11.342Z",
   "total": 110,
   "sources": [
     {
@@ -577,6 +577,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
+    },
+    {
+      "id": "bc191e110031cf163fd9849c1b5ee766e68dbc1e",
+      "title": "Legal challenge initiated over Northern Ireland nightlife licensing review",
+      "link": "https://mixmag.net/read/legal-challenge-initiated-northern-ireland-nightlife-licensing-review-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/belfast-night.jpg?width=660&fit=cover&s=M523_dfT_kfT3n5HV2x_rHIAnhu5-V1Gy81X6jioTC8",
+      "excerpt": "Free The Night called the government’s recent review “a wasted opportunity” Continue reading..."
+    },
+    {
+      "id": "fa1b8b325a9661979e29b5cde8a178b4b94d4f3e",
+      "title": "London's FOLD criticised for delayed response following death of 23-year-old man",
+      "link": "https://mixmag.net/read/coroner-criticses-fold-emergency-response-after-staff-waited-an-hour-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOLD_2026-02-06-121733_gpwd.png?width=660&fit=cover&s=-iXgXY034tnvLpBnNvFOo1aUthc6XkIJdIdr3scfRX4",
+      "excerpt": "Staff at the Canning Town nightclub reportedly waited &quot;over an hour&quot; to call an ambulance, which a coroner claims &quot;decreased&quot; the man&#039;s chance of survival Continue reading..."
     },
     {
       "id": "17fa3e75f3b19949cd8aba027422c4751cfe36bb",
@@ -1513,30 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Zack_Polanski_Green_Party_London_Assembly_Member.jpg?width=660&fit=cover&s=gwRc8Ja2G7aA6BmDjsWgn7r8a7n-DTUYbj9OHjTjBYc",
       "excerpt": "Leader Zack Polanski will be &quot;on the mic&quot; at the fundraising event, alongside sets from Mixtress, Lobsta B, DJ Love and more Continue reading..."
-    },
-    {
-      "id": "af905f404ffcbad0b8c6de5d2b37adaa7d383c6b",
-      "title": "A never-before-heard Tupac recording is going up for auction",
-      "link": "https://mixmag.net/read/never-before-heard-tupac-recording-auction-wax-poetics-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tupac.jpg?width=660&fit=cover&s=vj8YdpjvUHi9vrPNndVjEPKOioScUV63-DvmCMbB1Is",
-      "excerpt": "Thought to be taped between 1987 - 1988, it’s the “earliest known” recording from the late rapper Continue reading..."
-    },
-    {
-      "id": "3ec3bbe3d0986e5955ff08d0f295454febdabd72",
-      "title": "PinkPantheress, Skepta, and Jim Legxacy among 2026 MOBO Awards nominees",
-      "link": "https://mixmag.net/read/2026-mobo-awards-nominees-pinkpantheress-skepta-jim-legxacy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PinkPantheress-a.jpg?width=660&fit=cover&s=fJHSjBLm02FL6026ktSqPH8JmOFrvcuM3MOaZJjf2ME",
-      "excerpt": "This year&#039;s ceremony will take place at Manchester&#039;s Co-op Live on March 26 Continue reading..."
     }
   ]
 }
