@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T15:40:11.304Z",
+  "generatedAt": "2026-02-06T16:43:42.051Z",
   "total": 110,
   "sources": [
     {
@@ -577,6 +577,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
+    },
+    {
+      "id": "f31eeb3b6b9f47212ef94f0de34120ca808c18f5",
+      "title": "South Africa to allow possession of over 2,000 joints-worth of weed",
+      "link": "https://mixmag.net/read/south-african-could-be-allowed-possess-enough-cannabis-for-over-2-000-joints-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cannabis_joint-credit-elsaolofsson.jpg?width=660&fit=cover&s=5Vbe8z5pPePZ7jtwCNoTbl3EROAL_sq2GBIYtE0BrUs",
+      "excerpt": "Under new draft rules, those living in the country could carry up to 750g of cannabis at a time Continue reading..."
     },
     {
       "id": "bc191e110031cf163fd9849c1b5ee766e68dbc1e",
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rmx-ignite.jpg?width=660&fit=cover&s=7ofltrhevSC9dL450IFzVneGii-eiX314p1oTfuvS9Y",
       "excerpt": "It builds on the unit’s popular 2012 predecessor RMX-1000, boasting “next-gen” quality Continue reading..."
-    },
-    {
-      "id": "8bc79d2934cb1c4063b4d366ba52572858a9ce12",
-      "title": "The Green Party is throwing a rave in London this month",
-      "link": "https://mixmag.net/read/the-green-party-to-host-club-night-in-london-this-month-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Zack_Polanski_Green_Party_London_Assembly_Member.jpg?width=660&fit=cover&s=gwRc8Ja2G7aA6BmDjsWgn7r8a7n-DTUYbj9OHjTjBYc",
-      "excerpt": "Leader Zack Polanski will be &quot;on the mic&quot; at the fundraising event, alongside sets from Mixtress, Lobsta B, DJ Love and more Continue reading..."
     }
   ]
 }
