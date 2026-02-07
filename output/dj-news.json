@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T09:30:52.997Z",
+  "generatedAt": "2026-02-07T10:25:55.224Z",
   "total": 110,
   "sources": [
     {
@@ -577,6 +577,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Butch-Press-Photo-5-scaled-e1769584749762.jpg",
       "excerpt": "Butch debuts on DJ Tennis’ Life and Death label with the release of “Formula E,” a new single from the widely respected German producer and DJ, out now.&nbsp; A slow-building but climactic club record, “Formula E” reflects Butch’s long-s…"
+    },
+    {
+      "id": "296f0e8b7ad580be1636784a402ee9e1ddec6ead",
+      "title": "Festival line-ups you might have missed: C2C Festival, doof in the park, We Out Here",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-c2c-doof-in-the-park-we-out-here-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/c2c.png?width=660&fit=cover&s=AMYFpPS2xo5wxblDwKFNPScrzeWx2MAHMLNenr9ljhA",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "f31eeb3b6b9f47212ef94f0de34120ca808c18f5",
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/260109_TIMBER_LOFT_RobJones_%40hirobjones_%40khromacollective-IMG_4483.jpg?width=660&fit=cover&s=8tJhaHiZt5blNuoQxZCh-P46_4wsVuiyflyipsy6tdU",
       "excerpt": "The Timber Loft takes over the famed &#039;90s and &#039;00s party spot, once the setting for David Mancuso’s London iteration of The Loft Continue reading..."
-    },
-    {
-      "id": "7d74b952a0ff076b08e33bcd97feae6ad310d7b4",
-      "title": "AlphaTheta unveils new DJ effector and sampler, RMX-Ignite",
-      "link": "https://mixmag.net/read/alphatheta-new-dj-effector-sampler-rmx-ignite-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rmx-ignite.jpg?width=660&fit=cover&s=7ofltrhevSC9dL450IFzVneGii-eiX314p1oTfuvS9Y",
-      "excerpt": "It builds on the unit’s popular 2012 predecessor RMX-1000, boasting “next-gen” quality Continue reading..."
     }
   ]
 }
