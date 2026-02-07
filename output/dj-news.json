@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-07T07:31:50.977Z",
+  "generatedAt": "2026-02-07T08:31:26.064Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "cac276bbf31e86359a010166832cf5074fed419f",
+      "title": "Essam",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/imarham-essam/",
+      "published": "2026-02-07T07:46:26.000Z",
+      "publishedTs": 1770450386000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/imarham-Essam.jpg",
+      "excerpt": "Tras su absorción sensorial, “Essam”, el nuevo y cuarto disco de Imarhan, representará una nueva oportunidad para utilizar la música... La entrada Essam se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "05736a925e296107e2cbf1c14d549567a2fc3dcb",
+      "title": "Deseo concedido",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/rojo-omega-deseo-concedido/",
+      "published": "2026-02-07T07:37:31.000Z",
+      "publishedTs": 1770449851000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Rojo-Omega-Deseo-concedido.jpg",
+      "excerpt": "Era 1996 cuando nacía este grupo del extrarradio madrileño bajo el nombre de uno de los enemigos de Lobezno en... La entrada Deseo concedido se publicó primero en MondoSonoro ."
+    },
     {
       "id": "649ec13da3aeb8ad837911520bf2e0296430cbf1",
       "title": "\"Lovers & Fears\" es el nuevo trabajo de la gaditana La Perra Blanco",
@@ -282,34 +310,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Pacha-NYC.png",
       "excerpt": "The Brooklyn Mirage in East Williamsburg will reopen in June 2026 as Pacha New York, following a year of significant operational and financial difficulties that saw the venue remain closed throughout the entire 2025 season. FIVE Holdings…"
-    },
-    {
-      "id": "c304fe240e3d7be2f4180b57ee0346e8d929bc93",
-      "title": "Un destello de luz",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/adios-cometa-un-destello-de-luz/",
-      "published": "2026-02-03T16:14:16.000Z",
-      "publishedTs": 1770135256000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Adios-Cometa-Un-destello-de-luz.jpg",
-      "excerpt": "Las gentes de Spinda Records nos tienen muy mal acostumbrados. De un tiempo a esta parte parece que donde ponen... La entrada Un destello de luz se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "80f8b8be4b639bec90af6c9fc12376a86c5ead9f",
-      "title": "For The First Time, Again",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tyler-ballgame-for-the-first-time-again/",
-      "published": "2026-02-03T08:04:08.000Z",
-      "publishedTs": 1770105848000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Tyler-Ballgame-For-The-First-Time-Again.jpg",
-      "excerpt": "El debut de Tyler Ballgame suena como si a Roy Orbison o Elvis alguien les hubiera grabado un disco a... La entrada For The First Time, Again se publicó primero en MondoSonoro ."
     },
     {
       "id": "3577f5727b34aed59266ebc4d3cbfa95a96aec8d",
