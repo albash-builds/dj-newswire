@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T15:56:24.168Z",
+  "generatedAt": "2026-02-09T20:38:31.284Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e70dbc168125c14d366a023cd0bd14cf2e5a9f50",
+      "title": "Electrónica Simpática",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/encanto-electronica-simpatica/",
+      "published": "2026-02-09T16:29:17.000Z",
+      "publishedTs": 1770654557000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Encanto-Electronica-Simpatica-.jpg",
+      "excerpt": "Análogamente a la existencia del yin existe un yang, del día una noche, de la materia una antimateria, del Sherlock... La entrada Electrónica Simpática se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6529177b4c0146c358d34932fe83b249e49b86e4",
       "title": "Punto de inflexión",
@@ -276,20 +290,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/goldie-scaled.jpg",
       "excerpt": "By no means am I a diehard drum and bass devotee. I could never do a night of just DnB / Jungle. But growing up in the 90s, raving to a broad spectrum of tunes from techno to breakbeat to whatever the DJ felt like dropping that night, ce…"
-    },
-    {
-      "id": "37f35c0d15fc0adcd1ae3324e2b5b646238e5e71",
-      "title": "Pensamientos cayendo al vacío",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/monos-pensamientos-cayendo-al-vacio/",
-      "published": "2026-02-04T14:54:09.000Z",
-      "publishedTs": 1770216849000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/monos.jpg",
-      "excerpt": "Los getxotarras Monos presentan un EP de cinco canciones magistralmente producidas en El Tigre Studios por Jon Aguirrezabalaga y Xabi... La entrada Pensamientos cayendo al vacío se publicó primero en MondoSonoro ."
     },
     {
       "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
