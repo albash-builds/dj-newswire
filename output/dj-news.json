@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T11:44:20.504Z",
+  "generatedAt": "2026-02-09T13:21:35.938Z",
   "total": 110,
   "sources": [
     {
@@ -573,6 +573,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Native-Instruments-logo.png",
       "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
+    },
+    {
+      "id": "52c0f1165e9386f7a76f47035fe7d6c68077b95b",
+      "title": "Suspected mass overdose at Sydney music festival leaves one dead",
+      "link": "https://mixmag.net/read/suspected-mass-overdose-sydney-music-festival-leaves-one-dead-six-hospitalised-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/overdose-festival.jpg?width=660&fit=cover&s=ag6lC4z-ZZonHsbkmEUg1voApOmMq998X9i2qz8S36M",
+      "excerpt": "Six people were also hospitalised after attending trance and techno festival Dreamstate over the weekend Continue reading..."
     },
     {
       "id": "9761726713fa761bc64064f04bc2962ad6493149",
@@ -1521,18 +1533,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streams.png?width=660&fit=cover&s=u0jLyuuA6RmoJFBmcIuY0E52uLRK3XoYsMVC8KAUjA8",
       "excerpt": "Entertainment data specialist Luminate&#039;s study also revealed that over 120 million tracks had 10 streams or under last year Continue reading..."
-    },
-    {
-      "id": "38441b0da617058f42c0eec4cf5d0fa29a93cbb9",
-      "title": "Steve Aoki sued over influencing purchases of “worthless” NFTs",
-      "link": "https://mixmag.net/read/steve-aoki-sued-over-influencing-purchases-worthless-nfts-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Steve_Aoki-credit-Collision-Conf.jpg?width=660&fit=cover&s=1VRZL81hcLsbcuAM14kZdq59wpDn0pVmZd50RzwO59o",
-      "excerpt": "A class action lawsuit alleges that he promoted NFTs without disclosing endorsements Continue reading..."
     }
   ]
 }
