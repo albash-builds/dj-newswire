@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T13:21:35.938Z",
+  "generatedAt": "2026-02-09T15:02:38.146Z",
   "total": 110,
   "sources": [
     {
@@ -573,6 +573,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Native-Instruments-logo.png",
       "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
+    },
+    {
+      "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
+      "title": "Majority of Europe’s biggest music festivals owned by four companies, study finds",
+      "link": "https://mixmag.net/read/majority-europe-biggest-music-festivals-owned-four-companies-study-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Reading-Festival-credit-Sarah-Louise-Bennett-2.jpg?width=660&fit=cover&s=dgubqXUMiT_YImGMkcs8YzUdnO-k5oM_z2lU_TGtX0Y",
+      "excerpt": "More than 150 festivals come under companies including Live Nation and KKR-owned Superstruct Continue reading..."
+    },
+    {
+      "id": "29b43a5daa649cf4baba73aab1a98acb86f05faf",
+      "title": "Use of rap lyrics in criminal court cases to be debated in House of Lords this week",
+      "link": "https://mixmag.net/read/use-rap-lyrics-criminal-prosecution-debated-uk-house-of-lords-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/house-of-lords.png?width=660&fit=cover&s=INb5bpqPW9p9ef1NcO1tWBbmeF4-TLUIjPVXx9Yj6H8",
+      "excerpt": "An amendment to the Victims and Courts Bill could limit police&#039;s ability to utilise lyrics unless they are “literal, rather than figurative or fictional” Continue reading..."
     },
     {
       "id": "52c0f1165e9386f7a76f47035fe7d6c68077b95b",
@@ -1509,30 +1533,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Simone-Loup.png?width=660&fit=cover&s=q0qcjOR2d9AWEpQROoXYliodQEtITbeM_pvvkUkq4hU",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "cc98d792f8fb14f1874166bdb1514661d3f6b92e",
-      "title": "Adelaide festival says it won’t pull Sama’ Abdulhadi from bill following calls from pro-Israel campaign",
-      "link": "https://mixmag.net/read/adelaide-festival-wont-pull-sama-abdulhadi-bill-following-calls-pro-israel-campaign-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/womadelaide-statement.jpg?width=660&fit=cover&s=XsnfUMSE_FCi82xeBrjmxVVDqzrRyRnd398JzzElCuU",
-      "excerpt": "The group reportedly called for the Palestinian DJ to be “urgently removed” from the festival’s 2026 line-up Continue reading..."
-    },
-    {
-      "id": "6f6bdaba96eed05e571543d4ec6fa105fa8a2655",
-      "title": "Music streams grew by almost 10% to 5.1 trillion in 2025",
-      "link": "https://mixmag.net/read/5-trillion-music-streams-2025-report-end-of-year-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streams.png?width=660&fit=cover&s=u0jLyuuA6RmoJFBmcIuY0E52uLRK3XoYsMVC8KAUjA8",
-      "excerpt": "Entertainment data specialist Luminate&#039;s study also revealed that over 120 million tracks had 10 streams or under last year Continue reading..."
     }
   ]
 }
