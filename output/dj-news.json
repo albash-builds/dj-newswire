@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T08:59:13.730Z",
+  "generatedAt": "2026-02-09T10:20:35.221Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c5d30aab94ca90ae82abd14ff742b2072c8b3cd0",
+      "title": "Ruinas de Interior (1995-2025)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/santi-campos-ruinas-de-interior/",
+      "published": "2026-02-09T09:05:09.000Z",
+      "publishedTs": 1770627909000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/santi-campor-ruinas-de-interior.jpg",
+      "excerpt": "El segoviano (que no castellonense) Santi Campos, siempre ha tenido algo de kamikaze. Y, por qué no decirlo también, algo... La entrada Ruinas de Interior (1995-2025) se publicó primero en MondoSonoro ."
+    },
     {
       "id": "38d3ea454f24e719a7a8535f00ca9a04ac93bbdb",
       "title": "Alabatre",
@@ -126,7 +140,7 @@
     },
     {
       "id": "649ec13da3aeb8ad837911520bf2e0296430cbf1",
-      "title": "\"Lovers & Fears\" es el nuevo trabajo de la gaditana La Perra Blanco",
+      "title": "Lovers & Fears",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/la-perra-blanco-lovers-fears/",
       "published": "2026-02-06T10:53:21.000Z",
       "publishedTs": 1770375201000,
@@ -136,7 +150,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Perra-Blanco-Lovers-Fears.jpg",
-      "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada &quot;Lovers &#038; Fears&quot; es el nuevo trabajo de la gaditana La Perra Blanco se public…"
+      "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada Lovers &#038; Fears se publicó primero en MondoSonoro ."
     },
     {
       "id": "6aaf05516f22a52dad836d56089b2754b9dd5d5e",
@@ -276,20 +290,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Gluecifer-Same-Drug-New-High.jpg",
       "excerpt": "Los miembros de Gluecifer son unos tipos de fiar. Quizá los que más de aquella lejana escena de rock escandinavo... La entrada Gluecifer Same Drug New High se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "daed6083a5f4ada07cb61c94fb0d1470120d9259",
-      "title": "Megadeth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/megadeth-disco/",
-      "published": "2026-02-04T07:56:57.000Z",
-      "publishedTs": 1770191817000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/megadeth-disco.jpg",
-      "excerpt": "Si el nuevo lanzamiento de Megadeth está generando mayor ruido de lo habitual se debe, sin duda, a que estamos... La entrada Megadeth se publicó primero en MondoSonoro ."
     },
     {
       "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
