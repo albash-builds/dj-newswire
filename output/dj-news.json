@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T07:57:01.180Z",
+  "generatedAt": "2026-02-09T08:59:13.730Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "38d3ea454f24e719a7a8535f00ca9a04ac93bbdb",
+      "title": "Alabatre",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-xica-alabatre/",
+      "published": "2026-02-09T08:14:24.000Z",
+      "publishedTs": 1770624864000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/LA-XICA-Alabatre.jpg",
+      "excerpt": "Uno podría pensar que, en el panorama de la música electrónica, solo caben la diversión, la superficialidad y el hedonismo.... La entrada Alabatre se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
       "title": "Inside The World’s Biggest Vinyl Factory Making 70 Million Records A Year",
@@ -276,20 +290,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/megadeth-disco.jpg",
       "excerpt": "Si el nuevo lanzamiento de Megadeth está generando mayor ruido de lo habitual se debe, sin duda, a que estamos... La entrada Megadeth se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "204c9922bf50a40e0c028b9f89a431072811f94e",
-      "title": "The James Hunter Six Off The Fence",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-james-hunter-six-off-the-fence/",
-      "published": "2026-02-04T07:42:01.000Z",
-      "publishedTs": 1770190921000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/The-James-Hunter-Six-Off-The-Fence.jpg",
-      "excerpt": "Ser absorbido por la rutina no es sinónimo exclusivamente de la repetición de esquemas, el verdadero tedio asoma cuando queda... La entrada The James Hunter Six Off The Fence se publicó primero en MondoSonoro ."
     },
     {
       "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
