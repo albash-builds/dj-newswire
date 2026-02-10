@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T08:56:24.063Z",
+  "generatedAt": "2026-02-10T10:02:24.553Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,22 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "becce3147e1e92df66152bb0aae021748e36eeb9",
+      "title": "Producer and visual artist A. Whales presents the first new single – ‘Commuter’  from a forthcoming album",
+      "link": "https://www.decodedmagazine.com/producer-and-visual-artist-a-whales-presents-the-first-new-single-commuter-from-a-forthcoming-album/",
+      "published": "2026-02-10T09:29:45.000Z",
+      "publishedTs": 1770715785000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "chill out",
+        "Electronica"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/A.Whales-press-pic-scaled-e1770715686221.jpg",
+      "excerpt": "Commuter by A. Whales Producer and visual artist A. Whales presents the first new single &#8211; ‘Commuter’ from a forthcoming album, and it’s a glorious mix of dreamy ambient electronica, creating a fluid and immersive soundscape like a…"
+    },
     {
       "id": "4ffd5a96e6075eb5fdef7677944780e649e6cd33",
       "title": "Record Store Day: A Celebration of Independent Culture or Major Label Marketing?",
@@ -545,29 +561,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Copy-of-Anjunadeep-Open-Air-London-Old-Royal-Naval-College-10th-August-2025-by-Luke-Dyson-LD2_1378.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Labyrinth Events has announced the return of Anjunadeep to London after a sold-out debut last summer at The Old Royal Naval College, a UNESCO World Heritage Site, on 9th August 2026. Founded by Above &amp; Beyond and James Grant, Anjunad…"
-    },
-    {
-      "id": "19c03f40b70d5b45bee2ebdc1d1a52c6294aef59",
-      "title": "Junction 2 refines format and dates for its 10th anniversary",
-      "link": "https://www.decodedmagazine.com/junction-2-refines-format-and-dates-for-its-10th-anniversary/",
-      "published": "2026-01-30T13:26:10.000Z",
-      "publishedTs": 1769779570000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Boston Manor Park",
-        "fabric london",
-        "Festival",
-        "House Music",
-        "Junction 2",
-        "London",
-        "M4",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/J2-2026-Launch-3x4-1.png?resize=768%2C1024&ssl=1",
-      "excerpt": "Junction 2 returns to Boston Manor Park in 2026 with a refined and focused format that reflects both its roots and its future. For its 10th anniversary edition, two iconic stages will form the core of the J2 X experience. Now with more s…"
     },
     {
       "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
