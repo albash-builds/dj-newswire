@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T10:02:24.553Z",
+  "generatedAt": "2026-02-10T11:50:53.946Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,62 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a34d95d3d094d6775301cb26dbe2a4be1a24aa17",
+      "title": "In Verses",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/karnivol-in-verses/",
+      "published": "2026-02-10T11:44:17.000Z",
+      "publishedTs": 1770723857000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Karnivool-In-Verses.jpg",
+      "excerpt": "En 2013, los australianos lanzaron su tercer álbum de estudio, “Asymmetry”, después de haber presentado en 2010 su obra maestra... La entrada In Verses se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "af5058316e6e0ee50717239ca65c61bf3e211632",
+      "title": "FVTVR welcomes Detroit Love back to Paris",
+      "link": "https://www.decodedmagazine.com/fvtvr-welcomes-detroit-love-back-to-paris/",
+      "published": "2026-02-10T11:30:05.000Z",
+      "publishedTs": 1770723005000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Carl Craig",
+        "Detroit",
+        "FVTVR",
+        "Juan Atkins",
+        "Mike Banks",
+        "Paris",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/FVTVR-DETROIT_LOVE3-edited-scaled.png?resize=675%2C1200&ssl=1",
+      "excerpt": "FVTVR welcomes Detroit Love back to Paris on Saturday, 9th May 2026. The Parisian venue becomes the home of this internationally recognised Techno brand, offering an immersive journey across 12 hours, two floors, and four rooms. It is a …"
+    },
+    {
+      "id": "dac2debc83dda3edbaa2e6becbeb0a0023a3060d",
+      "title": "Wild Wood Festival celebrates its 10 year anniversary this summer",
+      "link": "https://www.decodedmagazine.com/wild-wood-festival-celebrates-its-10-year-anniversary-this-summer/",
+      "published": "2026-02-10T10:02:50.000Z",
+      "publishedTs": 1770717770000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Electronica",
+        "Festival",
+        "House Music",
+        "South Cambridgeshire",
+        "Techno",
+        "Wild Wood festival"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20_Wild-Wood-J-Fenna.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Wild Wood Festival returns this summer on the 19 &#8211; 21 June 2026, marking the 10 year anniversary of being an independent, community-led festival in the enchanted woodlands of South Cambridgeshire. Today marks the launch of the full…"
+    },
     {
       "id": "becce3147e1e92df66152bb0aae021748e36eeb9",
       "title": "Producer and visual artist A. Whales presents the first new single – ‘Commuter’  from a forthcoming album",
@@ -242,20 +298,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Daphni-Butterfly.jpg",
       "excerpt": "La línea que separa los distintos proyectos del canadiense Dan Snaith es ya casi inexistente; en 2024 el último trabajo... La entrada Butterfly se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4d546cf14a471c1e59d2d5b6909a51cf51ff811a",
-      "title": "Sueños, ideas y recuerdos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/geminiss-suenos-ideas-y-recuerdos/",
-      "published": "2026-02-05T15:54:41.000Z",
-      "publishedTs": 1770306881000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/geminiss.jpg",
-      "excerpt": "No conozco la música que escucha Geminiss, ni la que le ha inspirado “Sueños, ideas y recuerdos”, pero intuyo que... La entrada Sueños, ideas y recuerdos se publicó primero en MondoSonoro ."
     },
     {
       "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
@@ -520,47 +562,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/image.jpeg?resize=399%2C399&ssl=1",
       "excerpt": "Let There Be Light by Sina XX French techno producer Sina XX has unveiled his new album Let There Be Light , featuring focus single ‘Myt’ out on his own imprint subtyl. Rooted in ritual, movement, and futurism, the album opens with “Wake…"
-    },
-    {
-      "id": "07ec2f4852861080d06bfead77460f155ba6db01",
-      "title": "Tara Donovan’s Stratagems takes thousands of recycled CDs to form reflective vertical sculptures",
-      "link": "https://www.decodedmagazine.com/tara-donovans-stratagems-takes-thousands-of-recycled-cds-form-reflective-vertical-sculptures/",
-      "published": "2026-01-30T13:59:43.000Z",
-      "publishedTs": 1769781583000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Art",
-        "CD",
-        "San Francisco",
-        "Tara Donovan",
-        "Transamerica Pyramid Center"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/ICA-SF_Stratagems-by-Tara-Donovan_Nicholas-Lea-Bruno_SP26-8-scaled.jpg",
-      "excerpt": "Got a spare 10,000 CDs lying around? Doubt it. Ever wondered what you could do with them if you did? Tara Donovan has an answer, and it&#8217;s currently installed at San Francisco&#8217;s Transamerica Pyramid Center through July. Her sh…"
-    },
-    {
-      "id": "c9bf91331439e6e0a4ab9389b9a613a56160b883",
-      "title": "Anjunadeep returns to Labyrinth on the Thames",
-      "link": "https://www.decodedmagazine.com/anjunadeep-returns-to-labyrinth-on-the-thames/",
-      "published": "2026-01-30T13:44:57.000Z",
-      "publishedTs": 1769780697000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Anjunadeep",
-        "House Music",
-        "London",
-        "Melodic Techno",
-        "Old Royal Naval College",
-        "Progressive House",
-        "Techno",
-        "Thames"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/Copy-of-Anjunadeep-Open-Air-London-Old-Royal-Naval-College-10th-August-2025-by-Luke-Dyson-LD2_1378.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Labyrinth Events has announced the return of Anjunadeep to London after a sold-out debut last summer at The Old Royal Naval College, a UNESCO World Heritage Site, on 9th August 2026. Founded by Above &amp; Beyond and James Grant, Anjunad…"
     },
     {
       "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
