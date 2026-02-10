@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T11:50:53.946Z",
+  "generatedAt": "2026-02-10T13:13:45.601Z",
   "total": 110,
   "sources": [
     {
@@ -562,6 +562,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/image.jpeg?resize=399%2C399&ssl=1",
       "excerpt": "Let There Be Light by Sina XX French techno producer Sina XX has unveiled his new album Let There Be Light , featuring focus single ‘Myt’ out on his own imprint subtyl. Rooted in ritual, movement, and futurism, the album opens with “Wake…"
+    },
+    {
+      "id": "36549d996600e0e03cd574b360bd652cf66b3364",
+      "title": "Apple Music says it demonetised two billion “fraudulent” music streams last year",
+      "link": "https://mixmag.net/read/apple-music-says-it-demonetised-2-billion-fraudulent-music-streams-last-year-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music_2026-02-10-124841_kuly.jpg?width=660&fit=cover&s=TuX8LUCfEY4_vBf8SuHdrg5RmevrDjHRY1Eb0bNw1ro",
+      "excerpt": "VP Oliver Schusser says it accounts for $17 million in royalties that could have gone toward real artists Continue reading..."
+    },
+    {
+      "id": "2315093b2271632cd98c035775efb0afa73e5c3a",
+      "title": "Celebrated Ghanaian producer and musician Ebo Taylor has died aged 90",
+      "link": "https://mixmag.net/read/celebrated-ghanaian-producer-and-musician-ebo-taylor-has-died-age-90-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ebo-taylor-credit-Schorle.jpg?width=660&fit=cover&s=FQX-bSngXCeYzbXOVKdKlK67DM6VydBdaX5XEmur8-8",
+      "excerpt": "The highlife pioneer received multiple Lifetime Achievement awards for his contributions to Ghanaian music Continue reading..."
     },
     {
       "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
@@ -1498,30 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Swedish-Chart.png?width=660&fit=cover&s=y8cdaeZa5lW_eOQJ-Bem03ZyXCpZK1LbWk9Z8Kx4EX4",
       "excerpt": "Despite racking up millions of streams, ‘I Know, You’re Not Mine – Jag Vet, Du Är Inte Min’ doesn&#039;t qualify to be included in the Sverigetopplistan singles chart Continue reading..."
-    },
-    {
-      "id": "c35a61a0d0ec5fbb789316e7b2cee3363ce1a43b",
-      "title": "New music on our radar this week: Fcukers, Shy One, KAVARI",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-4-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-traitors.png?width=660&fit=cover&s=-1Db66fPgbrnBNHlnE7-s_dmOpd9T-7ZwpX--UYv-YY",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "61922af47d457935f2bbf93bc48c3e9b7dcdf522",
-      "title": "Festival line-ups you might have missed: Docklands, C2C NYC, Paradise City",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-4-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Simone-Loup.png?width=660&fit=cover&s=q0qcjOR2d9AWEpQROoXYliodQEtITbeM_pvvkUkq4hU",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
