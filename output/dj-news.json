@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T02:26:42.884Z",
+  "generatedAt": "2026-02-10T05:03:59.615Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4ffd5a96e6075eb5fdef7677944780e649e6cd33",
+      "title": "Record Store Day: A Celebration of Independent Culture or Major Label Marketing?",
+      "link": "https://www.decodedmagazine.com/record-store-day-a-celebration-of-independent-culture-or-major-label-marketing/",
+      "published": "2026-02-10T03:55:29.000Z",
+      "publishedTs": 1770695729000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Independant Record Stores",
+        "Music Industry",
+        "Record Store Day",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
+    },
     {
       "id": "e70dbc168125c14d366a023cd0bd14cf2e5a9f50",
       "title": "Electrónica Simpática",
@@ -549,30 +568,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/J2-2026-Launch-3x4-1.png?resize=768%2C1024&ssl=1",
       "excerpt": "Junction 2 returns to Boston Manor Park in 2026 with a refined and focused format that reflects both its roots and its future. For its 10th anniversary edition, two iconic stages will form the core of the J2 X experience. Now with more s…"
-    },
-    {
-      "id": "1958bd30855a2e91cbd61012abe29e848b25478f",
-      "title": "Native Instruments CEO breaks his silence",
-      "link": "https://www.decodedmagazine.com/native-instruments-ceo-breaks-his-silence/",
-      "published": "2026-01-30T12:46:13.000Z",
-      "publishedTs": 1769777173000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Brainworx",
-        "Hardware",
-        "iZotope",
-        "Music Industry",
-        "music production",
-        "Native Instruments",
-        "Plugin Alliance",
-        "software",
-        "Traktor"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/Native-Instruments-logo.png",
-      "excerpt": "There are moments in electronic music history that force us to confront uncomfortable realities about the infrastructure we&#8217;ve built our creative lives upon. The news that Native Instruments has entered pre-insolvency proceedings i…"
     },
     {
       "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
