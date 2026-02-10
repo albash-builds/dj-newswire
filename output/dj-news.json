@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T18:02:13.041Z",
+  "generatedAt": "2026-02-10T19:59:13.045Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8ec23a928637fa0be6d05c08546dcc4821562be1",
+      "title": "Furia",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-nina-hilo-furia/",
+      "published": "2026-02-10T18:58:44.000Z",
+      "publishedTs": 1770749924000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/la-nina-hilo.jpg",
+      "excerpt": "La Niña Hilo vuelven desde Navarra con un luminoso y cuidado EP tras cuatro años de parón. El ahora dúo... La entrada Furia se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a34d95d3d094d6775301cb26dbe2a4be1a24aa17",
       "title": "In Verses",
@@ -284,20 +298,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Erik-Urano-Stalker.jpg",
       "excerpt": "A finales de 2009 el grupo vallisoletano Urano Players se puso en órbita por primera vez con el álbum “Voyagers... La entrada Stalker se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "be5073ecaf3771e45913f4eebec5081b5eea6cf2",
-      "title": "Butterfly",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/daphni-butterfly-disco/",
-      "published": "2026-02-06T08:39:52.000Z",
-      "publishedTs": 1770367192000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Daphni-Butterfly.jpg",
-      "excerpt": "La línea que separa los distintos proyectos del canadiense Dan Snaith es ya casi inexistente; en 2024 el último trabajo... La entrada Butterfly se publicó primero en MondoSonoro ."
     },
     {
       "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
