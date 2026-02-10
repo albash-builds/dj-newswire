@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T13:13:45.601Z",
+  "generatedAt": "2026-02-10T14:58:31.883Z",
   "total": 110,
   "sources": [
     {
@@ -574,6 +574,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music_2026-02-10-124841_kuly.jpg?width=660&fit=cover&s=TuX8LUCfEY4_vBf8SuHdrg5RmevrDjHRY1Eb0bNw1ro",
       "excerpt": "VP Oliver Schusser says it accounts for $17 million in royalties that could have gone toward real artists Continue reading..."
+    },
+    {
+      "id": "e68a67c8291a1982fecef2cf53a01580843b6fe7",
+      "title": "55% of UK music fans can't spot social media ticket scams, survey finds",
+      "link": "https://mixmag.net/read/55-percent-uk-music-fans-cant-spot-fake-tickets-survey-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music.png?width=660&fit=cover&s=q8q7tPtXa2c9Gs39l1Ih9Kdpk3Z5CILvN9RvkHfdzpk",
+      "excerpt": "26% of respondents to a survey said they&#039;ve bought tickets on social media that turned out to be fake, losing £258 on average Continue reading..."
     },
     {
       "id": "2315093b2271632cd98c035775efb0afa73e5c3a",
@@ -1510,18 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Sphere-US.png?width=660&fit=cover&s=2o4tpIPZ-pA1EW8UoXv2b_odtkIGahUY8Yx-4UDuJjU",
       "excerpt": "Developers say the live music and events venue will be a &quot;smaller-scale&quot; version of its Las Vegas counterpart Continue reading..."
-    },
-    {
-      "id": "3ab7585d8bcddb26e506d95431875fa8314c97ba",
-      "title": "Sweden's biggest track of 2026 so far banned from charts following AI revelation",
-      "link": "https://mixmag.net/read/sweden-biggest-track-2026-banned-charts-ai-revelation-jacub-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Swedish-Chart.png?width=660&fit=cover&s=y8cdaeZa5lW_eOQJ-Bem03ZyXCpZK1LbWk9Z8Kx4EX4",
-      "excerpt": "Despite racking up millions of streams, ‘I Know, You’re Not Mine – Jag Vet, Du Är Inte Min’ doesn&#039;t qualify to be included in the Sverigetopplistan singles chart Continue reading..."
     }
   ]
 }
