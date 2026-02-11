@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T07:00:49.237Z",
+  "generatedAt": "2026-02-11T08:50:07.593Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,42 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f61125925fa4bace49aec89710ab9251b8e83238",
+      "title": "Get Physical Music co-founder Philipp Jung returns with a series of new remixes as part of an 11-track compilation",
+      "link": "https://www.decodedmagazine.com/get-physical-music-co-founder-philipp-jung-returns-with-a-series-of-new-remixes-as-part-of-an-11-track-compilation/",
+      "published": "2026-02-11T07:52:17.000Z",
+      "publishedTs": 1770796337000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Get Physical Music",
+        "Kindish",
+        "M.A.N.D.Y",
+        "Philipp Jung"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/phillip-jung.jpg",
+      "excerpt": "Germany&#8217;s Philipp Jung is one of the architects of the contemporary house scene. He emerged as half of the seminal M.A.N.D.Y. duo, bringing a fresh take on the genre that brought melody and groove in equal measure to many of their …"
+    },
+    {
+      "id": "a993960948dc127e8627ad5e16a0b6d496ff420b",
+      "title": "Tresor Records reissues Scan 7’s 1999 album, Resurfaced.",
+      "link": "https://www.decodedmagazine.com/tresor-records-reissues-scan-7s-1999-album-resurfaced/",
+      "published": "2026-02-11T07:40:38.000Z",
+      "publishedTs": 1770795638000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Detroit techno",
+        "Scan 7",
+        "Techno",
+        "Tresor Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
+      "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
+    },
     {
       "id": "8ec23a928637fa0be6d05c08546dcc4821562be1",
       "title": "Furia",
@@ -525,43 +561,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 FEBRUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enl…"
-    },
-    {
-      "id": "d381c00668046e209db4dedad773e1764cff176d",
-      "title": "LEGO and Crocs Just Made Wearable Bricks and We’re Not Even Surprised",
-      "link": "https://www.decodedmagazine.com/lego-and-crocs-just-made-wearable-bricks-and-were-not-even-surprised/",
-      "published": "2026-01-31T05:49:14.000Z",
-      "publishedTs": 1769838554000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Fashion",
-        "Lifestyle",
-        "Crocs",
-        "Fun",
-        "lifestyle",
-        "Shoes"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/5010203_Lifestyle03.jpg?resize=683%2C1024&ssl=1",
-      "excerpt": "Look, we need to talk about something properly ridiculous that&#8217;s just dropped, and honestly, it&#8217;s brilliant in the most absurd way possible. LEGO and Crocs have got together and done the unthinkable: they&#8217;ve made actual…"
-    },
-    {
-      "id": "c7a23ed20c23d003a892fd066343665c2ebc2b29",
-      "title": "French techno producer Sina XX releases his new album Let There Be Light",
-      "link": "https://www.decodedmagazine.com/french-techno-producer-sina-xx-releases-his-new-album-let-there-be-light/",
-      "published": "2026-01-30T15:52:21.000Z",
-      "publishedTs": 1769788341000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "France",
-        "Sina XX",
-        "subtyl",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/image.jpeg?resize=399%2C399&ssl=1",
-      "excerpt": "Let There Be Light by Sina XX French techno producer Sina XX has unveiled his new album Let There Be Light , featuring focus single ‘Myt’ out on his own imprint subtyl. Rooted in ritual, movement, and futurism, the album opens with “Wake…"
     },
     {
       "id": "87c50c67699bc8bde8ed2439e48cb91499296cb5",
