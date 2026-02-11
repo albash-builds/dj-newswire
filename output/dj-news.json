@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T13:10:02.690Z",
+  "generatedAt": "2026-02-11T14:53:17.157Z",
   "total": 110,
   "sources": [
     {
@@ -561,6 +561,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 FEBRUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enl…"
+    },
+    {
+      "id": "fa7e801c338fc7d269a66696a6278529a9c4b34f",
+      "title": "New York party HEADS KNOW launches fund for independent artists",
+      "link": "https://mixmag.net/read/new-york-party-heads-know-launches-fund-independent-artists-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/HEADS_KNOW-Credit_Alexey_Kim.jpg?width=660&fit=cover&s=adwHoPGzAljOlvDmsCiRckifyEw5rx9REyrsVfVBNyU",
+      "excerpt": "The fund will also support promoters and journalists facing “urgent financial hardship” Continue reading..."
+    },
+    {
+      "id": "9c05d3d76b91eb9bc1308b341297f9c31a416364",
+      "title": "Artists threaten to leave Wasserman after founder mentioned in Epstein files",
+      "link": "https://mixmag.net/read/artists-threaten-leave-wasserman-founder-mentioned-epstein-files-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Casey-Wasserman.png?width=660&fit=cover&s=9ZWl6wXWTD4d3JHx-06IX4fbCCneAa7F93VMtNs42Js",
+      "excerpt": "salute, A Hundred Drums, and Chappell Roan have declared their intention to leave the talent agency unless Casey Wasserman leaves his role as CEO Continue reading..."
     },
     {
       "id": "94776c8141c87155752dd5b70d81ef5cc02a9ab7",
@@ -1497,30 +1521,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sister-midnight-lewisham-venue-community-owned.png?width=660&fit=cover&s=vgcoxLoopCnC3d2HNbmkF1vUuZ1EcZqXgYFiUcUetMo",
       "excerpt": "It comes almost three years after the team behind the community space secured its lease Continue reading..."
-    },
-    {
-      "id": "b4f6834d7965cb1012dc0466db6dab99460191d4",
-      "title": "Recap on all the action from the Burn Energy Tour 2025",
-      "link": "https://mixmag.net/feature/mixmag-x-burn-energy-tour-2025-romania-poland-spain-hungary",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Burn25_Header3.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gqTxlKIN6cRa8epiMayhcW8cszkjtfMX-XyHJH7s-14",
-      "excerpt": "Our high-energy club tour and community spotlight returned in 2025, throwing parties and exploring dynamic subcultures in a new host of European cities Continue reading..."
-    },
-    {
-      "id": "6eda02b1bf2385214711d28c4f25954d6332c4ad",
-      "title": "Miami nightclub under fire after DJ plays Kanye West's ‘Heil Hitler’ for right-wing attendees",
-      "link": "https://mixmag.net/read/miami-nightclub-under-fire-right-wing-influencers-sing-along-kanye-heil-hitler-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vendome-video.jpg?width=660&fit=cover&s=NcZqoYydusu3Itcz8J06osLYbwYjmP70_2_5kUyg_8o",
-      "excerpt": "Andrew Tate and Nick Fuentes were amongst guests at Vendôme in South Beach Continue reading..."
     }
   ]
 }
