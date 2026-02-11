@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-11T10:51:13.281Z",
-  "total": 110,
+  "generatedAt": "2026-02-11T11:44:08.138Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "21cc4dd9659939732ddae3f1d9ab57cd975dd172",
@@ -33,42 +40,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mandy-Indiana-Urgh.jpg",
       "excerpt": "En estos tiempos en los que el envoltorio (aka hastagh) es más relevante que nunca, una propuesta de cariz visceral... La entrada Urgh se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f61125925fa4bace49aec89710ab9251b8e83238",
-      "title": "Get Physical Music co-founder Philipp Jung returns with a series of new remixes as part of an 11-track compilation",
-      "link": "https://www.decodedmagazine.com/get-physical-music-co-founder-philipp-jung-returns-with-a-series-of-new-remixes-as-part-of-an-11-track-compilation/",
-      "published": "2026-02-11T07:52:17.000Z",
-      "publishedTs": 1770796337000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Get Physical Music",
-        "Kindish",
-        "M.A.N.D.Y",
-        "Philipp Jung"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/phillip-jung.jpg",
-      "excerpt": "Germany&#8217;s Philipp Jung is one of the architects of the contemporary house scene. He emerged as half of the seminal M.A.N.D.Y. duo, bringing a fresh take on the genre that brought melody and groove in equal measure to many of their …"
-    },
-    {
-      "id": "a993960948dc127e8627ad5e16a0b6d496ff420b",
-      "title": "Tresor Records reissues Scan 7’s 1999 album, Resurfaced.",
-      "link": "https://www.decodedmagazine.com/tresor-records-reissues-scan-7s-1999-album-resurfaced/",
-      "published": "2026-02-11T07:40:38.000Z",
-      "publishedTs": 1770795638000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Detroit techno",
-        "Scan 7",
-        "Techno",
-        "Tresor Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
-      "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
     },
     {
       "id": "8ec23a928637fa0be6d05c08546dcc4821562be1",
@@ -97,83 +68,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Karnivool-In-Verses.jpg",
       "excerpt": "En 2013, los australianos lanzaron su tercer álbum de estudio, “Asymmetry”, después de haber presentado en 2010 su obra maestra... La entrada In Verses se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "af5058316e6e0ee50717239ca65c61bf3e211632",
-      "title": "FVTVR welcomes Detroit Love back to Paris",
-      "link": "https://www.decodedmagazine.com/fvtvr-welcomes-detroit-love-back-to-paris/",
-      "published": "2026-02-10T11:30:05.000Z",
-      "publishedTs": 1770723005000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Carl Craig",
-        "Detroit",
-        "FVTVR",
-        "Juan Atkins",
-        "Mike Banks",
-        "Paris",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/FVTVR-DETROIT_LOVE3-edited-scaled.png?resize=675%2C1200&ssl=1",
-      "excerpt": "FVTVR welcomes Detroit Love back to Paris on Saturday, 9th May 2026. The Parisian venue becomes the home of this internationally recognised Techno brand, offering an immersive journey across 12 hours, two floors, and four rooms. It is a …"
-    },
-    {
-      "id": "dac2debc83dda3edbaa2e6becbeb0a0023a3060d",
-      "title": "Wild Wood Festival celebrates its 10 year anniversary this summer",
-      "link": "https://www.decodedmagazine.com/wild-wood-festival-celebrates-its-10-year-anniversary-this-summer/",
-      "published": "2026-02-10T10:02:50.000Z",
-      "publishedTs": 1770717770000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Electronica",
-        "Festival",
-        "House Music",
-        "South Cambridgeshire",
-        "Techno",
-        "Wild Wood festival"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20_Wild-Wood-J-Fenna.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Wild Wood Festival returns this summer on the 19 &#8211; 21 June 2026, marking the 10 year anniversary of being an independent, community-led festival in the enchanted woodlands of South Cambridgeshire. Today marks the launch of the full…"
-    },
-    {
-      "id": "becce3147e1e92df66152bb0aae021748e36eeb9",
-      "title": "Producer and visual artist A. Whales presents the first new single – ‘Commuter’  from a forthcoming album",
-      "link": "https://www.decodedmagazine.com/producer-and-visual-artist-a-whales-presents-the-first-new-single-commuter-from-a-forthcoming-album/",
-      "published": "2026-02-10T09:29:45.000Z",
-      "publishedTs": 1770715785000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/A.Whales-press-pic-scaled-e1770715686221.jpg",
-      "excerpt": "Commuter by A. Whales Producer and visual artist A. Whales presents the first new single &#8211; ‘Commuter’ from a forthcoming album, and it’s a glorious mix of dreamy ambient electronica, creating a fluid and immersive soundscape like a…"
-    },
-    {
-      "id": "4ffd5a96e6075eb5fdef7677944780e649e6cd33",
-      "title": "Record Store Day: A Celebration of Independent Culture or Major Label Marketing?",
-      "link": "https://www.decodedmagazine.com/record-store-day-a-celebration-of-independent-culture-or-major-label-marketing/",
-      "published": "2026-02-10T03:55:29.000Z",
-      "publishedTs": 1770695729000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Independant Record Stores",
-        "Music Industry",
-        "Record Store Day",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
     },
     {
       "id": "e70dbc168125c14d366a023cd0bd14cf2e5a9f50",
@@ -232,68 +126,6 @@
       "excerpt": "Uno podría pensar que, en el panorama de la música electrónica, solo caben la diversión, la superficialidad y el hedonismo.... La entrada Alabatre se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
-      "title": "Inside The World’s Biggest Vinyl Factory Making 70 Million Records A Year",
-      "link": "https://www.decodedmagazine.com/inside-the-worlds-biggest-vinyl-factory-making-70-million-records-a-year/",
-      "published": "2026-02-09T04:12:19.000Z",
-      "publishedTs": 1770610339000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Buisness Insider",
-        "GZ media",
-        "Manufacturing",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2020/10/Vinyl-records.jpg",
-      "excerpt": "The resurgence of vinyl over the past decade has been well documented, but the sheer scale of production required to meet current demand remains largely invisible to most collectors and DJs. GZ Media, based in the Czech Republic, operate…"
-    },
-    {
-      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
-      "title": "Decoded is heading to Barcelona with MOSTRA Festival",
-      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
-      "published": "2026-02-09T04:00:44.000Z",
-      "publishedTs": 1770609644000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Festivals",
-        "Giveaways",
-        "Al Blayney",
-        "Angel Molina",
-        "Barcelona",
-        "Electronica",
-        "House Music",
-        "Lemont",
-        "Marylou",
-        "Melina Serser"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
-      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
-    },
-    {
-      "id": "bdb527275d341a5b0da6261fca2ad0353491d838",
-      "title": "Thievery Corporation’s Eric Hilton Signature Series Rotary Mixer",
-      "link": "https://www.decodedmagazine.com/thievery-corporations-eric-hilton-signature-series-rotary-mixer/",
-      "published": "2026-02-09T03:59:21.000Z",
-      "publishedTs": 1770609561000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "DJ Mixer",
-        "Eric Hilton",
-        "Rotary mixer",
-        "Thievery Corporation"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Mixer-with-Signature.png?resize=810%2C744&ssl=1",
-      "excerpt": "When an artist who helped define downtempo and trip-hop turns his full attention to analog sound, the result is not branding—it’s an instrument. This collaboration brings together electronic music pioneer Eric Hilton of Thievery Corporat…"
-    },
-    {
       "id": "cac276bbf31e86359a010166832cf5074fed419f",
       "title": "Essam",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/imarham-essam/",
@@ -334,233 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Perra-Blanco-Lovers-Fears.jpg",
       "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada Lovers &#038; Fears se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
-      "title": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026",
-      "link": "https://www.decodedmagazine.com/godskitchen-returns-to-birmingham-on-bank-holiday-sunday-24th-may-2026/",
-      "published": "2026-02-05T10:07:15.000Z",
-      "publishedTs": 1770286035000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "AJ Gibson",
-        "Birmingham",
-        "Digbeth",
-        "Eddie Halliwell",
-        "Godskicthen",
-        "Jeremy Healy",
-        "John 00 Fleming",
-        "Lange",
-        "Lisa Lashes",
-        "Luna Springs",
-        "Marco V"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/251126_1MT_GK_Birmingham_8.png?resize=810%2C1013&ssl=1",
-      "excerpt": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026, with a full-scale day-and-night event that brings the brand back to the city where it all began. Spanning outdoor and indoor spaces across the Digbeth Triangle, the…"
-    },
-    {
-      "id": "6fac1be1942d0f8757af8d214e0fcbc98a76a1ff",
-      "title": "Tech Review – FabFilter Pro-C 3",
-      "link": "https://www.decodedmagazine.com/tech-review-fabfilter-pro-c-3/",
-      "published": "2026-02-05T09:49:40.000Z",
-      "publishedTs": 1770284980000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech Reviews",
-        "Compressor",
-        "DAW",
-        "Fabfilter",
-        "music production",
-        "plugin",
-        "Pro-C 3"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-11.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "FabFilter Pro-C 2 has been my default channel compressor for years, partly because it was dependable, and partly because its interface made it very easy to see what was actually happening to the sound. It was the tool you reached for whe…"
-    },
-    {
-      "id": "d5dc72cb3e2eaaab009d2c3dfbe0b11589ca64b2",
-      "title": "Throwback Thursday – Timeless at 30: Goldie’s Masterpiece Still Defines the Drum and Bass Blueprint",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-timeless-at-30-goldies-masterpiece-still-defines-the-drum-and-bass-blueprint/",
-      "published": "2026-02-05T08:20:32.000Z",
-      "publishedTs": 1770279632000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "90s",
-        "Drum and Bass",
-        "Goldie",
-        "Jungle",
-        "Metalheadz",
-        "Rave",
-        "Throwback Thursday",
-        "Timeless"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/goldie-scaled.jpg",
-      "excerpt": "By no means am I a diehard drum and bass devotee. I could never do a night of just DnB / Jungle. But growing up in the 90s, raving to a broad spectrum of tunes from techno to breakbeat to whatever the DJ felt like dropping that night, ce…"
-    },
-    {
-      "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
-      "title": "The Twilo reunion lands in the original West 27th Street room for a 25th anniversary Weekend",
-      "link": "https://www.decodedmagazine.com/the-twilo-reunion-lands-in-the-original-west-27th-street-room-for-a-25th-anniversary-weekend/",
-      "published": "2026-02-04T07:36:52.000Z",
-      "publishedTs": 1770190612000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Danny Tenaglia",
-        "House Music",
-        "John Digweed",
-        "NYC",
-        "Techno",
-        "Twilo"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/image.webp?resize=487%2C740&ssl=1",
-      "excerpt": "The pulse of an NYC golden era is finally coming home. Twenty-five years since the closing night of the Chelsea underground space that became the north star for music-first late-90s dance culture, Twilo Events brings the incomparable ene…"
-    },
-    {
-      "id": "acd6b4d88722ee7aaf2aa37c8c40f0de22f0b3d6",
-      "title": "Jeremy Olander Announces Debut Album When The Rain Falls",
-      "link": "https://www.decodedmagazine.com/jeremy-olander-announces-debut-album-when-the-rain-falls/",
-      "published": "2026-02-04T07:06:01.000Z",
-      "publishedTs": 1770188761000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "House Music",
-        "Jeremy Olander",
-        "Progressive House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeremy-Olander-credit-Jonas-Dyrsmeds.jpg",
-      "excerpt": "Jeremy Olander&nbsp;announces his long-awaited&nbsp;debut album&nbsp; When The Rain Falls , marking a defining new chapter in his esteemed career. Set for release on&nbsp;March 13 via his imprint Vivrant, the album stands as a deeply per…"
-    },
-    {
-      "id": "d37e5f1b291e25c8874e88da55411ce7989a744b",
-      "title": "Brooklyn Mirage rebrands as Pacha New York under new management",
-      "link": "https://www.decodedmagazine.com/brooklyn-mirage-rebrands-as-pacha-new-york-under-new-management/",
-      "published": "2026-02-04T06:59:59.000Z",
-      "publishedTs": 1770188399000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Avant Gardner",
-        "Brookly Mirage",
-        "Five Holdings",
-        "NYC",
-        "Pacha"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Pacha-NYC.png",
-      "excerpt": "The Brooklyn Mirage in East Williamsburg will reopen in June 2026 as Pacha New York, following a year of significant operational and financial difficulties that saw the venue remain closed throughout the entire 2025 season. FIVE Holdings…"
-    },
-    {
-      "id": "3577f5727b34aed59266ebc4d3cbfa95a96aec8d",
-      "title": "John Digweed Draws 35,000 to Free Pop-Up Party in Rosario, Argentina",
-      "link": "https://www.decodedmagazine.com/john-digweed-draws-35000-to-free-pop-up-party-in-rosario-argentina/",
-      "published": "2026-02-03T05:15:48.000Z",
-      "publishedTs": 1770095748000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Argentina",
-        "Free Party",
-        "John Digweed",
-        "Progressive House"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/GDR02558.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Last Friday (January 30th), with just 24 hours’ notice, John Digweed and the city of Rosario delivered a truly historic moment for electronic music in Argentina, performing a free pop-up party that drew over 35,000 people to the area sur…"
-    },
-    {
-      "id": "a8b5f08374e920ad2d7eca4636aba0c80e6c2e18",
-      "title": "The One-Hour Set Has Killed the Art of DJing",
-      "link": "https://www.decodedmagazine.com/the-one-hour-set-has-killed-the-art-of-djing/",
-      "published": "2026-02-03T04:55:26.000Z",
-      "publishedTs": 1770094526000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Clubs",
-        "festivals",
-        "Hernan Cattaneo",
-        "John Digweed",
-        "Long mixes",
-        "Nick Warren",
-        "Sasha",
-        "Warm up DJ"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
-      "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
-    },
-    {
-      "id": "4f72668696335f854ec2dfeb7505548b35c57535",
-      "title": "KVLTÖ Records releases Emerald Dreams by Orca Silent",
-      "link": "https://www.decodedmagazine.com/kvlto-records-releases-emerald-dreams-by-orca-silent/",
-      "published": "2026-02-02T04:21:23.000Z",
-      "publishedTs": 1770006083000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "deep house",
-        "Electronica",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1649427478_10.jpg",
-      "excerpt": "Emerald Dreams by Orca Silent KV077 has arrived in the hands of Orca Silent. From Canada, the artist debuts on KVLTÖ Records with &#8220;Emerald Dreams,&#8221; a 14-track album that journeys between magic, rhythm, and depth. Each piece h…"
-    },
-    {
-      "id": "17ac936f3a23a50d8bca0a39f9ebc14ba53a13f6",
-      "title": "Mikkel Metal makes a welcome return to Echocord with his new ‘Rebuild’ EP",
-      "link": "https://www.decodedmagazine.com/mikkel-metal-makes-a-welcome-return-to-echocord-with-his-new-rebuild-ep/",
-      "published": "2026-02-02T04:13:42.000Z",
-      "publishedTs": 1770005622000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "dub techno",
-        "Frenk Dublin",
-        "Luke Hess",
-        "Mikkel Metal",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/213509-mikkel-metal-rebuild-scaled.jpg",
-      "excerpt": "Rebuild by Mikkel Metal Copenhagen’s Mikkel Metal is a pioneering figure in dub-techno and minimal house, known for his atmospheric soundscapes and textured production. With acclaimed releases on Kompakt and Echocord, including Close Sel…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-02-01T07:51:44.000Z",
-      "publishedTs": 1769932304000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 FEBRUARY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enl…"
     },
     {
       "id": "87c50c67699bc8bde8ed2439e48cb91499296cb5",
