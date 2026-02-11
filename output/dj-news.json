@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T14:53:17.157Z",
+  "generatedAt": "2026-02-11T16:01:49.876Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f9a146041e081b8aa456dd723597f7c39a33aedb",
+      "title": "Crítica de 'Singin' to an Empty Chair', lo nuevo de Ratboys",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-singin-to-an-empty-chair-lo-nuevo-de-ratboys/",
+      "published": "2026-02-11T15:55:02.000Z",
+      "publishedTs": 1770825302000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Ratboys-Singin-to-an-Empty-Chair.jpg",
+      "excerpt": "El debut de un grupo suele ser muy significativo, eso es porque desde el momento en que una banda comienza... La entrada Crítica de &#039;Singin&#039; to an Empty Chair&#039;, lo nuevo de Ratboys se publicó primero en MondoSonoro ."
+    },
     {
       "id": "21cc4dd9659939732ddae3f1d9ab57cd975dd172",
       "title": "Urgh",
@@ -320,20 +334,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Rojo-Omega-Deseo-concedido.jpg",
       "excerpt": "Era 1996 cuando nacía este grupo del extrarradio madrileño bajo el nombre de uno de los enemigos de Lobezno en... La entrada Deseo concedido se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "649ec13da3aeb8ad837911520bf2e0296430cbf1",
-      "title": "Lovers & Fears",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-perra-blanco-lovers-fears/",
-      "published": "2026-02-06T10:53:21.000Z",
-      "publishedTs": 1770375201000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Perra-Blanco-Lovers-Fears.jpg",
-      "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada Lovers &#038; Fears se publicó primero en MondoSonoro ."
     },
     {
       "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
