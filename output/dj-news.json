@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T08:50:07.593Z",
+  "generatedAt": "2026-02-11T09:53:32.572Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "21cc4dd9659939732ddae3f1d9ab57cd975dd172",
+      "title": "Urgh",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mandy-indiana-urgh/",
+      "published": "2026-02-11T09:24:54.000Z",
+      "publishedTs": 1770801894000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mandy-Indiana-Urgh.jpg",
+      "excerpt": "En estos tiempos en los que el envoltorio (aka hastagh) es más relevante que nunca, una propuesta de cariz visceral... La entrada Urgh se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f61125925fa4bace49aec89710ab9251b8e83238",
       "title": "Get Physical Music co-founder Philipp Jung returns with a series of new remixes as part of an 11-track compilation",
@@ -320,20 +334,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Perra-Blanco-Lovers-Fears.jpg",
       "excerpt": "La evolución mostrada por la trayectoria de la compositora gaditana revela su mayor inclinación por el concepto “roll” que “rock”,... La entrada Lovers &#038; Fears se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6aaf05516f22a52dad836d56089b2754b9dd5d5e",
-      "title": "Stalker",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/erik-urano-stalker/",
-      "published": "2026-02-06T10:12:40.000Z",
-      "publishedTs": 1770372760000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Erik-Urano-Stalker.jpg",
-      "excerpt": "A finales de 2009 el grupo vallisoletano Urano Players se puso en órbita por primera vez con el álbum “Voyagers... La entrada Stalker se publicó primero en MondoSonoro ."
     },
     {
       "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
