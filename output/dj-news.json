@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T11:39:53.142Z",
+  "generatedAt": "2026-02-12T13:07:16.758Z",
   "total": 110,
   "sources": [
     {
@@ -562,6 +562,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/213509-mikkel-metal-rebuild-scaled.jpg",
       "excerpt": "Rebuild by Mikkel Metal Copenhagen’s Mikkel Metal is a pioneering figure in dub-techno and minimal house, known for his atmospheric soundscapes and textured production. With acclaimed releases on Kompakt and Echocord, including Close Sel…"
+    },
+    {
+      "id": "4c3e498571f5dc5314c1088ada064d307aa366b3",
+      "title": "New York’s ‘golden age’ of clubbing is reborn at Refuge",
+      "link": "https://mixmag.net/feature/refuge-nyc-new-york-city-audiophile-hi-def-nightclub-golden-age-no-way-back",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/selects-shot-by-%40sicoli.eth-31-copy.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=f6nbEE87aoLnYTJDVHq2nAWG__xVaG_XUdgdVc-v_VE",
+      "excerpt": "At Brooklyn’s “hi-def dance club” Refuge, two mainstays of New York nightlife have joined forces to execute their vision of the perfect club, building on the city’s mighty legacy and carrying that inspiration forward into the future. Pat…"
+    },
+    {
+      "id": "5ed95ec6276a5e0e8d1d3b6f5e777351f80a89f9",
+      "title": "Deadmau5 slams artist using his likeness in AI-generated video: “Scary as fuck”",
+      "link": "https://mixmag.net/read/deadmau5-slams-artist-using-likeness-ai-generated-video-deepfake-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/deadmau5-deepfake.jpg?width=660&fit=cover&s=TXXxn9-w3P_8bJQONdd0JTDiEHiL3fXsM95rAfTciOk",
+      "excerpt": "The Canadian DJ said that an artist deepfaked his image to promote their own music Continue reading..."
+    },
+    {
+      "id": "37113566e5c2dc4ceb016cb867dbb06ad1c6a31b",
+      "title": "Free parties now make up 15% of all UK dance music events, report finds",
+      "link": "https://mixmag.net/read/free-parties-now-make-up-15-of-all-uk-dance-music-events-report-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/free-party-credit-alereportage.jpg?width=660&fit=cover&s=5Vx41XaReITlHhD2talvgRYTIACpCstIum-_TOKTSn0",
+      "excerpt": "While nightclub attendance is on the decline, interest in dance music is “not declining” — with unlicensed events growing by 34% last year Continue reading..."
     },
     {
       "id": "6f084331cde629af535fadec68c3b8c642ac5d53",
@@ -1486,42 +1522,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berlin-documentary.jpg?width=660&fit=cover&s=Pa0I0UHFfAahRQ7nqSw3GIkYMfzqDN0jVJLMZlPuhCY",
       "excerpt": "‘Danced Out?’ explores the “increasing pressure” on the German capital&#039;s world-famous nightlife scene Continue reading..."
-    },
-    {
-      "id": "eac93180ffa97ab17d340a9f98b627725349375d",
-      "title": "More than half of UK grassroots music venues failed to make a profit in 2025",
-      "link": "https://mixmag.net/read/more-than-half-uk-grassroots-music-venues-failed-make-profit-2025-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mvt-grassroots.jpg?width=660&fit=cover&s=j1Bj1VotTw59txPRrE2U6VlRfL1UmcLAeMJzUAOlyKA",
-      "excerpt": "Despite the figures, Music Venue Trust’s report did find that GMVs saw the lowest rate of decline since 2018 last year Continue reading..."
-    },
-    {
-      "id": "9d1d6fd10181cabee34a134049c61e02bf5205ea",
-      "title": "Berlin's Renate to hold \"soft reopening\" this month",
-      "link": "https://mixmag.net/read/berlins-renate-to-hold-soft-reopening-this-month-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Renate-d.png?width=660&fit=cover&s=qRaiA64Yp86_rInHVGSi8o4XgB4Q26g9aa5bsI4Eolw",
-      "excerpt": "The long-running nightclub confirmed it will relaunch this year after securing an extension on its lease Continue reading..."
-    },
-    {
-      "id": "7e814bfc16e3ae8e22df7c5e05befc87f9d890f2",
-      "title": "Mural planned honouring legendary Stoke-on-Trent nightclubs and DJs",
-      "link": "https://mixmag.net/read/mural-planned-honouring-legendary-stoke-on-trent-nightclubs-djs-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shelleys-BR.png?width=660&fit=cover&s=O-pmrs5fdvMvnzxA1KjUij1jx6Ihn2vrxqUe19VWPfA",
-      "excerpt": "&quot;No disrespect to Rochdale but Stoke-on-Trent has given so much to the world” Continue reading..."
     }
   ]
 }
