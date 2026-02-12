@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T09:51:13.282Z",
+  "generatedAt": "2026-02-12T10:45:10.517Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "010ec7933d7afb35e5e86800428e99c126a3fdf7",
+      "title": "My Heart Is A Room With No Cameras In It",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/victoryland-my-heart-is-a-room/",
+      "published": "2026-02-12T10:23:52.000Z",
+      "publishedTs": 1770891832000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Victoryland-My-Heart-Is-A-Room.jpg",
+      "excerpt": "Cuando aún colea ese “Getting Killed” (Partisan, 25) de Geese como uno de los mejores discos de la pasada campaña,... La entrada My Heart Is A Room With No Cameras In It se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "393d26d22aea1b7ee3b783a8bbc35a6858ae8a65",
+      "title": "El último jardín",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/marc-aliana-el-ultimo-jardin/",
+      "published": "2026-02-12T09:58:09.000Z",
+      "publishedTs": 1770890289000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Marc-Aliana-El-ultimo-jardin.jpg",
+      "excerpt": "En su larga y contundente carrera en la música, Marc Aliana, original de Barcelona, con pasado en California, ha recorrido... La entrada El último jardín se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f929138d9631c83330d3b3a18365f62ec1261076",
       "title": "Before Pioneer Ruled the Booth, There Was the Denon DN-2000F",
@@ -330,34 +358,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Mixer-with-Signature.png?resize=810%2C744&ssl=1",
       "excerpt": "When an artist who helped define downtempo and trip-hop turns his full attention to analog sound, the result is not branding—it’s an instrument. This collaboration brings together electronic music pioneer Eric Hilton of Thievery Corporat…"
-    },
-    {
-      "id": "cac276bbf31e86359a010166832cf5074fed419f",
-      "title": "Essam",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/imarham-essam/",
-      "published": "2026-02-07T07:46:26.000Z",
-      "publishedTs": 1770450386000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/imarham-Essam.jpg",
-      "excerpt": "Tras su absorción sensorial, “Essam”, el nuevo y cuarto disco de Imarhan, representará una nueva oportunidad para utilizar la música... La entrada Essam se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "05736a925e296107e2cbf1c14d549567a2fc3dcb",
-      "title": "Deseo concedido",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/rojo-omega-deseo-concedido/",
-      "published": "2026-02-07T07:37:31.000Z",
-      "publishedTs": 1770449851000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Rojo-Omega-Deseo-concedido.jpg",
-      "excerpt": "Era 1996 cuando nacía este grupo del extrarradio madrileño bajo el nombre de uno de los enemigos de Lobezno en... La entrada Deseo concedido se publicó primero en MondoSonoro ."
     },
     {
       "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
