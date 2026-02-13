@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T14:05:58.863Z",
+  "generatedAt": "2026-02-13T15:43:12.465Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "199e5c7e23af974af2ea8221cb54bdecc0abab04",
+      "title": "Hasta mañanita si Dios quiere",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/faenna-hasta-mananita/",
+      "published": "2026-02-13T14:18:12.000Z",
+      "publishedTs": 1770992292000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Faenna-Hasta-mananita.jpg",
+      "excerpt": "Hace algo más de 3 años con la publicación del oneshot “Papeles y Mechero” Julia González entró como cuchillo en... La entrada Hasta mañanita si Dios quiere se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9b3264fe5582ee0b280968bc11082e17cd59a290",
       "title": "New immersive experience – The Intelligence Garden",
@@ -316,20 +330,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Slimfit.jpg",
       "excerpt": "El título lo dice absolutamente todo: “Punto de inflexión”. Este EP de cuatro canciones supone casi un nuevo comienzo para... La entrada Punto de inflexión se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c5d30aab94ca90ae82abd14ff742b2072c8b3cd0",
-      "title": "Ruinas de Interior (1995-2025)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/santi-campos-ruinas-de-interior/",
-      "published": "2026-02-09T09:05:09.000Z",
-      "publishedTs": 1770627909000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/santi-campor-ruinas-de-interior.jpg",
-      "excerpt": "El segoviano (que no castellonense) Santi Campos, siempre ha tenido algo de kamikaze. Y, por qué no decirlo también, algo... La entrada Ruinas de Interior (1995-2025) se publicó primero en MondoSonoro ."
     },
     {
       "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
@@ -1493,7 +1493,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/London-footwork-credit-Yushy.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=Akd6AVBma7eTF8ZYSsC1gBZqD7NBF5jEHAVN67hRHyY",
+      "image": "",
       "excerpt": "The originators of Chicago footwork rewired and dominated local dancefloors — then together, they moved the world. Tracy Kawalik explores the unshakable legacy and unifying power of Chicago footwork with the master architects who carved …"
     },
     {
