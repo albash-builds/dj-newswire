@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T11:31:47.599Z",
+  "generatedAt": "2026-02-13T12:59:24.046Z",
   "total": 110,
   "sources": [
     {
@@ -559,6 +559,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
       "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
+    },
+    {
+      "id": "2af6e3b8579aa404fb4ab2198eaeec7c1d5d9f98",
+      "title": "Newly opened Dublin hotel seeks injunction against late-night venue over noise complaints",
+      "link": "https://mixmag.net/read/newly-reopened-dublin-hotel-seeks-injuction-against-late-night-venue-over-noise-complaints-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Dublin.png?width=660&fit=cover&s=58hcPRum36MCGJ-k87yFUOFZcfpkYr3lPgpjlGp8ypk",
+      "excerpt": "The Hoxton, which reopened in November after a four-year renovation, claims it has had to close 31 of its 129 rooms due to noise Continue reading..."
+    },
+    {
+      "id": "847527cdf5862d90afe9e2f35f7b3c96258b163a",
+      "title": "Women received less than a quarter of all GRAMMY Awards in 2026, report finds",
+      "link": "https://mixmag.net/read/women-received-less-than-a-quarter-of-all-grammy-awards-in-2026-report-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/grammys_2026-02-13-122936_ibon.jpg?width=660&fit=cover&s=WxBYiwtKcqH_sDN_d6iMbu0n_cw3GeS-9KUnI1xM7zc",
+      "excerpt": "The report also points to a decline in the number of nominations for female artists year-on-year Continue reading..."
     },
     {
       "id": "e3a78a8d09301b3b2f5e90f8d6073ae68f52e3c8",
@@ -1495,30 +1519,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-credit-aj-collins.jpg?width=660&fit=cover&s=5UzSmTCG8UdPrLPZ31H0I8ZJw4mi9mBN0XZdfZxb8Lg",
       "excerpt": "The report claims that the nightlife economy is the “most undervalued asset class in culture” Continue reading..."
-    },
-    {
-      "id": "fbc131de939c07e1034fea728647a7ce133ed2b2",
-      "title": "SHERELLE announces SHERELLELAND grassroots music venue tour",
-      "link": "https://mixmag.net/read/sherelle-announces-sherelleland-grassroots-musc-venue-tour-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHERELLE.png?width=660&fit=cover&s=fda-WNBSIWsH4w6T21JPITfgFDRbqFKuHzW2BAVhEtE",
-      "excerpt": "Working alongside Save Our Scene and the Music Venue Trust, SHERELLE will host affordable shows in Blackpool, Exeter, Sheffield, and more Continue reading..."
-    },
-    {
-      "id": "82902cb3f313de986ee5923c2423db7a19ec44fd",
-      "title": "Amnesia Ibiza shares opening party line-up for 50th birthday season",
-      "link": "https://mixmag.net/read/amnesia-ibiza-shares-opening-party-line-up-for-50th-birthday-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-Closing-25-JA-126.jpg?width=660&fit=cover&s=owa-mzWAlq3nkWbu5j_LpbthsfC7L7smx6arif-xlV4",
-      "excerpt": "The legendary White Isle nightclub will welcome Max Dean, Josh Baker, Seth Troxler, and more for its opening party this May Continue reading..."
     }
   ]
 }
