@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T08:41:58.040Z",
+  "generatedAt": "2026-02-13T09:43:36.275Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,40 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9b3264fe5582ee0b280968bc11082e17cd59a290",
+      "title": "New immersive experience – The Intelligence Garden",
+      "link": "https://www.decodedmagazine.com/new-immersive-experience-the-intelligence-garden/",
+      "published": "2026-02-13T09:30:53.000Z",
+      "publishedTs": 1770975053000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "London",
+        "Outernet"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Outernet-INTELLIGENCE-GARDEN-5.png?resize=810%2C540&ssl=1",
+      "excerpt": "Following the success of the multi-sensory masterpiece The Summer Palace , acclaimed digital artist Agustín Vidal Saavedra returns to Outernet today with his most ambitious project to date: The Intelligence Garden. Through spectacular vi…"
+    },
+    {
+      "id": "73bed83d277f533b410b8d46504ec7021f262868",
+      "title": "London’s PRESTi lands on Shall Not Fade’s Time is Now imprint",
+      "link": "https://www.decodedmagazine.com/londons-presti-lands-on-shall-not-fades-time-is-now-imprint/",
+      "published": "2026-02-13T08:50:54.000Z",
+      "publishedTs": 1770972654000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Breakbeat",
+        "PRESTi",
+        "Shall Not Fade",
+        "UKG"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a2060270747_10.jpg",
+      "excerpt": "TIN077 by PRESTi London&#8217;s PRESTi lands on Shall Not Fade&#8217;s Time is Now imprint with four dancefloor weapons that feel like they forked from the hardcore continuum at the point El-B, Horsepower and Artwork&#8217;s dark garage …"
+    },
     {
       "id": "e0cef0312f28dc75034d4a35c6a523a3d8c3efb1",
       "title": "Crítica de 'Cold to the Touch', el nuevo disco de Angel Du$t",
@@ -525,43 +559,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
       "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
-    },
-    {
-      "id": "4f72668696335f854ec2dfeb7505548b35c57535",
-      "title": "KVLTÖ Records releases Emerald Dreams by Orca Silent",
-      "link": "https://www.decodedmagazine.com/kvlto-records-releases-emerald-dreams-by-orca-silent/",
-      "published": "2026-02-02T04:21:23.000Z",
-      "publishedTs": 1770006083000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "deep house",
-        "Electronica",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1649427478_10.jpg",
-      "excerpt": "Emerald Dreams by Orca Silent KV077 has arrived in the hands of Orca Silent. From Canada, the artist debuts on KVLTÖ Records with &#8220;Emerald Dreams,&#8221; a 14-track album that journeys between magic, rhythm, and depth. Each piece h…"
-    },
-    {
-      "id": "17ac936f3a23a50d8bca0a39f9ebc14ba53a13f6",
-      "title": "Mikkel Metal makes a welcome return to Echocord with his new ‘Rebuild’ EP",
-      "link": "https://www.decodedmagazine.com/mikkel-metal-makes-a-welcome-return-to-echocord-with-his-new-rebuild-ep/",
-      "published": "2026-02-02T04:13:42.000Z",
-      "publishedTs": 1770005622000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "dub techno",
-        "Frenk Dublin",
-        "Luke Hess",
-        "Mikkel Metal",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/213509-mikkel-metal-rebuild-scaled.jpg",
-      "excerpt": "Rebuild by Mikkel Metal Copenhagen’s Mikkel Metal is a pioneering figure in dub-techno and minimal house, known for his atmospheric soundscapes and textured production. With acclaimed releases on Kompakt and Echocord, including Close Sel…"
     },
     {
       "id": "e3a78a8d09301b3b2f5e90f8d6073ae68f52e3c8",
