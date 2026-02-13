@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-13T07:11:13.609Z",
+  "generatedAt": "2026-02-13T08:41:58.040Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e0cef0312f28dc75034d4a35c6a523a3d8c3efb1",
+      "title": "Crítica de 'Cold to the Touch', el nuevo disco de Angel Du$t",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/angel-dut-cold-to-the-touch/",
+      "published": "2026-02-13T07:15:49.000Z",
+      "publishedTs": 1770966949000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/ANGEL-DUT-Cold-to-the-Touch.jpg",
+      "excerpt": "Al igual que muchos descubrimos un montón de bandas a través de las camisetas de Kurt Cobain, el fenómeno Turnstile debería... La entrada Crítica de &#039;Cold to the Touch&#039;, el nuevo disco de Angel Du$t se publicó primero en MondoS…"
+    },
     {
       "id": "010ec7933d7afb35e5e86800428e99c126a3fdf7",
       "title": "My Heart Is A Room With No Cameras In It",
@@ -282,20 +296,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/santi-campor-ruinas-de-interior.jpg",
       "excerpt": "El segoviano (que no castellonense) Santi Campos, siempre ha tenido algo de kamikaze. Y, por qué no decirlo también, algo... La entrada Ruinas de Interior (1995-2025) se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "38d3ea454f24e719a7a8535f00ca9a04ac93bbdb",
-      "title": "Alabatre",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-xica-alabatre/",
-      "published": "2026-02-09T08:14:24.000Z",
-      "publishedTs": 1770624864000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/LA-XICA-Alabatre.jpg",
-      "excerpt": "Uno podría pensar que, en el panorama de la música electrónica, solo caben la diversión, la superficialidad y el hedonismo.... La entrada Alabatre se publicó primero en MondoSonoro ."
     },
     {
       "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
