@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T05:43:59.034Z",
+  "generatedAt": "2026-02-14T06:43:51.883Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
+      "title": "Mix of the Month January 2026 Winner – Crowley",
+      "link": "https://www.decodedmagazine.com/mix-of-the-month-january-2026-winner-crowley/",
+      "published": "2026-02-14T05:48:29.000Z",
+      "publishedTs": 1771048109000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "Mixes",
+        "Australia",
+        "breaks",
+        "Canberra",
+        "Crowley",
+        "DJ Competition",
+        "Electro",
+        "Mix of the Month",
+        "Progressive",
+        "Progressive Breaks"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Crowley-Press-Shot-scaled-e1771047647111.jpg",
+      "excerpt": "Decoded Magazine · Mix of the Month Winner January 2026 &#8211; Crowley Our first Mix of the Month winner for 2026 comes from the Australian capital. Crowley , a Progressive House, Breaks and Tech DJ from Canberra, takes the January spot…"
+    },
     {
       "id": "199e5c7e23af974af2ea8221cb54bdecc0abab04",
       "title": "Hasta mañanita si Dios quiere",
@@ -536,29 +561,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/GDR02558.jpg?resize=810%2C456&ssl=1",
       "excerpt": "Last Friday (January 30th), with just 24 hours’ notice, John Digweed and the city of Rosario delivered a truly historic moment for electronic music in Argentina, performing a free pop-up party that drew over 35,000 people to the area sur…"
-    },
-    {
-      "id": "a8b5f08374e920ad2d7eca4636aba0c80e6c2e18",
-      "title": "The One-Hour Set Has Killed the Art of DJing",
-      "link": "https://www.decodedmagazine.com/the-one-hour-set-has-killed-the-art-of-djing/",
-      "published": "2026-02-03T04:55:26.000Z",
-      "publishedTs": 1770094526000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Clubs",
-        "festivals",
-        "Hernan Cattaneo",
-        "John Digweed",
-        "Long mixes",
-        "Nick Warren",
-        "Sasha",
-        "Warm up DJ"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Nick-Warren-and-Hernan-Cattaneo.jpg?resize=810%2C541&ssl=1",
-      "excerpt": "If we could pinpoint our experience of DJ culture over the years; it would start with the clock. Specifically, the relentless tyranny of the one-hour slot that has become the industry standard at clubs and festivals worldwide. We&#8217;v…"
     },
     {
       "id": "2af6e3b8579aa404fb4ab2198eaeec7c1d5d9f98",
