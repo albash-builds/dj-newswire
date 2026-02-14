@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T09:30:54.526Z",
+  "generatedAt": "2026-02-14T10:26:39.308Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "adad2d332b4b9246c12ab5136a4017b397cc09e9",
+      "title": "Crítica de 'Cerulean', lo nuevo de Danny L Harle",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/danny-l-harle-cerulean/",
+      "published": "2026-02-14T07:05:14.000Z",
+      "publishedTs": 1771052714000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Danny-L-Harle-Cerulean.jpg",
+      "excerpt": "Bajo el signo de una sociedad que mira de suspicaz reojo los avances tecnológicos dentro de la música presente, el... La entrada Crítica de &#039;Cerulean&#039;, lo nuevo de Danny L Harle se publicó primero en MondoSonoro ."
+    },
     {
       "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
       "title": "Mix of the Month January 2026 Winner – Crowley",
@@ -95,7 +109,7 @@
     },
     {
       "id": "e0cef0312f28dc75034d4a35c6a523a3d8c3efb1",
-      "title": "Crítica de 'COLD 2 THE TOUCH', el nuevo disco de Angel Du$t",
+      "title": "COLD 2 THE TOUCH",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/angel-dut-cold-to-the-touch/",
       "published": "2026-02-13T07:15:49.000Z",
       "publishedTs": 1770966949000,
@@ -105,7 +119,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/ANGEL-DUT-Cold-to-the-Touch.jpg",
-      "excerpt": "Al igual que muchos descubrimos un montón de bandas a través de las camisetas de Kurt Cobain, el fenómeno Turnstile debería... La entrada Crítica de &#039;COLD 2 THE TOUCH&#039;, el nuevo disco de Angel Du$t se publicó primero en MondoSo…"
+      "excerpt": "Al igual que muchos descubrimos un montón de bandas a través de las camisetas de Kurt Cobain, el fenómeno Turnstile debería... La entrada COLD 2 THE TOUCH se publicó primero en MondoSonoro ."
     },
     {
       "id": "010ec7933d7afb35e5e86800428e99c126a3fdf7",
@@ -343,20 +357,6 @@
       "excerpt": "Análogamente a la existencia del yin existe un yang, del día una noche, de la materia una antimateria, del Sherlock... La entrada Electrónica Simpática se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6529177b4c0146c358d34932fe83b249e49b86e4",
-      "title": "Punto de inflexión",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/slimfit-punto-de-inflexion/",
-      "published": "2026-02-09T10:20:23.000Z",
-      "publishedTs": 1770632423000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Slimfit.jpg",
-      "excerpt": "El título lo dice absolutamente todo: “Punto de inflexión”. Este EP de cuatro canciones supone casi un nuevo comienzo para... La entrada Punto de inflexión se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
       "title": "Inside The World’s Biggest Vinyl Factory Making 70 Million Records A Year",
       "link": "https://www.decodedmagazine.com/inside-the-worlds-biggest-vinyl-factory-making-70-million-records-a-year/",
@@ -561,6 +561,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/GDR02558.jpg?resize=810%2C456&ssl=1",
       "excerpt": "Last Friday (January 30th), with just 24 hours’ notice, John Digweed and the city of Rosario delivered a truly historic moment for electronic music in Argentina, performing a free pop-up party that drew over 35,000 people to the area sur…"
+    },
+    {
+      "id": "25deab3c00ae899f18916037bd345813ccd60703",
+      "title": "Music tech you might have missed: Behringer BMX, ATGR DJ Touch, RANE SYSTEM ONE",
+      "link": "https://mixmag.net/read/tech-releases-you-might-have-missed-behringer-bmx-atgr-dj-touch-rane-system-one-tech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shedsenag.png?width=660&fit=cover&s=joBEkAKNjRDTESX17y99o9eJv-2kwMr5gMZDeD45rFc",
+      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     },
     {
       "id": "2af6e3b8579aa404fb4ab2198eaeec7c1d5d9f98",
@@ -1509,18 +1521,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Theo-Batterham.png?width=660&fit=cover&s=WHxuuyApgsK7a69l9iVzFLwizOQtVDDeybGrsHkPZr0",
       "excerpt": "‘Boris Acket - Secret Life Exhibition’ will take over Queens&#039; East End Studios today Continue reading..."
-    },
-    {
-      "id": "91fd7c06b8800f7354b3089397c16a7b24c39010",
-      "title": "Nightlife contributes £112 billion to UK economy annually, new report reveals",
-      "link": "https://mixmag.net/read/nightlife-contributes-112-billion-uk-economy-annually-new-report-reveals-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-credit-aj-collins.jpg?width=660&fit=cover&s=5UzSmTCG8UdPrLPZ31H0I8ZJw4mi9mBN0XZdfZxb8Lg",
-      "excerpt": "The report claims that the nightlife economy is the “most undervalued asset class in culture” Continue reading..."
     }
   ]
 }
