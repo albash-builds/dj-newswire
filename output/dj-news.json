@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-15T07:38:26.260Z",
+  "generatedAt": "2026-02-15T08:33:33.898Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "cfb18f3d6211175e0ef2ab144b9828ae725e3c2c",
+      "title": "Crítica de 'Normal Isn’t', el nuevo trabajo de Puscifer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-normal-isnt-el-nuevo-trabajo-de-puscifer/",
+      "published": "2026-02-15T08:05:21.000Z",
+      "publishedTs": 1771142721000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/PUSCIFER-Normal-Isnt.jpg",
+      "excerpt": "El proyecto paralelo del vocalista Maynard James Keenan (Tool, A Perfect Circle) estrena su quinto álbum de estudio, rompiendo así... La entrada Crítica de &#039;Normal Isn’t&#039;, el nuevo trabajo de Puscifer se publicó primero en Mond…"
+    },
     {
       "id": "adad2d332b4b9246c12ab5136a4017b397cc09e9",
       "title": "Crítica de 'Cerulean', lo nuevo de Danny L Harle",
@@ -341,20 +355,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
       "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
-    },
-    {
-      "id": "e70dbc168125c14d366a023cd0bd14cf2e5a9f50",
-      "title": "Electrónica Simpática",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/encanto-electronica-simpatica/",
-      "published": "2026-02-09T16:29:17.000Z",
-      "publishedTs": 1770654557000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Encanto-Electronica-Simpatica-.jpg",
-      "excerpt": "Análogamente a la existencia del yin existe un yang, del día una noche, de la materia una antimateria, del Sherlock... La entrada Electrónica Simpática se publicó primero en MondoSonoro ."
     },
     {
       "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
