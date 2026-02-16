@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T16:43:06.554Z",
+  "generatedAt": "2026-02-16T17:37:25.543Z",
   "total": 110,
   "sources": [
     {
@@ -560,6 +560,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-11.jpg?resize=810%2C608&ssl=1",
       "excerpt": "FabFilter Pro-C 2 has been my default channel compressor for years, partly because it was dependable, and partly because its interface made it very easy to see what was actually happening to the sound. It was the tool you reached for whe…"
+    },
+    {
+      "id": "c0a9c2c9ff09b1c234c147731d8340bd0fad8cb2",
+      "title": "A dance music-focused theatre show ‘God Is A DJ’ is coming to the West End",
+      "link": "https://mixmag.net/read/dance-music-focused-theatre-show-god-is-a-dj-coming-london-west-end-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/musical-god-is-a-dj.jpg?width=660&fit=cover&s=06LAEGrTIPyqW4WAICorz_fLqd1ftFkCtev2uXN549I",
+      "excerpt": "The musical is currently in development, fusing “live DJ and band performances” with theatre production Continue reading..."
     },
     {
       "id": "b859212e69a12ad51e99fd17372142923b92a945",
@@ -1508,18 +1520,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tresor-west-x.png?width=660&fit=cover&s=EKyOWzKQaI9uXs9JyecQnbNtybhCshXQwO1uUp2ZWAo",
       "excerpt": "The Dortmund sister club to Berlin&#039;s Tresor confirmed the cap will apply &quot;regardless of music style, reach or name recognition&quot; Continue reading..."
-    },
-    {
-      "id": "2af0eb313e20e5f0a8d43cb6b19081779fc2b7b8",
-      "title": "Video series spotlighting UK record stores returns for 12-episode run",
-      "link": "https://mixmag.net/read/video-series-spotlighting-uk-record-stores-returns-12-episode-run-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/behind-the-counter.jpg?width=660&fit=cover&s=1ls2L9rRSHDVfPMUBLT744RUAGsCeCefhfAE-ebggBk",
-      "excerpt": "Each episode of Behind the Counter offers an &quot;intimate look&quot; at independent stores Continue reading..."
     }
   ]
 }
