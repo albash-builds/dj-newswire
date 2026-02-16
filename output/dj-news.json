@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T19:32:17.729Z",
+  "generatedAt": "2026-02-16T20:31:20.026Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5376dbf37581c30923e46d693869212721687bc2",
+      "title": "13:13:13",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mostaza-karizia-13-13-13/",
+      "published": "2026-02-16T19:46:31.000Z",
+      "publishedTs": 1771271191000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mostaza-karizia.jpg",
+      "excerpt": "\"13:13:13\" es el primer álbum del grupo donostiarra Mostaza Karizia que como bien dice el título, está compuesto por 13... La entrada 13:13:13 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "b23deeee7ea8ce164e6d3ab7fd8c0f20a8258184",
       "title": "Dreamer+",
@@ -325,20 +339,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Ratboys-Singin-to-an-Empty-Chair.jpg",
       "excerpt": "El debut de un grupo suele ser muy significativo, eso es porque desde el momento en que una banda comienza... La entrada Singin&#039; to an Empty Chair se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "21cc4dd9659939732ddae3f1d9ab57cd975dd172",
-      "title": "Urgh",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mandy-indiana-urgh/",
-      "published": "2026-02-11T09:24:54.000Z",
-      "publishedTs": 1770801894000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mandy-Indiana-Urgh.jpg",
-      "excerpt": "En estos tiempos en los que el envoltorio (aka hastagh) es más relevante que nunca, una propuesta de cariz visceral... La entrada Urgh se publicó primero en MondoSonoro ."
     },
     {
       "id": "f61125925fa4bace49aec89710ab9251b8e83238",
