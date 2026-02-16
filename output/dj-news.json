@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T09:54:23.254Z",
+  "generatedAt": "2026-02-16T10:51:16.575Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,46 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "cc7fa91177c962430f1a370adb35a6c1724fd67a",
+      "title": "Electronic Music Powers £2.47bn To The UK Economy",
+      "link": "https://www.decodedmagazine.com/electronic-music-powers-2-47bn-to-the-uk-economy/",
+      "published": "2026-02-16T10:45:09.000Z",
+      "publishedTs": 1771238709000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "festivals",
+        "Free parties",
+        "Music Industry",
+        "Nightclubs",
+        "Raves",
+        "record labels"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2022/08/@wearefestival-_-lukedeakin_-@lightfootagecy-89-scaled.jpg",
+      "excerpt": "New national report finds audiences growing and regional scenes surging &#8211; even as economic pressure accelerates club closures and hollows out the UK’s nightlife infrastructure. UK electronic music generated £2.47 billion in measura…"
+    },
+    {
+      "id": "654437e0f31151f305c42a6611e3353f96bce88b",
+      "title": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal",
+      "link": "https://www.decodedmagazine.com/parallel-society-announces-the-full-programme-for-its-2026-edition-in-lisbon-portugal/",
+      "published": "2026-02-16T10:27:51.000Z",
+      "publishedTs": 1771237671000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Conference",
+        "House Music",
+        "Lisbon",
+        "Parallel Society",
+        "Portugal",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20260211_FINAL-LINEUP-POSTERS_1-x-1.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal. Bringing together leading international and local pioneers across counter-culture, music, and civic technology. The two-day gathering takes place on …"
+    },
     {
       "id": "617319c07ca667d6954c5e4193adfd332fda29c2",
       "title": "God Is A DJ new musical in development",
@@ -523,43 +563,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/image.webp?resize=487%2C740&ssl=1",
       "excerpt": "The pulse of an NYC golden era is finally coming home. Twenty-five years since the closing night of the Chelsea underground space that became the north star for music-first late-90s dance culture, Twilo Events brings the incomparable ene…"
-    },
-    {
-      "id": "acd6b4d88722ee7aaf2aa37c8c40f0de22f0b3d6",
-      "title": "Jeremy Olander Announces Debut Album When The Rain Falls",
-      "link": "https://www.decodedmagazine.com/jeremy-olander-announces-debut-album-when-the-rain-falls/",
-      "published": "2026-02-04T07:06:01.000Z",
-      "publishedTs": 1770188761000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "House Music",
-        "Jeremy Olander",
-        "Progressive House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeremy-Olander-credit-Jonas-Dyrsmeds.jpg",
-      "excerpt": "Jeremy Olander&nbsp;announces his long-awaited&nbsp;debut album&nbsp; When The Rain Falls , marking a defining new chapter in his esteemed career. Set for release on&nbsp;March 13 via his imprint Vivrant, the album stands as a deeply per…"
-    },
-    {
-      "id": "d37e5f1b291e25c8874e88da55411ce7989a744b",
-      "title": "Brooklyn Mirage rebrands as Pacha New York under new management",
-      "link": "https://www.decodedmagazine.com/brooklyn-mirage-rebrands-as-pacha-new-york-under-new-management/",
-      "published": "2026-02-04T06:59:59.000Z",
-      "publishedTs": 1770188399000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Avant Gardner",
-        "Brookly Mirage",
-        "Five Holdings",
-        "NYC",
-        "Pacha"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Pacha-NYC.png",
-      "excerpt": "The Brooklyn Mirage in East Williamsburg will reopen in June 2026 as Pacha New York, following a year of significant operational and financial difficulties that saw the venue remain closed throughout the entire 2025 season. FIVE Holdings…"
     },
     {
       "id": "0cd3c8a9fa4711b6f544365ff6cb63025f1a400a",
