@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T08:48:34.364Z",
+  "generatedAt": "2026-02-16T09:54:23.254Z",
   "total": 110,
   "sources": [
     {
@@ -21,6 +21,37 @@
   "errors": [],
   "items": [
     {
+      "id": "617319c07ca667d6954c5e4193adfd332fda29c2",
+      "title": "God Is A DJ new musical in development",
+      "link": "https://www.decodedmagazine.com/god-is-a-dj-new-musical-in-development/",
+      "published": "2026-02-16T09:49:30.000Z",
+      "publishedTs": 1771235370000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "God is a DJ",
+        "Musical",
+        "theatre"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/What-is-a-Musical-Theater.webp",
+      "excerpt": "Well, we didn&#8217;t have this on our 2026 cards, but here we are&#8230;.. God Is A DJ, a brand new musical in development, is set to bring the world of DJs and club culture to the stage. Blending a live DJ, live band, and iconic dance …"
+    },
+    {
+      "id": "e251580b32a6dc26ada499a37e89c269c1805842",
+      "title": "Reseñamos 'Espejismo nº9', el esperado trabajo de 091",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/091-espejismo/",
+      "published": "2026-02-16T06:22:47.000Z",
+      "publishedTs": 1771222967000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/091-Espejismo.jpg",
+      "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Reseñamos &#039;Espejismo nº9&#039;, el esperado trabajo de 091 se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "cfb18f3d6211175e0ef2ab144b9828ae725e3c2c",
       "title": "Crítica de 'Normal Isn’t', el nuevo trabajo de Puscifer",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-normal-isnt-el-nuevo-trabajo-de-puscifer/",
@@ -36,7 +67,7 @@
     },
     {
       "id": "adad2d332b4b9246c12ab5136a4017b397cc09e9",
-      "title": "Crítica de 'Cerulean', lo nuevo de Danny L Harle",
+      "title": "Cerulean",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/danny-l-harle-cerulean/",
       "published": "2026-02-14T07:05:14.000Z",
       "publishedTs": 1771052714000,
@@ -46,7 +77,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Danny-L-Harle-Cerulean.jpg",
-      "excerpt": "Bajo el signo de una sociedad que mira de suspicaz reojo los avances tecnológicos dentro de la música presente, el... La entrada Crítica de &#039;Cerulean&#039;, lo nuevo de Danny L Harle se publicó primero en MondoSonoro ."
+      "excerpt": "Bajo el signo de una sociedad que mira de suspicaz reojo los avances tecnológicos dentro de la música presente, el... La entrada Cerulean se publicó primero en MondoSonoro ."
     },
     {
       "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
@@ -264,20 +295,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/la-nina-hilo.jpg",
       "excerpt": "La Niña Hilo vuelven desde Navarra con un luminoso y cuidado EP tras cuatro años de parón. El ahora dúo... La entrada Furia se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a34d95d3d094d6775301cb26dbe2a4be1a24aa17",
-      "title": "In Verses",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/karnivol-in-verses/",
-      "published": "2026-02-10T11:44:17.000Z",
-      "publishedTs": 1770723857000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Karnivool-In-Verses.jpg",
-      "excerpt": "En 2013, los australianos lanzaron su tercer álbum de estudio, “Asymmetry”, después de haber presentado en 2010 su obra maestra... La entrada In Verses se publicó primero en MondoSonoro ."
     },
     {
       "id": "af5058316e6e0ee50717239ca65c61bf3e211632",
@@ -543,24 +560,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Pacha-NYC.png",
       "excerpt": "The Brooklyn Mirage in East Williamsburg will reopen in June 2026 as Pacha New York, following a year of significant operational and financial difficulties that saw the venue remain closed throughout the entire 2025 season. FIVE Holdings…"
-    },
-    {
-      "id": "3577f5727b34aed59266ebc4d3cbfa95a96aec8d",
-      "title": "John Digweed Draws 35,000 to Free Pop-Up Party in Rosario, Argentina",
-      "link": "https://www.decodedmagazine.com/john-digweed-draws-35000-to-free-pop-up-party-in-rosario-argentina/",
-      "published": "2026-02-03T05:15:48.000Z",
-      "publishedTs": 1770095748000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Argentina",
-        "Free Party",
-        "John Digweed",
-        "Progressive House"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/GDR02558.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Last Friday (January 30th), with just 24 hours’ notice, John Digweed and the city of Rosario delivered a truly historic moment for electronic music in Argentina, performing a free pop-up party that drew over 35,000 people to the area sur…"
     },
     {
       "id": "0cd3c8a9fa4711b6f544365ff6cb63025f1a400a",
