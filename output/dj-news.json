@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T13:03:10.770Z",
+  "generatedAt": "2026-02-16T14:41:01.296Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d597b420290b479e562793942a5f49232d1ad07b",
+      "title": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream",
+      "link": "https://www.decodedmagazine.com/20-20-vision-founder-dj-ralph-lawson-is-set-to-take-on-a-marathon-20-hour-20-minute-dj-livestream/",
+      "published": "2026-02-16T13:10:32.000Z",
+      "publishedTs": 1771247432000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "20/20 Vision Recordings",
+        "Charity",
+        "GoFundMe",
+        "Live Streaming",
+        "Music Industry",
+        "Ralph Lawson",
+        "Warchild"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-12.jpg?resize=810%2C1013&ssl=1",
+      "excerpt": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream this Friday, 20th February from 2pm, raising funds for War Child supporting children caught up in conflicts around the world, including Gaz…"
+    },
     {
       "id": "19fe2e4d9b111e33e4c48e20a91f9f80ee513f08",
       "title": "Tour-Maubourg returns with a new 6-track EP, Dreams",
@@ -540,27 +562,16 @@
       "excerpt": "FabFilter Pro-C 2 has been my default channel compressor for years, partly because it was dependable, and partly because its interface made it very easy to see what was actually happening to the sound. It was the tool you reached for whe…"
     },
     {
-      "id": "d5dc72cb3e2eaaab009d2c3dfbe0b11589ca64b2",
-      "title": "Throwback Thursday – Timeless at 30: Goldie’s Masterpiece Still Defines the Drum and Bass Blueprint",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-timeless-at-30-goldies-masterpiece-still-defines-the-drum-and-bass-blueprint/",
-      "published": "2026-02-05T08:20:32.000Z",
-      "publishedTs": 1770279632000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "90s",
-        "Drum and Bass",
-        "Goldie",
-        "Jungle",
-        "Metalheadz",
-        "Rave",
-        "Throwback Thursday",
-        "Timeless"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/goldie-scaled.jpg",
-      "excerpt": "By no means am I a diehard drum and bass devotee. I could never do a night of just DnB / Jungle. But growing up in the 90s, raving to a broad spectrum of tunes from techno to breakbeat to whatever the DJ felt like dropping that night, ce…"
+      "id": "b859212e69a12ad51e99fd17372142923b92a945",
+      "title": "Tempio del Futuro Perduto claims “thousands” in damages as Winter Olympics forces closure",
+      "link": "https://mixmag.net/read/tempio-del-futuro-perduto-claims-thousands-in-damages-as-winter-olympics-forces-closure-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tempio-closure.jpg?width=660&fit=cover&s=LJ1oXO38GQIR7cYTsvZcL2vmDkNt2Qo43l8UF-NK9O4",
+      "excerpt": "The Milan venue said it was unwillingly made to close temporarily earlier this month for the opening ceremony Continue reading..."
     },
     {
       "id": "0cd3c8a9fa4711b6f544365ff6cb63025f1a400a",
@@ -1509,18 +1520,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/behind-the-counter.jpg?width=660&fit=cover&s=1ls2L9rRSHDVfPMUBLT744RUAGsCeCefhfAE-ebggBk",
       "excerpt": "Each episode of Behind the Counter offers an &quot;intimate look&quot; at independent stores Continue reading..."
-    },
-    {
-      "id": "3d750c20136adbfd778cfbb33e16ccdb8eab0548",
-      "title": "Barbican announces new late-night party series",
-      "link": "https://mixmag.net/read/barbican-announces-new-late-night-party-series-anyone-can-dance-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Barbican.png?width=660&fit=cover&s=HKT41xMcTWFDJn9HxZEsfnWvpVNnuUyYVR3n3AcHk_A",
-      "excerpt": "Kicking off next month with a takeover from Eastern Margins, the party series will consist of five events each running until 3:AM Continue reading..."
     }
   ]
 }
