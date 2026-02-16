@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T10:51:16.575Z",
+  "generatedAt": "2026-02-16T11:40:16.015Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "19fe2e4d9b111e33e4c48e20a91f9f80ee513f08",
+      "title": "Tour-Maubourg returns with a new 6-track EP, Dreams",
+      "link": "https://www.decodedmagazine.com/tour-maubourg-returns-with-a-new-6-track-ep-dreams/",
+      "published": "2026-02-16T11:02:01.000Z",
+      "publishedTs": 1771239721000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Noire &amp; Blanche",
+        "Soulful House",
+        "Tour-Maubourg"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/598874888_1560957848809935_1655849814182049242_n-scaled.jpg",
+      "excerpt": "Dreams EP by Tour-Maubourg Tour-Maubourg returns with a new 6-track EP, Dreams, further cementing his place as a key figure in today’s electronic music scene. Known for blending soulful house with rich jazz influences, the French-Belgian…"
+    },
     {
       "id": "cc7fa91177c962430f1a370adb35a6c1724fd67a",
       "title": "Electronic Music Powers £2.47bn To The UK Economy",
@@ -543,26 +561,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/goldie-scaled.jpg",
       "excerpt": "By no means am I a diehard drum and bass devotee. I could never do a night of just DnB / Jungle. But growing up in the 90s, raving to a broad spectrum of tunes from techno to breakbeat to whatever the DJ felt like dropping that night, ce…"
-    },
-    {
-      "id": "3634187d4e824f5b306abb885fbd5d0b80db8a63",
-      "title": "The Twilo reunion lands in the original West 27th Street room for a 25th anniversary Weekend",
-      "link": "https://www.decodedmagazine.com/the-twilo-reunion-lands-in-the-original-west-27th-street-room-for-a-25th-anniversary-weekend/",
-      "published": "2026-02-04T07:36:52.000Z",
-      "publishedTs": 1770190612000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Danny Tenaglia",
-        "House Music",
-        "John Digweed",
-        "NYC",
-        "Techno",
-        "Twilo"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/image.webp?resize=487%2C740&ssl=1",
-      "excerpt": "The pulse of an NYC golden era is finally coming home. Twenty-five years since the closing night of the Chelsea underground space that became the north star for music-first late-90s dance culture, Twilo Events brings the incomparable ene…"
     },
     {
       "id": "0cd3c8a9fa4711b6f544365ff6cb63025f1a400a",
