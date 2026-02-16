@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T15:40:20.049Z",
+  "generatedAt": "2026-02-16T16:43:06.554Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "b23deeee7ea8ce164e6d3ab7fd8c0f20a8258184",
+      "title": "Dreamer+",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sassy-009-dreamer/",
+      "published": "2026-02-16T16:36:59.000Z",
+      "publishedTs": 1771259819000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Sassy-009-Dreamer.jpg",
+      "excerpt": "Es muy probable que la música electrónica sea actualmente el último reducto para esa tradición perdida que son los discos... La entrada Dreamer+ se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d597b420290b479e562793942a5f49232d1ad07b",
       "title": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream",
@@ -361,20 +375,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
       "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
-    },
-    {
-      "id": "8ec23a928637fa0be6d05c08546dcc4821562be1",
-      "title": "Furia",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-nina-hilo-furia/",
-      "published": "2026-02-10T18:58:44.000Z",
-      "publishedTs": 1770749924000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/la-nina-hilo.jpg",
-      "excerpt": "La Niña Hilo vuelven desde Navarra con un luminoso y cuidado EP tras cuatro años de parón. El ahora dúo... La entrada Furia se publicó primero en MondoSonoro ."
     },
     {
       "id": "af5058316e6e0ee50717239ca65c61bf3e211632",
