@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-18T11:38:17.881Z",
+  "generatedAt": "2026-02-18T13:04:10.761Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,47 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2050ac3c81ec22b0f842c0df68487ff26eb10e0a",
+      "title": "Sydney’s underground institution enters a new chapter with a familiar face at the helm",
+      "link": "https://www.decodedmagazine.com/sydneys-underground-institution-enters-a-new-chapter-with-a-familiar-face-at-the-helm/",
+      "published": "2026-02-18T12:11:27.000Z",
+      "publishedTs": 1771416687000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Bryony Calleia",
+        "Chinese laundry",
+        "Clubbing",
+        "House Music",
+        "Merivale",
+        "Sydney",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Chinese-Laundry-14.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There are very few clubs in the world that can genuinely claim to have shaped a city&#8217;s musical identity. Chinese Laundry is one of them. Buried beneath the Slip Inn in Sydney&#8217;s CBD, in the sandstone basement of a building tha…"
+    },
+    {
+      "id": "2c0283806479189dd5eb5369314751f541caf54c",
+      "title": "Munich’s Blitz club announces closure",
+      "link": "https://www.decodedmagazine.com/munichs-blitz-club-announces-closure/",
+      "published": "2026-02-18T11:53:42.000Z",
+      "publishedTs": 1771415622000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Fashion",
+        "Germany",
+        "House Music",
+        "Nightclub",
+        "restaurant",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
+      "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
+    },
     {
       "id": "5376dbf37581c30923e46d693869212721687bc2",
       "title": "13:13:13",
@@ -516,50 +557,16 @@
       "excerpt": "When an artist who helped define downtempo and trip-hop turns his full attention to analog sound, the result is not branding—it’s an instrument. This collaboration brings together electronic music pioneer Eric Hilton of Thievery Corporat…"
     },
     {
-      "id": "8e7aa003ca34b2f65ce41a22f687c929e7ced27d",
-      "title": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026",
-      "link": "https://www.decodedmagazine.com/godskitchen-returns-to-birmingham-on-bank-holiday-sunday-24th-may-2026/",
-      "published": "2026-02-05T10:07:15.000Z",
-      "publishedTs": 1770286035000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "AJ Gibson",
-        "Birmingham",
-        "Digbeth",
-        "Eddie Halliwell",
-        "Godskicthen",
-        "Jeremy Healy",
-        "John 00 Fleming",
-        "Lange",
-        "Lisa Lashes",
-        "Luna Springs",
-        "Marco V"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/251126_1MT_GK_Birmingham_8.png?resize=810%2C1013&ssl=1",
-      "excerpt": "Godskitchen returns to Birmingham on Bank Holiday Sunday, 24th May 2026, with a full-scale day-and-night event that brings the brand back to the city where it all began. Spanning outdoor and indoor spaces across the Digbeth Triangle, the…"
-    },
-    {
-      "id": "6fac1be1942d0f8757af8d214e0fcbc98a76a1ff",
-      "title": "Tech Review – FabFilter Pro-C 3",
-      "link": "https://www.decodedmagazine.com/tech-review-fabfilter-pro-c-3/",
-      "published": "2026-02-05T09:49:40.000Z",
-      "publishedTs": 1770284980000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech Reviews",
-        "Compressor",
-        "DAW",
-        "Fabfilter",
-        "music production",
-        "plugin",
-        "Pro-C 3"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-11.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "FabFilter Pro-C 2 has been my default channel compressor for years, partly because it was dependable, and partly because its interface made it very easy to see what was actually happening to the sound. It was the tool you reached for whe…"
+      "id": "6d16d43a01b8b6d116e04c065de240273b1ade0b",
+      "title": "Electronic musician to represent the UK at Eurovision Song Contest 2026",
+      "link": "https://mixmag.net/read/electronic-musician-represent-uk-eurovision-song-contest-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/look-mum-no-computer.jpg?width=660&fit=cover&s=s6wfd86Rqyq0HWefRtvbYkW7ManpiG9N1nSmJFOfQw4",
+      "excerpt": "LOOK MUM NO COMPUTER, who experiments with synths and unusual instruments, will head on stage in Vienna this May Continue reading..."
     },
     {
       "id": "879dfb1d9165f8eb207b37affe1e263f5eb1e43b",
@@ -1508,18 +1515,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/swiss-nightlcub.png?width=660&fit=cover&s=hhCev2XH5_XyydxfyZTMhRhnbzRY0XjfOOQvwQIet1s",
       "excerpt": "40 people were killed and a further 100 injured as a result of the fire in Switzerland, which ripped through Le Constellation bar in Crans Montana on New Year&#039;s Eve Continue reading..."
-    },
-    {
-      "id": "1da4263e637c594b8e0cb01ae31544cf95da2868",
-      "title": "New music on our radar this week: James Blake, Honey Dijon, Gooooose",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-james-blake-honey-dijon-gooooose-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-t.png?width=660&fit=cover&s=WrjEXXFz9uwaLpw8ut0NL5gYXUe_KhB5oijq1R43Kck",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
