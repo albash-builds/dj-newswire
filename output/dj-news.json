@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T11:38:03.152Z",
+  "generatedAt": "2026-02-19T13:05:18.049Z",
   "total": 110,
   "sources": [
     {
@@ -553,6 +553,42 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
       "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
+    },
+    {
+      "id": "1205c37b7de11feb8ded419f6f8926fb3cc43afa",
+      "title": "Azyr in The Mixmag Lab",
+      "link": "https://mixmag.net/read/azyr-in-the-mixmag-lab-the-lab",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/azyr-lab.jpg?width=660&fit=cover&s=i4EjqnMVXbrE3O8kqYn-hHWKcziAf9fOzv4Rs_fEeGI",
+      "excerpt": "A special Sunday session at The Cause from Azyr and friends Continue reading..."
+    },
+    {
+      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
+      "title": "Who's playing The Mixmag Lab?",
+      "link": "https://mixmag.net/feature/lab-ldn",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=roE_KT-fVEntQqFLMuUXSg4vbJFajfA1yCvapjXBreA",
+      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
+    },
+    {
+      "id": "966cc6898b7651dd4e1d19365ed386c9be29dd1d",
+      "title": "New nightclub to open in former casino in Berlin, AMT",
+      "link": "https://mixmag.net/read/new-nightclub-open-former-casino-berlin-amt-alexanderplatz-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-club-berlin.jpg?width=660&fit=cover&s=oU8zkLbHFQPe4U1sSnk1OGAKWAvm6hRF7PVv06hy4ZY",
+      "excerpt": "The 1,000-capacity venue will open in Alexanderplatz next month Continue reading..."
     },
     {
       "id": "03a84b3a1c8961484c4c5e6a87cca9bddff2edfd",
@@ -1477,42 +1513,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ye-2026.jpg?width=660&fit=cover&s=kz73YyO1j4b91h9klXygqZhsVJr_9r29Bz1sC8INjFs",
       "excerpt": "The musician purchased a full-page ad in The Wall Street Journal to apologise for his offensive actions Continue reading..."
-    },
-    {
-      "id": "066c9b2121556c035aba4472823fd27845e7eefd",
-      "title": "Discrimination against working class people should be illegal, cultural report recommends",
-      "link": "https://mixmag.net/read/discrimination-against-working-class-people-should-be-illegal-cultural-report-recommends-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/derio.png?width=660&fit=cover&s=3_Bys5CScPUtmZavbt_EU41mpHDjP5ehZlZvsH2NV54",
-      "excerpt": "50% of respondents to the &#039;Class Ceiling&#039; survey said they had experienced harassment or bias due to their background Continue reading..."
-    },
-    {
-      "id": "4987d7762bd40d8236531940de26d3b0e9d4276c",
-      "title": "Ben Hemsley accuses Hugel and Matt Sassari of plagiarism",
-      "link": "https://mixmag.net/read/ben-hemsley-accuses-hugel-and-matt-sassari-of-plagiarism-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ben_hemsley_newcastle.jpg?width=660&fit=cover&s=HcZyXjaRL2vstBduimWnstvCG9320BNv81xo8L2cF80",
-      "excerpt": "He alleges that the French producers ripped off his idea for a remix of Sonique’s ‘It Feels So Good’ Continue reading..."
-    },
-    {
-      "id": "631da60aa58b0966ca673102b9e676541eeaab30",
-      "title": "Sadiq Khan's Nightlife Taskforce share 23 recommendations for London's night-time economy",
-      "link": "https://mixmag.net/read/sadiq-khan-nightlife-taskforce-shares-23-recomendations-for-londons-scene-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightlife-taskforce.png?width=660&fit=cover&s=v4Nux2iJ30Cex-IQ1zDOoTN4QeGCfD8YPwVxBip6spI",
-      "excerpt": "Recommendations include licensing reforms, a review of late-night transport links, and a &quot;Nightlife Future Fund&quot; to support new nightlife projects from underrepresented communities Continue reading..."
     }
   ]
 }
