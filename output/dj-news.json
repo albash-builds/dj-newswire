@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T08:43:13.815Z",
+  "generatedAt": "2026-02-19T09:45:21.626Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,23 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3d22583b5e4586d9a37a135e98a323b4cce55212",
+      "title": "Joris Voorn announces new album “Melatonin”",
+      "link": "https://www.decodedmagazine.com/joris-voorn-announces-new-album-melatonin/",
+      "published": "2026-02-19T08:45:10.000Z",
+      "publishedTs": 1771490710000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "Electronica",
+        "Joris Voorn"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Joris-Voorn-e1771490602724.jpg",
+      "excerpt": "Dutch electronic producer Joris Voorn momentarily moves away from peak-time dancefloor productions on his newly announced album “Melatonin”, a downtempo and ambient focused release shaped around immersive detail. Melatonin arrives as the…"
+    },
     {
       "id": "c8dc6a804197671abfaef75add634665eb469151",
       "title": "Reseñamos 'Wuthering Heights', la banda sonora de Charli XCX",
@@ -536,31 +553,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2020/10/Vinyl-records.jpg",
       "excerpt": "The resurgence of vinyl over the past decade has been well documented, but the sheer scale of production required to meet current demand remains largely invisible to most collectors and DJs. GZ Media, based in the Czech Republic, operate…"
-    },
-    {
-      "id": "2d523d2bd969dfa1f3d72cbc9c1183809abae6e7",
-      "title": "Decoded is heading to Barcelona with MOSTRA Festival",
-      "link": "https://www.decodedmagazine.com/barcelonas-mostra-festival-celebrates-its-5th-birthday/",
-      "published": "2026-02-09T04:00:44.000Z",
-      "publishedTs": 1770609644000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Festivals",
-        "Giveaways",
-        "Al Blayney",
-        "Angel Molina",
-        "Barcelona",
-        "Electronica",
-        "House Music",
-        "Lemont",
-        "Marylou",
-        "Melina Serser"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/01/ELE-2-3.jpg?resize=683%2C1024&ssl=1",
-      "excerpt": "Decoded Magazine celebrates the fifth anniversary of Mostra Barcelona , a milestone that marks a turning point for a festival that, since its inception, has championed an independent, human, and deeply city-rooted model. Five years on, t…"
     },
     {
       "id": "03a84b3a1c8961484c4c5e6a87cca9bddff2edfd",
