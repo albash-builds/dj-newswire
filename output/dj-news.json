@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T15:49:05.993Z",
+  "generatedAt": "2026-02-19T16:53:18.487Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9f6eaf7200c017103dd1e00c96df5653c68f108e",
+      "title": "Five Friends Floating",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/quaoar-five-friends-floating/",
+      "published": "2026-02-19T16:05:36.000Z",
+      "publishedTs": 1771517136000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/quaoar.jpg",
+      "excerpt": "A pesar de la reducida presencia física de un disco, y más allá de las incontables sensaciones que es capaz... La entrada Five Friends Floating se publicó primero en MondoSonoro ."
+    },
     {
       "id": "fc25ef0735593236574d8cbb76d50c58a4d3c69d",
       "title": "Love Is Not Enough",
@@ -402,20 +416,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/ANGEL-DUT-Cold-to-the-Touch.jpg",
       "excerpt": "Al igual que muchos descubrimos un montón de bandas a través de las camisetas de Kurt Cobain, el fenómeno Turnstile debería... La entrada COLD 2 THE TOUCH se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "010ec7933d7afb35e5e86800428e99c126a3fdf7",
-      "title": "My Heart Is A Room With No Cameras In It",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/victoryland-my-heart-is-a-room/",
-      "published": "2026-02-12T10:23:52.000Z",
-      "publishedTs": 1770891832000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Victoryland-My-Heart-Is-A-Room.jpg",
-      "excerpt": "Cuando aún colea ese “Getting Killed” (Partisan, 25) de Geese como uno de los mejores discos de la pasada campaña,... La entrada My Heart Is A Room With No Cameras In It se publicó primero en MondoSonoro ."
     },
     {
       "id": "f929138d9631c83330d3b3a18365f62ec1261076",
