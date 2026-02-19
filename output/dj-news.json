@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T05:59:00.908Z",
+  "generatedAt": "2026-02-19T07:11:57.077Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c8dc6a804197671abfaef75add634665eb469151",
+      "title": "Reseñamos 'Wuthering Heights', la banda sonora de Charli XCX",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-wuthering-heights/",
+      "published": "2026-02-19T07:07:09.000Z",
+      "publishedTs": 1771484829000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Charli-xcx-Wuthering-Heights.jpg",
+      "excerpt": "Leer “Cumbres borrascosas” de Emily Brontë es, sin lugar a dudas, una experiencia visceral, casi mística, donde la devoción (y... La entrada Reseñamos &#039;Wuthering Heights&#039;, la banda sonora de Charli XCX se publicó primero en Mon…"
+    },
     {
       "id": "86050353ad2872bc03a3d8c7c6d8457c3d75bd9a",
       "title": "Barcelona City Guide with MOSTRA Festival",
@@ -213,7 +227,7 @@
     },
     {
       "id": "e251580b32a6dc26ada499a37e89c269c1805842",
-      "title": "Reseñamos 'Espejismo nº9', el esperado trabajo de 091",
+      "title": "Espejismo nº9",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/091-espejismo/",
       "published": "2026-02-16T06:22:47.000Z",
       "publishedTs": 1771222967000,
@@ -223,7 +237,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/091-Espejismo.jpg",
-      "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Reseñamos &#039;Espejismo nº9&#039;, el esperado trabajo de 091 se publicó primero en MondoSonoro ."
+      "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Espejismo nº9 se publicó primero en MondoSonoro ."
     },
     {
       "id": "cfb18f3d6211175e0ef2ab144b9828ae725e3c2c",
@@ -391,20 +405,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/technics_sl_p1200_gs-2.jpg?resize=810%2C537&ssl=1",
       "excerpt": "There are pieces of DJ equipment that changed the game, and then there are pieces of DJ equipment that simply refused to die. The Denon DN-2000F was both. First unveiled at the January 1991 NAMM Show and rolling into DJ booths from 1992 …"
-    },
-    {
-      "id": "f9a146041e081b8aa456dd723597f7c39a33aedb",
-      "title": "Singin' to an Empty Chair",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-singin-to-an-empty-chair-lo-nuevo-de-ratboys/",
-      "published": "2026-02-11T15:55:02.000Z",
-      "publishedTs": 1770825302000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Ratboys-Singin-to-an-Empty-Chair.jpg",
-      "excerpt": "El debut de un grupo suele ser muy significativo, eso es porque desde el momento en que una banda comienza... La entrada Singin&#039; to an Empty Chair se publicó primero en MondoSonoro ."
     },
     {
       "id": "f61125925fa4bace49aec89710ab9251b8e83238",
