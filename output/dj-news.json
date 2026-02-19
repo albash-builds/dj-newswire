@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T10:42:38.380Z",
+  "generatedAt": "2026-02-19T11:38:03.152Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,38 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fc25ef0735593236574d8cbb76d50c58a4d3c69d",
+      "title": "Love Is Not Enough",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/converge-love-is-not-enough-disco/",
+      "published": "2026-02-19T11:05:24.000Z",
+      "publishedTs": 1771499124000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Converge-Love-Is-Not-Enough-.jpg",
+      "excerpt": "A veces solo necesitas treinta minutos para vivir una dulce agonía. Una visita al dentista para que te mate un... La entrada Love Is Not Enough se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f2ec4ac73fd1f763910567da51504e2fa44e2c02",
+      "title": "The Numbers Don’t Lie: SoundCloud’s 2026 Music Intelligence Report and What It Means for Electronic Music",
+      "link": "https://www.decodedmagazine.com/the-numbers-dont-lie-soundclouds-2026-music-intelligence-report-and-what-it-means-for-electronic-music/",
+      "published": "2026-02-19T10:56:57.000Z",
+      "publishedTs": 1771498617000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Industry Report",
+        "Music Intelligence Report",
+        "Soundcloud"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/soundcloud.webp",
+      "excerpt": "There&#8217;s a particular kind of report that gets passed around music industry circles, full of broad strokes and vague proclamations about what&#8217;s trending, designed more to reassure investors than to actually tell you anything u…"
+    },
     {
       "id": "3d22583b5e4586d9a37a135e98a323b4cce55212",
       "title": "Joris Voorn announces new album “Melatonin”",
@@ -386,20 +418,6 @@
       "excerpt": "Cuando aún colea ese “Getting Killed” (Partisan, 25) de Geese como uno de los mejores discos de la pasada campaña,... La entrada My Heart Is A Room With No Cameras In It se publicó primero en MondoSonoro ."
     },
     {
-      "id": "393d26d22aea1b7ee3b783a8bbc35a6858ae8a65",
-      "title": "El último jardín",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/marc-aliana-el-ultimo-jardin/",
-      "published": "2026-02-12T09:58:09.000Z",
-      "publishedTs": 1770890289000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Marc-Aliana-El-ultimo-jardin.jpg",
-      "excerpt": "En su larga y contundente carrera en la música, Marc Aliana, original de Barcelona, con pasado en California, ha recorrido... La entrada El último jardín se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "f929138d9631c83330d3b3a18365f62ec1261076",
       "title": "Before Pioneer Ruled the Booth, There Was the Denon DN-2000F",
       "link": "https://www.decodedmagazine.com/before-pioneer-ruled-the-booth-there-was-the-denon-dn-2000f/",
@@ -535,24 +553,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
       "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
-    },
-    {
-      "id": "6af9257c39edcd140950c609146eb49aaa3d984a",
-      "title": "Inside The World’s Biggest Vinyl Factory Making 70 Million Records A Year",
-      "link": "https://www.decodedmagazine.com/inside-the-worlds-biggest-vinyl-factory-making-70-million-records-a-year/",
-      "published": "2026-02-09T04:12:19.000Z",
-      "publishedTs": 1770610339000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Buisness Insider",
-        "GZ media",
-        "Manufacturing",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2020/10/Vinyl-records.jpg",
-      "excerpt": "The resurgence of vinyl over the past decade has been well documented, but the sheer scale of production required to meet current demand remains largely invisible to most collectors and DJs. GZ Media, based in the Czech Republic, operate…"
     },
     {
       "id": "03a84b3a1c8961484c4c5e6a87cca9bddff2edfd",
