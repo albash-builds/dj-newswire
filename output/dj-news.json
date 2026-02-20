@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-20T20:31:39.927Z",
-  "total": 90,
+  "generatedAt": "2026-02-20T21:25:04.390Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,15 +18,77 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "4718025d26bde3db668b37862d112ae111a742d3",
+      "title": "Against the Algorithm: How Cybe’s Relics Are Rewiring the Relationship Between Music, Art, and Discovery",
+      "link": "https://www.decodedmagazine.com/against-the-algorithm-how-cybes-relics-are-rewiring-the-relationship-between-music-art-and-discovery/",
+      "published": "2026-02-20T12:39:22.000Z",
+      "publishedTs": 1771591162000,
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "Lifestyle",
+        "Art",
+        "Discord",
+        "Electronica",
+        "Media",
+        "Relics"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/4ab70b68-3025-4-moshed-12-25-05-05-56-scaled-e1771591043388.jpg",
+      "excerpt": "There is a quiet but determined counter-movement happening at the edges of electronic music culture, and it goes by the name of Relics. Created by the collective known as Cybe , Relics are physical media objects that defy easy categorisa…"
+    },
+    {
+      "id": "aff1b3d656b1f3c89f4e33537e6968dc3b9d8aea",
+      "title": "Deep Dish team up with Nicole Moudaber",
+      "link": "https://www.decodedmagazine.com/deep-dish-team-up-with-nicole-moudaber/",
+      "published": "2026-02-20T12:09:48.000Z",
+      "publishedTs": 1771589388000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Deep Dish",
+        "Factory 93",
+        "Nicole Moudaber",
+        "Skunk Anansie"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/NICOLE-MOUDABER-scaled-e1771589272441.png",
+      "excerpt": "Deep Dish have combined forces with Nicole Moudaber for a modern-day rework of ‘Love Someone Else’ with Skunk Anansie. Deep Dish x Nicole Moudaber x Skunk Anansie’s ‘Love Someone Else’ is out now via Factory 93 Records. Originally releas…"
+    },
+    {
+      "id": "a2d51a7fb5d0404a68aebf18bf8f7ca7704c259e",
+      "title": "Five on Friday: Decoded Magazine Teams Up with Red Telephone",
+      "link": "https://www.decodedmagazine.com/five-on-friday-decoded-magazine-teams-up-with-red-telephone/",
+      "published": "2026-02-20T11:44:45.000Z",
+      "publishedTs": 1771587885000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "House Music",
+        "Margate",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/red-telephone-box.jpg",
+      "excerpt": "Annoincing a new editorial partnership with our good friends from The Red Telephone from Margate. Starting today, their weekly feature Five on Friday — five tracks curated by artists, selectors, and record enthusiasts from within their c…"
+    },
+    {
+      "id": "eb491edcebf36ecb47128a4da9116da14ed5839d",
+      "title": "Exclusive Premiere – Bohm – You Don’t Want This",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-bohm-you-dont-want-this/",
+      "published": "2026-02-20T11:28:38.000Z",
+      "publishedTs": 1771586918000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/artwork-600x315-1.jpg",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bohm &#8211; You Don&#x27;t Want This (Radio Edit) Sydney duo Bohm have steadily built their name through a focused approach to the dancefloor, long-form sets and a consistent production outp…"
+    },
     {
       "id": "2d31aa41379c99ccd3678219309f5d7036145d7e",
       "title": "\"AMA \" es el esperado largo de Maria Arnal en solitario",
@@ -84,6 +146,41 @@
       "excerpt": "A veces solo necesitas treinta minutos para vivir una dulce agonía. Una visita al dentista para que te mate un... La entrada Love Is Not Enough se publicó primero en MondoSonoro ."
     },
     {
+      "id": "f2ec4ac73fd1f763910567da51504e2fa44e2c02",
+      "title": "The Numbers Don’t Lie: SoundCloud’s 2026 Music Intelligence Report and What It Means for Electronic Music",
+      "link": "https://www.decodedmagazine.com/the-numbers-dont-lie-soundclouds-2026-music-intelligence-report-and-what-it-means-for-electronic-music/",
+      "published": "2026-02-19T10:56:57.000Z",
+      "publishedTs": 1771498617000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Industry Report",
+        "Music Intelligence Report",
+        "Soundcloud"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/soundcloud.webp",
+      "excerpt": "There&#8217;s a particular kind of report that gets passed around music industry circles, full of broad strokes and vague proclamations about what&#8217;s trending, designed more to reassure investors than to actually tell you anything u…"
+    },
+    {
+      "id": "3d22583b5e4586d9a37a135e98a323b4cce55212",
+      "title": "Joris Voorn announces new album “Melatonin”",
+      "link": "https://www.decodedmagazine.com/joris-voorn-announces-new-album-melatonin/",
+      "published": "2026-02-19T08:45:10.000Z",
+      "publishedTs": 1771490710000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "Electronica",
+        "Joris Voorn"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Joris-Voorn-e1771490602724.jpg",
+      "excerpt": "Dutch electronic producer Joris Voorn momentarily moves away from peak-time dancefloor productions on his newly announced album “Melatonin”, a downtempo and ambient focused release shaped around immersive detail. Melatonin arrives as the…"
+    },
+    {
       "id": "c8dc6a804197671abfaef75add634665eb469151",
       "title": "Wuthering Heights",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-wuthering-heights/",
@@ -96,6 +193,72 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Charli-xcx-Wuthering-Heights.jpg",
       "excerpt": "Leer “Cumbres borrascosas” de Emily Brontë es, sin lugar a dudas, una experiencia visceral, casi mística, donde la devoción (y... La entrada Wuthering Heights se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "86050353ad2872bc03a3d8c7c6d8457c3d75bd9a",
+      "title": "Barcelona City Guide with MOSTRA Festival",
+      "link": "https://www.decodedmagazine.com/barcelona-city-guide-with-mostra-festival/",
+      "published": "2026-02-18T14:47:57.000Z",
+      "publishedTs": 1771426077000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Featured",
+        "Food",
+        "Barcelona",
+        "Beaches",
+        "Catalan",
+        "Cocktail Bar",
+        "Coffee",
+        "Festuval",
+        "Hotels",
+        "Las Ramblas",
+        "lifestyle"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/bc7318dd-ff2e-4ab2-a740-ae3d6fa027bc_16-9-aspect-ratio_default_0.jpg?resize=810%2C456&ssl=1",
+      "excerpt": "Barcelona has always operated on its own frequency. While the rest of Europe&#8217;s major cities have spent the last decade chasing bigger line-ups and increasingly homogenised festival experiences, the Catalan capital has been quietly …"
+    },
+    {
+      "id": "2050ac3c81ec22b0f842c0df68487ff26eb10e0a",
+      "title": "Sydney’s underground institution enters a new chapter with a familiar face at the helm",
+      "link": "https://www.decodedmagazine.com/sydneys-underground-institution-enters-a-new-chapter-with-a-familiar-face-at-the-helm/",
+      "published": "2026-02-18T12:11:27.000Z",
+      "publishedTs": 1771416687000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Bryony Calleia",
+        "Chinese laundry",
+        "Clubbing",
+        "House Music",
+        "Merivale",
+        "Sydney",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Chinese-Laundry-14.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There are very few clubs in the world that can genuinely claim to have shaped a city&#8217;s musical identity. Chinese Laundry is one of them. Buried beneath the Slip Inn in Sydney&#8217;s CBD, in the sandstone basement of a building tha…"
+    },
+    {
+      "id": "2c0283806479189dd5eb5369314751f541caf54c",
+      "title": "Munich’s Blitz club announces closure",
+      "link": "https://www.decodedmagazine.com/munichs-blitz-club-announces-closure/",
+      "published": "2026-02-18T11:53:42.000Z",
+      "publishedTs": 1771415622000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Fashion",
+        "Germany",
+        "House Music",
+        "Nightclub",
+        "restaurant",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
+      "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
     },
     {
       "id": "5376dbf37581c30923e46d693869212721687bc2",
@@ -124,6 +287,103 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Sassy-009-Dreamer.jpg",
       "excerpt": "Es muy probable que la música electrónica sea actualmente el último reducto para esa tradición perdida que son los discos... La entrada Dreamer+ se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "d597b420290b479e562793942a5f49232d1ad07b",
+      "title": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream",
+      "link": "https://www.decodedmagazine.com/20-20-vision-founder-dj-ralph-lawson-is-set-to-take-on-a-marathon-20-hour-20-minute-dj-livestream/",
+      "published": "2026-02-16T13:10:32.000Z",
+      "publishedTs": 1771247432000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "20/20 Vision Recordings",
+        "Charity",
+        "GoFundMe",
+        "Live Streaming",
+        "Music Industry",
+        "Ralph Lawson",
+        "Warchild"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-12.jpg?resize=810%2C1013&ssl=1",
+      "excerpt": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream this Friday, 20th February from 2pm, raising funds for War Child supporting children caught up in conflicts around the world, including Gaz…"
+    },
+    {
+      "id": "19fe2e4d9b111e33e4c48e20a91f9f80ee513f08",
+      "title": "Tour-Maubourg returns with a new 6-track EP, Dreams",
+      "link": "https://www.decodedmagazine.com/tour-maubourg-returns-with-a-new-6-track-ep-dreams/",
+      "published": "2026-02-16T11:02:01.000Z",
+      "publishedTs": 1771239721000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Noire &amp; Blanche",
+        "Soulful House",
+        "Tour-Maubourg"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/598874888_1560957848809935_1655849814182049242_n-scaled.jpg",
+      "excerpt": "Dreams EP by Tour-Maubourg Tour-Maubourg returns with a new 6-track EP, Dreams, further cementing his place as a key figure in today’s electronic music scene. Known for blending soulful house with rich jazz influences, the French-Belgian…"
+    },
+    {
+      "id": "cc7fa91177c962430f1a370adb35a6c1724fd67a",
+      "title": "Electronic Music Powers £2.47bn To The UK Economy",
+      "link": "https://www.decodedmagazine.com/electronic-music-powers-2-47bn-to-the-uk-economy/",
+      "published": "2026-02-16T10:45:09.000Z",
+      "publishedTs": 1771238709000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "festivals",
+        "Free parties",
+        "Music Industry",
+        "Nightclubs",
+        "Raves",
+        "record labels"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2022/08/@wearefestival-_-lukedeakin_-@lightfootagecy-89-scaled.jpg",
+      "excerpt": "New national report finds audiences growing and regional scenes surging &#8211; even as economic pressure accelerates club closures and hollows out the UK’s nightlife infrastructure. UK electronic music generated £2.47 billion in measura…"
+    },
+    {
+      "id": "654437e0f31151f305c42a6611e3353f96bce88b",
+      "title": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal",
+      "link": "https://www.decodedmagazine.com/parallel-society-announces-the-full-programme-for-its-2026-edition-in-lisbon-portugal/",
+      "published": "2026-02-16T10:27:51.000Z",
+      "publishedTs": 1771237671000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Conference",
+        "House Music",
+        "Lisbon",
+        "Parallel Society",
+        "Portugal",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20260211_FINAL-LINEUP-POSTERS_1-x-1.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal. Bringing together leading international and local pioneers across counter-culture, music, and civic technology. The two-day gathering takes place on …"
+    },
+    {
+      "id": "617319c07ca667d6954c5e4193adfd332fda29c2",
+      "title": "God Is A DJ new musical in development",
+      "link": "https://www.decodedmagazine.com/god-is-a-dj-new-musical-in-development/",
+      "published": "2026-02-16T09:49:30.000Z",
+      "publishedTs": 1771235370000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "God is a DJ",
+        "Musical",
+        "theatre"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/What-is-a-Musical-Theater.webp",
+      "excerpt": "Well, we didn&#8217;t have this on our 2026 cards, but here we are&#8230;.. God Is A DJ, a brand new musical in development, is set to bring the world of DJs and club culture to the stage. Blending a live DJ, live band, and iconic dance …"
     },
     {
       "id": "e251580b32a6dc26ada499a37e89c269c1805842",
@@ -166,6 +426,125 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Danny-L-Harle-Cerulean.jpg",
       "excerpt": "Bajo el signo de una sociedad que mira de suspicaz reojo los avances tecnológicos dentro de la música presente, el... La entrada Cerulean se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
+      "title": "Mix of the Month January 2026 Winner – Crowley",
+      "link": "https://www.decodedmagazine.com/mix-of-the-month-january-2026-winner-crowley/",
+      "published": "2026-02-14T05:48:29.000Z",
+      "publishedTs": 1771048109000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "Mixes",
+        "Australia",
+        "breaks",
+        "Canberra",
+        "Crowley",
+        "DJ Competition",
+        "Electro",
+        "Mix of the Month",
+        "Progressive",
+        "Progressive Breaks"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Crowley-Press-Shot-scaled-e1771047647111.jpg",
+      "excerpt": "Decoded Magazine · Mix of the Month Winner January 2026 &#8211; Crowley Our first Mix of the Month winner for 2026 comes from the Australian capital. Crowley , a Progressive House, Breaks and Tech DJ from Canberra, takes the January spot…"
+    },
+    {
+      "id": "9b3264fe5582ee0b280968bc11082e17cd59a290",
+      "title": "New immersive experience – The Intelligence Garden",
+      "link": "https://www.decodedmagazine.com/new-immersive-experience-the-intelligence-garden/",
+      "published": "2026-02-13T09:30:53.000Z",
+      "publishedTs": 1770975053000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "London",
+        "Outernet"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Outernet-INTELLIGENCE-GARDEN-5.png?resize=810%2C540&ssl=1",
+      "excerpt": "Following the success of the multi-sensory masterpiece The Summer Palace , acclaimed digital artist Agustín Vidal Saavedra returns to Outernet today with his most ambitious project to date: The Intelligence Garden. Through spectacular vi…"
+    },
+    {
+      "id": "73bed83d277f533b410b8d46504ec7021f262868",
+      "title": "London’s PRESTi lands on Shall Not Fade’s Time is Now imprint",
+      "link": "https://www.decodedmagazine.com/londons-presti-lands-on-shall-not-fades-time-is-now-imprint/",
+      "published": "2026-02-13T08:50:54.000Z",
+      "publishedTs": 1770972654000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Breakbeat",
+        "PRESTi",
+        "Shall Not Fade",
+        "UKG"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a2060270747_10.jpg",
+      "excerpt": "TIN077 by PRESTi London&#8217;s PRESTi lands on Shall Not Fade&#8217;s Time is Now imprint with four dancefloor weapons that feel like they forked from the hardcore continuum at the point El-B, Horsepower and Artwork&#8217;s dark garage …"
+    },
+    {
+      "id": "f929138d9631c83330d3b3a18365f62ec1261076",
+      "title": "Before Pioneer Ruled the Booth, There Was the Denon DN-2000F",
+      "link": "https://www.decodedmagazine.com/before-pioneer-ruled-the-booth-there-was-the-denon-dn-2000f/",
+      "published": "2026-02-12T05:27:10.000Z",
+      "publishedTs": 1770874030000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "90s",
+        "CDJs",
+        "Denon",
+        "Denon DN-2000F",
+        "DJ Tech",
+        "Nightclubs",
+        "Pioneer",
+        "Reverb",
+        "Throwback Thursday"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/technics_sl_p1200_gs-2.jpg?resize=810%2C537&ssl=1",
+      "excerpt": "There are pieces of DJ equipment that changed the game, and then there are pieces of DJ equipment that simply refused to die. The Denon DN-2000F was both. First unveiled at the January 1991 NAMM Show and rolling into DJ booths from 1992 …"
+    },
+    {
+      "id": "f61125925fa4bace49aec89710ab9251b8e83238",
+      "title": "Get Physical Music co-founder Philipp Jung returns with a series of new remixes as part of an 11-track compilation",
+      "link": "https://www.decodedmagazine.com/get-physical-music-co-founder-philipp-jung-returns-with-a-series-of-new-remixes-as-part-of-an-11-track-compilation/",
+      "published": "2026-02-11T07:52:17.000Z",
+      "publishedTs": 1770796337000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Get Physical Music",
+        "Kindish",
+        "M.A.N.D.Y",
+        "Philipp Jung"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/phillip-jung.jpg",
+      "excerpt": "Germany&#8217;s Philipp Jung is one of the architects of the contemporary house scene. He emerged as half of the seminal M.A.N.D.Y. duo, bringing a fresh take on the genre that brought melody and groove in equal measure to many of their …"
+    },
+    {
+      "id": "a993960948dc127e8627ad5e16a0b6d496ff420b",
+      "title": "Tresor Records reissues Scan 7’s 1999 album, Resurfaced.",
+      "link": "https://www.decodedmagazine.com/tresor-records-reissues-scan-7s-1999-album-resurfaced/",
+      "published": "2026-02-11T07:40:38.000Z",
+      "publishedTs": 1770795638000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Detroit techno",
+        "Scan 7",
+        "Techno",
+        "Tresor Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
+      "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
     },
     {
       "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
