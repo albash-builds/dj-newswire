@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T10:37:25.686Z",
+  "generatedAt": "2026-02-20T11:32:21.975Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "eb491edcebf36ecb47128a4da9116da14ed5839d",
+      "title": "Exclusive Premiere – Bohm – You Don’t Want This",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-bohm-you-dont-want-this/",
+      "published": "2026-02-20T11:28:38.000Z",
+      "publishedTs": 1771586918000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/artwork-600x315-1.jpg",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bohm &#8211; You Don&#x27;t Want This (Radio Edit) Sydney duo Bohm have steadily built their name through a focused approach to the dancefloor, long-form sets and a consistent production outp…"
+    },
     {
       "id": "2d31aa41379c99ccd3678219309f5d7036145d7e",
       "title": "\"AMA \" es el esperado largo de Maria Arnal en solitario",
@@ -534,25 +548,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/A.Whales-press-pic-scaled-e1770715686221.jpg",
       "excerpt": "Commuter by A. Whales Producer and visual artist A. Whales presents the first new single &#8211; ‘Commuter’ from a forthcoming album, and it’s a glorious mix of dreamy ambient electronica, creating a fluid and immersive soundscape like a…"
-    },
-    {
-      "id": "4ffd5a96e6075eb5fdef7677944780e649e6cd33",
-      "title": "Record Store Day: A Celebration of Independent Culture or Major Label Marketing?",
-      "link": "https://www.decodedmagazine.com/record-store-day-a-celebration-of-independent-culture-or-major-label-marketing/",
-      "published": "2026-02-10T03:55:29.000Z",
-      "publishedTs": 1770695729000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Independant Record Stores",
-        "Music Industry",
-        "Record Store Day",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
