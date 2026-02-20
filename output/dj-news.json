@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T09:41:03.650Z",
+  "generatedAt": "2026-02-20T10:37:25.686Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2d31aa41379c99ccd3678219309f5d7036145d7e",
+      "title": "\"AMA \" es el esperado largo de Maria Arnal en solitario",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-arnal-ama-disco/",
+      "published": "2026-02-20T09:55:19.000Z",
+      "publishedTs": 1771581319000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/MAria-Arnal-AMA.jpg",
+      "excerpt": "Después de haber puesto a bailar a Ángela Molina al ritmo de sus síncopas orgánicas, humanizar la inteligencia artificial hasta... La entrada &quot;AMA &quot; es el esperado largo de Maria Arnal en solitario se publicó primero en MondoSo…"
+    },
     {
       "id": "7943ea54eab7cb2528b64716cc68021dae776df0",
       "title": "Crítica de 'Evaporator', el nuevo álbum de Nathan Fake",
@@ -99,7 +113,7 @@
     },
     {
       "id": "c8dc6a804197671abfaef75add634665eb469151",
-      "title": "Reseñamos 'Wuthering Heights', la banda sonora de Charli XCX",
+      "title": "Wuthering Heights",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-wuthering-heights/",
       "published": "2026-02-19T07:07:09.000Z",
       "publishedTs": 1771484829000,
@@ -109,7 +123,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Charli-xcx-Wuthering-Heights.jpg",
-      "excerpt": "Leer “Cumbres borrascosas” de Emily Brontë es, sin lugar a dudas, una experiencia visceral, casi mística, donde la devoción (y... La entrada Reseñamos &#039;Wuthering Heights&#039;, la banda sonora de Charli XCX se publicó primero en Mon…"
+      "excerpt": "Leer “Cumbres borrascosas” de Emily Brontë es, sin lugar a dudas, una experiencia visceral, casi mística, donde la devoción (y... La entrada Wuthering Heights se publicó primero en MondoSonoro ."
     },
     {
       "id": "86050353ad2872bc03a3d8c7c6d8457c3d75bd9a",
@@ -370,20 +384,6 @@
       "excerpt": "Decoded Magazine · Mix of the Month Winner January 2026 &#8211; Crowley Our first Mix of the Month winner for 2026 comes from the Australian capital. Crowley , a Progressive House, Breaks and Tech DJ from Canberra, takes the January spot…"
     },
     {
-      "id": "199e5c7e23af974af2ea8221cb54bdecc0abab04",
-      "title": "Hasta mañanita si Dios quiere",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/faenna-hasta-mananita/",
-      "published": "2026-02-13T14:18:12.000Z",
-      "publishedTs": 1770992292000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Faenna-Hasta-mananita.jpg",
-      "excerpt": "Hace algo más de 3 años con la publicación del oneshot “Papeles y Mechero” Julia González entró como cuchillo en... La entrada Hasta mañanita si Dios quiere se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "9b3264fe5582ee0b280968bc11082e17cd59a290",
       "title": "New immersive experience – The Intelligence Garden",
       "link": "https://www.decodedmagazine.com/new-immersive-experience-the-intelligence-garden/",
@@ -553,6 +553,42 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2025/09/Vds-London-London-London-UK-Record-Store-Directory-3656-03.jpg?resize=810%2C608&ssl=1",
       "excerpt": "As Record Store Day 2026 inches closer, scheduled for Saturday 18 April, there is a growing sense that the event has never been further from its original ideals. What began in 2007 as a grassroots celebration of independently owned recor…"
+    },
+    {
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-Best-DJ-Mixes-Of-The-Year-2026-So-Far.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=KDxK4oNMO3NF7tfez8L6lEjyjCmIieAhXYU9g1QLKDk",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
+    },
+    {
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Albums2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=0hl4oea8ewvEdXi24LxZUav0-dF9vXWpZNbhKFBRrOs",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
+    },
+    {
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Tracks2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=KT6WjntL6EPoseBRU4YRYBqjB612EOZjeSKTPDmYZTI",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
       "id": "6e59b27b94c0550aa6dced16373d245f0adbc6ea",
@@ -1477,42 +1513,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/digdat-jailed.jpg?width=660&fit=cover&s=LT8QZkPxD89EnuYSW87HgIsm73zR7bjLBV1xQpz34VI",
       "excerpt": "The incident, which occurred in 2023, left a 27-year-old with life-threatening injuries Continue reading..."
-    },
-    {
-      "id": "c78198b6606c2317a11fa774347702ab1d14f3c7",
-      "title": "Reggae legend and Sly & Robbie member Sly Dunbar has died aged 73",
-      "link": "https://mixmag.net/read/reggae-legend-sly-robbie-member-sly-dunbar-died-aged-73-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sly-dunbar.jpg?width=660&fit=cover&s=UULR4ufqapstc5xT8qQ7NYzDcxlva1WaZtzUZsJslQ0",
-      "excerpt": "The GRAMMY-winning artist performed alongside the likes of The Rolling Stones and Bob Marley Continue reading..."
-    },
-    {
-      "id": "6d04716abfcaf5639c6359af0336512370d413d1",
-      "title": "Music tech company Native Instruments enters preliminary insolvency",
-      "link": "https://mixmag.net/read/music-tech-company-native-instruments-enters-preliminary-insolvency-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments_2026-01-27-174317_xtlk.jpg?width=660&fit=cover&s=EZJa3orOvNSize0ug-xOfDc9MbngLse3YjLmGrInDtI",
-      "excerpt": "The company’s assets will be “sold off in some form” as a result of the proceedings, according to reports Continue reading..."
-    },
-    {
-      "id": "1fe3a3cb7a222d7a4220228f2bf83c2c774b99b0",
-      "title": "UK grassroots music venues to receive further business rates discount, government confirms",
-      "link": "https://mixmag.net/read/uk-nightclubs-receive-15-percent-discount-business-rates-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/grassroots.png?width=660&fit=cover&s=lJJjfwpNL4DY3sZLwwPajFJW4wWe2fCdcc2SOWfXyZk",
-      "excerpt": "Nightclubs and music venues as a whole have not been included in the discounted rates group Continue reading..."
     }
   ]
 }
