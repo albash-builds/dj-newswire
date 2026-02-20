@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T12:58:18.044Z",
+  "generatedAt": "2026-02-20T14:03:15.530Z",
   "total": 110,
   "sources": [
     {
@@ -545,6 +545,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
       "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
+    },
+    {
+      "id": "80851eeccfbe01787505dc9d1d05677d684a3cfb",
+      "title": "New 20,000-capacity venue to open in Bristol in 2028, Aviva Arena",
+      "link": "https://mixmag.net/read/new-20000-capacity-venue-to-open-in-bristol-aviva-arena-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Aviva-Arena-lead.jpg?width=660&fit=cover&s=sxXgddc0R8__2dYdTySEFlfSY57ntLoHtfjcAbFbXIo",
+      "excerpt": "The arena will become one of the biggest in the country, hosting 120 &quot;major&quot; events every year Continue reading..."
+    },
+    {
+      "id": "b97cf5e8334411f6764970c7fe048c73d4764ea7",
+      "title": "20% of UK-based young people say they have never experienced live music",
+      "link": "https://mixmag.net/read/20-percent-young-people-say-they-have-never-experienced-live-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music_2026-02-19-174512_gtat.png?width=660&fit=cover&s=5kbsReHFMXL_zHqvCh_pBY3gdxlZfgqMt5HKhYnQIuU",
+      "excerpt": "Findings from Mastercard&#039;s Manchester Legends youth outreach study also revealed that 55% of 14 to 21-year-olds were unsure how to pursue a career in music Continue reading..."
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
@@ -1481,30 +1505,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/live-music.png?width=660&fit=cover&s=UVtWgHNzJKwiuazSC4Hu3WoAXVFVglB8cSnXe94KUiQ",
       "excerpt": "Tickets9 will prohibit the sale of tickets above face value, with a £1 levy from each ticket sold for events of 5,000-capacity or above Continue reading..."
-    },
-    {
-      "id": "03ac9e1373aba128d722def84e1d144527a2790b",
-      "title": "Giggs allegedly targeted in drive-by shooting at DJ AG event, Channel 4 reveals",
-      "link": "https://mixmag.net/read/giggs-allegedly-targeted-drive-by-shooting-dj-ag-event-documentary-reveals-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/giggs-dsg.png?width=660&fit=cover&s=O-Grt_9xdorQllBCVNb0J7MS8eVbd5bqGnkZ7-3pv8s",
-      "excerpt": "A bystander was shot in the foot during the incident, which reportedly took place in Peckham last February Continue reading..."
-    },
-    {
-      "id": "d04fe84f18066979088b9c0a36b46e45a69ecbd6",
-      "title": "London rapper DigDat jailed for life following drive-by shooting",
-      "link": "https://mixmag.net/read/london-rapper-digdat-jailed-life-drive-by-shooting-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/digdat-jailed.jpg?width=660&fit=cover&s=LT8QZkPxD89EnuYSW87HgIsm73zR7bjLBV1xQpz34VI",
-      "excerpt": "The incident, which occurred in 2023, left a 27-year-old with life-threatening injuries Continue reading..."
     }
   ]
 }
