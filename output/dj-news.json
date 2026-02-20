@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-20T11:32:21.975Z",
+  "generatedAt": "2026-02-20T12:58:18.044Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,61 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4718025d26bde3db668b37862d112ae111a742d3",
+      "title": "Against the Algorithm: How Cybe’s Relics Are Rewiring the Relationship Between Music, Art, and Discovery",
+      "link": "https://www.decodedmagazine.com/against-the-algorithm-how-cybes-relics-are-rewiring-the-relationship-between-music-art-and-discovery/",
+      "published": "2026-02-20T12:39:22.000Z",
+      "publishedTs": 1771591162000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Art",
+        "Discord",
+        "Electronica",
+        "Media",
+        "Relics"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/4ab70b68-3025-4-moshed-12-25-05-05-56-scaled-e1771591043388.jpg",
+      "excerpt": "There is a quiet but determined counter-movement happening at the edges of electronic music culture, and it goes by the name of Relics. Created by the collective known as Cybe , Relics are physical media objects that defy easy categorisa…"
+    },
+    {
+      "id": "aff1b3d656b1f3c89f4e33537e6968dc3b9d8aea",
+      "title": "Deep Dish team up with Nicole Moudaber",
+      "link": "https://www.decodedmagazine.com/deep-dish-team-up-with-nicole-moudaber/",
+      "published": "2026-02-20T12:09:48.000Z",
+      "publishedTs": 1771589388000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Deep Dish",
+        "Factory 93",
+        "Nicole Moudaber",
+        "Skunk Anansie"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/NICOLE-MOUDABER-scaled-e1771589272441.png",
+      "excerpt": "Deep Dish have combined forces with Nicole Moudaber for a modern-day rework of ‘Love Someone Else’ with Skunk Anansie. Deep Dish x Nicole Moudaber x Skunk Anansie’s ‘Love Someone Else’ is out now via Factory 93 Records. Originally releas…"
+    },
+    {
+      "id": "a2d51a7fb5d0404a68aebf18bf8f7ca7704c259e",
+      "title": "Five on Friday: Decoded Magazine Teams Up with Red Telephone",
+      "link": "https://www.decodedmagazine.com/five-on-friday-decoded-magazine-teams-up-with-red-telephone/",
+      "published": "2026-02-20T11:44:45.000Z",
+      "publishedTs": 1771587885000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "House Music",
+        "Margate",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/red-telephone-box.jpg",
+      "excerpt": "Annoincing a new editorial partnership with our good friends from The Red Telephone from Margate. Starting today, their weekly feature Five on Friday — five tracks curated by artists, selectors, and record enthusiasts from within their c…"
+    },
     {
       "id": "eb491edcebf36ecb47128a4da9116da14ed5839d",
       "title": "Exclusive Premiere – Bohm – You Don’t Want This",
@@ -490,64 +545,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
       "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
-    },
-    {
-      "id": "af5058316e6e0ee50717239ca65c61bf3e211632",
-      "title": "FVTVR welcomes Detroit Love back to Paris",
-      "link": "https://www.decodedmagazine.com/fvtvr-welcomes-detroit-love-back-to-paris/",
-      "published": "2026-02-10T11:30:05.000Z",
-      "publishedTs": 1770723005000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Carl Craig",
-        "Detroit",
-        "FVTVR",
-        "Juan Atkins",
-        "Mike Banks",
-        "Paris",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/FVTVR-DETROIT_LOVE3-edited-scaled.png?resize=675%2C1200&ssl=1",
-      "excerpt": "FVTVR welcomes Detroit Love back to Paris on Saturday, 9th May 2026. The Parisian venue becomes the home of this internationally recognised Techno brand, offering an immersive journey across 12 hours, two floors, and four rooms. It is a …"
-    },
-    {
-      "id": "dac2debc83dda3edbaa2e6becbeb0a0023a3060d",
-      "title": "Wild Wood Festival celebrates its 10 year anniversary this summer",
-      "link": "https://www.decodedmagazine.com/wild-wood-festival-celebrates-its-10-year-anniversary-this-summer/",
-      "published": "2026-02-10T10:02:50.000Z",
-      "publishedTs": 1770717770000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Electronica",
-        "Festival",
-        "House Music",
-        "South Cambridgeshire",
-        "Techno",
-        "Wild Wood festival"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20_Wild-Wood-J-Fenna.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Wild Wood Festival returns this summer on the 19 &#8211; 21 June 2026, marking the 10 year anniversary of being an independent, community-led festival in the enchanted woodlands of South Cambridgeshire. Today marks the launch of the full…"
-    },
-    {
-      "id": "becce3147e1e92df66152bb0aae021748e36eeb9",
-      "title": "Producer and visual artist A. Whales presents the first new single – ‘Commuter’  from a forthcoming album",
-      "link": "https://www.decodedmagazine.com/producer-and-visual-artist-a-whales-presents-the-first-new-single-commuter-from-a-forthcoming-album/",
-      "published": "2026-02-10T09:29:45.000Z",
-      "publishedTs": 1770715785000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/A.Whales-press-pic-scaled-e1770715686221.jpg",
-      "excerpt": "Commuter by A. Whales Producer and visual artist A. Whales presents the first new single &#8211; ‘Commuter’ from a forthcoming album, and it’s a glorious mix of dreamy ambient electronica, creating a fluid and immersive soundscape like a…"
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
