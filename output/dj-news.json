@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-21T09:29:23.126Z",
+  "generatedAt": "2026-02-21T10:25:57.718Z",
   "total": 110,
   "sources": [
     {
@@ -545,6 +545,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/scan-7-tresor.jpg",
       "excerpt": "Resurfaced by Scan 7 As the label turns 35 years, Tresor Records’ ongoing reissue series comes round to Scan 7’s 1999 album, Resurfaced. A true exemplar in the canon of Detroit techno, the LP is a further reminder of Scan 7’s confidence …"
+    },
+    {
+      "id": "0c846ef58691b7582effd45adfa583fe9ac5dc13",
+      "title": "Festival line-ups you might have missed: RALLY, Outwards, Piano People",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-rally-outwards-piano-people-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rally-s.jpg?width=660&fit=cover&s=R0xI5S_cUQReEUMftgDFmjLnkUgJEDCgNCjymeDPh1M",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
@@ -1493,18 +1505,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_LE.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=RRyOwGJUq2Z7TZXoH_Gt49OgmZc1gGJov6nzjN70uPo",
       "excerpt": "The Berlin-hailing artist shares a pacey mix nodding to era-defining electroclash, and talks the rising sound of sexy techno, launching a community-driven dance music app, and how their image becoming a meme in right-wing circles was the…"
-    },
-    {
-      "id": "6da06bef966f3b7c9e0f32d556eac9c5395f9564",
-      "title": "Boomtown adds SBTRKT, VTSS and DJ EZ to 2026 line-up",
-      "link": "https://mixmag.net/read/boomtown-adds-sbtrkt-vtss-and-dj-ez-to-2026-line-up-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boomtown.png?width=660&fit=cover&s=JhukqhV9LEbvGaAYRyG60EV0xln7P5mEDp8P-XTWZ1c",
-      "excerpt": "The Hampsire-based festival is set to embark on a &quot;radical redesign&quot; this year, with plans for a major expansion to its site Continue reading..."
     }
   ]
 }
