@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T09:55:17.101Z",
+  "generatedAt": "2026-02-23T10:51:24.357Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,58 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ed876ae7089b96a50dfe255ef97aece230884129",
+      "title": "HUMBLE",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/atzur-humble/",
+      "published": "2026-02-23T10:44:22.000Z",
+      "publishedTs": 1771843462000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Atzur-HUMBLE.jpg",
+      "excerpt": "Ambicioso en su factura y declamatorio en su intención, “HUMBLE”, segundo compacto del dúo hispano-austríaco Atzur, ensalza entre purpurina y... La entrada HUMBLE se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "608fa0b6a07da53ae56ce187fad76b089562df9d",
+      "title": "A esta invitamos nosotros",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/capros-a-esta-invitamos-nosotros/",
+      "published": "2026-02-23T10:32:34.000Z",
+      "publishedTs": 1771842754000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Capros-A-esta-invitamos-nosotros.jpg",
+      "excerpt": "Algo menos de dos años han hecho falta para ver publicado el segundo disco de los barceloneses Capros. Bajo el... La entrada A esta invitamos nosotros se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ddcd444679f665382c9411e3b4358dc59b542bd0",
+      "title": "Waterworks 2026 Reveals 2-Day Expansion",
+      "link": "https://www.decodedmagazine.com/waterworks-2026-reveals-2-day-expansion/",
+      "published": "2026-02-23T10:16:11.000Z",
+      "publishedTs": 1771841771000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "DJ Storm",
+        "DnB",
+        "Erol Alkan",
+        "Gunnersbury Park",
+        "House",
+        "LTJ Bukem",
+        "Modeselektor",
+        "Techno",
+        "Waterworks Festival"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/waterworks-festival-2026-lineup.png?resize=768%2C1024&ssl=1",
+      "excerpt": "London’s Waterworks Festival has revealed the full lineup for its sixth edition, alongside news that the festival will expand to two full days for the first time in 2026. Taking place at Gunnersbury Park on Saturday 12th and Sunday 13th …"
+    },
     {
       "id": "8a510b102672f03e1e19cfb4c907342325010b5b",
       "title": "Amnesia Milano Unveils New L-Acoustics Sound System and 360degree LED Wall",
@@ -453,34 +505,6 @@
       "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Espejismo nº9 se publicó primero en MondoSonoro ."
     },
     {
-      "id": "cfb18f3d6211175e0ef2ab144b9828ae725e3c2c",
-      "title": "Normal Isn’t",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-normal-isnt-el-nuevo-trabajo-de-puscifer/",
-      "published": "2026-02-15T08:05:21.000Z",
-      "publishedTs": 1771142721000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/PUSCIFER-Normal-Isnt.jpg",
-      "excerpt": "El proyecto paralelo del vocalista Maynard James Keenan (Tool, A Perfect Circle) estrena su quinto álbum de estudio, rompiendo así... La entrada Normal Isn’t se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "adad2d332b4b9246c12ab5136a4017b397cc09e9",
-      "title": "Cerulean",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/danny-l-harle-cerulean/",
-      "published": "2026-02-14T07:05:14.000Z",
-      "publishedTs": 1771052714000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Danny-L-Harle-Cerulean.jpg",
-      "excerpt": "Bajo el signo de una sociedad que mira de suspicaz reojo los avances tecnológicos dentro de la música presente, el... La entrada Cerulean se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
       "title": "Mix of the Month January 2026 Winner – Crowley",
       "link": "https://www.decodedmagazine.com/mix-of-the-month-january-2026-winner-crowley/",
@@ -520,24 +544,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Outernet-INTELLIGENCE-GARDEN-5.png?resize=810%2C540&ssl=1",
       "excerpt": "Following the success of the multi-sensory masterpiece The Summer Palace , acclaimed digital artist Agustín Vidal Saavedra returns to Outernet today with his most ambitious project to date: The Intelligence Garden. Through spectacular vi…"
-    },
-    {
-      "id": "73bed83d277f533b410b8d46504ec7021f262868",
-      "title": "London’s PRESTi lands on Shall Not Fade’s Time is Now imprint",
-      "link": "https://www.decodedmagazine.com/londons-presti-lands-on-shall-not-fades-time-is-now-imprint/",
-      "published": "2026-02-13T08:50:54.000Z",
-      "publishedTs": 1770972654000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Breakbeat",
-        "PRESTi",
-        "Shall Not Fade",
-        "UKG"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a2060270747_10.jpg",
-      "excerpt": "TIN077 by PRESTi London&#8217;s PRESTi lands on Shall Not Fade&#8217;s Time is Now imprint with four dancefloor weapons that feel like they forked from the hardcore continuum at the point El-B, Horsepower and Artwork&#8217;s dark garage …"
     },
     {
       "id": "33b972b04d15a1e77b2f95e57403b1073413afef",
