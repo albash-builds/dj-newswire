@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T07:12:14.027Z",
+  "generatedAt": "2026-02-24T08:49:38.832Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
+      "title": "Thirty Years of Trainspotting: Time to Revisit One of Britain’s Best Films",
+      "link": "https://www.decodedmagazine.com/thirty-years-of-trainspotting-time-to-revisit-one-of-britains-best-films/",
+      "published": "2026-02-24T08:02:26.000Z",
+      "publishedTs": 1771920146000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Lifestyle",
+        "Danny Boyle",
+        "Irvine Welsh",
+        "Movie",
+        "Review",
+        "Scotland",
+        "Trainspotting",
+        "Underworld"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/trainspottinghed-ae9aeb867d055393f47ba1b6682f6d8f.webp",
+      "excerpt": "There are films you watch, and then there are films that stay with you. Trainspotting stayed with me. I can still remember sitting in a cinema with my mates in 1996, the lights going down, Iggy Pop&#8217;s Lust for Life kicking in throug…"
+    },
     {
       "id": "af8dad678b740b62a665f65bf1b17da6817aee3a",
       "title": "Steve Bug & Ammo Avenue feat. Mikey V just announced Why Not Us",
@@ -522,31 +544,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/091-Espejismo.jpg",
       "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Espejismo nº9 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "eb42c75899b1fbafda17507d2777866c35e549d0",
-      "title": "Mix of the Month January 2026 Winner – Crowley",
-      "link": "https://www.decodedmagazine.com/mix-of-the-month-january-2026-winner-crowley/",
-      "published": "2026-02-14T05:48:29.000Z",
-      "publishedTs": 1771048109000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "Mixes",
-        "Australia",
-        "breaks",
-        "Canberra",
-        "Crowley",
-        "DJ Competition",
-        "Electro",
-        "Mix of the Month",
-        "Progressive",
-        "Progressive Breaks"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Crowley-Press-Shot-scaled-e1771047647111.jpg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner January 2026 &#8211; Crowley Our first Mix of the Month winner for 2026 comes from the Australian capital. Crowley , a Progressive House, Breaks and Tech DJ from Canberra, takes the January spot…"
     },
     {
       "id": "3be124978caf7f52c45c26910cc344fa7da85451",
