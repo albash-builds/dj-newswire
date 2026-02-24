@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T14:49:58.732Z",
+  "generatedAt": "2026-02-24T15:59:14.003Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5521f38ebae5f903c1da9018cc1513700507251a",
+      "title": "Minutes From Heaven",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/minutes-heaven-celestial-bum/",
+      "published": "2026-02-24T15:33:08.000Z",
+      "publishedTs": 1771947188000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/CelestialBumsCD.jpg",
+      "excerpt": "El cuarto disco de los barceloneses Celestial Bums es toda una declaración de intenciones: la banda lo presenta como un... La entrada Minutes From Heaven se publicó primero en MondoSonoro ."
+    },
     {
       "id": "28c181b090ad2032258c6435b9aafb54b5efe05a",
       "title": "Canto y lloro",
@@ -433,20 +447,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mostaza-karizia.jpg",
       "excerpt": "\"13:13:13\" es el primer álbum del grupo donostiarra Mostaza Karizia que como bien dice el título, está compuesto por 13... La entrada 13:13:13 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b23deeee7ea8ce164e6d3ab7fd8c0f20a8258184",
-      "title": "Dreamer+",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sassy-009-dreamer/",
-      "published": "2026-02-16T16:36:59.000Z",
-      "publishedTs": 1771259819000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Sassy-009-Dreamer.jpg",
-      "excerpt": "Es muy probable que la música electrónica sea actualmente el último reducto para esa tradición perdida que son los discos... La entrada Dreamer+ se publicó primero en MondoSonoro ."
     },
     {
       "id": "d597b420290b479e562793942a5f49232d1ad07b",
