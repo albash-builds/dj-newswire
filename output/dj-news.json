@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T11:40:43.601Z",
+  "generatedAt": "2026-02-24T13:05:37.770Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "28c181b090ad2032258c6435b9aafb54b5efe05a",
+      "title": "Canto y lloro",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ajou-canto-y-lloro/",
+      "published": "2026-02-24T13:02:35.000Z",
+      "publishedTs": 1771938155000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/ajou.jpg",
+      "excerpt": "AJOU! da un paso adelante con “Canto y Lloro”, un EP que consolida el camino iniciado con aquella primera maqueta... La entrada Canto y lloro se publicó primero en MondoSonoro ."
+    },
     {
       "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
       "title": "Thirty Years of Trainspotting: Time to Revisit One of Britain’s Best Films",
@@ -532,20 +546,6 @@
       "excerpt": "Well, we didn&#8217;t have this on our 2026 cards, but here we are&#8230;.. God Is A DJ, a brand new musical in development, is set to bring the world of DJs and club culture to the stage. Blending a live DJ, live band, and iconic dance …"
     },
     {
-      "id": "e251580b32a6dc26ada499a37e89c269c1805842",
-      "title": "Espejismo nº9",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/091-espejismo/",
-      "published": "2026-02-16T06:22:47.000Z",
-      "publishedTs": 1771222967000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/091-Espejismo.jpg",
-      "excerpt": "No sé si este es el mejor disco de 091, como he leído en textos de algunos compañeros de profesión.... La entrada Espejismo nº9 se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "3be124978caf7f52c45c26910cc344fa7da85451",
       "title": "Daft Punk share new music video for 'Human After All' on fifth anniversary of split",
       "link": "https://mixmag.net/read/daft-punk-share-new-music-for-only-human-on-fifth-anniversary-of-split-news",
@@ -771,7 +771,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kappa-Futur_2026-02-18-123939_kzgp.png?width=660&fit=cover&s=KL7W2xbWEv1oh_diGahdidWYslZae6FK0cJ3JI4RZTA",
-      "excerpt": "Celebrating its 13th edition this year, Kappa FuturFestival will return to Parco Dora, Turin, across three days this June Continue reading..."
+      "excerpt": "Celebrating its 13th edition this year, Kappa FuturFestival will return to Parco Dora, Turin, across three days this July Continue reading..."
     },
     {
       "id": "315c05e51180d1629828a1a07b66eadf4c14f023",
