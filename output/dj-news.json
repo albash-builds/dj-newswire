@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T14:49:05.715Z",
+  "generatedAt": "2026-02-25T16:02:26.262Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1239acb2ae6dcf8ec6943b160e8cfcbf041ba617",
+      "title": "Manchester set to get a new festival",
+      "link": "https://www.decodedmagazine.com/manchester-set-to-get-a-new-festival/",
+      "published": "2026-02-25T14:49:33.000Z",
+      "publishedTs": 1772030973000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Carl Criag",
+        "LTJ Bukem",
+        "Manchester",
+        "Moodyman",
+        "Octave One",
+        "Orbital",
+        "Phil Hartnoll",
+        "The Orb"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/OUTWARDS-LINE-UP-STILL-4X5.png?resize=810%2C1013&ssl=1",
+      "excerpt": "A new festival dedicated to the past, present and future of electronic music culture will launch in Manchester this summer, as Outwards unveils a city-centre, open-air gathering designed to reconnect dance music with its deeper cultural …"
+    },
     {
       "id": "3e36fa17e6cc6fa020a1d2c04cf73cc227ee8ffe",
       "title": "Terapia de grupo",
@@ -522,24 +545,16 @@
       "excerpt": "There are very few clubs in the world that can genuinely claim to have shaped a city&#8217;s musical identity. Chinese Laundry is one of them. Buried beneath the Slip Inn in Sydney&#8217;s CBD, in the sandstone basement of a building tha…"
     },
     {
-      "id": "2c0283806479189dd5eb5369314751f541caf54c",
-      "title": "Munich’s Blitz club announces closure",
-      "link": "https://www.decodedmagazine.com/munichs-blitz-club-announces-closure/",
-      "published": "2026-02-18T11:53:42.000Z",
-      "publishedTs": 1771415622000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Fashion",
-        "Germany",
-        "House Music",
-        "Nightclub",
-        "restaurant",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
-      "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
+      "id": "b9ae96a6cec6c70ea60efe01a6818622f2dcfb95",
+      "title": "MOBO Awards 2026 to celebrate 25 years of grime with shows from Wiley, Chip & more",
+      "link": "https://mixmag.net/read/mobo-awards-2026-celebrate-25-years-grime-shows-from-wiley-chip-d-double-e-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/98453741_wiley.jpg?width=660&fit=cover&s=2rXbZ58KFDizJKLnRFKTH-pIZ6EKzNcNeljXcsLd-es",
+      "excerpt": "The ceremony will take place on March 26 at Manchester’s Co-op Live Arena Continue reading..."
     },
     {
       "id": "b6a509a47fe0261a48f020175440c4e7d410c3fd",
@@ -1488,18 +1503,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AVA-Belfast.png?width=660&fit=cover&s=MMhoCY6xcEJZMZOC3XUDeiHWSiXV79DwMgtUi35h0HI",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "718e0f304951485d9ca8a84a8d3fd1d93501c759",
-      "title": "Café 1001 celebrates 25th anniversary with European hi-fi bar tour",
-      "link": "https://mixmag.net/read/cafe-1001-celebrates-25th-anniversary-european-hi-fi-bar-tour-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cafe-1001-tour.jpg?width=660&fit=cover&s=QqiqhFwH6G4eH5SKlU16U3nfc0Ks79CaAf7JDLuvNuc",
-      "excerpt": "The “first-of-its-kind” cultural exchange will see Café 1001 tap 10 audio-forward venues across the continent Continue reading..."
     }
   ]
 }
