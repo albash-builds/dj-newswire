@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T09:54:58.829Z",
+  "generatedAt": "2026-02-25T10:51:40.826Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fefc8d2adaf1be6cddc0332abf7fd2535a2a51ba",
+      "title": "John 00 Fleming Announces Upcoming Album The Lost Tribe",
+      "link": "https://www.decodedmagazine.com/john-00-fleming-announces-upcoming-album-the-lost-tribe/",
+      "published": "2026-02-25T10:28:12.000Z",
+      "publishedTs": 1772015292000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Premieres",
+        "John 00 Fleming",
+        "JOOF Recordings",
+        "Progressive House",
+        "Trance"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/John-00-Fleming-1-scaled.jpg",
+      "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing&nbsp; The Lost Tribe , an 18-track body of work set for release on April 11 via his own imprint,…"
+    },
     {
       "id": "998748cae6f1f9e75d260d3aaed0f2fbeb97200d",
       "title": "Punk es aquí y ahora",
@@ -521,28 +540,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
       "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
-    },
-    {
-      "id": "d597b420290b479e562793942a5f49232d1ad07b",
-      "title": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream",
-      "link": "https://www.decodedmagazine.com/20-20-vision-founder-dj-ralph-lawson-is-set-to-take-on-a-marathon-20-hour-20-minute-dj-livestream/",
-      "published": "2026-02-16T13:10:32.000Z",
-      "publishedTs": 1771247432000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "20/20 Vision Recordings",
-        "Charity",
-        "GoFundMe",
-        "Live Streaming",
-        "Music Industry",
-        "Ralph Lawson",
-        "Warchild"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-12.jpg?resize=810%2C1013&ssl=1",
-      "excerpt": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream this Friday, 20th February from 2pm, raising funds for War Child supporting children caught up in conflicts around the world, including Gaz…"
     },
     {
       "id": "aa1399ce01ec1b04333ee1e7c742f61b378475c0",
