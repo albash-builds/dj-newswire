@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T17:57:19.224Z",
+  "generatedAt": "2026-02-25T19:12:01.267Z",
   "total": 110,
   "sources": [
     {
@@ -543,6 +543,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Chinese-Laundry-14.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There are very few clubs in the world that can genuinely claim to have shaped a city&#8217;s musical identity. Chinese Laundry is one of them. Buried beneath the Slip Inn in Sydney&#8217;s CBD, in the sandstone basement of a building tha…"
+    },
+    {
+      "id": "0a2908e9e6de3c1426ae10892c197148eefdc80c",
+      "title": "The Mix 095: Kyle Starkey",
+      "link": "https://mixmag.net/feature/kyle-starkey-the-mix-095-dj-interview-hard-house-rave",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Kyle-Starkey2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=CB9Z4MDtc4wLtP3UzJHPLGAuYuX1BIupynSA1HbPL30",
+      "excerpt": "Hard house diehard Kyle Starkey serves up an era-spanning selection, including some unreleased exclusives, and speaks about the state of Liverpool’s club scene and why it’s important for young producers to keep things moving rather than …"
     },
     {
       "id": "b9ae96a6cec6c70ea60efe01a6818622f2dcfb95",
@@ -1491,18 +1503,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Releases-round-ups_2026-01-31-202849_dkcj.png?width=660&fit=cover&s=aVF1n4C9EmwzSaH_YrD6NpmP6gnGZZKBocDJO1pbJ9g",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "bf72f82645fc0165c60d42c85ae6159cf7ee69e6",
-      "title": "Festival line-ups you might have missed: dweller, Movement, AVA",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-dweller-movement-ava-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AVA-Belfast.png?width=660&fit=cover&s=MMhoCY6xcEJZMZOC3XUDeiHWSiXV79DwMgtUi35h0HI",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
