@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T02:06:58.081Z",
+  "generatedAt": "2026-02-25T04:52:11.266Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a7d44156a39a7a240fe61e28d7bdea79dea8e41a",
+      "title": "Jonas Saalbach Debuts on Purified Records with Data Romance EP",
+      "link": "https://www.decodedmagazine.com/jonas-saalbach-debuts-on-purified-records-with-data-romance-ep/",
+      "published": "2026-02-25T03:41:59.000Z",
+      "publishedTs": 1771990919000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Germany",
+        "Progressive House",
+        "Purified Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jonas_presshot.jpg",
+      "excerpt": "German producer and Radikon label founder Jonas Saalbach makes his Purified Records debut with the Data Romance EP, rounded out by a title track remix from fellow German producer and label regular, Lexer. The title track opens with restr…"
+    },
     {
       "id": "7b4d0f494bc9cb4b74aa50200a99665bd41e5f04",
       "title": "Jeff Mills Performs Live Score to Metropolis at Palace of Fine Arts",
@@ -525,26 +543,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/598874888_1560957848809935_1655849814182049242_n-scaled.jpg",
       "excerpt": "Dreams EP by Tour-Maubourg Tour-Maubourg returns with a new 6-track EP, Dreams, further cementing his place as a key figure in today’s electronic music scene. Known for blending soulful house with rich jazz influences, the French-Belgian…"
-    },
-    {
-      "id": "cc7fa91177c962430f1a370adb35a6c1724fd67a",
-      "title": "Electronic Music Powers £2.47bn To The UK Economy",
-      "link": "https://www.decodedmagazine.com/electronic-music-powers-2-47bn-to-the-uk-economy/",
-      "published": "2026-02-16T10:45:09.000Z",
-      "publishedTs": 1771238709000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "festivals",
-        "Free parties",
-        "Music Industry",
-        "Nightclubs",
-        "Raves",
-        "record labels"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2022/08/@wearefestival-_-lukedeakin_-@lightfootagecy-89-scaled.jpg",
-      "excerpt": "New national report finds audiences growing and regional scenes surging &#8211; even as economic pressure accelerates club closures and hollows out the UK’s nightlife infrastructure. UK electronic music generated £2.47 billion in measura…"
     },
     {
       "id": "aa1399ce01ec1b04333ee1e7c742f61b378475c0",
