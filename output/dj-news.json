@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T07:14:28.310Z",
+  "generatedAt": "2026-02-25T08:50:29.091Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "29614eb67af3c333e77cd6864252970dd7b13ebf",
+      "title": "The Show Of A Lost World Troxy Live 2024",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-show-of-a-lost-world-troxy-live/",
+      "published": "2026-02-25T08:02:49.000Z",
+      "publishedTs": 1772006569000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/the-cure-The-Show-Of-A-Lost-World-Troxy-Live.jpg",
+      "excerpt": "The Cure no han dejado de reconfirmar su buen estado de forma desde que viera la luz “Songs Of A... La entrada The Show Of A Lost World Troxy Live 2024 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "74127c8411aa85123c38706451446f5dc140682c",
       "title": "The Record Crate Gets Its Long Overdue Redesign",
@@ -507,20 +521,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
       "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
-    },
-    {
-      "id": "5376dbf37581c30923e46d693869212721687bc2",
-      "title": "13:13:13",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mostaza-karizia-13-13-13/",
-      "published": "2026-02-16T19:46:31.000Z",
-      "publishedTs": 1771271191000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mostaza-karizia.jpg",
-      "excerpt": "\"13:13:13\" es el primer álbum del grupo donostiarra Mostaza Karizia que como bien dice el título, está compuesto por 13... La entrada 13:13:13 se publicó primero en MondoSonoro ."
     },
     {
       "id": "d597b420290b479e562793942a5f49232d1ad07b",
