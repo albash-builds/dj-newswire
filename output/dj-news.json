@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T19:12:01.267Z",
+  "generatedAt": "2026-02-25T20:35:54.360Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "daa58f81b96d6d1b7fc009e7807a4e47af3ea05a",
+      "title": "Ehiza / Song Of The Shirt",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/basahaunt-ehiza-song-of-the-shirt/",
+      "published": "2026-02-25T19:32:47.000Z",
+      "publishedTs": 1772047967000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/basahaunt.jpg",
+      "excerpt": "No es habitual hacer una sola reseña de dos discos, ¿no? No soy yo el que lo ha decidido, de... La entrada Ehiza / Song Of The Shirt se publicó primero en MondoSonoro ."
+    },
     {
       "id": "1239acb2ae6dcf8ec6943b160e8cfcbf041ba617",
       "title": "Manchester set to get a new festival",
@@ -448,20 +462,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Nathan-Fake-Evaporator.jpg",
       "excerpt": "Aún me pregunto si los compré en una joyería, o en una distribuidora de discos en la que cada vez... La entrada Evaporator se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9f6eaf7200c017103dd1e00c96df5653c68f108e",
-      "title": "Five Friends Floating",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/quaoar-five-friends-floating/",
-      "published": "2026-02-19T16:05:36.000Z",
-      "publishedTs": 1771517136000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/quaoar.jpg",
-      "excerpt": "A pesar de la reducida presencia física de un disco, y más allá de las incontables sensaciones que es capaz... La entrada Five Friends Floating se publicó primero en MondoSonoro ."
     },
     {
       "id": "f2ec4ac73fd1f763910567da51504e2fa44e2c02",
