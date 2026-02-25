@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T04:52:11.266Z",
+  "generatedAt": "2026-02-25T06:00:27.782Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "74127c8411aa85123c38706451446f5dc140682c",
+      "title": "The Record Crate Gets Its Long Overdue Redesign",
+      "link": "https://www.decodedmagazine.com/the-record-crate-gets-its-long-overdue-redesign/",
+      "published": "2026-02-25T05:08:01.000Z",
+      "publishedTs": 1771996081000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Record crates",
+        "Storage",
+        "Toneoptic",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/CAN-Wall-White.png?resize=810%2C456&ssl=1",
+      "excerpt": "There&#8217;s a particular kind of frustration that every serious record collector knows. You&#8217;ve spent years, possibly decades, building a collection that means something to you. Albums that represent specific moments. Twelve-inche…"
+    },
     {
       "id": "a7d44156a39a7a240fe61e28d7bdea79dea8e41a",
       "title": "Jonas Saalbach Debuts on Purified Records with Data Romance EP",
@@ -525,24 +543,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/unnamed-12.jpg?resize=810%2C1013&ssl=1",
       "excerpt": "20/20 Vision founder DJ Ralph Lawson is set to take on a marathon 20 hour 20 minute DJ livestream this Friday, 20th February from 2pm, raising funds for War Child supporting children caught up in conflicts around the world, including Gaz…"
-    },
-    {
-      "id": "19fe2e4d9b111e33e4c48e20a91f9f80ee513f08",
-      "title": "Tour-Maubourg returns with a new 6-track EP, Dreams",
-      "link": "https://www.decodedmagazine.com/tour-maubourg-returns-with-a-new-6-track-ep-dreams/",
-      "published": "2026-02-16T11:02:01.000Z",
-      "publishedTs": 1771239721000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "deep house",
-        "Noire &amp; Blanche",
-        "Soulful House",
-        "Tour-Maubourg"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/598874888_1560957848809935_1655849814182049242_n-scaled.jpg",
-      "excerpt": "Dreams EP by Tour-Maubourg Tour-Maubourg returns with a new 6-track EP, Dreams, further cementing his place as a key figure in today’s electronic music scene. Known for blending soulful house with rich jazz influences, the French-Belgian…"
     },
     {
       "id": "aa1399ce01ec1b04333ee1e7c742f61b378475c0",
