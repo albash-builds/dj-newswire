@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-24T23:31:29.339Z",
+  "generatedAt": "2026-02-25T02:06:58.081Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,44 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7b4d0f494bc9cb4b74aa50200a99665bd41e5f04",
+      "title": "Jeff Mills Performs Live Score to Metropolis at Palace of Fine Arts",
+      "link": "https://www.decodedmagazine.com/jeff-mills-performs-live-score-to-metropolis-at-palace-of-fine-arts/",
+      "published": "2026-02-25T01:08:16.000Z",
+      "publishedTs": 1771981696000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "California",
+        "Electronica",
+        "Jeff Mills",
+        "Palace of Fine Arts",
+        "San Francisco",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
+      "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
+    },
+    {
+      "id": "4a0a99c2acd383b9474bb384d5961c4b01cc4261",
+      "title": "Brockwell Live 2026 Moves Ahead Following Planning Committee Approval",
+      "link": "https://www.decodedmagazine.com/brockwell-live-2026-moves-ahead-following-planning-committee-approval/",
+      "published": "2026-02-24T23:46:39.000Z",
+      "publishedTs": 1771976799000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Brockwell Park",
+        "Festival",
+        "Lambeth Council",
+        "London"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/XtheTracks-23-HR-@garryjonesphotography-2426-scaled.jpg",
+      "excerpt": "Festival organiser, Brockwell Live’s planning application for its 2026 event series in Brockwell Park has been unanimously approved at Lambeth Council Planning Applications Committee meeting on Tuesday, 24th February at Lambeth Town Hall…"
+    },
     {
       "id": "5521f38ebae5f903c1da9018cc1513700507251a",
       "title": "Minutes From Heaven",
@@ -507,43 +545,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2022/08/@wearefestival-_-lukedeakin_-@lightfootagecy-89-scaled.jpg",
       "excerpt": "New national report finds audiences growing and regional scenes surging &#8211; even as economic pressure accelerates club closures and hollows out the UK’s nightlife infrastructure. UK electronic music generated £2.47 billion in measura…"
-    },
-    {
-      "id": "654437e0f31151f305c42a6611e3353f96bce88b",
-      "title": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal",
-      "link": "https://www.decodedmagazine.com/parallel-society-announces-the-full-programme-for-its-2026-edition-in-lisbon-portugal/",
-      "published": "2026-02-16T10:27:51.000Z",
-      "publishedTs": 1771237671000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Conference",
-        "House Music",
-        "Lisbon",
-        "Parallel Society",
-        "Portugal",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/20260211_FINAL-LINEUP-POSTERS_1-x-1.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "Parallel Society announces the full programme for its 2026 edition in Lisbon, Portugal. Bringing together leading international and local pioneers across counter-culture, music, and civic technology. The two-day gathering takes place on …"
-    },
-    {
-      "id": "617319c07ca667d6954c5e4193adfd332fda29c2",
-      "title": "God Is A DJ new musical in development",
-      "link": "https://www.decodedmagazine.com/god-is-a-dj-new-musical-in-development/",
-      "published": "2026-02-16T09:49:30.000Z",
-      "publishedTs": 1771235370000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "God is a DJ",
-        "Musical",
-        "theatre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/What-is-a-Musical-Theater.webp",
-      "excerpt": "Well, we didn&#8217;t have this on our 2026 cards, but here we are&#8230;.. God Is A DJ, a brand new musical in development, is set to bring the world of DJs and club culture to the stage. Blending a live DJ, live band, and iconic dance …"
     },
     {
       "id": "aa1399ce01ec1b04333ee1e7c742f61b378475c0",
