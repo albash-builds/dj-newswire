@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T13:04:36.636Z",
+  "generatedAt": "2026-02-25T14:49:05.715Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3e36fa17e6cc6fa020a1d2c04cf73cc227ee8ffe",
+      "title": "Terapia de grupo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maximiliano-calvo-terapia-de-grupo/",
+      "published": "2026-02-25T14:45:39.000Z",
+      "publishedTs": 1772030739000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Maximiliano-Calvo-Terapia-de-grupo.jpg",
+      "excerpt": "Maximiliano Calvo vuelve con “Terapia de grupo”, un disco doble que surge como una especie de respuesta a su largo... La entrada Terapia de grupo se publicó primero en MondoSonoro ."
+    },
     {
       "id": "fefc8d2adaf1be6cddc0332abf7fd2535a2a51ba",
       "title": "John 00 Fleming Announces Upcoming Album The Lost Tribe",
@@ -427,20 +441,6 @@
       "excerpt": "A pesar de la reducida presencia física de un disco, y más allá de las incontables sensaciones que es capaz... La entrada Five Friends Floating se publicó primero en MondoSonoro ."
     },
     {
-      "id": "fc25ef0735593236574d8cbb76d50c58a4d3c69d",
-      "title": "Love Is Not Enough",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/converge-love-is-not-enough-disco/",
-      "published": "2026-02-19T11:05:24.000Z",
-      "publishedTs": 1771499124000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Converge-Love-Is-Not-Enough-.jpg",
-      "excerpt": "A veces solo necesitas treinta minutos para vivir una dulce agonía. Una visita al dentista para que te mate un... La entrada Love Is Not Enough se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "f2ec4ac73fd1f763910567da51504e2fa44e2c02",
       "title": "The Numbers Don’t Lie: SoundCloud’s 2026 Music Intelligence Report and What It Means for Electronic Music",
       "link": "https://www.decodedmagazine.com/the-numbers-dont-lie-soundclouds-2026-music-intelligence-report-and-what-it-means-for-electronic-music/",
@@ -540,6 +540,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
       "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
+    },
+    {
+      "id": "b6a509a47fe0261a48f020175440c4e7d410c3fd",
+      "title": "Manchester club Amber's launches new in-house mix series",
+      "link": "https://mixmag.net/read/manchesters-ambers-launches-new-in-house-mix-series-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ambers.jpg?width=660&fit=cover&s=O1AuEaDdTGAjAHytmWikfBCAAXIohlNC5g5Vs-ZDZ2E",
+      "excerpt": "Recorded live at the venue, In Amber has so far featured Mr. Scruff and MC Kwasi, Kevin Saunderson, and Aletha B2B Zuri Continue reading..."
     },
     {
       "id": "b7f7ca2b096d36cd70c8377f166797e02f5d5518",
@@ -1488,18 +1500,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cafe-1001-tour.jpg?width=660&fit=cover&s=QqiqhFwH6G4eH5SKlU16U3nfc0Ks79CaAf7JDLuvNuc",
       "excerpt": "The “first-of-its-kind” cultural exchange will see Café 1001 tap 10 audio-forward venues across the continent Continue reading..."
-    },
-    {
-      "id": "0df348e863d2b03c5f7a337821f3c44922d31e29",
-      "title": "Ministry of Sound unveils major main room refurbishment for 35th anniversary",
-      "link": "https://mixmag.net/read/ministry-of-sound-unveils-major-refurbishment-for-the-box-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-box.png?width=660&fit=cover&s=RTnyW8hNGtuaQkVRuRNrlJAfhgShK8Z04374XhktgI0",
-      "excerpt": "The Box has been fitted out with a new KV2 soundsystem, redesigned dancefloor and more Continue reading..."
     }
   ]
 }
