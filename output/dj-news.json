@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T08:50:29.091Z",
+  "generatedAt": "2026-02-25T09:54:58.829Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "998748cae6f1f9e75d260d3aaed0f2fbeb97200d",
+      "title": "Punk es aquí y ahora",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/steve-ignorant-band-punk-es-aqui-y-ahora/",
+      "published": "2026-02-25T09:26:42.000Z",
+      "publishedTs": 1772011602000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Steve-Ignorant-Band-Punk-es-aqui-y-ahora.jpg",
+      "excerpt": "“Punk is dead” es un mantra que se ha repetido hasta la saciedad desde que los Sex Pistols implosionaran, Broadway... La entrada Punk es aquí y ahora se publicó primero en MondoSonoro ."
+    },
     {
       "id": "29614eb67af3c333e77cd6864252970dd7b13ebf",
       "title": "The Show Of A Lost World Troxy Live 2024",
@@ -441,20 +455,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Joris-Voorn-e1771490602724.jpg",
       "excerpt": "Dutch electronic producer Joris Voorn momentarily moves away from peak-time dancefloor productions on his newly announced album “Melatonin”, a downtempo and ambient focused release shaped around immersive detail. Melatonin arrives as the…"
-    },
-    {
-      "id": "c8dc6a804197671abfaef75add634665eb469151",
-      "title": "Wuthering Heights",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-wuthering-heights/",
-      "published": "2026-02-19T07:07:09.000Z",
-      "publishedTs": 1771484829000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Charli-xcx-Wuthering-Heights.jpg",
-      "excerpt": "Leer “Cumbres borrascosas” de Emily Brontë es, sin lugar a dudas, una experiencia visceral, casi mística, donde la devoción (y... La entrada Wuthering Heights se publicó primero en MondoSonoro ."
     },
     {
       "id": "86050353ad2872bc03a3d8c7c6d8457c3d75bd9a",
