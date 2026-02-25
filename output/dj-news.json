@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T11:40:02.698Z",
+  "generatedAt": "2026-02-25T13:04:36.636Z",
   "total": 110,
   "sources": [
     {
@@ -540,6 +540,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/armazem-16-janelas-rio-tejoee.jpg?resize=810%2C480&ssl=1",
       "excerpt": "There are clubs that exist not because someone spotted a gap in the market, but because a group of people genuinely believed in something. Munich&#8217;s BLITZ is one of those places, and after nearly a decade on the dance floor, it will…"
+    },
+    {
+      "id": "b7f7ca2b096d36cd70c8377f166797e02f5d5518",
+      "title": "Legendary synth composer Éliane Radigue has died aged 94",
+      "link": "https://mixmag.net/read/legendary-synth-composer-%C3%A9liane-radigue-died-aged-94-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/elaine-radigue.jpg?width=660&fit=cover&s=PQuGXKAcsDYu9QHCwCxGA_l-vFHcVJ_7dy2-V4vX_z8",
+      "excerpt": "The French musician was a musique concrète pioneer, frequently experimenting with tape music Continue reading..."
     },
     {
       "id": "aa1399ce01ec1b04333ee1e7c742f61b378475c0",
@@ -1488,18 +1500,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-box.png?width=660&fit=cover&s=RTnyW8hNGtuaQkVRuRNrlJAfhgShK8Z04374XhktgI0",
       "excerpt": "The Box has been fitted out with a new KV2 soundsystem, redesigned dancefloor and more Continue reading..."
-    },
-    {
-      "id": "770a74bb21d692b3b1bcae3f59ed47c6d4782994",
-      "title": "Darius Syrossian cancels US shows citing Trump's \"race and nationality-based\" travel bans",
-      "link": "https://mixmag.net/read/darius-syrossian-forced-to-cancel-us-shows-due-to-trump-travel-rules-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Darius-s.png?width=660&fit=cover&s=v4enJRdqQ29Wo6529WQqH_KogNCOp2qL578JHvA82k0",
-      "excerpt": "He shared concerns around current travel restrictions, which &quot;target, exclude, and marginalise people based on who they are and where they&#039;re from&quot; Continue reading..."
     }
   ]
 }
