@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T07:08:29.495Z",
+  "generatedAt": "2026-02-26T08:49:25.762Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,30 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a9f0663a87cfbe3932891677a22b48f5c3aeb62c",
+      "title": "Global Underground announces Australia Tour ft Sasha, Danny Howells, James Zabiela, & Anthony Pappa",
+      "link": "https://www.decodedmagazine.com/global-underground-announces-australia-tour-ft-sasha-danny-howells-james-zabiela-anthony-pappa/",
+      "published": "2026-02-26T08:09:34.000Z",
+      "publishedTs": 1772093374000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Anthony Pappa",
+        "Brisbane",
+        "Danny Howells",
+        "James Zabeila",
+        "Melbourne",
+        "Progressive House",
+        "Sasha",
+        "Sydney",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/201903-anthony-pappa-jess-middleton-005.jpg?resize=810%2C997&ssl=1",
+      "excerpt": "Global Underground’s Australia tour begins Friday 5 th June 2026 at Melbourne’s iconic Northcote Social Club, who’ve been presenting the best music to Melbourne since 1894. Then, on Saturday 6 th June, an all-dayer at Brisbane’s Eclipse,…"
+    },
     {
       "id": "daa58f81b96d6d1b7fc009e7807a4e47af3ea05a",
       "title": "Ehiza / Song Of The Shirt",
@@ -88,7 +112,7 @@
         "Trance"
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/John-00-Fleming-1-scaled.jpg",
-      "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing&nbsp; The Lost Tribe , an 18-track body of work set for release on April 11 via his own imprint,…"
+      "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing The Lost Tribe , an 18-track body of work set for release on April 10 via his own imprint, JOOF …"
     },
     {
       "id": "998748cae6f1f9e75d260d3aaed0f2fbeb97200d",
@@ -522,27 +546,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/bc7318dd-ff2e-4ab2-a740-ae3d6fa027bc_16-9-aspect-ratio_default_0.jpg?resize=810%2C456&ssl=1",
       "excerpt": "Barcelona has always operated on its own frequency. While the rest of Europe&#8217;s major cities have spent the last decade chasing bigger line-ups and increasingly homogenised festival experiences, the Catalan capital has been quietly …"
-    },
-    {
-      "id": "2050ac3c81ec22b0f842c0df68487ff26eb10e0a",
-      "title": "Sydney’s underground institution enters a new chapter with a familiar face at the helm",
-      "link": "https://www.decodedmagazine.com/sydneys-underground-institution-enters-a-new-chapter-with-a-familiar-face-at-the-helm/",
-      "published": "2026-02-18T12:11:27.000Z",
-      "publishedTs": 1771416687000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Bryony Calleia",
-        "Chinese laundry",
-        "Clubbing",
-        "House Music",
-        "Merivale",
-        "Sydney",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Chinese-Laundry-14.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "There are very few clubs in the world that can genuinely claim to have shaped a city&#8217;s musical identity. Chinese Laundry is one of them. Buried beneath the Slip Inn in Sydney&#8217;s CBD, in the sandstone basement of a building tha…"
     },
     {
       "id": "bd951752608a3933e5b5f3f42d2bffd1c377f55b",
