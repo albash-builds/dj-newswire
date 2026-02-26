@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T08:49:25.762Z",
+  "generatedAt": "2026-02-26T09:51:14.239Z",
   "total": 110,
   "sources": [
     {
@@ -546,6 +546,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/bc7318dd-ff2e-4ab2-a740-ae3d6fa027bc_16-9-aspect-ratio_default_0.jpg?resize=810%2C456&ssl=1",
       "excerpt": "Barcelona has always operated on its own frequency. While the rest of Europe&#8217;s major cities have spent the last decade chasing bigger line-ups and increasingly homogenised festival experiences, the Catalan capital has been quietly …"
+    },
+    {
+      "id": "803d325295c27c463cf4e83aec3b609f37c66c92",
+      "title": "Jazz Cafe and Phonox owners to launch new 2,300-capacity venue in Stratford",
+      "link": "https://mixmag.net/read/jazz-cafe-phonox-owners-open-2300-capacity-venue-stratford-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rex-stratford.jpg?width=660&fit=cover&s=ByV2fr3m7QGwcO-sV8piR_uhbO5qlJT3RVh61l-izhU",
+      "excerpt": "Set to open in 2027, The Rex will open on the site of a legendary former theatre venue of the same name Continue reading..."
     },
     {
       "id": "bd951752608a3933e5b5f3f42d2bffd1c377f55b",
@@ -1494,18 +1506,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gesaffelstein-grammys.jpg?width=660&fit=cover&s=OXKkwaQpUqsHG-Gyacm1LMVcDlqVjCTNcXwDuh6Mf1Q",
       "excerpt": "The 68th annual ceremony took place on Sunday in Los Angeles Continue reading..."
-    },
-    {
-      "id": "020af1ff0c541181c5082a0b91b4b86ef4be5ebc",
-      "title": "Experts advise UK government not to reclassify ketamine as a Class A drug",
-      "link": "https://mixmag.net/read/ketamine-report-class-a-drug-reclassify-uk-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ketamine-warnings-credit-marco-verch.jpg?width=660&fit=cover&s=5gXM0T_BTQvbbwEc_bW9xOGcv1zCeOn-hIoRNdZzfa0",
-      "excerpt": "The report found that “possible advantages of reclassifying ketamine were outweighed by the disadvantages&quot; Continue reading..."
     }
   ]
 }
