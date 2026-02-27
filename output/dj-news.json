@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T07:46:34.281Z",
+  "generatedAt": "2026-02-27T08:40:18.104Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "21fe8c0e7fd6dc4041b5b26e2d9ee83a3d6f2ef5",
+      "title": "Existence Is Bliss",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/deadletter-existence-is-bliss/",
+      "published": "2026-02-27T08:13:13.000Z",
+      "publishedTs": 1772179993000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Deadletter-Existence-Is-Bliss.jpg",
+      "excerpt": "Apenas año y medio después de su destacable debut, “Hysterical Strength” (So, 24), Deadletter se confirman, en base a su... La entrada Existence Is Bliss se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ab8bbe94f3c05858627e314c00af4d2bc5955c40",
       "title": "Ritual/compulsión",
@@ -364,20 +378,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/XtheTracks-23-HR-@garryjonesphotography-2426-scaled.jpg",
       "excerpt": "Festival organiser, Brockwell Live’s planning application for its 2026 event series in Brockwell Park has been unanimously approved at Lambeth Council Planning Applications Committee meeting on Tuesday, 24th February at Lambeth Town Hall…"
-    },
-    {
-      "id": "5521f38ebae5f903c1da9018cc1513700507251a",
-      "title": "Minutes From Heaven",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/minutes-heaven-celestial-bum/",
-      "published": "2026-02-24T15:33:08.000Z",
-      "publishedTs": 1771947188000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/CelestialBumsCD.jpg",
-      "excerpt": "El cuarto disco de los barceloneses Celestial Bums es toda una declaración de intenciones: la banda lo presenta como un... La entrada Minutes From Heaven se publicó primero en MondoSonoro ."
     },
     {
       "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
