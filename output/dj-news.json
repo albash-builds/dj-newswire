@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T02:01:46.917Z",
+  "generatedAt": "2026-02-27T04:45:12.157Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a68734ef8ccf4833ec6312d9acbdc4970593e0b7",
+      "title": "Paisley Dark Records Brings Five Years of Leeds Underground to Brixton This Weekend",
+      "link": "https://www.decodedmagazine.com/paisley-dark-records-brings-five-years-of-leeds-underground-to-brixton-this-weekend/",
+      "published": "2026-02-27T03:48:35.000Z",
+      "publishedTs": 1772164115000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Brixton",
+        "Hence Brixton",
+        "London",
+        "Paisley Dark Records",
+        "Red telephone",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/641244712_122198904674370366_6822653117766176058_n.jpg?resize=810%2C320&ssl=1",
+      "excerpt": "Five years is long enough to prove a point, and this Saturday at Hence Brixton, Paisley Dark Records does exactly that. The Leeds-based label, founded by DJ and producer John Paynter, has spent half a decade quietly building one of the m…"
+    },
     {
       "id": "644de09ca6409831bbd141206caa48b813f761cb",
       "title": "Crítica de 'Mil Pequeños Cortes' el nuevo disco de Cora Yako",
@@ -524,23 +544,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/soundcloud.webp",
       "excerpt": "There&#8217;s a particular kind of report that gets passed around music industry circles, full of broad strokes and vague proclamations about what&#8217;s trending, designed more to reassure investors than to actually tell you anything u…"
-    },
-    {
-      "id": "3d22583b5e4586d9a37a135e98a323b4cce55212",
-      "title": "Joris Voorn announces new album “Melatonin”",
-      "link": "https://www.decodedmagazine.com/joris-voorn-announces-new-album-melatonin/",
-      "published": "2026-02-19T08:45:10.000Z",
-      "publishedTs": 1771490710000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Electronica",
-        "Joris Voorn"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Joris-Voorn-e1771490602724.jpg",
-      "excerpt": "Dutch electronic producer Joris Voorn momentarily moves away from peak-time dancefloor productions on his newly announced album “Melatonin”, a downtempo and ambient focused release shaped around immersive detail. Melatonin arrives as the…"
     },
     {
       "id": "a4d5a1d8b1864bb555c235c9e80360d0ea94077b",
