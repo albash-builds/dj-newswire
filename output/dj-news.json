@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T12:58:57.150Z",
+  "generatedAt": "2026-02-27T14:03:06.414Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d0395262bfcd7219ecaa54294103f65467697d01",
+      "title": "Five on Friday with Red Telephone",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-red-telephone/",
+      "published": "2026-02-27T13:07:38.000Z",
+      "publishedTs": 1772197658000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "House Music",
+        "London",
+        "Marie Avril",
+        "Music Industry",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
+      "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
+    },
     {
       "id": "21fe8c0e7fd6dc4041b5b26e2d9ee83a3d6f2ef5",
       "title": "Existence Is Bliss",
@@ -533,24 +553,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/NICOLE-MOUDABER-scaled-e1771589272441.png",
       "excerpt": "Deep Dish have combined forces with Nicole Moudaber for a modern-day rework of ‘Love Someone Else’ with Skunk Anansie. Deep Dish x Nicole Moudaber x Skunk Anansie’s ‘Love Someone Else’ is out now via Factory 93 Records. Originally releas…"
-    },
-    {
-      "id": "a2d51a7fb5d0404a68aebf18bf8f7ca7704c259e",
-      "title": "Five on Friday: Decoded Magazine Teams Up with Red Telephone",
-      "link": "https://www.decodedmagazine.com/five-on-friday-decoded-magazine-teams-up-with-red-telephone/",
-      "published": "2026-02-20T11:44:45.000Z",
-      "publishedTs": 1771587885000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "House Music",
-        "Margate",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/red-telephone-box.jpg",
-      "excerpt": "Announcing a new editorial partnership with our good friends from The Red Telephone from Margate. Starting today, their weekly feature Five on Friday — five tracks curated by artists, selectors, and record enthusiasts from within their c…"
     },
     {
       "id": "aa56b2470637c7d511b4e66bb67863832f76c9e4",
