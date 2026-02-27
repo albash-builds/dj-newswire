@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T06:54:15.974Z",
+  "generatedAt": "2026-02-27T07:46:34.281Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ab8bbe94f3c05858627e314c00af4d2bc5955c40",
+      "title": "Ritual/compulsión",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sacralvna-ritual-compulsion/",
+      "published": "2026-02-27T07:34:26.000Z",
+      "publishedTs": 1772177666000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Sacralvna-Ritual-compulsion.jpg",
+      "excerpt": "Del choque entre tensión y liberación toma forma Sacralvna, un nuevo proyecto gestado en 2024 pero cuyos componentes no son... La entrada Ritual/compulsión se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "13fcc27db115d8b1d73d8971d8feaefa6c40d959",
+      "title": "Reseñamos 'Pel barri es comenta', lo nuevo de La Ludwig Band",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-ludwig-band-pel-barri-es-comenta/",
+      "published": "2026-02-27T07:02:37.000Z",
+      "publishedTs": 1772175757000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Ludwig-Band-Pel-barri-es-comenta.jpg",
+      "excerpt": "La Ludwig Band lo han vuelto a hacer, y esta vez mejor que nunca. El sexteto vuelve a la escena... La entrada Reseñamos &#039;Pel barri es comenta&#039;, lo nuevo de La Ludwig Band se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
       "title": "Bitwig Studio 6 Lands 11th March: Everything You Need to Know",
@@ -352,20 +380,6 @@
       "excerpt": "El cuarto disco de los barceloneses Celestial Bums es toda una declaración de intenciones: la banda lo presenta como un... La entrada Minutes From Heaven se publicó primero en MondoSonoro ."
     },
     {
-      "id": "28c181b090ad2032258c6435b9aafb54b5efe05a",
-      "title": "Canto y lloro",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ajou-canto-y-lloro/",
-      "published": "2026-02-24T13:02:35.000Z",
-      "publishedTs": 1771938155000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/ajou.jpg",
-      "excerpt": "AJOU! da un paso adelante con “Canto y Lloro”, un EP que consolida el camino iniciado con aquella primera maqueta... La entrada Canto y lloro se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
       "title": "Thirty Years of Trainspotting: Time to Revisit One of Britain’s Best Films",
       "link": "https://www.decodedmagazine.com/thirty-years-of-trainspotting-time-to-revisit-one-of-britains-best-films/",
@@ -405,20 +419,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/steve-bug.jpg",
       "excerpt": "Following on from a run of successful collaborations within Steve Bug’s creative circle, Why Not Us sees Steve Bug and Ammo Avenue join forces after Ammo Avenue’s remix of Steve Bug &amp; Huxley’s L.O.V.E. released in 2023 on Poker Flat,…"
-    },
-    {
-      "id": "ed876ae7089b96a50dfe255ef97aece230884129",
-      "title": "HUMBLE",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/atzur-humble/",
-      "published": "2026-02-23T10:44:22.000Z",
-      "publishedTs": 1771843462000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Atzur-HUMBLE.jpg",
-      "excerpt": "Ambicioso en su factura y declamatorio en su intención, “HUMBLE”, segundo compacto del dúo hispano-austríaco Atzur, ensalza entre purpurina y... La entrada HUMBLE se publicó primero en MondoSonoro ."
     },
     {
       "id": "ddcd444679f665382c9411e3b4358dc59b542bd0",
