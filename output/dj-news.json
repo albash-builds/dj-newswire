@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T04:45:12.157Z",
+  "generatedAt": "2026-02-27T05:52:09.448Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c7a0ad7eed2e8c88cd73352b9470cfdc1faeaf72",
+      "title": "Arturia unveils KeyStep 37 mk2",
+      "link": "https://www.decodedmagazine.com/arturia-unveils-keystep-37-mk2/",
+      "published": "2026-02-27T05:29:24.000Z",
+      "publishedTs": 1772170164000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Arturia",
+        "Keyboard",
+        "KeyStep 37 mk2",
+        "MIDI",
+        "music production",
+        "Music tech"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Desktop1.png?resize=810%2C534&ssl=1",
+      "excerpt": "The original KeyStep 37 earned its place on desks and stages worldwide for good reason. Compact, versatile and genuinely playable, it sat at a sweet spot between minimal keyboard controllers and full-blown production rigs. With the mk2, …"
+    },
     {
       "id": "a68734ef8ccf4833ec6312d9acbdc4970593e0b7",
       "title": "Paisley Dark Records Brings Five Years of Leeds Underground to Brixton This Weekend",
@@ -526,24 +547,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/artwork-600x315-1.jpg",
       "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bohm &#8211; You Don&#x27;t Want This (Radio Edit) Sydney duo Bohm have steadily built their name through a focused approach to the dancefloor, long-form sets and a consistent production outp…"
-    },
-    {
-      "id": "f2ec4ac73fd1f763910567da51504e2fa44e2c02",
-      "title": "The Numbers Don’t Lie: SoundCloud’s 2026 Music Intelligence Report and What It Means for Electronic Music",
-      "link": "https://www.decodedmagazine.com/the-numbers-dont-lie-soundclouds-2026-music-intelligence-report-and-what-it-means-for-electronic-music/",
-      "published": "2026-02-19T10:56:57.000Z",
-      "publishedTs": 1771498617000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Industry Report",
-        "Music Intelligence Report",
-        "Soundcloud"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/12/soundcloud.webp",
-      "excerpt": "There&#8217;s a particular kind of report that gets passed around music industry circles, full of broad strokes and vague proclamations about what&#8217;s trending, designed more to reassure investors than to actually tell you anything u…"
     },
     {
       "id": "a4d5a1d8b1864bb555c235c9e80360d0ea94077b",
