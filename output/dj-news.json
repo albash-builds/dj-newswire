@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T14:03:06.414Z",
+  "generatedAt": "2026-02-27T15:37:38.499Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
+      "title": "Review – We Spent a Night In The Dark",
+      "link": "https://www.decodedmagazine.com/review-we-spent-a-night-in-the-dark/",
+      "published": "2026-02-27T14:22:41.000Z",
+      "publishedTs": 1772202161000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Event Reviews",
+        "Art",
+        "chill out",
+        "Electronica",
+        "In The Dark",
+        "London",
+        "multi-sensory experience"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
     {
       "id": "d0395262bfcd7219ecaa54294103f65467697d01",
       "title": "Five on Friday with Red Telephone",
@@ -537,22 +557,16 @@
       "excerpt": "There is a quiet but determined counter-movement happening at the edges of electronic music culture, and it goes by the name of Relics. Created by the collective known as Cybe , Relics are physical media objects that defy easy categorisa…"
     },
     {
-      "id": "aff1b3d656b1f3c89f4e33537e6968dc3b9d8aea",
-      "title": "Deep Dish team up with Nicole Moudaber",
-      "link": "https://www.decodedmagazine.com/deep-dish-team-up-with-nicole-moudaber/",
-      "published": "2026-02-20T12:09:48.000Z",
-      "publishedTs": 1771589388000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Deep Dish",
-        "Factory 93",
-        "Nicole Moudaber",
-        "Skunk Anansie"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/NICOLE-MOUDABER-scaled-e1771589272441.png",
-      "excerpt": "Deep Dish have combined forces with Nicole Moudaber for a modern-day rework of ‘Love Someone Else’ with Skunk Anansie. Deep Dish x Nicole Moudaber x Skunk Anansie’s ‘Love Someone Else’ is out now via Factory 93 Records. Originally releas…"
+      "id": "8ba9f6dc0a3ad6bc28c570467d70036f16a5c2ee",
+      "title": "Venezuelan techno DJ jailed after selling £7 million worth of counterfeit plane parts",
+      "link": "https://mixmag.net/read/venezuelan-techno-dj-jailed-selling-7-million-worth-counterfeit-plane-parts-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/santa-militia-techno.jpg?width=660&fit=cover&s=ovu0_5i_tLT0dxoVq7FTqpbuPkvAX4KPc6FIMQyDarg",
+      "excerpt": "José Alejandro Zamora Yrala sold over 60,000 fake parts that were fitted in planes across the world Continue reading..."
     },
     {
       "id": "aa56b2470637c7d511b4e66bb67863832f76c9e4",
@@ -1501,18 +1515,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_FUNCTIONS_WEBSTORY.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=Im0DioVKtKWHKY9cUFrY6WEWqW7SMIpWzTg5MtTl4FM",
       "excerpt": "Born during the pandemic as a Zoom party, Normie Corp now brings its wild and hyper-specific themed parties to venues across Vancouver, uplifting its community of “normies-turned-creatives”. We meet Normie Corp’s founders to find out mor…"
-    },
-    {
-      "id": "831d8614f36ea2400d01665dd946eed3f6cea1aa",
-      "title": "Cardiff’s Clwb Ifor Bach undergoes major renovation to expand into derelict building",
-      "link": "https://mixmag.net/read/cardiff-clwb-ifor-bach-undergoes-major-renovation-expand-into-derelict-building-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clwb-ifor-bach.jpg?width=660&fit=cover&s=FtWYkdMEl6RJJgyfo8_lIf4Zm72tcFEmHnDdJq1SuLA",
-      "excerpt": "The legendary club and live music space previously called for donations to support the redevelopment Continue reading..."
     }
   ]
 }
