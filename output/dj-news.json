@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T05:52:09.448Z",
+  "generatedAt": "2026-02-27T06:54:15.974Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
+      "title": "Bitwig Studio 6 Lands 11th March: Everything You Need to Know",
+      "link": "https://www.decodedmagazine.com/bitwig-studio-6-lands-11th-march-everything-you-need-to-know/",
+      "published": "2026-02-27T06:24:00.000Z",
+      "publishedTs": 1772173440000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Bitwig",
+        "Bitwig Studio",
+        "DAW",
+        "music production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Bitwig-Studio_BWS6_Automation-Mode-HD.png?resize=810%2C487&ssl=1",
+      "excerpt": "There&#8217;s a version of software development where engineers build features in isolation, ticking boxes on a roadmap that bears little resemblance to how anyone actually makes music. Bitwig has never really operated that way, and Bitw…"
+    },
     {
       "id": "c7a0ad7eed2e8c88cd73352b9470cfdc1faeaf72",
       "title": "Arturia unveils KeyStep 37 mk2",
@@ -533,20 +551,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/red-telephone-box.jpg",
       "excerpt": "Announcing a new editorial partnership with our good friends from The Red Telephone from Margate. Starting today, their weekly feature Five on Friday — five tracks curated by artists, selectors, and record enthusiasts from within their c…"
-    },
-    {
-      "id": "eb491edcebf36ecb47128a4da9116da14ed5839d",
-      "title": "Exclusive Premiere – Bohm – You Don’t Want This",
-      "link": "https://www.decodedmagazine.com/exclusive-premiere-bohm-you-dont-want-this/",
-      "published": "2026-02-20T11:28:38.000Z",
-      "publishedTs": 1771586918000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/artwork-600x315-1.jpg",
-      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; Bohm &#8211; You Don&#x27;t Want This (Radio Edit) Sydney duo Bohm have steadily built their name through a focused approach to the dancefloor, long-form sets and a consistent production outp…"
     },
     {
       "id": "a4d5a1d8b1864bb555c235c9e80360d0ea94077b",
