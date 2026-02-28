@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T07:27:10.480Z",
+  "generatedAt": "2026-02-28T08:29:16.267Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9af7d844ac96d6eca0aa4f1ae239214967220acf",
+      "title": "Look Who's Back",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-nude-party-look-whos-back/",
+      "published": "2026-02-28T07:57:38.000Z",
+      "publishedTs": 1772265458000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/The-Nude-Party-Look-Who-s-Back.jpg",
+      "excerpt": "La naturaleza lúdica a la que remite el nombre de esta banda neoyorquina no se transfiera a su música en... La entrada Look Who&#039;s Back se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "282c0c34da2d56b89abf91519494f270b48f6732",
+      "title": "Crítica de 'Nothing's About to Happen to Me', lo nuevo de Mitski",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mitski-nothings-about-to-happen-to-me/",
+      "published": "2026-02-28T06:39:21.000Z",
+      "publishedTs": 1772260761000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mitski-Nothings-About-to-Happen-to-Me.jpg",
+      "excerpt": "\"Nothing's About to Happen to Me\", el octavo disco de Mitski, puede que sea el disco más Mitski de su... La entrada Crítica de &#039;Nothing&#039;s About to Happen to Me&#039;, lo nuevo de Mitski se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
       "title": "Review – We Spent a Night In The Dark",
@@ -90,7 +118,7 @@
     },
     {
       "id": "d9c64e7648ee6f9ea439f210eecb230f231dd6f9",
-      "title": "\"Sant Domingo Forever\" es lo nuevo de Maria Jaume que se publica hoy viernes",
+      "title": "Sant Domingo Forever",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-jaume-sant-domingo-forever-disco/",
       "published": "2026-02-27T07:27:01.000Z",
       "publishedTs": 1772177221000,
@@ -100,7 +128,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Maria-Jaume-Sant-Domingo-Forever.jpg",
-      "excerpt": "¡Qué sería de este país sin las fiestas populares! Esos días en los que te lanzas a la calle como... La entrada &quot;Sant Domingo Forever&quot; es lo nuevo de Maria Jaume que se publica hoy viernes se publicó primero en MondoSonoro ."
+      "excerpt": "¡Qué sería de este país sin las fiestas populares! Esos días en los que te lanzas a la calle como... La entrada Sant Domingo Forever se publicó primero en MondoSonoro ."
     },
     {
       "id": "13fcc27db115d8b1d73d8971d8feaefa6c40d959",
@@ -299,20 +327,6 @@
       "excerpt": "A new festival dedicated to the past, present and future of electronic music culture will launch in Manchester this summer, as Outwards unveils a city-centre, open-air gathering designed to reconnect dance music with its deeper cultural …"
     },
     {
-      "id": "3e36fa17e6cc6fa020a1d2c04cf73cc227ee8ffe",
-      "title": "Terapia de grupo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/maximiliano-calvo-terapia-de-grupo/",
-      "published": "2026-02-25T14:45:39.000Z",
-      "publishedTs": 1772030739000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Maximiliano-Calvo-Terapia-de-grupo.jpg",
-      "excerpt": "Maximiliano Calvo vuelve con “Terapia de grupo”, un disco doble que surge como una especie de respuesta a su largo... La entrada Terapia de grupo se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "fefc8d2adaf1be6cddc0332abf7fd2535a2a51ba",
       "title": "John 00 Fleming Announces Upcoming Album The Lost Tribe",
       "link": "https://www.decodedmagazine.com/john-00-fleming-announces-upcoming-album-the-lost-tribe/",
@@ -330,20 +344,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/John-00-Fleming-1-scaled.jpg",
       "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing The Lost Tribe , an 18-track body of work set for release on April 10 via his own imprint, JOOF …"
-    },
-    {
-      "id": "998748cae6f1f9e75d260d3aaed0f2fbeb97200d",
-      "title": "Punk es aquí y ahora",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/steve-ignorant-band-punk-es-aqui-y-ahora/",
-      "published": "2026-02-25T09:26:42.000Z",
-      "publishedTs": 1772011602000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Steve-Ignorant-Band-Punk-es-aqui-y-ahora.jpg",
-      "excerpt": "“Punk is dead” es un mantra que se ha repetido hasta la saciedad desde que los Sex Pistols implosionaran, Broadway... La entrada Punk es aquí y ahora se publicó primero en MondoSonoro ."
     },
     {
       "id": "74127c8411aa85123c38706451446f5dc140682c",
