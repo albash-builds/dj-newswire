@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-01T17:22:25.172Z",
+  "generatedAt": "2026-03-01T18:33:36.902Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7f974a5b86f614fe7ab36735419243ba0115ca58",
+      "title": "Jóvenes promesas de la delincuencia",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/rat-zinger-jovenes-promesas-de-la-delincuencia/",
+      "published": "2026-03-01T18:32:57.000Z",
+      "publishedTs": 1772389977000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Rat-Zinger-jovenes-promesas-de-la-delincuencia.jpg",
+      "excerpt": "Ni jóvenes, ni promesas. Lo de la delincuencia mejor no lo comentamos aquí porque seguramente algunos de los delitos cometidos... La entrada Jóvenes promesas de la delincuencia se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "14e031b27431f2c12effe52159279d490e2e6da9",
+      "title": "Gained / Lost",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-wave-pictures-gained-lost/",
+      "published": "2026-03-01T18:16:18.000Z",
+      "publishedTs": 1772388978000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Wave-Pictures-Gained-Lost-.jpg",
+      "excerpt": "Hace tiempo que el trío británico The Wave Pictures quemó todas las naves del efecto sorpresa, pero, a cambio y... La entrada Gained / Lost se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bec4f1532c9cdab175a4e4d65ba2e858d3851672",
+      "title": "Reseñamos 'Hen’s Teeth', el octavo largo de Iron & Wine",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/iron-wine-hens-teeth-disco/",
+      "published": "2026-03-01T17:31:24.000Z",
+      "publishedTs": 1772386284000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Iron-Wine-Hens-Teeth.jpg",
+      "excerpt": "Cuestión de pellizco. No hay nada esencialmente distinto en este \"Hen’s Teeth\" (2026), al menos en la forma, a lo... La entrada Reseñamos &#039;Hen’s Teeth&#039;, el octavo largo de Iron &#038; Wine se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9af7d844ac96d6eca0aa4f1ae239214967220acf",
       "title": "Look Who's Back",
@@ -218,20 +260,6 @@
       "excerpt": "Si estáis buscando un disco de guitarras con riffs hipnóticos, letras intensas y energía exorbitante, el tercer álbum de Cora... La entrada Mil Pequeños Cortes se publicó primero en MondoSonoro ."
     },
     {
-      "id": "edf74ec23fe9515cc15f2e4ba0803bbefee00f4b",
-      "title": "Ninety Seconds To Midnight",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/exsonvaldes-ninety-seconds/",
-      "published": "2026-02-26T14:38:38.000Z",
-      "publishedTs": 1772116718000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Exsonvaldes-Ninety-Seconds-.jpg",
-      "excerpt": "La carrera de los siempre encantadores Exsonvaldes comienza a ser de fondo, después de que la banda francesa sume ya... La entrada Ninety Seconds To Midnight se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "91c287cae859d40643adf5153273076120b3f3f7",
       "title": "Terminal V announce last ever festival in Edinburgh",
       "link": "https://www.decodedmagazine.com/terminal-v-announce-last-ever-festival-in-edinburgh/",
@@ -250,20 +278,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/TERMINAL-V_009.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Terminal V has announced that this year’s April festival marks the final edition of the festival in Edinburgh and the closing of a defining almost decade chapter in the city. This difficult decision follows the evolving operational requi…"
-    },
-    {
-      "id": "987300d36eb8627e838a070dfbe08cc09f17a69a",
-      "title": "Jane Doe in the Dream House",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/metrika-jane-doe-in-the-dream-house/",
-      "published": "2026-02-26T10:55:41.000Z",
-      "publishedTs": 1772103341000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Metrika-Jane-Doe.jpg",
-      "excerpt": "Si esperabais que por firmar con Universal Metrika fuese a ser menos incómoda, provocadora o explícita estabais equivocados. Con su... La entrada Jane Doe in the Dream House se publicó primero en MondoSonoro ."
     },
     {
       "id": "a9f0663a87cfbe3932891677a22b48f5c3aeb62c",
@@ -288,20 +302,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/201903-anthony-pappa-jess-middleton-005.jpg?resize=810%2C997&ssl=1",
       "excerpt": "Global Underground’s Australia tour begins Friday 5 th June 2026 at Melbourne’s iconic Northcote Social Club, who’ve been presenting the best music to Melbourne since 1894. Then, on Saturday 6 th June, an all-dayer at Brisbane’s Eclipse,…"
-    },
-    {
-      "id": "daa58f81b96d6d1b7fc009e7807a4e47af3ea05a",
-      "title": "Ehiza / Song Of The Shirt",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/basahaunt-ehiza-song-of-the-shirt/",
-      "published": "2026-02-25T19:32:47.000Z",
-      "publishedTs": 1772047967000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/basahaunt.jpg",
-      "excerpt": "No es habitual hacer una sola reseña de dos discos, ¿no? No soy yo el que lo ha decidido, de... La entrada Ehiza / Song Of The Shirt se publicó primero en MondoSonoro ."
     },
     {
       "id": "1239acb2ae6dcf8ec6943b160e8cfcbf041ba617",
