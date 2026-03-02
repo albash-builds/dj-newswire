@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T17:44:35.218Z",
+  "generatedAt": "2026-03-02T18:48:17.508Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "00d1bdd016eeb795e344ce7c18aec90a60dc59fc",
+      "title": "A pesar de los silencios",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/losado-a-pesar-de-los-silencios/",
+      "published": "2026-03-02T18:12:04.000Z",
+      "publishedTs": 1772475124000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/losado.jpg",
+      "excerpt": "Losado es el guitarrista y compositor Txus Villalabeitia, en cuyo currículum aparecen nombres como Same Old, Eh!, Libe o Lepora.... La entrada A pesar de los silencios se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3c452ccf0fe5b6db3d19cc66992a0ea343696469",
       "title": "Spíra",
@@ -251,20 +265,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Maria-Jaume-Sant-Domingo-Forever.jpg",
       "excerpt": "¡Qué sería de este país sin las fiestas populares! Esos días en los que te lanzas a la calle como... La entrada Sant Domingo Forever se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "13fcc27db115d8b1d73d8971d8feaefa6c40d959",
-      "title": "Reseñamos 'Pel barri es comenta', lo nuevo de La Ludwig Band",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-ludwig-band-pel-barri-es-comenta/",
-      "published": "2026-02-27T07:02:37.000Z",
-      "publishedTs": 1772175757000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/La-Ludwig-Band-Pel-barri-es-comenta.jpg",
-      "excerpt": "La Ludwig Band lo han vuelto a hacer, y esta vez mejor que nunca. El sexteto vuelve a la escena... La entrada Reseñamos &#039;Pel barri es comenta&#039;, lo nuevo de La Ludwig Band se publicó primero en MondoSonoro ."
     },
     {
       "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
