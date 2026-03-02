@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T04:47:52.088Z",
+  "generatedAt": "2026-03-02T05:52:59.299Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "b983b523fac4b65149bd0dcfcd2b9eee5ad75780",
+      "title": "The Long Game: Lemon and Lime’s Dan Burke on Consistency, Culture and the Brisbane Scene",
+      "link": "https://www.decodedmagazine.com/the-long-game-lemon-and-limes-dan-burke-on-consistency-culture-and-the-brisbane-scene/",
+      "published": "2026-03-02T04:48:39.000Z",
+      "publishedTs": 1772426919000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Interviews",
+        "Brisbane",
+        "Clubbing",
+        "Dave Seaman",
+        "Franky Whah",
+        "Guy J",
+        "Hernan Cattaneo",
+        "Jody 6",
+        "John 00 Fleming",
+        "Lemon and Lime"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/302179869_3044347625809773_1220701201419534397_n.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Brisbane doesn&#8217;t always get the credit it deserves. In conversations about Australia&#8217;s electronic music landscape, the spotlight tends to drift toward Melbourne&#8217;s basements and Sydney&#8217;s harbour-side venues, leavin…"
+    },
     {
       "id": "7f974a5b86f614fe7ab36735419243ba0115ca58",
       "title": "Jóvenes promesas de la delincuencia",
@@ -536,25 +561,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/dj-central-TV.jpg",
       "excerpt": "DJ Central TV has significantly expanded its broadcasting footprint, securing distribution across 13 new global streaming platforms as part of a push to establish itself as a round-the-clock electronic music network operating at genuine …"
-    },
-    {
-      "id": "4718025d26bde3db668b37862d112ae111a742d3",
-      "title": "Against the Algorithm: How Cybe’s Relics Are Rewiring the Relationship Between Music, Art, and Discovery",
-      "link": "https://www.decodedmagazine.com/against-the-algorithm-how-cybes-relics-are-rewiring-the-relationship-between-music-art-and-discovery/",
-      "published": "2026-02-20T12:39:22.000Z",
-      "publishedTs": 1771591162000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Art",
-        "Discord",
-        "Electronica",
-        "Media",
-        "Relics"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/4ab70b68-3025-4-moshed-12-25-05-05-56-scaled-e1771591043388.jpg",
-      "excerpt": "There is a quiet but determined counter-movement happening at the edges of electronic music culture, and it goes by the name of Relics. Created by the collective known as Cybe , Relics are physical media objects that defy easy categorisa…"
     },
     {
       "id": "da0d218300827d20966f16de1e28b95fc6c2d26a",
