@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-02T02:05:13.582Z",
-  "total": 90,
+  "generatedAt": "2026-03-02T04:47:52.088Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,14 +18,7 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
-    {
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "id": "7f974a5b86f614fe7ab36735419243ba0115ca58",
@@ -98,6 +91,46 @@
       "excerpt": "\"Nothing's About to Happen to Me\", el octavo disco de Mitski, puede que sea el disco más Mitski de su... La entrada Crítica de &#039;Nothing&#039;s About to Happen to Me&#039;, lo nuevo de Mitski se publicó primero en MondoSonoro ."
     },
     {
+      "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
+      "title": "Review – We Spent a Night In The Dark",
+      "link": "https://www.decodedmagazine.com/review-we-spent-a-night-in-the-dark/",
+      "published": "2026-02-27T14:22:41.000Z",
+      "publishedTs": 1772202161000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Event Reviews",
+        "Art",
+        "chill out",
+        "Electronica",
+        "In The Dark",
+        "London",
+        "multi-sensory experience"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
+    {
+      "id": "d0395262bfcd7219ecaa54294103f65467697d01",
+      "title": "Five on Friday with Red Telephone",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-red-telephone/",
+      "published": "2026-02-27T13:07:38.000Z",
+      "publishedTs": 1772197658000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "House Music",
+        "London",
+        "Marie Avril",
+        "Music Industry",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
+      "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
+    },
+    {
       "id": "21fe8c0e7fd6dc4041b5b26e2d9ee83a3d6f2ef5",
       "title": "Existence Is Bliss",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/deadletter-existence-is-bliss/",
@@ -154,6 +187,65 @@
       "excerpt": "La Ludwig Band lo han vuelto a hacer, y esta vez mejor que nunca. El sexteto vuelve a la escena... La entrada Reseñamos &#039;Pel barri es comenta&#039;, lo nuevo de La Ludwig Band se publicó primero en MondoSonoro ."
     },
     {
+      "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
+      "title": "Bitwig Studio 6 Lands 11th March: Everything You Need to Know",
+      "link": "https://www.decodedmagazine.com/bitwig-studio-6-lands-11th-march-everything-you-need-to-know/",
+      "published": "2026-02-27T06:24:00.000Z",
+      "publishedTs": 1772173440000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Bitwig",
+        "Bitwig Studio",
+        "DAW",
+        "music production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Bitwig-Studio_BWS6_Automation-Mode-HD.png?resize=810%2C487&ssl=1",
+      "excerpt": "There&#8217;s a version of software development where engineers build features in isolation, ticking boxes on a roadmap that bears little resemblance to how anyone actually makes music. Bitwig has never really operated that way, and Bitw…"
+    },
+    {
+      "id": "c7a0ad7eed2e8c88cd73352b9470cfdc1faeaf72",
+      "title": "Arturia unveils KeyStep 37 mk2",
+      "link": "https://www.decodedmagazine.com/arturia-unveils-keystep-37-mk2/",
+      "published": "2026-02-27T05:29:24.000Z",
+      "publishedTs": 1772170164000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Arturia",
+        "Keyboard",
+        "KeyStep 37 mk2",
+        "MIDI",
+        "music production",
+        "Music tech"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Desktop1.png?resize=810%2C534&ssl=1",
+      "excerpt": "The original KeyStep 37 earned its place on desks and stages worldwide for good reason. Compact, versatile and genuinely playable, it sat at a sweet spot between minimal keyboard controllers and full-blown production rigs. With the mk2, …"
+    },
+    {
+      "id": "a68734ef8ccf4833ec6312d9acbdc4970593e0b7",
+      "title": "Paisley Dark Records Brings Five Years of Leeds Underground to Brixton This Weekend",
+      "link": "https://www.decodedmagazine.com/paisley-dark-records-brings-five-years-of-leeds-underground-to-brixton-this-weekend/",
+      "published": "2026-02-27T03:48:35.000Z",
+      "publishedTs": 1772164115000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Brixton",
+        "Hence Brixton",
+        "London",
+        "Paisley Dark Records",
+        "Red telephone",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/641244712_122198904674370366_6822653117766176058_n.jpg?resize=810%2C320&ssl=1",
+      "excerpt": "Five years is long enough to prove a point, and this Saturday at Henge Brixton, Paisley Dark Records does exactly that. The Leeds-based label, founded by DJ and producer John Paynter, has spent half a decade quietly building one of the m…"
+    },
+    {
       "id": "644de09ca6409831bbd141206caa48b813f761cb",
       "title": "Mil Pequeños Cortes",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-mil-pequenos-cortes-el-nuevo-disco-de-cora-yako/",
@@ -166,6 +258,303 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Cora-Yako-Mil-Pequenos-Cortes.jpg",
       "excerpt": "Si estáis buscando un disco de guitarras con riffs hipnóticos, letras intensas y energía exorbitante, el tercer álbum de Cora... La entrada Mil Pequeños Cortes se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "91c287cae859d40643adf5153273076120b3f3f7",
+      "title": "Terminal V announce last ever festival in Edinburgh",
+      "link": "https://www.decodedmagazine.com/terminal-v-announce-last-ever-festival-in-edinburgh/",
+      "published": "2026-02-26T12:18:33.000Z",
+      "publishedTs": 1772108313000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Edinburgh",
+        "Festival",
+        "Scotland",
+        "Techno",
+        "Terminal V"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/TERMINAL-V_009.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Terminal V has announced that this year’s April festival marks the final edition of the festival in Edinburgh and the closing of a defining almost decade chapter in the city. This difficult decision follows the evolving operational requi…"
+    },
+    {
+      "id": "a9f0663a87cfbe3932891677a22b48f5c3aeb62c",
+      "title": "Global Underground announces Australia Tour ft Sasha, Danny Howells, James Zabiela, & Anthony Pappa",
+      "link": "https://www.decodedmagazine.com/global-underground-announces-australia-tour-ft-sasha-danny-howells-james-zabiela-anthony-pappa/",
+      "published": "2026-02-26T08:09:34.000Z",
+      "publishedTs": 1772093374000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Anthony Pappa",
+        "Brisbane",
+        "Danny Howells",
+        "James Zabeila",
+        "Melbourne",
+        "Progressive House",
+        "Sasha",
+        "Sydney",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/201903-anthony-pappa-jess-middleton-005.jpg?resize=810%2C997&ssl=1",
+      "excerpt": "Global Underground’s Australia tour begins Friday 5 th June 2026 at Melbourne’s iconic Northcote Social Club, who’ve been presenting the best music to Melbourne since 1894. Then, on Saturday 6 th June, an all-dayer at Brisbane’s Eclipse,…"
+    },
+    {
+      "id": "1239acb2ae6dcf8ec6943b160e8cfcbf041ba617",
+      "title": "Manchester set to get a new festival",
+      "link": "https://www.decodedmagazine.com/manchester-set-to-get-a-new-festival/",
+      "published": "2026-02-25T14:49:33.000Z",
+      "publishedTs": 1772030973000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Carl Criag",
+        "LTJ Bukem",
+        "Manchester",
+        "Moodyman",
+        "Octave One",
+        "Orbital",
+        "Phil Hartnoll",
+        "The Orb"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/OUTWARDS-LINE-UP-STILL-4X5.png?resize=810%2C1013&ssl=1",
+      "excerpt": "A new festival dedicated to the past, present and future of electronic music culture will launch in Manchester this summer, as Outwards unveils a city-centre, open-air gathering designed to reconnect dance music with its deeper cultural …"
+    },
+    {
+      "id": "fefc8d2adaf1be6cddc0332abf7fd2535a2a51ba",
+      "title": "John 00 Fleming Announces Upcoming Album The Lost Tribe",
+      "link": "https://www.decodedmagazine.com/john-00-fleming-announces-upcoming-album-the-lost-tribe/",
+      "published": "2026-02-25T10:28:12.000Z",
+      "publishedTs": 1772015292000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Premieres",
+        "John 00 Fleming",
+        "JOOF Recordings",
+        "Progressive House",
+        "Trance"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/John-00-Fleming-1-scaled.jpg",
+      "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing The Lost Tribe , an 18-track body of work set for release on April 10 via his own imprint, JOOF …"
+    },
+    {
+      "id": "74127c8411aa85123c38706451446f5dc140682c",
+      "title": "The Record Crate Gets Its Long Overdue Redesign",
+      "link": "https://www.decodedmagazine.com/the-record-crate-gets-its-long-overdue-redesign/",
+      "published": "2026-02-25T05:08:01.000Z",
+      "publishedTs": 1771996081000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Record crates",
+        "Storage",
+        "Toneoptic",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/CAN-Wall-White.png?resize=810%2C456&ssl=1",
+      "excerpt": "There&#8217;s a particular kind of frustration that every serious record collector knows. You&#8217;ve spent years, possibly decades, building a collection that means something to you. Albums that represent specific moments. Twelve-inche…"
+    },
+    {
+      "id": "a7d44156a39a7a240fe61e28d7bdea79dea8e41a",
+      "title": "Jonas Saalbach Debuts on Purified Records with Data Romance EP",
+      "link": "https://www.decodedmagazine.com/jonas-saalbach-debuts-on-purified-records-with-data-romance-ep/",
+      "published": "2026-02-25T03:41:59.000Z",
+      "publishedTs": 1771990919000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Germany",
+        "Progressive House",
+        "Purified Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jonas_presshot.jpg",
+      "excerpt": "German producer and Radikon label founder Jonas Saalbach makes his Purified Records debut with the Data Romance EP, rounded out by a title track remix from fellow German producer and label regular, Lexer. The title track opens with restr…"
+    },
+    {
+      "id": "7b4d0f494bc9cb4b74aa50200a99665bd41e5f04",
+      "title": "Jeff Mills Performs Live Score to Metropolis at Palace of Fine Arts",
+      "link": "https://www.decodedmagazine.com/jeff-mills-performs-live-score-to-metropolis-at-palace-of-fine-arts/",
+      "published": "2026-02-25T01:08:16.000Z",
+      "publishedTs": 1771981696000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "California",
+        "Electronica",
+        "Jeff Mills",
+        "Palace of Fine Arts",
+        "San Francisco",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
+      "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
+    },
+    {
+      "id": "4a0a99c2acd383b9474bb384d5961c4b01cc4261",
+      "title": "Brockwell Live 2026 Moves Ahead Following Planning Committee Approval",
+      "link": "https://www.decodedmagazine.com/brockwell-live-2026-moves-ahead-following-planning-committee-approval/",
+      "published": "2026-02-24T23:46:39.000Z",
+      "publishedTs": 1771976799000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Brockwell Park",
+        "Festival",
+        "Lambeth Council",
+        "London"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/XtheTracks-23-HR-@garryjonesphotography-2426-scaled.jpg",
+      "excerpt": "Festival organiser, Brockwell Live’s planning application for its 2026 event series in Brockwell Park has been unanimously approved at Lambeth Council Planning Applications Committee meeting on Tuesday, 24th February at Lambeth Town Hall…"
+    },
+    {
+      "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
+      "title": "Thirty Years of Trainspotting: Time to Revisit One of Britain’s Best Films",
+      "link": "https://www.decodedmagazine.com/thirty-years-of-trainspotting-time-to-revisit-one-of-britains-best-films/",
+      "published": "2026-02-24T08:02:26.000Z",
+      "publishedTs": 1771920146000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Lifestyle",
+        "Danny Boyle",
+        "Irvine Welsh",
+        "Movie",
+        "Review",
+        "Scotland",
+        "Trainspotting",
+        "Underworld"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/trainspottinghed-ae9aeb867d055393f47ba1b6682f6d8f.webp",
+      "excerpt": "There are films you watch, and then there are films that stay with you. Trainspotting stayed with me. I can still remember sitting in a cinema with my mates in 1996, the lights going down, Iggy Pop&#8217;s Lust for Life kicking in throug…"
+    },
+    {
+      "id": "af8dad678b740b62a665f65bf1b17da6817aee3a",
+      "title": "Steve Bug & Ammo Avenue feat. Mikey V just announced Why Not Us",
+      "link": "https://www.decodedmagazine.com/steve-bug-ammo-avenue-feat-mikey-v-just-announced-why-not-us/",
+      "published": "2026-02-23T10:56:08.000Z",
+      "publishedTs": 1771844168000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Ammo Avenue",
+        "House Music",
+        "Mikey V",
+        "Pokerflat Recordings",
+        "Steve Bug"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/steve-bug.jpg",
+      "excerpt": "Following on from a run of successful collaborations within Steve Bug’s creative circle, Why Not Us sees Steve Bug and Ammo Avenue join forces after Ammo Avenue’s remix of Steve Bug &amp; Huxley’s L.O.V.E. released in 2023 on Poker Flat,…"
+    },
+    {
+      "id": "ddcd444679f665382c9411e3b4358dc59b542bd0",
+      "title": "Waterworks 2026 Reveals 2-Day Expansion",
+      "link": "https://www.decodedmagazine.com/waterworks-2026-reveals-2-day-expansion/",
+      "published": "2026-02-23T10:16:11.000Z",
+      "publishedTs": 1771841771000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "DJ Storm",
+        "DnB",
+        "Erol Alkan",
+        "Gunnersbury Park",
+        "House",
+        "LTJ Bukem",
+        "Modeselektor",
+        "Techno",
+        "Waterworks Festival"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/waterworks-festival-2026-lineup.png?resize=768%2C1024&ssl=1",
+      "excerpt": "London’s Waterworks Festival has revealed the full lineup for its sixth edition, alongside news that the festival will expand to two full days for the first time in 2026. Taking place at Gunnersbury Park on Saturday 12th and Sunday 13th …"
+    },
+    {
+      "id": "8a510b102672f03e1e19cfb4c907342325010b5b",
+      "title": "Amnesia Milano Unveils New L-Acoustics Sound System and 360degree LED Wall",
+      "link": "https://www.decodedmagazine.com/amnesia-milano-unveils-new-l-acoustics-sound-system-and-360degree-led-wall/",
+      "published": "2026-02-23T09:54:04.000Z",
+      "publishedTs": 1771840444000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "adam beyer",
+        "Amnesia Milano",
+        "Clubbing",
+        "House",
+        "L-Acoustics",
+        "Sound System",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Photo-Credits_-Gabriele-Canfora-Lagarty-Photo-03_Amensia-Milano-2026.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Amnesia Milano has made a significant statement to open 2026, unveiling a comprehensive overhaul of its sound and lighting infrastructure. At the core of the upgrade is a new L-Acoustics system delivering consistent audio throughout the …"
+    },
+    {
+      "id": "f1412de959aefda01412a2bc6087ce04eae226d0",
+      "title": "Seven Villas Music releases Ignite And Devote by TimAdeep",
+      "link": "https://www.decodedmagazine.com/seven-villas-music-releases-ignite-and-devote-by-timadeep/",
+      "published": "2026-02-23T09:35:01.000Z",
+      "publishedTs": 1771839301000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Seven Villas Music",
+        "TimAdeep"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1766971099_10.jpg",
+      "excerpt": "Ignite And Devote by TimAdeep South African producer TimAdeep has landed on Seven Villas Music with his latest EP, Ignite And Devote , a three-track collection that makes a compelling case for his place among deep house&#8217;s most expr…"
+    },
+    {
+      "id": "14f30a2267ade77b71999df96ac42da56eee1aab",
+      "title": "DJ Central TV expands to 13 global streaming platforms",
+      "link": "https://www.decodedmagazine.com/dj-central-tv-expands-to-13-global-streaming-platforms/",
+      "published": "2026-02-23T09:25:28.000Z",
+      "publishedTs": 1771838728000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "DJ Central TV"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/dj-central-TV.jpg",
+      "excerpt": "DJ Central TV has significantly expanded its broadcasting footprint, securing distribution across 13 new global streaming platforms as part of a push to establish itself as a round-the-clock electronic music network operating at genuine …"
+    },
+    {
+      "id": "4718025d26bde3db668b37862d112ae111a742d3",
+      "title": "Against the Algorithm: How Cybe’s Relics Are Rewiring the Relationship Between Music, Art, and Discovery",
+      "link": "https://www.decodedmagazine.com/against-the-algorithm-how-cybes-relics-are-rewiring-the-relationship-between-music-art-and-discovery/",
+      "published": "2026-02-20T12:39:22.000Z",
+      "publishedTs": 1771591162000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Art",
+        "Discord",
+        "Electronica",
+        "Media",
+        "Relics"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/4ab70b68-3025-4-moshed-12-25-05-05-56-scaled-e1771591043388.jpg",
+      "excerpt": "There is a quiet but determined counter-movement happening at the edges of electronic music culture, and it goes by the name of Relics. Created by the collective known as Cybe , Relics are physical media objects that defy easy categorisa…"
     },
     {
       "id": "da0d218300827d20966f16de1e28b95fc6c2d26a",
