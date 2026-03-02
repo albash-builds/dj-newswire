@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T09:50:41.302Z",
+  "generatedAt": "2026-03-02T10:43:15.733Z",
   "total": 110,
   "sources": [
     {
@@ -572,6 +572,18 @@
       "excerpt": "Amnesia Milano has made a significant statement to open 2026, unveiling a comprehensive overhaul of its sound and lighting infrastructure. At the core of the upgrade is a new L-Acoustics system delivering consistent audio throughout the …"
     },
     {
+      "id": "795975c75da9e90c01091a336db2580d221f65ca",
+      "title": "Here’s what went down at the New Balance & Footasylum Presents 1000 party in Manchester",
+      "link": "https://mixmag.net/feature/heres-what-went-down-at-the-new-balance-x-footasylum-presents-1000-party-in-manchester",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nb-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=OiJND1NNfvAbhV8ZjCW7mmVNlILZfI0pS_lZap-TNOQ",
+      "excerpt": "To celebrate the launch of the New Balance 1000, Crop Radio HQ hosted a one-off party flaunting the spectrum of Manchester’s grassroots electronic, rap and grime scene Continue reading..."
+    },
+    {
       "id": "da0d218300827d20966f16de1e28b95fc6c2d26a",
       "title": "New music on our radar this week: Squarepusher, Yu Su, Zora Jones",
       "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-squarepusher-yu-su-zora-jones-news",
@@ -677,7 +689,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/meetoo.jpg?width=660&fit=cover&s=9t-dgwoqlz6wFzYaWU-IXoXCOkFrGayEzUaw9iCTdz4",
-      "excerpt": "Numerous events and festivals have removed Shlømo, Odymel, CARV, Basswell and Fantasm from line-ups amid an outpouring of allegations, which is being dubbed as the genre&#039;s &quot;#MeToo&quot; moment Continue reading..."
+      "excerpt": "Numerous events and festivals have removed Shlømo, Odymel, and CARV from line-ups amid an outpouring of allegations, which is being dubbed as the genre&#039;s &quot;#MeToo&quot; moment Continue reading..."
     },
     {
       "id": "0a2908e9e6de3c1426ae10892c197148eefdc80c",
@@ -1518,18 +1530,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Phillip-Glass.png?width=660&fit=cover&s=dogXC4lJKoYPn19fP76KSG3rXpVikf6BGsaAsDYqp3U",
       "excerpt": "The legendary composer was set to premiere Symphony No 15 ‘Lincoln’ at the centre in June Continue reading..."
-    },
-    {
-      "id": "805f592451a192f3321ee74adf992ecbc4acb753",
-      "title": "Todd Terry set to open new listening bar in Liverpool",
-      "link": "https://mixmag.net/read/todd-terry-to-help-launch-new-venue-in-liverpool-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Todd-Terry.png?width=660&fit=cover&s=0i1HW7lh1HyMN5qaD02KTHRhDxxb2yNsKLBsnzThvxs",
-      "excerpt": "Named after Terry&#039;s imprint, Freeze Hifi will feature vinyl music curation from the legendary New York DJ and producer Continue reading..."
     }
   ]
 }
