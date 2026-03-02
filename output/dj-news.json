@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T05:52:59.299Z",
+  "generatedAt": "2026-03-02T06:58:13.506Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,47 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
+      "title": "Five DJs to Watch at Barcelona’s MOSTRA Festival 2026",
+      "link": "https://www.decodedmagazine.com/five-djs-to-watch-at-barcelonas-mostra-festival-2026/",
+      "published": "2026-03-02T06:40:16.000Z",
+      "publishedTs": 1772433616000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Mixes",
+        "Barcelona",
+        "Berlin",
+        "Detroit",
+        "Dublin",
+        "Electronica",
+        "House Music",
+        "IDM",
+        "Mostra Festival",
+        "Spain"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/MAIKA-4-2-1-scaled.jpg",
+      "excerpt": "Barcelona&#8217;s independent avant-garde festival returns for its fifth edition this March. These are the artists worth planning your schedule around. If you have not been to Mostra before, the short version is this: it is a small festi…"
+    },
+    {
+      "id": "80fd5afa5c822adf02f5d26b55e0b349dd1abcc0",
+      "title": "Om Records Unveils “Wind Trades” from J Boogie’s Dubtronic Science & Carlos Araiza",
+      "link": "https://www.decodedmagazine.com/om-records-unveils-wind-trades-from-j-boogies-dubtronic-science-carlos-araiza/",
+      "published": "2026-03-02T05:58:37.000Z",
+      "publishedTs": 1772431117000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "J Boogie’s Dubtronics Science",
+        "Om Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/J-Boogie.jpg",
+      "excerpt": "Wind Trades feat. Carlos Araiza by J Boogie&#39;s Dubtronic Science In OM Records’ latest offering, the breezy “Wind Trades” by the renowned J Boogie’s Dubtronics Science adopts a steady beat and bright soundscape, encapsulating the feel…"
+    },
     {
       "id": "b983b523fac4b65149bd0dcfcd2b9eee5ad75780",
       "title": "The Long Game: Lemon and Lime’s Dan Burke on Consistency, Culture and the Brisbane Scene",
@@ -529,38 +570,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Photo-Credits_-Gabriele-Canfora-Lagarty-Photo-03_Amensia-Milano-2026.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Amnesia Milano has made a significant statement to open 2026, unveiling a comprehensive overhaul of its sound and lighting infrastructure. At the core of the upgrade is a new L-Acoustics system delivering consistent audio throughout the …"
-    },
-    {
-      "id": "f1412de959aefda01412a2bc6087ce04eae226d0",
-      "title": "Seven Villas Music releases Ignite And Devote by TimAdeep",
-      "link": "https://www.decodedmagazine.com/seven-villas-music-releases-ignite-and-devote-by-timadeep/",
-      "published": "2026-02-23T09:35:01.000Z",
-      "publishedTs": 1771839301000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "deep house",
-        "Seven Villas Music",
-        "TimAdeep"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/a1766971099_10.jpg",
-      "excerpt": "Ignite And Devote by TimAdeep South African producer TimAdeep has landed on Seven Villas Music with his latest EP, Ignite And Devote , a three-track collection that makes a compelling case for his place among deep house&#8217;s most expr…"
-    },
-    {
-      "id": "14f30a2267ade77b71999df96ac42da56eee1aab",
-      "title": "DJ Central TV expands to 13 global streaming platforms",
-      "link": "https://www.decodedmagazine.com/dj-central-tv-expands-to-13-global-streaming-platforms/",
-      "published": "2026-02-23T09:25:28.000Z",
-      "publishedTs": 1771838728000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "DJ Central TV"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/dj-central-TV.jpg",
-      "excerpt": "DJ Central TV has significantly expanded its broadcasting footprint, securing distribution across 13 new global streaming platforms as part of a push to establish itself as a round-the-clock electronic music network operating at genuine …"
     },
     {
       "id": "da0d218300827d20966f16de1e28b95fc6c2d26a",
