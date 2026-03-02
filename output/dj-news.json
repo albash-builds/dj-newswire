@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T19:36:29.880Z",
+  "generatedAt": "2026-03-02T20:37:42.994Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1cbc0a0c2397fb3851251d21ffda62a4f04e3d3f",
+      "title": "Hace tiempo que quiero estar así",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/toldos-verdes-hace-tiempo-que-quiero-estar-asi/",
+      "published": "2026-03-02T20:33:23.000Z",
+      "publishedTs": 1772483603000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Toldos-Verdes-Hace-tiempo-que-quiero-estar-asi.jpg",
+      "excerpt": "Hay un fenómeno que ocurre cuando dos personas se enamoran y que Blanca Lacasa expresa muy bien en el libro... La entrada Hace tiempo que quiero estar así se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9e95980083c97b355bc2cc835971d19414191e8d",
+      "title": "Laughter In Summer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/beverly-glenn-copeland-laughter-in-summer/",
+      "published": "2026-03-02T20:02:58.000Z",
+      "publishedTs": 1772481778000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Beverly-Glenn-Copeland-Laughter-In-Summer-.jpg",
+      "excerpt": "La historia de Beverly Glenn-Copeland es tan mágica como su música. Fue una de las personas de color que estudió... La entrada Laughter In Summer se publicó primero en MondoSonoro ."
+    },
     {
       "id": "00d1bdd016eeb795e344ce7c18aec90a60dc59fc",
       "title": "A pesar de los silencios",
@@ -237,34 +265,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Deadletter-Existence-Is-Bliss.jpg",
       "excerpt": "Apenas año y medio después de su destacable debut, “Hysterical Strength” (So, 24), Deadletter se confirman, en base a su... La entrada Existence Is Bliss se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ab8bbe94f3c05858627e314c00af4d2bc5955c40",
-      "title": "Ritual/compulsión",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sacralvna-ritual-compulsion/",
-      "published": "2026-02-27T07:34:26.000Z",
-      "publishedTs": 1772177666000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Sacralvna-Ritual-compulsion.jpg",
-      "excerpt": "Del choque entre tensión y liberación toma forma Sacralvna, un nuevo proyecto gestado en 2024 pero cuyos componentes no son... La entrada Ritual/compulsión se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "d9c64e7648ee6f9ea439f210eecb230f231dd6f9",
-      "title": "Sant Domingo Forever",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-jaume-sant-domingo-forever-disco/",
-      "published": "2026-02-27T07:27:01.000Z",
-      "publishedTs": 1772177221000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Maria-Jaume-Sant-Domingo-Forever.jpg",
-      "excerpt": "¡Qué sería de este país sin las fiestas populares! Esos días en los que te lanzas a la calle como... La entrada Sant Domingo Forever se publicó primero en MondoSonoro ."
     },
     {
       "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
