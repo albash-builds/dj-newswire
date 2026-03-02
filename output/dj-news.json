@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T15:41:55.811Z",
+  "generatedAt": "2026-03-02T16:47:09.804Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3c452ccf0fe5b6db3d19cc66992a0ea343696469",
+      "title": "Spíra",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/olof-arnalds-spira/",
+      "published": "2026-03-02T16:34:04.000Z",
+      "publishedTs": 1772469244000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Olof-Arnalds-Spira.jpg",
+      "excerpt": "Ólöf Arnalds regresa a través de “Spíra” generando una obra de agradecimiento a la vida, como bien interpreta en ese... La entrada Spíra se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
       "title": "Five DJs to Watch at Barcelona’s MOSTRA Festival 2026",
@@ -310,20 +324,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/641244712_122198904674370366_6822653117766176058_n.jpg?resize=810%2C320&ssl=1",
       "excerpt": "Five years is long enough to prove a point, and this Saturday at Henge Brixton, Paisley Dark Records does exactly that. The Leeds-based label, founded by DJ and producer John Paynter, has spent half a decade quietly building one of the m…"
-    },
-    {
-      "id": "644de09ca6409831bbd141206caa48b813f761cb",
-      "title": "Mil Pequeños Cortes",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-mil-pequenos-cortes-el-nuevo-disco-de-cora-yako/",
-      "published": "2026-02-26T15:17:54.000Z",
-      "publishedTs": 1772119074000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Cora-Yako-Mil-Pequenos-Cortes.jpg",
-      "excerpt": "Si estáis buscando un disco de guitarras con riffs hipnóticos, letras intensas y energía exorbitante, el tercer álbum de Cora... La entrada Mil Pequeños Cortes se publicó primero en MondoSonoro ."
     },
     {
       "id": "91c287cae859d40643adf5153273076120b3f3f7",
