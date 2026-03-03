@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T18:46:53.673Z",
+  "generatedAt": "2026-03-03T19:39:26.941Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e6af1466a44c33e2fdc7554c3090939fa2a3b9ef",
+      "title": "Testamento",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-diablo-de-shanghai-testamento/",
+      "published": "2026-03-03T19:33:04.000Z",
+      "publishedTs": 1772566384000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2017/07/logomondo-1.png",
+      "excerpt": "“Testamento”, nuevo y segundo álbum de los barceloneses El Diablo de Shanghai es primer paso en el camino a la... La entrada Testamento se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a27e93b950539ab9536de8d00c1480d0a8243c66",
       "title": "The Collector’s App: We Road Tested Crates and Here’s the Take",
@@ -299,20 +313,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
-    },
-    {
-      "id": "21fe8c0e7fd6dc4041b5b26e2d9ee83a3d6f2ef5",
-      "title": "Existence Is Bliss",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/deadletter-existence-is-bliss/",
-      "published": "2026-02-27T08:13:13.000Z",
-      "publishedTs": 1772179993000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Deadletter-Existence-Is-Bliss.jpg",
-      "excerpt": "Apenas año y medio después de su destacable debut, “Hysterical Strength” (So, 24), Deadletter se confirman, en base a su... La entrada Existence Is Bliss se publicó primero en MondoSonoro ."
     },
     {
       "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
