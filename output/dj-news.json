@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T11:32:14.233Z",
+  "generatedAt": "2026-03-03T12:57:39.835Z",
   "total": 110,
   "sources": [
     {
@@ -570,6 +570,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Photo-Credits_-Gabriele-Canfora-Lagarty-Photo-03_Amensia-Milano-2026.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Amnesia Milano has made a significant statement to open 2026, unveiling a comprehensive overhaul of its sound and lighting infrastructure. At the core of the upgrade is a new L-Acoustics system delivering consistent audio throughout the …"
+    },
+    {
+      "id": "477ebb4870ecde1a779ab1f714d9f977aca49947",
+      "title": "CTM Festival expects to lose €12,000 following Berlin box office bankruptcy",
+      "link": "https://mixmag.net/read/ctm-festival-expects-lose-12000-euros-following-berlin-box-office-bankruptcy-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ctm-festival.jpg?width=660&fit=cover&s=MGWutKAvt_tt5myofhNNck3Pr5h3L79U5BE7jqJAlfA",
+      "excerpt": "The Berlin festival said its recent event and future concerts are affected Continue reading..."
+    },
+    {
+      "id": "d18916ede3efa87d536f6ac747d2314e67adac89",
+      "title": "Ambient hum emitted by Co-op freezers in Sheffield turned into 10-hour loop",
+      "link": "https://mixmag.net/read/ambient-hum-emitted-co-op-freezers-sheffield-10-hour-loop-youtube-eccy-road-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/eccy-road-freezers.jpg?width=660&fit=cover&s=bx8GmtWUpBum9tQeLWwoDVObrchPVs2xtV5WaOfbmWg",
+      "excerpt": "The viral droning sound, which sparked curiosity online, is said to be tuned to a C# major Continue reading..."
     },
     {
       "id": "c8f1757298aa884f11215226cb61d284fe6e9641",
@@ -1506,30 +1530,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wasserman-xdf.jpg?width=660&fit=cover&s=OSXIZKr7OpLhr0mGg3nBQCQHvnQFT8ajeOGVMHJ51to",
       "excerpt": "Casey Wasserman was found to have corresponded with Epstein&#039;s associate and convicted sex trafficker Ghislaine Maxwell in 2003 Continue reading..."
-    },
-    {
-      "id": "61e8402fab29cbe519c12464238d0435985a545a",
-      "title": "An oral history of Eddie Halliwell's 'Bosh! 12 Sizzling Bangers' mix CD",
-      "link": "https://mixmag.net/feature/eddie-halliwell-bosh-12-sizzling-bangers-cover-mix-cd-oral-history",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bosh-CD.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=WfPCbMHprTRyvrE0IYRI6U7UTvVE8eSi-RZgPrDObBY",
-      "excerpt": "To mark 24 years of one of Mixmag&#039;s most iconic mix CDs, we spoke with the designer, music editor and DJ responsible for bringing it to life Continue reading..."
-    },
-    {
-      "id": "c8848b3143c46350bfef524af02ccbbcdaa0dcfa",
-      "title": "Soulwax to host first-ever \"rave\" at London's Abbey Road Studios",
-      "link": "https://mixmag.net/read/soulwax-to-host-first-ever-rave-at-londons-iconic-abbey-road-studios-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/soulwax.png?width=660&fit=cover&s=YtpSJFyt8oJt-j-XsgHT6c2yKEgwzml_uxKClRDb_eY",
-      "excerpt": "Featuring a DJ set from the Belgian duo under their 2manydjs moniker, Abbey Road After Hours will see Studio One transform into a rowdy dancefloor this month Continue reading..."
     }
   ]
 }
