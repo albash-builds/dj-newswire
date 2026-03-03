@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T20:32:22.062Z",
+  "generatedAt": "2026-03-03T21:34:08.904Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ede18a01cbd3c0389f43cbacb9b643c83edb1adf",
+      "title": "Brega",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/malifeta-brega/",
+      "published": "2026-03-03T21:16:24.000Z",
+      "publishedTs": 1772572584000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/malifeta-brega.jpg",
+      "excerpt": "Con el panorama político y social actual, —en clave valenciana, sobre todo— la brega es una consecuencia inevitable. Y lo... La entrada Brega se publicó primero en MondoSonoro ."
+    },
     {
       "id": "e6af1466a44c33e2fdc7554c3090939fa2a3b9ef",
       "title": "Testamento",
@@ -259,20 +273,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/The-Nude-Party-Look-Who-s-Back.jpg",
       "excerpt": "La naturaleza lúdica a la que remite el nombre de esta banda neoyorquina no se transfiera a su música en... La entrada Look Who&#039;s Back se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "282c0c34da2d56b89abf91519494f270b48f6732",
-      "title": "Nothing's About to Happen to Me",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mitski-nothings-about-to-happen-to-me/",
-      "published": "2026-02-28T06:39:21.000Z",
-      "publishedTs": 1772260761000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/Mitski-Nothings-About-to-Happen-to-Me.jpg",
-      "excerpt": "\"Nothing's About to Happen to Me\", el octavo disco de Mitski, puede que sea el disco más Mitski de su... La entrada Nothing&#039;s About to Happen to Me se publicó primero en MondoSonoro ."
     },
     {
       "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
