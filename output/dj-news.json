@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T15:46:38.847Z",
+  "generatedAt": "2026-03-03T16:48:24.303Z",
   "total": 110,
   "sources": [
     {
@@ -572,6 +572,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/waterworks-festival-2026-lineup.png?resize=768%2C1024&ssl=1",
       "excerpt": "London’s Waterworks Festival has revealed the full lineup for its sixth edition, alongside news that the festival will expand to two full days for the first time in 2026. Taking place at Gunnersbury Park on Saturday 12th and Sunday 13th …"
+    },
+    {
+      "id": "9917b8e8e371ca27ad25f765b465c54b8f862aab",
+      "title": "Ghetts sentenced to 12 years in prison following fatal hit-and-run",
+      "link": "https://mixmag.net/read/ghetts-sentenced-to-12-years-in-prison-for-fatal-hit-and-run-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gheetts.jpg?width=660&fit=cover&s=DIYadrvIOr62kesON3Nk9XDfjwEMdT0ag3WbRztVt9Y",
+      "excerpt": "The musician was one-and-a-half times over the legal alcohol limit when he hit a 20-year-old Nepalese student in October last year Continue reading..."
+    },
+    {
+      "id": "6a7a92c719c611fbeff776230d9b00810ef03268",
+      "title": "DJ Marcelle to take a break from DJing following heart attack",
+      "link": "https://mixmag.net/read/dj-marcelle-to-take-break-from-djing-following-heart-attack-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DJ-Marcelle.jpg?width=660&fit=cover&s=TcezZn-UO4VAkFYe-LtxNDeykMO6VMq0Obvr8DFx9e4",
+      "excerpt": "The Dutch DJ will take a break for &quot;at least a few months&quot; to recover from open-heart bypass surgery Continue reading..."
     },
     {
       "id": "094e57c9b02ab65ecb7ebc3b8354e74dc183d376",
@@ -1508,30 +1532,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cannabis_joint-credit-elsaolofsson.jpg?width=660&fit=cover&s=5Vbe8z5pPePZ7jtwCNoTbl3EROAL_sq2GBIYtE0BrUs",
       "excerpt": "Under new draft rules, those living in the country could carry up to 750g of cannabis at a time Continue reading..."
-    },
-    {
-      "id": "bc191e110031cf163fd9849c1b5ee766e68dbc1e",
-      "title": "Legal challenge initiated over Northern Ireland nightlife licensing review",
-      "link": "https://mixmag.net/read/legal-challenge-initiated-northern-ireland-nightlife-licensing-review-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/belfast-night.jpg?width=660&fit=cover&s=M523_dfT_kfT3n5HV2x_rHIAnhu5-V1Gy81X6jioTC8",
-      "excerpt": "Free The Night called the government’s recent review “a wasted opportunity” Continue reading..."
-    },
-    {
-      "id": "fa1b8b325a9661979e29b5cde8a178b4b94d4f3e",
-      "title": "London's FOLD criticised for delayed response following death of 23-year-old man",
-      "link": "https://mixmag.net/read/coroner-criticses-fold-emergency-response-after-staff-waited-an-hour-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOLD_2026-02-06-121733_gpwd.png?width=660&fit=cover&s=-iXgXY034tnvLpBnNvFOo1aUthc6XkIJdIdr3scfRX4",
-      "excerpt": "Staff at the Canning Town nightclub reportedly waited &quot;over an hour&quot; to call an ambulance, which a coroner claims &quot;decreased&quot; the man&#039;s chance of survival Continue reading..."
     }
   ]
 }
