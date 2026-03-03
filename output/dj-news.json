@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T12:57:39.835Z",
+  "generatedAt": "2026-03-03T14:01:55.885Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
+      "title": "Submit your Mix of the Month DJ Competition entry",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
+      "published": "2026-03-03T13:10:34.000Z",
+      "publishedTs": 1772543434000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Mixes",
+        "breaks",
+        "DJ Competition",
+        "DnB",
+        "dub techno",
+        "House Music",
+        "Melodic Techno",
+        "Progressive House",
+        "Techno",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
+      "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
+    },
     {
       "id": "1cbc0a0c2397fb3851251d21ffda62a4f04e3d3f",
       "title": "Hace tiempo que quiero estar así",
@@ -549,27 +572,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/waterworks-festival-2026-lineup.png?resize=768%2C1024&ssl=1",
       "excerpt": "London’s Waterworks Festival has revealed the full lineup for its sixth edition, alongside news that the festival will expand to two full days for the first time in 2026. Taking place at Gunnersbury Park on Saturday 12th and Sunday 13th …"
-    },
-    {
-      "id": "8a510b102672f03e1e19cfb4c907342325010b5b",
-      "title": "Amnesia Milano Unveils New L-Acoustics Sound System and 360degree LED Wall",
-      "link": "https://www.decodedmagazine.com/amnesia-milano-unveils-new-l-acoustics-sound-system-and-360degree-led-wall/",
-      "published": "2026-02-23T09:54:04.000Z",
-      "publishedTs": 1771840444000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "adam beyer",
-        "Amnesia Milano",
-        "Clubbing",
-        "House",
-        "L-Acoustics",
-        "Sound System",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Photo-Credits_-Gabriele-Canfora-Lagarty-Photo-03_Amensia-Milano-2026.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Amnesia Milano has made a significant statement to open 2026, unveiling a comprehensive overhaul of its sound and lighting infrastructure. At the core of the upgrade is a new L-Acoustics system delivering consistent audio throughout the …"
     },
     {
       "id": "477ebb4870ecde1a779ab1f714d9f977aca49947",
