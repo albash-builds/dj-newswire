@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T17:43:24.035Z",
+  "generatedAt": "2026-03-03T18:46:53.673Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a27e93b950539ab9536de8d00c1480d0a8243c66",
+      "title": "The Collector’s App: We Road Tested Crates and Here’s the Take",
+      "link": "https://www.decodedmagazine.com/the-collectors-app-we-road-tested-crates-and-heres-the-take/",
+      "published": "2026-03-03T17:54:34.000Z",
+      "publishedTs": 1772560474000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech Reviews",
+        "AIFF",
+        "App",
+        "Apple Music",
+        "Bandcamp",
+        "Beatport",
+        "Crates",
+        "Discogs",
+        "FLAC",
+        "MP3",
+        "Playlist",
+        "Spotify"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/DSC04223-1.jpg?resize=810%2C455&ssl=1",
+      "excerpt": "Right, so if you&#8217;re anything like me, you&#8217;ve got music scattered across more platforms than you care to admit. A Discogs collection that&#8217;s been quietly growing since before most streaming services existed, FLAC files bu…"
+    },
     {
       "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
       "title": "Submit your Mix of the Month DJ Competition entry",
@@ -548,30 +573,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/steve-bug.jpg",
       "excerpt": "Following on from a run of successful collaborations within Steve Bug’s creative circle, Why Not Us sees Steve Bug and Ammo Avenue join forces after Ammo Avenue’s remix of Steve Bug &amp; Huxley’s L.O.V.E. released in 2023 on Poker Flat,…"
-    },
-    {
-      "id": "ddcd444679f665382c9411e3b4358dc59b542bd0",
-      "title": "Waterworks 2026 Reveals 2-Day Expansion",
-      "link": "https://www.decodedmagazine.com/waterworks-2026-reveals-2-day-expansion/",
-      "published": "2026-02-23T10:16:11.000Z",
-      "publishedTs": 1771841771000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "DJ Storm",
-        "DnB",
-        "Erol Alkan",
-        "Gunnersbury Park",
-        "House",
-        "LTJ Bukem",
-        "Modeselektor",
-        "Techno",
-        "Waterworks Festival"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/waterworks-festival-2026-lineup.png?resize=768%2C1024&ssl=1",
-      "excerpt": "London’s Waterworks Festival has revealed the full lineup for its sixth edition, alongside news that the festival will expand to two full days for the first time in 2026. Taking place at Gunnersbury Park on Saturday 12th and Sunday 13th …"
     },
     {
       "id": "9917b8e8e371ca27ad25f765b465c54b8f862aab",
