@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T10:36:34.151Z",
+  "generatedAt": "2026-03-04T11:30:12.650Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
+      "title": "Freight Island Brixton announces opening this Spring",
+      "link": "https://www.decodedmagazine.com/freight-island-brixton-announces-opening-this-spring/",
+      "published": "2026-03-04T11:05:13.000Z",
+      "publishedTs": 1772622313000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Food",
+        "Lifestyle",
+        "bars",
+        "Brixton",
+        "Cocktails",
+        "Dining",
+        "Food Festivals",
+        "Live music",
+        "London",
+        "Rooftop Bar"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/IMG_8220.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Freight Brixton will officially open on 7 May 2026, bringing a 1,000+ capacity open-air food, drink and music destination to the heart of South London. Located moments from Brixton Station and adjacent to Brixton Village Market, Freight …"
+    },
     {
       "id": "ee5a46e1acbdd3e8164bef53d3a9a8b6d54e2264",
       "title": "Thirty Years of Forum Culture: How Dance Music Found Its Voice on the Internet",
@@ -558,24 +581,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
       "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
-    },
-    {
-      "id": "4a0a99c2acd383b9474bb384d5961c4b01cc4261",
-      "title": "Brockwell Live 2026 Moves Ahead Following Planning Committee Approval",
-      "link": "https://www.decodedmagazine.com/brockwell-live-2026-moves-ahead-following-planning-committee-approval/",
-      "published": "2026-02-24T23:46:39.000Z",
-      "publishedTs": 1771976799000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Brockwell Park",
-        "Festival",
-        "Lambeth Council",
-        "London"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/XtheTracks-23-HR-@garryjonesphotography-2426-scaled.jpg",
-      "excerpt": "Festival organiser, Brockwell Live’s planning application for its 2026 event series in Brockwell Park has been unanimously approved at Lambeth Council Planning Applications Committee meeting on Tuesday, 24th February at Lambeth Town Hall…"
     },
     {
       "id": "b504a26bdebb50c59639e5d832b23d69c1302251",
