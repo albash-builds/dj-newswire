@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T15:40:36.198Z",
+  "generatedAt": "2026-03-04T16:43:58.566Z",
   "total": 110,
   "sources": [
     {
@@ -581,6 +581,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
       "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
+    },
+    {
+      "id": "c164e893a0d7176070010921028ae59ba1cb00f9",
+      "title": "Schranz Will Never Die: NIKOLINA's guide to the blistering techno subgenre in 10 tracks",
+      "link": "https://mixmag.net/feature/10-essential-schranz-tracks-selected-by-nikolina",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nikolina.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-I478sQgmF2Jt2Z1lU_KZChN7UPviRAwNjNOXrSnC6s",
+      "excerpt": "Flying the flag for Germany&#039;s breakneck techno offshoot, NIKOLINA picks out some of her favourite schranz bangers Continue reading..."
     },
     {
       "id": "8102c09afc105922c5dbcedd1709f1bb9e5c798d",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ebo-taylor-credit-Schorle.jpg?width=660&fit=cover&s=FQX-bSngXCeYzbXOVKdKlK67DM6VydBdaX5XEmur8-8",
       "excerpt": "The highlife pioneer received multiple Lifetime Achievement awards for his contributions to Ghanaian music Continue reading..."
-    },
-    {
-      "id": "18c1f1c5a428af298aa410bed9910d5780f1e89f",
-      "title": "Majority of Europe’s biggest music festivals owned by four companies, study finds",
-      "link": "https://mixmag.net/read/majority-europe-biggest-music-festivals-owned-four-companies-study-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Reading-Festival-credit-Sarah-Louise-Bennett-2.jpg?width=660&fit=cover&s=dgubqXUMiT_YImGMkcs8YzUdnO-k5oM_z2lU_TGtX0Y",
-      "excerpt": "More than 150 festivals come under companies including Live Nation and KKR-owned Superstruct Continue reading..."
     }
   ]
 }
