@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T12:56:34.196Z",
+  "generatedAt": "2026-03-04T13:59:25.200Z",
   "total": 110,
   "sources": [
     {
@@ -581,6 +581,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
       "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
+    },
+    {
+      "id": "7c13e4b63dbe59304af0997c2d7de8b70d209a4d",
+      "title": "Crowdfunder launched for book documenting Belgian nightlife",
+      "link": "https://mixmag.net/read/crowdfunder-launched-publish-book-about-belgian-nightlife-culture-out-soon-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/out-soon-book.jpg?width=660&fit=cover&s=5b9NyBvlt9XXnvL17eqr5-lv4eVXqPpqV8WVk3Pegwc",
+      "excerpt": "Out Soon: 1992-2008 will comprise 300 pages of archival material from former club culture magazine, Out Soon Continue reading..."
+    },
+    {
+      "id": "648007ee082d2223465ba7aa57665639d4ae6a64",
+      "title": "GRAMMY-nominated hip hop producer and sound engineer Bob Power has died aged 73",
+      "link": "https://mixmag.net/read/grammy-nominated-hip-hop-producer-bob-power-has-died-aged-73-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bob-Power.jpg?width=660&fit=cover&s=nP9RrMBauMiXHjtYu8SXJgI_ioeNancI0CbISkVd-Gw",
+      "excerpt": "Power worked on iconic records from the likes of D’Angelo, Erykah Badu, J Dilla and A Tribe Called Quest Continue reading..."
     },
     {
       "id": "da330df9cf71993a3a9b49ff40552586e840f3ec",
@@ -1517,30 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/house-of-lords.png?width=660&fit=cover&s=INb5bpqPW9p9ef1NcO1tWBbmeF4-TLUIjPVXx9Yj6H8",
       "excerpt": "An amendment to the Victims and Courts Bill could limit police&#039;s ability to utilise lyrics unless they are “literal, rather than figurative or fictional” Continue reading..."
-    },
-    {
-      "id": "52c0f1165e9386f7a76f47035fe7d6c68077b95b",
-      "title": "Suspected mass overdose at Sydney music festival leaves one dead",
-      "link": "https://mixmag.net/read/suspected-mass-overdose-sydney-music-festival-leaves-one-dead-six-hospitalised-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/overdose-festival.jpg?width=660&fit=cover&s=ag6lC4z-ZZonHsbkmEUg1voApOmMq998X9i2qz8S36M",
-      "excerpt": "Six people were also hospitalised after attending trance and techno festival Dreamstate over the weekend Continue reading..."
-    },
-    {
-      "id": "9761726713fa761bc64064f04bc2962ad6493149",
-      "title": "New music on our radar this week: EsDeeKid, Roger Sanchez, Ella Mai",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-esdeekid-roger-sanchez-ella-mai-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-header.png?width=660&fit=cover&s=bmVPWgPwSipKBft0zxHa_pQYjcEgdveoEkDpZm-9p9c",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
