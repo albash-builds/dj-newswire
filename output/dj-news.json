@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-04T09:39:55.397Z",
+  "generatedAt": "2026-03-04T10:36:34.151Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ee5a46e1acbdd3e8164bef53d3a9a8b6d54e2264",
+      "title": "Thirty Years of Forum Culture: How Dance Music Found Its Voice on the Internet",
+      "link": "https://www.decodedmagazine.com/thirty-years-of-forum-culture-how-dance-music-found-its-voice-on-the-internet/",
+      "published": "2026-03-04T10:23:45.000Z",
+      "publishedTs": 1772619825000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "90s",
+        "Dial Up Modem",
+        "Discord",
+        "Dontstayin",
+        "Facebook",
+        "Forums",
+        "Internet",
+        "Inthemix",
+        "Limewire",
+        "mixes"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/limewire-1920x1131-1.jpg?resize=810%2C477&ssl=1",
+      "excerpt": "That sound, we all know it&#8230;&#8230;.anyone who grew up trying to find out about electronic music in the nineties will remember. It was not a bassline or a breakdown. It was a sequence of beeps and hisses and a long, drawn-out screec…"
+    },
     {
       "id": "0fedde7873016ab122e5e6455486a02c4f984238",
       "title": "10 essential tips from Manual Music label owner, Paul Hazendonk on how to properly submit your demo",
@@ -549,30 +574,20 @@
         "Lambeth Council",
         "London"
       ],
-      "image": "",
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/XtheTracks-23-HR-@garryjonesphotography-2426-scaled.jpg",
       "excerpt": "Festival organiser, Brockwell Live’s planning application for its 2026 event series in Brockwell Park has been unanimously approved at Lambeth Council Planning Applications Committee meeting on Tuesday, 24th February at Lambeth Town Hall…"
     },
     {
-      "id": "fe0c8e15691e5ffbdfb964bbeb0db21b3482d8b6",
-      "title": "Thirty Years of Trainspotting: Time to Revisit One of Britain’s Best Films",
-      "link": "https://www.decodedmagazine.com/thirty-years-of-trainspotting-time-to-revisit-one-of-britains-best-films/",
-      "published": "2026-02-24T08:02:26.000Z",
-      "publishedTs": 1771920146000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Lifestyle",
-        "Danny Boyle",
-        "Irvine Welsh",
-        "Movie",
-        "Review",
-        "Scotland",
-        "Trainspotting",
-        "Underworld"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/trainspottinghed-ae9aeb867d055393f47ba1b6682f6d8f.webp",
-      "excerpt": "There are films you watch, and then there are films that stay with you. Trainspotting stayed with me. I can still remember sitting in a cinema with my mates in 1996, the lights going down, Iggy Pop&#8217;s Lust for Life kicking in throug…"
+      "id": "b504a26bdebb50c59639e5d832b23d69c1302251",
+      "title": "New production competition from Edmwarriors is now open for entries",
+      "link": "https://mixmag.net/read/new-production-competition-from-edmwarriors-is-now-open-for-entries-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/make-it-contest.jpg?width=660&fit=cover&s=CqSC9dGv0YxgwPH1MdPo2KVBK54NR3bfAV69rYH-EJ4",
+      "excerpt": "A €20,000 prize pool is up for grabs in the 2026 contest, with one grand finalist revealed in June Continue reading..."
     },
     {
       "id": "9917b8e8e371ca27ad25f765b465c54b8f862aab",
@@ -1521,18 +1536,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/c2c.png?width=660&fit=cover&s=AMYFpPS2xo5wxblDwKFNPScrzeWx2MAHMLNenr9ljhA",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "f31eeb3b6b9f47212ef94f0de34120ca808c18f5",
-      "title": "South Africa could allow possession of over 2,000 joints-worth of weed",
-      "link": "https://mixmag.net/read/south-african-could-be-allowed-possess-enough-cannabis-for-over-2-000-joints-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cannabis_joint-credit-elsaolofsson.jpg?width=660&fit=cover&s=5Vbe8z5pPePZ7jtwCNoTbl3EROAL_sq2GBIYtE0BrUs",
-      "excerpt": "Under new draft rules, those living in the country could carry up to 750g of cannabis at a time Continue reading..."
     }
   ]
 }
