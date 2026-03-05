@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T08:41:01.336Z",
+  "generatedAt": "2026-03-05T09:42:11.551Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "36cb284d4e5bb1a335a8bd600a5ba7971784f0d2",
+      "title": "El Pluggg 3 OVA 2",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-pluggg-3-ova-2-yung-beef/",
+      "published": "2026-03-05T08:52:54.000Z",
+      "publishedTs": 1772700774000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/El-Pluggg-3-OVA-2-yung-beef.jpg",
+      "excerpt": "En junio del pasado año Yung Beef publicó la notable primera de las dos partes en las que se iba... La entrada El Pluggg 3 OVA 2 se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1d483a8d23e21adc95be46767722e9cf8536b492",
+      "title": "Oscil·lobatent",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/julia-oscil%c2%b7lobatent/",
+      "published": "2026-03-05T08:42:34.000Z",
+      "publishedTs": 1772700154000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/julia-Oscil-lobatent-.jpg",
+      "excerpt": "Tras cinco años de práctico silencio, Júlia, el proyecto musical de la artista alcoyana Estela Tormo, vuelve a alzar el... La entrada Oscil·lobatent se publicó primero en MondoSonoro ."
+    },
     {
       "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
       "title": "Freight Island Brixton announces opening this Spring",
@@ -312,34 +340,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Wave-Pictures-Gained-Lost-.jpg",
       "excerpt": "Hace tiempo que el trío británico The Wave Pictures quemó todas las naves del efecto sorpresa, pero, a cambio y... La entrada Gained / Lost se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bec4f1532c9cdab175a4e4d65ba2e858d3851672",
-      "title": "Hen’s Teeth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/iron-wine-hens-teeth-disco/",
-      "published": "2026-03-01T17:31:24.000Z",
-      "publishedTs": 1772386284000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Iron-Wine-Hens-Teeth.jpg",
-      "excerpt": "Cuestión de pellizco. No hay nada esencialmente distinto en este \"Hen’s Teeth\" (2026), al menos en la forma, a lo... La entrada Hen’s Teeth se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9af7d844ac96d6eca0aa4f1ae239214967220acf",
-      "title": "Look Who's Back",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-nude-party-look-whos-back/",
-      "published": "2026-02-28T07:57:38.000Z",
-      "publishedTs": 1772265458000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/02/The-Nude-Party-Look-Who-s-Back.jpg",
-      "excerpt": "La naturaleza lúdica a la que remite el nombre de esta banda neoyorquina no se transfiera a su música en... La entrada Look Who&#039;s Back se publicó primero en MondoSonoro ."
     },
     {
       "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
