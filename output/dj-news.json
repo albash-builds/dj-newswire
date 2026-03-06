@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T10:35:16.823Z",
+  "generatedAt": "2026-03-06T11:28:54.371Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c32dc0a85af39f1745981a08dff9015de7738059",
+      "title": "Reseñamos \"Make-Up Is A Lie\", el nuevo disco de Morrissey",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/morrissey-make-up-is-a-lie-critica/",
+      "published": "2026-03-06T11:01:36.000Z",
+      "publishedTs": 1772794896000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Morrissey-Make-Up-Is-A-Lie.jpg",
+      "excerpt": "Entre cancelaciones de última hora y declaraciones cuestionables, lo cierto es que la eterna disyuntiva acerca de si debe separarse... La entrada Reseñamos &quot;Make-Up Is A Lie&quot;, el nuevo disco de Morrissey se publicó primero en M…"
+    },
     {
       "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
       "title": "Five on Friday with Graham Brand",
@@ -54,7 +68,7 @@
     },
     {
       "id": "b3a7c7059704fb473e5c5cb9ebf8c8f753d5e069",
-      "title": "Reseñamos el disco benéfico 'Help 2', una absoluta bacanal",
+      "title": "Reseña del disco benéfico 'Help 2', una absoluta bacanal",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/help-dos/",
       "published": "2026-03-06T06:26:27.000Z",
       "publishedTs": 1772778387000,
@@ -64,7 +78,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Varios-Artistas-Help-dos.jpg",
-      "excerpt": "En septiembre de 1995, y en pleno apogeo de la música británica y resurgir del Cool Britania, veía la luz... La entrada Reseñamos el disco benéfico &#039;Help 2&#039;, una absoluta bacanal se publicó primero en MondoSonoro ."
+      "excerpt": "En septiembre de 1995, y en pleno apogeo de la música británica y resurgir del Cool Britania, veía la luz... La entrada Reseña del disco benéfico &#039;Help 2&#039;, una absoluta bacanal se publicó primero en MondoSonoro ."
     },
     {
       "id": "44b5dc5f0c3443c6e2060464b58185f91bddb61e",
@@ -278,20 +292,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Beverly-Glenn-Copeland-Laughter-In-Summer-.jpg",
       "excerpt": "La historia de Beverly Glenn-Copeland es tan mágica como su música. Fue una de las personas de color que estudió... La entrada Laughter In Summer se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "00d1bdd016eeb795e344ce7c18aec90a60dc59fc",
-      "title": "A pesar de los silencios",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/losado-a-pesar-de-los-silencios/",
-      "published": "2026-03-02T18:12:04.000Z",
-      "publishedTs": 1772475124000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/losado.jpg",
-      "excerpt": "Losado es el guitarrista y compositor Txus Villalabeitia, en cuyo currículum aparecen nombres como Same Old, Eh!, Libe o Lepora.... La entrada A pesar de los silencios se publicó primero en MondoSonoro ."
     },
     {
       "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
