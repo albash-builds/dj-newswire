@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-06T07:37:57.995Z",
+  "generatedAt": "2026-03-06T08:38:15.867Z",
   "total": 110,
   "sources": [
     {
@@ -21,8 +21,26 @@
   "errors": [],
   "items": [
     {
+      "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
+      "title": "Five on Friday with Graham Brand",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-graham-brand/",
+      "published": "2026-03-06T07:42:36.000Z",
+      "publishedTs": 1772782956000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "acid techno",
+        "graham brand",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
+      "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
+    },
+    {
       "id": "e4591e7421b7c2c743141281e1287389adbe8a6b",
-      "title": "Critica de 'Kiss All The Time. Disco, Ocassionally' de Harry Styles",
+      "title": "Crítica de 'Kiss All The Time. Disco, Ocassionally' de Harry Styles",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/harry-styles-kiss-all-the-time/",
       "published": "2026-03-06T07:04:11.000Z",
       "publishedTs": 1772780651000,
@@ -32,7 +50,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Harry-Styles-Kiss-All-The-Time.-Disco-Ocassionally.jpg",
-      "excerpt": "Hay momentos en la vida de un artista en los que este comienza a replantearse seriamente qué está dejando verdaderamente... La entrada Critica de &#039;Kiss All The Time. Disco, Ocassionally&#039; de Harry Styles se publicó primero en Mo…"
+      "excerpt": "Hay momentos en la vida de un artista en los que este comienza a replantearse seriamente qué está dejando verdaderamente... La entrada Crítica de &#039;Kiss All The Time. Disco, Ocassionally&#039; de Harry Styles se publicó primero en Mo…"
     },
     {
       "id": "b3a7c7059704fb473e5c5cb9ebf8c8f753d5e069",
@@ -561,26 +579,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jonas_presshot.jpg",
       "excerpt": "German producer and Radikon label founder Jonas Saalbach makes his Purified Records debut with the Data Romance EP, rounded out by a title track remix from fellow German producer and label regular, Lexer. The title track opens with restr…"
-    },
-    {
-      "id": "7b4d0f494bc9cb4b74aa50200a99665bd41e5f04",
-      "title": "Jeff Mills Performs Live Score to Metropolis at Palace of Fine Arts",
-      "link": "https://www.decodedmagazine.com/jeff-mills-performs-live-score-to-metropolis-at-palace-of-fine-arts/",
-      "published": "2026-02-25T01:08:16.000Z",
-      "publishedTs": 1771981696000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "California",
-        "Electronica",
-        "Jeff Mills",
-        "Palace of Fine Arts",
-        "San Francisco",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jeff-Mills-scaled.jpg",
-      "excerpt": "On March 7, Detroit techno pioneer Jeff Mills presents Cinemix: Metropolis Metropolis live at the Palace of Fine Arts Theatre, performing an original electronic score in real time to Fritz Lang’s 1927 silent masterpiece Metropolis. One o…"
     },
     {
       "id": "c22368a90bf827d4b8b3d0f8487e8a140a7112aa",
