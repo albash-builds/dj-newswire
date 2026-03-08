@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T09:29:26.881Z",
+  "generatedAt": "2026-03-08T10:25:29.018Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "97ce1392ef3a21e9807dc9d1b57242be2d5931fa",
+      "title": "No more like this",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/pva-no-more-like-this/",
+      "published": "2026-03-08T09:29:21.000Z",
+      "publishedTs": 1772962161000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/PVA-No-more-like-this.jpg",
+      "excerpt": "La intimidad, fisicidad y el deseo como origen del segundo álbum de PVA. Un proyecto que habla de las energías... La entrada No more like this se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4add52fc3303c2093dcf38aa4b07f34f9d73851f",
       "title": "The Mountain",
@@ -278,20 +292,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
-    },
-    {
-      "id": "1cbc0a0c2397fb3851251d21ffda62a4f04e3d3f",
-      "title": "Hace tiempo que quiero estar así",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/toldos-verdes-hace-tiempo-que-quiero-estar-asi/",
-      "published": "2026-03-02T20:33:23.000Z",
-      "publishedTs": 1772483603000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Toldos-Verdes-Hace-tiempo-que-quiero-estar-asi.jpg",
-      "excerpt": "Hay un fenómeno que ocurre cuando dos personas se enamoran y que Blanca Lacasa expresa muy bien en el libro... La entrada Hace tiempo que quiero estar así se publicó primero en MondoSonoro ."
     },
     {
       "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
