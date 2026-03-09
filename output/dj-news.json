@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T10:45:09.081Z",
+  "generatedAt": "2026-03-09T11:34:58.566Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f3b57b2e9e292a267f0791e28aa982c47531c865",
+      "title": "Lo que queda por sentir",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lo-que-queda-por-sentir/",
+      "published": "2026-03-09T11:22:03.000Z",
+      "publishedTs": 1773055323000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Periferia-Lo-que-queda-por-sentir.jpg",
+      "excerpt": "Con la resaca todavía latente de las muchas y enormes alegrías que les trajo su aclamado segundo disco, “Rincones de... La entrada Lo que queda por sentir se publicó primero en MondoSonoro ."
+    },
     {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
       "title": "Daskal debuts his full-length LP on DJ Tennis’s Life and Death label",
@@ -266,20 +280,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/El-Reno-Renardo-Queso-fresco-queso-curao.jpg",
       "excerpt": "“Queso fresco, queso curao” es la particular forma que tiene El Reno Renardo de decir que su nuevo álbum llega... La entrada Queso fresco, queso curao se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "36cb284d4e5bb1a335a8bd600a5ba7971784f0d2",
-      "title": "El Pluggg 3 OVA 2",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-pluggg-3-ova-2-yung-beef/",
-      "published": "2026-03-05T08:52:54.000Z",
-      "publishedTs": 1772700774000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/El-Pluggg-3-OVA-2-yung-beef.jpg",
-      "excerpt": "En junio del pasado año Yung Beef publicó la notable primera de las dos partes en las que se iba... La entrada El Pluggg 3 OVA 2 se publicó primero en MondoSonoro ."
     },
     {
       "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
