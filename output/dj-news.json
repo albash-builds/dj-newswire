@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T22:28:45.671Z",
+  "generatedAt": "2026-03-09T23:28:21.432Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,46 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "45756a9277b106b690b7598664618687a7a1be27",
+      "title": "Nichols+Roark unveil ‘Full Circle EP’ debut on Renaissance",
+      "link": "https://www.decodedmagazine.com/nicholsroark-unveil-full-circle-ep-debut-on-renaissance/",
+      "published": "2026-03-09T22:56:46.000Z",
+      "publishedTs": 1773097006000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Anthony Pappa",
+        "Marcus James",
+        "Nichols + Roark",
+        "Nottingham",
+        "Progressive House",
+        "Renaissance",
+        "Ron Flatter"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/NicholsRoark_2-scaled.jpg",
+      "excerpt": "UK electronic duo Nichols+Roark mark a defining milestone with their ‘Full Circle EP,’ the debut release on the legendary Renaissance label. The four-track EP serves as both a creative statement and a deeply personal milestone for the ar…"
+    },
+    {
+      "id": "ab796fd121748f740d166cc69b50f493926dadce",
+      "title": "Jean-Michel Jarre Announced as Guest of Honour at Amsterdam Dance Event",
+      "link": "https://www.decodedmagazine.com/jean-michel-jarre-announced-as-guest-of-honour-at-amsterdam-dance-event/",
+      "published": "2026-03-09T22:49:41.000Z",
+      "publishedTs": 1773096581000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "ADE",
+        "Music Industry",
+        "Amsterdam Dance Event",
+        "Jean-Michel Jarre",
+        "Music Conference",
+        "Netherlands"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/4-JM-Jarre-concert-Seville-%C2%A9EDDA-2025-scaled.png",
+      "excerpt": "Amsterdam Dance Event (ADE) kicks off its landmark 30 YEARS anniversary edition. To commemorate three decades, ADE has invited electronic music pioneer Jean-Michel Jarre as special guest of honour in this defining year, for a standout Op…"
+    },
     {
       "id": "7735fad1f6101ac08f8391b3d18c85235983fe68",
       "title": "REFUGE NYC announces first names for Spring",
@@ -542,47 +582,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Bitwig-Studio_BWS6_Automation-Mode-HD.png?resize=810%2C487&ssl=1",
       "excerpt": "There&#8217;s a version of software development where engineers build features in isolation, ticking boxes on a roadmap that bears little resemblance to how anyone actually makes music. Bitwig has never really operated that way, and Bitw…"
-    },
-    {
-      "id": "c7a0ad7eed2e8c88cd73352b9470cfdc1faeaf72",
-      "title": "Arturia unveils KeyStep 37 mk2",
-      "link": "https://www.decodedmagazine.com/arturia-unveils-keystep-37-mk2/",
-      "published": "2026-02-27T05:29:24.000Z",
-      "publishedTs": 1772170164000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech Reviews",
-        "Arturia",
-        "Keyboard",
-        "KeyStep 37 mk2",
-        "MIDI",
-        "music production",
-        "Music tech"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Desktop1.png?resize=810%2C534&ssl=1",
-      "excerpt": "The original KeyStep 37 earned its place on desks and stages worldwide for good reason. Compact, versatile and genuinely playable, it sat at a sweet spot between minimal keyboard controllers and full-blown production rigs. With the mk2, …"
-    },
-    {
-      "id": "a68734ef8ccf4833ec6312d9acbdc4970593e0b7",
-      "title": "Paisley Dark Records Brings Five Years of Leeds Underground to Brixton This Weekend",
-      "link": "https://www.decodedmagazine.com/paisley-dark-records-brings-five-years-of-leeds-underground-to-brixton-this-weekend/",
-      "published": "2026-02-27T03:48:35.000Z",
-      "publishedTs": 1772164115000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Brixton",
-        "Hence Brixton",
-        "London",
-        "Paisley Dark Records",
-        "Red telephone",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/641244712_122198904674370366_6822653117766176058_n.jpg?resize=810%2C320&ssl=1",
-      "excerpt": "Five years is long enough to prove a point, and this Saturday at Henge Brixton, Paisley Dark Records does exactly that. The Leeds-based label, founded by DJ and producer John Paynter, has spent half a decade quietly building one of the m…"
     },
     {
       "id": "439c9934679cdd215917cacae432b44f15cd51b0",
