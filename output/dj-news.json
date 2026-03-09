@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T17:02:02.000Z",
+  "generatedAt": "2026-03-09T18:53:19.522Z",
   "total": 110,
   "sources": [
     {
@@ -580,6 +580,42 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/TERMINAL-V_009.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Terminal V has announced that this year’s April festival marks the final edition of the festival in Edinburgh and the closing of a defining almost decade chapter in the city. This difficult decision follows the evolving operational requi…"
+    },
+    {
+      "id": "439c9934679cdd215917cacae432b44f15cd51b0",
+      "title": "London’s first-ever drug checking services to open in Hackney and Camden",
+      "link": "https://mixmag.net/read/londons-first-ever-drug-checking-services-to-open-in-hackney-and-camden-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pills-the-loop-london.jpg?width=660&fit=cover&s=xOxtdyTq4QMRzulDioFQwG0ArNmtv3Xhor5rNpW32kg",
+      "excerpt": "The Loop promises to provide health advice, “rapid” substance analysis and information on local drug market trends Continue reading..."
+    },
+    {
+      "id": "f084293f98c979c6f54a51451f741b7756cde502",
+      "title": "HOUSE AGAINST HATE protest rave against the far-right to be held in Trafalgar Square",
+      "link": "https://mixmag.net/read/house-against-hate-protest-rave-far-right-trafalgar-square-r3-soundsystem-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/House-Against-Hate-Credit-Jack-Farrar.JPG?width=660&fit=cover&s=kODDz05uKkrgPAJ-AbfkAP2BzY9HZb5fuvVUiPhCpaw",
+      "excerpt": "A stacked line-up of electronic musicians will perform during the demonstration in Central London Continue reading..."
+    },
+    {
+      "id": "ff65b30bc41d399570444b6cacbd4ef3c69061b3",
+      "title": "Sama’ Abdulhadi says Australian visa was not approved ahead of performances",
+      "link": "https://mixmag.net/read/sama-abdulhadi-says-australian-visa-not-approved-ahead-performances-womadelaide-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sama-abdulhadi-press.jpg?width=660&fit=cover&s=ApeAY7aoDmDJcFurDmU0nhqxi5ctXwtEgEtMTEXgNHI",
+      "excerpt": "Sama’ was unable to appear at WOMADelaide, who stood by the Palestinian DJ after a pro-Israel campaign group previously called for her removal from the line-up Continue reading..."
     },
     {
       "id": "b076e15e8597a784e4769c7ada0b374e7372d70d",
@@ -1504,42 +1540,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Casey-Wasserman.png?width=660&fit=cover&s=9ZWl6wXWTD4d3JHx-06IX4fbCCneAa7F93VMtNs42Js",
       "excerpt": "In a memo sent to staff, the Wasserman Group CEO wrote: &quot;I have become a distraction ... That is why I have begun the process of selling the company&quot; Continue reading..."
-    },
-    {
-      "id": "25deab3c00ae899f18916037bd345813ccd60703",
-      "title": "Music tech you might have missed: Behringer BMX, ATGR DJ Touch, RANE SYSTEM ONE",
-      "link": "https://mixmag.net/read/tech-releases-you-might-have-missed-behringer-bmx-atgr-dj-touch-rane-system-one-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shedsenag.png?width=660&fit=cover&s=joBEkAKNjRDTESX17y99o9eJv-2kwMr5gMZDeD45rFc",
-      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
-    },
-    {
-      "id": "2af6e3b8579aa404fb4ab2198eaeec7c1d5d9f98",
-      "title": "Newly opened Dublin hotel seeks injunction against late-night venue over noise complaints",
-      "link": "https://mixmag.net/read/newly-reopened-dublin-hotel-seeks-injuction-against-late-night-venue-over-noise-complaints-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Dublin.png?width=660&fit=cover&s=58hcPRum36MCGJ-k87yFUOFZcfpkYr3lPgpjlGp8ypk",
-      "excerpt": "The Hoxton, which reopened in November after a four-year renovation, claims it has had to close 31 of its 129 rooms due to noise Continue reading..."
-    },
-    {
-      "id": "847527cdf5862d90afe9e2f35f7b3c96258b163a",
-      "title": "Women received less than a quarter of all GRAMMY Awards in 2026, report finds",
-      "link": "https://mixmag.net/read/women-received-less-than-a-quarter-of-all-grammy-awards-in-2026-report-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/grammys_2026-02-13-122936_ibon.jpg?width=660&fit=cover&s=WxBYiwtKcqH_sDN_d6iMbu0n_cw3GeS-9KUnI1xM7zc",
-      "excerpt": "The report also points to a decline in the number of nominations for female artists year-on-year Continue reading..."
     }
   ]
 }
