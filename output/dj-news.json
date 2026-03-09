@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T02:06:28.886Z",
+  "generatedAt": "2026-03-09T04:51:16.547Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jonas_presshot.jpg",
       "excerpt": "German producer and Radikon label founder Jonas Saalbach makes his Purified Records debut with the Data Romance EP, rounded out by a title track remix from fellow German producer and label regular, Lexer. The title track opens with restr…"
+    },
+    {
+      "id": "14eb33ec7d3a2229b71178cab479a53bcb3b2329",
+      "title": "Festival line-ups you might have missed: Green Man, Gates of Agartha, RUNWAY",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-love-supreme-runway-green-man-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/green-man-credit-Patrick-Gunning.jpg?width=660&fit=cover&s=gEHw2iqAScfH8ceYHg3oYEn4b93A45cFGtmmbFVf5kY",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "7b25c4e92effe2e86bdee5953d60a04901981bd6",
@@ -1527,18 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/free-party-credit-alereportage.jpg?width=660&fit=cover&s=5Vx41XaReITlHhD2talvgRYTIACpCstIum-_TOKTSn0",
       "excerpt": "While nightclub attendance is on the decline, interest in dance music is “not declining” — with unlicensed events growing by 34% last year Continue reading..."
-    },
-    {
-      "id": "6f084331cde629af535fadec68c3b8c642ac5d53",
-      "title": "Jyoty, HAAi and Jaguar sign open letter calling for gender equality in club and festival line-ups",
-      "link": "https://mixmag.net/read/jyoty-haai-and-jaguar-sign-open-letter-calling-for-gender-equality-on-club-and-festival-line-ups-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pexels-samuel-waddington-437558324-15339010.jpg?width=660&fit=cover&s=dnU5TjvDpq6_qpnKykpWS-mnUFXmuSESE4MeMRa9cTk",
-      "excerpt": "Launched by Not Bad For A Girl, the letter points to examples of gender disparity — including one UK festival with a line-up featuring &quot;80% men&quot; Continue reading..."
     }
   ]
 }
