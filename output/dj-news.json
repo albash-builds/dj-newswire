@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T07:09:39.312Z",
+  "generatedAt": "2026-03-09T08:43:36.702Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,108 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "70e76c1dc5f81833cd33ea812a2dbf15ad7f64ac",
+      "title": "Vida y Milagros",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bernal-vida-y-milagros/",
+      "published": "2026-03-09T08:40:43.000Z",
+      "publishedTs": 1773045643000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bernal-Vida-y-Milagros.jpg",
+      "excerpt": "Con la modestia propia de quien no pretende exhibir músculo, pero sí mucho corazón, Bernal ponen sobre la mesa uno... La entrada Vida y Milagros se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "273e1c7bedf426e4107c7f0240f59134df6eb754",
+      "title": "Glass Minds",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/archive-glass-minds/",
+      "published": "2026-03-09T08:19:57.000Z",
+      "publishedTs": 1773044397000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Archive-Glass-Minds.jpg",
+      "excerpt": "El no poco misterioso colectivo londinense Archive continúa en activo tres décadas después de su aparición en escena. El combo... La entrada Glass Minds se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4858ad7a7a13c0a5b82c7412af99c563d8accecf",
+      "title": "Backengrillen",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/backengrillen/",
+      "published": "2026-03-09T08:03:15.000Z",
+      "publishedTs": 1773043395000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Backengrillen-disco.jpg",
+      "excerpt": "Cuando hace unas semanas Dennis Lyxzen, cantante de Backengrillen aclaró en sus redes que este grupo no es “la nueva... La entrada Backengrillen se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7666a6f1e30edead4a1c6ebb8dba7a39aa37744a",
+      "title": "Semantica Records just released Articulated Lair. SEMANTICA 196 by Various Artists",
+      "link": "https://www.decodedmagazine.com/semantica-records-just-released-articulated-lair-semantica-196-by-various-artists/",
+      "published": "2026-03-09T07:31:45.000Z",
+      "publishedTs": 1773041505000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Bandcamp",
+        "Dark Techno",
+        "Madrid",
+        "Semantica Records",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2998996231_10.jpg",
+      "excerpt": "Articulated Lair. SEMANTICA 196 by Various Madrid&#8217;s Semantica Records has long operated at the darker end of the underground spectrum, and their 196th catalogue entry makes no concessions to accessibility. Articulated Lair is a ten…"
+    },
+    {
+      "id": "d363c23b2552e8d1054c1e18943ff065346f439c",
+      "title": "Joachim Spieth just released Vestige",
+      "link": "https://www.decodedmagazine.com/joachim-spieth-just-released-vestige/",
+      "published": "2026-03-09T07:23:21.000Z",
+      "publishedTs": 1773041001000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "dub techno",
+        "Electronica",
+        "Joachim Spieth",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a1858503234_10.jpg",
+      "excerpt": "Vestige by Joachim Spieth Vestige continues Joachim Spieth’s refined exploration of spatial sound and textural depth. Building on the sonic language developed throughout his recent works – including Retrace – the album expands the dialog…"
+    },
+    {
+      "id": "10f472a8bc42b966fdd26dfd472bada3b5eba6da",
+      "title": "Goldie’s Rufige Kru Documentary Arrives",
+      "link": "https://www.decodedmagazine.com/goldies-rufige-kru-documentary-arrives/",
+      "published": "2026-03-09T07:15:59.000Z",
+      "publishedTs": 1773040559000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "Army of Few",
+        "Drum and Bass",
+        "Goldie",
+        "London Records",
+        "Marc Mac",
+        "Photek",
+        "Rufige Kru",
+        "Submotive"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-16-scaled-e1773040388255.jpg",
+      "excerpt": "A new feature-length documentary exploring the history of Goldie&#8217;s Rufige Kru project has been released on YouTube. Titled The Rufige Files, it was produced and directed by Goldie alongside Army Of Few and London Records, and becam…"
+    },
     {
       "id": "327d70745e255f09f60b62f2f40e4e38577b7d0c",
       "title": "The Great British Festival: Five Days of Music, Decades in Landfill",
@@ -107,7 +209,7 @@
     },
     {
       "id": "e4591e7421b7c2c743141281e1287389adbe8a6b",
-      "title": "Crítica de 'Kiss All The Time. Disco, Ocassionally' de Harry Styles",
+      "title": "Kiss All The Time. Disco, Ocassionally",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/harry-styles-kiss-all-the-time/",
       "published": "2026-03-06T07:04:11.000Z",
       "publishedTs": 1772780651000,
@@ -117,7 +219,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Harry-Styles-Kiss-All-The-Time.-Disco-Ocassionally.jpg",
-      "excerpt": "Hay momentos en la vida de un artista en los que este comienza a replantearse seriamente qué está dejando verdaderamente... La entrada Crítica de &#039;Kiss All The Time. Disco, Ocassionally&#039; de Harry Styles se publicó primero en Mo…"
+      "excerpt": "Hay momentos en la vida de un artista en los que este comienza a replantearse seriamente qué está dejando verdaderamente... La entrada Kiss All The Time. Disco, Ocassionally se publicó primero en MondoSonoro ."
     },
     {
       "id": "b3a7c7059704fb473e5c5cb9ebf8c8f753d5e069",
@@ -160,20 +262,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/El-Pluggg-3-OVA-2-yung-beef.jpg",
       "excerpt": "En junio del pasado año Yung Beef publicó la notable primera de las dos partes en las que se iba... La entrada El Pluggg 3 OVA 2 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1d483a8d23e21adc95be46767722e9cf8536b492",
-      "title": "Oscil·lobatent",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/julia-oscil%c2%b7lobatent/",
-      "published": "2026-03-05T08:42:34.000Z",
-      "publishedTs": 1772700154000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/julia-Oscil-lobatent-.jpg",
-      "excerpt": "Tras cinco años de práctico silencio, Júlia, el proyecto musical de la artista alcoyana Estela Tormo, vuelve a alzar el... La entrada Oscil·lobatent se publicó primero en MondoSonoro ."
     },
     {
       "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
@@ -241,34 +329,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/DAT-Tape-1.jpg",
       "excerpt": "Manual Music Label owner Paul Hazendonk drops in with some essential tips on how to submit your demo properly. So you&#8217;ve been working hard in the studio, haven&#8217;t seen daylight for ages and your vitamin C levels are running da…"
-    },
-    {
-      "id": "ede18a01cbd3c0389f43cbacb9b643c83edb1adf",
-      "title": "Brega",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/malifeta-brega/",
-      "published": "2026-03-03T21:16:24.000Z",
-      "publishedTs": 1772572584000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/malifeta-brega.jpg",
-      "excerpt": "Con el panorama político y social actual, —en clave valenciana, sobre todo— la brega es una consecuencia inevitable. Y lo... La entrada Brega se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e6af1466a44c33e2fdc7554c3090939fa2a3b9ef",
-      "title": "Testamento",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-diablo-de-shanghai-testamento/",
-      "published": "2026-03-03T19:33:04.000Z",
-      "publishedTs": 1772566384000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/el-diablo-de-shanghai-Testamento.jpg",
-      "excerpt": "“Testamento”, nuevo y segundo álbum de los barceloneses El Diablo de Shanghai, es el primer paso en el camino a... La entrada Testamento se publicó primero en MondoSonoro ."
     },
     {
       "id": "a27e93b950539ab9536de8d00c1480d0a8243c66",
@@ -526,66 +586,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/201903-anthony-pappa-jess-middleton-005.jpg?resize=810%2C997&ssl=1",
       "excerpt": "Global Underground’s Australia tour begins Friday 5 th June 2026 at Melbourne’s iconic Northcote Social Club, who’ve been presenting the best music to Melbourne since 1894. Then, on Saturday 6 th June, an all-dayer at Brisbane’s Eclipse,…"
-    },
-    {
-      "id": "1239acb2ae6dcf8ec6943b160e8cfcbf041ba617",
-      "title": "Manchester set to get a new festival",
-      "link": "https://www.decodedmagazine.com/manchester-set-to-get-a-new-festival/",
-      "published": "2026-02-25T14:49:33.000Z",
-      "publishedTs": 1772030973000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Carl Criag",
-        "LTJ Bukem",
-        "Manchester",
-        "Moodyman",
-        "Octave One",
-        "Orbital",
-        "Phil Hartnoll",
-        "The Orb"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/OUTWARDS-LINE-UP-STILL-4X5.png?resize=810%2C1013&ssl=1",
-      "excerpt": "A new festival dedicated to the past, present and future of electronic music culture will launch in Manchester this summer, as Outwards unveils a city-centre, open-air gathering designed to reconnect dance music with its deeper cultural …"
-    },
-    {
-      "id": "fefc8d2adaf1be6cddc0332abf7fd2535a2a51ba",
-      "title": "John 00 Fleming Announces Upcoming Album The Lost Tribe",
-      "link": "https://www.decodedmagazine.com/john-00-fleming-announces-upcoming-album-the-lost-tribe/",
-      "published": "2026-02-25T10:28:12.000Z",
-      "publishedTs": 1772015292000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "John 00 Fleming",
-        "JOOF Recordings",
-        "Progressive House",
-        "Trance"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/John-00-Fleming-1-scaled.jpg",
-      "excerpt": "Globally respected British electronic music pioneer John 00 Fleming returns with his first full-length artist album in six years, announcing The Lost Tribe , an 18-track body of work set for release on April 10 via his own imprint, JOOF …"
-    },
-    {
-      "id": "74127c8411aa85123c38706451446f5dc140682c",
-      "title": "The Record Crate Gets Its Long Overdue Redesign",
-      "link": "https://www.decodedmagazine.com/the-record-crate-gets-its-long-overdue-redesign/",
-      "published": "2026-02-25T05:08:01.000Z",
-      "publishedTs": 1771996081000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Record crates",
-        "Storage",
-        "Toneoptic",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/CAN-Wall-White.png?resize=810%2C456&ssl=1",
-      "excerpt": "There&#8217;s a particular kind of frustration that every serious record collector knows. You&#8217;ve spent years, possibly decades, building a collection that means something to you. Albums that represent specific moments. Twelve-inche…"
     },
     {
       "id": "14eb33ec7d3a2229b71178cab479a53bcb3b2329",
