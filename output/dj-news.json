@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T21:32:31.805Z",
+  "generatedAt": "2026-03-09T22:28:45.671Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7735fad1f6101ac08f8391b3d18c85235983fe68",
+      "title": "REFUGE NYC announces first names for Spring",
+      "link": "https://www.decodedmagazine.com/refuge-nyc-announces-first-names-for-spring/",
+      "published": "2026-03-09T21:35:12.000Z",
+      "publishedTs": 1773092112000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Desyn",
+        "House Music",
+        "Mason Collective",
+        "Progressive House",
+        "Ricardo Villalobos",
+        "Serge Devant",
+        "Shinedoe",
+        "Techno",
+        "Victor Calderone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/Refuge_NYC.jpeg",
+      "excerpt": "Brooklyn venue Refuge NYC has revealed the first names for its Spring season, led by the launch of a new monthly residency from New York house pioneer Victor Calderone alongside appearances from a range of cultured international artists …"
+    },
     {
       "id": "7a8c4029cce2c15a14de3c5a570eed4db1076b87",
       "title": "Low Blows",
@@ -560,26 +583,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/641244712_122198904674370366_6822653117766176058_n.jpg?resize=810%2C320&ssl=1",
       "excerpt": "Five years is long enough to prove a point, and this Saturday at Henge Brixton, Paisley Dark Records does exactly that. The Leeds-based label, founded by DJ and producer John Paynter, has spent half a decade quietly building one of the m…"
-    },
-    {
-      "id": "91c287cae859d40643adf5153273076120b3f3f7",
-      "title": "Terminal V announce last ever festival in Edinburgh",
-      "link": "https://www.decodedmagazine.com/terminal-v-announce-last-ever-festival-in-edinburgh/",
-      "published": "2026-02-26T12:18:33.000Z",
-      "publishedTs": 1772108313000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Edinburgh",
-        "Festival",
-        "Scotland",
-        "Techno",
-        "Terminal V"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/TERMINAL-V_009.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Terminal V has announced that this year’s April festival marks the final edition of the festival in Edinburgh and the closing of a defining almost decade chapter in the city. This difficult decision follows the evolving operational requi…"
     },
     {
       "id": "439c9934679cdd215917cacae432b44f15cd51b0",
