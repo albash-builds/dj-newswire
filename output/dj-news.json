@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T05:57:41.918Z",
+  "generatedAt": "2026-03-09T07:09:39.312Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "327d70745e255f09f60b62f2f40e4e38577b7d0c",
+      "title": "The Great British Festival: Five Days of Music, Decades in Landfill",
+      "link": "https://www.decodedmagazine.com/the-great-british-festival-five-days-of-music-decades-in-landfill/",
+      "published": "2026-03-09T07:06:12.000Z",
+      "publishedTs": 1773039972000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Festivals",
+        "Charity",
+        "Environment",
+        "Farmland",
+        "festivals",
+        "Glastonbury",
+        "Landfill",
+        "Leave no Trace",
+        "Music Industry",
+        "Plastics"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
+      "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
+    },
     {
       "id": "97ce1392ef3a21e9807dc9d1b57242be2d5931fa",
       "title": "No more like this",
@@ -561,24 +586,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/CAN-Wall-White.png?resize=810%2C456&ssl=1",
       "excerpt": "There&#8217;s a particular kind of frustration that every serious record collector knows. You&#8217;ve spent years, possibly decades, building a collection that means something to you. Albums that represent specific moments. Twelve-inche…"
-    },
-    {
-      "id": "a7d44156a39a7a240fe61e28d7bdea79dea8e41a",
-      "title": "Jonas Saalbach Debuts on Purified Records with Data Romance EP",
-      "link": "https://www.decodedmagazine.com/jonas-saalbach-debuts-on-purified-records-with-data-romance-ep/",
-      "published": "2026-02-25T03:41:59.000Z",
-      "publishedTs": 1771990919000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "deep house",
-        "Germany",
-        "Progressive House",
-        "Purified Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/Jonas_presshot.jpg",
-      "excerpt": "German producer and Radikon label founder Jonas Saalbach makes his Purified Records debut with the Data Romance EP, rounded out by a title track remix from fellow German producer and label regular, Lexer. The title track opens with restr…"
     },
     {
       "id": "14eb33ec7d3a2229b71178cab479a53bcb3b2329",
