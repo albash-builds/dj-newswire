@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T13:00:36.059Z",
+  "generatedAt": "2026-03-10T14:05:15.083Z",
   "total": 110,
   "sources": [
     {
@@ -161,6 +161,20 @@
       "excerpt": "Con la resaca todavía latente de las muchas y enormes alegrías que les trajo su aclamado segundo disco, “Rincones de... La entrada Lo que queda por sentir se publicó primero en MondoSonoro ."
     },
     {
+      "id": "273e1c7bedf426e4107c7f0240f59134df6eb754",
+      "title": "Glass Minds",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/archive-glass-minds/",
+      "published": "2026-03-09T09:19:57.000Z",
+      "publishedTs": 1773047997000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Archive-Glass-Minds.jpg",
+      "excerpt": "El no poco misterioso colectivo londinense Archive continúa en activo tres décadas después de su aparición en escena. El combo... La entrada Glass Minds se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
       "title": "Daskal debuts his full-length LP on DJ Tennis’s Life and Death label",
       "link": "https://www.decodedmagazine.com/daskal-debuts-his-full-length-lp-on-dj-tenniss-life-and-death-label/",
@@ -191,20 +205,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bernal-Vida-y-Milagros.jpg",
       "excerpt": "Con la modestia propia de quien no pretende exhibir músculo, pero sí mucho corazón, Bernal ponen sobre la mesa uno... La entrada Vida y Milagros se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "273e1c7bedf426e4107c7f0240f59134df6eb754",
-      "title": "Glass Minds",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/archive-glass-minds/",
-      "published": "2026-03-09T08:19:57.000Z",
-      "publishedTs": 1773044397000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Archive-Glass-Minds.jpg",
-      "excerpt": "El no poco misterioso colectivo londinense Archive continúa en activo tres décadas después de su aparición en escena. El combo... La entrada Glass Minds se publicó primero en MondoSonoro ."
     },
     {
       "id": "4858ad7a7a13c0a5b82c7412af99c563d8accecf",
