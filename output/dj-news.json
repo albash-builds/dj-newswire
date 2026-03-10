@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-10T14:05:15.083Z",
-  "total": 110,
+  "generatedAt": "2026-03-10T15:59:41.593Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "fd85178f9e2b09815d0a77322b5232b1db739532",
@@ -33,90 +40,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/nothing-A-short-history-of-decay.jpg",
       "excerpt": "Belleza y decadencia, dulzura y descomposición. La impactante y alegórica portada del nuevo disco de Nothing, \"A short history of... La entrada A short history of decay se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "d3d005dbf63f26a6c70a203d29a0af0970adfe40",
-      "title": "Point, Click, Mix: The Mouse That Thought It Was a DJ Controller",
-      "link": "https://www.decodedmagazine.com/point-click-mix-the-mouse-that-thought-it-was-a-dj-controller/",
-      "published": "2026-03-10T06:24:48.000Z",
-      "publishedTs": 1773123888000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech Reviews",
-        "Controller",
-        "Deckadance",
-        "DJ",
-        "Mixing",
-        "Mouse",
-        "Old DJ Tech"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/71rDcpTtSBL._AC_SL1200_.jpg?resize=810%2C586&ssl=1",
-      "excerpt": "There are bad ideas, there are genuinely terrible ideas, and then there are ideas so magnificently misguided that they transcend criticism entirely and arrive somewhere close to performance art. The DJ Mouse, launched by DJ-Tech in Augus…"
-    },
-    {
-      "id": "45756a9277b106b690b7598664618687a7a1be27",
-      "title": "Nichols+Roark unveil ‘Full Circle EP’ debut on Renaissance",
-      "link": "https://www.decodedmagazine.com/nicholsroark-unveil-full-circle-ep-debut-on-renaissance/",
-      "published": "2026-03-09T22:56:46.000Z",
-      "publishedTs": 1773097006000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Anthony Pappa",
-        "Marcus James",
-        "Nichols + Roark",
-        "Nottingham",
-        "Progressive House",
-        "Renaissance",
-        "Ron Flatter"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/NicholsRoark_2-scaled.jpg",
-      "excerpt": "UK electronic duo Nichols+Roark mark a defining milestone with their ‘Full Circle EP,’ the debut release on the legendary Renaissance label. The four-track EP serves as both a creative statement and a deeply personal milestone for the ar…"
-    },
-    {
-      "id": "ab796fd121748f740d166cc69b50f493926dadce",
-      "title": "Jean-Michel Jarre Announced as Guest of Honour at Amsterdam Dance Event",
-      "link": "https://www.decodedmagazine.com/jean-michel-jarre-announced-as-guest-of-honour-at-amsterdam-dance-event/",
-      "published": "2026-03-09T22:49:41.000Z",
-      "publishedTs": 1773096581000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "ADE",
-        "Music Industry",
-        "Amsterdam Dance Event",
-        "Jean-Michel Jarre",
-        "Music Conference",
-        "Netherlands"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/4-JM-Jarre-concert-Seville-%C2%A9EDDA-2025-scaled.png",
-      "excerpt": "Amsterdam Dance Event (ADE) kicks off its landmark 30 YEARS anniversary edition. To commemorate three decades, ADE has invited electronic music pioneer Jean-Michel Jarre as special guest of honour in this defining year, for a standout Op…"
-    },
-    {
-      "id": "7735fad1f6101ac08f8391b3d18c85235983fe68",
-      "title": "REFUGE NYC announces first names for Spring",
-      "link": "https://www.decodedmagazine.com/refuge-nyc-announces-first-names-for-spring/",
-      "published": "2026-03-09T21:35:12.000Z",
-      "publishedTs": 1773092112000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Desyn",
-        "House Music",
-        "Mason Collective",
-        "Progressive House",
-        "Ricardo Villalobos",
-        "Serge Devant",
-        "Shinedoe",
-        "Techno",
-        "Victor Calderone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/Refuge_NYC.jpeg",
-      "excerpt": "Brooklyn venue Refuge NYC has revealed the first names for its Spring season, led by the launch of a new monthly residency from New York house pioneer Victor Calderone alongside appearances from a range of cultured international artists …"
     },
     {
       "id": "7a8c4029cce2c15a14de3c5a570eed4db1076b87",
@@ -175,24 +98,6 @@
       "excerpt": "El no poco misterioso colectivo londinense Archive continúa en activo tres décadas después de su aparición en escena. El combo... La entrada Glass Minds se publicó primero en MondoSonoro ."
     },
     {
-      "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
-      "title": "Daskal debuts his full-length LP on DJ Tennis’s Life and Death label",
-      "link": "https://www.decodedmagazine.com/daskal-debuts-his-full-length-lp-on-dj-tenniss-life-and-death-label/",
-      "published": "2026-03-09T08:52:50.000Z",
-      "publishedTs": 1773046370000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Daskal",
-        "DJ Tennis",
-        "Electronica",
-        "Life and Death Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Daskal_07-12-25_0114-scaled-e1773046235688.jpg",
-      "excerpt": "OD by Daskal Daskal releases his debut full-length LP, OD, out now on DJ Tennis&#8217;s Life and Death label. The record marks a significant step for the producer and composer, whose work spans contemporary dance, film and electronic mus…"
-    },
-    {
       "id": "70e76c1dc5f81833cd33ea812a2dbf15ad7f64ac",
       "title": "Vida y Milagros",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/bernal-vida-y-milagros/",
@@ -219,91 +124,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Backengrillen-disco.jpg",
       "excerpt": "Cuando hace unas semanas Dennis Lyxzen, cantante de Backengrillen aclaró en sus redes que este grupo no es “la nueva... La entrada Backengrillen se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7666a6f1e30edead4a1c6ebb8dba7a39aa37744a",
-      "title": "Semantica Records just released Articulated Lair. SEMANTICA 196 by Various Artists",
-      "link": "https://www.decodedmagazine.com/semantica-records-just-released-articulated-lair-semantica-196-by-various-artists/",
-      "published": "2026-03-09T07:31:45.000Z",
-      "publishedTs": 1773041505000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Bandcamp",
-        "Dark Techno",
-        "Madrid",
-        "Semantica Records",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2998996231_10.jpg",
-      "excerpt": "Articulated Lair. SEMANTICA 196 by Various Madrid&#8217;s Semantica Records has long operated at the darker end of the underground spectrum, and their 196th catalogue entry makes no concessions to accessibility. Articulated Lair is a ten…"
-    },
-    {
-      "id": "d363c23b2552e8d1054c1e18943ff065346f439c",
-      "title": "Joachim Spieth just released Vestige",
-      "link": "https://www.decodedmagazine.com/joachim-spieth-just-released-vestige/",
-      "published": "2026-03-09T07:23:21.000Z",
-      "publishedTs": 1773041001000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "dub techno",
-        "Electronica",
-        "Joachim Spieth",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a1858503234_10.jpg",
-      "excerpt": "Vestige by Joachim Spieth Vestige continues Joachim Spieth’s refined exploration of spatial sound and textural depth. Building on the sonic language developed throughout his recent works – including Retrace – the album expands the dialog…"
-    },
-    {
-      "id": "10f472a8bc42b966fdd26dfd472bada3b5eba6da",
-      "title": "Goldie’s Rufige Kru Documentary Arrives",
-      "link": "https://www.decodedmagazine.com/goldies-rufige-kru-documentary-arrives/",
-      "published": "2026-03-09T07:15:59.000Z",
-      "publishedTs": 1773040559000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Army of Few",
-        "Drum and Bass",
-        "Goldie",
-        "London Records",
-        "Marc Mac",
-        "Photek",
-        "Rufige Kru",
-        "Submotive"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-16-scaled-e1773040388255.jpg",
-      "excerpt": "A new feature-length documentary exploring the history of Goldie&#8217;s Rufige Kru project has been released on YouTube. Titled The Rufige Files, it was produced and directed by Goldie alongside Army Of Few and London Records, and becam…"
-    },
-    {
-      "id": "327d70745e255f09f60b62f2f40e4e38577b7d0c",
-      "title": "The Great British Festival: Five Days of Music, Decades in Landfill",
-      "link": "https://www.decodedmagazine.com/the-great-british-festival-five-days-of-music-decades-in-landfill/",
-      "published": "2026-03-09T07:06:12.000Z",
-      "publishedTs": 1773039972000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Festivals",
-        "Charity",
-        "Environment",
-        "Farmland",
-        "festivals",
-        "Glastonbury",
-        "Landfill",
-        "Leave no Trace",
-        "Music Industry",
-        "Plastics"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
-      "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
     },
     {
       "id": "97ce1392ef3a21e9807dc9d1b57242be2d5931fa",
@@ -346,245 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Morrissey-Make-Up-Is-A-Lie.jpg",
       "excerpt": "Entre cancelaciones de última hora y declaraciones cuestionables, lo cierto es que la eterna disyuntiva acerca de si debe separarse... La entrada Make-Up Is A Lie se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
-      "title": "Five on Friday with Graham Brand",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-graham-brand/",
-      "published": "2026-03-06T07:42:36.000Z",
-      "publishedTs": 1772782956000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "acid techno",
-        "graham brand",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
-    },
-    {
-      "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
-      "title": "Freight Island Brixton announces opening this Spring",
-      "link": "https://www.decodedmagazine.com/freight-island-brixton-announces-opening-this-spring/",
-      "published": "2026-03-04T11:05:13.000Z",
-      "publishedTs": 1772622313000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Food",
-        "Lifestyle",
-        "bars",
-        "Brixton",
-        "Cocktails",
-        "Dining",
-        "Food Festivals",
-        "Live music",
-        "London",
-        "Rooftop Bar"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/IMG_8220.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Freight Brixton will officially open on 7 May 2026, bringing a 1,000+ capacity open-air food, drink and music destination to the heart of South London. Located moments from Brixton Station and adjacent to Brixton Village Market, Freight …"
-    },
-    {
-      "id": "ee5a46e1acbdd3e8164bef53d3a9a8b6d54e2264",
-      "title": "Thirty Years of Forum Culture: How Dance Music Found Its Voice on the Internet",
-      "link": "https://www.decodedmagazine.com/thirty-years-of-forum-culture-how-dance-music-found-its-voice-on-the-internet/",
-      "published": "2026-03-04T10:23:45.000Z",
-      "publishedTs": 1772619825000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "90s",
-        "Dial Up Modem",
-        "Discord",
-        "Dontstayin",
-        "Facebook",
-        "Forums",
-        "Internet",
-        "Inthemix",
-        "Limewire",
-        "mixes"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/limewire-1920x1131-1.jpg?resize=810%2C477&ssl=1",
-      "excerpt": "That sound, we all know it&#8230;&#8230;.anyone who grew up trying to find out about electronic music in the nineties will remember. It was not a bassline or a breakdown. It was a sequence of beeps and hisses and a long, drawn-out screec…"
-    },
-    {
-      "id": "0fedde7873016ab122e5e6455486a02c4f984238",
-      "title": "10 essential tips from Manual Music label owner, Paul Hazendonk on how to properly submit your demo",
-      "link": "https://www.decodedmagazine.com/industry-how-to-properly-submit-your-demo/",
-      "published": "2026-03-04T05:56:01.000Z",
-      "publishedTs": 1772603761000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tutorials",
-        "demo",
-        "Music Industry",
-        "music production",
-        "Record Label"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/DAT-Tape-1.jpg",
-      "excerpt": "Manual Music Label owner Paul Hazendonk drops in with some essential tips on how to submit your demo properly. So you&#8217;ve been working hard in the studio, haven&#8217;t seen daylight for ages and your vitamin C levels are running da…"
-    },
-    {
-      "id": "a27e93b950539ab9536de8d00c1480d0a8243c66",
-      "title": "The Collector’s App: We Road Tested Crates and Here’s the Take",
-      "link": "https://www.decodedmagazine.com/the-collectors-app-we-road-tested-crates-and-heres-the-take/",
-      "published": "2026-03-03T17:54:34.000Z",
-      "publishedTs": 1772560474000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech Reviews",
-        "AIFF",
-        "App",
-        "Apple Music",
-        "Bandcamp",
-        "Beatport",
-        "Crates",
-        "Discogs",
-        "FLAC",
-        "MP3",
-        "Playlist",
-        "Spotify"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/DSC04223-1.jpg?resize=810%2C455&ssl=1",
-      "excerpt": "Right, so if you&#8217;re anything like me, you&#8217;ve got music scattered across more platforms than you care to admit. A Discogs collection that&#8217;s been quietly growing since before most streaming services existed, FLAC files bu…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-03-03T13:10:34.000Z",
-      "publishedTs": 1772543434000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
-    },
-    {
-      "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
-      "title": "Five DJs to Watch at Barcelona’s MOSTRA Festival 2026",
-      "link": "https://www.decodedmagazine.com/five-djs-to-watch-at-barcelonas-mostra-festival-2026/",
-      "published": "2026-03-02T06:40:16.000Z",
-      "publishedTs": 1772433616000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Mixes",
-        "Barcelona",
-        "Berlin",
-        "Detroit",
-        "Dublin",
-        "Electronica",
-        "House Music",
-        "IDM",
-        "Mostra Festival",
-        "Spain"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/MAIKA-4-2-1-scaled.jpg",
-      "excerpt": "Barcelona&#8217;s independent avant-garde festival returns for its fifth edition this March. These are the artists worth planning your schedule around. If you have not been to Mostra before, the short version is this: it is a small festi…"
-    },
-    {
-      "id": "80fd5afa5c822adf02f5d26b55e0b349dd1abcc0",
-      "title": "Om Records Unveils “Wind Trades” from J Boogie’s Dubtronic Science & Carlos Araiza",
-      "link": "https://www.decodedmagazine.com/om-records-unveils-wind-trades-from-j-boogies-dubtronic-science-carlos-araiza/",
-      "published": "2026-03-02T05:58:37.000Z",
-      "publishedTs": 1772431117000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "J Boogie’s Dubtronics Science",
-        "Om Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/J-Boogie.jpg",
-      "excerpt": "Wind Trades feat. Carlos Araiza by J Boogie&#39;s Dubtronic Science In OM Records’ latest offering, the breezy “Wind Trades” by the renowned J Boogie’s Dubtronics Science adopts a steady beat and bright soundscape, encapsulating the feel…"
-    },
-    {
-      "id": "b983b523fac4b65149bd0dcfcd2b9eee5ad75780",
-      "title": "The Long Game: Lemon and Lime’s Dan Burke on Consistency, Culture and the Brisbane Scene",
-      "link": "https://www.decodedmagazine.com/the-long-game-lemon-and-limes-dan-burke-on-consistency-culture-and-the-brisbane-scene/",
-      "published": "2026-03-02T04:48:39.000Z",
-      "publishedTs": 1772426919000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Brisbane",
-        "Clubbing",
-        "Dave Seaman",
-        "Franky Whah",
-        "Guy J",
-        "Hernan Cattaneo",
-        "Jody 6",
-        "John 00 Fleming",
-        "Lemon and Lime"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/302179869_3044347625809773_1220701201419534397_n.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Brisbane doesn&#8217;t always get the credit it deserves. In conversations about Australia&#8217;s electronic music landscape, the spotlight tends to drift toward Melbourne&#8217;s basements and Sydney&#8217;s harbour-side venues, leavin…"
-    },
-    {
-      "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
-      "title": "Review – We Spent a Night In The Dark",
-      "link": "https://www.decodedmagazine.com/review-we-spent-a-night-in-the-dark/",
-      "published": "2026-02-27T14:22:41.000Z",
-      "publishedTs": 1772202161000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Event Reviews",
-        "Art",
-        "chill out",
-        "Electronica",
-        "In The Dark",
-        "London",
-        "multi-sensory experience"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
-    },
-    {
-      "id": "d0395262bfcd7219ecaa54294103f65467697d01",
-      "title": "Five on Friday with Red Telephone",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-red-telephone/",
-      "published": "2026-02-27T13:07:38.000Z",
-      "publishedTs": 1772197658000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "House Music",
-        "London",
-        "Marie Avril",
-        "Music Industry",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
     },
     {
       "id": "ff405323aaef7abb41bbad891353c352082c7cd9",
