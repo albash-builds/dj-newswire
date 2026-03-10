@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T05:45:26.664Z",
+  "generatedAt": "2026-03-10T06:50:56.831Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d3d005dbf63f26a6c70a203d29a0af0970adfe40",
+      "title": "Point, Click, Mix: The Mouse That Thought It Was a DJ Controller",
+      "link": "https://www.decodedmagazine.com/point-click-mix-the-mouse-that-thought-it-was-a-dj-controller/",
+      "published": "2026-03-10T06:24:48.000Z",
+      "publishedTs": 1773123888000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Controller",
+        "Deckadance",
+        "DJ",
+        "Mixing",
+        "Mouse",
+        "Old DJ Tech"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/71rDcpTtSBL._AC_SL1200_.jpg?resize=810%2C586&ssl=1",
+      "excerpt": "There are bad ideas, there are genuinely terrible ideas, and then there are ideas so magnificently misguided that they transcend criticism entirely and arrive somewhere close to performance art. The DJ Mouse, launched by DJ-Tech in Augus…"
+    },
     {
       "id": "45756a9277b106b690b7598664618687a7a1be27",
       "title": "Nichols+Roark unveil ‘Full Circle EP’ debut on Renaissance",
@@ -564,24 +585,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
-    },
-    {
-      "id": "7d72ca30c2dbdb7dc3057a8f02c447cdfb9fd84b",
-      "title": "Bitwig Studio 6 Lands 11th March: Everything You Need to Know",
-      "link": "https://www.decodedmagazine.com/bitwig-studio-6-lands-11th-march-everything-you-need-to-know/",
-      "published": "2026-02-27T06:24:00.000Z",
-      "publishedTs": 1772173440000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Bitwig",
-        "Bitwig Studio",
-        "DAW",
-        "music production"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/Bitwig-Studio_BWS6_Automation-Mode-HD.png?resize=810%2C487&ssl=1",
-      "excerpt": "There&#8217;s a version of software development where engineers build features in isolation, ticking boxes on a roadmap that bears little resemblance to how anyone actually makes music. Bitwig has never really operated that way, and Bitw…"
     },
     {
       "id": "439c9934679cdd215917cacae432b44f15cd51b0",
