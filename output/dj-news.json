@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T10:39:11.241Z",
+  "generatedAt": "2026-03-10T11:32:49.935Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fd85178f9e2b09815d0a77322b5232b1db739532",
+      "title": "A short history of decay",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nothing-a-short-history-of-decay/",
+      "published": "2026-03-10T11:02:00.000Z",
+      "publishedTs": 1773140520000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/nothing-A-short-history-of-decay.jpg",
+      "excerpt": "Belleza y decadencia, dulzura y descomposición. La impactante y alegórica portada del nuevo disco de Nothing, \"A short history of... La entrada A short history of decay se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d3d005dbf63f26a6c70a203d29a0af0970adfe40",
       "title": "Point, Click, Mix: The Mouse That Thought It Was a DJ Controller",
@@ -350,20 +364,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
-    },
-    {
-      "id": "e4591e7421b7c2c743141281e1287389adbe8a6b",
-      "title": "Kiss All The Time. Disco, Ocassionally",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/harry-styles-kiss-all-the-time/",
-      "published": "2026-03-06T07:04:11.000Z",
-      "publishedTs": 1772780651000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Harry-Styles-Kiss-All-The-Time.-Disco-Ocassionally.jpg",
-      "excerpt": "Hay momentos en la vida de un artista en los que este comienza a replantearse seriamente qué está dejando verdaderamente... La entrada Kiss All The Time. Disco, Ocassionally se publicó primero en MondoSonoro ."
     },
     {
       "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
