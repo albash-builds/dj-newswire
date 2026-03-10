@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T11:32:49.935Z",
+  "generatedAt": "2026-03-10T13:00:36.059Z",
   "total": 110,
   "sources": [
     {
@@ -585,6 +585,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
+    },
+    {
+      "id": "ff405323aaef7abb41bbad891353c352082c7cd9",
+      "title": "Nightclub bombing in Peru leaves at least 33 injured",
+      "link": "https://mixmag.net/read/nightclub-bombing-in-peru-leaves-33-injured-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Peru.jpg?width=660&fit=cover&s=XPmGtnyRdwNlCOVgCZWe7LwrvvRmKCx9rMpS-NWU610",
+      "excerpt": "Five people are said to be in &quot;serious condition&quot; following an explosion at Dalí nightclub in Trujillo last weekend Continue reading..."
+    },
+    {
+      "id": "8f4c70b6b242cefd6831499638ece605f780b793",
+      "title": "BBC to broadcast Davie Bowie tribute concert in lieu of Glastonbury this summer",
+      "link": "https://mixmag.net/read/bbc-spectacular-david-bowie-tribute-concert-summer-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/David-Bowie_2026-03-10-103851_zrfs.jpg?width=660&fit=cover&s=lTzdaSibc8qAey313pQxNZkHKrbOy6-KK-Z7Omw-4B0",
+      "excerpt": "Marking 10 years since the Starman&#039;s death, the concert will reportedly feature some of the “world’s greatest young artists” Continue reading..."
     },
     {
       "id": "439c9934679cdd215917cacae432b44f15cd51b0",
@@ -1521,30 +1545,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tempio-closure.jpg?width=660&fit=cover&s=LJ1oXO38GQIR7cYTsvZcL2vmDkNt2Qo43l8UF-NK9O4",
       "excerpt": "The Milan venue said it was unwillingly made to close temporarily earlier this month for the opening ceremony Continue reading..."
-    },
-    {
-      "id": "0cd3c8a9fa4711b6f544365ff6cb63025f1a400a",
-      "title": "New music on our radar this week: Rosa Pistola, Sir Spyro, Sofia Kourtesis",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-rosa-pistola-sir-spyro-sofia-kourtesis-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases.png?width=660&fit=cover&s=xc15TyWh348UuWUHxuNBO_5MhBq2QuJqzl2_LNwQ2tQ",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "02b6247e517c05b8f4c89d720c10477369fa6b39",
-      "title": "Casey Wasserman to sell talent agency due to Epstein files fallout",
-      "link": "https://mixmag.net/read/casey-wasserman-sell-talent-agency-due-epstein-files-fallout-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Casey-Wasserman.png?width=660&fit=cover&s=9ZWl6wXWTD4d3JHx-06IX4fbCCneAa7F93VMtNs42Js",
-      "excerpt": "In a memo sent to staff, the Wasserman Group CEO wrote: &quot;I have become a distraction ... That is why I have begun the process of selling the company&quot; Continue reading..."
     }
   ]
 }
