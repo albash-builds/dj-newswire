@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T17:49:30.192Z",
+  "generatedAt": "2026-03-11T18:53:24.197Z",
   "total": 110,
   "sources": [
     {
@@ -583,6 +583,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
+    {
+      "id": "2a4b6eadcf4aaf05b2e4cf797f57ac5ca5b215a1",
+      "title": "The Mix 097: Faster Horses",
+      "link": "https://mixmag.net/feature/the-mix-097-faster-horses-interview-mix-exclusive-manchester-liverpool-techno-garage-house",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_FH-1.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=DfjtswovDRWYKIGstaWWLNAgjeizCauGO7X6GfX6SJk",
+      "excerpt": "It&#039;s all about &#039;pumping tunes and pure euphoria&#039; as Faster Horses gets in the saddle for the latest edition of The Mix. In the accompanying interview, the peak-time prodigy speaks to Megan Townsend about curveballs, Tiësto…"
     },
     {
       "id": "5499db43af7fbbf3992724ff7cdd14038ab9b1cd",
@@ -1531,18 +1543,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-gun.jpg?width=660&fit=cover&s=QqHFn6tP1uMTPIGvbz0nGdo6ZE49SCC21CDAbt4BsGQ",
       "excerpt": "The beloved Well Street pub - known for hosting DJs including Optimo, Daniel Avery, and Lena Willikens - shuttered last year, citing financial pressure Continue reading..."
-    },
-    {
-      "id": "6d16d43a01b8b6d116e04c065de240273b1ade0b",
-      "title": "Electronic musician to represent the UK at Eurovision Song Contest 2026",
-      "link": "https://mixmag.net/read/electronic-musician-represent-uk-eurovision-song-contest-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/look-mum-no-computer.jpg?width=660&fit=cover&s=s6wfd86Rqyq0HWefRtvbYkW7ManpiG9N1nSmJFOfQw4",
-      "excerpt": "LOOK MUM NO COMPUTER, who experiments with synths and unusual instruments, will head on stage in Vienna this May Continue reading..."
     }
   ]
 }
