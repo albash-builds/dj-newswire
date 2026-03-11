@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T10:39:25.599Z",
+  "generatedAt": "2026-03-11T11:32:46.153Z",
   "total": 110,
   "sources": [
     {
@@ -21,6 +21,20 @@
   "errors": [],
   "items": [
     {
+      "id": "888fe41039ea005681d27bdd2efa81886bf2a2d1",
+      "title": "Crítica de 'Atlanta', el nuevo trabajo de Gnarls Barkley",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gnarls-barkley-atlanta/",
+      "published": "2026-03-11T11:24:26.000Z",
+      "publishedTs": 1773228266000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Gnarls-Barkley-atlanta.jpg",
+      "excerpt": "Gnarls Barkley fue la extraña y explosiva unión entre el rapero CeeLo Green, que había estado en Googie Mob, y... La entrada Crítica de &#039;Atlanta&#039;, el nuevo trabajo de Gnarls Barkley se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "ecabba6377163c45514112adcf65ca0d9a5ec57d",
       "title": "El Niño Bola",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/mori-el-nino-bola/",
@@ -31,7 +45,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mori-El-Nino-Bola.jpg",
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mori-El-Nino-Bola-1.jpg",
       "excerpt": "En una escalada meteórica, Rusia‑idk ha reimaginado el pop a la medida de la híper estimulación del infinito scroll. Protagonistas... La entrada El Niño Bola se publicó primero en MondoSonoro ."
     },
     {
@@ -265,20 +279,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bernal-Vida-y-Milagros.jpg",
       "excerpt": "Con la modestia propia de quien no pretende exhibir músculo, pero sí mucho corazón, Bernal ponen sobre la mesa uno... La entrada Vida y Milagros se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4858ad7a7a13c0a5b82c7412af99c563d8accecf",
-      "title": "Backengrillen",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/backengrillen/",
-      "published": "2026-03-09T08:03:15.000Z",
-      "publishedTs": 1773043395000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Backengrillen-disco.jpg",
-      "excerpt": "Cuando hace unas semanas Dennis Lyxzen, cantante de Backengrillen aclaró en sus redes que este grupo no es “la nueva... La entrada Backengrillen se publicó primero en MondoSonoro ."
     },
     {
       "id": "7666a6f1e30edead4a1c6ebb8dba7a39aa37744a",
