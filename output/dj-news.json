@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T07:43:13.511Z",
+  "generatedAt": "2026-03-11T08:40:47.810Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "acffb9dcfc243757ad03e5aa27c8686fa24e4a33",
+      "title": "Swet Deth",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/crooked-fingers-swet-deth/",
+      "published": "2026-03-11T08:13:41.000Z",
+      "publishedTs": 1773216821000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Crooked-Fingers-Swet-Deth.jpg",
+      "excerpt": "Tal y como está este apestoso mundo, no nos queda otra que agarrarnos con fuerza a ese canon de álbumes... La entrada Swet Deth se publicó primero en MondoSonoro ."
+    },
     {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
       "title": "Chicago’s ARC Music Festival Reveals 2026 Lineup and Four Day Expansion",
@@ -350,20 +364,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Gorillaz-The-Mountain.jpg",
       "excerpt": "Este \"The Mountain\", el noveno disco de Gorillaz, aparece casi veinticinco años después que su debut y deja claro que... La entrada The Mountain se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c32dc0a85af39f1745981a08dff9015de7738059",
-      "title": "Make-Up Is A Lie",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/morrissey-make-up-is-a-lie-critica/",
-      "published": "2026-03-06T11:01:36.000Z",
-      "publishedTs": 1772794896000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Morrissey-Make-Up-Is-A-Lie.jpg",
-      "excerpt": "Entre cancelaciones de última hora y declaraciones cuestionables, lo cierto es que la eterna disyuntiva acerca de si debe separarse... La entrada Make-Up Is A Lie se publicó primero en MondoSonoro ."
     },
     {
       "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
