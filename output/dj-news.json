@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T09:41:49.545Z",
+  "generatedAt": "2026-03-11T10:39:25.599Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ecabba6377163c45514112adcf65ca0d9a5ec57d",
+      "title": "El Niño Bola",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mori-el-nino-bola/",
+      "published": "2026-03-11T10:33:03.000Z",
+      "publishedTs": 1773225183000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mori-El-Nino-Bola.jpg",
+      "excerpt": "En una escalada meteórica, Rusia‑idk ha reimaginado el pop a la medida de la híper estimulación del infinito scroll. Protagonistas... La entrada El Niño Bola se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c6b0ce3cfad94a04a244867605c22ccc1dceb4bf",
+      "title": "Día 3",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dante-spinetta-dia-tres/",
+      "published": "2026-03-11T10:10:50.000Z",
+      "publishedTs": 1773223850000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/dante-spinetta-dia-tres.jpg",
+      "excerpt": "Es imposible hacer antropología de la escena urbana argentina, que tanto brilla hoy en día en el mundo, sin hablar... La entrada Día 3 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "acffb9dcfc243757ad03e5aa27c8686fa24e4a33",
       "title": "Swet Deth",
@@ -336,34 +364,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
       "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
-    },
-    {
-      "id": "97ce1392ef3a21e9807dc9d1b57242be2d5931fa",
-      "title": "No more like this",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/pva-no-more-like-this/",
-      "published": "2026-03-08T09:29:21.000Z",
-      "publishedTs": 1772962161000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/PVA-No-more-like-this.jpg",
-      "excerpt": "La intimidad, fisicidad y el deseo como origen del segundo álbum de PVA. Un proyecto que habla de las energías... La entrada No more like this se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4add52fc3303c2093dcf38aa4b07f34f9d73851f",
-      "title": "The Mountain",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gorillaz-the-mountain/",
-      "published": "2026-03-07T08:04:56.000Z",
-      "publishedTs": 1772870696000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Gorillaz-The-Mountain.jpg",
-      "excerpt": "Este \"The Mountain\", el noveno disco de Gorillaz, aparece casi veinticinco años después que su debut y deja claro que... La entrada The Mountain se publicó primero en MondoSonoro ."
     },
     {
       "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
