@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T23:27:49.251Z",
+  "generatedAt": "2026-03-11T01:58:40.684Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
+      "title": "Chicago’s ARC Music Festival Reveals 2026 Lineup and Four Day Expansion",
+      "link": "https://www.decodedmagazine.com/chicagos-arc-music-festival-reveals-2026-lineup-and-four-day-expansion/",
+      "published": "2026-03-11T00:30:55.000Z",
+      "publishedTs": 1773189055000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "North America and Canada",
+        "Chicago",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/ARC2026_ArtSocialSized_IG-1.jpg?resize=768%2C1024&ssl=1",
+      "excerpt": "Chicago&#8217;s ARC Music Festival unveils its 2026 lineup and announces an expansion to four days, returning Labor Day Weekend from September 4–7. Led by Auris Presents, the city’s leading force in festivals and events, ARC has become a…"
+    },
     {
       "id": "fd85178f9e2b09815d0a77322b5232b1db739532",
       "title": "A short history of decay",
@@ -565,26 +583,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
-    },
-    {
-      "id": "d0395262bfcd7219ecaa54294103f65467697d01",
-      "title": "Five on Friday with Red Telephone",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-red-telephone/",
-      "published": "2026-02-27T13:07:38.000Z",
-      "publishedTs": 1772197658000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "House Music",
-        "London",
-        "Marie Avril",
-        "Music Industry",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/02/MarieAvril-1-scaled-e1772196512723.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes from Marie Avril, who developed her musical sensibility in the early 90s through the basement squat parties of Geneva and across Switzerland. Labels like Mental Groove, Playhouse, Kompakt and Codek …"
     },
     {
       "id": "7dc6c8df0d8cd603eab7a32654cf21adc7093541",
