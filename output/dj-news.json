@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T12:59:34.140Z",
+  "generatedAt": "2026-03-12T14:07:23.404Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c7abc2f6087140aebf54dfb9bcd8741b92364746",
+      "title": "(((((ultraSOUND)))))+",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-neighbourhood-ultrasound/",
+      "published": "2026-03-12T13:15:00.000Z",
+      "publishedTs": 1773321300000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Neighbourhood-ultrasound.jpg",
+      "excerpt": "Parece que el regreso de The Neighbourhood, oficialmente acontecido en noviembre de 2025, se merecía una segunda efeméride, esta vez... La entrada (((((ultraSOUND)))))+ se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c4be6f05be8463e73d65225d789907c2ca163f53",
       "title": "Crítica de 'Más cara', el nuevo álbum de Bad Gyal",
@@ -247,20 +261,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/the-daltonics.jpg",
       "excerpt": "Como aperitivo de su próximo elepé, la banda bilbaína adelanta cuatro temas que suenan, simple y llanamente, a Daltonics: pub... La entrada Hoy se sale se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f3b57b2e9e292a267f0791e28aa982c47531c865",
-      "title": "Lo que queda por sentir",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lo-que-queda-por-sentir/",
-      "published": "2026-03-09T11:22:03.000Z",
-      "publishedTs": 1773055323000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Periferia-Lo-que-queda-por-sentir.jpg",
-      "excerpt": "Con la resaca todavía latente de las muchas y enormes alegrías que les trajo su aclamado segundo disco, “Rincones de... La entrada Lo que queda por sentir se publicó primero en MondoSonoro ."
     },
     {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
