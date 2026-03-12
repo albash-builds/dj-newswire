@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T11:31:46.883Z",
+  "generatedAt": "2026-03-12T12:59:34.140Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c4be6f05be8463e73d65225d789907c2ca163f53",
+      "title": "Crítica de 'Más cara', el nuevo álbum de Bad Gyal",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bad-gyal-mas-cara/",
+      "published": "2026-03-12T12:50:24.000Z",
+      "publishedTs": 1773319824000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bad-Gyal-Mas-cara.jpg",
+      "excerpt": "Timothée Chalamet ha sido noticia estos días por decir que a nadie le importa la ópera. El actor, aupado en... La entrada Crítica de &#039;Más cara&#039;, el nuevo álbum de Bad Gyal se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "46041e8a94379cd25b8a2451652106687b683573",
+      "title": "Molestar General",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mama-ladilla-molestar-general/",
+      "published": "2026-03-12T12:04:42.000Z",
+      "publishedTs": 1773317082000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mama-ladilla-molestar-general.jpg",
+      "excerpt": "El tiempo pasa demasiado rápido. Hace ya más de una década que Sergio González (bajo) y Abel del Fresno (batería)... La entrada Molestar General se publicó primero en MondoSonoro ."
+    },
     {
       "id": "888fe41039ea005681d27bdd2efa81886bf2a2d1",
       "title": "Crítica de 'Atlanta', el nuevo trabajo de Gnarls Barkley",
@@ -235,20 +263,6 @@
       "excerpt": "Con la resaca todavía latente de las muchas y enormes alegrías que les trajo su aclamado segundo disco, “Rincones de... La entrada Lo que queda por sentir se publicó primero en MondoSonoro ."
     },
     {
-      "id": "273e1c7bedf426e4107c7f0240f59134df6eb754",
-      "title": "Glass Minds",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/archive-glass-minds/",
-      "published": "2026-03-09T09:19:57.000Z",
-      "publishedTs": 1773047997000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Archive-Glass-Minds.jpg",
-      "excerpt": "El no poco misterioso colectivo londinense Archive continúa en activo tres décadas después de su aparición en escena. El combo... La entrada Glass Minds se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
       "title": "Daskal debuts his full-length LP on DJ Tennis’s Life and Death label",
       "link": "https://www.decodedmagazine.com/daskal-debuts-his-full-length-lp-on-dj-tenniss-life-and-death-label/",
@@ -265,20 +279,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Daskal_07-12-25_0114-scaled-e1773046235688.jpg",
       "excerpt": "OD by Daskal Daskal releases his debut full-length LP, OD, out now on DJ Tennis&#8217;s Life and Death label. The record marks a significant step for the producer and composer, whose work spans contemporary dance, film and electronic mus…"
-    },
-    {
-      "id": "70e76c1dc5f81833cd33ea812a2dbf15ad7f64ac",
-      "title": "Vida y Milagros",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bernal-vida-y-milagros/",
-      "published": "2026-03-09T08:40:43.000Z",
-      "publishedTs": 1773045643000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bernal-Vida-y-Milagros.jpg",
-      "excerpt": "Con la modestia propia de quien no pretende exhibir músculo, pero sí mucho corazón, Bernal ponen sobre la mesa uno... La entrada Vida y Milagros se publicó primero en MondoSonoro ."
     },
     {
       "id": "7666a6f1e30edead4a1c6ebb8dba7a39aa37744a",
@@ -583,6 +583,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
+    {
+      "id": "29b56d1fdbc49825378651c8a84fc8be5a45fbc3",
+      "title": "Reverend says he supports devil-horned bench in tribute to The Prodigy’s Keith Flint",
+      "link": "https://mixmag.net/read/reverend-supports-devil-horned-bench-church-tribute-the-prodigy-keith-flint-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/keith-flint-ig.jpg?width=660&fit=cover&s=zBq8bIULxoc7ZvrPIMtG1uZPK_lCjr8jHGwLRrwAL4Q",
+      "excerpt": "Locals have praised the &quot;meaningful&quot; tribute to Flint, which was installed by his bandmates at St Mary&#039;s Church in Essex last week Continue reading..."
+    },
+    {
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Albums2_2026-03-12-122456_yzfd.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=nYD_9ZUgmu5ZADg2o5_UA9mJDDebt8y0tLVKoVcK7fQ",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
       "id": "914251cb9c2062448849623f5b62978dfe5aebed",
@@ -1449,18 +1473,6 @@
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
-      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
-      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Albums2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=0hl4oea8ewvEdXi24LxZUav0-dF9vXWpZNbhKFBRrOs",
-      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
-    },
-    {
       "id": "6e59b27b94c0550aa6dced16373d245f0adbc6ea",
       "title": "Google gives Gemini the ability to make AI-generated music",
       "link": "https://mixmag.net/read/google-gives-gemini-ability-make-ai-generated-music-news",
@@ -1531,18 +1543,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Blitz-x.png?width=660&fit=cover&s=X81Xhc8Sd8agXUdX4jzOuJPv7fqXqghypEzScDaBvig",
       "excerpt": "First launched in April 2017, BLITZ will close this summer for reasons &quot;beyond control&quot; Continue reading..."
-    },
-    {
-      "id": "1c63792bf07001d837657621aa57e32103ef70b4",
-      "title": "Former home of Hackney's The Gun acquired by fine dining group",
-      "link": "https://mixmag.net/read/hackney-pub-music-venue-the-gun-to-reopen-this-month-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-gun.jpg?width=660&fit=cover&s=QqHFn6tP1uMTPIGvbz0nGdo6ZE49SCC21CDAbt4BsGQ",
-      "excerpt": "The beloved Well Street pub - known for hosting DJs including Optimo, Daniel Avery, and Lena Willikens - shuttered last year, citing financial pressure Continue reading..."
     }
   ]
 }
