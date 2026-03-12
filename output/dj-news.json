@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T09:42:15.063Z",
+  "generatedAt": "2026-03-12T10:38:43.194Z",
   "total": 110,
   "sources": [
     {
@@ -583,6 +583,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
+    {
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Tracks2_2026-03-12-042141_dzef.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=ZEFWQwjybruGRGBDoQk-iqGo6VcY5p4o-KvOAsyMfpg",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
       "id": "2a4b6eadcf4aaf05b2e4cf797f57ac5ca5b215a1",
@@ -1531,18 +1543,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-gun.jpg?width=660&fit=cover&s=QqHFn6tP1uMTPIGvbz0nGdo6ZE49SCC21CDAbt4BsGQ",
       "excerpt": "The beloved Well Street pub - known for hosting DJs including Optimo, Daniel Avery, and Lena Willikens - shuttered last year, citing financial pressure Continue reading..."
-    },
-    {
-      "id": "6d16d43a01b8b6d116e04c065de240273b1ade0b",
-      "title": "Electronic musician to represent the UK at Eurovision Song Contest 2026",
-      "link": "https://mixmag.net/read/electronic-musician-represent-uk-eurovision-song-contest-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/look-mum-no-computer.jpg?width=660&fit=cover&s=s6wfd86Rqyq0HWefRtvbYkW7ManpiG9N1nSmJFOfQw4",
-      "excerpt": "LOOK MUM NO COMPUTER, who experiments with synths and unusual instruments, will head on stage in Vienna this May Continue reading..."
     }
   ]
 }
