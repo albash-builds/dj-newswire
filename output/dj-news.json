@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T15:59:04.167Z",
+  "generatedAt": "2026-03-12T17:05:19.486Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "0953452055f538a49a21089766e91a98975f43eb",
+      "title": "No hay futuro",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/goodbye-keppler-no-hay-futuro/",
+      "published": "2026-03-12T16:09:15.000Z",
+      "publishedTs": 1773331755000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Goodbye-Keppler.jpg",
+      "excerpt": "El trío formado por Marcos, David y Noah lanzan un más que solvente primer álbum en el que recogen el... La entrada No hay futuro se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c7abc2f6087140aebf54dfb9bcd8741b92364746",
       "title": "(((((ultraSOUND)))))+",
@@ -247,20 +261,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Low-Blows-disco.jpg",
       "excerpt": "El trío de Barcelona Low Blows regresa casi seis años después de su debut con un segundo álbum en el... La entrada Low Blows se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "51a35951f5ede68ea32f193c4251709da78db9ed",
-      "title": "Hoy se sale",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-daltonics-hoy-se-sale/",
-      "published": "2026-03-09T13:04:23.000Z",
-      "publishedTs": 1773061463000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/the-daltonics.jpg",
-      "excerpt": "Como aperitivo de su próximo elepé, la banda bilbaína adelanta cuatro temas que suenan, simple y llanamente, a Daltonics: pub... La entrada Hoy se sale se publicó primero en MondoSonoro ."
     },
     {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
@@ -583,6 +583,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
       "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
+    },
+    {
+      "id": "01bc33d2ff2435a2eccd6a5f0215bbb0f3b95f43",
+      "title": "Physical impact: Run Da Bass brings the weight of UK soundsystem culture to Osaka",
+      "link": "https://mixmag.net/feature/run-da-bass-uk-soundsystem-culture-osaka-drum-n-bass-jungle-functions-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_FUNCTIONS_WEBSTORY_2026-03-12-143848_nlom.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=k98LF7QoECKWVo0DADyAR1vLX_j7qenQLQw8r7rP42Y",
+      "excerpt": "Inspired by bonkers UK bass festival Balter, Run Da Bass gives hardcore heads in Osaka a place to “dance hard, shout loudly and feel the music physically”. We spoke to founding member kakepon about the burgeoning club night Continue read…"
     },
     {
       "id": "66bcf45c12636ec6a07c45277fa2ea22ac8bde15",
@@ -1531,18 +1543,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-club-berlin.jpg?width=660&fit=cover&s=oU8zkLbHFQPe4U1sSnk1OGAKWAvm6hRF7PVv06hy4ZY",
       "excerpt": "The 1,000-capacity venue will open in Alexanderplatz next month Continue reading..."
-    },
-    {
-      "id": "03a84b3a1c8961484c4c5e6a87cca9bddff2edfd",
-      "title": "The Mix 094: Carré",
-      "link": "https://mixmag.net/feature/the-mix-094-carre-tempa-dubstep-dj-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Carre%CC%811.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=65VEGRSduMFmnmmOsDzPfu9sX3DfCFUHAqfoKsHXy5Q",
-      "excerpt": "California-hailing, London-based DJ and producer Carré explores the spectrum of 140 BPM and speaks to Nathan Evans about LA&#039;s growing taste for minimal dubstep, throwing warehouse raves and her new release on Tempa Continue reading..."
     }
   ]
 }
