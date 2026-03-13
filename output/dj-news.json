@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T15:41:58.052Z",
+  "generatedAt": "2026-03-13T16:39:56.707Z",
   "total": 110,
   "sources": [
     {
@@ -582,6 +582,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
       "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
+    },
+    {
+      "id": "1f417e46e57e3cb9c79bf94bc3828b513fb939f3",
+      "title": "Brighton club Quarters launches free monthly events amid cost of living crisis",
+      "link": "https://mixmag.net/read/brighton-club-quarters-launches-free-monthly-events-amid-cost-of-living-crisis-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/quarters-brighton-credit-jake-davis.jpg?width=660&fit=cover&s=L5HAb9bmOwciKQB-6UDo536Hjl8fmLvYxgVQiJM7M_c",
+      "excerpt": "By waiving ticket fees, Quarters hopes to make clubbing more accessible rather than a “luxury” Continue reading..."
     },
     {
       "id": "0c380e0eb37b454876a663f427befdb184caaed9",
@@ -1530,18 +1542,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Protestors-rave.jpg?width=660&fit=cover&s=i3V7PfplFOp1SbWpUP6F8ovobGFb1gbUPmPvsA-J2nM",
       "excerpt": "The Hoxton Hotel, which opened in November, is currently seeking an injunction against late-night venue Yamamori Izakaya due to “repeated and serious noise nuisance&quot; Continue reading..."
-    },
-    {
-      "id": "80851eeccfbe01787505dc9d1d05677d684a3cfb",
-      "title": "New 20,000-capacity venue to open in Bristol in 2028, Aviva Arena",
-      "link": "https://mixmag.net/read/new-20000-capacity-venue-to-open-in-bristol-aviva-arena-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Aviva-Arena-lead.jpg?width=660&fit=cover&s=sxXgddc0R8__2dYdTySEFlfSY57ntLoHtfjcAbFbXIo",
-      "excerpt": "The arena will become one of the biggest in the country, hosting 120 &quot;major&quot; events every year Continue reading..."
     }
   ]
 }
