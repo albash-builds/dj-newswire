@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T06:54:12.111Z",
+  "generatedAt": "2026-03-13T07:44:23.254Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "bd828fd7ee5d42a6129a25c73c2171e08a80cdb1",
+      "title": "Hoy se edita 'Goldstar', el álbum debut de los estadounidenses The Sophs",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-sophs-goldstar/",
+      "published": "2026-03-13T07:06:09.000Z",
+      "publishedTs": 1773385569000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Sophs-Goldstar.jpg",
+      "excerpt": "No todos los grupos atraen la atención de un sello como Rough Trade, la casa de los inmortales The Smiths.... La entrada Hoy se edita &#039;Goldstar&#039;, el álbum debut de los estadounidenses The Sophs se publicó primero en MondoSonoro ."
+    },
     {
       "id": "0953452055f538a49a21089766e91a98975f43eb",
       "title": "No hay futuro",
@@ -247,20 +261,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/Refuge_NYC.jpeg",
       "excerpt": "Brooklyn venue Refuge NYC has revealed the first names for its Spring season, led by the launch of a new monthly residency from New York house pioneer Victor Calderone alongside appearances from a range of cultured international artists …"
-    },
-    {
-      "id": "7a8c4029cce2c15a14de3c5a570eed4db1076b87",
-      "title": "Low Blows",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/low-blows/",
-      "published": "2026-03-09T15:39:21.000Z",
-      "publishedTs": 1773070761000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Low-Blows-disco.jpg",
-      "excerpt": "El trío de Barcelona Low Blows regresa casi seis años después de su debut con un segundo álbum en el... La entrada Low Blows se publicó primero en MondoSonoro ."
     },
     {
       "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
