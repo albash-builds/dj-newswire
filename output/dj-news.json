@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T11:31:14.094Z",
+  "generatedAt": "2026-03-13T12:58:05.194Z",
   "total": 110,
   "sources": [
     {
@@ -21,6 +21,27 @@
   "errors": [],
   "items": [
     {
+      "id": "323f240c3f88b030b7512c58ecaf3a0a407b0221",
+      "title": "New 4,000-capacity festival to debut at ancient greek temple in Sicily",
+      "link": "https://www.decodedmagazine.com/new-4000-capacity-festival-to-debut-at-ancient-greek-temple-in-sicily/",
+      "published": "2026-03-13T11:42:20.000Z",
+      "publishedTs": 1773402140000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Festivals",
+        "Festival",
+        "Greek Theatre",
+        "House Music",
+        "Italy",
+        "Sicily",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-17.jpg?resize=810%2C1012&ssl=1",
+      "excerpt": "The much-anticipated debut of Aura Festival will take place on 1st &#8211; 2nd May 2026 at the historic Castellammare del Golfo in Sicily. Positioned within the striking surroundings of the Parco Archeologico di Segesta, the two-day even…"
+    },
+    {
       "id": "ffea1e1f9d385356d9e16ead92e7cc50df929457",
       "title": "Meet our February 2026 Mix of the Month Winner – Riley Bee",
       "link": "https://www.decodedmagazine.com/meet-our-february-2026-mix-of-the-month-winner-riley-bee/",
@@ -30,6 +51,7 @@
       "sourceName": "Decoded magazine",
       "categories": [
         "Featured",
+        "Interviews",
         "Mixes",
         "deep house",
         "Las Vegas",
@@ -562,29 +584,28 @@
       "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
     },
     {
-      "id": "c11b8180b9fcaac51432da7da93e4f8364e21101",
-      "title": "Five DJs to Watch at Barcelona’s MOSTRA Festival 2026",
-      "link": "https://www.decodedmagazine.com/five-djs-to-watch-at-barcelonas-mostra-festival-2026/",
-      "published": "2026-03-02T06:40:16.000Z",
-      "publishedTs": 1772433616000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Mixes",
-        "Barcelona",
-        "Berlin",
-        "Detroit",
-        "Dublin",
-        "Electronica",
-        "House Music",
-        "IDM",
-        "Mostra Festival",
-        "Spain"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/MAIKA-4-2-1-scaled.jpg",
-      "excerpt": "Barcelona&#8217;s independent avant-garde festival returns for its fifth edition this March. These are the artists worth planning your schedule around. If you have not been to Mostra before, the short version is this: it is a small festi…"
+      "id": "c1eb17ae9cd1d780955c61ba13ebed416538f9ce",
+      "title": "Live Nation directors brag about “robbing fans blind” in unearthed DMs",
+      "link": "https://mixmag.net/read/live-nation-directors-brag-about-robbing-fans-blind-unearthed-dms-messages-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/live-nation.webp?width=660&fit=cover&s=QbBctei4OavgvFi-U1xjfmm4l8A7lA2ZoUKHwmnRGSc",
+      "excerpt": "Two directors of the entertainment giant joked that their buyers are “stupid” in a 2022 Slack exchange Continue reading..."
+    },
+    {
+      "id": "dd2f2d97b60e230df75087c6dd8312944e63a4ce",
+      "title": "Mysterious new venue from Village Underground team to open in Barcelona",
+      "link": "https://mixmag.net/read/village-underground-barcelona-to-launch-with-strict-no-photos-policy-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/VU_BCN2-1.png?width=660&fit=cover&s=6T1jGSW7oaBiY_jMiL63uwS-P_bgt5Zt8GkXVFyu_Z8",
+      "excerpt": "Due to its strict no-photo policy, only attendees will be able to get a glimpse of the inside of the new venue Continue reading..."
     },
     {
       "id": "0f51cbb2e402162d685794cbb19d4febaa973005",
@@ -1521,30 +1542,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music_2026-02-19-174512_gtat.png?width=660&fit=cover&s=5kbsReHFMXL_zHqvCh_pBY3gdxlZfgqMt5HKhYnQIuU",
       "excerpt": "Findings from Mastercard&#039;s Manchester Legends youth outreach study also revealed that 55% of 14 to 21-year-olds were unsure how to pursue a career in music Continue reading..."
-    },
-    {
-      "id": "6e59b27b94c0550aa6dced16373d245f0adbc6ea",
-      "title": "Google gives Gemini the ability to make AI-generated music",
-      "link": "https://mixmag.net/read/google-gives-gemini-ability-make-ai-generated-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/google-gemini.jpg?width=660&fit=cover&s=t_LjPOWLe_4UpGdDW7yn0sO1D18TEZlDbMrUVjRvE6E",
-      "excerpt": "While streaming services like Deezer and Apple Music are working to demonetise AI-generated music, Google boasts its &quot;most advanced music generation model yet&quot; Continue reading..."
-    },
-    {
-      "id": "3f8df4843339b52a05c3ae98ed4fdd74bf6e906c",
-      "title": "Azyr in The Mixmag Lab",
-      "link": "https://mixmag.net/read/azyr-the-cause-techno-mixmag-the-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/azyr-lab.jpg?width=660&fit=cover&s=i4EjqnMVXbrE3O8kqYn-hHWKcziAf9fOzv4Rs_fEeGI",
-      "excerpt": "A special Sunday session at The Cause from Azyr and friends Continue reading..."
     }
   ]
 }
