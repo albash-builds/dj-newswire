@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T08:39:12.133Z",
+  "generatedAt": "2026-03-13T09:38:48.068Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,63 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ef377f4a36732afa9e2181b1a8820603af3860c4",
+      "title": "Quarters Brighton launches free rave series",
+      "link": "https://www.decodedmagazine.com/quarters-brighton-launches-free-rave-series/",
+      "published": "2026-03-13T09:36:13.000Z",
+      "publishedTs": 1773394573000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Brighton",
+        "Clubbing",
+        "DnB",
+        "Free parties",
+        "House Music",
+        "Quarters Brighton",
+        "Rave",
+        "Techno"
+      ],
+      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
+      "excerpt": "Quarters Brighton has announced a monthly series of free raves. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers ongoing ac…"
+    },
+    {
+      "id": "85ef1adabf368238d1af9ef9bcea05115aca5d17",
+      "title": "Five on Friday with Andy Pye",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-andy-pye/",
+      "published": "2026-03-13T09:27:45.000Z",
+      "publishedTs": 1773394065000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "Andy Pye",
+        "Electronica",
+        "Five on Friday",
+        "House Music",
+        "Red telephone",
+        "Tech House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Andy-Fye.jpeg",
+      "excerpt": "Andy Pye&#8217;s relationship with music started before most of us had even formed an opinion about it. He was seven years old when he bought his first record, and the obsession has never loosened its grip. This week he steps up as our F…"
+    },
+    {
+      "id": "e0e3ed7aeb61b374405c2153c20d15e42cbe6edd",
+      "title": "Todas las cosas que nos salieron mal",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/comic-sans-todas-las-cosas-que-nos-salieron-mal/",
+      "published": "2026-03-13T09:17:47.000Z",
+      "publishedTs": 1773393467000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Comic-Sans-Todas-las-cosas-que-nos-salieron-mal.jpg",
+      "excerpt": "Dos años después del EP de transición “Ojalá fuera mi cumpleaños” (24), los donostiarras Comic Sans vuelven al ataque con... La entrada Todas las cosas que nos salieron mal se publicó primero en MondoSonoro ."
+    },
     {
       "id": "bd828fd7ee5d42a6129a25c73c2171e08a80cdb1",
       "title": "Hoy se edita 'Goldstar', el álbum debut de los estadounidenses The Sophs",
@@ -163,20 +220,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/ARC2026_ArtSocialSized_IG-1.jpg?resize=768%2C1024&ssl=1",
       "excerpt": "Chicago&#8217;s ARC Music Festival unveils its 2026 lineup and announces an expansion to four days, returning Labor Day Weekend from September 4–7. Led by Auris Presents, the city’s leading force in festivals and events, ARC has become a…"
-    },
-    {
-      "id": "fd85178f9e2b09815d0a77322b5232b1db739532",
-      "title": "A short history of decay",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nothing-a-short-history-of-decay/",
-      "published": "2026-03-10T11:02:00.000Z",
-      "publishedTs": 1773140520000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/nothing-A-short-history-of-decay.jpg",
-      "excerpt": "Belleza y decadencia, dulzura y descomposición. La impactante y alegórica portada del nuevo disco de Nothing, \"A short history of... La entrada A short history of decay se publicó primero en MondoSonoro ."
     },
     {
       "id": "d3d005dbf63f26a6c70a203d29a0af0970adfe40",
@@ -538,51 +581,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/J-Boogie.jpg",
       "excerpt": "Wind Trades feat. Carlos Araiza by J Boogie&#39;s Dubtronic Science In OM Records’ latest offering, the breezy “Wind Trades” by the renowned J Boogie’s Dubtronics Science adopts a steady beat and bright soundscape, encapsulating the feel…"
-    },
-    {
-      "id": "b983b523fac4b65149bd0dcfcd2b9eee5ad75780",
-      "title": "The Long Game: Lemon and Lime’s Dan Burke on Consistency, Culture and the Brisbane Scene",
-      "link": "https://www.decodedmagazine.com/the-long-game-lemon-and-limes-dan-burke-on-consistency-culture-and-the-brisbane-scene/",
-      "published": "2026-03-02T04:48:39.000Z",
-      "publishedTs": 1772426919000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Brisbane",
-        "Clubbing",
-        "Dave Seaman",
-        "Franky Whah",
-        "Guy J",
-        "Hernan Cattaneo",
-        "Jody 6",
-        "John 00 Fleming",
-        "Lemon and Lime"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/302179869_3044347625809773_1220701201419534397_n.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Brisbane doesn&#8217;t always get the credit it deserves. In conversations about Australia&#8217;s electronic music landscape, the spotlight tends to drift toward Melbourne&#8217;s basements and Sydney&#8217;s harbour-side venues, leavin…"
-    },
-    {
-      "id": "a8f2ec4a30d8d0b1c200f5d988258f4b753e4a2f",
-      "title": "Review – We Spent a Night In The Dark",
-      "link": "https://www.decodedmagazine.com/review-we-spent-a-night-in-the-dark/",
-      "published": "2026-02-27T14:22:41.000Z",
-      "publishedTs": 1772202161000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Event Reviews",
-        "Art",
-        "chill out",
-        "Electronica",
-        "In The Dark",
-        "London",
-        "multi-sensory experience"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/02/St-Barts-095-credit-Ian-Olsson.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "There’s a church near Chancery Lane in central London that has stood for over a thousand years. On a winter’s evening in January, we were invited inside to witness something special.&nbsp;&nbsp; In The Dark is a unique and immersive musi…"
     },
     {
       "id": "0f51cbb2e402162d685794cbb19d4febaa973005",
