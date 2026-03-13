@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T10:36:50.451Z",
+  "generatedAt": "2026-03-13T11:31:14.094Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ffea1e1f9d385356d9e16ead92e7cc50df929457",
+      "title": "Meet our February 2026 Mix of the Month Winner – Riley Bee",
+      "link": "https://www.decodedmagazine.com/meet-our-february-2026-mix-of-the-month-winner-riley-bee/",
+      "published": "2026-03-13T11:21:10.000Z",
+      "publishedTs": 1773400870000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Mixes",
+        "deep house",
+        "Las Vegas",
+        "Mix of the Month",
+        "Progressive House",
+        "Riley Bee"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Riley-Bee-scaled.jpg",
+      "excerpt": "Decoded Magazine · Mix of the Month Winner February 2026 &#8211; Riley Bee Congratulations to Riley Bee, our Mix of the Month winner for February 2026. Riley Bee (formerly Riley Warren) is an independent electronic music artist and DJ wh…"
+    },
     {
       "id": "ef377f4a36732afa9e2181b1a8820603af3860c4",
       "title": "Quarters Brighton launches a series free clubbing nights",
@@ -60,7 +80,7 @@
         "Red telephone",
         "Tech House"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Andy-Fye.jpeg",
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/andy-pye.jpg",
       "excerpt": "Andy Pye&#8217;s relationship with music started before most of us had even formed an opinion about it. He was seven years old when he bought his first record, and the obsession has never loosened its grip. This week he steps up as our F…"
     },
     {
@@ -565,22 +585,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/MAIKA-4-2-1-scaled.jpg",
       "excerpt": "Barcelona&#8217;s independent avant-garde festival returns for its fifth edition this March. These are the artists worth planning your schedule around. If you have not been to Mostra before, the short version is this: it is a small festi…"
-    },
-    {
-      "id": "80fd5afa5c822adf02f5d26b55e0b349dd1abcc0",
-      "title": "Om Records Unveils “Wind Trades” from J Boogie’s Dubtronic Science & Carlos Araiza",
-      "link": "https://www.decodedmagazine.com/om-records-unveils-wind-trades-from-j-boogies-dubtronic-science-carlos-araiza/",
-      "published": "2026-03-02T05:58:37.000Z",
-      "publishedTs": 1772431117000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "J Boogie’s Dubtronics Science",
-        "Om Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/J-Boogie.jpg",
-      "excerpt": "Wind Trades feat. Carlos Araiza by J Boogie&#39;s Dubtronic Science In OM Records’ latest offering, the breezy “Wind Trades” by the renowned J Boogie’s Dubtronics Science adopts a steady beat and bright soundscape, encapsulating the feel…"
     },
     {
       "id": "0f51cbb2e402162d685794cbb19d4febaa973005",
