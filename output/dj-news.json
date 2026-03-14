@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T11:24:27.751Z",
+  "generatedAt": "2026-03-14T12:51:30.932Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
+      "title": "NSW Just Passed the World’s First Music Protection Law. Yes, Really.",
+      "link": "https://www.decodedmagazine.com/nsw-just-passed-the-worlds-first-music-protection-law-yes-really/",
+      "published": "2026-03-14T12:18:51.000Z",
+      "publishedTs": 1773490731000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "News",
+        "festivals",
+        "Grants",
+        "Live Venues",
+        "Music Industry",
+        "Noise Restictions",
+        "NSW Government",
+        "Promoters",
+        "Sydney"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/IVY-sydney.jpg",
+      "excerpt": "Look, I don&#8217;t often find myself applauding government press releases (have a read here ). They tend to arrive wrapped in the sort of breathless self-congratulation that makes you want to lie down in a dark room with a cold flannel …"
+    },
+    {
+      "id": "bc2dca5ff261f1828319347d1291fe5258949d62",
+      "title": "Sorry We’re Late: Decoded Finally Gives Daft Punk’s Discovery the Throwback Thursday It Deserves",
+      "link": "https://www.decodedmagazine.com/sorry-were-late-decoded-finally-gives-daft-punks-discovery-the-throwback-thursday-it-deserves/",
+      "published": "2026-03-14T11:57:40.000Z",
+      "publishedTs": 1773489460000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "2001",
+        "Classic Album",
+        "Daft Punk",
+        "Discovery",
+        "Electro",
+        "One More Time",
+        "Review"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-inside-of-daft-punks-pyramid-photographed-by-naki-v0-n94fyhr1mb271.webp?resize=810%2C539&ssl=1",
+      "excerpt": "Look, I&#8217;ll hold my hand up. How this one slipped through the Throwback Thursday net is genuinely beyond me. I think I was mowing the lawn. Whatever the excuse, on a lazy Saturday with nowhere to be, there was absolutely no way we w…"
+    },
     {
       "id": "323f240c3f88b030b7512c58ecaf3a0a407b0221",
       "title": "New 4,000-capacity festival to debut at ancient greek temple in Sicily",
@@ -534,54 +579,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/DAT-Tape-1.jpg",
       "excerpt": "Manual Music Label owner Paul Hazendonk drops in with some essential tips on how to submit your demo properly. So you&#8217;ve been working hard in the studio, haven&#8217;t seen daylight for ages and your vitamin C levels are running da…"
-    },
-    {
-      "id": "a27e93b950539ab9536de8d00c1480d0a8243c66",
-      "title": "The Collector’s App: We Road Tested Crates and Here’s the Take",
-      "link": "https://www.decodedmagazine.com/the-collectors-app-we-road-tested-crates-and-heres-the-take/",
-      "published": "2026-03-03T17:54:34.000Z",
-      "publishedTs": 1772560474000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech Reviews",
-        "AIFF",
-        "App",
-        "Apple Music",
-        "Bandcamp",
-        "Beatport",
-        "Crates",
-        "Discogs",
-        "FLAC",
-        "MP3",
-        "Playlist",
-        "Spotify"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/DSC04223-1.jpg?resize=810%2C455&ssl=1",
-      "excerpt": "Right, so if you&#8217;re anything like me, you&#8217;ve got music scattered across more platforms than you care to admit. A Discogs collection that&#8217;s been quietly growing since before most streaming services existed, FLAC files bu…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-03-03T13:10:34.000Z",
-      "publishedTs": 1772543434000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/fbb315_bd4295b64c4d4fb694d3317c1ad0f4c4mv2.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 MARCH After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
     },
     {
       "id": "f833e07ec4668c558103aef4c80e834d11e3e975",
