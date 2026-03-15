@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T16:32:21.410Z",
+  "generatedAt": "2026-03-15T17:27:32.902Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3035b9f21d08f6b80fc13a21e58fbfb44125c16b",
+      "title": "mai vista trista",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/vennus-mai-vista-trista/",
+      "published": "2026-03-15T17:21:53.000Z",
+      "publishedTs": 1773595313000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Vennus-mai-vista-trista.jpg",
+      "excerpt": "Los que no estamos acostumbrados a escuchar música en catalán, generalmente la tenemos encasillada en canciones de “fiesta mayor” o... La entrada mai vista trista se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7b711bcbd49df98e4f9d52fda9c96752027ed641",
+      "title": "TRES",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/calequi-y-las-panteras-tres/",
+      "published": "2026-03-15T17:07:52.000Z",
+      "publishedTs": 1773594472000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Calequi-y-Las-Panteras-TRES.jpg",
+      "excerpt": "Hay discos que amplían un sonido y otros que amplían una estructura. “TRES” de Calequi y Las Panteras consigue ambas... La entrada TRES se publicó primero en MondoSonoro ."
+    },
     {
       "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
       "title": "NSW Just Passed the World’s First Music Protection Law. Yes, Really.",
@@ -261,34 +289,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mori-El-Nino-Bola-1.jpg",
       "excerpt": "En una escalada meteórica, Rusia‑idk ha reimaginado el pop a la medida de la híper estimulación del infinito scroll. Protagonistas... La entrada El Niño Bola se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c6b0ce3cfad94a04a244867605c22ccc1dceb4bf",
-      "title": "Día 3",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dante-spinetta-dia-tres/",
-      "published": "2026-03-11T10:10:50.000Z",
-      "publishedTs": 1773223850000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/dante-spinetta-dia-tres.jpg",
-      "excerpt": "Es imposible hacer antropología de la escena urbana argentina, que tanto brilla hoy en día en el mundo, sin hablar... La entrada Día 3 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "acffb9dcfc243757ad03e5aa27c8686fa24e4a33",
-      "title": "Swet Deth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/crooked-fingers-swet-deth/",
-      "published": "2026-03-11T08:13:41.000Z",
-      "publishedTs": 1773216821000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Crooked-Fingers-Swet-Deth.jpg",
-      "excerpt": "Tal y como está este apestoso mundo, no nos queda otra que agarrarnos con fuerza a ese canon de álbumes... La entrada Swet Deth se publicó primero en MondoSonoro ."
     },
     {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
