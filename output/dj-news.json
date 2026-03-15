@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T17:27:32.902Z",
+  "generatedAt": "2026-03-15T18:39:12.770Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "aabcd19e22a5d3b014e7cc9acd58b4434624028d",
+      "title": "Sports",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sports-disco/",
+      "published": "2026-03-15T17:32:51.000Z",
+      "publishedTs": 1773595971000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/sports-disco.jpg",
+      "excerpt": "El quinto álbum de Sports es el disco de la independencia, de las primeras veces y del reinicio creativo fuera... La entrada Sports se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3035b9f21d08f6b80fc13a21e58fbfb44125c16b",
       "title": "mai vista trista",
@@ -275,20 +289,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Gnarls-Barkley-atlanta.jpg",
       "excerpt": "Gnarls Barkley fue la extraña y explosiva unión entre el rapero CeeLo Green, que había estado en Googie Mob, y... La entrada Atlanta se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ecabba6377163c45514112adcf65ca0d9a5ec57d",
-      "title": "El Niño Bola",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mori-el-nino-bola/",
-      "published": "2026-03-11T10:33:03.000Z",
-      "publishedTs": 1773225183000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mori-El-Nino-Bola-1.jpg",
-      "excerpt": "En una escalada meteórica, Rusia‑idk ha reimaginado el pop a la medida de la híper estimulación del infinito scroll. Protagonistas... La entrada El Niño Bola se publicó primero en MondoSonoro ."
     },
     {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
