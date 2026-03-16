@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T14:59:41.411Z",
+  "generatedAt": "2026-03-16T16:13:11.370Z",
   "total": 110,
   "sources": [
     {
@@ -569,6 +569,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
+    },
+    {
+      "id": "0c1fea70cd5ce9e38258abe33cb080754d6e4a96",
+      "title": "UK artists can now apply for £125,000 fund to aid “cost of touring crisis”",
+      "link": "https://mixmag.net/read/uk-artists-apply-125000-pound-fund-aid-cost-of-touring-crisis-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/touring-fund-credit-daniel-nouri.jpg?width=660&fit=cover&s=raQ_vaej8zl1DweuEqBJDUu9fHBZEYjoPuXh53F_j70",
+      "excerpt": "It follows a report which found that 84% of UK independent artists couldn’t afford to tour last year Continue reading..."
     },
     {
       "id": "ca9759578705f164ace089f24221ab50a555ff2e",
@@ -1517,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Daft-Punk_2026-02-23-164322_ojuy.jpg?width=660&fit=cover&s=bDi3P84SIjVq51bhbfJIA18M-AQAFqL48kP0y2d_rIU",
       "excerpt": "The new visual features footage from the Robots&#039; 2006 film Electroma, edited by creative director Cédric Hervet Continue reading..."
-    },
-    {
-      "id": "22637d88fee3978464efe55b6b6e3eef254efd97",
-      "title": "Trance duo Cosmic Gate have broken up after 27 years",
-      "link": "https://mixmag.net/read/trance-duo-cosmic-gate-have-broken-up-after-30-years-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cosmic-Gate_2026-02-23-133829_wylm.jpg?width=660&fit=cover&s=qNq-GEhhVeNLWKKSVnbQj8sh5m2Sdj3Irmx5pXY28aQ",
-      "excerpt": "Nic Chagall is set to continue as a solo act under the moniker following the departure of Stefan Bossems Continue reading..."
     }
   ]
 }
