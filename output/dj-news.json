@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T16:13:11.370Z",
+  "generatedAt": "2026-03-16T17:59:46.383Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,23 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4759f2e7b312531d1bf750ba9f3282bfb36042d5",
+      "title": "Reclaim Your City just released RYCX01 by Ruben Ganev",
+      "link": "https://www.decodedmagazine.com/reclaim-your-city-just-released-rycx01-by-ruben-ganev/",
+      "published": "2026-03-16T17:42:32.000Z",
+      "publishedTs": 1773682952000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Reclain Your City",
+        "Ruben Ganev",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2790436655_10.jpg",
+      "excerpt": "RYCX01 by Ruben Ganev Expanding the scope of their main catalogue to bottle what they consider pure techno quality with its idiosyncrasies and inherent untamedness, RYCX will serve as Reclaim Your City platform of choice to embrace the m…"
+    },
     {
       "id": "c7a712dfed360d826292c60c16a254973d630074",
       "title": "From Coffee Table to Studio: Musical Beings Launches Tembo on Kickstarter",
@@ -551,24 +568,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
       "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
-    },
-    {
-      "id": "a23ebeeab36b9da7a516929af0f09ad82a806140",
-      "title": "Five on Friday with Graham Brand",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-graham-brand/",
-      "published": "2026-03-06T07:42:36.000Z",
-      "publishedTs": 1772782956000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "acid techno",
-        "graham brand",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
     },
     {
       "id": "0c1fea70cd5ce9e38258abe33cb080754d6e4a96",
