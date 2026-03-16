@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T13:12:19.685Z",
+  "generatedAt": "2026-03-16T14:59:41.411Z",
   "total": 110,
   "sources": [
     {
@@ -569,6 +569,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/graham-brand.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
+    },
+    {
+      "id": "ca9759578705f164ace089f24221ab50a555ff2e",
+      "title": "Banksy's identity \"revealed\" in new investigation",
+      "link": "https://mixmag.net/read/banksy-identity-reportedly-revealed-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bansky.png?width=660&fit=cover&s=MS2RU7W40tIua0JS5wKNf8mABUZqPFDO6H15_i8cZ64",
+      "excerpt": "Legal representatives for Bansky have denied the claims, insisting that probes into the street artist&#039;s identity could &quot;put him in danger&quot; Continue reading..."
     },
     {
       "id": "20f647cbeac08c4a1fe4155420958705891768c5",
@@ -1517,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cosmic-Gate_2026-02-23-133829_wylm.jpg?width=660&fit=cover&s=qNq-GEhhVeNLWKKSVnbQj8sh5m2Sdj3Irmx5pXY28aQ",
       "excerpt": "Nic Chagall is set to continue as a solo act under the moniker following the departure of Stefan Bossems Continue reading..."
-    },
-    {
-      "id": "1143b0747babfaaf2279e20c13e2bf21fad02573",
-      "title": "Musicmine founder Hideoki Amano has died aged 63",
-      "link": "https://mixmag.net/read/musicmine-founder-hideoki-amano-has-died-aged-63-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hideo.jpg?width=660&fit=cover&s=FhaiCxRHhnGveX2QrSkEWcQbBEARQeglXh6HiP2ytZo",
-      "excerpt": "Since establishing the label group in 1994, Amano helped lay the groundwork for the Japanese techno scene throughout the &#039;90s and &#039;00s Continue reading..."
     }
   ]
 }
