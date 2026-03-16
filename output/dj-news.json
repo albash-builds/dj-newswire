@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T08:56:33.563Z",
+  "generatedAt": "2026-03-16T10:08:07.580Z",
   "total": 110,
   "sources": [
     {
@@ -21,6 +21,23 @@
   "errors": [],
   "items": [
     {
+      "id": "9fc2212f153694fc28e6eed8a5d12cd86d9da808",
+      "title": "Lisbon will host International Conference and Festival – Promoting Electronic Music Culture from April 29th to May 2nd",
+      "link": "https://www.decodedmagazine.com/lisbon-dance-summit-2026/",
+      "published": "2026-03-16T09:26:35.000Z",
+      "publishedTs": 1773653195000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Lisbon",
+        "Music Conference",
+        "Portugal"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
+      "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
+    },
+    {
       "id": "5a4626996c6d59346edc05b683dc324e25d51848",
       "title": "Groovesizer Mynah Is a Six-Voice Sampler You Can Actually Build Yourself",
       "link": "https://www.decodedmagazine.com/groovesizer-mynah-is-a-six-voice-sampler-you-can-actually-build-yourself/",
@@ -39,6 +56,20 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mynah_Side-scaled.webp",
       "excerpt": "Groovesizer has been quietly building a reputation in the DIY music hardware space for some time, and their latest release looks set to add another solid entry to that catalogue. The Mynah is a compact, six-voice polyphonic sampler power…"
+    },
+    {
+      "id": "316a00e7d6d43e6ecb125032b1c75ba5a0f4fb61",
+      "title": "Crítica de 'Play Me', el nuevo álbum de Kim Gordon",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kim-gordon-play-me/",
+      "published": "2026-03-15T22:50:39.000Z",
+      "publishedTs": 1773615039000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Kim-Gordon-Play-Me.jpg",
+      "excerpt": "Tras su excepcional anterior LP, había muchas ganas de ver qué dirección iba a tomar Kim Gordon en su imprevisible... La entrada Crítica de &#039;Play Me&#039;, el nuevo álbum de Kim Gordon se publicó primero en MondoSonoro ."
     },
     {
       "id": "aabcd19e22a5d3b014e7cc9acd58b4434624028d",
@@ -297,20 +328,6 @@
       "excerpt": "El tiempo pasa demasiado rápido. Hace ya más de una década que Sergio González (bajo) y Abel del Fresno (batería)... La entrada Molestar General se publicó primero en MondoSonoro ."
     },
     {
-      "id": "888fe41039ea005681d27bdd2efa81886bf2a2d1",
-      "title": "Atlanta",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gnarls-barkley-atlanta/",
-      "published": "2026-03-11T11:24:26.000Z",
-      "publishedTs": 1773228266000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Gnarls-Barkley-atlanta.jpg",
-      "excerpt": "Gnarls Barkley fue la extraña y explosiva unión entre el rapero CeeLo Green, que había estado en Googie Mob, y... La entrada Atlanta se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
       "title": "Chicago’s ARC Music Festival Reveals 2026 Lineup and Four Day Expansion",
       "link": "https://www.decodedmagazine.com/chicagos-arc-music-festival-reveals-2026-lineup-and-four-day-expansion/",
@@ -555,31 +572,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/IMG_8220.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Freight Brixton will officially open on 7 May 2026, bringing a 1,000+ capacity open-air food, drink and music destination to the heart of South London. Located moments from Brixton Station and adjacent to Brixton Village Market, Freight …"
-    },
-    {
-      "id": "ee5a46e1acbdd3e8164bef53d3a9a8b6d54e2264",
-      "title": "Thirty Years of Forum Culture: How Dance Music Found Its Voice on the Internet",
-      "link": "https://www.decodedmagazine.com/thirty-years-of-forum-culture-how-dance-music-found-its-voice-on-the-internet/",
-      "published": "2026-03-04T10:23:45.000Z",
-      "publishedTs": 1772619825000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "90s",
-        "Dial Up Modem",
-        "Discord",
-        "Dontstayin",
-        "Facebook",
-        "Forums",
-        "Internet",
-        "Inthemix",
-        "Limewire",
-        "mixes"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/limewire-1920x1131-1.jpg?resize=810%2C477&ssl=1",
-      "excerpt": "That sound, we all know it&#8230;&#8230;.anyone who grew up trying to find out about electronic music in the nineties will remember. It was not a bassline or a breakdown. It was a sequence of beeps and hisses and a long, drawn-out screec…"
     },
     {
       "id": "0eaf2986af10dc16805c51c964057e52ac9c1ced",
