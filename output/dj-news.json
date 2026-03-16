@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T10:08:07.580Z",
+  "generatedAt": "2026-03-16T11:47:23.314Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c7a712dfed360d826292c60c16a254973d630074",
+      "title": "From Coffee Table to Studio: Musical Beings Launches Tembo on Kickstarter",
+      "link": "https://www.decodedmagazine.com/from-coffee-table-to-studio-musical-beings-launches-tembo-on-kickstarter/",
+      "published": "2026-03-16T10:09:41.000Z",
+      "publishedTs": 1773655781000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech News",
+        "MIDI",
+        "music production",
+        "Musical beings",
+        "sampler",
+        "Tembo"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/e888a662111f5857f10b086f72b3565b_original.jpg",
+      "excerpt": "Musical Beings is a startup with an interesting founding premise: that music is something most people feel but struggle to express, and that the problem lies with the instruments rather than the people playing them. Their debut product, …"
+    },
     {
       "id": "9fc2212f153694fc28e6eed8a5d12cd86d9da808",
       "title": "Lisbon will host International Conference and Festival – Promoting Electronic Music Culture from April 29th to May 2nd",
@@ -551,27 +571,16 @@
       "excerpt": "This week&#8217;s Five on Friday comes from London-based DJ Graham Brand , a selector whose tastes sit firmly in the grittier corners of the dancefloor. His sets pull from acid, techno and tech-house, and anyone who has spent time with h…"
     },
     {
-      "id": "13c279c817cf6b99aee6a4cd1faee5cd504133d4",
-      "title": "Freight Island Brixton announces opening this Spring",
-      "link": "https://www.decodedmagazine.com/freight-island-brixton-announces-opening-this-spring/",
-      "published": "2026-03-04T11:05:13.000Z",
-      "publishedTs": 1772622313000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Food",
-        "Lifestyle",
-        "bars",
-        "Brixton",
-        "Cocktails",
-        "Dining",
-        "Food Festivals",
-        "Live music",
-        "London",
-        "Rooftop Bar"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/IMG_8220.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Freight Brixton will officially open on 7 May 2026, bringing a 1,000+ capacity open-air food, drink and music destination to the heart of South London. Located moments from Brixton Station and adjacent to Brixton Village Market, Freight …"
+      "id": "83f7da36d6161fc2a4b2ca379828e8c81dea2336",
+      "title": "\"Thanks DHL\": William Orbit's GRAMMYs broken in transit from London to Venice",
+      "link": "https://mixmag.net/read/william-orbit-three-grammys-broken-in-transit-from-london-to-venice-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/William-Orbit_2026-03-13-172924_gmjn.png?width=660&fit=cover&s=gAq6-KmmIt2Uvn_nKWw02ebSgMLqx9dd7iyW8bRu7Vo",
+      "excerpt": "The legendary electronic musician received three awards for his work on Madonna&#039;s iconic 1994 album &#039;Ray of Light&#039; Continue reading..."
     },
     {
       "id": "0eaf2986af10dc16805c51c964057e52ac9c1ced",
@@ -1520,18 +1529,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-f.png?width=660&fit=cover&s=EetAznC0XZRagc4rzruH7xEwNiwmgpd4xd_EgHUkCfc",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "0c846ef58691b7582effd45adfa583fe9ac5dc13",
-      "title": "Festival line-ups you might have missed: RALLY, Outwards, Piano People",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-rally-outwards-piano-people-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rally-s.jpg?width=660&fit=cover&s=R0xI5S_cUQReEUMftgDFmjLnkUgJEDCgNCjymeDPh1M",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
