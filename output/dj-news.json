@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T13:12:15.038Z",
+  "generatedAt": "2026-03-17T14:56:07.244Z",
   "total": 110,
   "sources": [
     {
@@ -568,6 +568,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
       "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
+    },
+    {
+      "id": "f78f55f82c917aa18598081f298c76b172374746",
+      "title": "Nightclub attendees urged to take antibiotics amid Kent meningitis outbreak",
+      "link": "https://mixmag.net/read/nightclub-attendees-urged-to-get-antibiotics-amid-kent-meningitis-outbreak-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Chemistry.png?width=660&fit=cover&s=RFs_M-_H9WB8ZLbJFwBdxs1DtavvocnXm3DWQMYtI-E",
+      "excerpt": "Club Chemistry owners estimate that 2,000 people visited the venue from March 5 - 7 when the outbreak is thought to have started Continue reading..."
+    },
+    {
+      "id": "891cc7388133f710a2003c83aa57e66b62113afe",
+      "title": "Bristol’s Noods Radio opens mobile music studio in converted police van",
+      "link": "https://mixmag.net/read/bristols-noods-radio-opens-mobile-music-studio-in-converted-police-van-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tread-noods-radio.jpg?width=660&fit=cover&s=tPzjSvX97xVhBuDSlTZ8UYSs3AmjGd0obmeAb3XwR3k",
+      "excerpt": "TREAD will host production workshops, DJ lessons, recording sessions and live broadcasts Continue reading..."
     },
     {
       "id": "0c1fea70cd5ce9e38258abe33cb080754d6e4a96",
@@ -1504,30 +1528,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kettama-monster-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=o5cbf2uBfwUo-86UMNmmOdSWJGpi_RoR4xCLYH093u0",
       "excerpt": "Monster Energy challenged the Irish DJ &amp; Producer to make an entire song while riding in the passenger seat of a Toyota GT86 Continue reading..."
-    },
-    {
-      "id": "c4327c3171d7b1582ce5e8c02e778d463dcb7d5e",
-      "title": "Anonymous user overloads Soulseek with thousands of Homer Simpson  \"covers\"",
-      "link": "https://mixmag.net/read/soulseek-homer-simpson-ai-tracks-thousands-troll-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Homer-AI.jpg?width=660&fit=cover&s=DeQylzWtgjxvSa7oQo_3AJBu_c9fof76cJtHEuC7XJY",
-      "excerpt": "It&#039;s estimated at least 2,000 tracks currently feature vocals from the cartoon patriarch on the file-sharing platform Continue reading..."
-    },
-    {
-      "id": "3be124978caf7f52c45c26910cc344fa7da85451",
-      "title": "Daft Punk share new music video for 'Human After All' on fifth anniversary of split",
-      "link": "https://mixmag.net/read/daft-punk-share-new-music-for-only-human-on-fifth-anniversary-of-split-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Daft-Punk_2026-02-23-164322_ojuy.jpg?width=660&fit=cover&s=bDi3P84SIjVq51bhbfJIA18M-AQAFqL48kP0y2d_rIU",
-      "excerpt": "The new visual features footage from the Robots&#039; 2006 film Electroma, edited by creative director Cédric Hervet Continue reading..."
     }
   ]
 }
