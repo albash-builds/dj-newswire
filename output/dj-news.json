@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-17T10:52:56.354Z",
+  "generatedAt": "2026-03-17T11:42:55.523Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "953abc2f54b762e4fd89397f05ced5e01bf0722a",
+      "title": "Taracá",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jorge-drexler-taraca/",
+      "published": "2026-03-17T11:30:57.000Z",
+      "publishedTs": 1773747057000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/JORGE-DREXLER-TARACA.jpg",
+      "excerpt": "Los humanos bailamos ante la vida, ya sea por deseo, por pena, para celebrar o despedirnos. Da igual la latitud... La entrada Taracá se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4759f2e7b312531d1bf750ba9f3282bfb36042d5",
       "title": "Reclaim Your City just released RYCX01 by Ruben Ganev",
@@ -349,20 +363,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bad-Gyal-Mas-cara.jpg",
       "excerpt": "Timothée Chalamet ha sido noticia estos días por decir que a nadie le importa la ópera. El actor, aupado en... La entrada Más cara se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "46041e8a94379cd25b8a2451652106687b683573",
-      "title": "Molestar General",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mama-ladilla-molestar-general/",
-      "published": "2026-03-12T12:04:42.000Z",
-      "publishedTs": 1773317082000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/mama-ladilla-molestar-general.jpg",
-      "excerpt": "El tiempo pasa demasiado rápido. Hace ya más de una década que Sergio González (bajo) y Abel del Fresno (batería)... La entrada Molestar General se publicó primero en MondoSonoro ."
     },
     {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
