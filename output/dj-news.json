@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T18:04:50.473Z",
+  "generatedAt": "2026-03-18T19:48:57.166Z",
   "total": 110,
   "sources": [
     {
@@ -570,6 +570,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Daskal_07-12-25_0114-scaled-e1773046235688.jpg",
       "excerpt": "OD by Daskal Daskal releases his debut full-length LP, OD, out now on DJ Tennis&#8217;s Life and Death label. The record marks a significant step for the producer and composer, whose work spans contemporary dance, film and electronic mus…"
+    },
+    {
+      "id": "5d52815b4ca1be39060899c5578df29954b186b0",
+      "title": "The Mix 098: Slim Soledad",
+      "link": "https://mixmag.net/feature/the-mix-098-slim-soledad-baile-funk-techno-brazil-debut-album",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SS.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=GKaLPQ1fqnpoEekb70cypknW7S8SiXtWAER1ulWK6eo",
+      "excerpt": "From frequenting baile funks in São Paulo to running her own trans-led parties over in Europe, Slim Soledad comes up at a defining moment for Brazilian dance music overseas. She submits a speedy mix and talks about her forthcoming debut …"
     },
     {
       "id": "729db115d34ff5662d7337d2ff111bc1d827f63f",
@@ -1518,18 +1530,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Kyle-Starkey2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=CB9Z4MDtc4wLtP3UzJHPLGAuYuX1BIupynSA1HbPL30",
       "excerpt": "Hard house diehard Kyle Starkey serves up an era-spanning selection, including some unreleased exclusives, and speaks about the state of Liverpool’s club scene and why it’s important for young producers to keep things moving rather than …"
-    },
-    {
-      "id": "b9ae96a6cec6c70ea60efe01a6818622f2dcfb95",
-      "title": "MOBO Awards 2026 to celebrate 25 years of grime with shows from Wiley, Chip & more",
-      "link": "https://mixmag.net/read/mobo-awards-2026-celebrate-25-years-grime-shows-from-wiley-chip-d-double-e-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/98453741_wiley.jpg?width=660&fit=cover&s=2rXbZ58KFDizJKLnRFKTH-pIZ6EKzNcNeljXcsLd-es",
-      "excerpt": "The ceremony will take place on March 26 at Manchester’s Co-op Live Arena Continue reading..."
     }
   ]
 }
