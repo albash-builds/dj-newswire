@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T04:56:19.551Z",
+  "generatedAt": "2026-03-18T06:03:47.307Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,54 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
+      "title": "The UK Draws a Line: What the House of Lords AI and Copyright Report Means for Creators",
+      "link": "https://www.decodedmagazine.com/the-uk-draws-a-line-what-the-house-of-lords-ai-and-copyright-report-means-for-creators/",
+      "published": "2026-03-18T05:24:13.000Z",
+      "publishedTs": 1773811453000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "AI",
+        "artists",
+        "Copyright",
+        "Creative industries",
+        "House of Lords",
+        "Music Industry",
+        "Musicians",
+        "Photographers",
+        "publishers",
+        "UK"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/westminster-parliament-river-1504x846px.jpg",
+      "excerpt": "Governments around the world are quietly wrestling with one of the most consequential policy questions of the decade: how do you protect the rights of the people who make things, while simultaneously not strangling the development of AI …"
+    },
+    {
+      "id": "42796322c7c0f32cb7ad162b0d69ac6682bf0530",
+      "title": "DJ Bone Announces B2B Tour With Emerging Talent, Zack Fox",
+      "link": "https://www.decodedmagazine.com/dj-bone-announces-b2b-tour-with-emerging-talent-zack-fox/",
+      "published": "2026-03-18T05:11:49.000Z",
+      "publishedTs": 1773810709000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Featured",
+        "Amsterdam",
+        "Antwerp",
+        "Detroit",
+        "DJ Bone",
+        "Haarlem",
+        "House Music",
+        "Manchester",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/djbone-scaled.webp",
+      "excerpt": "Detroit techno pioneer DJ Bone is joining forces with DJ, multidisciplinary artist, comedian and UWAY promoter Zack Fox for a tour that kicks off at DJ Bone Presents: FURTHER x Homeless Homies x Paxahau initiative at Movement 2026 in May…"
+    },
     {
       "id": "6af4819262023b79a1bae6daea66b40036a435a2",
       "title": "All Day I Dream Announces 10th Annual Summer Tour Stop At Golden Gate Park in San Francisco",
@@ -522,44 +570,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Daskal_07-12-25_0114-scaled-e1773046235688.jpg",
       "excerpt": "OD by Daskal Daskal releases his debut full-length LP, OD, out now on DJ Tennis&#8217;s Life and Death label. The record marks a significant step for the producer and composer, whose work spans contemporary dance, film and electronic mus…"
-    },
-    {
-      "id": "7666a6f1e30edead4a1c6ebb8dba7a39aa37744a",
-      "title": "Semantica Records just released Articulated Lair. SEMANTICA 196 by Various Artists",
-      "link": "https://www.decodedmagazine.com/semantica-records-just-released-articulated-lair-semantica-196-by-various-artists/",
-      "published": "2026-03-09T07:31:45.000Z",
-      "publishedTs": 1773041505000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Bandcamp",
-        "Dark Techno",
-        "Madrid",
-        "Semantica Records",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2998996231_10.jpg",
-      "excerpt": "Articulated Lair. SEMANTICA 196 by Various Madrid&#8217;s Semantica Records has long operated at the darker end of the underground spectrum, and their 196th catalogue entry makes no concessions to accessibility. Articulated Lair is a ten…"
-    },
-    {
-      "id": "d363c23b2552e8d1054c1e18943ff065346f439c",
-      "title": "Joachim Spieth just released Vestige",
-      "link": "https://www.decodedmagazine.com/joachim-spieth-just-released-vestige/",
-      "published": "2026-03-09T07:23:21.000Z",
-      "publishedTs": 1773041001000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "dub techno",
-        "Electronica",
-        "Joachim Spieth",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a1858503234_10.jpg",
-      "excerpt": "Vestige by Joachim Spieth Vestige continues Joachim Spieth’s refined exploration of spatial sound and textural depth. Building on the sonic language developed throughout his recent works – including Retrace – the album expands the dialog…"
     },
     {
       "id": "216e98ea12830dae5abe804992a00a9dffedabc8",
