@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T02:09:28.114Z",
+  "generatedAt": "2026-03-18T04:56:19.551Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,45 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6af4819262023b79a1bae6daea66b40036a435a2",
+      "title": "All Day I Dream Announces 10th Annual Summer Tour Stop At Golden Gate Park in San Francisco",
+      "link": "https://www.decodedmagazine.com/all-day-i-dream-announces-10th-annual-summer-tour-stop-at-golden-gate-park-in-san-francisco/",
+      "published": "2026-03-18T03:48:17.000Z",
+      "publishedTs": 1773805697000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "deep house",
+        "Lee Burridge",
+        "Progressive House",
+        "San Francisco"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
+      "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
+    },
+    {
+      "id": "46c934a70ec25580296f8b9d83013297b44a3de1",
+      "title": "Melbourne’s The North Rave – Belfast Returns for Its 22nd Edition",
+      "link": "https://www.decodedmagazine.com/melbournes-the-north-rave-belfast-returns-for-its-22nd-edition/",
+      "published": "2026-03-18T03:18:45.000Z",
+      "publishedTs": 1773803925000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Events",
+        "CJ Bolland",
+        "Hardware",
+        "Melbourne",
+        "New Guernica",
+        "Techno",
+        "Thomas Schumacher"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-north-rave-belfast-22.png?resize=810%2C810&ssl=1",
+      "excerpt": "Belfast is back, and the city is ready to rave! Following their explosive appearances at Reminisce, The North Rave, Belfast returns for its 22nd edition, promising a night of pure techno! Headlining the mainroom is Richie Rich, spinning …"
+    },
     {
       "id": "953abc2f54b762e4fd89397f05ced5e01bf0722a",
       "title": "Taracá",
@@ -521,53 +560,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a1858503234_10.jpg",
       "excerpt": "Vestige by Joachim Spieth Vestige continues Joachim Spieth’s refined exploration of spatial sound and textural depth. Building on the sonic language developed throughout his recent works – including Retrace – the album expands the dialog…"
-    },
-    {
-      "id": "10f472a8bc42b966fdd26dfd472bada3b5eba6da",
-      "title": "Goldie’s Rufige Kru Documentary Arrives",
-      "link": "https://www.decodedmagazine.com/goldies-rufige-kru-documentary-arrives/",
-      "published": "2026-03-09T07:15:59.000Z",
-      "publishedTs": 1773040559000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Army of Few",
-        "Drum and Bass",
-        "Goldie",
-        "London Records",
-        "Marc Mac",
-        "Photek",
-        "Rufige Kru",
-        "Submotive"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-16-scaled-e1773040388255.jpg",
-      "excerpt": "A new feature-length documentary exploring the history of Goldie&#8217;s Rufige Kru project has been released on YouTube. Titled The Rufige Files, it was produced and directed by Goldie alongside Army Of Few and London Records, and becam…"
-    },
-    {
-      "id": "327d70745e255f09f60b62f2f40e4e38577b7d0c",
-      "title": "The Great British Festival: Five Days of Music, Decades in Landfill",
-      "link": "https://www.decodedmagazine.com/the-great-british-festival-five-days-of-music-decades-in-landfill/",
-      "published": "2026-03-09T07:06:12.000Z",
-      "publishedTs": 1773039972000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Festivals",
-        "Charity",
-        "Environment",
-        "Farmland",
-        "festivals",
-        "Glastonbury",
-        "Landfill",
-        "Leave no Trace",
-        "Music Industry",
-        "Plastics"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/35940.webp?resize=810%2C456&ssl=1",
-      "excerpt": "UK festivals produce somewhere between 23,500 and 25,800 tonnes of waste every year. That is not a vague environmental concern you can file away with good intentions. It is a concrete, measurable consequence of the way a significant prop…"
     },
     {
       "id": "216e98ea12830dae5abe804992a00a9dffedabc8",
