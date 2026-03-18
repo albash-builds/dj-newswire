@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T09:55:57.617Z",
+  "generatedAt": "2026-03-18T10:54:05.219Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f901215dd07868d4b6f1ca2c38b0e9dd7889ccbb",
+      "title": "Vidas Modelos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/go-cactus-vidas-modelos/",
+      "published": "2026-03-18T10:12:53.000Z",
+      "publishedTs": 1773828773000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/go-cactus-vidas-modelo.jpg",
+      "excerpt": "El trío mallorquín Go Cactus vuelve en 2026 con \"Vidas Modelos\", un disco que mantiene su nervio de rock alternativo... La entrada Vidas Modelos se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
       "title": "The UK Draws a Line: What the House of Lords AI and Copyright Report Means for Creators",
@@ -436,20 +450,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Neighbourhood-ultrasound.jpg",
       "excerpt": "Parece que el regreso de The Neighbourhood, oficialmente acontecido en noviembre de 2025, se merecía una segunda efeméride, esta vez... La entrada (((((ultraSOUND)))))+ se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c4be6f05be8463e73d65225d789907c2ca163f53",
-      "title": "Más cara",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bad-gyal-mas-cara/",
-      "published": "2026-03-12T12:50:24.000Z",
-      "publishedTs": 1773319824000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Bad-Gyal-Mas-cara.jpg",
-      "excerpt": "Timothée Chalamet ha sido noticia estos días por decir que a nadie le importa la ópera. El actor, aupado en... La entrada Más cara se publicó primero en MondoSonoro ."
     },
     {
       "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
