@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T13:04:35.335Z",
+  "generatedAt": "2026-03-19T14:47:16.399Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "db6311dcca293b46db3a93d8ce7c732a2eb36999",
+      "title": "Junction 2 Completes 10th Anniversary Lineup For J2 X",
+      "link": "https://www.decodedmagazine.com/junction-2-completes-10th-anniversary-lineup-for-j2-x/",
+      "published": "2026-03-19T13:12:04.000Z",
+      "publishedTs": 1773925924000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "Anna Wall",
+        "Boston Manor",
+        "DJ Hell",
+        "Drumcode",
+        "Franky Wah",
+        "Hard Techno",
+        "House Music",
+        "I hate models",
+        "Jeff Mills",
+        "Junction 2"
+      ],
+      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.1.1&permmsgid=msg-f:1860094598579577376&th=19d0622ea4f56220&view=fimg&fur=ip&permmsgid=msg-f:1860094598579577376&sz=s0-l75-ft&attbid=ANGjdJ9b_yBq5deHSlSW86FQJviwJgdBr9Z1rwNu4fQm8P5nx4e_exuuKRKWaCEe-Zg240sd-nBXMBRwHnVDg1gX19BGDVEdGSBjoi_HqgJxuMloSyZSqPU6Yges-n4&disp=emb&zw",
+      "excerpt": "Junction 2 has unveiled the final lineup for its 10th anniversary edition. J2 X returns to Boston Manor Park across two weekends this summer &#8211; 25-26th July and 2nd August. The full lineup lands alongside a more refined, two-stage f…"
+    },
     {
       "id": "af618491aba121b66b48438a19649d3b2c8c93af",
       "title": "Is this the coolest club scene mash up ever produced? Check it out",
@@ -564,27 +589,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/71rDcpTtSBL._AC_SL1200_.jpg?resize=810%2C586&ssl=1",
       "excerpt": "There are bad ideas, there are genuinely terrible ideas, and then there are ideas so magnificently misguided that they transcend criticism entirely and arrive somewhere close to performance art. The DJ Mouse, launched by DJ-Tech in Augus…"
-    },
-    {
-      "id": "45756a9277b106b690b7598664618687a7a1be27",
-      "title": "Nichols+Roark unveil ‘Full Circle EP’ debut on Renaissance",
-      "link": "https://www.decodedmagazine.com/nicholsroark-unveil-full-circle-ep-debut-on-renaissance/",
-      "published": "2026-03-09T22:56:46.000Z",
-      "publishedTs": 1773097006000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Anthony Pappa",
-        "Marcus James",
-        "Nichols + Roark",
-        "Nottingham",
-        "Progressive House",
-        "Renaissance",
-        "Ron Flatter"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/NicholsRoark_2-scaled.jpg",
-      "excerpt": "UK electronic duo Nichols+Roark mark a defining milestone with their ‘Full Circle EP,’ the debut release on the legendary Renaissance label. The four-track EP serves as both a creative statement and a deeply personal milestone for the ar…"
     },
     {
       "id": "faf13407330a53d49b5d01c1e5d9f9d6f4b36822",
