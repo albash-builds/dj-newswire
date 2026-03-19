@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T09:42:31.946Z",
+  "generatedAt": "2026-03-19T10:40:13.192Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "af618491aba121b66b48438a19649d3b2c8c93af",
+      "title": "Is this the coolest club scene mash up ever produced? Check it out",
+      "link": "https://www.decodedmagazine.com/is-this-the-coolest-club-scene-mash-up-ever-produced/",
+      "published": "2026-03-19T10:00:40.000Z",
+      "publishedTs": 1773914440000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Al Pacino",
+        "Bee Gees",
+        "Clubbing",
+        "Darth Vader",
+        "Funny",
+        "John Travolta",
+        "lifestyle",
+        "Mash Up",
+        "Michael Jackson",
+        "Movies",
+        "Nightlcubs"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2015/09/Saturday-Night-Fever-DI-1.jpg",
+      "excerpt": "We have all seen movie mash ups, dubbing and montages, but this would have to be one of the greatest we have ever seen. Film editor ANTONIO MARIA DA SILVA has taken every major club scene from the last 30 years to create a star studded s…"
+    },
     {
       "id": "195651f5a4ed9082d56f2ee2818277a7b64a4efc",
       "title": "Throwback Thursday: The Cassette Tapes That Became a Culture — Mark Farina’s Mushroom Jazz",
@@ -560,25 +585,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/NicholsRoark_2-scaled.jpg",
       "excerpt": "UK electronic duo Nichols+Roark mark a defining milestone with their ‘Full Circle EP,’ the debut release on the legendary Renaissance label. The four-track EP serves as both a creative statement and a deeply personal milestone for the ar…"
-    },
-    {
-      "id": "ab796fd121748f740d166cc69b50f493926dadce",
-      "title": "Jean-Michel Jarre Announced as Guest of Honour at Amsterdam Dance Event",
-      "link": "https://www.decodedmagazine.com/jean-michel-jarre-announced-as-guest-of-honour-at-amsterdam-dance-event/",
-      "published": "2026-03-09T22:49:41.000Z",
-      "publishedTs": 1773096581000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "ADE",
-        "Music Industry",
-        "Amsterdam Dance Event",
-        "Jean-Michel Jarre",
-        "Music Conference",
-        "Netherlands"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/4-JM-Jarre-concert-Seville-%C2%A9EDDA-2025-scaled.png",
-      "excerpt": "Amsterdam Dance Event (ADE) kicks off its landmark 30 YEARS anniversary edition. To commemorate three decades, ADE has invited electronic music pioneer Jean-Michel Jarre as special guest of honour in this defining year, for a standout Op…"
     },
     {
       "id": "5d52815b4ca1be39060899c5578df29954b186b0",
