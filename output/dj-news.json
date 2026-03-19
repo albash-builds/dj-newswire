@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T07:07:46.509Z",
+  "generatedAt": "2026-03-19T08:42:07.975Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "195651f5a4ed9082d56f2ee2818277a7b64a4efc",
+      "title": "Throwback Thursday: The Cassette Tapes That Became a Culture — Mark Farina’s Mushroom Jazz",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-the-cassette-tapes-that-became-a-culture-mark-farinas-mushroom-jazz/",
+      "published": "2026-03-19T08:20:01.000Z",
+      "publishedTs": 1773908401000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "chill out",
+        "downtempo",
+        "Electronica",
+        "House Music",
+        "Jazz",
+        "Mark Farina",
+        "Mixtapes",
+        "Mushroom Jazz",
+        "Om Records",
+        "San Fransisco"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mark-farina-scaled-e1773907982538.jpg",
+      "excerpt": "There are mixes that do not simply play in the background. They shift something in the way you hear everything else. The Mushroom Jazz series by Mark Farina is that kind of work. Eight official commercial volumes, released between 1996 a…"
+    },
     {
       "id": "005f15ddd9dc88903bea27b57ff94d012356099a",
       "title": "The Japanese Bar Format That Found a Second Home in Australia",
@@ -554,29 +579,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/4-JM-Jarre-concert-Seville-%C2%A9EDDA-2025-scaled.png",
       "excerpt": "Amsterdam Dance Event (ADE) kicks off its landmark 30 YEARS anniversary edition. To commemorate three decades, ADE has invited electronic music pioneer Jean-Michel Jarre as special guest of honour in this defining year, for a standout Op…"
-    },
-    {
-      "id": "7735fad1f6101ac08f8391b3d18c85235983fe68",
-      "title": "REFUGE NYC announces first names for Spring",
-      "link": "https://www.decodedmagazine.com/refuge-nyc-announces-first-names-for-spring/",
-      "published": "2026-03-09T21:35:12.000Z",
-      "publishedTs": 1773092112000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Desyn",
-        "House Music",
-        "Mason Collective",
-        "Progressive House",
-        "Ricardo Villalobos",
-        "Serge Devant",
-        "Shinedoe",
-        "Techno",
-        "Victor Calderone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/Refuge_NYC.jpeg",
-      "excerpt": "Brooklyn venue Refuge NYC has revealed the first names for its Spring season, led by the launch of a new monthly residency from New York house pioneer Victor Calderone alongside appearances from a range of cultured international artists …"
     },
     {
       "id": "5d52815b4ca1be39060899c5578df29954b186b0",
