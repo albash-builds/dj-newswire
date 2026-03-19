@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T04:54:06.085Z",
+  "generatedAt": "2026-03-19T05:58:31.278Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "005f15ddd9dc88903bea27b57ff94d012356099a",
+      "title": "The Japanese Bar Format That Found a Second Home in Australia",
+      "link": "https://www.decodedmagazine.com/the-japanese-bar-format-that-found-a-second-home-in-australia/",
+      "published": "2026-03-19T05:31:51.000Z",
+      "publishedTs": 1773898311000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Food",
+        "Lifestyle",
+        "Adelaide",
+        "bars",
+        "Brisbane",
+        "Dining",
+        "Electronica",
+        "House Music",
+        "Japan",
+        "lifestyle"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
+      "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
+    },
     {
       "id": "f901215dd07868d4b6f1ca2c38b0e9dd7889ccbb",
       "title": "Vidas Modelos",
@@ -552,24 +577,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/Refuge_NYC.jpeg",
       "excerpt": "Brooklyn venue Refuge NYC has revealed the first names for its Spring season, led by the launch of a new monthly residency from New York house pioneer Victor Calderone alongside appearances from a range of cultured international artists …"
-    },
-    {
-      "id": "dba7613a5417bf83f55df4b0107f5c9fa9c2467c",
-      "title": "Daskal debuts his full-length LP on DJ Tennis’s Life and Death label",
-      "link": "https://www.decodedmagazine.com/daskal-debuts-his-full-length-lp-on-dj-tenniss-life-and-death-label/",
-      "published": "2026-03-09T08:52:50.000Z",
-      "publishedTs": 1773046370000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Daskal",
-        "DJ Tennis",
-        "Electronica",
-        "Life and Death Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Daskal_07-12-25_0114-scaled-e1773046235688.jpg",
-      "excerpt": "OD by Daskal Daskal releases his debut full-length LP, OD, out now on DJ Tennis&#8217;s Life and Death label. The record marks a significant step for the producer and composer, whose work spans contemporary dance, film and electronic mus…"
     },
     {
       "id": "5d52815b4ca1be39060899c5578df29954b186b0",
