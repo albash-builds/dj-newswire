@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T11:31:30.058Z",
+  "generatedAt": "2026-03-20T12:59:15.482Z",
   "total": 110,
   "sources": [
     {
@@ -592,6 +592,18 @@
       ],
       "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
       "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
+    },
+    {
+      "id": "4010a11fbf4d7a1ab3982f19385b376555dc7b48",
+      "title": "Native Instruments issues statement as it enters full insolvency",
+      "link": "https://mixmag.net/read/native-instruments-issues-statement-as-it-enters-full-insolvency-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments_2026-01-27-174317_xtlk.jpg?width=660&fit=cover&s=EZJa3orOvNSize0ug-xOfDc9MbngLse3YjLmGrInDtI",
+      "excerpt": "The music tech company said its products and services will remain available Continue reading..."
     },
     {
       "id": "456bd630c2e96237ab88148fd07c69e17448fc20",
@@ -1540,18 +1552,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter.jpg?width=660&fit=cover&s=yZjFdWjsDNy3_QWyr4G-3XvDbnoMeW1zV1LEvNVGSog",
       "excerpt": "The final stop of the USB002 tour will mark the former Robot&#039;s first UK performance since Wireless Festival 2007 Continue reading..."
-    },
-    {
-      "id": "a4d5a1d8b1864bb555c235c9e80360d0ea94077b",
-      "title": "Founding Wu-Tang Clan member Oliver ‘Power’ Grant has died aged 52",
-      "link": "https://mixmag.net/read/founding-wu-tang-clan-member-oliver-power-grant-has-died-aged-52-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ol.jpg?width=660&fit=cover&s=95xIajhQkGlSW0OoAVU4S4GnNH-jHyvccrfe3fSogjE",
-      "excerpt": "Tributes are flooding in from fellow Wu-Tang members, including GZA, Raekwon and Method Man Continue reading..."
     }
   ]
 }
