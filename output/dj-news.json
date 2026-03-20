@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T09:41:07.380Z",
+  "generatedAt": "2026-03-20T10:37:56.920Z",
   "total": 110,
   "sources": [
     {
@@ -592,6 +592,18 @@
       ],
       "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
       "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
+    },
+    {
+      "id": "456bd630c2e96237ab88148fd07c69e17448fc20",
+      "title": "How Portrait XO and Rick Feds use finger drumming in their electronic music production",
+      "link": "https://mixmag.net/feature/watch-portrait-xo-and-rick-feds-explain-technique-and-creativity",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PORTRAIT-XO-COVER_Electronic-Waste.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=flomtQNbvoVMurkx5sGhd8o3h9T7iXQ9R5pgc62vqDg",
+      "excerpt": "Two artists and two takes on technique and creativity are explored in new video and audio features Continue reading..."
     },
     {
       "id": "aa86b9fccc5697aa6a1922de4c14451669e4190f",
@@ -1540,18 +1552,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ol.jpg?width=660&fit=cover&s=95xIajhQkGlSW0OoAVU4S4GnNH-jHyvccrfe3fSogjE",
       "excerpt": "Tributes are flooding in from fellow Wu-Tang members, including GZA, Raekwon and Method Man Continue reading..."
-    },
-    {
-      "id": "189ea1fbcdc591677408312aed61a8b54567737f",
-      "title": "Sheffield's The Leadmill launches crowdfunder to establish new venue",
-      "link": "https://mixmag.net/read/sheffields-the-leadmill-launches-crowdfunder-to-establish-new-venue-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-leadmill-credit-tim-dennell.jpg?width=660&fit=cover&s=RXUD0iBNEDYInNhng2djV6YE9rKsHZSsIZKryuIaz5Y",
-      "excerpt": "The historic music venue closed in 2025 after being served an eviction notice by its landlord, Electric Group Continue reading..."
     }
   ]
 }
