@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T04:46:43.960Z",
+  "generatedAt": "2026-03-20T05:51:59.389Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6b379853d8e776bbb0447a47617c4c2e0116c2a4",
+      "title": "Five on Friday with 33rd December",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-33rd-december/",
+      "published": "2026-03-20T05:13:13.000Z",
+      "publishedTs": 1773983593000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "33rd December",
+        "acid",
+        "Electro",
+        "House",
+        "Laurent Ganier"
+      ],
+      "image": "https://media.hardwax.com/audio/87470_B1.mp3",
+      "excerpt": "This week&#8217;s Five on Friday comes courtesy of 33rd December, the South London duo of Matt and Miles who between them represent a serious slice of the city&#8217;s underground. Matt co-owns and runs HENGE in Brixton, holding down a r…"
+    },
     {
       "id": "d07a9192e34d9fef675025ae2ea4c0d0ad3303b2",
       "title": "Native Instruments Update: A Buyout, Not a Collapse",
@@ -573,24 +592,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Goodbye-Keppler.jpg",
       "excerpt": "El trío formado por Marcos, David y Noah lanzan un más que solvente primer álbum en el que recogen el... La entrada No hay futuro se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "48d88628a285a7f97222cea975ff39bee215b7f3",
-      "title": "Chicago’s ARC Music Festival Reveals 2026 Lineup and Four Day Expansion",
-      "link": "https://www.decodedmagazine.com/chicagos-arc-music-festival-reveals-2026-lineup-and-four-day-expansion/",
-      "published": "2026-03-11T00:30:55.000Z",
-      "publishedTs": 1773189055000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "North America and Canada",
-        "Chicago",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/ARC2026_ArtSocialSized_IG-1.jpg?resize=768%2C1024&ssl=1",
-      "excerpt": "Chicago&#8217;s ARC Music Festival unveils its 2026 lineup and announces an expansion to four days, returning Labor Day Weekend from September 4–7. Led by Auris Presents, the city’s leading force in festivals and events, ARC has become a…"
     },
     {
       "id": "aa86b9fccc5697aa6a1922de4c14451669e4190f",
