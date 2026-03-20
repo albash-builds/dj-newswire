@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T05:51:59.389Z",
+  "generatedAt": "2026-03-20T06:55:28.057Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
+      "title": "Guy Gerber added to Gallery Club’s 1st Birthday series with Sven Väth and Laolu",
+      "link": "https://www.decodedmagazine.com/guy-gerber-added-to-gallery-clubs-1st-birthday-series-with-sven-vath-and-laolu/",
+      "published": "2026-03-20T06:01:13.000Z",
+      "publishedTs": 1773986473000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Guy gerber",
+        "House Music",
+        "Laolu",
+        "Progressive House",
+        "Sven Vath",
+        "Techno",
+        "West London"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/37-HighRes.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "The already essential West London venue Gallery Club London has added melodic and progressive favourite Guy Gerber to a standout series of special first birthday events alongside techno legend Sven Väth and classy house operator Laolu. M…"
+    },
     {
       "id": "6b379853d8e776bbb0447a47617c4c2e0116c2a4",
       "title": "Five on Friday with 33rd December",
@@ -529,27 +550,6 @@
       ],
       "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
       "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
-    },
-    {
-      "id": "85ef1adabf368238d1af9ef9bcea05115aca5d17",
-      "title": "Five on Friday with Andy Pye",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-andy-pye/",
-      "published": "2026-03-13T09:27:45.000Z",
-      "publishedTs": 1773394065000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Andy Pye",
-        "Electronica",
-        "Five on Friday",
-        "House Music",
-        "Red telephone",
-        "Tech House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/andy-pye.jpg",
-      "excerpt": "Andy Pye&#8217;s relationship with music started before most of us had even formed an opinion about it. He was seven years old when he bought his first record, and the obsession has never loosened its grip. This week he steps up as our F…"
     },
     {
       "id": "e0e3ed7aeb61b374405c2153c20d15e42cbe6edd",
