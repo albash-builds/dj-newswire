@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T07:46:10.841Z",
+  "generatedAt": "2026-03-20T08:40:14.985Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "811556c6d3b700517d9d3b4ed96286ed7c24d4bd",
+      "title": "Paradises",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ladytron-paradises/",
+      "published": "2026-03-20T08:29:52.000Z",
+      "publishedTs": 1773995392000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Ladytron-Paradises.jpg",
+      "excerpt": "Poco más de tres años después de “Time's Arrow” (Cooking Vinyl, 23), Ladytron regresan a escena con “Paradise”, el que... La entrada Paradises se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6f76dc0cf84f2f998b1dc13d574d041ebc06090e",
+      "title": "Reseñamos \"Hacemos lo que podemos\", el nuevo álbum de Mala Gestión",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mala-gestion-hacemos-lo-que-podemos-disco/",
+      "published": "2026-03-20T08:01:08.000Z",
+      "publishedTs": 1773993668000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mala-gestion-Hacemos-lo-que-podemos.jpg",
+      "excerpt": "Este tercer LP de Mala Gestión es justo lo que se esperaba de ellos, algo que no resulta decepcionante, pues... La entrada Reseñamos &quot;Hacemos lo que podemos&quot;, el nuevo álbum de Mala Gestión se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
       "title": "Guy Gerber added to Gallery Club’s 1st Birthday series with Sven Väth and Laolu",
@@ -564,34 +592,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Comic-Sans-Todas-las-cosas-que-nos-salieron-mal.jpg",
       "excerpt": "Dos años después del EP de transición “Ojalá fuera mi cumpleaños” (24), los donostiarras Comic Sans vuelven al ataque con... La entrada Todas las cosas que nos salieron mal se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bd828fd7ee5d42a6129a25c73c2171e08a80cdb1",
-      "title": "Goldstar",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-sophs-goldstar/",
-      "published": "2026-03-13T07:06:09.000Z",
-      "publishedTs": 1773385569000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Sophs-Goldstar.jpg",
-      "excerpt": "No todos los grupos atraen la atención de un sello como Rough Trade, la casa de los inmortales The Smiths.... La entrada Goldstar se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0953452055f538a49a21089766e91a98975f43eb",
-      "title": "No hay futuro",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/goodbye-keppler-no-hay-futuro/",
-      "published": "2026-03-12T16:09:15.000Z",
-      "publishedTs": 1773331755000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Goodbye-Keppler.jpg",
-      "excerpt": "El trío formado por Marcos, David y Noah lanzan un más que solvente primer álbum en el que recogen el... La entrada No hay futuro se publicó primero en MondoSonoro ."
     },
     {
       "id": "aa86b9fccc5697aa6a1922de4c14451669e4190f",
