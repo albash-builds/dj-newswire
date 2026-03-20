@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T14:04:24.974Z",
+  "generatedAt": "2026-03-20T15:42:02.318Z",
   "total": 110,
   "sources": [
     {
@@ -592,6 +592,18 @@
       ],
       "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
       "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
+    },
+    {
+      "id": "d86e6dd488bbc0a1616d541cf0fa33e41487521f",
+      "title": "Harmful chemicals detected in leading European headphone brands",
+      "link": "https://mixmag.net/read/harmful-chemicals-detected-in-leading-european-headphone-brands-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones_2026-03-20-132707_wpyh.png?width=660&fit=cover&s=T7safnuKG7OUm9iFXQxop84fu-woDOAMesmKzLIQlV0",
+      "excerpt": "Hormone-disrupting chemicals were found in more than 81 models, from manufacturers including Sony, Samsung, Apple and Sennheiser Continue reading..."
     },
     {
       "id": "75bb6502c7fcc8f06a997b42da356583baced6cc",
@@ -1540,18 +1552,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Dialled-In_2026-02-26-141149_wnju.jpg?width=660&fit=cover&s=fBh7eXSB69BQXkgaI-ZRk5hTL8fp7qFOYIPuTyHrO2o",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "8ba9f6dc0a3ad6bc28c570467d70036f16a5c2ee",
-      "title": "Venezuelan techno DJ jailed after selling £7 million worth of counterfeit plane parts",
-      "link": "https://mixmag.net/read/venezuelan-techno-dj-jailed-selling-7-million-worth-counterfeit-plane-parts-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/santa-militia-techno.jpg?width=660&fit=cover&s=ovu0_5i_tLT0dxoVq7FTqpbuPkvAX4KPc6FIMQyDarg",
-      "excerpt": "José Alejandro Zamora Yrala sold over 60,000 fake parts that were fitted in planes across the world Continue reading..."
     }
   ]
 }
