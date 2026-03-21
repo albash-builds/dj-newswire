@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T10:26:45.610Z",
+  "generatedAt": "2026-03-21T11:22:53.102Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "be1450d5be968d09c9d955a6b7aa47c57e9fb9c0",
+      "title": "Crítica de 'Free Spirits' el sorprendente álbum de Ca7riel y Paco Amoroso",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ca7riel-y-paco-amoroso-free-spirits/",
+      "published": "2026-03-21T11:19:06.000Z",
+      "publishedTs": 1774091946000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/CA7RIEL-Paco-Amoroso-Free-Spirits.jpg",
+      "excerpt": "Escribir la reseña de un disco como “Free Spirits” mientras se lo escucha, es una tarea solo para disociadores profesionales.... La entrada Crítica de &#039;Free Spirits&#039; el sorprendente álbum de Ca7riel y Paco Amoroso se publicó pr…"
+    },
     {
       "id": "6a03f89b965dd77dbaafb4b8e20a3bc739fd5f3d",
       "title": "Reseñamos el segundo álbum del dúo Pipiolas",
@@ -50,7 +64,7 @@
     },
     {
       "id": "6f76dc0cf84f2f998b1dc13d574d041ebc06090e",
-      "title": "Reseñamos \"Hacemos lo que podemos\", el nuevo álbum de Mala Gestión",
+      "title": "Hacemos lo que podemos",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/mala-gestion-hacemos-lo-que-podemos-disco/",
       "published": "2026-03-20T08:01:08.000Z",
       "publishedTs": 1773993668000,
@@ -60,7 +74,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mala-gestion-Hacemos-lo-que-podemos.jpg",
-      "excerpt": "Este tercer LP de Mala Gestión es justo lo que se esperaba de ellos, algo que no resulta decepcionante, pues... La entrada Reseñamos &quot;Hacemos lo que podemos&quot;, el nuevo álbum de Mala Gestión se publicó primero en MondoSonoro ."
+      "excerpt": "Este tercer LP de Mala Gestión es justo lo que se esperaba de ellos, algo que no resulta decepcionante, pues... La entrada Hacemos lo que podemos se publicó primero en MondoSonoro ."
     },
     {
       "id": "c79a537fc9b6bd84a55ef63dfc914999f9e873a9",
@@ -469,20 +483,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/sports-disco.jpg",
       "excerpt": "El quinto álbum de Sports es el disco de la independencia, de las primeras veces y del reinicio creativo fuera... La entrada Sports se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3035b9f21d08f6b80fc13a21e58fbfb44125c16b",
-      "title": "mai vista trista",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/vennus-mai-vista-trista/",
-      "published": "2026-03-15T17:21:53.000Z",
-      "publishedTs": 1773595313000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Vennus-mai-vista-trista.jpg",
-      "excerpt": "Los que no estamos acostumbrados a escuchar música en catalán, generalmente la tenemos encasillada en canciones de “fiesta mayor” o... La entrada mai vista trista se publicó primero en MondoSonoro ."
     },
     {
       "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
