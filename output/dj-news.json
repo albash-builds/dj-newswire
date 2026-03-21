@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T12:48:50.352Z",
+  "generatedAt": "2026-03-21T13:41:54.175Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
+      "title": "Bluetooth, USB-C, and a Cassette Deck: Maxell’s New Player Is Quietly Brilliant",
+      "link": "https://www.decodedmagazine.com/bluetooth-usb-c-and-a-cassette-deck-maxells-new-player-is-quietly-brilliant/",
+      "published": "2026-03-21T13:03:36.000Z",
+      "publishedTs": 1774098216000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Cassette Tape",
+        "Consumer Tech",
+        "Maxwell Byrne",
+        "Old school",
+        "Threads"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/61qCah6TEaL._AC_SL1500_-scaled.jpg",
+      "excerpt": "If you grew up rewinding tapes with a pencil to save the batteries, there&#8217;s a decent chance you stopped mid-scroll this week when Maxell quietly posted on Threads to announce they&#8217;d made a new cassette player. Not a limited-r…"
+    },
     {
       "id": "be1450d5be968d09c9d955a6b7aa47c57e9fb9c0",
       "title": "Crítica de 'Free Spirits' el sorprendente álbum de Ca7riel y Paco Amoroso",
@@ -570,28 +589,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Riley-Bee-scaled.jpg",
       "excerpt": "Decoded Magazine · Mix of the Month Winner February 2026 &#8211; Riley Bee Congratulations to Riley Bee, our Mix of the Month winner for February 2026. Riley Bee (formerly Riley Warren) is an independent electronic music artist and DJ wh…"
-    },
-    {
-      "id": "ef377f4a36732afa9e2181b1a8820603af3860c4",
-      "title": "Quarters Brighton launches a series free clubbing nights",
-      "link": "https://www.decodedmagazine.com/quarters-brighton-launches-free-rave-series/",
-      "published": "2026-03-13T09:36:13.000Z",
-      "publishedTs": 1773394573000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Brighton",
-        "Clubbing",
-        "DnB",
-        "Free parties",
-        "House Music",
-        "Quarters Brighton",
-        "Rave",
-        "Techno"
-      ],
-      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
-      "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
     },
     {
       "id": "d86e6dd488bbc0a1616d541cf0fa33e41487521f",
