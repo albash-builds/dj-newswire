@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-21T06:42:42.890Z",
-  "total": 110,
+  "generatedAt": "2026-03-21T07:32:52.416Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "fetch failed"
+    }
+  ],
   "items": [
     {
       "id": "811556c6d3b700517d9d3b4ed96286ed7c24d4bd",
@@ -63,69 +70,6 @@
       "excerpt": "Bien parece que de un tiempo a esta parte la precariedad juvenil y el hastío generacional se han convertido en... La entrada Qué mal momento se publicó primero en MondoSonoro ."
     },
     {
-      "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
-      "title": "Guy Gerber added to Gallery Club’s 1st Birthday series with Sven Väth and Laolu",
-      "link": "https://www.decodedmagazine.com/guy-gerber-added-to-gallery-clubs-1st-birthday-series-with-sven-vath-and-laolu/",
-      "published": "2026-03-20T06:01:13.000Z",
-      "publishedTs": 1773986473000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Guy gerber",
-        "House Music",
-        "Laolu",
-        "Progressive House",
-        "Sven Vath",
-        "Techno",
-        "West London"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/37-HighRes.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "The already essential West London venue Gallery Club London has added melodic and progressive favourite Guy Gerber to a standout series of special first birthday events alongside techno legend Sven Väth and classy house operator Laolu. M…"
-    },
-    {
-      "id": "6b379853d8e776bbb0447a47617c4c2e0116c2a4",
-      "title": "Five on Friday with 33rd December",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-33rd-december/",
-      "published": "2026-03-20T05:13:13.000Z",
-      "publishedTs": 1773983593000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "33rd December",
-        "acid",
-        "Electro",
-        "House",
-        "Laurent Ganier"
-      ],
-      "image": "https://media.hardwax.com/audio/87470_B1.mp3",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of 33rd December, the South London duo of Matt and Miles who between them represent a serious slice of the city&#8217;s underground. Matt co-owns and runs HENGE in Brixton, holding down a r…"
-    },
-    {
-      "id": "d07a9192e34d9fef675025ae2ea4c0d0ad3303b2",
-      "title": "Native Instruments Update: A Buyout, Not a Collapse",
-      "link": "https://www.decodedmagazine.com/native-instruments-update-a-buyout-not-a-collapse/",
-      "published": "2026-03-19T15:47:33.000Z",
-      "publishedTs": 1773935253000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "iZotope",
-        "KONTAKT",
-        "Maschine",
-        "Massive",
-        "music production",
-        "Native Instruments",
-        "Nick Williams",
-        "Traktor"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
-      "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
-    },
-    {
       "id": "7ed8b6421c0e9e11661d0bed22e3fee6c198ab16",
       "title": "Mārara",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/15-15-marara/",
@@ -138,106 +82,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/marara-1515.jpg",
       "excerpt": "Desde que este proyecto y disco cayeron en mis redes, no he parado de darle vueltas al tarro. Uno que... La entrada Mārara se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "db6311dcca293b46db3a93d8ce7c732a2eb36999",
-      "title": "Junction 2 Completes 10th Anniversary Lineup For J2 X",
-      "link": "https://www.decodedmagazine.com/junction-2-completes-10th-anniversary-lineup-for-j2-x/",
-      "published": "2026-03-19T13:12:04.000Z",
-      "publishedTs": 1773925924000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Anna Wall",
-        "Boston Manor",
-        "DJ Hell",
-        "Drumcode",
-        "Franky Wah",
-        "Hard Techno",
-        "House Music",
-        "I hate models",
-        "Jeff Mills",
-        "Junction 2"
-      ],
-      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.1.1&permmsgid=msg-f:1860094598579577376&th=19d0622ea4f56220&view=fimg&fur=ip&permmsgid=msg-f:1860094598579577376&sz=s0-l75-ft&attbid=ANGjdJ9b_yBq5deHSlSW86FQJviwJgdBr9Z1rwNu4fQm8P5nx4e_exuuKRKWaCEe-Zg240sd-nBXMBRwHnVDg1gX19BGDVEdGSBjoi_HqgJxuMloSyZSqPU6Yges-n4&disp=emb&zw",
-      "excerpt": "Junction 2 has unveiled the final lineup for its 10th anniversary edition. J2 X returns to Boston Manor Park across two weekends this summer &#8211; 25-26th July and 2nd August. The full lineup lands alongside a more refined, two-stage f…"
-    },
-    {
-      "id": "af618491aba121b66b48438a19649d3b2c8c93af",
-      "title": "Is this the coolest club scene mash up ever produced? Check it out",
-      "link": "https://www.decodedmagazine.com/is-this-the-coolest-club-scene-mash-up-ever-produced/",
-      "published": "2026-03-19T10:00:40.000Z",
-      "publishedTs": 1773914440000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Al Pacino",
-        "Bee Gees",
-        "Clubbing",
-        "Darth Vader",
-        "Funny",
-        "John Travolta",
-        "lifestyle",
-        "Mash Up",
-        "Michael Jackson",
-        "Movies",
-        "Nightlcubs"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2015/09/Saturday-Night-Fever-DI-1.jpg",
-      "excerpt": "We have all seen movie mash ups, dubbing and montages, but this would have to be one of the greatest we have ever seen. Film editor ANTONIO MARIA DA SILVA has taken every major club scene from the last 30 years to create a star studded s…"
-    },
-    {
-      "id": "195651f5a4ed9082d56f2ee2818277a7b64a4efc",
-      "title": "Throwback Thursday: The Cassette Tapes That Became a Culture — Mark Farina’s Mushroom Jazz",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-cassette-tapes-that-became-a-culture-mark-farinas-mushroom-jazz/",
-      "published": "2026-03-19T08:20:01.000Z",
-      "publishedTs": 1773908401000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "chill out",
-        "downtempo",
-        "Electronica",
-        "House Music",
-        "Jazz",
-        "Mark Farina",
-        "Mixtapes",
-        "Mushroom Jazz",
-        "Om Records",
-        "San Fransisco"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mark-farina-scaled-e1773907982538.jpg",
-      "excerpt": "There are mixes that do not simply play in the background. They shift something in the way you hear everything else. The Mushroom Jazz series by Mark Farina is that kind of work. Eight official commercial volumes, released between 1996 a…"
-    },
-    {
-      "id": "005f15ddd9dc88903bea27b57ff94d012356099a",
-      "title": "The Japanese Bar Format That Found a Second Home in Australia",
-      "link": "https://www.decodedmagazine.com/the-japanese-bar-format-that-found-a-second-home-in-australia/",
-      "published": "2026-03-19T05:31:51.000Z",
-      "publishedTs": 1773898311000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Food",
-        "Lifestyle",
-        "Adelaide",
-        "bars",
-        "Brisbane",
-        "Dining",
-        "Electronica",
-        "House Music",
-        "Japan",
-        "lifestyle"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
-      "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
     },
     {
       "id": "f901215dd07868d4b6f1ca2c38b0e9dd7889ccbb",
@@ -254,93 +98,6 @@
       "excerpt": "El trío mallorquín Go Cactus vuelve en 2026 con \"Vidas Modelos\", un disco que mantiene su nervio de rock alternativo... La entrada Vidas Modelos se publicó primero en MondoSonoro ."
     },
     {
-      "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
-      "title": "The UK Draws a Line: What the House of Lords AI and Copyright Report Means for Creators",
-      "link": "https://www.decodedmagazine.com/the-uk-draws-a-line-what-the-house-of-lords-ai-and-copyright-report-means-for-creators/",
-      "published": "2026-03-18T05:24:13.000Z",
-      "publishedTs": 1773811453000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "AI",
-        "artists",
-        "Copyright",
-        "Creative industries",
-        "House of Lords",
-        "Music Industry",
-        "Musicians",
-        "Photographers",
-        "publishers",
-        "UK"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/westminster-parliament-river-1504x846px.jpg",
-      "excerpt": "Governments around the world are quietly wrestling with one of the most consequential policy questions of the decade: how do you protect the rights of the people who make things, while simultaneously not strangling the development of AI …"
-    },
-    {
-      "id": "42796322c7c0f32cb7ad162b0d69ac6682bf0530",
-      "title": "DJ Bone Announces B2B Tour With Emerging Talent, Zack Fox",
-      "link": "https://www.decodedmagazine.com/dj-bone-announces-b2b-tour-with-emerging-talent-zack-fox/",
-      "published": "2026-03-18T05:11:49.000Z",
-      "publishedTs": 1773810709000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Amsterdam",
-        "Antwerp",
-        "Detroit",
-        "DJ Bone",
-        "Haarlem",
-        "House Music",
-        "Manchester",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/djbone-scaled.webp",
-      "excerpt": "Detroit techno pioneer DJ Bone is joining forces with DJ, multidisciplinary artist, comedian and UWAY promoter Zack Fox for a tour that kicks off at DJ Bone Presents: FURTHER x Homeless Homies x Paxahau initiative at Movement 2026 in May…"
-    },
-    {
-      "id": "6af4819262023b79a1bae6daea66b40036a435a2",
-      "title": "All Day I Dream Announces 10th Annual Summer Tour Stop At Golden Gate Park in San Francisco",
-      "link": "https://www.decodedmagazine.com/all-day-i-dream-announces-10th-annual-summer-tour-stop-at-golden-gate-park-in-san-francisco/",
-      "published": "2026-03-18T03:48:17.000Z",
-      "publishedTs": 1773805697000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "deep house",
-        "Lee Burridge",
-        "Progressive House",
-        "San Francisco"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
-      "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
-    },
-    {
-      "id": "46c934a70ec25580296f8b9d83013297b44a3de1",
-      "title": "Melbourne’s The North Rave – Belfast Returns for Its 22nd Edition",
-      "link": "https://www.decodedmagazine.com/melbournes-the-north-rave-belfast-returns-for-its-22nd-edition/",
-      "published": "2026-03-18T03:18:45.000Z",
-      "publishedTs": 1773803925000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Events",
-        "CJ Bolland",
-        "Hardware",
-        "Melbourne",
-        "New Guernica",
-        "Techno",
-        "Thomas Schumacher"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-north-rave-belfast-22.png?resize=810%2C810&ssl=1",
-      "excerpt": "Belfast is back, and the city is ready to rave! Following their explosive appearances at Reminisce, The North Rave, Belfast returns for its 22nd edition, promising a night of pure techno! Headlining the mainroom is Richie Rich, spinning …"
-    },
-    {
       "id": "953abc2f54b762e4fd89397f05ced5e01bf0722a",
       "title": "Taracá",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jorge-drexler-taraca/",
@@ -353,80 +110,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/JORGE-DREXLER-TARACA.jpg",
       "excerpt": "Los humanos bailamos ante la vida, ya sea por deseo, por pena, para celebrar o despedirnos. Da igual la latitud... La entrada Taracá se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4759f2e7b312531d1bf750ba9f3282bfb36042d5",
-      "title": "Reclaim Your City just released RYCX01 by Ruben Ganev",
-      "link": "https://www.decodedmagazine.com/reclaim-your-city-just-released-rycx01-by-ruben-ganev/",
-      "published": "2026-03-16T17:42:32.000Z",
-      "publishedTs": 1773682952000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Reclain Your City",
-        "Ruben Ganev",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2790436655_10.jpg",
-      "excerpt": "RYCX01 by Ruben Ganev Expanding the scope of their main catalogue to bottle what they consider pure techno quality with its idiosyncrasies and inherent untamedness, RYCX will serve as Reclaim Your City platform of choice to embrace the m…"
-    },
-    {
-      "id": "c7a712dfed360d826292c60c16a254973d630074",
-      "title": "From Coffee Table to Studio: Musical Beings Launches Tembo on Kickstarter",
-      "link": "https://www.decodedmagazine.com/from-coffee-table-to-studio-musical-beings-launches-tembo-on-kickstarter/",
-      "published": "2026-03-16T10:09:41.000Z",
-      "publishedTs": 1773655781000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "MIDI",
-        "music production",
-        "Musical beings",
-        "sampler",
-        "Tembo"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/e888a662111f5857f10b086f72b3565b_original.jpg",
-      "excerpt": "Musical Beings is a startup with an interesting founding premise: that music is something most people feel but struggle to express, and that the problem lies with the instruments rather than the people playing them. Their debut product, …"
-    },
-    {
-      "id": "9fc2212f153694fc28e6eed8a5d12cd86d9da808",
-      "title": "Lisbon will host International Conference and Festival – Promoting Electronic Music Culture from April 29th to May 2nd",
-      "link": "https://www.decodedmagazine.com/lisbon-dance-summit-2026/",
-      "published": "2026-03-16T09:26:35.000Z",
-      "publishedTs": 1773653195000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Lisbon",
-        "Music Conference",
-        "Portugal"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
-      "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
-    },
-    {
-      "id": "5a4626996c6d59346edc05b683dc324e25d51848",
-      "title": "Groovesizer Mynah Is a Six-Voice Sampler You Can Actually Build Yourself",
-      "link": "https://www.decodedmagazine.com/groovesizer-mynah-is-a-six-voice-sampler-you-can-actually-build-yourself/",
-      "published": "2026-03-16T07:57:04.000Z",
-      "publishedTs": 1773647824000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "DIY",
-        "Groovesizer",
-        "MIDI",
-        "music production",
-        "sampler"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mynah_Side-scaled.webp",
-      "excerpt": "Groovesizer has been quietly building a reputation in the DIY music hardware space for some time, and their latest release looks set to add another solid entry to that catalogue. The Mynah is a compact, six-voice polyphonic sampler power…"
     },
     {
       "id": "316a00e7d6d43e6ecb125032b1c75ba5a0f4fb61",
@@ -483,115 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Calequi-y-Las-Panteras-TRES.jpg",
       "excerpt": "Hay discos que amplían un sonido y otros que amplían una estructura. “TRES” de Calequi y Las Panteras consigue ambas... La entrada TRES se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
-      "title": "NSW Just Passed the World’s First Music Protection Law. Yes, Really.",
-      "link": "https://www.decodedmagazine.com/nsw-just-passed-the-worlds-first-music-protection-law-yes-really/",
-      "published": "2026-03-14T12:18:51.000Z",
-      "publishedTs": 1773490731000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "News",
-        "festivals",
-        "Grants",
-        "Live Venues",
-        "Music Industry",
-        "Noise Restictions",
-        "NSW Government",
-        "Promoters",
-        "Sydney"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/IVY-sydney.jpg",
-      "excerpt": "Look, I don&#8217;t often find myself applauding government press releases (have a read here ). They tend to arrive wrapped in the sort of breathless self-congratulation that makes you want to lie down in a dark room with a cold flannel …"
-    },
-    {
-      "id": "bc2dca5ff261f1828319347d1291fe5258949d62",
-      "title": "Sorry We’re Late: Decoded Finally Gives Daft Punk’s Discovery the Throwback Thursday It Deserves",
-      "link": "https://www.decodedmagazine.com/sorry-were-late-decoded-finally-gives-daft-punks-discovery-the-throwback-thursday-it-deserves/",
-      "published": "2026-03-14T11:57:40.000Z",
-      "publishedTs": 1773489460000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "2001",
-        "Classic Album",
-        "Daft Punk",
-        "Discovery",
-        "Electro",
-        "One More Time",
-        "Review"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-inside-of-daft-punks-pyramid-photographed-by-naki-v0-n94fyhr1mb271.webp?resize=810%2C539&ssl=1",
-      "excerpt": "Look, I&#8217;ll hold my hand up. How this one slipped through the Throwback Thursday net is genuinely beyond me. I think I was mowing the lawn. Whatever the excuse, on a lazy Saturday with nowhere to be, there was absolutely no way we w…"
-    },
-    {
-      "id": "323f240c3f88b030b7512c58ecaf3a0a407b0221",
-      "title": "New 4,000-capacity festival to debut at ancient greek temple in Sicily",
-      "link": "https://www.decodedmagazine.com/new-4000-capacity-festival-to-debut-at-ancient-greek-temple-in-sicily/",
-      "published": "2026-03-13T11:42:20.000Z",
-      "publishedTs": 1773402140000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Festivals",
-        "Festival",
-        "Greek Theatre",
-        "House Music",
-        "Italy",
-        "Sicily",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-17.jpg?resize=810%2C1012&ssl=1",
-      "excerpt": "The much-anticipated debut of Aura Festival will take place on 1st &#8211; 2nd May 2026 at the historic Castellammare del Golfo in Sicily. Positioned within the striking surroundings of the Parco Archeologico di Segesta, the two-day even…"
-    },
-    {
-      "id": "ffea1e1f9d385356d9e16ead92e7cc50df929457",
-      "title": "Meet our February 2026 Mix of the Month Winner – Riley Bee",
-      "link": "https://www.decodedmagazine.com/meet-our-february-2026-mix-of-the-month-winner-riley-bee/",
-      "published": "2026-03-13T11:21:10.000Z",
-      "publishedTs": 1773400870000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "Mixes",
-        "deep house",
-        "Las Vegas",
-        "Mix of the Month",
-        "Progressive House",
-        "Riley Bee"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Riley-Bee-scaled.jpg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner February 2026 &#8211; Riley Bee Congratulations to Riley Bee, our Mix of the Month winner for February 2026. Riley Bee (formerly Riley Warren) is an independent electronic music artist and DJ wh…"
-    },
-    {
-      "id": "ef377f4a36732afa9e2181b1a8820603af3860c4",
-      "title": "Quarters Brighton launches a series free clubbing nights",
-      "link": "https://www.decodedmagazine.com/quarters-brighton-launches-free-rave-series/",
-      "published": "2026-03-13T09:36:13.000Z",
-      "publishedTs": 1773394573000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Brighton",
-        "Clubbing",
-        "DnB",
-        "Free parties",
-        "House Music",
-        "Quarters Brighton",
-        "Rave",
-        "Techno"
-      ],
-      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.3&permmsgid=msg-f:1859457652689380498&th=19ce1ee21f6ea492&view=fimg&fur=ip&permmsgid=msg-f:1859457652689380498&sz=s0-l75-ft&attbid=ANGjdJ87c8ldxXTbtUoVwQV6WH2bJLs3HjfUvEimWGXCk5A--uDdhywsiruPjRySJgSdJSKKtuH8Bwz48Iu39SkxzukfTxMxfK4ZzJ8wBJ9e4Ss-vUGFYZMqkEGsqRA&disp=emb&realattid=ii_mmndnta22&zw",
-      "excerpt": "Quarters Brighton has announced a monthly series of free clubbing nights. The events, which launched last month with a packed-out ‘Free The Jungle’ takeover featuring scene heavyweights Ed Solo and Benny L, are designed to give clubbers …"
     },
     {
       "id": "d86e6dd488bbc0a1616d541cf0fa33e41487521f",
