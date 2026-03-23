@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T07:10:08.954Z",
+  "generatedAt": "2026-03-23T08:56:25.054Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "264d0961a9d6c33241b7f07f2806ad55cf662e60",
+      "title": "Reseñamos 'Trying Times', el nuevo trabajo de James Blake",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/james-blake-trying-times/",
+      "published": "2026-03-23T08:15:23.000Z",
+      "publishedTs": 1774253723000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/James-Blake-Trying-Times-.jpg",
+      "excerpt": "El mundo se desmorona y nosotros nos enamoramos. Pero, sobre todo, el mundo se desmorona y nosotros con él. Este... La entrada Reseñamos &#039;Trying Times&#039;, el nuevo trabajo de James Blake se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
       "title": "Bluetooth, USB-C, and a Cassette Deck: Maxell’s New Player Is Quietly Brilliant",
@@ -55,7 +69,7 @@
     },
     {
       "id": "6a03f89b965dd77dbaafb4b8e20a3bc739fd5f3d",
-      "title": "Reseñamos el segundo álbum del dúo Pipiolas",
+      "title": "Pipiolas",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/pipiolas-segundo-album/",
       "published": "2026-03-21T07:45:03.000Z",
       "publishedTs": 1774079103000,
@@ -65,7 +79,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/PipiolasCDWEB.jpg",
-      "excerpt": "El que Pipiolas titulen su segundo álbum de estudio de forma homónima, después de haberse presentado previamente en sociedad con... La entrada Reseñamos el segundo álbum del dúo Pipiolas se publicó primero en MondoSonoro ."
+      "excerpt": "El que Pipiolas titulen su segundo álbum de estudio de forma homónima, después de haberse presentado previamente en sociedad con... La entrada Pipiolas se publicó primero en MondoSonoro ."
     },
     {
       "id": "811556c6d3b700517d9d3b4ed96286ed7c24d4bd",
@@ -488,20 +502,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Kim-Gordon-Play-Me.jpg",
       "excerpt": "Tras su excepcional anterior LP, había muchas ganas de ver qué dirección iba a tomar Kim Gordon en su imprevisible... La entrada Play Me se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aabcd19e22a5d3b014e7cc9acd58b4434624028d",
-      "title": "Sports",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sports-disco/",
-      "published": "2026-03-15T17:32:51.000Z",
-      "publishedTs": 1773595971000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/sports-disco.jpg",
-      "excerpt": "El quinto álbum de Sports es el disco de la independencia, de las primeras veces y del reinicio creativo fuera... La entrada Sports se publicó primero en MondoSonoro ."
     },
     {
       "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
