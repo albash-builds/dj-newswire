@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T15:59:40.317Z",
+  "generatedAt": "2026-03-23T17:03:33.157Z",
   "total": 110,
   "sources": [
     {
@@ -587,6 +587,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-inside-of-daft-punks-pyramid-photographed-by-naki-v0-n94fyhr1mb271.webp?resize=810%2C539&ssl=1",
       "excerpt": "Look, I&#8217;ll hold my hand up. How this one slipped through the Throwback Thursday net is genuinely beyond me. I think I was mowing the lawn. Whatever the excuse, on a lazy Saturday with nowhere to be, there was absolutely no way we w…"
+    },
+    {
+      "id": "3c5e76a67d93195ebb696b3198d62d1797167cc4",
+      "title": "Heidi details health struggles that led to 18-month DJ hiatus",
+      "link": "https://mixmag.net/read/heidi-details-health-struggles-that-led-to-18-month-dj-hiatus-2-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Heidi.png?width=660&fit=cover&s=BEhU0IV4sYtUyi2rwOjr0ywag-8K3uT88hlw_lUymnU",
+      "excerpt": "The Canadian DJ and label head was originally diagnosed with uterine fibroids in 2014 Continue reading..."
     },
     {
       "id": "f5e058312426b28c24dd540f62fbc48b4b189d0c",
@@ -1535,18 +1547,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Brits-Rosalia.jpg?width=660&fit=cover&s=WnthmB62CH9-Bu-mLXAh1oma6W8CWg4YriqF5i6DszU",
       "excerpt": "The &#039;LUX&#039; star also picked up the BRIT Award for Best International Act during Saturday&#039;s ceremony at the Co-op Live Arena in Manchester Continue reading..."
-    },
-    {
-      "id": "0b5a002069f214cc7a6cf3221f2d8dbe4bbec89b",
-      "title": "Legendary Paris disco club Le Palace to reopen after four decades",
-      "link": "https://mixmag.net/read/legendary-paris-disco-club-le-palace-reopen-after-four-decades-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/paris-le-palace.jpg?width=660&fit=cover&s=fcl-AMxoJTI1orc1n8lP0pHYfaQ48KkAGJDfOE0HZ7E",
-      "excerpt": "The club was previously frequented by the likes of Prince, Grace Jones and Mick Jagger Continue reading..."
     }
   ]
 }
