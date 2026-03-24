@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T07:16:29.536Z",
+  "generatedAt": "2026-03-24T08:53:28.100Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e299d571e63a9b27066429783b2bc7ddba61445b",
+      "title": "An Undying Love For A Burning World",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/neurosis-an-undying-love/",
+      "published": "2026-03-24T08:24:08.000Z",
+      "publishedTs": 1774340648000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Neurosis-An-Undying-Love.jpg",
+      "excerpt": "El regreso de Neurosis después de una década de silencio discográfico era necesario. Tras una crisis derivada en gran parte... La entrada An Undying Love For A Burning World se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "175fc2901bcca975eb7cc2abcb6cc35431ef3841",
+      "title": "Reseñamos  ´Manual de belleza´, el nuevo álbum de Rodrigo Cuevas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/rodrigo-cuevas-manual-de-belleza/",
+      "published": "2026-03-24T08:06:40.000Z",
+      "publishedTs": 1774339600000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Rodrigo-Cuevas-Manual-de-belleza.jpg",
+      "excerpt": "En tiempos convulsos como los actuales, la belleza, la de las cosas concretas y abstractas, la de los pensamientos y... La entrada Reseñamos ´Manual de belleza´, el nuevo álbum de Rodrigo Cuevas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f189a9d8e886a1cfb413a964430e42825dc59646",
       "title": "Future Quiet",
@@ -255,20 +283,6 @@
       "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
     },
     {
-      "id": "7ed8b6421c0e9e11661d0bed22e3fee6c198ab16",
-      "title": "Mārara",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/15-15-marara/",
-      "published": "2026-03-19T15:06:31.000Z",
-      "publishedTs": 1773932791000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/marara-1515.jpg",
-      "excerpt": "Desde que este proyecto y disco cayeron en mis redes, no he parado de darle vueltas al tarro. Uno que... La entrada Mārara se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "db6311dcca293b46db3a93d8ce7c732a2eb36999",
       "title": "Junction 2 Completes 10th Anniversary Lineup For J2 X",
       "link": "https://www.decodedmagazine.com/junction-2-completes-10th-anniversary-lineup-for-j2-x/",
@@ -367,20 +381,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
       "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
-    },
-    {
-      "id": "f901215dd07868d4b6f1ca2c38b0e9dd7889ccbb",
-      "title": "Vidas Modelos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/go-cactus-vidas-modelos/",
-      "published": "2026-03-18T10:12:53.000Z",
-      "publishedTs": 1773828773000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/go-cactus-vidas-modelo.jpg",
-      "excerpt": "El trío mallorquín Go Cactus vuelve en 2026 con \"Vidas Modelos\", un disco que mantiene su nervio de rock alternativo... La entrada Vidas Modelos se publicó primero en MondoSonoro ."
     },
     {
       "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
