@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T16:11:11.339Z",
+  "generatedAt": "2026-03-24T17:56:05.833Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6586b63b8a2de35d54ccbcd4c1725cdadcbc3a4c",
+      "title": "Garip",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/altin-gun-garip/",
+      "published": "2026-03-24T17:01:49.000Z",
+      "publishedTs": 1774371709000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Altin-Gun-garip.jpg",
+      "excerpt": "El lanzamiento de este nuevo álbum de los ascendentes Altin Gün viene con la expectativa de ver de qué manera... La entrada Garip se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2606354a4c55fe6c1aec84c8e35b76c2f91da2ab",
       "title": "Sennheiser’s Headphone Division Is Seeking a New Owner. The Industry Should Hope It Finds the Right One.",
@@ -223,20 +237,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mala-gestion-Hacemos-lo-que-podemos.jpg",
       "excerpt": "Este tercer LP de Mala Gestión es justo lo que se esperaba de ellos, algo que no resulta decepcionante, pues... La entrada Hacemos lo que podemos se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c79a537fc9b6bd84a55ef63dfc914999f9e873a9",
-      "title": "Qué mal momento",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/carencias-afectivas-que-mal-momento/",
-      "published": "2026-03-20T06:49:19.000Z",
-      "publishedTs": 1773989359000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Carencias-Afectivas-Que-mal-momento.jpg",
-      "excerpt": "Bien parece que de un tiempo a esta parte la precariedad juvenil y el hastío generacional se han convertido en... La entrada Qué mal momento se publicó primero en MondoSonoro ."
     },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
