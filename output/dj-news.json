@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T14:58:10.663Z",
+  "generatedAt": "2026-03-24T16:11:11.339Z",
   "total": 110,
   "sources": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "id": "175fc2901bcca975eb7cc2abcb6cc35431ef3841",
-      "title": "Reseñamos  ´Manual de belleza´, el nuevo álbum de Rodrigo Cuevas",
+      "title": "Reseñamos  'Manual de belleza', el nuevo álbum de Rodrigo Cuevas",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/rodrigo-cuevas-manual-de-belleza/",
       "published": "2026-03-24T08:06:40.000Z",
       "publishedTs": 1774339600000,
@@ -65,7 +65,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Rodrigo-Cuevas-Manual-de-belleza.jpg",
-      "excerpt": "En tiempos convulsos como los actuales, la belleza, la de las cosas concretas y abstractas, la de los pensamientos y... La entrada Reseñamos ´Manual de belleza´, el nuevo álbum de Rodrigo Cuevas se publicó primero en MondoSonoro ."
+      "excerpt": "En tiempos convulsos como los actuales, la belleza, la de las cosas concretas y abstractas, la de los pensamientos y... La entrada Reseñamos &#039;Manual de belleza&#039;, el nuevo álbum de Rodrigo Cuevas se publicó primero en MondoSonoro ."
     },
     {
       "id": "f189a9d8e886a1cfb413a964430e42825dc59646",
@@ -584,6 +584,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/IVY-sydney.jpg",
       "excerpt": "Look, I don&#8217;t often find myself applauding government press releases (have a read here ). They tend to arrive wrapped in the sort of breathless self-congratulation that makes you want to lie down in a dark room with a cold flannel …"
+    },
+    {
+      "id": "9bfb0d32a1ef5b79b7bb996d189ee4cdb696d73c",
+      "title": "New dance music-dedicated radio station opens in San Francisco, program.audio",
+      "link": "https://mixmag.net/read/new-dance-music-dedicated-radio-station-opens-in-san-francisco-program-audio-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/program-audio.jpg?width=660&fit=cover&s=G3PjwPWtLJJ6PXXr8In3u3z2rjcnyB7ct0pMnI-dO4Y",
+      "excerpt": "The station has opened within a six-decade-old former photo kiosk and will act as both a community space as well as a platform for online mixes Continue reading..."
+    },
+    {
+      "id": "a4a95012ad9c90f49a5ee339e25fe28bfc4d7118",
+      "title": "Roland claims new AI tool has \"human intent at its core\"",
+      "link": "https://mixmag.net/read/roland-say-new-ai-tool-will-support-human-intent-tech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Roland-Screengrab.png?width=660&fit=cover&s=MWUU0Z-WRiqmcl7SLjpKANP-YNojVM6JIHJJj9j9ISE",
+      "excerpt": "DAW plug-in Melody Flip gives users melody recommendations based on an existing audio file&#039;s characteristics Continue reading..."
+    },
+    {
+      "id": "4dadeee890e958a816b596260a2613b3d4718f6d",
+      "title": "DJ Nobu selects 10 leftfield tracks he has on rotation while touring",
+      "link": "https://mixmag.net/feature/dj-nobu-selects-10-leftfield-tracks-he-has-on-rotation-while-touring",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-nobu-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=5S5jqrYMAAPPFE2gZeCd7xgLXEJ138VnHoCQtND1MrU",
+      "excerpt": "The legendary Japanese musician has a track for every mood while travelling the world, whether he’s winding down at the hotel after a show or finding solace in the sweet sounds of Chicago soul and lovers rock Continue reading..."
     },
     {
       "id": "13b2cb4243fc0b42d0eddc41cf36ac9b6cdcc977",
@@ -1508,42 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Board-masters.jpg?width=660&fit=cover&s=BCVMKO9DltBvoaQF47CClADs4GWs6ikkPqwcRMWm51c",
       "excerpt": "The county&#039;s biggest festival has reportedly requested to extend its music programming to include an additional day this year Continue reading..."
-    },
-    {
-      "id": "477ebb4870ecde1a779ab1f714d9f977aca49947",
-      "title": "CTM Festival expects to lose €12,000 following Berlin box office bankruptcy",
-      "link": "https://mixmag.net/read/ctm-festival-expects-lose-12000-euros-following-berlin-box-office-bankruptcy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ctm-festival.jpg?width=660&fit=cover&s=MGWutKAvt_tt5myofhNNck3Pr5h3L79U5BE7jqJAlfA",
-      "excerpt": "The Berlin festival said its recent event and future concerts are affected Continue reading..."
-    },
-    {
-      "id": "d18916ede3efa87d536f6ac747d2314e67adac89",
-      "title": "Ambient hum emitted by Co-op freezers in Sheffield turned into 10-hour loop",
-      "link": "https://mixmag.net/read/ambient-hum-emitted-co-op-freezers-sheffield-10-hour-loop-youtube-eccy-road-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/eccy-road-freezers.jpg?width=660&fit=cover&s=bx8GmtWUpBum9tQeLWwoDVObrchPVs2xtV5WaOfbmWg",
-      "excerpt": "The viral droning sound, which sparked curiosity online, is said to be tuned to a C# major Continue reading..."
-    },
-    {
-      "id": "c8f1757298aa884f11215226cb61d284fe6e9641",
-      "title": "Birkenhead's Future Yard shares plans for new 600-capacity venue",
-      "link": "https://mixmag.net/read/birkenhead-future-yard-shares-plans-for-new-600-capacity-venue-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/birkenhead.jpg?width=660&fit=cover&s=k2wlWC1kagcwnXk1AN3QQJhDeaWQ5Ccj92WL-x_yC4M",
-      "excerpt": "Dubbed &quot;Future Yard 2.0&quot;, the new space will be located on the site of the venue&#039;s current outdoor area on Argyle Street Continue reading..."
     }
   ]
 }
