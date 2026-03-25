@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T11:41:44.240Z",
+  "generatedAt": "2026-03-25T13:10:12.933Z",
   "total": 110,
   "sources": [
     {
@@ -581,6 +581,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
       "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
+    },
+    {
+      "id": "8f3f9b60cf87c03300c0e3ab91cbf6291ad9cdc3",
+      "title": "Legendary bassist Melvin Gibbs shares new book tracing the history of Black music",
+      "link": "https://mixmag.net/read/melvin-gibbs-pens-new-book-tracing-history-black-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Melvin-Gibbs-credit-Christian-Stewart.jpg?width=660&fit=cover&s=3Pfe0io_U1mMDsKvT5i5zDlZTvWPvJ57plpmhfcAISc",
+      "excerpt": "‘How Black Music Took Over the World’ explores the roots of Black artistry to the modern day, from John Coltrane to Kendrick Lamar Continue reading..."
     },
     {
       "id": "4b7af6b657302619e7516cb8232fc906b80840eb",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gheetts.jpg?width=660&fit=cover&s=DIYadrvIOr62kesON3Nk9XDfjwEMdT0ag3WbRztVt9Y",
       "excerpt": "The musician was one-and-a-half times over the legal alcohol limit when he hit a 20-year-old Nepalese student in October last year Continue reading..."
-    },
-    {
-      "id": "6a7a92c719c611fbeff776230d9b00810ef03268",
-      "title": "DJ Marcelle to take a break from DJing following heart attack",
-      "link": "https://mixmag.net/read/dj-marcelle-to-take-break-from-djing-following-heart-attack-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DJ-Marcelle.jpg?width=660&fit=cover&s=TcezZn-UO4VAkFYe-LtxNDeykMO6VMq0Obvr8DFx9e4",
-      "excerpt": "The Dutch DJ will take a break for &quot;at least a few months&quot; to recover from open-heart bypass surgery Continue reading..."
     }
   ]
 }
