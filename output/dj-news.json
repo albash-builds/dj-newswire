@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T02:09:15.780Z",
+  "generatedAt": "2026-03-25T04:53:25.276Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,46 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
+      "title": "Jungle announce new album",
+      "link": "https://www.decodedmagazine.com/jungle-announce-new-album/",
+      "published": "2026-03-25T04:27:59.000Z",
+      "publishedTs": 1774412879000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "breaks",
+        "Disco",
+        "Funk",
+        "House Music",
+        "Jungle",
+        "Soul",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Jungle-e1774412844633.jpg",
+      "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
+    },
+    {
+      "id": "bcac086ed05c87b166709e51b130bf41efd52575",
+      "title": "Irvine Welsh Brings Trainspotting to the West End",
+      "link": "https://www.decodedmagazine.com/irvine-welsh-brings-trainspotting-to-the-west-end/",
+      "published": "2026-03-25T04:09:22.000Z",
+      "publishedTs": 1774411762000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "London",
+        "Musical",
+        "Steve Mac",
+        "Trainspotting",
+        "West End"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
+      "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
+    },
     {
       "id": "6586b63b8a2de35d54ccbcd4c1725cdadcbc3a4c",
       "title": "Garip",
@@ -541,49 +581,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
       "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
-    },
-    {
-      "id": "5a4626996c6d59346edc05b683dc324e25d51848",
-      "title": "Groovesizer Mynah Is a Six-Voice Sampler You Can Actually Build Yourself",
-      "link": "https://www.decodedmagazine.com/groovesizer-mynah-is-a-six-voice-sampler-you-can-actually-build-yourself/",
-      "published": "2026-03-16T07:57:04.000Z",
-      "publishedTs": 1773647824000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "DIY",
-        "Groovesizer",
-        "MIDI",
-        "music production",
-        "sampler"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mynah_Side-scaled.webp",
-      "excerpt": "Groovesizer has been quietly building a reputation in the DIY music hardware space for some time, and their latest release looks set to add another solid entry to that catalogue. The Mynah is a compact, six-voice polyphonic sampler power…"
-    },
-    {
-      "id": "aced2d44df2382cea0646f7fe20c203ba0ff6775",
-      "title": "NSW Just Passed the World’s First Music Protection Law. Yes, Really.",
-      "link": "https://www.decodedmagazine.com/nsw-just-passed-the-worlds-first-music-protection-law-yes-really/",
-      "published": "2026-03-14T12:18:51.000Z",
-      "publishedTs": 1773490731000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "News",
-        "festivals",
-        "Grants",
-        "Live Venues",
-        "Music Industry",
-        "Noise Restictions",
-        "NSW Government",
-        "Promoters",
-        "Sydney"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/IVY-sydney.jpg",
-      "excerpt": "Look, I don&#8217;t often find myself applauding government press releases (have a read here ). They tend to arrive wrapped in the sort of breathless self-congratulation that makes you want to lie down in a dark room with a cold flannel …"
     },
     {
       "id": "9bfb0d32a1ef5b79b7bb996d189ee4cdb696d73c",
