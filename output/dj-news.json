@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T08:56:21.179Z",
+  "generatedAt": "2026-03-26T10:02:42.789Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "dada1b0cfeb6bfa0715c799388f8b88657f2d013",
+      "title": "I sure am getting sick of this bowling alley",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mclusky-i-sure-am-getting-sick-of-this-bowling-alley/",
+      "published": "2026-03-26T09:37:00.000Z",
+      "publishedTs": 1774517820000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mclusky-I-sure-am-getting-sick-of-this-bowling-alley.jpg",
+      "excerpt": "La vuelta de Mclusky supone una gran bofetada de realidad en la era en la que la IA parece acabar... La entrada I sure am getting sick of this bowling alley se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3fb5c9b94525a9bd96fc983a85736d2a6be8cd0e",
       "title": "Donde nada es para tanto",
@@ -263,20 +277,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/TOUCD.jpg",
       "excerpt": "Independientes, autoproducidos, prolíficos y caleidoscópicamente emocionales, el cuarteto afincado en Barcelona continúa prodigando su liturgia microtonal e introspectiva con “Flores... La entrada Flores y puñales se publicó primero en M…"
-    },
-    {
-      "id": "811556c6d3b700517d9d3b4ed96286ed7c24d4bd",
-      "title": "Paradises",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ladytron-paradises/",
-      "published": "2026-03-20T08:29:52.000Z",
-      "publishedTs": 1773995392000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Ladytron-Paradises.jpg",
-      "excerpt": "Poco más de tres años después de “Time's Arrow” (Cooking Vinyl, 23), Ladytron regresan a escena con “Paradise”, el que... La entrada Paradises se publicó primero en MondoSonoro ."
     },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
