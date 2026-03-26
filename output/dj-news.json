@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T07:08:54.100Z",
+  "generatedAt": "2026-03-26T08:56:21.179Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3fb5c9b94525a9bd96fc983a85736d2a6be8cd0e",
+      "title": "Donde nada es para tanto",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ginebras-donde-nada-es-para-tanto/",
+      "published": "2026-03-26T07:09:05.000Z",
+      "publishedTs": 1774508945000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Ginebras-Donde-nada-es-para-tanto.jpg",
+      "excerpt": "Las guitarras de Ginebras nunca habían sonado mejor, tampoco tan diferentes. Acostumbrados a himnos instantáneos donde todos cabemos, desde niños... La entrada Donde nada es para tanto se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
       "title": "Jungle announce new album",
@@ -177,7 +191,7 @@
     },
     {
       "id": "264d0961a9d6c33241b7f07f2806ad55cf662e60",
-      "title": "Reseñamos 'Trying Times', el nuevo trabajo de James Blake",
+      "title": "Trying Times",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/james-blake-trying-times/",
       "published": "2026-03-23T08:15:23.000Z",
       "publishedTs": 1774253723000,
@@ -187,7 +201,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/James-Blake-Trying-Times-.jpg",
-      "excerpt": "El mundo se desmorona y nosotros nos enamoramos. Pero, sobre todo, el mundo se desmorona y nosotros con él. Este... La entrada Reseñamos &#039;Trying Times&#039;, el nuevo trabajo de James Blake se publicó primero en MondoSonoro ."
+      "excerpt": "El mundo se desmorona y nosotros nos enamoramos. Pero, sobre todo, el mundo se desmorona y nosotros con él. Este... La entrada Trying Times se publicó primero en MondoSonoro ."
     },
     {
       "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
@@ -210,7 +224,7 @@
     },
     {
       "id": "be1450d5be968d09c9d955a6b7aa47c57e9fb9c0",
-      "title": "Crítica de 'Free Spirits' el sorprendente álbum de Ca7riel y Paco Amoroso",
+      "title": "Free Spirits",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/ca7riel-y-paco-amoroso-free-spirits/",
       "published": "2026-03-21T11:19:06.000Z",
       "publishedTs": 1774091946000,
@@ -220,7 +234,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/CA7RIEL-Paco-Amoroso-Free-Spirits.jpg",
-      "excerpt": "Escribir la reseña de un disco como “Free Spirits” mientras se lo escucha, es una tarea solo para disociadores profesionales.... La entrada Crítica de &#039;Free Spirits&#039; el sorprendente álbum de Ca7riel y Paco Amoroso se publicó pr…"
+      "excerpt": "Escribir la reseña de un disco como “Free Spirits” mientras se lo escucha, es una tarea solo para disociadores profesionales.... La entrada Free Spirits se publicó primero en MondoSonoro ."
     },
     {
       "id": "6a03f89b965dd77dbaafb4b8e20a3bc739fd5f3d",
@@ -263,20 +277,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Ladytron-Paradises.jpg",
       "excerpt": "Poco más de tres años después de “Time's Arrow” (Cooking Vinyl, 23), Ladytron regresan a escena con “Paradise”, el que... La entrada Paradises se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6f76dc0cf84f2f998b1dc13d574d041ebc06090e",
-      "title": "Hacemos lo que podemos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mala-gestion-hacemos-lo-que-podemos-disco/",
-      "published": "2026-03-20T08:01:08.000Z",
-      "publishedTs": 1773993668000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mala-gestion-Hacemos-lo-que-podemos.jpg",
-      "excerpt": "Este tercer LP de Mala Gestión es justo lo que se esperaba de ellos, algo que no resulta decepcionante, pues... La entrada Hacemos lo que podemos se publicó primero en MondoSonoro ."
     },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
