@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T15:03:50.051Z",
+  "generatedAt": "2026-03-26T17:01:34.012Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "07129c5cac8024ec5e1b352d1f160d8945355bbe",
+      "title": "Entre dos mundos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-del-tango-entre-dos-mundos/",
+      "published": "2026-03-26T16:26:15.000Z",
+      "publishedTs": 1774542375000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Maria-del-Tango-Entre-dos-mundos.jpg",
+      "excerpt": "El flamenco, entre muchas otras cosas, es ida y vuelta, mestizaje indómito, metamorfosis libre y descarnada, sentimiento que pellizca a... La entrada Entre dos mundos se publicó primero en MondoSonoro ."
+    },
     {
       "id": "dada1b0cfeb6bfa0715c799388f8b88657f2d013",
       "title": "I sure am getting sick of this bowling alley",
@@ -263,20 +277,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/PipiolasCDWEB.jpg",
       "excerpt": "El que Pipiolas titulen su segundo álbum de estudio de forma homónima, después de haberse presentado previamente en sociedad con... La entrada Pipiolas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a79a5890a9b8eec204670fc613ec3ab123cbb587",
-      "title": "Flores y puñales",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/flores-y-punales-tou-disco/",
-      "published": "2026-03-20T09:10:12.000Z",
-      "publishedTs": 1773997812000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/TOUCD.jpg",
-      "excerpt": "Independientes, autoproducidos, prolíficos y caleidoscópicamente emocionales, el cuarteto afincado en Barcelona continúa prodigando su liturgia microtonal e introspectiva con “Flores... La entrada Flores y puñales se publicó primero en M…"
     },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
@@ -581,6 +581,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
       "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
+    },
+    {
+      "id": "a60f54c18d70d8eda1c22e2d5416eb6651f6e11e",
+      "title": "Gorgon City in The Mixmag Lab",
+      "link": "https://mixmag.net/read/gorgon-city-in-the-mixmag-lab-dj-lab",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IMG_5821.png?width=660&fit=cover&s=IpaAmtmev9Q9PaKFa3CWi-3dQWmgHtkNS0PzgSjdTNs",
+      "excerpt": "90 minutes of ecstatic house and rumbling basslines Continue reading..."
     },
     {
       "id": "d7667225114b58062e7a66686e284429acfee2b0",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Nama2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=q-ofFDzr9Tw-pXUKHe8vJSfNMMppopUytcMaeAAB1vU",
       "excerpt": "The Swedish musician and PC Music affiliate shares a “roller coaster” mix traversing digicore and dream pop, and speaks to Gemma Ross about her soon-to-land debut album on YEAR0001, ‘Limbo’ Continue reading..."
-    },
-    {
-      "id": "c164e893a0d7176070010921028ae59ba1cb00f9",
-      "title": "Schranz Will Never Die: NIKOLINA's guide to the blistering techno subgenre in 10 tracks",
-      "link": "https://mixmag.net/feature/10-essential-schranz-tracks-selected-by-nikolina",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nikolina.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=-I478sQgmF2Jt2Z1lU_KZChN7UPviRAwNjNOXrSnC6s",
-      "excerpt": "Flying the flag for Germany&#039;s breakneck techno offshoot, NIKOLINA picks out some of her favourite schranz bangers Continue reading..."
     }
   ]
 }
