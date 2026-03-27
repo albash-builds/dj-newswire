@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T05:07:22.750Z",
+  "generatedAt": "2026-03-27T07:07:13.531Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,45 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
+      "title": "Token Records just announced Fuga VII by Various Artists",
+      "link": "https://www.decodedmagazine.com/token-records-just-announced-fuga-vii-by-various-artists/",
+      "published": "2026-03-27T06:51:24.000Z",
+      "publishedTs": 1774594284000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Belgium",
+        "Deep techno",
+        "Fuga",
+        "Techno",
+        "Token Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Funga-VII.jpg",
+      "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
+    },
+    {
+      "id": "82b0c9fbb840d5d1e838fc705a44aa426f65559d",
+      "title": "Five on Friday with Ilya Santana",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-ilya-santana/",
+      "published": "2026-03-27T06:35:07.000Z",
+      "publishedTs": 1774593307000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "acid",
+        "Disco",
+        "Electro",
+        "Funk",
+        "House",
+        "tech"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
+      "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
+    },
     {
       "id": "07129c5cac8024ec5e1b352d1f160d8945355bbe",
       "title": "Entre dos mundos",
@@ -544,43 +583,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2790436655_10.jpg",
       "excerpt": "RYCX01 by Ruben Ganev Expanding the scope of their main catalogue to bottle what they consider pure techno quality with its idiosyncrasies and inherent untamedness, RYCX will serve as Reclaim Your City platform of choice to embrace the m…"
-    },
-    {
-      "id": "c7a712dfed360d826292c60c16a254973d630074",
-      "title": "From Coffee Table to Studio: Musical Beings Launches Tembo on Kickstarter",
-      "link": "https://www.decodedmagazine.com/from-coffee-table-to-studio-musical-beings-launches-tembo-on-kickstarter/",
-      "published": "2026-03-16T10:09:41.000Z",
-      "publishedTs": 1773655781000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "MIDI",
-        "music production",
-        "Musical beings",
-        "sampler",
-        "Tembo"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/e888a662111f5857f10b086f72b3565b_original.jpg",
-      "excerpt": "Musical Beings is a startup with an interesting founding premise: that music is something most people feel but struggle to express, and that the problem lies with the instruments rather than the people playing them. Their debut product, …"
-    },
-    {
-      "id": "9fc2212f153694fc28e6eed8a5d12cd86d9da808",
-      "title": "Lisbon will host International Conference and Festival – Promoting Electronic Music Culture from April 29th to May 2nd",
-      "link": "https://www.decodedmagazine.com/lisbon-dance-summit-2026/",
-      "published": "2026-03-16T09:26:35.000Z",
-      "publishedTs": 1773653195000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Lisbon",
-        "Music Conference",
-        "Portugal"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Image-Lisboa-2026-_-Por-Diego-Garcia.jpg?resize=810%2C520&ssl=1",
-      "excerpt": "Lisbon Dance Summit is ready to unite key global professionals from influential companies in the dance music industry, alongside emerging and innovative professionals, to exchange knowledge and discussions with audiences. The tickets are…"
     },
     {
       "id": "a60f54c18d70d8eda1c22e2d5416eb6651f6e11e",
