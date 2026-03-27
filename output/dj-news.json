@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T16:55:22.524Z",
+  "generatedAt": "2026-03-27T17:50:30.019Z",
   "total": 110,
   "sources": [
     {
@@ -114,6 +114,20 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
+    },
+    {
+      "id": "ce6e6aa6c8865826af61fb7a38195e26cbfa2630",
+      "title": "Possessor",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/traitrs-possessor/",
+      "published": "2026-03-27T06:14:51.000Z",
+      "publishedTs": 1774592091000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/TRAITRS-Possessor.jpg",
+      "excerpt": "¿Dónde empieza y dónde acaba la línea que separa el homenaje y la influencia de la autoría propia? Eso es... La entrada Possessor se publicó primero en MondoSonoro ."
     },
     {
       "id": "07129c5cac8024ec5e1b352d1f160d8945355bbe",
@@ -243,20 +257,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Neurosis-An-Undying-Love.jpg",
       "excerpt": "El regreso de Neurosis después de una década de silencio discográfico era necesario. Tras una crisis derivada en gran parte... La entrada An Undying Love For A Burning World se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "175fc2901bcca975eb7cc2abcb6cc35431ef3841",
-      "title": "Reseñamos  'Manual de belleza', el nuevo álbum de Rodrigo Cuevas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/rodrigo-cuevas-manual-de-belleza/",
-      "published": "2026-03-24T08:06:40.000Z",
-      "publishedTs": 1774339600000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Rodrigo-Cuevas-Manual-de-belleza.jpg",
-      "excerpt": "En tiempos convulsos como los actuales, la belleza, la de las cosas concretas y abstractas, la de los pensamientos y... La entrada Reseñamos &#039;Manual de belleza&#039;, el nuevo álbum de Rodrigo Cuevas se publicó primero en MondoSonoro ."
     },
     {
       "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
