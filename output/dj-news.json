@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T10:50:10.108Z",
+  "generatedAt": "2026-03-27T11:41:39.963Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "542100c07635517794faedccc16538c05f110328",
+      "title": "Reseñamos Ö, el esperado álbum debut de Fcukers",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/fcukers-o/",
+      "published": "2026-03-27T11:19:11.000Z",
+      "publishedTs": 1774610351000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Fcukers-O.jpg",
+      "excerpt": "El álbum debut de Fcukers sube rápido y te aguanta toda la noche. Shanny y Jackson entregan con \"Ö\" un... La entrada Reseñamos Ö, el esperado álbum debut de Fcukers se publicó primero en MondoSonoro ."
+    },
     {
       "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
       "title": "Token Records just announced Fuga VII by Various Artists",
@@ -302,20 +316,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/CA7RIEL-Paco-Amoroso-Free-Spirits.jpg",
       "excerpt": "Escribir la reseña de un disco como “Free Spirits” mientras se lo escucha, es una tarea solo para disociadores profesionales.... La entrada Free Spirits se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6a03f89b965dd77dbaafb4b8e20a3bc739fd5f3d",
-      "title": "Pipiolas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/pipiolas-segundo-album/",
-      "published": "2026-03-21T07:45:03.000Z",
-      "publishedTs": 1774079103000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/PipiolasCDWEB.jpg",
-      "excerpt": "El que Pipiolas titulen su segundo álbum de estudio de forma homónima, después de haberse presentado previamente en sociedad con... La entrada Pipiolas se publicó primero en MondoSonoro ."
     },
     {
       "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
