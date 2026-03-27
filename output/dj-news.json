@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T15:53:09.877Z",
+  "generatedAt": "2026-03-27T16:55:22.524Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "22c46d102ae315ba1e28de980e5edd3ef1f69b97",
+      "title": "Is This All There Is",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/anna-calvi-is-this-all-there-is/",
+      "published": "2026-03-27T16:49:32.000Z",
+      "publishedTs": 1774630172000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Anna-Calvi-Is-This-All-There-Is.jpg",
+      "excerpt": "Tras seis años de silencio –desde que viera a luz “Hunted” (Domino, 20), el que sigue siendo último álbum de... La entrada Is This All There Is se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5dcbf8dac4ec4e2de56d1ff10aeb35d8ffb0c863",
+      "title": "WOR$T GIRL IN AMERICA",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/slayyyter-wort-girl-in-america/",
+      "published": "2026-03-27T16:32:33.000Z",
+      "publishedTs": 1774629153000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Slayyyter-WORsT-GIRL-IN-AMERICA.jpg",
+      "excerpt": "Pocos discos eran más esperados este año que \"WOR$T GIRL IN AMERICA\" de Slayyyter, y no porque su protagonista fuera... La entrada WOR$T GIRL IN AMERICA se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f11b82a5d10c50fe88613335669391ccde9158c2",
       "title": "A Pound of Feathers",
@@ -231,20 +259,6 @@
       "excerpt": "En tiempos convulsos como los actuales, la belleza, la de las cosas concretas y abstractas, la de los pensamientos y... La entrada Reseñamos &#039;Manual de belleza&#039;, el nuevo álbum de Rodrigo Cuevas se publicó primero en MondoSonoro ."
     },
     {
-      "id": "f189a9d8e886a1cfb413a964430e42825dc59646",
-      "title": "Future Quiet",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/moby-future-quiet/",
-      "published": "2026-03-23T10:54:48.000Z",
-      "publishedTs": 1774263288000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/moby-future-quiet.jpg",
-      "excerpt": "Revela Moby que este vigésimo tercer disco a su nombre es un trabajo contra la ansiedad: la que ha sufrido... La entrada Future Quiet se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
       "title": "Review: We take a look at Ableton Push 3",
       "link": "https://www.decodedmagazine.com/review-we-take-a-look-at-ableton-push-3/",
@@ -283,20 +297,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Guy-Gerber-Misirlou-Artwork.jpg?resize=810%2C810&ssl=1",
       "excerpt": "Guy Gerber returns with Misirlou, a striking new EP that marks a bold creative evolution in his musical journey. Blending surf-inspired guitar work, rockabilly undertones, and modern electronic production, the release finds Gerber expand…"
-    },
-    {
-      "id": "264d0961a9d6c33241b7f07f2806ad55cf662e60",
-      "title": "Trying Times",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/james-blake-trying-times/",
-      "published": "2026-03-23T08:15:23.000Z",
-      "publishedTs": 1774253723000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/James-Blake-Trying-Times-.jpg",
-      "excerpt": "El mundo se desmorona y nosotros nos enamoramos. Pero, sobre todo, el mundo se desmorona y nosotros con él. Este... La entrada Trying Times se publicó primero en MondoSonoro ."
     },
     {
       "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
@@ -583,6 +583,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2790436655_10.jpg",
       "excerpt": "RYCX01 by Ruben Ganev Expanding the scope of their main catalogue to bottle what they consider pure techno quality with its idiosyncrasies and inherent untamedness, RYCX will serve as Reclaim Your City platform of choice to embrace the m…"
+    },
+    {
+      "id": "5ab0cc1dff68210a5726185075bed1498a6af0c6",
+      "title": "SHERELLE wins Best Electronic/Dance Act at MOBOs 2026",
+      "link": "https://mixmag.net/read/sherelle-wins-best-electronic-dance-act-at-mobos-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHERELLE-1.png?width=660&fit=cover&s=DJzMbZmg6fP3E2pbVZY8jfskndRIbTjKKj8hGk8wpgU",
+      "excerpt": "The annual celebration of Black British music was held at Manchester&#039;s Co-op Live Arena last night Continue reading..."
     },
     {
       "id": "ce4037cd0c2c07f9c1b4297885eb19eee787eb1c",
@@ -1531,18 +1543,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/c115-berlin-new-club.jpg?width=660&fit=cover&s=WYO2FAdXdw-VlUHudm-_BqyB1Pb61ch2FgDkBCi31OI",
       "excerpt": "The venue, which is situated within Germany&#039;s oldest motorway, opens this month with a line-up featuring Ciel, Lena Willikens and more Continue reading..."
-    },
-    {
-      "id": "1a248e065f5f7f2e1578b8ad0574ffcc12e80fda",
-      "title": "Glasgow's TRNSMT changes set times to show Scotland World Cup 2026 fixture",
-      "link": "https://mixmag.net/read/glasgows-trnsmt-changes-set-times-to-show-scotland-world-cup-2026-fixture-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/TRNSMT.jpg?width=660&fit=cover&s=YpKydZpxdEEQBOGiVZCjLhV0Z51u5RWsVBNuYf0j2bQ",
-      "excerpt": "Festivalgoers will be able to watch Scotland play Morocco on the main stage on Friday, June 19 Continue reading..."
     }
   ]
 }
