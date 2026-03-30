@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T13:19:25.218Z",
+  "generatedAt": "2026-03-30T15:02:52.490Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "de67cd59dae801b2e4a6886225d21791d71c4cdc",
+      "title": "Reseñamos 'Creature of Habit', el nuevo álbum de Courtney Barnett",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/courtney-barnett-creature-of-habit/",
+      "published": "2026-03-30T14:33:27.000Z",
+      "publishedTs": 1774881207000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Courtney-Barnett-Creature-of-Habit.jpg",
+      "excerpt": "Para Courtney Barnett las cosas al principio fueron muy rápido. Quizás demasiado. Asimilar tanto –y aparentemente tan bueno– no era... La entrada Reseñamos &#039;Creature of Habit&#039;, el nuevo álbum de Courtney Barnett se publicó prim…"
+    },
     {
       "id": "958bc1af13372aa1868598fc5cd26941941c6056",
       "title": "error.func is back",
@@ -263,20 +277,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
       "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
-    },
-    {
-      "id": "6586b63b8a2de35d54ccbcd4c1725cdadcbc3a4c",
-      "title": "Garip",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/altin-gun-garip/",
-      "published": "2026-03-24T17:01:49.000Z",
-      "publishedTs": 1774371709000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Altin-Gun-garip.jpg",
-      "excerpt": "El lanzamiento de este nuevo álbum de los ascendentes Altin Gün viene con la expectativa de ver de qué manera... La entrada Garip se publicó primero en MondoSonoro ."
     },
     {
       "id": "2606354a4c55fe6c1aec84c8e35b76c2f91da2ab",
