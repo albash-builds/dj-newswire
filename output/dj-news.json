@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T15:02:52.490Z",
+  "generatedAt": "2026-03-30T16:56:02.648Z",
   "total": 110,
   "sources": [
     {
@@ -584,6 +584,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
       "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
+    },
+    {
+      "id": "c466deb9d60944a94dff159a671d3d8d7a4ec790",
+      "title": "New “boutique” nightclub Nocturna to launch in Ibiza this summer",
+      "link": "https://mixmag.net/read/new-boutique-nightclub-nocturna-to-launch-in-ibiza-this-summer-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-Ibiza.png?width=660&fit=cover&s=C_DjisWKgTyUQbdH0cAw2tzihUV0byiTt8agmQWbra4",
+      "excerpt": "The new venue will join numerous others on the White Isle in implementing a no-phones policy Continue reading..."
+    },
+    {
+      "id": "3b40ca924dd5d5d5da37de90af04a664b1830c9e",
+      "title": "Manchester Airport unveils Haçienda-themed Terminal 2 bar",
+      "link": "https://mixmag.net/read/hacienda-themed-bar-opens-in-manchester-airport-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hacienda-1.png?width=660&fit=cover&s=2a3C6lGnujG8z6Tx_ptAFsmkRhzk-Doz_PnE7PVlNoQ",
+      "excerpt": "The newly-renovated Amber Alehouse will host &quot;live DJ sets&quot; for travellers Continue reading..."
     },
     {
       "id": "96b8ca5bb8899d5b6b6c194103ba55c60e1784b2",
@@ -1520,30 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Dot-Rotten.jpg?width=660&fit=cover&s=AoKGyE_9vb9QdERx9416FvsllEgpZTQe30jHR6vPTNE",
       "excerpt": "Under his various aliases, Joseph Ellis-Stevenson is regarded as a pioneering figure within the grime and UK rap scenes Continue reading..."
-    },
-    {
-      "id": "3d602e3d70c9a3d2515803132da42fcf5a141ac3",
-      "title": "Andy C forced to cancel string of shows after being stranded in the UAE",
-      "link": "https://mixmag.net/read/andy-c-forced-to-cancel-string-of-shows-after-being-stranded-in-the-uae-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Andy-C.jpg?width=660&fit=cover&s=Ipp7sPPe_lgquWUH-NvvFk7F58k-VdXA89hnewQGnUk",
-      "excerpt": "The RAM Records co-founder postponed shows in London, Riga and Northampton as travel continues to be affected by conflict in the Middle East Continue reading..."
-    },
-    {
-      "id": "f1faccfb1633ed0c5cfc5dcfbfc45d48b10f6be8",
-      "title": "Lighting rig collapses on crowd during Max Dean set in Argentina, injuring 15",
-      "link": "https://mixmag.net/read/lighting-rig-collapses-crowd-during-max-dean-set-argentina-injuring-15-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/max-dean-archi-club.jpg?width=660&fit=cover&s=oftXMFvNh0PBJ2R7nivmk2-joBpw3hNkB5cn-2AlKb4",
-      "excerpt": "The incident at Buenos Aires’ Archi Club reportedly left two with traumatic brain injuries Continue reading..."
     }
   ]
 }
