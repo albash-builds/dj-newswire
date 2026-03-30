@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T07:27:31.995Z",
+  "generatedAt": "2026-03-30T09:12:13.321Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,59 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "958bc1af13372aa1868598fc5cd26941941c6056",
+      "title": "error.func is back",
+      "link": "https://www.decodedmagazine.com/error-func-is-back/",
+      "published": "2026-03-30T08:34:14.000Z",
+      "publishedTs": 1774859654000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Berlin",
+        "error.func",
+        "Lucidflow",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/error-funk.jpg",
+      "excerpt": "error.func &#8211; Our Desire [LF370] by error.func Our Desire delivers three absolutely raving tracks that feel instantly familiar yet freshly rewired. This is error.func in peak form: sharp ideas, fearless groove design, and that unmis…"
+    },
+    {
+      "id": "dcf3f9a2fc3c3844670c3791f01c80cbd5a612fc",
+      "title": "D-EDGE celebrates 26 years with landmark São Paulo and Rio parties",
+      "link": "https://www.decodedmagazine.com/d-edge-celebrates-26-years-with-landmark-sao-paulo-and-rio-parties/",
+      "published": "2026-03-30T08:04:38.000Z",
+      "publishedTs": 1774857878000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "South America",
+        "World",
+        "Brazil",
+        "D-Edge",
+        "House Music",
+        "Progressive House",
+        "Rio",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
+    },
+    {
+      "id": "ccacbf25263b0c27b2c73c10ca06402bf57935fc",
+      "title": "Yo lloré porque me dolía mucho",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/doblecapa-yo-llore/",
+      "published": "2026-03-30T07:38:52.000Z",
+      "publishedTs": 1774856332000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Doble-capa-Yo-llore.jpg",
+      "excerpt": "El dúo instrumental ha patentado una estética sonora propia en la que confluyen blues primario y espíritu punk. Una fórmula... La entrada Yo lloré porque me dolía mucho se publicó primero en MondoSonoro ."
+    },
     {
       "id": "22c46d102ae315ba1e28de980e5edd3ef1f69b97",
       "title": "Is This All There Is",
@@ -243,20 +296,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Sennheiser-Logo.wine_-scaled.png",
       "excerpt": "According to news reports from heise.de , Sennheiser&#8217;s entire consumer division is being put up for sale, and it is news that deserves attention from anyone working in the music industry. Some gear becomes standard not through mark…"
-    },
-    {
-      "id": "e299d571e63a9b27066429783b2bc7ddba61445b",
-      "title": "An Undying Love For A Burning World",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/neurosis-an-undying-love/",
-      "published": "2026-03-24T08:24:08.000Z",
-      "publishedTs": 1774340648000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Neurosis-An-Undying-Love.jpg",
-      "excerpt": "El regreso de Neurosis después de una década de silencio discográfico era necesario. Tras una crisis derivada en gran parte... La entrada An Undying Love For A Burning World se publicó primero en MondoSonoro ."
     },
     {
       "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
@@ -547,42 +586,16 @@
       "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
     },
     {
-      "id": "46c934a70ec25580296f8b9d83013297b44a3de1",
-      "title": "Melbourne’s The North Rave – Belfast Returns for Its 22nd Edition",
-      "link": "https://www.decodedmagazine.com/melbournes-the-north-rave-belfast-returns-for-its-22nd-edition/",
-      "published": "2026-03-18T03:18:45.000Z",
-      "publishedTs": 1773803925000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Events",
-        "CJ Bolland",
-        "Hardware",
-        "Melbourne",
-        "New Guernica",
-        "Techno",
-        "Thomas Schumacher"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/the-north-rave-belfast-22.png?resize=810%2C810&ssl=1",
-      "excerpt": "Belfast is back, and the city is ready to rave! Following their explosive appearances at Reminisce, The North Rave, Belfast returns for its 22nd edition, promising a night of pure techno! Headlining the mainroom is Richie Rich, spinning …"
-    },
-    {
-      "id": "4759f2e7b312531d1bf750ba9f3282bfb36042d5",
-      "title": "Reclaim Your City just released RYCX01 by Ruben Ganev",
-      "link": "https://www.decodedmagazine.com/reclaim-your-city-just-released-rycx01-by-ruben-ganev/",
-      "published": "2026-03-16T17:42:32.000Z",
-      "publishedTs": 1773682952000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Reclain Your City",
-        "Ruben Ganev",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/a2790436655_10.jpg",
-      "excerpt": "RYCX01 by Ruben Ganev Expanding the scope of their main catalogue to bottle what they consider pure techno quality with its idiosyncrasies and inherent untamedness, RYCX will serve as Reclaim Your City platform of choice to embrace the m…"
+      "id": "22c0875cbce19b92d8962bf4f6c022daa7e28935",
+      "title": "The Mix 099: HALFQUEEN",
+      "link": "https://mixmag.net/feature/the-mix-099-halfqueen",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_HQ2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=hVTnJlAKWQ_Ja32bmyWY-Tu46DqNxemB5l3FylM323w",
+      "excerpt": "HALFQUEEN channels the power of music into a rousing mix tailored to the present moment Continue reading..."
     },
     {
       "id": "8da16813d4662216d18eb33b9a4b50ebdb784b90",
@@ -1531,18 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/release-roundup-march-7.jpg?width=660&fit=cover&s=iZIEC0bQQj7sDxXGfoEG6QLu-TWdVzhBOIkaBIsUyIM",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "1226c375ff9517acfd8dbf2a1fd09b253ddd6914",
-      "title": "Illegal rave in Northamptonshire barn causes nearby houses to “shake”",
-      "link": "https://mixmag.net/read/illegal-rave-northamptonshire-barn-causes-nearby-houses-to-shake-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/barn-illegal-rave.jpg?width=660&fit=cover&s=Xgb7G1FxECbWvOLYudybWqiBuf6OsxlyZvHhq_XmLBM",
-      "excerpt": "The unlicensed event was reportedly shut down by police after 12 hours last weekend Continue reading..."
     }
   ]
 }
