@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-30T09:12:13.321Z",
-  "total": 110,
+  "generatedAt": "2026-03-30T11:01:51.243Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,47 +18,15 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+    }
+  ],
   "items": [
-    {
-      "id": "958bc1af13372aa1868598fc5cd26941941c6056",
-      "title": "error.func is back",
-      "link": "https://www.decodedmagazine.com/error-func-is-back/",
-      "published": "2026-03-30T08:34:14.000Z",
-      "publishedTs": 1774859654000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Berlin",
-        "error.func",
-        "Lucidflow",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/error-funk.jpg",
-      "excerpt": "error.func &#8211; Our Desire [LF370] by error.func Our Desire delivers three absolutely raving tracks that feel instantly familiar yet freshly rewired. This is error.func in peak form: sharp ideas, fearless groove design, and that unmis…"
-    },
-    {
-      "id": "dcf3f9a2fc3c3844670c3791f01c80cbd5a612fc",
-      "title": "D-EDGE celebrates 26 years with landmark São Paulo and Rio parties",
-      "link": "https://www.decodedmagazine.com/d-edge-celebrates-26-years-with-landmark-sao-paulo-and-rio-parties/",
-      "published": "2026-03-30T08:04:38.000Z",
-      "publishedTs": 1774857878000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "South America",
-        "World",
-        "Brazil",
-        "D-Edge",
-        "House Music",
-        "Progressive House",
-        "Rio",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
-    },
     {
       "id": "ccacbf25263b0c27b2c73c10ca06402bf57935fc",
       "title": "Yo lloré porque me dolía mucho",
@@ -130,45 +98,6 @@
       "excerpt": "El álbum debut de Fcukers sube rápido y te aguanta toda la noche. Shanny y Jackson entregan con \"Ö\" un... La entrada Ö se publicó primero en MondoSonoro ."
     },
     {
-      "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
-      "title": "Token Records just announced Fuga VII by Various Artists",
-      "link": "https://www.decodedmagazine.com/token-records-just-announced-fuga-vii-by-various-artists/",
-      "published": "2026-03-27T06:51:24.000Z",
-      "publishedTs": 1774594284000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Belgium",
-        "Deep techno",
-        "Fuga",
-        "Techno",
-        "Token Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Funga-VII.jpg",
-      "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
-    },
-    {
-      "id": "82b0c9fbb840d5d1e838fc705a44aa426f65559d",
-      "title": "Five on Friday with Ilya Santana",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-ilya-santana/",
-      "published": "2026-03-27T06:35:07.000Z",
-      "publishedTs": 1774593307000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "acid",
-        "Disco",
-        "Electro",
-        "Funk",
-        "House",
-        "tech"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
-    },
-    {
       "id": "ce6e6aa6c8865826af61fb7a38195e26cbfa2630",
       "title": "Possessor",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/traitrs-possessor/",
@@ -225,46 +154,6 @@
       "excerpt": "Las guitarras de Ginebras nunca habían sonado mejor, tampoco tan diferentes. Acostumbrados a himnos instantáneos donde todos cabemos, desde niños... La entrada Donde nada es para tanto se publicó primero en MondoSonoro ."
     },
     {
-      "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
-      "title": "Jungle announce new album",
-      "link": "https://www.decodedmagazine.com/jungle-announce-new-album/",
-      "published": "2026-03-25T04:27:59.000Z",
-      "publishedTs": 1774412879000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "breaks",
-        "Disco",
-        "Funk",
-        "House Music",
-        "Jungle",
-        "Soul",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Jungle-e1774412844633.jpg",
-      "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
-    },
-    {
-      "id": "bcac086ed05c87b166709e51b130bf41efd52575",
-      "title": "Irvine Welsh Brings Trainspotting to the West End",
-      "link": "https://www.decodedmagazine.com/irvine-welsh-brings-trainspotting-to-the-west-end/",
-      "published": "2026-03-25T04:09:22.000Z",
-      "publishedTs": 1774411762000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "London",
-        "Musical",
-        "Steve Mac",
-        "Trainspotting",
-        "West End"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
-      "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
-    },
-    {
       "id": "6586b63b8a2de35d54ccbcd4c1725cdadcbc3a4c",
       "title": "Garip",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/altin-gun-garip/",
@@ -279,311 +168,16 @@
       "excerpt": "El lanzamiento de este nuevo álbum de los ascendentes Altin Gün viene con la expectativa de ver de qué manera... La entrada Garip se publicó primero en MondoSonoro ."
     },
     {
-      "id": "2606354a4c55fe6c1aec84c8e35b76c2f91da2ab",
-      "title": "Sennheiser’s Headphone Division Is Seeking a New Owner. The Industry Should Hope It Finds the Right One.",
-      "link": "https://www.decodedmagazine.com/sennheisers-headphone-division-is-seeking-a-new-owner-the-industry-should-hope-it-finds-the-right-one/",
-      "published": "2026-03-24T14:17:25.000Z",
-      "publishedTs": 1774361845000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "HD25s",
-        "Headphones",
-        "music production",
-        "Music tech",
-        "Sennheiser"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Sennheiser-Logo.wine_-scaled.png",
-      "excerpt": "According to news reports from heise.de , Sennheiser&#8217;s entire consumer division is being put up for sale, and it is news that deserves attention from anyone working in the music industry. Some gear becomes standard not through mark…"
-    },
-    {
-      "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
-      "title": "Review: We take a look at Ableton Push 3",
-      "link": "https://www.decodedmagazine.com/review-we-take-a-look-at-ableton-push-3/",
-      "published": "2026-03-23T10:23:31.000Z",
-      "publishedTs": 1774261411000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "Ableton Push",
-        "Controller",
-        "MIDI",
-        "music production",
-        "Review",
-        "Studio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/94c336855eb57f1b3de6e8507926c1d0b8c0ad1c-1000x1000-1.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "There’s a particular kind of moment that tends to arrive when you introduce a new piece of hardware into a long-established workflow. It’s not the unboxing, and it’s not the first hour of exploration. It’s the quieter point that follows,…"
-    },
-    {
-      "id": "1f8a5ce252ba1e0a02a9c57d263d8957085c6613",
-      "title": "Guy Gerber releases Misirlou EP",
-      "link": "https://www.decodedmagazine.com/guy-gerber-releases-misirlou-ep/",
-      "published": "2026-03-23T09:42:30.000Z",
-      "publishedTs": 1774258950000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "Electronica",
-        "Guy gerber",
-        "Indie Electronica",
-        "Rumors"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Guy-Gerber-Misirlou-Artwork.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "Guy Gerber returns with Misirlou, a striking new EP that marks a bold creative evolution in his musical journey. Blending surf-inspired guitar work, rockabilly undertones, and modern electronic production, the release finds Gerber expand…"
-    },
-    {
-      "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
-      "title": "Bluetooth, USB-C, and a Cassette Deck: Maxell’s New Player Is Quietly Brilliant",
-      "link": "https://www.decodedmagazine.com/bluetooth-usb-c-and-a-cassette-deck-maxells-new-player-is-quietly-brilliant/",
-      "published": "2026-03-21T13:03:36.000Z",
-      "publishedTs": 1774098216000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Cassette Tape",
-        "Consumer Tech",
-        "Maxwell Byrne",
-        "Old school",
-        "Threads"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/61qCah6TEaL._AC_SL1500_-scaled.jpg",
-      "excerpt": "If you grew up rewinding tapes with a pencil to save the batteries, there&#8217;s a decent chance you stopped mid-scroll this week when Maxell quietly posted on Threads to announce they&#8217;d made a new cassette player. Not a limited-r…"
-    },
-    {
-      "id": "8230b8c867f6fb54957044ca2329586f7cabe3ef",
-      "title": "Guy Gerber added to Gallery Club’s 1st Birthday series with Sven Väth and Laolu",
-      "link": "https://www.decodedmagazine.com/guy-gerber-added-to-gallery-clubs-1st-birthday-series-with-sven-vath-and-laolu/",
-      "published": "2026-03-20T06:01:13.000Z",
-      "publishedTs": 1773986473000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Guy gerber",
-        "House Music",
-        "Laolu",
-        "Progressive House",
-        "Sven Vath",
-        "Techno",
-        "West London"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/37-HighRes.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "The already essential West London venue Gallery Club London has added melodic and progressive favourite Guy Gerber to a standout series of special first birthday events alongside techno legend Sven Väth and classy house operator Laolu. M…"
-    },
-    {
-      "id": "6b379853d8e776bbb0447a47617c4c2e0116c2a4",
-      "title": "Five on Friday with 33rd December",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-33rd-december/",
-      "published": "2026-03-20T05:13:13.000Z",
-      "publishedTs": 1773983593000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "33rd December",
-        "acid",
-        "Electro",
-        "House",
-        "Laurent Ganier"
-      ],
-      "image": "https://media.hardwax.com/audio/87470_B1.mp3",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of 33rd December, the South London duo of Matt and Miles who between them represent a serious slice of the city&#8217;s underground. Matt co-owns and runs HENGE in Brixton, holding down a r…"
-    },
-    {
-      "id": "d07a9192e34d9fef675025ae2ea4c0d0ad3303b2",
-      "title": "Native Instruments Update: A Buyout, Not a Collapse",
-      "link": "https://www.decodedmagazine.com/native-instruments-update-a-buyout-not-a-collapse/",
-      "published": "2026-03-19T15:47:33.000Z",
-      "publishedTs": 1773935253000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "iZotope",
-        "KONTAKT",
-        "Maschine",
-        "Massive",
-        "music production",
-        "Native Instruments",
-        "Nick Williams",
-        "Traktor"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
-      "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
-    },
-    {
-      "id": "db6311dcca293b46db3a93d8ce7c732a2eb36999",
-      "title": "Junction 2 Completes 10th Anniversary Lineup For J2 X",
-      "link": "https://www.decodedmagazine.com/junction-2-completes-10th-anniversary-lineup-for-j2-x/",
-      "published": "2026-03-19T13:12:04.000Z",
-      "publishedTs": 1773925924000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Anna Wall",
-        "Boston Manor",
-        "DJ Hell",
-        "Drumcode",
-        "Franky Wah",
-        "Hard Techno",
-        "House Music",
-        "I hate models",
-        "Jeff Mills",
-        "Junction 2"
-      ],
-      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.1.1&permmsgid=msg-f:1860094598579577376&th=19d0622ea4f56220&view=fimg&fur=ip&permmsgid=msg-f:1860094598579577376&sz=s0-l75-ft&attbid=ANGjdJ9b_yBq5deHSlSW86FQJviwJgdBr9Z1rwNu4fQm8P5nx4e_exuuKRKWaCEe-Zg240sd-nBXMBRwHnVDg1gX19BGDVEdGSBjoi_HqgJxuMloSyZSqPU6Yges-n4&disp=emb&zw",
-      "excerpt": "Junction 2 has unveiled the final lineup for its 10th anniversary edition. J2 X returns to Boston Manor Park across two weekends this summer &#8211; 25-26th July and 2nd August. The full lineup lands alongside a more refined, two-stage f…"
-    },
-    {
-      "id": "af618491aba121b66b48438a19649d3b2c8c93af",
-      "title": "Is this the coolest club scene mash up ever produced? Check it out",
-      "link": "https://www.decodedmagazine.com/is-this-the-coolest-club-scene-mash-up-ever-produced/",
-      "published": "2026-03-19T10:00:40.000Z",
-      "publishedTs": 1773914440000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Al Pacino",
-        "Bee Gees",
-        "Clubbing",
-        "Darth Vader",
-        "Funny",
-        "John Travolta",
-        "lifestyle",
-        "Mash Up",
-        "Michael Jackson",
-        "Movies",
-        "Nightlcubs"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2015/09/Saturday-Night-Fever-DI-1.jpg",
-      "excerpt": "We have all seen movie mash ups, dubbing and montages, but this would have to be one of the greatest we have ever seen. Film editor ANTONIO MARIA DA SILVA has taken every major club scene from the last 30 years to create a star studded s…"
-    },
-    {
-      "id": "195651f5a4ed9082d56f2ee2818277a7b64a4efc",
-      "title": "Throwback Thursday: The Cassette Tapes That Became a Culture — Mark Farina’s Mushroom Jazz",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-cassette-tapes-that-became-a-culture-mark-farinas-mushroom-jazz/",
-      "published": "2026-03-19T08:20:01.000Z",
-      "publishedTs": 1773908401000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "chill out",
-        "downtempo",
-        "Electronica",
-        "House Music",
-        "Jazz",
-        "Mark Farina",
-        "Mixtapes",
-        "Mushroom Jazz",
-        "Om Records",
-        "San Fransisco"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Mark-farina-scaled-e1773907982538.jpg",
-      "excerpt": "There are mixes that do not simply play in the background. They shift something in the way you hear everything else. The Mushroom Jazz series by Mark Farina is that kind of work. Eight official commercial volumes, released between 1996 a…"
-    },
-    {
-      "id": "005f15ddd9dc88903bea27b57ff94d012356099a",
-      "title": "The Japanese Bar Format That Found a Second Home in Australia",
-      "link": "https://www.decodedmagazine.com/the-japanese-bar-format-that-found-a-second-home-in-australia/",
-      "published": "2026-03-19T05:31:51.000Z",
-      "publishedTs": 1773898311000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Food",
-        "Lifestyle",
-        "Adelaide",
-        "bars",
-        "Brisbane",
-        "Dining",
-        "Electronica",
-        "House Music",
-        "Japan",
-        "lifestyle"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
-      "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
-    },
-    {
-      "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
-      "title": "The UK Draws a Line: What the House of Lords AI and Copyright Report Means for Creators",
-      "link": "https://www.decodedmagazine.com/the-uk-draws-a-line-what-the-house-of-lords-ai-and-copyright-report-means-for-creators/",
-      "published": "2026-03-18T05:24:13.000Z",
-      "publishedTs": 1773811453000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "AI",
-        "artists",
-        "Copyright",
-        "Creative industries",
-        "House of Lords",
-        "Music Industry",
-        "Musicians",
-        "Photographers",
-        "publishers",
-        "UK"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/westminster-parliament-river-1504x846px.jpg",
-      "excerpt": "Governments around the world are quietly wrestling with one of the most consequential policy questions of the decade: how do you protect the rights of the people who make things, while simultaneously not strangling the development of AI …"
-    },
-    {
-      "id": "42796322c7c0f32cb7ad162b0d69ac6682bf0530",
-      "title": "DJ Bone Announces B2B Tour With Emerging Talent, Zack Fox",
-      "link": "https://www.decodedmagazine.com/dj-bone-announces-b2b-tour-with-emerging-talent-zack-fox/",
-      "published": "2026-03-18T05:11:49.000Z",
-      "publishedTs": 1773810709000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Amsterdam",
-        "Antwerp",
-        "Detroit",
-        "DJ Bone",
-        "Haarlem",
-        "House Music",
-        "Manchester",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/djbone-scaled.webp",
-      "excerpt": "Detroit techno pioneer DJ Bone is joining forces with DJ, multidisciplinary artist, comedian and UWAY promoter Zack Fox for a tour that kicks off at DJ Bone Presents: FURTHER x Homeless Homies x Paxahau initiative at Movement 2026 in May…"
-    },
-    {
-      "id": "6af4819262023b79a1bae6daea66b40036a435a2",
-      "title": "All Day I Dream Announces 10th Annual Summer Tour Stop At Golden Gate Park in San Francisco",
-      "link": "https://www.decodedmagazine.com/all-day-i-dream-announces-10th-annual-summer-tour-stop-at-golden-gate-park-in-san-francisco/",
-      "published": "2026-03-18T03:48:17.000Z",
-      "publishedTs": 1773805697000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "deep house",
-        "Lee Burridge",
-        "Progressive House",
-        "San Francisco"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
-      "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
+      "id": "92ca4d94fc748aa3d651f6a40d3d4a1d3fd1e107",
+      "title": "750 people evacuated after blaze rips through German nightclub",
+      "link": "https://mixmag.net/read/750-people-evacuated-german-nightclub-k-club-blaze-rips-through-venue-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/k-club-fire.jpg?width=660&fit=cover&s=--JW6Nsl76qKYVLHoe1ZnFjzayYEZjR-9x2MyPsO4kw",
+      "excerpt": "The fire broke out at K Club in Kehl, close to the border of France, on Saturday night Continue reading..."
     },
     {
       "id": "22c0875cbce19b92d8962bf4f6c022daa7e28935",
@@ -1532,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/green-man-credit-Patrick-Gunning.jpg?width=660&fit=cover&s=gEHw2iqAScfH8ceYHg3oYEn4b93A45cFGtmmbFVf5kY",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "7b25c4e92effe2e86bdee5953d60a04901981bd6",
-      "title": "New music on our radar this week: Loraine James, Loukeman, Max Cooper",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-skyla-tylaa-octo-octa-max-cooper-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/release-roundup-march-7.jpg?width=660&fit=cover&s=iZIEC0bQQj7sDxXGfoEG6QLu-TWdVzhBOIkaBIsUyIM",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
