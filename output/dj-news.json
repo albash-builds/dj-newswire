@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T16:56:02.648Z",
+  "generatedAt": "2026-03-30T17:54:48.126Z",
   "total": 110,
   "sources": [
     {
@@ -584,6 +584,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
       "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
+    },
+    {
+      "id": "2ffcf1af695e780a16371a521b4947afbee7983c",
+      "title": "Superstar DJ, here we go: Marlon Hoffstadt is locking in",
+      "link": "https://mixmag.net/feature/marlon-hoffstadt-dj-daddy-trance-cover-feature-interview-berlin",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__MH_WEB_3_2026-03-30-165108_wttw.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gdTYNZKehYmwhDNSndnmMJBEPw8PChJkxtslwCT8U_c",
+      "excerpt": "Born and raised in Berlin, Marlon Hoffstadt fell for the city’s underground club culture as a teen — though it never loved him back. Now a global dance phenomenon, the journey hasn’t been a smooth one. Recently sober, signed to a major, …"
+    },
+    {
+      "id": "8b9186bcfc4d47453e6abe4c8e52d7163606dbab",
+      "title": "The Cover Mix: Marlon Hoffstadt AKA DJ Daddy Trance",
+      "link": "https://mixmag.net/feature/marlon-hoffstadt-dj-daddy-trance-cover-mix",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MH_WEB2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=AP184gK1OkZQydYHqEAmPnQPv7A8o5vVsTNazxhY_fE",
+      "excerpt": "Marlon Hoffstadt showcases the building blocks of his DJ Daddy Trance alias with a mix of old school trance Continue reading..."
     },
     {
       "id": "c466deb9d60944a94dff159a671d3d8d7a4ec790",
@@ -1520,30 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/justice-macron.jpg?width=660&fit=cover&s=qPU3nRUCSdC_qiQ62lmfwpH9N5tcpFvjGBNdyroOrqU",
       "excerpt": "Instagram users have flooded the comments of a post from the French Presidency, questioning the unusual track choice Continue reading..."
-    },
-    {
-      "id": "16415c198651b5c70e12a8f21e8c86cb2f933163",
-      "title": "Apple Music to inform listeners if music on platform is AI-generated",
-      "link": "https://mixmag.net/read/apple-music-ai-meta-data-information-listeners-music-generated-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Apple-Music_2026-03-09-123500_hopq.jpg?width=660&fit=cover&s=_BND2Yl1BzVTYQazExdI1ip6QwNc9aku65EuQptk0m8",
-      "excerpt": "The new metadata information will only be available if labels declare use of the tech Continue reading..."
-    },
-    {
-      "id": "15a7c8931f56f33fa1eaa6bf14b58fc8e8969100",
-      "title": "Grime MC and producer Dot Rotten has died aged 37",
-      "link": "https://mixmag.net/read/uk-rap-mc-producer-dot-rotten-has-died-aged-37-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Dot-Rotten.jpg?width=660&fit=cover&s=AoKGyE_9vb9QdERx9416FvsllEgpZTQe30jHR6vPTNE",
-      "excerpt": "Under his various aliases, Joseph Ellis-Stevenson is regarded as a pioneering figure within the grime and UK rap scenes Continue reading..."
     }
   ]
 }
