@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T19:58:24.001Z",
+  "generatedAt": "2026-03-30T20:55:34.569Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "289f2c1b5181b1abbe13b94339020bc219af07bd",
+      "title": "Løse",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lose-disco/",
+      "published": "2026-03-30T19:58:42.000Z",
+      "publishedTs": 1774900722000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/lose_portada.jpg",
+      "excerpt": "Como expresión artística, la música cuenta con un rasgo casi consustancial, inédito en otras disciplinas o al menos presente en... La entrada Løse se publicó primero en MondoSonoro ."
+    },
     {
       "id": "de67cd59dae801b2e4a6886225d21791d71c4cdc",
       "title": "Reseñamos 'Creature of Habit', el nuevo álbum de Courtney Barnett",
@@ -223,20 +237,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mclusky-I-sure-am-getting-sick-of-this-bowling-alley.jpg",
       "excerpt": "La vuelta de Mclusky supone una gran bofetada de realidad en la era en la que la IA parece acabar... La entrada I sure am getting sick of this bowling alley se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3fb5c9b94525a9bd96fc983a85736d2a6be8cd0e",
-      "title": "Donde nada es para tanto",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ginebras-donde-nada-es-para-tanto/",
-      "published": "2026-03-26T07:09:05.000Z",
-      "publishedTs": 1774508945000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Ginebras-Donde-nada-es-para-tanto.jpg",
-      "excerpt": "Las guitarras de Ginebras nunca habían sonado mejor, tampoco tan diferentes. Acostumbrados a himnos instantáneos donde todos cabemos, desde niños... La entrada Donde nada es para tanto se publicó primero en MondoSonoro ."
     },
     {
       "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
