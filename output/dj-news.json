@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T07:13:58.034Z",
+  "generatedAt": "2026-03-31T08:59:39.390Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "52536d02fea93362bfa714cb6f96103afb8c0a3a",
+      "title": "New Exhibition featuring Charli XCX, Wiz Khalifa, Keinemusik, and more at In-between Ibiza",
+      "link": "https://www.decodedmagazine.com/new-exhibition-featuring-charli-xcx-wiz-khalifa-keinemusik-and-more-at-in-between-ibiza/",
+      "published": "2026-03-31T07:53:20.000Z",
+      "publishedTs": 1774943600000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "Ibiza",
+        "Lifestyle",
+        "Fisher",
+        "Keinemusik",
+        "Peggy Gou",
+        "Photograpghy",
+        "Skepta",
+        "Skrillex",
+        "Ushuaïa"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/%40CAPTURECHARLES-A-SHOT-IN-THE-DARK-%40INBETWEENIBIZA-PIKES-IBIZA-DANCEFLOOR-.jpg?resize=810%2C964&ssl=1",
+      "excerpt": "I n-between Ibiza unveils A Shot in the Dark, a solo photography exhibition A Shot In The Dark by globally-renowned Australian photographer capturecharles, running from 17 April to 8 May, 2026. Housed within In-between Ibiza’s gallery in…"
+    },
     {
       "id": "c10638bdb5d7d5725e675978022c1fb57947b2f6",
       "title": "Danny Howells: Still Digging Deeper After Three Decades",
@@ -568,29 +591,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/westminster-parliament-river-1504x846px.jpg",
       "excerpt": "Governments around the world are quietly wrestling with one of the most consequential policy questions of the decade: how do you protect the rights of the people who make things, while simultaneously not strangling the development of AI …"
-    },
-    {
-      "id": "42796322c7c0f32cb7ad162b0d69ac6682bf0530",
-      "title": "DJ Bone Announces B2B Tour With Emerging Talent, Zack Fox",
-      "link": "https://www.decodedmagazine.com/dj-bone-announces-b2b-tour-with-emerging-talent-zack-fox/",
-      "published": "2026-03-18T05:11:49.000Z",
-      "publishedTs": 1773810709000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Amsterdam",
-        "Antwerp",
-        "Detroit",
-        "DJ Bone",
-        "Haarlem",
-        "House Music",
-        "Manchester",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/djbone-scaled.webp",
-      "excerpt": "Detroit techno pioneer DJ Bone is joining forces with DJ, multidisciplinary artist, comedian and UWAY promoter Zack Fox for a tour that kicks off at DJ Bone Presents: FURTHER x Homeless Homies x Paxahau initiative at Movement 2026 in May…"
     },
     {
       "id": "2ffcf1af695e780a16371a521b4947afbee7983c",
