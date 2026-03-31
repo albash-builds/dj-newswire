@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T10:12:19.862Z",
+  "generatedAt": "2026-03-31T11:50:11.981Z",
   "total": 110,
   "sources": [
     {
@@ -588,6 +588,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
       "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
+    },
+    {
+      "id": "e601467d6ccc4516afadde34cd1dbb6fc63588ec",
+      "title": "Beloved West Coast house producer DJ Dan has died aged 57",
+      "link": "https://mixmag.net/read/beloved-west-coast-house-producer-dj-dan-died-aged-57-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DJDAN_1.png?width=660&fit=cover&s=PxK-JawOUqeH6P7R_TwiMRA9tjt-ey3ADidYLiuxlF8",
+      "excerpt": "The trailblazing artist regularly worked alongside Frankie Knuckles, Carl Cox and more Continue reading..."
     },
     {
       "id": "2ffcf1af695e780a16371a521b4947afbee7983c",
@@ -1536,18 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones-flight.jpg?width=660&fit=cover&s=m6hw2IXa3r1Vo2ZC6xWvt-L2MWkFiTuafp14R7EWgMU",
       "excerpt": "Flyers listening to music out loud could face a permanent ban or removal from their aircrafts Continue reading..."
-    },
-    {
-      "id": "cb9e508de3e90630a92f33e2a61990d4e7adf9b9",
-      "title": "French President Emmanuel Macron promotes nuclear arsenal with Justice's 'Genesis'",
-      "link": "https://mixmag.net/read/french-president-promotes-nuclear-arsenal-with-justices-genesis-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/justice-macron.jpg?width=660&fit=cover&s=qPU3nRUCSdC_qiQ62lmfwpH9N5tcpFvjGBNdyroOrqU",
-      "excerpt": "Instagram users have flooded the comments of a post from the French Presidency, questioning the unusual track choice Continue reading..."
     }
   ]
 }
