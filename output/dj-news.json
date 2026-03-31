@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T08:59:39.390Z",
+  "generatedAt": "2026-03-31T10:12:19.862Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "90126026d588c229fa09d879a05a8c05339e25cf",
+      "title": "We Roadtest the New RMX-IGNITE from Alpha Theta",
+      "link": "https://www.decodedmagazine.com/we-roadtest-the-new-rmx-ignite-from-alpha-theta/",
+      "published": "2026-03-31T09:50:22.000Z",
+      "publishedTs": 1774950622000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Alpha Theta",
+        "Elite Force",
+        "RMX",
+        "RMX-IGNITE",
+        "sampler",
+        "Simon Shackleton",
+        "Tech Review"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/rmx-ignite_5.webp?resize=810%2C810&ssl=1",
+      "excerpt": "The RMX-IGNITE is AlphaTheta’s latest evolution of the RMX concept, a standalone effects and performance sampler designed to sit alongside modern DJ and hybrid setups. It is impeccably built, clearly laid out, and unmistakably aimed at D…"
+    },
     {
       "id": "52536d02fea93362bfa714cb6f96103afb8c0a3a",
       "title": "New Exhibition featuring Charli XCX, Wiz Khalifa, Keinemusik, and more at In-between Ibiza",
@@ -566,31 +588,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
       "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
-    },
-    {
-      "id": "a575c27710817d34e8812388e51bdcfaa8ae61ef",
-      "title": "The UK Draws a Line: What the House of Lords AI and Copyright Report Means for Creators",
-      "link": "https://www.decodedmagazine.com/the-uk-draws-a-line-what-the-house-of-lords-ai-and-copyright-report-means-for-creators/",
-      "published": "2026-03-18T05:24:13.000Z",
-      "publishedTs": 1773811453000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "AI",
-        "artists",
-        "Copyright",
-        "Creative industries",
-        "House of Lords",
-        "Music Industry",
-        "Musicians",
-        "Photographers",
-        "publishers",
-        "UK"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/westminster-parliament-river-1504x846px.jpg",
-      "excerpt": "Governments around the world are quietly wrestling with one of the most consequential policy questions of the decade: how do you protect the rights of the people who make things, while simultaneously not strangling the development of AI …"
     },
     {
       "id": "2ffcf1af695e780a16371a521b4947afbee7983c",
