@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T15:02:35.046Z",
+  "generatedAt": "2026-03-31T16:57:13.959Z",
   "total": 110,
   "sources": [
     {
@@ -590,6 +590,18 @@
       "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
     },
     {
+      "id": "e8df76357f20637c2d817cc2b108bf38bd58c35a",
+      "title": "Police forcibly close Milan venue DKR citing noise disturbance",
+      "link": "https://mixmag.net/read/police-forcibly-close-milan-venue-dkr-citing-noise-disturbance-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dkr-milan-club.jpg?width=660&fit=cover&s=J8SduOcDCuLmLsd-gOxKxNhq38kBOLOa6339s5a5MH8",
+      "excerpt": "Demonstrations are set to go ahead in response to the event space’s abrupt closure Continue reading..."
+    },
+    {
       "id": "c28f525af907e386e44efb0d2f75a64f2db3a382",
       "title": "Kanye West to perform first UK shows in 11 years with three dates at Wireless Festival",
       "link": "https://mixmag.net/read/kanye-west-to-perform-three-dates-wireless-festival-first-uk-show-in-11-years-news",
@@ -600,6 +612,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanye-pic.png?width=660&fit=cover&s=lC0OzGQQsWsXREvpVxmPAni_gL6Ux7_0SP4ItpYH_is",
       "excerpt": "The US rapper, now known as Ye, has not performed in the UK since his Glastonbury headline set in 2015 Continue reading..."
+    },
+    {
+      "id": "279439291b60ff6fd8be2142a72de909dd60d173",
+      "title": "Here's the full tracklist from Fred again.. b2b Thomas Bangalter at Ally Pally",
+      "link": "https://mixmag.net/feature/this-is-the-full-tracklist-from-fred-again-and-thomas-bangalters-b2b-at-alexandra-palace",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-fred-again.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=Gpxt5aKi4azVgjXyaCs-p2yrsWyFZzArquZ7qdR7pGI",
+      "excerpt": "History was made last month as the Daft Punk legend joined Fred again.. for his first set on British soil in nearly 19 years. Here is every track the pair played during their performance on the last leg of the USB002 tour at London&#039;…"
     },
     {
       "id": "1d691a5f3ed29e6a41981a2846de4c0fe372023e",
@@ -1524,30 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/David-Bowie_2026-03-10-103851_zrfs.jpg?width=660&fit=cover&s=lTzdaSibc8qAey313pQxNZkHKrbOy6-KK-Z7Omw-4B0",
       "excerpt": "Marking 10 years since the Starman&#039;s death, the concert will reportedly feature some of the “world’s greatest young artists” Continue reading..."
-    },
-    {
-      "id": "439c9934679cdd215917cacae432b44f15cd51b0",
-      "title": "London’s first-ever drug checking services to open in Hackney and Camden",
-      "link": "https://mixmag.net/read/londons-first-ever-drug-checking-services-to-open-in-hackney-and-camden-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pills-the-loop-london.jpg?width=660&fit=cover&s=xOxtdyTq4QMRzulDioFQwG0ArNmtv3Xhor5rNpW32kg",
-      "excerpt": "The Loop promises to provide health advice, “rapid” substance analysis and information on local drug market trends Continue reading..."
-    },
-    {
-      "id": "f084293f98c979c6f54a51451f741b7756cde502",
-      "title": "HOUSE AGAINST HATE protest rave against the far-right to be held in Trafalgar Square",
-      "link": "https://mixmag.net/read/house-against-hate-protest-rave-far-right-trafalgar-square-r3-soundsystem-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/House-Against-Hate-Credit-Jack-Farrar.JPG?width=660&fit=cover&s=kODDz05uKkrgPAJ-AbfkAP2BzY9HZb5fuvVUiPhCpaw",
-      "excerpt": "A stacked line-up of electronic musicians will perform during the demonstration in Central London Continue reading..."
     }
   ]
 }
