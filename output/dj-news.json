@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T05:08:43.164Z",
+  "generatedAt": "2026-03-31T07:13:58.034Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c10638bdb5d7d5725e675978022c1fb57947b2f6",
+      "title": "Danny Howells: Still Digging Deeper After Three Decades",
+      "link": "https://www.decodedmagazine.com/danny-howells-still-digging-deeper-after-three-decades/",
+      "published": "2026-03-31T05:52:37.000Z",
+      "publishedTs": 1774936357000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Interviews",
+        "AI",
+        "Anthony Pappa",
+        "Danny Howells",
+        "Global Underground",
+        "House Music",
+        "John Digweed",
+        "Nubreed",
+        "Progressive House",
+        "Sasha"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Danny-Howells-1.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There are DJs who arrive on a wave of industry hype and algorithmic favour, and then there are those who build a career through years of patient, purposeful craft. Danny Howells belongs to the second category. Born in Hastings in 1970, H…"
+    },
     {
       "id": "289f2c1b5181b1abbe13b94339020bc219af07bd",
       "title": "Løse",
@@ -566,24 +591,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/djbone-scaled.webp",
       "excerpt": "Detroit techno pioneer DJ Bone is joining forces with DJ, multidisciplinary artist, comedian and UWAY promoter Zack Fox for a tour that kicks off at DJ Bone Presents: FURTHER x Homeless Homies x Paxahau initiative at Movement 2026 in May…"
-    },
-    {
-      "id": "6af4819262023b79a1bae6daea66b40036a435a2",
-      "title": "All Day I Dream Announces 10th Annual Summer Tour Stop At Golden Gate Park in San Francisco",
-      "link": "https://www.decodedmagazine.com/all-day-i-dream-announces-10th-annual-summer-tour-stop-at-golden-gate-park-in-san-francisco/",
-      "published": "2026-03-18T03:48:17.000Z",
-      "publishedTs": 1773805697000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "deep house",
-        "Lee Burridge",
-        "Progressive House",
-        "San Francisco"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/all-day-I-dream-san-fransisco.png?resize=768%2C1024&ssl=1",
-      "excerpt": "All Day I Dream has announced their upcoming stop at Golden Gate Park in San Francisco, CA on June 6 as part of the beloved event series’ Summer tour. Celebrating ten years of free-spirited open-air dancing, creating lasting memories and…"
     },
     {
       "id": "2ffcf1af695e780a16371a521b4947afbee7983c",
