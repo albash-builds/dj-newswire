@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T13:18:14.181Z",
+  "generatedAt": "2026-03-31T15:02:35.046Z",
   "total": 110,
   "sources": [
     {
@@ -588,6 +588,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/p88-89_disk-stort.jpeg?resize=810%2C536&ssl=1",
       "excerpt": "There is a moment, familiar to anyone who has spent time in a proper listening bar, when the music stops being background and starts being the point. The conversation dips. Someone at the bar leans forward. A needle finds a groove, and t…"
+    },
+    {
+      "id": "c28f525af907e386e44efb0d2f75a64f2db3a382",
+      "title": "Kanye West to perform first UK shows in 11 years with three dates at Wireless Festival",
+      "link": "https://mixmag.net/read/kanye-west-to-perform-three-dates-wireless-festival-first-uk-show-in-11-years-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanye-pic.png?width=660&fit=cover&s=lC0OzGQQsWsXREvpVxmPAni_gL6Ux7_0SP4ItpYH_is",
+      "excerpt": "The US rapper, now known as Ye, has not performed in the UK since his Glastonbury headline set in 2015 Continue reading..."
     },
     {
       "id": "1d691a5f3ed29e6a41981a2846de4c0fe372023e",
@@ -1536,18 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/House-Against-Hate-Credit-Jack-Farrar.JPG?width=660&fit=cover&s=kODDz05uKkrgPAJ-AbfkAP2BzY9HZb5fuvVUiPhCpaw",
       "excerpt": "A stacked line-up of electronic musicians will perform during the demonstration in Central London Continue reading..."
-    },
-    {
-      "id": "ff65b30bc41d399570444b6cacbd4ef3c69061b3",
-      "title": "Sama’ Abdulhadi says Australian visa was not approved ahead of performances",
-      "link": "https://mixmag.net/read/sama-abdulhadi-says-australian-visa-not-approved-ahead-performances-womadelaide-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sama-abdulhadi-press.jpg?width=660&fit=cover&s=ApeAY7aoDmDJcFurDmU0nhqxi5ctXwtEgEtMTEXgNHI",
-      "excerpt": "Sama’ was unable to appear at WOMADelaide, who stood by the Palestinian DJ after a pro-Israel campaign group previously called for her removal from the line-up Continue reading..."
     }
   ]
 }
