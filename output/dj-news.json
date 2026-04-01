@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T10:56:07.424Z",
+  "generatedAt": "2026-04-01T11:53:52.756Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "38f6932a71ed4d1ad50edc810525d0d1890ec176",
+      "title": "Genki Instruments announces availability of Katla as Voice Rotating Polyphonic Synthesizer",
+      "link": "https://www.decodedmagazine.com/genki-instruments-announces-availability-of-katla-as-voice-rotating-polyphonic-synthesizer/",
+      "published": "2026-04-01T11:07:04.000Z",
+      "publishedTs": 1775041624000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech Reviews",
+        "Genki Instruments",
+        "music production",
+        "Synthesizer",
+        "Voice Rotating Polyphonic Synthesizer"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Katla-14-Front.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "Reykjavik-based instrument developer Genki Instruments has announced availability of the eagerly-awaited Katla as a Voice Rotating Polyphonic Synthesizer inspired by Iceland’s largest subglacial volcano as its natural namesake — readily …"
+    },
     {
       "id": "74ee770ed97a287bbd353d713203bde5168bf894",
       "title": "Sam Binga & Addison Groove announce debut album",
@@ -549,31 +567,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
       "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
-    },
-    {
-      "id": "db6311dcca293b46db3a93d8ce7c732a2eb36999",
-      "title": "Junction 2 Completes 10th Anniversary Lineup For J2 X",
-      "link": "https://www.decodedmagazine.com/junction-2-completes-10th-anniversary-lineup-for-j2-x/",
-      "published": "2026-03-19T13:12:04.000Z",
-      "publishedTs": 1773925924000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Anna Wall",
-        "Boston Manor",
-        "DJ Hell",
-        "Drumcode",
-        "Franky Wah",
-        "Hard Techno",
-        "House Music",
-        "I hate models",
-        "Jeff Mills",
-        "Junction 2"
-      ],
-      "image": "https://mail.google.com/mail/u/0?ui=2&ik=b10a58c89e&attid=0.1.1&permmsgid=msg-f:1860094598579577376&th=19d0622ea4f56220&view=fimg&fur=ip&permmsgid=msg-f:1860094598579577376&sz=s0-l75-ft&attbid=ANGjdJ9b_yBq5deHSlSW86FQJviwJgdBr9Z1rwNu4fQm8P5nx4e_exuuKRKWaCEe-Zg240sd-nBXMBRwHnVDg1gX19BGDVEdGSBjoi_HqgJxuMloSyZSqPU6Yges-n4&disp=emb&zw",
-      "excerpt": "Junction 2 has unveiled the final lineup for its 10th anniversary edition. J2 X returns to Boston Manor Park across two weekends this summer &#8211; 25-26th July and 2nd August. The full lineup lands alongside a more refined, two-stage f…"
     },
     {
       "id": "9658506d3f63c93f7904db984f7f5d6412bcd0a1",
