@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T05:24:11.411Z",
+  "generatedAt": "2026-04-01T07:20:36.119Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "60355ba29382464236d8216e13cc89069ee91f19",
+      "title": "Crítica de 'Honora', la declaración de amor al jazz de Flea",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/flea-honora/",
+      "published": "2026-04-01T06:41:14.000Z",
+      "publishedTs": 1775025674000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Flea-Honora.jpg",
+      "excerpt": "Es fascinante el hecho de que Flea, el eterno bajista de Red Hot Chili Peppers, haya llegado a su primer... La entrada Crítica de &#039;Honora&#039;, la declaración de amor al jazz de Flea se publicó primero en MondoSonoro ."
+    },
     {
       "id": "90126026d588c229fa09d879a05a8c05339e25cf",
       "title": "We Roadtest the New RMX-IGNITE from Alpha Theta",
@@ -106,7 +120,7 @@
     },
     {
       "id": "de67cd59dae801b2e4a6886225d21791d71c4cdc",
-      "title": "Reseñamos 'Creature of Habit', el nuevo álbum de Courtney Barnett",
+      "title": "Creature of Habit",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/courtney-barnett-creature-of-habit/",
       "published": "2026-03-30T14:33:27.000Z",
       "publishedTs": 1774881207000,
@@ -116,7 +130,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Courtney-Barnett-Creature-of-Habit.jpg",
-      "excerpt": "Para Courtney Barnett las cosas al principio fueron muy rápido. Quizás demasiado. Asimilar tanto –y aparentemente tan bueno– no era... La entrada Reseñamos &#039;Creature of Habit&#039;, el nuevo álbum de Courtney Barnett se publicó prim…"
+      "excerpt": "Para Courtney Barnett las cosas al principio fueron muy rápido. Quizás demasiado. Asimilar tanto –y aparentemente tan bueno– no era... La entrada Creature of Habit se publicó primero en MondoSonoro ."
     },
     {
       "id": "958bc1af13372aa1868598fc5cd26941941c6056",
@@ -293,20 +307,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Maria-del-Tango-Entre-dos-mundos.jpg",
       "excerpt": "El flamenco, entre muchas otras cosas, es ida y vuelta, mestizaje indómito, metamorfosis libre y descarnada, sentimiento que pellizca a... La entrada Entre dos mundos se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "dada1b0cfeb6bfa0715c799388f8b88657f2d013",
-      "title": "I sure am getting sick of this bowling alley",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mclusky-i-sure-am-getting-sick-of-this-bowling-alley/",
-      "published": "2026-03-26T09:37:00.000Z",
-      "publishedTs": 1774517820000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Mclusky-I-sure-am-getting-sick-of-this-bowling-alley.jpg",
-      "excerpt": "La vuelta de Mclusky supone una gran bofetada de realidad en la era en la que la IA parece acabar... La entrada I sure am getting sick of this bowling alley se publicó primero en MondoSonoro ."
     },
     {
       "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
