@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T11:53:52.756Z",
+  "generatedAt": "2026-04-01T13:21:56.268Z",
   "total": 110,
   "sources": [
     {
@@ -567,6 +567,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
       "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
+    },
+    {
+      "id": "57b988b565531607c6fc97102c401f1f2a6ae7ea",
+      "title": "London’s Venue M.O.T granted licence to host open-air parties",
+      "link": "https://mixmag.net/read/london-venue-mot-granted-licence-host-open-air-parties-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/outdoor-yard-venue-mot_2026-04-01-114547_fzph.jpg?width=660&fit=cover&s=wRNLhZtN3BHyXbei5nZkRssf-WldQn_E6U9zCNKWeHM",
+      "excerpt": "The Bermondsey venue will host an inaugural outdoor day-to-night party on May 2 Continue reading..."
     },
     {
       "id": "9658506d3f63c93f7904db984f7f5d6412bcd0a1",
@@ -1515,18 +1527,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-rave-st-ives.jpg?width=660&fit=cover&s=zPyMLuLluYhQq75xF405F-OSnkdV5W_xkVTQXAsjrFg",
       "excerpt": "Police also seized a multi-storey rig and arrested three people who were in attendance Continue reading..."
-    },
-    {
-      "id": "ff405323aaef7abb41bbad891353c352082c7cd9",
-      "title": "Nightclub bombing in Peru leaves at least 33 injured",
-      "link": "https://mixmag.net/read/nightclub-bombing-in-peru-leaves-33-injured-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Peru.jpg?width=660&fit=cover&s=XPmGtnyRdwNlCOVgCZWe7LwrvvRmKCx9rMpS-NWU610",
-      "excerpt": "Five people are said to be in &quot;serious condition&quot; following an explosion at Dalí nightclub in Trujillo last weekend Continue reading..."
     }
   ]
 }
