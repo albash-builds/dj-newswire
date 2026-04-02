@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-02T07:12:36.004Z",
-  "total": 90,
+  "generatedAt": "2026-04-02T08:56:39.328Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,15 +18,160 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "ed7c9b36eb54170fba85d5caae5ea4bed1d14b25",
+      "title": "UK Rave Culture: A New Era Documentary Heads for Global Theatrical Release",
+      "link": "https://www.decodedmagazine.com/uk-rave-culture-a-new-era-documentary-heads-for-global-theatrical-release/",
+      "published": "2026-04-02T08:24:14.000Z",
+      "publishedTs": 1775118254000,
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "UK",
+        "Altern 8",
+        "Bristol",
+        "Bryan Gee",
+        "Cardiff",
+        "Culture",
+        "DJ Hype",
+        "DJ Rap",
+        "Documentary",
+        "Edinburgh",
+        "Eduardo Cubillo Blasco",
+        "Essex"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/docnroll-rave-culture-documentary.jpg",
+      "excerpt": "There are stories that have been told in fragments for decades, pieced together through fanzines, mixtapes, and late-night conversations between people who were there. The story of the British rave revolution is one of them. Now it has a…"
+    },
+    {
+      "id": "c9f016d39a28d1c74261f1731a3d491638c521dd",
+      "title": "Throwback Thursday: The Technics SL-DZ1200 — Beautiful, Ambitious, and a Little Broken",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-the-technics-sl-dz1200-beautiful-ambitious-and-a-little-broken/",
+      "published": "2026-04-02T03:50:35.000Z",
+      "publishedTs": 1775101835000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "CD Player",
+        "CDJ",
+        "CDJ-1000",
+        "DJ",
+        "MP3",
+        "Music tech",
+        "Panasonic",
+        "Pioneer",
+        "SD Card",
+        "technics"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/57_7866414c-a951-4dc9-bde2-d59cd3abc010.webp?resize=810%2C608&ssl=1",
+      "excerpt": "There are pieces of gear that divide a room, and the Technics SL-DZ1200 is one of them. Even now, mentioning it to the right crowd will get you a knowing smirk from one person and an eye roll from the next. Released in 2004, it arrived a…"
+    },
+    {
+      "id": "cc7139868d7f2b612e5666aaa5a3b6692f51f9c7",
+      "title": "Korg Revives the Vestax Handy Traxx Portable Turntable",
+      "link": "https://www.decodedmagazine.com/korg-revives-the-vestax-handy-trax-portable-turntable/",
+      "published": "2026-04-02T02:56:01.000Z",
+      "publishedTs": 1775098561000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech News",
+        "Handy Trax",
+        "Korg",
+        "Portable",
+        "Scatching",
+        "Toshihide Nakama",
+        "Turntable",
+        "Vestax",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
+      "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
+    },
+    {
+      "id": "38f6932a71ed4d1ad50edc810525d0d1890ec176",
+      "title": "Genki Instruments announces availability of Katla as Voice Rotating Polyphonic Synthesizer",
+      "link": "https://www.decodedmagazine.com/genki-instruments-announces-availability-of-katla-as-voice-rotating-polyphonic-synthesizer/",
+      "published": "2026-04-01T11:07:04.000Z",
+      "publishedTs": 1775041624000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech Reviews",
+        "Genki Instruments",
+        "music production",
+        "Synthesizer",
+        "Voice Rotating Polyphonic Synthesizer"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Katla-14-Front.jpg?resize=810%2C608&ssl=1",
+      "excerpt": "Reykjavik-based instrument developer Genki Instruments has announced availability of the eagerly-awaited Katla as a Voice Rotating Polyphonic Synthesizer inspired by Iceland’s largest subglacial volcano as its natural namesake — readily …"
+    },
+    {
+      "id": "74ee770ed97a287bbd353d713203bde5168bf894",
+      "title": "Sam Binga & Addison Groove announce debut album",
+      "link": "https://www.decodedmagazine.com/sam-binga-addison-groove-announce-debut-album/",
+      "published": "2026-04-01T10:46:19.000Z",
+      "publishedTs": 1775040379000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "acid",
+        "Bags Inc",
+        "Bristol",
+        "Electro",
+        "fabric london",
+        "House",
+        "Live Techno",
+        "Pineapple Records",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Sam-Binga-Addison-Groove.png",
+      "excerpt": "Bristol DJ/producers Sam Binga and Addison Groove announce their debut collaborative album BAGS INC., out 10th July via Pineapple Records. Drawing on techno, electro, raw Chicago house, juke and acid influences, the 12-track LP unites tw…"
+    },
+    {
+      "id": "7bc69916a5316d9ad9ede9fce7ebb78c0068218d",
+      "title": "SPEEDY J announces first solo album in 20 years",
+      "link": "https://www.decodedmagazine.com/speedy-j-announces-first-solo-album-in-20-years/",
+      "published": "2026-04-01T10:32:54.000Z",
+      "publishedTs": 1775039574000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Deep techno",
+        "Electronica",
+        "Speedy J",
+        "STOOR",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Speey-J-credit-Stijn-Berer.jpeg",
+      "excerpt": "Contemplating the role of the album format in an attention-deficient society, Speedy J presents&nbsp; Walkman &nbsp;— a constantly shifting, 90-minute soundtrack to a journey of your choice. Jochem Paap&#8217;s first solo album in over 2…"
+    },
+    {
+      "id": "6d43c0cf01289908fb7f13e86ed05d64dbd69039",
+      "title": "Book of the Month – Machines: A History of Electronic Music by Jean-Michel Jarre",
+      "link": "https://www.decodedmagazine.com/book-of-the-month-machines-a-history-of-electronic-music-by-jean-michel-jarre/",
+      "published": "2026-04-01T09:20:52.000Z",
+      "publishedTs": 1775035252000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Book",
+        "Book of the month",
+        "Electronica",
+        "Jean-Michel Jarre"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Jean-Michel-Jarre.webp",
+      "excerpt": "The definitive illustrated story of electronic sound, from WWI to the AI-enabled future, presented by the godfather of the genre. Jean-Michel Jarre is a true pioneer of electronic music. From his early role in electronic sound to his cur…"
+    },
     {
       "id": "60355ba29382464236d8216e13cc89069ee91f19",
       "title": "Crítica de 'Honora', la declaración de amor al jazz de Flea",
@@ -40,6 +185,76 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Flea-Honora.jpg",
       "excerpt": "Es fascinante el hecho de que Flea, el eterno bajista de Red Hot Chili Peppers, haya llegado a su primer... La entrada Crítica de &#039;Honora&#039;, la declaración de amor al jazz de Flea se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "90126026d588c229fa09d879a05a8c05339e25cf",
+      "title": "We Roadtest the New RMX-IGNITE from Alpha Theta",
+      "link": "https://www.decodedmagazine.com/we-roadtest-the-new-rmx-ignite-from-alpha-theta/",
+      "published": "2026-03-31T09:50:22.000Z",
+      "publishedTs": 1774950622000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech Reviews",
+        "Alpha Theta",
+        "Elite Force",
+        "RMX",
+        "RMX-IGNITE",
+        "sampler",
+        "Simon Shackleton",
+        "Tech Review"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/rmx-ignite_5.webp?resize=810%2C810&ssl=1",
+      "excerpt": "The RMX-IGNITE is AlphaTheta’s latest evolution of the RMX concept, a standalone effects and performance sampler designed to sit alongside modern DJ and hybrid setups. It is impeccably built, clearly laid out, and unmistakably aimed at D…"
+    },
+    {
+      "id": "52536d02fea93362bfa714cb6f96103afb8c0a3a",
+      "title": "New Exhibition featuring Charli XCX, Wiz Khalifa, Keinemusik, and more at In-between Ibiza",
+      "link": "https://www.decodedmagazine.com/new-exhibition-featuring-charli-xcx-wiz-khalifa-keinemusik-and-more-at-in-between-ibiza/",
+      "published": "2026-03-31T07:53:20.000Z",
+      "publishedTs": 1774943600000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Art",
+        "Ibiza",
+        "Lifestyle",
+        "Fisher",
+        "Keinemusik",
+        "Peggy Gou",
+        "Photograpghy",
+        "Skepta",
+        "Skrillex",
+        "Ushuaïa"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/%40CAPTURECHARLES-A-SHOT-IN-THE-DARK-%40INBETWEENIBIZA-PIKES-IBIZA-DANCEFLOOR-.jpg?resize=810%2C964&ssl=1",
+      "excerpt": "I n-between Ibiza unveils A Shot in the Dark, a solo photography exhibition A Shot In The Dark by globally-renowned Australian photographer capturecharles, running from 17 April to 8 May, 2026. Housed within In-between Ibiza’s gallery in…"
+    },
+    {
+      "id": "c10638bdb5d7d5725e675978022c1fb57947b2f6",
+      "title": "Danny Howells: Still Digging Deeper After Three Decades",
+      "link": "https://www.decodedmagazine.com/danny-howells-still-digging-deeper-after-three-decades/",
+      "published": "2026-03-31T05:52:37.000Z",
+      "publishedTs": 1774936357000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Interviews",
+        "AI",
+        "Anthony Pappa",
+        "Danny Howells",
+        "Global Underground",
+        "House Music",
+        "John Digweed",
+        "Nubreed",
+        "Progressive House",
+        "Sasha"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Danny-Howells-1.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "There are DJs who arrive on a wave of industry hype and algorithmic favour, and then there are those who build a career through years of patient, purposeful craft. Danny Howells belongs to the second category. Born in Hastings in 1970, H…"
     },
     {
       "id": "289f2c1b5181b1abbe13b94339020bc219af07bd",
@@ -68,6 +283,45 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Courtney-Barnett-Creature-of-Habit.jpg",
       "excerpt": "Para Courtney Barnett las cosas al principio fueron muy rápido. Quizás demasiado. Asimilar tanto –y aparentemente tan bueno– no era... La entrada Creature of Habit se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "958bc1af13372aa1868598fc5cd26941941c6056",
+      "title": "error.func is back",
+      "link": "https://www.decodedmagazine.com/error-func-is-back/",
+      "published": "2026-03-30T08:34:14.000Z",
+      "publishedTs": 1774859654000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Berlin",
+        "error.func",
+        "Lucidflow",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/error-funk.jpg",
+      "excerpt": "error.func &#8211; Our Desire [LF370] by error.func Our Desire delivers three absolutely raving tracks that feel instantly familiar yet freshly rewired. This is error.func in peak form: sharp ideas, fearless groove design, and that unmis…"
+    },
+    {
+      "id": "dcf3f9a2fc3c3844670c3791f01c80cbd5a612fc",
+      "title": "D-EDGE celebrates 26 years with landmark São Paulo and Rio parties",
+      "link": "https://www.decodedmagazine.com/d-edge-celebrates-26-years-with-landmark-sao-paulo-and-rio-parties/",
+      "published": "2026-03-30T08:04:38.000Z",
+      "publishedTs": 1774857878000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "South America",
+        "World",
+        "Brazil",
+        "D-Edge",
+        "House Music",
+        "Progressive House",
+        "Rio",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
     },
     {
       "id": "ccacbf25263b0c27b2c73c10ca06402bf57935fc",
@@ -140,6 +394,45 @@
       "excerpt": "El álbum debut de Fcukers sube rápido y te aguanta toda la noche. Shanny y Jackson entregan con \"Ö\" un... La entrada Ö se publicó primero en MondoSonoro ."
     },
     {
+      "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
+      "title": "Token Records just announced Fuga VII by Various Artists",
+      "link": "https://www.decodedmagazine.com/token-records-just-announced-fuga-vii-by-various-artists/",
+      "published": "2026-03-27T06:51:24.000Z",
+      "publishedTs": 1774594284000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Belgium",
+        "Deep techno",
+        "Fuga",
+        "Techno",
+        "Token Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Funga-VII.jpg",
+      "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
+    },
+    {
+      "id": "82b0c9fbb840d5d1e838fc705a44aa426f65559d",
+      "title": "Five on Friday with Ilya Santana",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-ilya-santana/",
+      "published": "2026-03-27T06:35:07.000Z",
+      "publishedTs": 1774593307000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "acid",
+        "Disco",
+        "Electro",
+        "Funk",
+        "House",
+        "tech"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
+      "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
+    },
+    {
       "id": "ce6e6aa6c8865826af61fb7a38195e26cbfa2630",
       "title": "Possessor",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/traitrs-possessor/",
@@ -166,6 +459,124 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Maria-del-Tango-Entre-dos-mundos.jpg",
       "excerpt": "El flamenco, entre muchas otras cosas, es ida y vuelta, mestizaje indómito, metamorfosis libre y descarnada, sentimiento que pellizca a... La entrada Entre dos mundos se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
+      "title": "Jungle announce new album",
+      "link": "https://www.decodedmagazine.com/jungle-announce-new-album/",
+      "published": "2026-03-25T04:27:59.000Z",
+      "publishedTs": 1774412879000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "breaks",
+        "Disco",
+        "Funk",
+        "House Music",
+        "Jungle",
+        "Soul",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Jungle-e1774412844633.jpg",
+      "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
+    },
+    {
+      "id": "bcac086ed05c87b166709e51b130bf41efd52575",
+      "title": "Irvine Welsh Brings Trainspotting to the West End",
+      "link": "https://www.decodedmagazine.com/irvine-welsh-brings-trainspotting-to-the-west-end/",
+      "published": "2026-03-25T04:09:22.000Z",
+      "publishedTs": 1774411762000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "London",
+        "Musical",
+        "Steve Mac",
+        "Trainspotting",
+        "West End"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
+      "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
+    },
+    {
+      "id": "2606354a4c55fe6c1aec84c8e35b76c2f91da2ab",
+      "title": "Sennheiser’s Headphone Division Is Seeking a New Owner. The Industry Should Hope It Finds the Right One.",
+      "link": "https://www.decodedmagazine.com/sennheisers-headphone-division-is-seeking-a-new-owner-the-industry-should-hope-it-finds-the-right-one/",
+      "published": "2026-03-24T14:17:25.000Z",
+      "publishedTs": 1774361845000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "HD25s",
+        "Headphones",
+        "music production",
+        "Music tech",
+        "Sennheiser"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Sennheiser-Logo.wine_-scaled.png",
+      "excerpt": "According to news reports from heise.de , Sennheiser&#8217;s entire consumer division is being put up for sale, and it is news that deserves attention from anyone working in the music industry. Some gear becomes standard not through mark…"
+    },
+    {
+      "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
+      "title": "Review: We take a look at Ableton Push 3",
+      "link": "https://www.decodedmagazine.com/review-we-take-a-look-at-ableton-push-3/",
+      "published": "2026-03-23T10:23:31.000Z",
+      "publishedTs": 1774261411000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Tech Reviews",
+        "Ableton Push",
+        "Controller",
+        "MIDI",
+        "music production",
+        "Review",
+        "Studio"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/94c336855eb57f1b3de6e8507926c1d0b8c0ad1c-1000x1000-1.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "There’s a particular kind of moment that tends to arrive when you introduce a new piece of hardware into a long-established workflow. It’s not the unboxing, and it’s not the first hour of exploration. It’s the quieter point that follows,…"
+    },
+    {
+      "id": "1f8a5ce252ba1e0a02a9c57d263d8957085c6613",
+      "title": "Guy Gerber releases Misirlou EP",
+      "link": "https://www.decodedmagazine.com/guy-gerber-releases-misirlou-ep/",
+      "published": "2026-03-23T09:42:30.000Z",
+      "publishedTs": 1774258950000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Premieres",
+        "Electronica",
+        "Guy gerber",
+        "Indie Electronica",
+        "Rumors"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Guy-Gerber-Misirlou-Artwork.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "Guy Gerber returns with Misirlou, a striking new EP that marks a bold creative evolution in his musical journey. Blending surf-inspired guitar work, rockabilly undertones, and modern electronic production, the release finds Gerber expand…"
+    },
+    {
+      "id": "9874a85c9fcbc2da2098427df7139f5d38b50ab8",
+      "title": "Bluetooth, USB-C, and a Cassette Deck: Maxell’s New Player Is Quietly Brilliant",
+      "link": "https://www.decodedmagazine.com/bluetooth-usb-c-and-a-cassette-deck-maxells-new-player-is-quietly-brilliant/",
+      "published": "2026-03-21T13:03:36.000Z",
+      "publishedTs": 1774098216000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Cassette Tape",
+        "Consumer Tech",
+        "Maxwell Byrne",
+        "Old school",
+        "Threads"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/61qCah6TEaL._AC_SL1500_-scaled.jpg",
+      "excerpt": "If you grew up rewinding tapes with a pencil to save the batteries, there&#8217;s a decent chance you stopped mid-scroll this week when Maxell quietly posted on Threads to announce they&#8217;d made a new cassette player. Not a limited-r…"
     },
     {
       "id": "a0bba648e81aadf9d373c7bb5d8975e66bcfd274",
