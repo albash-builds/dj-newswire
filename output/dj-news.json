@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T02:13:20.417Z",
+  "generatedAt": "2026-04-02T05:02:46.424Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,54 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c9f016d39a28d1c74261f1731a3d491638c521dd",
+      "title": "Throwback Thursday: The Technics SL-DZ1200 — Beautiful, Ambitious, and a Little Broken",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-the-technics-sl-dz1200-beautiful-ambitious-and-a-little-broken/",
+      "published": "2026-04-02T03:50:35.000Z",
+      "publishedTs": 1775101835000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "CD Player",
+        "CDJ",
+        "CDJ-1000",
+        "DJ",
+        "MP3",
+        "Music tech",
+        "Panasonic",
+        "Pioneer",
+        "SD Card",
+        "technics"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/57_7866414c-a951-4dc9-bde2-d59cd3abc010.webp?resize=810%2C608&ssl=1",
+      "excerpt": "There are pieces of gear that divide a room, and the Technics SL-DZ1200 is one of them. Even now, mentioning it to the right crowd will get you a knowing smirk from one person and an eye roll from the next. Released in 2004, it arrived a…"
+    },
+    {
+      "id": "cc7139868d7f2b612e5666aaa5a3b6692f51f9c7",
+      "title": "Korg Revives the Vestax Handy Trax Portable Turntable",
+      "link": "https://www.decodedmagazine.com/korg-revives-the-vestax-handy-trax-portable-turntable/",
+      "published": "2026-04-02T02:56:01.000Z",
+      "publishedTs": 1775098561000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech",
+        "Tech News",
+        "Handy Trax",
+        "Korg",
+        "Portable",
+        "Scatching",
+        "Toshihide Nakama",
+        "Turntable",
+        "Vestax",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
+      "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
+    },
     {
       "id": "38f6932a71ed4d1ad50edc810525d0d1890ec176",
       "title": "Genki Instruments announces availability of Katla as Voice Rotating Polyphonic Synthesizer",
@@ -525,48 +573,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/37-HighRes.jpg?resize=810%2C540&ssl=1",
       "excerpt": "The already essential West London venue Gallery Club London has added melodic and progressive favourite Guy Gerber to a standout series of special first birthday events alongside techno legend Sven Väth and classy house operator Laolu. M…"
-    },
-    {
-      "id": "6b379853d8e776bbb0447a47617c4c2e0116c2a4",
-      "title": "Five on Friday with 33rd December",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-33rd-december/",
-      "published": "2026-03-20T05:13:13.000Z",
-      "publishedTs": 1773983593000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "33rd December",
-        "acid",
-        "Electro",
-        "House",
-        "Laurent Ganier"
-      ],
-      "image": "https://media.hardwax.com/audio/87470_B1.mp3",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of 33rd December, the South London duo of Matt and Miles who between them represent a serious slice of the city&#8217;s underground. Matt co-owns and runs HENGE in Brixton, holding down a r…"
-    },
-    {
-      "id": "d07a9192e34d9fef675025ae2ea4c0d0ad3303b2",
-      "title": "Native Instruments Update: A Buyout, Not a Collapse",
-      "link": "https://www.decodedmagazine.com/native-instruments-update-a-buyout-not-a-collapse/",
-      "published": "2026-03-19T15:47:33.000Z",
-      "publishedTs": 1773935253000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "iZotope",
-        "KONTAKT",
-        "Maschine",
-        "Massive",
-        "music production",
-        "Native Instruments",
-        "Nick Williams",
-        "Traktor"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
-      "excerpt": "Back in January, when Nick Williams broke his silence and confirmed that Native Instruments had entered pre-insolvency proceedings under German law, we said the implications would ripple far beyond balance sheets. We also posed the uncom…"
     },
     {
       "id": "a0bba648e81aadf9d373c7bb5d8975e66bcfd274",
