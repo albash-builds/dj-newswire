@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:37:21.082Z",
+  "generatedAt": "2026-04-03T13:03:03.669Z",
   "total": 110,
   "sources": [
     {
@@ -585,6 +585,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/94c336855eb57f1b3de6e8507926c1d0b8c0ad1c-1000x1000-1.jpg?resize=810%2C810&ssl=1",
       "excerpt": "There’s a particular kind of moment that tends to arrive when you introduce a new piece of hardware into a long-established workflow. It’s not the unboxing, and it’s not the first hour of exploration. It’s the quieter point that follows,…"
+    },
+    {
+      "id": "022f3a0d671f452c02ab56dd2f6e103a626da3cc",
+      "title": "Music tech you might have missed: Roland SPD-SX Pro, Akai MPC sampler, Bowers & Wilkins Px7 S3s",
+      "link": "https://mixmag.net/read/music-tech-you-might-have-missed-roland-spd-sx-pro-akai-mpc-sampler-bowers-wilkins-px7-s3s-tech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tech_2026-04-03-122441_qokh.png?width=660&fit=cover&s=wrqra-_-QU4YkNwJwJykJq2DX_9-R98fXrf-bqE4630",
+      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     },
     {
       "id": "d67397f38275b27ec9762913098d7d76cd8424fc",
@@ -1533,18 +1545,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Car-x.png?width=660&fit=cover&s=21sRonF0I3J1GJUgbL-DOh5nGUuqaf20XQ70BOcbRQ4",
       "excerpt": "Deadly collisions in the US rose by 15% on the days where major albums and singles were released between 2017 and 2022 Continue reading..."
-    },
-    {
-      "id": "31417a739fcca01dff9795c188efec4a5e633e9f",
-      "title": "Goldie directs new documentary exploring the rise of Rufige Kru",
-      "link": "https://mixmag.net/read/new-documentary-charting-the-rise-of-goldies-rufige-kru-has-been-released-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/goldie-rufige-kru.jpg?width=660&fit=cover&s=PQ22K5LbNzDhPdghsVDjD7StxYwyuIPugGlh_3caCX4",
-      "excerpt": "The 45-minute film, titled The Rufige Files, features interviews with Submotive, dBridge and more Continue reading..."
     }
   ]
 }
