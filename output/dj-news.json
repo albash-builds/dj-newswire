@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T07:08:35.740Z",
+  "generatedAt": "2026-04-03T08:54:32.668Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4b5d837af351acbcc6c31962feafe1899cf97518",
+      "title": "Reseñamos 'Distracted', el nuevo álbum de Thundercat",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/thundercat-distracted/",
+      "published": "2026-04-03T07:22:51.000Z",
+      "publishedTs": 1775200971000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Thundercat-Distracted.jpg",
+      "excerpt": "Sobrecogedor, moderno y con química como para abastecer de por vida la BASF de Ludwigshafen. A su vez, “Distracted”, el... La entrada Reseñamos &#039;Distracted&#039;, el nuevo álbum de Thundercat se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f45effdf163c70fb31216cd3eac5476af6327532",
+      "title": "Paris in the Spring",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/alexis-taylor-paris-in-the-spring/",
+      "published": "2026-04-03T07:21:05.000Z",
+      "publishedTs": 1775200865000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Alexis-Taylor-Paris-in-the-Spring.jpg",
+      "excerpt": "Aunque cuidadosamente domesticadas por el tinte, las canas de Alexis Taylor delatan un evidente valor añadido en lo que respecta... La entrada Paris in the Spring se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
       "title": "Five on Friday with 303 Resistance",
@@ -42,20 +70,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/303-resistance-scaled-e1775197179504.jpeg",
       "excerpt": "This week&#8217;s Five on Friday comes from Manchester&#8217;s own 303 Resistance. There&#8217;s a difference between talking about keeping something alive and actually doing it. 303 Resistance sits firmly in the second camp. He was putt…"
-    },
-    {
-      "id": "4b5d837af351acbcc6c31962feafe1899cf97518",
-      "title": "Distracted",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/thundercat-distracted/",
-      "published": "2026-04-03T06:02:51.000Z",
-      "publishedTs": 1775196171000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/03/Thundercat-Distracted.jpg",
-      "excerpt": "Sobrecogedor, moderno y con química como para abastecer de por vida la BASF de Ludwigshafen. A su vez, “Distracted”, el... La entrada Distracted se publicó primero en MondoSonoro ."
     },
     {
       "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
@@ -491,20 +505,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
       "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
-    },
-    {
-      "id": "ce6e6aa6c8865826af61fb7a38195e26cbfa2630",
-      "title": "Possessor",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/traitrs-possessor/",
-      "published": "2026-03-27T06:14:51.000Z",
-      "publishedTs": 1774592091000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/TRAITRS-Possessor.jpg",
-      "excerpt": "¿Dónde empieza y dónde acaba la línea que separa el homenaje y la influencia de la autoría propia? Eso es... La entrada Possessor se publicó primero en MondoSonoro ."
     },
     {
       "id": "2af81c5fbfa1ca8b0510209c8a920e3b2be1140c",
