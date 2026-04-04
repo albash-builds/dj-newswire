@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T16:35:34.619Z",
+  "generatedAt": "2026-04-04T17:29:57.627Z",
   "total": 110,
   "sources": [
     {
@@ -585,6 +585,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/94c336855eb57f1b3de6e8507926c1d0b8c0ad1c-1000x1000-1.jpg?resize=810%2C810&ssl=1",
       "excerpt": "There’s a particular kind of moment that tends to arrive when you introduce a new piece of hardware into a long-established workflow. It’s not the unboxing, and it’s not the first hour of exploration. It’s the quieter point that follows,…"
+    },
+    {
+      "id": "a4643e67987f1b52a7df1e941f1f6dab3b39e8da",
+      "title": "Festival line-ups you might have missed: Montreux Jazz Festival, Reading & Leeds, Boa Nova",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-montreux-jazz-festival-reading-leeds-boa-nova-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/20240720_MJF_COUP_OST_BarryCantSwim_cMarcDucrest_141.jpg?width=660&fit=cover&s=pWc7COdgS2H2c5lDLj5LPGXdLHX7u8_KtIhM3EP-WPI",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "ebea12bd390cf581cde693247c3db2eab32bfc4f",
@@ -1533,18 +1545,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Tracks2_2026-03-12-042141_dzef.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=ZEFWQwjybruGRGBDoQk-iqGo6VcY5p4o-KvOAsyMfpg",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
-    },
-    {
-      "id": "2a4b6eadcf4aaf05b2e4cf797f57ac5ca5b215a1",
-      "title": "The Mix 097: Faster Horses",
-      "link": "https://mixmag.net/feature/the-mix-097-faster-horses-interview-mix-exclusive-manchester-liverpool-techno-garage-house",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_FH-1.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=DfjtswovDRWYKIGstaWWLNAgjeizCauGO7X6GfX6SJk",
-      "excerpt": "It&#039;s all about &#039;pumping tunes and pure euphoria&#039; as Faster Horses gets in the saddle for the latest edition of The Mix. In the accompanying interview, the peak-time prodigy speaks to Megan Townsend about curveballs, Tiësto…"
     }
   ]
 }
