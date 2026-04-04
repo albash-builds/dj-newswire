@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T07:05:56.471Z",
+  "generatedAt": "2026-04-04T08:40:15.193Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "ebed56272275e87107cd6f1c69b7108970efc2cd",
+      "title": "Crítica de 'Ricochet ', el nuevo disco de Snail Mail",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/snail-mail-ricochet/",
+      "published": "2026-04-04T06:28:41.000Z",
+      "publishedTs": 1775284121000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Snail-Mail-Ricochet.jpg",
+      "excerpt": "La Lindsey Jordan de 2018 pensaba, a través de sus primerizos temas, que el mundo empezaba y acababa en las... La entrada Crítica de &#039;Ricochet &#039;, el nuevo disco de Snail Mail se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4b5d837af351acbcc6c31962feafe1899cf97518",
       "title": "Reseñamos 'Distracted', el nuevo álbum de Thundercat",
@@ -248,7 +262,7 @@
     },
     {
       "id": "60355ba29382464236d8216e13cc89069ee91f19",
-      "title": "Crítica de 'Honora', la declaración de amor al jazz de Flea",
+      "title": "Honora",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/flea-honora/",
       "published": "2026-04-01T06:41:14.000Z",
       "publishedTs": 1775025674000,
@@ -258,7 +272,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Flea-Honora.jpg",
-      "excerpt": "Es fascinante el hecho de que Flea, el eterno bajista de Red Hot Chili Peppers, haya llegado a su primer... La entrada Crítica de &#039;Honora&#039;, la declaración de amor al jazz de Flea se publicó primero en MondoSonoro ."
+      "excerpt": "Es fascinante el hecho de que Flea, el eterno bajista de Red Hot Chili Peppers, haya llegado a su primer... La entrada Honora se publicó primero en MondoSonoro ."
     },
     {
       "id": "90126026d588c229fa09d879a05a8c05339e25cf",
@@ -452,20 +466,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Black-Crowes-A-Pound-of-Feathers.jpg",
       "excerpt": "Ninguna leyenda, calificativo perfectamente adjudicable a la banda encabezada por los hermanos Chris y Rich Robinson, se escribe únicamente como... La entrada A Pound of Feathers se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "542100c07635517794faedccc16538c05f110328",
-      "title": "Ö",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/fcukers-o/",
-      "published": "2026-03-27T11:19:11.000Z",
-      "publishedTs": 1774610351000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Fcukers-O.jpg",
-      "excerpt": "El álbum debut de Fcukers sube rápido y te aguanta toda la noche. Shanny y Jackson entregan con \"Ö\" un... La entrada Ö se publicó primero en MondoSonoro ."
     },
     {
       "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
