@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T15:31:37.624Z",
+  "generatedAt": "2026-04-04T16:35:34.619Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "bb4ef722a2964fd777e3930f2a299f2f1a53ceb4",
+      "title": "Gitarra onomatopeikoa IV (+ Lagunen ahotsak)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/joseba-irazoki-gitarra-onomatopeikoa-iv/",
+      "published": "2026-04-04T15:46:38.000Z",
+      "publishedTs": 1775317598000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/joseba-irazoki-gitarra-IV.jpg",
+      "excerpt": "Fue en 2017 cuando el maestro Irazoki comenzó la serie “Gitarra onomatopeikoa”, entre la improvisación y la investigación sonora, que... La entrada Gitarra onomatopeikoa IV (+ Lagunen ahotsak) se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ebed56272275e87107cd6f1c69b7108970efc2cd",
       "title": "Crítica de 'Ricochet ', el nuevo disco de Snail Mail",
@@ -452,20 +466,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Slayyyter-WORsT-GIRL-IN-AMERICA.jpg",
       "excerpt": "Pocos discos eran más esperados este año que \"WOR$T GIRL IN AMERICA\" de Slayyyter, y no porque su protagonista fuera... La entrada WOR$T GIRL IN AMERICA se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f11b82a5d10c50fe88613335669391ccde9158c2",
-      "title": "A Pound of Feathers",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/a-pound-of-feathers/",
-      "published": "2026-03-27T15:34:21.000Z",
-      "publishedTs": 1774625661000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/The-Black-Crowes-A-Pound-of-Feathers.jpg",
-      "excerpt": "Ninguna leyenda, calificativo perfectamente adjudicable a la banda encabezada por los hermanos Chris y Rich Robinson, se escribe únicamente como... La entrada A Pound of Feathers se publicó primero en MondoSonoro ."
     },
     {
       "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
