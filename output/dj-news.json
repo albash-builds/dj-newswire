@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T07:43:07.981Z",
+  "generatedAt": "2026-04-06T09:08:32.196Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c3f118ea721bb057edbb6e32ea0cb690d6963158",
+      "title": "Against The Dying Of The Light",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jose-gonzalez-against-the-dying-of-the-light/",
+      "published": "2026-04-06T09:08:09.000Z",
+      "publishedTs": 1775466489000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Jose-Gonzalez%E2%80%8B-Against-The-Dying-Of-The-Light.jpg",
+      "excerpt": "José González vuelve a ensimismar con sus reconocibles encantos casi cinco años después de “Local Valley” (City Slang, 21), lanzando... La entrada Against The Dying Of The Light se publicó primero en MondoSonoro ."
+    },
     {
       "id": "bb4ef722a2964fd777e3930f2a299f2f1a53ceb4",
       "title": "Gitarra onomatopeikoa IV (+ Lagunen ahotsak)",
@@ -452,20 +466,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Anna-Calvi-Is-This-All-There-Is.jpg",
       "excerpt": "Tras seis años de silencio –desde que viera a luz “Hunted” (Domino, 20), el que sigue siendo último álbum de... La entrada Is This All There Is se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5dcbf8dac4ec4e2de56d1ff10aeb35d8ffb0c863",
-      "title": "WOR$T GIRL IN AMERICA",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/slayyyter-wort-girl-in-america/",
-      "published": "2026-03-27T16:32:33.000Z",
-      "publishedTs": 1774629153000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Slayyyter-WORsT-GIRL-IN-AMERICA.jpg",
-      "excerpt": "Pocos discos eran más esperados este año que \"WOR$T GIRL IN AMERICA\" de Slayyyter, y no porque su protagonista fuera... La entrada WOR$T GIRL IN AMERICA se publicó primero en MondoSonoro ."
     },
     {
       "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
