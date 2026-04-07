@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T15:07:38.228Z",
+  "generatedAt": "2026-04-07T16:58:45.710Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "b540f06339c47c17e4480a41d4b39d5b68390175",
+      "title": "Elvis de Goma",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/elvis-de-goma/",
+      "published": "2026-04-07T15:32:27.000Z",
+      "publishedTs": 1775575947000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/elvis-de-goma.jpg",
+      "excerpt": "Está sobradamente demostrado que la figura de Elvis Presley trasciende el ámbito musical para esparcir su mitología en todos los... La entrada Elvis de Goma se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "92cc1c8d3fe415e8aff51f520594dc8959b73413",
+      "title": "Crítica de 'Vol II', lo nuevo de Angine de Poitrine",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/angine-de-poitrine-vol-ii/",
+      "published": "2026-04-07T15:21:48.000Z",
+      "publishedTs": 1775575308000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Angine-de-Poitrine-vol-ii.jpg",
+      "excerpt": "Hay cierto convencimiento en algunos sectores de la industria musical, o más bien en los sectores que circulan el costado... La entrada Crítica de &#039;Vol II&#039;, lo nuevo de Angine de Poitrine se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3421a5e2709d3338de0af017fa237d90af6d0c50",
       "title": "Mutiny After Midnight",
@@ -445,34 +473,6 @@
       "excerpt": "There are DJs who arrive on a wave of industry hype and algorithmic favour, and then there are those who build a career through years of patient, purposeful craft. Danny Howells belongs to the second category. Born in Hastings in 1970, H…"
     },
     {
-      "id": "289f2c1b5181b1abbe13b94339020bc219af07bd",
-      "title": "Løse",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lose-disco/",
-      "published": "2026-03-30T19:58:42.000Z",
-      "publishedTs": 1774900722000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/lose_portada.jpg",
-      "excerpt": "Como expresión artística, la música cuenta con un rasgo casi consustancial, inédito en otras disciplinas o al menos presente en... La entrada Løse se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "de67cd59dae801b2e4a6886225d21791d71c4cdc",
-      "title": "Creature of Habit",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/courtney-barnett-creature-of-habit/",
-      "published": "2026-03-30T14:33:27.000Z",
-      "publishedTs": 1774881207000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Courtney-Barnett-Creature-of-Habit.jpg",
-      "excerpt": "Para Courtney Barnett las cosas al principio fueron muy rápido. Quizás demasiado. Asimilar tanto –y aparentemente tan bueno– no era... La entrada Creature of Habit se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "958bc1af13372aa1868598fc5cd26941941c6056",
       "title": "error.func is back",
       "link": "https://www.decodedmagazine.com/error-func-is-back/",
@@ -589,6 +589,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
       "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
+    },
+    {
+      "id": "e5213b68904463d69c86c6b88128bbf7a0dbf85e",
+      "title": "Fcuk around and find out: Why Fcukers are putting fun first",
+      "link": "https://mixmag.net/feature/fcukers-cover-feature-interview-new-york",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__FCUKERS_WEB_2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=tcIstMY6QCoxnLYwLqb0K_3_sn2KyGQbCi5Dua_TABs",
+      "excerpt": "Bored with their respective indie bands, Shannon Wise and Jackson Walker Lewis formed Fcukers to explore club sounds and have quickly (and deservedly) become the most hyped act in dance music. Upon the release of their debut album ‘Ö’, t…"
+    },
+    {
+      "id": "13050fe742571f4fdc5901081915ea26662ba9ba",
+      "title": "The Cover Mix: Fcukers",
+      "link": "https://mixmag.net/feature/fcukers-the-cover-mix-dj",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_FCUKERS_WEB2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=p7bb1P2jbBVg1H4DMIQZ_8678VtJKPyImMCGxNhVgZU",
+      "excerpt": "Fcukers member Jackson Walker Lewis digs into his crates for a mix of records that made him fall in love with dance music Continue reading..."
     },
     {
       "id": "c747352831f0f7629caf09a542b6984d2f3ee784",
@@ -1525,30 +1549,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kneecap-1.png?width=660&fit=cover&s=ySEWzdqfbFRfa8PCaGj66WnL3llXmdZw37iQckMnS34",
       "excerpt": "The Belfast rapper said the decision is &quot;bigger than us&quot; at a press conference in Belfast following the ruling Continue reading..."
-    },
-    {
-      "id": "5fb66a08daed89003bf902f4f4054b7945ec5e89",
-      "title": "NEOPOP shares initial 2026 line-up featuring Helena Hauff, Goldie and Octave One",
-      "link": "https://mixmag.net/read/neopop-shares-first-names-on-2026-line-up-including-helena-hauff-goldie-and-octave-one-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/NEOpop.png?width=660&fit=cover&s=y3t_j9m6C4FBIr4rfiL1NenexXa5hysUPJNyNHhDUz0",
-      "excerpt": "The three-day festival will return to Viana do Castelo, Portugal for its 20th edition this August Continue reading..."
-    },
-    {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Mixes2_2026-03-13-130457_buhl.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=oSW-tjd6F7xvybWAJ51s5Bj6DAZzwlT13vy7HdDq6WI",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     }
   ]
 }
