@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T13:18:45.018Z",
+  "generatedAt": "2026-04-07T15:07:38.228Z",
   "total": 110,
   "sources": [
     {
@@ -589,6 +589,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
       "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
+    },
+    {
+      "id": "c747352831f0f7629caf09a542b6984d2f3ee784",
+      "title": "Wireless Festival cancelled after Home Office blocks headliner Kanye West from entering UK",
+      "link": "https://mixmag.net/read/kanye-west-wireless-denied-entry-uk-festival-home-office-news-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanye-West.png?width=660&fit=cover&s=BXU-uAtR-nswXIlBBSXes2DtykMKze4am8emxK11sxc",
+      "excerpt": "Several major sponsors had withdrawn from the Finsbury Park event, where the controversial US musician was due to appear across three nights in July Continue reading..."
     },
     {
       "id": "3192afb6c65bf48174a21cbf2bff34b0858f1ccb",
@@ -1537,18 +1549,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_Best_Of_Mixes2_2026-03-13-130457_buhl.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=oSW-tjd6F7xvybWAJ51s5Bj6DAZzwlT13vy7HdDq6WI",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
-      "id": "29b56d1fdbc49825378651c8a84fc8be5a45fbc3",
-      "title": "Reverend says he supports devil-horned bench in tribute to The Prodigy’s Keith Flint",
-      "link": "https://mixmag.net/read/reverend-supports-devil-horned-bench-church-tribute-the-prodigy-keith-flint-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/keith-flint-ig.jpg?width=660&fit=cover&s=zBq8bIULxoc7ZvrPIMtG1uZPK_lCjr8jHGwLRrwAL4Q",
-      "excerpt": "Locals have praised the &quot;meaningful&quot; tribute to Flint, which was installed by his bandmates at St Mary&#039;s Church in Essex last week Continue reading..."
     }
   ]
 }
