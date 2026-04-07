@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T05:09:04.021Z",
+  "generatedAt": "2026-04-07T07:16:54.178Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
+      "title": "Fake Artists, Real Money: The AI Machine Quietly Bankrupting Electronic Music’s Future",
+      "link": "https://www.decodedmagazine.com/fake-artists-real-money-the-ai-machine-quietly-bankrupting-electronic-musics-future/",
+      "published": "2026-04-07T07:13:40.000Z",
+      "publishedTs": 1775546020000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Music Industry",
+        "AI",
+        "Apple Music",
+        "Beatport",
+        "Copyright",
+        "Deezer",
+        "Ghost production",
+        "music production",
+        "Spotify",
+        "Suno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/AI-Music-production-Decoded-Magazine-scaled.png",
+      "excerpt": "Ghost production has never been a secret in electronic music (we even wrote about it back in 2016). It has always existed in the margins, understood rather than spoken about, a quiet arrangement between those who could make the music and…"
+    },
     {
       "id": "afa293f3e6d7c9f5152529c1ea3c04acccac7d58",
       "title": "Bumpboxx Rebuilds an Icon: Meet the BB-777",
@@ -564,25 +589,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
       "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
-    },
-    {
-      "id": "2606354a4c55fe6c1aec84c8e35b76c2f91da2ab",
-      "title": "Sennheiser’s Headphone Division Is Seeking a New Owner. The Industry Should Hope It Finds the Right One.",
-      "link": "https://www.decodedmagazine.com/sennheisers-headphone-division-is-seeking-a-new-owner-the-industry-should-hope-it-finds-the-right-one/",
-      "published": "2026-03-24T14:17:25.000Z",
-      "publishedTs": 1774361845000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "HD25s",
-        "Headphones",
-        "music production",
-        "Music tech",
-        "Sennheiser"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Sennheiser-Logo.wine_-scaled.png",
-      "excerpt": "According to news reports from heise.de , Sennheiser&#8217;s entire consumer division is being put up for sale, and it is news that deserves attention from anyone working in the music industry. Some gear becomes standard not through mark…"
     },
     {
       "id": "ae9fff01f6bc314e1a42f6a925b0ca2d5a7a755e",
