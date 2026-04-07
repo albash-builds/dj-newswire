@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T02:25:16.311Z",
+  "generatedAt": "2026-04-07T05:09:04.021Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,25 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "afa293f3e6d7c9f5152529c1ea3c04acccac7d58",
+      "title": "Bumpboxx Rebuilds an Icon: Meet the BB-777",
+      "link": "https://www.decodedmagazine.com/bumpboxx-rebuilds-an-icon-meet-the-bb-777/",
+      "published": "2026-04-07T05:04:31.000Z",
+      "publishedTs": 1775538271000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Boombox",
+        "Bumpbox",
+        "Cassetee tape",
+        "CD",
+        "Stereo"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Bumpboxx_BB-777_Hero_6.png?resize=810%2C540&ssl=1",
+      "excerpt": "If you were of a certain age in the 1980s, the boombox was simply part of the landscape. It sat on shoulders at the beach, anchored the corner of the park, soundtracked the street. It was communal by design, a shared experience rather th…"
+    },
     {
       "id": "c3f118ea721bb057edbb6e32ea0cb690d6963158",
       "title": "Against The Dying Of The Light",
@@ -564,27 +583,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Sennheiser-Logo.wine_-scaled.png",
       "excerpt": "According to news reports from heise.de , Sennheiser&#8217;s entire consumer division is being put up for sale, and it is news that deserves attention from anyone working in the music industry. Some gear becomes standard not through mark…"
-    },
-    {
-      "id": "b77744b41c40cd22c63cb9c6d472f52c13876cd0",
-      "title": "Review: We take a look at Ableton Push 3",
-      "link": "https://www.decodedmagazine.com/review-we-take-a-look-at-ableton-push-3/",
-      "published": "2026-03-23T10:23:31.000Z",
-      "publishedTs": 1774261411000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "Ableton Push",
-        "Controller",
-        "MIDI",
-        "music production",
-        "Review",
-        "Studio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/94c336855eb57f1b3de6e8507926c1d0b8c0ad1c-1000x1000-1.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "There’s a particular kind of moment that tends to arrive when you introduce a new piece of hardware into a long-established workflow. It’s not the unboxing, and it’s not the first hour of exploration. It’s the quieter point that follows,…"
     },
     {
       "id": "ae9fff01f6bc314e1a42f6a925b0ca2d5a7a755e",
