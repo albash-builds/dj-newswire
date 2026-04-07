@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T07:16:54.178Z",
+  "generatedAt": "2026-04-07T09:02:22.426Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6a73e74e4a69b0ba45a88d846533a0dad7fff49b",
+      "title": "Peace In Place",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/peace-in-place/",
+      "published": "2026-04-07T07:29:59.000Z",
+      "publishedTs": 1775546999000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Poison-The-Well-Peace-In-Place.jpg",
+      "excerpt": "Han pasado diecisiete años desde que la banda americana Poison The Well estrenó “The Tropic Rot” (09). Aunque el silencio... La entrada Peace In Place se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
       "title": "Fake Artists, Real Money: The AI Machine Quietly Bankrupting Electronic Music’s Future",
@@ -496,20 +510,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Doble-capa-Yo-llore.jpg",
       "excerpt": "El dúo instrumental ha patentado una estética sonora propia en la que confluyen blues primario y espíritu punk. Una fórmula... La entrada Yo lloré porque me dolía mucho se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "22c46d102ae315ba1e28de980e5edd3ef1f69b97",
-      "title": "Is This All There Is",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/anna-calvi-is-this-all-there-is/",
-      "published": "2026-03-27T16:49:32.000Z",
-      "publishedTs": 1774630172000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Anna-Calvi-Is-This-All-There-Is.jpg",
-      "excerpt": "Tras seis años de silencio –desde que viera a luz “Hunted” (Domino, 20), el que sigue siendo último álbum de... La entrada Is This All There Is se publicó primero en MondoSonoro ."
     },
     {
       "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
