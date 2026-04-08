@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T13:19:57.718Z",
+  "generatedAt": "2026-04-08T15:10:17.809Z",
   "total": 110,
   "sources": [
     {
@@ -588,6 +588,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Jungle-e1774412844633.jpg",
       "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
+    },
+    {
+      "id": "ac627ebe6f5b244440b7252f36428c256f6d7f57",
+      "title": "Accra's Oroko Radio announces indefinite hiatus",
+      "link": "https://mixmag.net/read/accras-oroko-radio-announces-indefinate-hiatus-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/oroko-radio.png?width=660&fit=cover&s=N12SlNRj9FhMXZd6AeBdMrbXHsKdApuxFpjK9VXpt4c",
+      "excerpt": "The not-for-profit online station has championed music from Ghana and the African diaspora since it launched in 2022 Continue reading..."
     },
     {
       "id": "14145a1e942a86299fd043d6d608f87f03604add",
@@ -1536,18 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/VU_BCN2-1.png?width=660&fit=cover&s=6T1jGSW7oaBiY_jMiL63uwS-P_bgt5Zt8GkXVFyu_Z8",
       "excerpt": "Due to its strict no-photo policy, only attendees will be able to get a glimpse of the inside of the new venue Continue reading..."
-    },
-    {
-      "id": "0f51cbb2e402162d685794cbb19d4febaa973005",
-      "title": "“A piece of art”: Offenbach club Robert Johnson redesigned with hand-painted mural",
-      "link": "https://mixmag.net/read/offenbach-club-robert-johnson-redesigned-hand-painted-mural-art-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rj-lead.jpg?width=660&fit=cover&s=X05BSmnpUoXqDsaEu_lN7IBeUcLx1b8cgnv8Xw1QBOI",
-      "excerpt": "British graphic designer Stephen Smith has given the legendary German club a fresh lick of paint Continue reading..."
     }
   ]
 }
