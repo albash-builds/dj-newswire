@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T10:55:38.985Z",
+  "generatedAt": "2026-04-08T11:54:51.799Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,24 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e4ca7e67f68086e412e98c8cb1744f9ec3341cbd",
+      "title": "Amirali just announced Radiance on SCI+TEC",
+      "link": "https://www.decodedmagazine.com/amirali-just-announced-radiance-on-scitec/",
+      "published": "2026-04-08T10:56:37.000Z",
+      "publishedTs": 1775645797000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Amirali",
+        "Progressive House",
+        "SCI+TEC",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/a1918419561_10.jpg",
+      "excerpt": "Radiance by Amirali After a period exploring left-field and experimental territories while completing his second studio album, Amirali returned to dance music in recent years with a renewed focus on the dancefloor. “Radiance”, his latest…"
+    },
     {
       "id": "c0596db36a452c3961eecebd1996a3c7de21d9cf",
       "title": "Tensión",
@@ -572,23 +590,16 @@
       "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
     },
     {
-      "id": "bcac086ed05c87b166709e51b130bf41efd52575",
-      "title": "Irvine Welsh Brings Trainspotting to the West End",
-      "link": "https://www.decodedmagazine.com/irvine-welsh-brings-trainspotting-to-the-west-end/",
-      "published": "2026-03-25T04:09:22.000Z",
-      "publishedTs": 1774411762000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "London",
-        "Musical",
-        "Steve Mac",
-        "Trainspotting",
-        "West End"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/trainspottingmusical.webp",
-      "excerpt": "Some cultural moments leave a mark that outlasts the moment itself. Trainspotting was one of them. Irvine Welsh&#8217;s novel arrived in 1993 with a kind of furious energy that felt genuinely new, and Danny Boyle&#8217;s 1996 film carrie…"
+      "id": "e9aa3c7731182167555ea8c45ecc04dbecf7b173",
+      "title": "Bob Marley’s dreadlock could fetch up to £25,000 at auction",
+      "link": "https://mixmag.net/read/bob-marley-dreadlock-could-fetch-25000-auction-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bob-marley_2026-04-08-102744_zxwd.jpg?width=660&fit=cover&s=qRHTtBYgZx2f27bNOPoU9gN--mbXLJss_UCGyD50U2M",
+      "excerpt": "The “impossibly rare” 1.5-inch lock of hair is accompanied by the artist’s signature Continue reading..."
     },
     {
       "id": "e5213b68904463d69c86c6b88128bbf7a0dbf85e",
@@ -1537,18 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_FUNCTIONS_WEBSTORY_2026-03-12-143848_nlom.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=k98LF7QoECKWVo0DADyAR1vLX_j7qenQLQw8r7rP42Y",
       "excerpt": "Inspired by bonkers UK bass festival Balter, Run Da Bass gives hardcore heads in Osaka a place to “dance hard, shout loudly and feel the music physically”. We spoke to founding member kakepon about the burgeoning club night Continue read…"
-    },
-    {
-      "id": "66bcf45c12636ec6a07c45277fa2ea22ac8bde15",
-      "title": "High Court rejects prosecutors' appeal to maintain terror charges against Kneecap's Mo Chara",
-      "link": "https://mixmag.net/read/high-court-rejects-prosecutors-appeal-to-maintain-terror-charges-against-kneecaps-mo-chara-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kneecap-1.png?width=660&fit=cover&s=ySEWzdqfbFRfa8PCaGj66WnL3llXmdZw37iQckMnS34",
-      "excerpt": "The Belfast rapper said the decision is &quot;bigger than us&quot; at a press conference in Belfast following the ruling Continue reading..."
     }
   ]
 }
