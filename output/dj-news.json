@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T15:10:17.809Z",
+  "generatedAt": "2026-04-08T17:01:46.244Z",
   "total": 110,
   "sources": [
     {
@@ -588,6 +588,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Jungle-e1774412844633.jpg",
       "excerpt": "Jungle cemented their status with their 2023 album ‘Volcano’ &#8211; a record that earned them their first BRIT Award and featured their worldwide smash hit single ‘Back On 74’. The trio &#8211; J Lloyd, Tom McFarland and Lydia Kitto &#8…"
+    },
+    {
+      "id": "4b54ee7563d0ef22b6bdf5d492f170ed53bbba7d",
+      "title": "The Mix 101: Vanco",
+      "link": "https://mixmag.net/feature/the-mix-101-vanco-dj-interview-afro-house-afrotech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_VANCO2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=EA6REDuSiz0ZIAbWmg3FVqCv7yAkSqPddgwSNEQvMc4",
+      "excerpt": "Vanco is riding high off the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with major tour dates and releases, including a Skepta and Asake collab, on the way. He takes a moment to share an emotionally-led mix and chats in-…"
+    },
+    {
+      "id": "b10ba7da202131268a5f9b9240fde793b2c17a0a",
+      "title": "You can now listen to Fred again.. and Thomas Bangalter's Ally Pally b2b on Apple Music",
+      "link": "https://mixmag.net/read/you-can-now-listen-to-fred-again-and-thomas-bangalters-ally-pally-b2b-on-apple-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-fred-again-1.png?width=660&fit=cover&s=1-3VC5a95l-HoHFuVI3qJKzaEzSdd-YjY1a7MzjI24Y",
+      "excerpt": "The back-to-back between the UK producer and former Daft Punk member is also available to watch via YouTube Continue reading..."
     },
     {
       "id": "ac627ebe6f5b244440b7252f36428c256f6d7f57",
@@ -1524,30 +1548,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Arc-Chicago.png?width=660&fit=cover&s=0eVPhqE_KmfxVqcYi3Or8c4q-OzmYZYGu8COcZDr9f8",
       "excerpt": "The annual celebration of house and techno will return to Union Park from September 4-7 Continue reading..."
-    },
-    {
-      "id": "c1eb17ae9cd1d780955c61ba13ebed416538f9ce",
-      "title": "Live Nation directors brag about “robbing fans blind” in unearthed DMs",
-      "link": "https://mixmag.net/read/live-nation-directors-brag-about-robbing-fans-blind-unearthed-dms-messages-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/live-nation.webp?width=660&fit=cover&s=QbBctei4OavgvFi-U1xjfmm4l8A7lA2ZoUKHwmnRGSc",
-      "excerpt": "Two directors of the entertainment giant joked that their buyers are “stupid” in a 2022 Slack exchange Continue reading..."
-    },
-    {
-      "id": "dd2f2d97b60e230df75087c6dd8312944e63a4ce",
-      "title": "Mysterious new venue from Village Underground team to open in Barcelona",
-      "link": "https://mixmag.net/read/village-underground-barcelona-to-launch-with-strict-no-photos-policy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/VU_BCN2-1.png?width=660&fit=cover&s=6T1jGSW7oaBiY_jMiL63uwS-P_bgt5Zt8GkXVFyu_Z8",
-      "excerpt": "Due to its strict no-photo policy, only attendees will be able to get a glimpse of the inside of the new venue Continue reading..."
     }
   ]
 }
