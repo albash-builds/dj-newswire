@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T09:07:30.184Z",
+  "generatedAt": "2026-04-09T10:58:30.999Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,40 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2e2871c14d9f566f2601e4aa8c8e7b76b9fd258a",
+      "title": "Serato Expands Hardware Support to 3 Pioneer Mixers with SDJ 4.0.6",
+      "link": "https://www.decodedmagazine.com/serato-expands-hardware-support-to-3-pioneer-mixers-with-sdj-4-0-6/",
+      "published": "2026-04-09T10:16:31.000Z",
+      "publishedTs": 1775729791000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Alpha Theta",
+        "Native Instruments",
+        "Pioneer DJ",
+        "Serato",
+        "Traktor",
+        "Upgrade"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/serato-alpha-theta.jpg",
+      "excerpt": "Serato announced hardware compatibility in Serato DJ Pro 4.0.6 for three iconic Pioneer DJ mixers, the DJM-250MK2, DJM-750MK2, and DJM-450. Officially mapped by Serato, DJs can now seamlessly integrate Serato DJ Pro and DVS with their pr…"
+    },
+    {
+      "id": "f5ea4df1673b061e3e68221667fb56764e4a2884",
+      "title": "Irreversible",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/brigitte-calls-me-maybe-irreversible/",
+      "published": "2026-04-09T10:01:10.000Z",
+      "publishedTs": 1775728870000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Brigitte-Calls-Me-Maybe-Irreversible.jpg",
+      "excerpt": "Si el nuevo disco de Morrissey te dejó catatónico, resulta casi correlativo dejarse caer tarde o temprano por las mieles... La entrada Irreversible se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d14520e236debe8819aa335860b3f4e371ba9364",
       "title": "Reseñamos 'Sexistential', lo nuevo de Robyn",
@@ -133,6 +167,20 @@
       "excerpt": "Por si no te has dado cuenta, el mundo se está yendo literalmente a la mierda. La verdad es que... La entrada Mutiny After Midnight se publicó primero en MondoSonoro ."
     },
     {
+      "id": "6783cd9c92cd9a799ae7cd316c06c4e77c4c6677",
+      "title": "Family Live (En Vivo)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/family-live-en-vivo-steven-munar/",
+      "published": "2026-04-07T09:16:19.000Z",
+      "publishedTs": 1775553379000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/StevenMunarCDLive.jpg",
+      "excerpt": "Creo que el propio Steven Munar debe pensar, como nos barruntamos ya unos cuantos, que “Family” (24), además de ser... La entrada Family Live (En Vivo) se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "6a73e74e4a69b0ba45a88d846533a0dad7fff49b",
       "title": "Peace In Place",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/peace-in-place/",
@@ -217,34 +265,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/joseba-irazoki-gitarra-IV.jpg",
       "excerpt": "Fue en 2017 cuando el maestro Irazoki comenzó la serie “Gitarra onomatopeikoa”, entre la improvisación y la investigación sonora, que... La entrada Gitarra onomatopeikoa IV (+ Lagunen ahotsak) se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ebed56272275e87107cd6f1c69b7108970efc2cd",
-      "title": "Ricochet",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/snail-mail-ricochet/",
-      "published": "2026-04-04T06:28:41.000Z",
-      "publishedTs": 1775284121000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Snail-Mail-Ricochet.jpg",
-      "excerpt": "La Lindsey Jordan de 2018 pensaba, a través de sus primerizos temas, que el mundo empezaba y acababa en las... La entrada Ricochet se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4b5d837af351acbcc6c31962feafe1899cf97518",
-      "title": "Distracted",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/thundercat-distracted/",
-      "published": "2026-04-03T07:22:51.000Z",
-      "publishedTs": 1775200971000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Thundercat-Distracted.jpg",
-      "excerpt": "Sobrecogedor, moderno y con química como para abastecer de por vida la BASF de Ludwigshafen. A su vez, “Distracted”, el... La entrada Distracted se publicó primero en MondoSonoro ."
     },
     {
       "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
@@ -573,24 +593,16 @@
       "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
     },
     {
-      "id": "82b0c9fbb840d5d1e838fc705a44aa426f65559d",
-      "title": "Five on Friday with Ilya Santana",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-ilya-santana/",
-      "published": "2026-03-27T06:35:07.000Z",
-      "publishedTs": 1774593307000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "acid",
-        "Disco",
-        "Electro",
-        "Funk",
-        "House",
-        "tech"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Ilya-Santana-scaled-e1774593161874.jpg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of someone we have a lot of time for here at Decoded and The Red Telephone. Ilya Santana is an electronic music producer from the Canary Islands with a sound rooted in space disco and cosmi…"
+      "id": "9bdbcd518121008ddd23bb31bc26ab90a69a19e2",
+      "title": "Pacha New York offers coupons to disgruntled Brooklyn Mirage ticketholders",
+      "link": "https://mixmag.net/read/pacha-new-york-pledges-credit-disgruntled-brooklyn-mirage-ticketholders-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york.jpg?width=660&fit=cover&s=diyxjvIQFX4M00gK8RZKp93mAx5J_C_fd2CgJxRDHrA",
+      "excerpt": "The new owners say they’re attempting to “rebuild” after a barrage of issues that previously faced the Williamsburg venue Continue reading..."
     },
     {
       "id": "4b54ee7563d0ef22b6bdf5d492f170ed53bbba7d",
@@ -602,7 +614,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_VANCO2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=EA6REDuSiz0ZIAbWmg3FVqCv7yAkSqPddgwSNEQvMc4",
-      "excerpt": "Vanco is riding high off the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with major tour dates and releases, including a Skepta and Asake collab, on the way. He takes a moment to share an emotionally-led mix and chats in-…"
+      "excerpt": "Vanco is riding high off the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with major tour dates and releases, including &#039;Repeat&#039; feat. DEELA, on the way. He takes a moment to share an emotionally-led mix and chat…"
     },
     {
       "id": "b10ba7da202131268a5f9b9240fde793b2c17a0a",
@@ -690,7 +702,7 @@
     },
     {
       "id": "3192afb6c65bf48174a21cbf2bff34b0858f1ccb",
-      "title": "Police accused of \"attacking\" attendees at 2000-strong rave in Dorset",
+      "title": "Police criticised for \"attacking\" attendees at a rave in Dorset",
       "link": "https://mixmag.net/read/police-accused-of-attacking-attendees-at-2000-strong-rave-in-dorset-news",
       "published": "",
       "publishedTs": 0,
@@ -1539,18 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/quarters-brighton-credit-jake-davis.jpg?width=660&fit=cover&s=L5HAb9bmOwciKQB-6UDo536Hjl8fmLvYxgVQiJM7M_c",
       "excerpt": "By waiving ticket fees, Quarters hopes to make clubbing more accessible rather than a “luxury” Continue reading..."
-    },
-    {
-      "id": "0c380e0eb37b454876a663f427befdb184caaed9",
-      "title": "Chicago's ARC Music Festival shares 2026 line-up with extended four-day programme",
-      "link": "https://mixmag.net/read/chicagos-arc-festival-shares-2026-line-up-with-extended-four-day-programme-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Arc-Chicago.png?width=660&fit=cover&s=0eVPhqE_KmfxVqcYi3Or8c4q-OzmYZYGu8COcZDr9f8",
-      "excerpt": "The annual celebration of house and techno will return to Union Park from September 4-7 Continue reading..."
     }
   ]
 }
