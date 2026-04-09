@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T11:58:27.907Z",
+  "generatedAt": "2026-04-09T14:01:21.420Z",
   "total": 110,
   "sources": [
     {
@@ -593,6 +593,18 @@
       "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
     },
     {
+      "id": "0077adb4a86be48b9c9e0b8bf78808fdaaa745b2",
+      "title": "Archival portal dedicated to SOPHIE's work launches online",
+      "link": "https://mixmag.net/read/archival-portal-dedicated-to-sophies-work-launches-online-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SOPHIE-c-Renata-Raksha.jpg?width=660&fit=cover&s=rcfX_2VpzocYnQuXhMVMTmf0_jtDFmOaXmnj8yKx-Ng",
+      "excerpt": "The fan-led project compiles live sets, interviews, releases and much more Continue reading..."
+    },
+    {
       "id": "9bdbcd518121008ddd23bb31bc26ab90a69a19e2",
       "title": "Pacha New York offers coupons to disgruntled Brooklyn Mirage ticketholders",
       "link": "https://mixmag.net/read/pacha-new-york-pledges-credit-disgruntled-brooklyn-mirage-ticketholders-news",
@@ -614,7 +626,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_VANCO2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=EA6REDuSiz0ZIAbWmg3FVqCv7yAkSqPddgwSNEQvMc4",
-      "excerpt": "Vanco is riding high off the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with major tour dates and releases, including &#039;Repeat&#039; feat. DEELA, on the way. He takes a moment to share an emotionally-led mix and chat…"
+      "excerpt": "Having released a stream of well-received tracks and played international tour dates for almost a decade, Vanco is now at the height of his powers, riding the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with more major re…"
     },
     {
       "id": "b10ba7da202131268a5f9b9240fde793b2c17a0a",
@@ -1539,18 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alice-Sutton.png?width=660&fit=cover&s=uuJerxIDcris4Pm38F8tka-Pg0cgV7VFFwze_KCua6Y",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "1f417e46e57e3cb9c79bf94bc3828b513fb939f3",
-      "title": "Brighton club Quarters launches free monthly events amid cost of living crisis",
-      "link": "https://mixmag.net/read/brighton-club-quarters-launches-free-monthly-events-amid-cost-of-living-crisis-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/quarters-brighton-credit-jake-davis.jpg?width=660&fit=cover&s=L5HAb9bmOwciKQB-6UDo536Hjl8fmLvYxgVQiJM7M_c",
-      "excerpt": "By waiving ticket fees, Quarters hopes to make clubbing more accessible rather than a “luxury” Continue reading..."
     }
   ]
 }
