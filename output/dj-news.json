@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T07:22:24.703Z",
+  "generatedAt": "2026-04-09T09:07:30.184Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d14520e236debe8819aa335860b3f4e371ba9364",
+      "title": "Reseñamos 'Sexistential', lo nuevo de Robyn",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/resenamos-sexistential-lo-nuevo-de-robyn/",
+      "published": "2026-04-09T06:11:07.000Z",
+      "publishedTs": 1775715067000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Robyn-Sexistential.jpg",
+      "excerpt": "Robyn nos tiene acostumbrados a la excelencia pop y a las largas esperas. La llegada de “Honey” en 2018 dejó... La entrada Reseñamos &#039;Sexistential&#039;, lo nuevo de Robyn se publicó primero en MondoSonoro ."
+    },
     {
       "id": "0c5bd8b0ee30de6f5e85fbd9f61303406af45669",
       "title": "Throwback Thursday: How Gorillaz Made the Most Unlikely Record of 2001 and Got Away With It",
@@ -231,20 +245,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/03/Thundercat-Distracted.jpg",
       "excerpt": "Sobrecogedor, moderno y con química como para abastecer de por vida la BASF de Ludwigshafen. A su vez, “Distracted”, el... La entrada Distracted se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f45effdf163c70fb31216cd3eac5476af6327532",
-      "title": "Paris in the Spring",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/alexis-taylor-paris-in-the-spring/",
-      "published": "2026-04-03T07:21:05.000Z",
-      "publishedTs": 1775200865000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Alexis-Taylor-Paris-in-the-Spring.jpg",
-      "excerpt": "Aunque cuidadosamente domesticadas por el tinte, las canas de Alexis Taylor delatan un evidente valor añadido en lo que respecta... La entrada Paris in the Spring se publicó primero en MondoSonoro ."
     },
     {
       "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
