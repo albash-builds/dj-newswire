@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T16:51:24.359Z",
+  "generatedAt": "2026-04-10T17:48:09.225Z",
   "total": 110,
   "sources": [
     {
@@ -591,6 +591,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
+    },
+    {
+      "id": "63eb78bb08ccb95e1e338d41812a59be387b8d4f",
+      "title": "Tottenham music venue The Post Bar to close permanently this weekend",
+      "link": "https://mixmag.net/read/tottenham-music-venue-the-post-bar-to-close-permanently-this-weekend-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-Post-Bar.png?width=660&fit=cover&s=_aMmJriIqgFxyHZ_i-mhpY1Jf7cBxJSklEX4sF9M0Z4",
+      "excerpt": "The owners have said that &quot;conversations are ongoing&quot; with prospective new operators of the space Continue reading..."
     },
     {
       "id": "1511df7d69710a7bdb3efee77c8a1b3c5b28cc13",
@@ -1539,18 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tread-noods-radio.jpg?width=660&fit=cover&s=tPzjSvX97xVhBuDSlTZ8UYSs3AmjGd0obmeAb3XwR3k",
       "excerpt": "TREAD will host production workshops, DJ lessons, recording sessions and live broadcasts Continue reading..."
-    },
-    {
-      "id": "0c1fea70cd5ce9e38258abe33cb080754d6e4a96",
-      "title": "UK artists can now apply for £125,000 fund to aid “cost of touring crisis”",
-      "link": "https://mixmag.net/read/uk-artists-apply-125000-pound-fund-aid-cost-of-touring-crisis-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/touring-fund-credit-daniel-nouri.jpg?width=660&fit=cover&s=raQ_vaej8zl1DweuEqBJDUu9fHBZEYjoPuXh53F_j70",
-      "excerpt": "It follows a report which found that 84% of UK independent artists couldn’t afford to tour last year Continue reading..."
     }
   ]
 }
