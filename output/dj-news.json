@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T07:27:18.451Z",
+  "generatedAt": "2026-04-10T09:09:14.620Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,39 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
+      "title": "Five on Friday with Thomass Jackson",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-thomass-jackson/",
+      "published": "2026-04-10T09:01:39.000Z",
+      "publishedTs": 1775811699000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Electronica",
+        "Five on Friday",
+        "House Music",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
+      "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
+    },
+    {
+      "id": "85619babb27b59c34b781563c54908e97d297d03",
+      "title": "Serpent Absolutisme Zen",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/serpent-absolutisme-zen/",
+      "published": "2026-04-10T08:01:40.000Z",
+      "publishedTs": 1775808100000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Serpent-Absolutisme-Zen.jpg",
+      "excerpt": "En tiempos de anestesia colectiva, el presente “Absolutisme Zen” suena a bendita anomalía. El cuarteto catalán Serpent dibuja con guitarras... La entrada Serpent Absolutisme Zen se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2b70ff5d76cf185b6c0813618383bb43618440df",
       "title": "Ezin atera",
@@ -251,20 +284,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Bumpboxx_BB-777_Hero_6.png?resize=810%2C540&ssl=1",
       "excerpt": "If you were of a certain age in the 1980s, the boombox was simply part of the landscape. It sat on shoulders at the beach, anchored the corner of the park, soundtracked the street. It was communal by design, a shared experience rather th…"
-    },
-    {
-      "id": "c3f118ea721bb057edbb6e32ea0cb690d6963158",
-      "title": "Against The Dying Of The Light",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jose-gonzalez-against-the-dying-of-the-light/",
-      "published": "2026-04-06T09:08:09.000Z",
-      "publishedTs": 1775466489000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Jose-Gonzalez%E2%80%8B-Against-The-Dying-Of-The-Light.jpg",
-      "excerpt": "José González vuelve a ensimismar con sus reconocibles encantos casi cinco años después de “Local Valley” (City Slang, 21), lanzando... La entrada Against The Dying Of The Light se publicó primero en MondoSonoro ."
     },
     {
       "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
@@ -572,25 +591,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
-    },
-    {
-      "id": "968c8ef053450ad1a06df12473a7f335b269ac1e",
-      "title": "Token Records just announced Fuga VII by Various Artists",
-      "link": "https://www.decodedmagazine.com/token-records-just-announced-fuga-vii-by-various-artists/",
-      "published": "2026-03-27T06:51:24.000Z",
-      "publishedTs": 1774594284000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Belgium",
-        "Deep techno",
-        "Fuga",
-        "Techno",
-        "Token Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Funga-VII.jpg",
-      "excerpt": "Fuga VII by Various Artists The Fuga compilation returns to Token with its seventh installment by a fresh batch of artists emphasizing the cryptic sound of the Belgian record label. The V/A displays urgency as its focal point, expanding …"
     },
     {
       "id": "c45f2866d1c8fae784cd0566e0c3cdcf6433b0dc",
