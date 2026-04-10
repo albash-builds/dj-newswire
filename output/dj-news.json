@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T15:53:18.970Z",
+  "generatedAt": "2026-04-10T16:51:24.359Z",
   "total": 110,
   "sources": [
     {
@@ -591,6 +591,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
+    },
+    {
+      "id": "1511df7d69710a7bdb3efee77c8a1b3c5b28cc13",
+      "title": "Artemis II astronauts have been listening to Denzel Curry in space",
+      "link": "https://mixmag.net/read/artemis-ii-astronauts-have-been-listening-to-denzel-curry-in-space-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/denzel-curry-artemis-ii.jpg?width=660&fit=cover&s=eChsDs_O3oCRYZ-TsW9HBcIPdBxhDmm5i8O9o_W5-3w",
+      "excerpt": "Curry now says he wants to become the first rapper to perform in space Continue reading..."
+    },
+    {
+      "id": "126d799f71a44384f945a77e54a64620df4f69c3",
+      "title": "Freddie Gibbs rumoured to feature in GTA VI mission",
+      "link": "https://mixmag.net/read/freddie-gibbs-rumoured-to-feature-in-gta-6-mission-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTA-6_2026-04-10-094646_bmhr.png?width=660&fit=cover&s=aTRCKsdmvYqpcrl8YcB-OUgXiULn2GNxoqlGJ18okPI",
+      "excerpt": "Presenter HipHopGamer claims Gibbs will star in a &quot;special side mission&quot; in the long-awaited next game in the Grand Theft Auto series Continue reading..."
     },
     {
       "id": "8c4123d69ec39931266c9a980c80b791a84c0d46",
@@ -1527,30 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/touring-fund-credit-daniel-nouri.jpg?width=660&fit=cover&s=raQ_vaej8zl1DweuEqBJDUu9fHBZEYjoPuXh53F_j70",
       "excerpt": "It follows a report which found that 84% of UK independent artists couldn’t afford to tour last year Continue reading..."
-    },
-    {
-      "id": "ca9759578705f164ace089f24221ab50a555ff2e",
-      "title": "Banksy's identity \"revealed\" in new investigation",
-      "link": "https://mixmag.net/read/banksy-identity-reportedly-revealed-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bansky.png?width=660&fit=cover&s=MS2RU7W40tIua0JS5wKNf8mABUZqPFDO6H15_i8cZ64",
-      "excerpt": "Legal representatives for Bansky have denied the claims, insisting that probes into the street artist&#039;s identity could &quot;put him in danger&quot; Continue reading..."
-    },
-    {
-      "id": "20f647cbeac08c4a1fe4155420958705891768c5",
-      "title": "James Blake claims that he isn’t paid for 95% of his production work",
-      "link": "https://mixmag.net/read/james-blake-claims-unpaid-95-percent-production-work-interview-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/james-blake-credit-harrisonadair.jpg?width=660&fit=cover&s=AW86aLxvkHAaNnLv0PY41eI-jYNYrAL-s1BbJBJqy1w",
-      "excerpt": "In a new interview, Blake argued that “producers don’t get paid by the hour” despite spending countless hours making music Continue reading..."
     }
   ]
 }
