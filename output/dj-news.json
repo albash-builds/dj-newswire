@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T21:32:45.734Z",
+  "generatedAt": "2026-04-11T22:32:27.722Z",
   "total": 110,
   "sources": [
     {
@@ -591,6 +591,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
+    },
+    {
+      "id": "00a11e78417a41159e4f4ff1d443165713d52d3f",
+      "title": "Festival line-ups you might have missed: Bass Coast, Dekmantel Lentekabinet, SPOT",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-bass-coast-dekmantel-lentekabinet-spot-",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bass-coast-festivals.jpg?width=660&fit=cover&s=GJGdyws3qKTKk2EdwoKAE9xmUGk-4onCPG9LXDGx_TY",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "63eb78bb08ccb95e1e338d41812a59be387b8d4f",
@@ -1539,18 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Chemistry.png?width=660&fit=cover&s=RFs_M-_H9WB8ZLbJFwBdxs1DtavvocnXm3DWQMYtI-E",
       "excerpt": "Club Chemistry owners estimate that 2,000 people visited the venue from March 5 - 7 when the outbreak is thought to have started Continue reading..."
-    },
-    {
-      "id": "891cc7388133f710a2003c83aa57e66b62113afe",
-      "title": "Bristol’s Noods Radio opens mobile music studio in converted police van",
-      "link": "https://mixmag.net/read/bristols-noods-radio-opens-mobile-music-studio-in-converted-police-van-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tread-noods-radio.jpg?width=660&fit=cover&s=tPzjSvX97xVhBuDSlTZ8UYSs3AmjGd0obmeAb3XwR3k",
-      "excerpt": "TREAD will host production workshops, DJ lessons, recording sessions and live broadcasts Continue reading..."
     }
   ]
 }
