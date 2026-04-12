@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T14:38:56.494Z",
+  "generatedAt": "2026-04-12T15:35:24.877Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3f89a36d19ca16eb41785fbb1cafd334ceadd921",
+      "title": "Cinco Estrellas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/vicente-calderon-cinco-estrellas/",
+      "published": "2026-04-12T15:13:33.000Z",
+      "publishedTs": 1776006813000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Vicente-Calderon-Cinco-Estrellas.jpg",
+      "excerpt": "¿Si tuvieras que definir la escena guitarrera actual, como lo harías? ¿Alabando a los imitadores de Carolina Durante o alabando... La entrada Cinco Estrellas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "23e93f2fb27644eae41035d79d10f8657bd14f96",
       "title": "THIS ALBUM MAY CONTAIN HOPE.",
@@ -226,20 +240,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Johnny-Blue-Skies-Mutiny-After-Midnight-.jpg",
       "excerpt": "Por si no te has dado cuenta, el mundo se está yendo literalmente a la mierda. La verdad es que... La entrada Mutiny After Midnight se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6783cd9c92cd9a799ae7cd316c06c4e77c4c6677",
-      "title": "Family Live (En Vivo)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/family-live-en-vivo-steven-munar/",
-      "published": "2026-04-07T09:16:19.000Z",
-      "publishedTs": 1775553379000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/StevenMunarCDLive.jpg",
-      "excerpt": "Creo que el propio Steven Munar debe pensar, como nos barruntamos ya unos cuantos, que “Family” (24), además de ser... La entrada Family Live (En Vivo) se publicó primero en MondoSonoro ."
     },
     {
       "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
