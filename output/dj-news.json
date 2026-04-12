@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-12T05:23:37.107Z",
-  "total": 110,
+  "generatedAt": "2026-04-12T07:14:09.004Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "23e93f2fb27644eae41035d79d10f8657bd14f96",
@@ -33,25 +40,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Raye-THIS-ALBUM-MAY-CONTAIN-HOP.jpg",
       "excerpt": "“THIS ALBUM MAY CONTAIN HOPE”, el segundo disco de la británica Raye, suena a veces extravagante y exagerado. Es un... La entrada THIS ALBUM MAY CONTAIN HOPE. se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
-      "title": "Five on Friday with Thomass Jackson",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-thomass-jackson/",
-      "published": "2026-04-10T09:01:39.000Z",
-      "publishedTs": 1775811699000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Electronica",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
-      "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
     },
     {
       "id": "85619babb27b59c34b781563c54908e97d297d03",
@@ -82,26 +70,6 @@
       "excerpt": "“Ezin atera” es el debut de Orsini, banda de reciente formación pero compuesta por veteranos de la escena bilbaína. A... La entrada Ezin atera se publicó primero en MondoSonoro ."
     },
     {
-      "id": "2e2871c14d9f566f2601e4aa8c8e7b76b9fd258a",
-      "title": "Serato Expands Hardware Support to 3 Pioneer Mixers with SDJ 4.0.6",
-      "link": "https://www.decodedmagazine.com/serato-expands-hardware-support-to-3-pioneer-mixers-with-sdj-4-0-6/",
-      "published": "2026-04-09T10:16:31.000Z",
-      "publishedTs": 1775729791000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Alpha Theta",
-        "Native Instruments",
-        "Pioneer DJ",
-        "Serato",
-        "Traktor",
-        "Upgrade"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/serato-alpha-theta.jpg",
-      "excerpt": "Serato announced hardware compatibility in Serato DJ Pro 4.0.6 for three iconic Pioneer DJ mixers, the DJM-250MK2, DJM-750MK2, and DJM-450. Officially mapped by Serato, DJs can now seamlessly integrate Serato DJ Pro and DVS with their pr…"
-    },
-    {
       "id": "f5ea4df1673b061e3e68221667fb56764e4a2884",
       "title": "Irreversible",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/brigitte-calls-me-maybe-irreversible/",
@@ -128,48 +96,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Robyn-Sexistential.jpg",
       "excerpt": "Robyn nos tiene acostumbrados a la excelencia pop y a las largas esperas. La llegada de “Honey” en 2018 dejó... La entrada Sexistential se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0c5bd8b0ee30de6f5e85fbd9f61303406af45669",
-      "title": "Throwback Thursday: How Gorillaz Made the Most Unlikely Record of 2001 and Got Away With It",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-how-gorillaz-made-the-most-unlikely-record-of-2001-and-got-away-with-it/",
-      "published": "2026-04-09T03:07:53.000Z",
-      "publishedTs": 1775704073000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Del The Funky Homosapien",
-        "Electronica",
-        "Gorillaz",
-        "Hip Hop",
-        "Kid Koala",
-        "Pop",
-        "Review",
-        "Throwback Thursday",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/gorillaz.jpg",
-      "excerpt": "Some records arrive with a concept so odd that the music almost becomes secondary to the argument surrounding it. The debut album from Gorillaz was exactly that kind of record. Released on 26 March 2001, it was the work of Damon Albarn a…"
-    },
-    {
-      "id": "e4ca7e67f68086e412e98c8cb1744f9ec3341cbd",
-      "title": "Amirali just announced Radiance on SCI+TEC",
-      "link": "https://www.decodedmagazine.com/amirali-just-announced-radiance-on-scitec/",
-      "published": "2026-04-08T10:56:37.000Z",
-      "publishedTs": 1775645797000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Amirali",
-        "Progressive House",
-        "SCI+TEC",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/a1918419561_10.jpg",
-      "excerpt": "Radiance by Amirali After a period exploring left-field and experimental territories while completing his second studio album, Amirali returned to dance music in recent years with a renewed focus on the dancefloor. “Radiance”, his latest…"
     },
     {
       "id": "c0596db36a452c3961eecebd1996a3c7de21d9cf",
@@ -240,357 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/StevenMunarCDLive.jpg",
       "excerpt": "Creo que el propio Steven Munar debe pensar, como nos barruntamos ya unos cuantos, que “Family” (24), además de ser... La entrada Family Live (En Vivo) se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
-      "title": "Fake Artists, Real Money: The AI Machine Quietly Bankrupting Electronic Music’s Future",
-      "link": "https://www.decodedmagazine.com/fake-artists-real-money-the-ai-machine-quietly-bankrupting-electronic-musics-future/",
-      "published": "2026-04-07T07:13:40.000Z",
-      "publishedTs": 1775546020000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Music Industry",
-        "AI",
-        "Apple Music",
-        "Beatport",
-        "Copyright",
-        "Deezer",
-        "Ghost production",
-        "music production",
-        "Spotify",
-        "Suno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/AI-Music-production-Decoded-Magazine-scaled.png",
-      "excerpt": "Ghost production has never been a secret in electronic music (we even wrote about it back in 2016). It has always existed in the margins, understood rather than spoken about, a quiet arrangement between those who could make the music and…"
-    },
-    {
-      "id": "afa293f3e6d7c9f5152529c1ea3c04acccac7d58",
-      "title": "Bumpboxx Rebuilds an Icon: Meet the BB-777",
-      "link": "https://www.decodedmagazine.com/bumpboxx-rebuilds-an-icon-meet-the-bb-777/",
-      "published": "2026-04-07T05:04:31.000Z",
-      "publishedTs": 1775538271000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Boombox",
-        "Bumpbox",
-        "Cassetee tape",
-        "CD",
-        "Stereo"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Bumpboxx_BB-777_Hero_6.png?resize=810%2C540&ssl=1",
-      "excerpt": "If you were of a certain age in the 1980s, the boombox was simply part of the landscape. It sat on shoulders at the beach, anchored the corner of the park, soundtracked the street. It was communal by design, a shared experience rather th…"
-    },
-    {
-      "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
-      "title": "Five on Friday with 303 Resistance",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-303-resistance/",
-      "published": "2026-04-03T06:22:09.000Z",
-      "publishedTs": 1775197329000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "303 acid",
-        "303 resistance",
-        "Electronica",
-        "Funk",
-        "Jeff Mills",
-        "Mad Mike Banks",
-        "Robert Hood",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/303-resistance-scaled-e1775197179504.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes from Manchester&#8217;s own 303 Resistance. There&#8217;s a difference between talking about keeping something alive and actually doing it. 303 Resistance sits firmly in the second camp. He was putt…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-04-02T16:05:22.000Z",
-      "publishedTs": 1775145922000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
-    },
-    {
-      "id": "ed7c9b36eb54170fba85d5caae5ea4bed1d14b25",
-      "title": "UK Rave Culture: A New Era Documentary Heads for Global Theatrical Release",
-      "link": "https://www.decodedmagazine.com/uk-rave-culture-a-new-era-documentary-heads-for-global-theatrical-release/",
-      "published": "2026-04-02T08:24:14.000Z",
-      "publishedTs": 1775118254000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Altern 8",
-        "Bristol",
-        "Bryan Gee",
-        "Cardiff",
-        "Culture",
-        "DJ Hype",
-        "DJ Rap",
-        "Documentary",
-        "Edinburgh",
-        "Eduardo Cubillo Blasco",
-        "Essex"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/docnroll-rave-culture-documentary.jpg",
-      "excerpt": "There are stories that have been told in fragments for decades, pieced together through fanzines, mixtapes, and late-night conversations between people who were there. The story of the British rave revolution is one of them. Now it has a…"
-    },
-    {
-      "id": "c9f016d39a28d1c74261f1731a3d491638c521dd",
-      "title": "Throwback Thursday: The Technics SL-DZ1200 — Beautiful, Ambitious, and a Little Broken",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-technics-sl-dz1200-beautiful-ambitious-and-a-little-broken/",
-      "published": "2026-04-02T03:50:35.000Z",
-      "publishedTs": 1775101835000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "CD Player",
-        "CDJ",
-        "CDJ-1000",
-        "DJ",
-        "MP3",
-        "Music tech",
-        "Panasonic",
-        "Pioneer",
-        "SD Card",
-        "technics"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/57_7866414c-a951-4dc9-bde2-d59cd3abc010.webp?resize=810%2C608&ssl=1",
-      "excerpt": "There are pieces of gear that divide a room, and the Technics SL-DZ1200 is one of them. Even now, mentioning it to the right crowd will get you a knowing smirk from one person and an eye roll from the next. Released in 2004, it arrived a…"
-    },
-    {
-      "id": "cc7139868d7f2b612e5666aaa5a3b6692f51f9c7",
-      "title": "Korg Revives the Vestax Handy Traxx Portable Turntable",
-      "link": "https://www.decodedmagazine.com/korg-revives-the-vestax-handy-trax-portable-turntable/",
-      "published": "2026-04-02T02:56:01.000Z",
-      "publishedTs": 1775098561000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "Handy Trax",
-        "Korg",
-        "Portable",
-        "Scatching",
-        "Toshihide Nakama",
-        "Turntable",
-        "Vestax",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
-      "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
-    },
-    {
-      "id": "38f6932a71ed4d1ad50edc810525d0d1890ec176",
-      "title": "Genki Instruments announces availability of Katla as Voice Rotating Polyphonic Synthesizer",
-      "link": "https://www.decodedmagazine.com/genki-instruments-announces-availability-of-katla-as-voice-rotating-polyphonic-synthesizer/",
-      "published": "2026-04-01T11:07:04.000Z",
-      "publishedTs": 1775041624000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech Reviews",
-        "Genki Instruments",
-        "music production",
-        "Synthesizer",
-        "Voice Rotating Polyphonic Synthesizer"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Katla-14-Front.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "Reykjavik-based instrument developer Genki Instruments has announced availability of the eagerly-awaited Katla as a Voice Rotating Polyphonic Synthesizer inspired by Iceland’s largest subglacial volcano as its natural namesake — readily …"
-    },
-    {
-      "id": "74ee770ed97a287bbd353d713203bde5168bf894",
-      "title": "Sam Binga & Addison Groove announce debut album",
-      "link": "https://www.decodedmagazine.com/sam-binga-addison-groove-announce-debut-album/",
-      "published": "2026-04-01T10:46:19.000Z",
-      "publishedTs": 1775040379000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "acid",
-        "Bags Inc",
-        "Bristol",
-        "Electro",
-        "fabric london",
-        "House",
-        "Live Techno",
-        "Pineapple Records",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Sam-Binga-Addison-Groove.png",
-      "excerpt": "Bristol DJ/producers Sam Binga and Addison Groove announce their debut collaborative album BAGS INC., out 10th July via Pineapple Records. Drawing on techno, electro, raw Chicago house, juke and acid influences, the 12-track LP unites tw…"
-    },
-    {
-      "id": "7bc69916a5316d9ad9ede9fce7ebb78c0068218d",
-      "title": "SPEEDY J announces first solo album in 20 years",
-      "link": "https://www.decodedmagazine.com/speedy-j-announces-first-solo-album-in-20-years/",
-      "published": "2026-04-01T10:32:54.000Z",
-      "publishedTs": 1775039574000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Deep techno",
-        "Electronica",
-        "Speedy J",
-        "STOOR",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Speey-J-credit-Stijn-Berer.jpeg",
-      "excerpt": "Contemplating the role of the album format in an attention-deficient society, Speedy J presents&nbsp; Walkman &nbsp;— a constantly shifting, 90-minute soundtrack to a journey of your choice. Jochem Paap&#8217;s first solo album in over 2…"
-    },
-    {
-      "id": "6d43c0cf01289908fb7f13e86ed05d64dbd69039",
-      "title": "Book of the Month – Machines: A History of Electronic Music by Jean-Michel Jarre",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-machines-a-history-of-electronic-music-by-jean-michel-jarre/",
-      "published": "2026-04-01T09:20:52.000Z",
-      "publishedTs": 1775035252000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book",
-        "Book of the month",
-        "Electronica",
-        "Jean-Michel Jarre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Jean-Michel-Jarre.webp",
-      "excerpt": "The definitive illustrated story of electronic sound, from WWI to the AI-enabled future, presented by the godfather of the genre. Jean-Michel Jarre is a true pioneer of electronic music. From his early role in electronic sound to his cur…"
-    },
-    {
-      "id": "90126026d588c229fa09d879a05a8c05339e25cf",
-      "title": "We Roadtest the New RMX-IGNITE from Alpha Theta",
-      "link": "https://www.decodedmagazine.com/we-roadtest-the-new-rmx-ignite-from-alpha-theta/",
-      "published": "2026-03-31T09:50:22.000Z",
-      "publishedTs": 1774950622000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech Reviews",
-        "Alpha Theta",
-        "Elite Force",
-        "RMX",
-        "RMX-IGNITE",
-        "sampler",
-        "Simon Shackleton",
-        "Tech Review"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/rmx-ignite_5.webp?resize=810%2C810&ssl=1",
-      "excerpt": "The RMX-IGNITE is AlphaTheta’s latest evolution of the RMX concept, a standalone effects and performance sampler designed to sit alongside modern DJ and hybrid setups. It is impeccably built, clearly laid out, and unmistakably aimed at D…"
-    },
-    {
-      "id": "22a91c8841b280b9617029d580894f909bc74840",
-      "title": "In-between Ibiza’s Unveils New Exhibition Documenting the World’s Dancefloors Through Film",
-      "link": "https://www.decodedmagazine.com/new-exhibition-featuring-kettama-chloe-caillet-skepta-and-more-at-in-between-ibiza/",
-      "published": "2026-03-31T07:53:20.000Z",
-      "publishedTs": 1774943600000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Art",
-        "Ibiza",
-        "Lifestyle",
-        "Fisher",
-        "Keinemusik",
-        "Peggy Gou",
-        "Photograpghy",
-        "Skepta",
-        "Skrillex",
-        "Ushuaïa"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/%40CAPTURECHARLES-A-SHOT-IN-THE-DARK-%40INBETWEENIBIZA-PIKES-IBIZA-DANCEFLOOR-.jpg?resize=810%2C964&ssl=1",
-      "excerpt": "I n-between Ibiza unveils A Shot in the Dark, a solo photography exhibition A Shot In The Dark by globally-renowned Australian photographer capturecharles, running from 17 April to 8 May, 2026. Housed within In-between Ibiza’s gallery in…"
-    },
-    {
-      "id": "c10638bdb5d7d5725e675978022c1fb57947b2f6",
-      "title": "Danny Howells: Still Digging Deeper After Three Decades",
-      "link": "https://www.decodedmagazine.com/danny-howells-still-digging-deeper-after-three-decades/",
-      "published": "2026-03-31T05:52:37.000Z",
-      "publishedTs": 1774936357000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "AI",
-        "Anthony Pappa",
-        "Danny Howells",
-        "Global Underground",
-        "House Music",
-        "John Digweed",
-        "Nubreed",
-        "Progressive House",
-        "Sasha"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Danny-Howells-1.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "There are DJs who arrive on a wave of industry hype and algorithmic favour, and then there are those who build a career through years of patient, purposeful craft. Danny Howells belongs to the second category. Born in Hastings in 1970, H…"
-    },
-    {
-      "id": "958bc1af13372aa1868598fc5cd26941941c6056",
-      "title": "error.func is back",
-      "link": "https://www.decodedmagazine.com/error-func-is-back/",
-      "published": "2026-03-30T08:34:14.000Z",
-      "publishedTs": 1774859654000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Berlin",
-        "error.func",
-        "Lucidflow",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/error-funk.jpg",
-      "excerpt": "error.func &#8211; Our Desire [LF370] by error.func Our Desire delivers three absolutely raving tracks that feel instantly familiar yet freshly rewired. This is error.func in peak form: sharp ideas, fearless groove design, and that unmis…"
-    },
-    {
-      "id": "dcf3f9a2fc3c3844670c3791f01c80cbd5a612fc",
-      "title": "D-EDGE celebrates 26 years with landmark São Paulo and Rio parties",
-      "link": "https://www.decodedmagazine.com/d-edge-celebrates-26-years-with-landmark-sao-paulo-and-rio-parties/",
-      "published": "2026-03-30T08:04:38.000Z",
-      "publishedTs": 1774857878000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "South America",
-        "World",
-        "Brazil",
-        "D-Edge",
-        "House Music",
-        "Progressive House",
-        "Rio",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
     },
     {
       "id": "00a11e78417a41159e4f4ff1d443165713d52d3f",
