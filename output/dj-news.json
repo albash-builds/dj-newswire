@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-12T23:34:47.562Z",
+  "generatedAt": "2026-04-13T02:38:58.803Z",
   "total": 110,
   "sources": [
     {
@@ -591,6 +591,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/unnamed-21.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Carl Craig b2b Moodymann, KiNK, Daria Kolosova, Len Faki, Nastia, DJ Marky and more all play across two events in Rio and Sao Paolo The most influential club in Brazil, D-EDGE, marks its 26th anniversary with two major events across its …"
+    },
+    {
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Tracks2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=8ZtMXdnQcPij1ZTTjfvu06HpkKMedasj0r2rc_Xfie8",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
       "id": "c318f0682431064c58750f27eacf0ba7ec708206",
@@ -1539,18 +1551,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rave-1.png?width=660&fit=cover&s=n0xUSQCCGi0XqoofAyaJF8fOy4WkT-2yDrmSPm_Y_Go",
       "excerpt": "Centred around the free party explosion of the late &#039;80s, Rave Culture: A New Era features interviews with Orbital, General Levy, and The Prodigy&#039;s Leeroy Thornhill Continue reading..."
-    },
-    {
-      "id": "93a25a4a1a63bb1c27ea2e786d289ed1ca116db9",
-      "title": "Three arrested following 200-strong illegal rave in Norfolk",
-      "link": "https://mixmag.net/read/three-arrested-following-200-strong-illegal-rave-norfolk-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/grimes-graves.jpg?width=660&fit=cover&s=ybgxRfQk7LkprWh0sN7ysECo9SJY_l4mLs07iEr61vY",
-      "excerpt": "Two vans full of music equipment were seized after police shut down the event on Sunday Continue reading..."
     }
   ]
 }
