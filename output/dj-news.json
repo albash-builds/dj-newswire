@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T12:02:07.777Z",
+  "generatedAt": "2026-04-13T14:48:35.014Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,72 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "430fce344885b615570f3b33cd952c67c2258995",
+      "title": "FUSE and Brunch Electronik announce joint Ibiza series at 528",
+      "link": "https://www.decodedmagazine.com/fuse-and-brunch-electronik-announce-joint-ibiza-series-at-528/",
+      "published": "2026-04-13T13:18:05.000Z",
+      "publishedTs": 1776086285000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Ibiza",
+        "528 Ibiza",
+        "Brunch Electronik",
+        "deep house",
+        "Deep techno",
+        "Fuse",
+        "Tech House",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/DSC5690.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "FUSE has revealed the full line-ups for its Ibiza series with Brunch Electronik this summer, returning to 528 across Sunday 2nd, 9th and 16th August 2026. Taking place at one of the island’s most distinctive venues, the series unfolds as…"
+    },
+    {
+      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
+      "title": "Submit your Mix of the Month DJ Competition entry",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
+      "published": "2026-04-13T12:13:41.000Z",
+      "publishedTs": 1776082421000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Mixes",
+        "breaks",
+        "DJ Competition",
+        "DnB",
+        "dub techno",
+        "House Music",
+        "Melodic Techno",
+        "Progressive House",
+        "Techno",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
+      "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
+    },
+    {
+      "id": "7b17b96b282835802c4a41d7fb4906f6033c90e6",
+      "title": "Meet our March 2026 Mix of the Month Winner – Aqueous",
+      "link": "https://www.decodedmagazine.com/meet-our-march-mix-of-the-month-winner-aqueous/",
+      "published": "2026-04-13T12:12:40.000Z",
+      "publishedTs": 1776082360000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Breaks &amp; DnB",
+        "Featured",
+        "Mixes",
+        "Aqueous",
+        "DJ Competition",
+        "DnB",
+        "IDM",
+        "Mix of the Month"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Aqueous-Monkey-Loft-25-scaled.jpg",
+      "excerpt": "Decoded Magazine · Mix of the Month March 2026 Winner &#8211; Aqueous March&#8217;s Mix of the Month winner is someone who has been a familiar presence in our submissions inbox for a while now. Aqueous has been a runner up on several pre…"
+    },
     {
       "id": "a7262759080f52a06bc3369f2ff21752586266e2",
       "title": "Hospitality on the Beach is partnering with Nautica Collective",
@@ -356,29 +422,6 @@
       "excerpt": "This week&#8217;s Five on Friday comes from Manchester&#8217;s own 303 Resistance. There&#8217;s a difference between talking about keeping something alive and actually doing it. 303 Resistance sits firmly in the second camp. He was putt…"
     },
     {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-04-02T16:05:22.000Z",
-      "publishedTs": 1775145922000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
-    },
-    {
       "id": "ed7c9b36eb54170fba85d5caae5ea4bed1d14b25",
       "title": "UK Rave Culture: A New Era Documentary Heads for Global Theatrical Release",
       "link": "https://www.decodedmagazine.com/uk-rave-culture-a-new-era-documentary-heads-for-global-theatrical-release/",
@@ -553,52 +596,16 @@
       "excerpt": "The RMX-IGNITE is AlphaTheta’s latest evolution of the RMX concept, a standalone effects and performance sampler designed to sit alongside modern DJ and hybrid setups. It is impeccably built, clearly laid out, and unmistakably aimed at D…"
     },
     {
-      "id": "22a91c8841b280b9617029d580894f909bc74840",
-      "title": "In-between Ibiza’s Unveils New Exhibition Documenting the World’s Dancefloors Through Film",
-      "link": "https://www.decodedmagazine.com/new-exhibition-featuring-kettama-chloe-caillet-skepta-and-more-at-in-between-ibiza/",
-      "published": "2026-03-31T07:53:20.000Z",
-      "publishedTs": 1774943600000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Art",
-        "Ibiza",
-        "Lifestyle",
-        "Fisher",
-        "Keinemusik",
-        "Peggy Gou",
-        "Photograpghy",
-        "Skepta",
-        "Skrillex",
-        "Ushuaïa"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/%40CAPTURECHARLES-A-SHOT-IN-THE-DARK-%40INBETWEENIBIZA-PIKES-IBIZA-DANCEFLOOR-.jpg?resize=810%2C964&ssl=1",
-      "excerpt": "I n-between Ibiza unveils A Shot in the Dark, a solo photography exhibition A Shot In The Dark by globally-renowned Australian photographer capturecharles, running from 17 April to 8 May, 2026. Housed within In-between Ibiza’s gallery in…"
-    },
-    {
-      "id": "c10638bdb5d7d5725e675978022c1fb57947b2f6",
-      "title": "Danny Howells: Still Digging Deeper After Three Decades",
-      "link": "https://www.decodedmagazine.com/danny-howells-still-digging-deeper-after-three-decades/",
-      "published": "2026-03-31T05:52:37.000Z",
-      "publishedTs": 1774936357000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "AI",
-        "Anthony Pappa",
-        "Danny Howells",
-        "Global Underground",
-        "House Music",
-        "John Digweed",
-        "Nubreed",
-        "Progressive House",
-        "Sasha"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/Danny-Howells-1.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "There are DJs who arrive on a wave of industry hype and algorithmic favour, and then there are those who build a career through years of patient, purposeful craft. Danny Howells belongs to the second category. Born in Hastings in 1970, H…"
+      "id": "1c3e767c69d0eb3c435fece7759d290543497bcb",
+      "title": "Ibiza residents call for cap on Balearic tourist numbers in new survey",
+      "link": "https://mixmag.net/read/ibiza-residents-call-for-cap-on-balearic-tourist-numbers-in-new-survey-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ibiza-1.png?width=660&fit=cover&s=CfQD7FBhoNxk4obM0So8VzxTjtC0gz08D9ULsuX2VHw",
+      "excerpt": "Out of 2,008 residents surveyed by Balearic electoral party alliance Ara Més, 69.1% agreed there should be a cap on the number of visitors to the Spanish islands Continue reading..."
     },
     {
       "id": "914251cb9c2062448849623f5b62978dfe5aebed",
@@ -1547,18 +1554,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Parliament.png?width=660&fit=cover&s=ljUyZmQWWQH06Bhy5UHhryqyajcijizoJSYtyZmVLQA",
       "excerpt": "Technology Secretary Liz Kendall said the government has &quot;listened&quot; following widespread backlash from across the music industry Continue reading..."
-    },
-    {
-      "id": "bdda180bb488911fb145c9ef43f26cb1f12dfe91",
-      "title": "Documentary exploring the UK's \"rave revolution\" to premiere this month",
-      "link": "https://mixmag.net/read/documentary-exploring-the-uks-rave-revolution-to-premiere-this-month-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rave-1.png?width=660&fit=cover&s=n0xUSQCCGi0XqoofAyaJF8fOy4WkT-2yDrmSPm_Y_Go",
-      "excerpt": "Centred around the free party explosion of the late &#039;80s, Rave Culture: A New Era features interviews with Orbital, General Levy, and The Prodigy&#039;s Leeroy Thornhill Continue reading..."
     }
   ]
 }
