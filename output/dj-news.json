@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T16:12:49.026Z",
+  "generatedAt": "2026-04-13T18:00:28.171Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "e121ab3e4fd6fbc22ef22a8d0ccaffe67a8e319b",
+      "title": "Lost on You",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tigers-jaw-lost-on-you/",
+      "published": "2026-04-13T16:51:21.000Z",
+      "publishedTs": 1776099081000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Tigers-Jaw-Lost-on-You.jpg",
+      "excerpt": "Pasado, presente y futuro ocurren simultáneamente en nuestras vidas. A partir de esta idea, Tigers Jaw enlazan once nuevas historias... La entrada Lost on You se publicó primero en MondoSonoro ."
+    },
     {
       "id": "456e5c7df7961ea502ffc5f771295c3ca631874f",
       "title": "Tragedia Nueva",
@@ -154,18 +168,40 @@
       "excerpt": "Está sobradamente demostrado que la figura de Elvis Presley trasciende el ámbito musical para esparcir su mitología en todos los... La entrada Elvis de Goma se publicó primero en MondoSonoro ."
     },
     {
-      "id": "92cc1c8d3fe415e8aff51f520594dc8959b73413",
-      "title": "Vol II",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/angine-de-poitrine-vol-ii/",
-      "published": "2026-04-07T15:21:48.000Z",
-      "publishedTs": 1775575308000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Angine-de-Poitrine-vol-ii.jpg",
-      "excerpt": "Hay cierto convencimiento en algunos sectores de la industria musical, o más bien en los sectores que circulan el costado... La entrada Vol II se publicó primero en MondoSonoro ."
+      "id": "463c9dd5c5ba3dd32f5a1c34e35361720dd2b4e7",
+      "title": "Björk confirms that a new album is coming in 2027",
+      "link": "https://mixmag.net/read/bjork-confirms-that-a-new-album-is-coming-in-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bjork-Brits.png?width=660&fit=cover&s=SQoiPMHloTH6Dav7bjnM5vuEY5MrxHjUL9lwATRz6h0",
+      "excerpt": "The Icelandic musician confirmed that a version &quot;of a new song&quot; will feature as part of her echolalia exhibition at the National Gallery of Iceland Continue reading..."
+    },
+    {
+      "id": "c0971ae87ff20c73c8b25e0421bfb01fcfce5dfa",
+      "title": "Conservative MP calls for DJ Haram to be barred from UK",
+      "link": "https://mixmag.net/read/conservative-mp-calls-dj-haram-barred-from-uk-ahead-of-shows-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-haram-uk-shows.jpg?width=660&fit=cover&s=OBC_InoZMef2b5TX_EywPsPNvWVplzrdE3H3ba3Qy9I",
+      "excerpt": "It follows her impassioned pro-Palestine speech at the 25th Biennale of Sydney last month Continue reading..."
+    },
+    {
+      "id": "8f82121666bc91c7eeb066bd37dfc3647154aa69",
+      "title": "Legendary Bollywood singer and Gorillaz collaborator Asha Bhosle has died, aged 92",
+      "link": "https://mixmag.net/read/legendary-bollywood-singer-and-gorillaz-collaborator-asha-bholse-has-died-aged-92-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Asha-Bholse.png?width=660&fit=cover&s=dGogZcB6KGPdBq2zD9rralGsqLzbL7mGhy-Ik-MAwbs",
+      "excerpt": "The &quot;voice of Bollywood&quot; recorded her last-ever track, &#039;Shadowy Light&#039;, alongside the animated band Continue reading..."
     },
     {
       "id": "2418e030dcd7be26a4b60c3104b11bf62f1d76df",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sony-music-credit-fourbyfourblazer.jpg?width=660&fit=cover&s=Igoo9D8AysP8UZM-eaDV28yFw6jfvGd7iNbEvQCKjUs",
       "excerpt": "The major label said it had to request the removal of music on behalf of its artist&#039;s from Spotify, Apple Music and more Continue reading..."
-    },
-    {
-      "id": "b30fded97bc0431b9ff6d34d9bf8ed08091828bf",
-      "title": "Pulse nightclub demolition begins nearly a decade on from mass shooting",
-      "link": "https://mixmag.net/read/pulse-nightclub-demolition-begins-nearly-a-decade-on-from-mass-shooting-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-1.png?width=660&fit=cover&s=M-Z_k-Jk7TmGm-tMIYhkLA8R5O1itSIgcwyU_nVKtfg",
-      "excerpt": "The site of the former Orlando LGBTQIA+ venue will be transformed into a memorial for the 49 people murdered in the 2016 shooting Continue reading..."
-    },
-    {
-      "id": "0759158e610a1a041f713bf6fca275f064abb954",
-      "title": "PinkPantheress produced 'Tonight' using only a MacBook keyboard",
-      "link": "https://mixmag.net/read/pinkpantheress-created-bassline-on-tonight-using-macbook-keyboard-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PP.png?width=660&fit=cover&s=WxQu9eEUVbWYISB_LYlceNTub4fk54LVFsCgKWrIKVw",
-      "excerpt": "The BRITs Producer of the Year-winner says she used Logic’s Musical Typing function to create the 2025 hit single Continue reading..."
-    },
-    {
-      "id": "5d52815b4ca1be39060899c5578df29954b186b0",
-      "title": "The Mix 098: Slim Soledad",
-      "link": "https://mixmag.net/feature/the-mix-098-slim-soledad-baile-funk-techno-brazil-debut-album",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SS.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=GKaLPQ1fqnpoEekb70cypknW7S8SiXtWAER1ulWK6eo",
-      "excerpt": "From frequenting baile funks in São Paulo to running her own trans-led parties over in Europe, Slim Soledad comes up at a defining moment for Brazilian dance music overseas. She submits a speedy mix and talks about her forthcoming debut …"
     }
   ]
 }
