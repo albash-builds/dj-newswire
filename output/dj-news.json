@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T23:42:16.548Z",
+  "generatedAt": "2026-04-14T02:32:35.485Z",
   "total": 110,
   "sources": [
     {
@@ -594,6 +594,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/03/rmx-ignite_5.webp?resize=810%2C810&ssl=1",
       "excerpt": "The RMX-IGNITE is AlphaTheta’s latest evolution of the RMX concept, a standalone effects and performance sampler designed to sit alongside modern DJ and hybrid setups. It is impeccably built, clearly laid out, and unmistakably aimed at D…"
+    },
+    {
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Mixes.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=OUMMJ7DbhY1p9ARLucGWy5l3gOgWZwzC_n66VTjDhnE",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
+    },
+    {
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Albums2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=UDbRzhmpWfivzfUJPJGXfYqd1qfAExgHWlSH1Iphu3k",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
       "id": "463c9dd5c5ba3dd32f5a1c34e35361720dd2b4e7",
@@ -1530,30 +1554,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PORTRAIT-XO-COVER_Electronic-Waste.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=flomtQNbvoVMurkx5sGhd8o3h9T7iXQ9R5pgc62vqDg",
       "excerpt": "Two artists and two takes on technique and creativity are explored in new video and audio features Continue reading..."
-    },
-    {
-      "id": "aa86b9fccc5697aa6a1922de4c14451669e4190f",
-      "title": "Over €5 million worth of cocaine seized in Ireland ahead of St. Patrick’s Day",
-      "link": "https://mixmag.net/read/5-million-euro-worth-cocaine-seized-ireland-ahead-st-patricks-day-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/garda-cocaine-bust.jpg?width=660&fit=cover&s=o1aDSpQCsScbsnIrgO2FLpkLj86jUyq5UstOuwgQBgY",
-      "excerpt": "A 53-year-old man was charged in relation to the drug bust earlier this week Continue reading..."
-    },
-    {
-      "id": "faf13407330a53d49b5d01c1e5d9f9d6f4b36822",
-      "title": "Sony Music claims to have culled 135,000 AI deepfakes from streaming services",
-      "link": "https://mixmag.net/read/sony-music-culled-135000-ai-deepfakes-streaming-services-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sony-music-credit-fourbyfourblazer.jpg?width=660&fit=cover&s=Igoo9D8AysP8UZM-eaDV28yFw6jfvGd7iNbEvQCKjUs",
-      "excerpt": "The major label said it had to request the removal of music on behalf of its artist&#039;s from Spotify, Apple Music and more Continue reading..."
     }
   ]
 }
