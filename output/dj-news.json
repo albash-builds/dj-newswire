@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T13:25:38.164Z",
+  "generatedAt": "2026-04-14T15:13:19.970Z",
   "total": 110,
   "sources": [
     {
@@ -600,6 +600,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Sam-Binga-Addison-Groove.png",
       "excerpt": "Bristol DJ/producers Sam Binga and Addison Groove announce their debut collaborative album BAGS INC., out 10th July via Pineapple Records. Drawing on techno, electro, raw Chicago house, juke and acid influences, the 12-track LP unites tw…"
+    },
+    {
+      "id": "1392396409dec09bcf03a801715f6e36d3414db7",
+      "title": "Boards of Canada posters spotted all around the world",
+      "link": "https://mixmag.net/read/boards-of-canada-posters-spotted-all-around-the-world-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boards-of-canada-posters.jpg?width=660&fit=cover&s=GLKKDF59aE14aZdXn_7PiXu_Bz3ny3NP9WU-EWE7vmU",
+      "excerpt": "The marketing stunt adds to speculation that a new Boards of Canada release, their first in over a decade, could be on its way Continue reading..."
+    },
+    {
+      "id": "119fa512234e69d48bf89d7137ed4c5e8de701ba",
+      "title": "Detroit electronic music museum still plans to open despite location hold-up",
+      "link": "https://mixmag.net/read/detroit-electronic-music-museum-open-planned-following-pushbacks-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/detroit-by-night.jpg?width=660&fit=cover&s=J_N5JZRbZ3kM44ZAXXEm_EaQu6fySHse632_Pu_z0NI",
+      "excerpt": "MODEM will no longer take over the infamous Packard Plant ruin in Detroit, and is now searching for a new home Continue reading..."
     },
     {
       "id": "86d1eb5e337ad71bd61cbc0f8d9391d0847605aa",
@@ -1536,30 +1560,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones_2026-03-20-132707_wpyh.png?width=660&fit=cover&s=T7safnuKG7OUm9iFXQxop84fu-woDOAMesmKzLIQlV0",
       "excerpt": "Hormone-disrupting chemicals were found in more than 81 models, from manufacturers including Sony, Samsung, Apple and Sennheiser Continue reading..."
-    },
-    {
-      "id": "75bb6502c7fcc8f06a997b42da356583baced6cc",
-      "title": "Police investigate DJ Haram following pro-Palestine comments at Sydney Biennale",
-      "link": "https://mixmag.net/read/police-investigate-dj-haram-following-pro-palestine-comments-at-sydney-biennale-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-haram-press.jpg?width=660&fit=cover&s=THCC2xXyMSODJzh8jI6T5IrwUy_STJcBx-AfOMLs-fI",
-      "excerpt": "The US artist also shared her support for people in Iran, Lebanon, Sudan and Syria during an impassioned speech Continue reading..."
-    },
-    {
-      "id": "4010a11fbf4d7a1ab3982f19385b376555dc7b48",
-      "title": "Native Instruments issues statement as it enters full insolvency",
-      "link": "https://mixmag.net/read/native-instruments-issues-statement-as-it-enters-full-insolvency-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments_2026-01-27-174317_xtlk.jpg?width=660&fit=cover&s=EZJa3orOvNSize0ug-xOfDc9MbngLse3YjLmGrInDtI",
-      "excerpt": "The music tech company said its products and services will remain available Continue reading..."
     }
   ]
 }
