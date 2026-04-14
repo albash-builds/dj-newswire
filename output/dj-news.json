@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T11:02:58.815Z",
+  "generatedAt": "2026-04-14T13:25:38.164Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,43 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a4e73a5dd00bc7f1e182c75d71d0e03a882f956e",
+      "title": "The Electronic Press Kit: What It Is, Why It Matters, and How to Get It Right",
+      "link": "https://www.decodedmagazine.com/the-electronic-press-kit-what-it-is-why-it-matters-and-how-to-get-it-right/",
+      "published": "2026-04-14T12:18:38.000Z",
+      "publishedTs": 1776169118000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Electronic Press Kit",
+        "EPK",
+        "Media",
+        "music production",
+        "PR",
+        "Press kit",
+        "Promoters",
+        "record labels"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2014/12/dj-headphones-music-technology-1684184-1600x1092.jpg",
+      "excerpt": "In today&#8217;s music landscape, talent alone isn&#8217;t always going to cut it. Whilst you&#8217;re busy perfecting your craft in the studio or behind the decks, there are hundreds of other artists doing the exact same thing, all vyin…"
+    },
+    {
+      "id": "8b5f45c190860ca3c01583e93d610fc19bc09ae1",
+      "title": "Manifiesto del Tremendo Delirio",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/leon-larregui-manifiesto-del-tremendo-delirio/",
+      "published": "2026-04-14T11:40:55.000Z",
+      "publishedTs": 1776166855000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/leon-larregui-Manifiesto.jpg",
+      "excerpt": "Con las sirenas policiales fundiéndose en una base de balada ranchera, León Larregui cierra “Venimos” con una pregunta que pesa... La entrada Manifiesto del Tremendo Delirio se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d97d1cafe496c3c5bd30e77880c77e2c3acd70a8",
       "title": "Pulp and Scritti Politti to headline newly announced weekender celebrating 50 years of Rough Trade",
@@ -384,20 +421,6 @@
       "excerpt": "Radiance by Amirali After a period exploring left-field and experimental territories while completing his second studio album, Amirali returned to dance music in recent years with a renewed focus on the dancefloor. “Radiance”, his latest…"
     },
     {
-      "id": "c0596db36a452c3961eecebd1996a3c7de21d9cf",
-      "title": "Tensión",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/daphne-tension/",
-      "published": "2026-04-08T06:58:34.000Z",
-      "publishedTs": 1775631514000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Daphne-Tension.jpg",
-      "excerpt": "Siguen apareciendo power duos que no solamente nos sorprenden por ejecutar todos los sonidos que escuchamos con solo dos integrantes,... La entrada Tensión se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
       "title": "Fake Artists, Real Money: The AI Machine Quietly Bankrupting Electronic Music’s Future",
       "link": "https://www.decodedmagazine.com/fake-artists-real-money-the-ai-machine-quietly-bankrupting-electronic-musics-future/",
@@ -579,24 +602,16 @@
       "excerpt": "Bristol DJ/producers Sam Binga and Addison Groove announce their debut collaborative album BAGS INC., out 10th July via Pineapple Records. Drawing on techno, electro, raw Chicago house, juke and acid influences, the 12-track LP unites tw…"
     },
     {
-      "id": "7bc69916a5316d9ad9ede9fce7ebb78c0068218d",
-      "title": "SPEEDY J announces first solo album in 20 years",
-      "link": "https://www.decodedmagazine.com/speedy-j-announces-first-solo-album-in-20-years/",
-      "published": "2026-04-01T10:32:54.000Z",
-      "publishedTs": 1775039574000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Deep techno",
-        "Electronica",
-        "Speedy J",
-        "STOOR",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Speey-J-credit-Stijn-Berer.jpeg",
-      "excerpt": "Contemplating the role of the album format in an attention-deficient society, Speedy J presents&nbsp; Walkman &nbsp;— a constantly shifting, 90-minute soundtrack to a journey of your choice. Jochem Paap&#8217;s first solo album in over 2…"
+      "id": "86d1eb5e337ad71bd61cbc0f8d9391d0847605aa",
+      "title": "Norwich music venue installs artist accommodation to tackle high touring costs",
+      "link": "https://mixmag.net/read/norwich-music-venue-accomodation-touring-ticket-levy-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-daddys.jpg?width=660&fit=cover&s=wmQ2szBXVaXPhG1TiqbvvBvSC1-DDxnHJg4TTiTvx2M",
+      "excerpt": "With the help of funding from the UK&#039;s arena ticket levy, Voodoo Daddy’s has undergone renovations Continue reading..."
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
@@ -1545,18 +1560,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments_2026-01-27-174317_xtlk.jpg?width=660&fit=cover&s=EZJa3orOvNSize0ug-xOfDc9MbngLse3YjLmGrInDtI",
       "excerpt": "The music tech company said its products and services will remain available Continue reading..."
-    },
-    {
-      "id": "456bd630c2e96237ab88148fd07c69e17448fc20",
-      "title": "How Portrait XO and Rick Feds use finger drumming in their electronic music production",
-      "link": "https://mixmag.net/feature/watch-portrait-xo-and-rick-feds-explain-technique-and-creativity",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PORTRAIT-XO-COVER_Electronic-Waste.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=flomtQNbvoVMurkx5sGhd8o3h9T7iXQ9R5pgc62vqDg",
-      "excerpt": "Two artists and two takes on technique and creativity are explored in new video and audio features Continue reading..."
     }
   ]
 }
