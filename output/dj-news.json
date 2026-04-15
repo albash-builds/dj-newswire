@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T05:23:29.576Z",
+  "generatedAt": "2026-04-15T07:45:12.360Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
