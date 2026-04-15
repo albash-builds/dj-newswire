@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T09:18:56.486Z",
+  "generatedAt": "2026-04-15T10:59:08.142Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,28 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c29f10cf1af812219f9530d2146382d9fff23045",
+      "title": "The team behind Mint Warehouse & The legendary Mint Club announce a new 2000 capacity venue in Leeds",
+      "link": "https://www.decodedmagazine.com/the-team-behind-mint-warehouse-the-legendary-mint-club-announce-a-new-2000-capacity-venue-in-leeds/",
+      "published": "2026-04-15T10:43:29.000Z",
+      "publishedTs": 1776249809000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Clubbing",
+        "House Music",
+        "Leeds",
+        "Mint Festival",
+        "Mint XL",
+        "No Phones",
+        "Tech House",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Mint-Leeds-scaled.jpg",
+      "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
+    },
     {
       "id": "4c43e1b0aac8110acff0ba26b749c286f3062504",
       "title": "John 00 Fleming: Six Years, One Album, a Statement Worth Making",
@@ -586,22 +608,16 @@
       "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
     },
     {
-      "id": "38f6932a71ed4d1ad50edc810525d0d1890ec176",
-      "title": "Genki Instruments announces availability of Katla as Voice Rotating Polyphonic Synthesizer",
-      "link": "https://www.decodedmagazine.com/genki-instruments-announces-availability-of-katla-as-voice-rotating-polyphonic-synthesizer/",
-      "published": "2026-04-01T11:07:04.000Z",
-      "publishedTs": 1775041624000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech Reviews",
-        "Genki Instruments",
-        "music production",
-        "Synthesizer",
-        "Voice Rotating Polyphonic Synthesizer"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Katla-14-Front.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "Reykjavik-based instrument developer Genki Instruments has announced availability of the eagerly-awaited Katla as a Voice Rotating Polyphonic Synthesizer inspired by Iceland’s largest subglacial volcano as its natural namesake — readily …"
+      "id": "f93e67413b4c3ed1270a84f1fc24b102ab9c09fc",
+      "title": "Stormzy’s Banksy-designed stab vest among display items at London exhibition",
+      "link": "https://mixmag.net/read/stormzy-banksy-emblazoned-stab-vest-glastonbury-display-london-exhibition-the-music-is-black-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/stormzy-glasto.jpg?width=660&fit=cover&s=TBb7UN22qTNLWZIYPx4LAPh7lr19wj32s6pe_dEOwpg",
+      "excerpt": "It goes on display at The Music Is Black: A British Story, the first installation at the new V&amp;A East museum Continue reading..."
     },
     {
       "id": "1392396409dec09bcf03a801715f6e36d3414db7",
@@ -1550,18 +1566,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Flow-Festival.png?width=660&fit=cover&s=nPNv8mjLKA1WqN-xWd4PUgt4E6kTPVT8wx1UyzMKL_I",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "d86e6dd488bbc0a1616d541cf0fa33e41487521f",
-      "title": "Harmful chemicals detected in leading European headphone brands",
-      "link": "https://mixmag.net/read/harmful-chemicals-detected-in-leading-european-headphone-brands-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones_2026-03-20-132707_wpyh.png?width=660&fit=cover&s=T7safnuKG7OUm9iFXQxop84fu-woDOAMesmKzLIQlV0",
-      "excerpt": "Hormone-disrupting chemicals were found in more than 81 models, from manufacturers including Sony, Samsung, Apple and Sennheiser Continue reading..."
     }
   ]
 }
