@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T13:43:20.694Z",
+  "generatedAt": "2026-04-16T15:25:20.677Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "56d12fd0ebb17b7f1ebbe29e20ff4b978e049a35",
+      "title": "Sonido conquistador",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tito-ramirez-sonido-conquistador/",
+      "published": "2026-04-16T14:52:12.000Z",
+      "publishedTs": 1776351132000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Tito-Ramirez-Sonido-conquistador.jpg",
+      "excerpt": "La realidad no siempre resulta ser el transmisor de la verdad, y mucho menos si nos ceñimos al ámbito artístico,... La entrada Sonido conquistador se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7b22512579912b47192778708c119ffd319e89c3",
       "title": "Outside the Lines",
@@ -391,20 +405,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Serpent-Absolutisme-Zen.jpg",
       "excerpt": "En tiempos de anestesia colectiva, el presente “Absolutisme Zen” suena a bendita anomalía. El cuarteto catalán Serpent dibuja con guitarras... La entrada Absolutisme Zen se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2b70ff5d76cf185b6c0813618383bb43618440df",
-      "title": "Ezin atera",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/orsini-ezin-atera/",
-      "published": "2026-04-09T15:14:49.000Z",
-      "publishedTs": 1775747689000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/orsini.jpg",
-      "excerpt": "“Ezin atera” es el debut de Orsini, banda de reciente formación pero compuesta por veteranos de la escena bilbaína. A... La entrada Ezin atera se publicó primero en MondoSonoro ."
     },
     {
       "id": "2e2871c14d9f566f2601e4aa8c8e7b76b9fd258a",
