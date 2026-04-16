@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T11:02:35.281Z",
+  "generatedAt": "2026-04-16T13:43:20.694Z",
   "total": 110,
   "sources": [
     {
@@ -607,6 +607,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
       "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
+    },
+    {
+      "id": "6c468fbf45a192498371c280b1a55a72d4a48270",
+      "title": "Music Venue Trust announces grassroots funding scheme for equipment and soundsystems",
+      "link": "https://mixmag.net/read/music-venue-trust-announces-funding-venue-equipment-soundsystems-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/concert-live-music-venue-trust.jpg?width=660&fit=cover&s=ax16zYd-_cLsY1sYOV-Teiqx0erUpZLRwZujBYyOwOk",
+      "excerpt": "Grassroots venues across the UK can apply for “direct investment” through the scheme Continue reading..."
+    },
+    {
+      "id": "a22df3f90bfc940b198cd0f324fa445c9b0dcba9",
+      "title": "Kanye West indefinitely postpones Marseille show after France threatens ban",
+      "link": "https://mixmag.net/read/kanye-west-indefinitely-postpones-marseille-show-after-france-threatens-ban-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ye-france-cancel-show.jpg?width=660&fit=cover&s=odX4Fc0U6sEYEvpT0o3Sxnz25hirQLwf8_6iV8F_ia4",
+      "excerpt": "Ye said he made the “sole decision” to call off the June concert Continue reading..."
     },
     {
       "id": "74c8a23743954be0ca8a9fbd8b755cee19425709",
@@ -1543,30 +1567,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-nobu-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=5S5jqrYMAAPPFE2gZeCd7xgLXEJ138VnHoCQtND1MrU",
       "excerpt": "The legendary Japanese musician has a track for every mood while travelling the world, whether he’s winding down at the hotel after a show or finding solace in the sweet sounds of Chicano soul and lovers rock Continue reading..."
-    },
-    {
-      "id": "13b2cb4243fc0b42d0eddc41cf36ac9b6cdcc977",
-      "title": "One tonne of cocaine discovered in banana shipment in Southampton",
-      "link": "https://mixmag.net/read/one-tonne-cocaine-discovered-banana-shipment-southampton-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/border-force-banana-shipment.jpg?width=660&fit=cover&s=UrTaAz7H3Gvzq3gcg14wpAY68PsvIJWovSvwIwyMEaQ",
-      "excerpt": "“This is a massive amount of cocaine,” said the National Criminal Agency Continue reading..."
-    },
-    {
-      "id": "fb79fe482bbe44cc99644a40cfd09b170afb19ad",
-      "title": "Live Nation's UK festivals will now be more accessible for disabled attendees",
-      "link": "https://mixmag.net/read/live-nation-festivals-wireless-reading-leeds-more-accessible-disabled-attendees-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wireless.png?width=660&fit=cover&s=Jlr0IskTOKx4rcU3O7ppY_-4von6BJ2xoLoCITLWZ-U",
-      "excerpt": "The Equality and Human Rights Commission took legal action against the events giant following reports of accessibility issues at Wireless in 2022 Continue reading..."
     }
   ]
 }
