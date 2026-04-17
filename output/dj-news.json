@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T05:27:58.572Z",
+  "generatedAt": "2026-04-17T07:46:34.086Z",
   "total": 110,
   "sources": [
     {
@@ -607,6 +607,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
       "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
+    },
+    {
+      "id": "b8bfa8d469a180692cc8a3142341d6ed3db65220",
+      "title": "Elton John and The Blessed Madonna in conversation",
+      "link": "https://mixmag.net/feature/elton-john-and-the-blessed-madonna-in-conversation",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Elton-Blessed-Madonna.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=WIcSioXdzI508H8Fp18FfTenQdzU8Ij1iSGeclCWkbQ",
+      "excerpt": "As he gears up for the release of his first dance music remix album, which will land via Positiva for Record Store Day 2026, Elton John and The Blessed Madonna discuss their love of record stores, Studio 54 and the dancefloor moments tha…"
     },
     {
       "id": "6c468fbf45a192498371c280b1a55a72d4a48270",
@@ -1555,18 +1567,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Roland-Screengrab.png?width=660&fit=cover&s=MWUU0Z-WRiqmcl7SLjpKANP-YNojVM6JIHJJj9j9ISE",
       "excerpt": "DAW plug-in Melody Flip gives users melody recommendations based on an existing audio file&#039;s characteristics Continue reading..."
-    },
-    {
-      "id": "4dadeee890e958a816b596260a2613b3d4718f6d",
-      "title": "DJ Nobu selects 10 leftfield tracks he has on rotation while touring",
-      "link": "https://mixmag.net/feature/dj-nobu-selects-10-leftfield-tracks-he-has-on-rotation-while-touring",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-nobu-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=5S5jqrYMAAPPFE2gZeCd7xgLXEJ138VnHoCQtND1MrU",
-      "excerpt": "The legendary Japanese musician has a track for every mood while travelling the world, whether he’s winding down at the hotel after a show or finding solace in the sweet sounds of Chicano soul and lovers rock Continue reading..."
     }
   ]
 }
