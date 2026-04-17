@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T09:17:19.670Z",
+  "generatedAt": "2026-04-17T10:56:15.034Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "244211952ee17a68e6bf93325417b17ae9e5273a",
+      "title": "Crítica de 'Oniria Popular', el nuevo disco de Xoel López",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/xoel-lopez-oniria-popular/",
+      "published": "2026-04-17T09:33:24.000Z",
+      "publishedTs": 1776418404000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Xoel-Lopez-Oniria-Popular-.jpg",
+      "excerpt": "Xoel López presenta en este trabajo un discurso que trasciende la propia idea de colección de canciones. El universo que... La entrada Crítica de &#039;Oniria Popular&#039;, el nuevo disco de Xoel López se publicó primero en MondoSonoro ."
+    },
     {
       "id": "56d12fd0ebb17b7f1ebbe29e20ff4b978e049a35",
       "title": "Sonido conquistador",
@@ -391,20 +405,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
       "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
-    },
-    {
-      "id": "85619babb27b59c34b781563c54908e97d297d03",
-      "title": "Absolutisme Zen",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/serpent-absolutisme-zen/",
-      "published": "2026-04-10T08:01:40.000Z",
-      "publishedTs": 1775808100000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Serpent-Absolutisme-Zen.jpg",
-      "excerpt": "En tiempos de anestesia colectiva, el presente “Absolutisme Zen” suena a bendita anomalía. El cuarteto catalán Serpent dibuja con guitarras... La entrada Absolutisme Zen se publicó primero en MondoSonoro ."
     },
     {
       "id": "2e2871c14d9f566f2601e4aa8c8e7b76b9fd258a",
