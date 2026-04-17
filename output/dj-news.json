@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T16:01:10.957Z",
+  "generatedAt": "2026-04-17T17:49:26.141Z",
   "total": 110,
   "sources": [
     {
@@ -607,6 +607,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
       "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
+    },
+    {
+      "id": "74cef8a077a5cba379daa6c34177178dfb0f4b95",
+      "title": "Pacha New York commits to safety plan after taking over Brooklyn Mirage",
+      "link": "https://mixmag.net/read/pacha-new-york-commits-to-safety-plan-following-brooklyn-mirage-debacle-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york.jpg?width=660&fit=cover&s=diyxjvIQFX4M00gK8RZKp93mAx5J_C_fd2CgJxRDHrA",
+      "excerpt": "New venue owners have vowed to make things right after the beleaguered Brooklyn Mirage faced safety and financial issues Continue reading..."
+    },
+    {
+      "id": "dec9d000d8ea49041747210333480aa4a51222bc",
+      "title": "Westminster resident pleads guilty to falsifying statements in attempt to shutter Heaven",
+      "link": "https://mixmag.net/read/resident-pleads-guilty-using-falsified-ai-statements-attempt-shutter-heaven-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Heaven.png?width=660&fit=cover&s=kK7ycBQovrgKvtVuIsPh_tKz2w5wufT8z7fr93i6_Js",
+      "excerpt": "Aldo d’Aponte, who is the CEO of a letting and estate agent firm, has been given a 12-month conditional discharge and was ordered to pay just £26 in damages to the nightclub Continue reading..."
     },
     {
       "id": "2162f7fd06d8b2a99b8c811f746e5fa4b4e90787",
@@ -1543,30 +1567,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Melvin-Gibbs-credit-Christian-Stewart.jpg?width=660&fit=cover&s=3Pfe0io_U1mMDsKvT5i5zDlZTvWPvJ57plpmhfcAISc",
       "excerpt": "‘How Black Music Took Over the World’ explores the roots of Black artistry to the modern day, from John Coltrane to Kendrick Lamar Continue reading..."
-    },
-    {
-      "id": "4b7af6b657302619e7516cb8232fc906b80840eb",
-      "title": "Russian nightclub owner jailed for promoting \"extremist\" LGBTQ+ ideology",
-      "link": "https://mixmag.net/read/russian-nightclub-owner-jailed-for-promoting-extremist-lgbtq-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/chita.png?width=660&fit=cover&s=NVzW-5HIEVCvTGFDDZYadmzvNVDqfeT9YoOGW0MJiig",
-      "excerpt": "23-year-old Tatiana Zorina has been sentenced to four years in a penal colony following a raid on Tochka nightclub in Siberia in October 2024 Continue reading..."
-    },
-    {
-      "id": "9bfb0d32a1ef5b79b7bb996d189ee4cdb696d73c",
-      "title": "New dance music-dedicated radio station opens in San Francisco, program.audio",
-      "link": "https://mixmag.net/read/new-dance-music-dedicated-radio-station-opens-in-san-francisco-program-audio-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/program-audio.jpg?width=660&fit=cover&s=G3PjwPWtLJJ6PXXr8In3u3z2rjcnyB7ct0pMnI-dO4Y",
-      "excerpt": "The station has opened within a six-decade-old former photo kiosk and will act as both a community space as well as a platform for online mixes Continue reading..."
     }
   ]
 }
