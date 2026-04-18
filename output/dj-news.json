@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T07:07:46.942Z",
+  "generatedAt": "2026-04-18T08:51:05.991Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "86b50ee978188cf651e25665c7552005fe5edcc0",
+      "title": "Pin Ups",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-dandy-warhols-pin-ups/",
+      "published": "2026-04-18T07:45:31.000Z",
+      "publishedTs": 1776498331000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/The-Dandy-Warhols-Pin-Ups.jpg",
+      "excerpt": "La sospecha tiende a aparecer irremediablemente cada vez que un grupo (sobre todo si este no vive su mejor momento)... La entrada Pin Ups se publicó primero en MondoSonoro ."
+    },
     {
       "id": "244211952ee17a68e6bf93325417b17ae9e5273a",
       "title": "Crítica de 'Oniria Popular', el nuevo disco de Xoel López",
@@ -372,20 +386,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Vicente-Calderon-Cinco-Estrellas.jpg",
       "excerpt": "¿Si tuvieras que definir la escena guitarrera actual, como lo harías? ¿Alabando a los imitadores de Carolina Durante o alabando... La entrada Cinco Estrellas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "23e93f2fb27644eae41035d79d10f8657bd14f96",
-      "title": "THIS ALBUM MAY CONTAIN HOPE.",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/raye-this-album-may-contain-hope/",
-      "published": "2026-04-11T07:52:51.000Z",
-      "publishedTs": 1775893971000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Raye-THIS-ALBUM-MAY-CONTAIN-HOP.jpg",
-      "excerpt": "“THIS ALBUM MAY CONTAIN HOPE”, el segundo disco de la británica Raye, suena a veces extravagante y exagerado. Es un... La entrada THIS ALBUM MAY CONTAIN HOPE. se publicó primero en MondoSonoro ."
     },
     {
       "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
