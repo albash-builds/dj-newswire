@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T09:47:27.452Z",
+  "generatedAt": "2026-04-19T10:38:42.319Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "acfc95f62b81c00216d132ebf4413ddd75564b6f",
+      "title": "Muy bien",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/alavedra-muy-bien/",
+      "published": "2026-04-19T10:04:17.000Z",
+      "publishedTs": 1776593057000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Alavedra-Muy-bien.jpg",
+      "excerpt": "Alavedra se reían en sus propias redes de que acababan de publicar un disco que, según Spotify, era un EP.... La entrada Muy bien se publicó primero en MondoSonoro ."
+    },
     {
       "id": "62cc2ba29bec819556fe84f3bd0a8e35928dcfe8",
       "title": "Punt de Creu",
@@ -372,20 +386,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8fffbe01-a139-c041-cfa3-029e7849363a.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Voodoo Village has announced its second lineup drop ahead of its 11th edition, adding a substantial new wave of artists to the 2026 programme. The additions span techno, melodic electronic, live performance and hybrid formats. Anetha and…"
-    },
-    {
-      "id": "456e5c7df7961ea502ffc5f771295c3ca631874f",
-      "title": "Tragedia Nueva",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nueva-tragedia-tragedia-nueva/",
-      "published": "2026-04-12T17:22:59.000Z",
-      "publishedTs": 1776014579000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Nueva-Tragedia-Tragedia-Nueva.jpg",
-      "excerpt": "Ya está aquí el debut del nuevo proyecto de Miguel Marcos (Le Voyeur), que viene acompañado por el bajista Pablo... La entrada Tragedia Nueva se publicó primero en MondoSonoro ."
     },
     {
       "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
