@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T07:19:20.842Z",
+  "generatedAt": "2026-04-19T08:54:21.028Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "62cc2ba29bec819556fe84f3bd0a8e35928dcfe8",
+      "title": "Punt de Creu",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/xarim-areste-punt-de-creu/",
+      "published": "2026-04-19T08:39:10.000Z",
+      "publishedTs": 1776587950000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Xarim-Areste-Punt-de-Creu.jpg",
+      "excerpt": "El nuevo disco de Xarim Aresté, “Punt de creu”, transmite desde su propio título la idea que lo atraviesa, un... La entrada Punt de Creu se publicó primero en MondoSonoro ."
+    },
     {
       "id": "86b50ee978188cf651e25665c7552005fe5edcc0",
       "title": "Pin Ups",
@@ -372,20 +386,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Nueva-Tragedia-Tragedia-Nueva.jpg",
       "excerpt": "Ya está aquí el debut del nuevo proyecto de Miguel Marcos (Le Voyeur), que viene acompañado por el bajista Pablo... La entrada Tragedia Nueva se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3f89a36d19ca16eb41785fbb1cafd334ceadd921",
-      "title": "Cinco Estrellas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/vicente-calderon-cinco-estrellas/",
-      "published": "2026-04-12T15:13:33.000Z",
-      "publishedTs": 1776006813000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Vicente-Calderon-Cinco-Estrellas.jpg",
-      "excerpt": "¿Si tuvieras que definir la escena guitarrera actual, como lo harías? ¿Alabando a los imitadores de Carolina Durante o alabando... La entrada Cinco Estrellas se publicó primero en MondoSonoro ."
     },
     {
       "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
