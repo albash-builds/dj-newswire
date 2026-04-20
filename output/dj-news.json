@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T02:39:46.852Z",
+  "generatedAt": "2026-04-20T05:41:26.910Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "0c5e99c67ad09f39fcd1cf94a64a1454f8cf952b",
+      "title": "Book of the Month – Manchester must dance by Mike Pickering",
+      "link": "https://www.decodedmagazine.com/book-of-the-month-manchester-must-dance-by-mike-pickering/",
+      "published": "2026-04-20T05:33:10.000Z",
+      "publishedTs": 1776663190000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Book of the month",
+        "Happy Mondays",
+        "M People",
+        "Manchester",
+        "Mike Pickering",
+        "NME",
+        "Paul Morely"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
+      "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
+    },
     {
       "id": "acfc95f62b81c00216d132ebf4413ddd75564b6f",
       "title": "Muy bien",
@@ -584,29 +605,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/57_7866414c-a951-4dc9-bde2-d59cd3abc010.webp?resize=810%2C608&ssl=1",
       "excerpt": "There are pieces of gear that divide a room, and the Technics SL-DZ1200 is one of them. Even now, mentioning it to the right crowd will get you a knowing smirk from one person and an eye roll from the next. Released in 2004, it arrived a…"
-    },
-    {
-      "id": "cc7139868d7f2b612e5666aaa5a3b6692f51f9c7",
-      "title": "Korg Revives the Vestax Handy Traxx Portable Turntable",
-      "link": "https://www.decodedmagazine.com/korg-revives-the-vestax-handy-trax-portable-turntable/",
-      "published": "2026-04-02T02:56:01.000Z",
-      "publishedTs": 1775098561000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech",
-        "Tech News",
-        "Handy Trax",
-        "Korg",
-        "Portable",
-        "Scatching",
-        "Toshihide Nakama",
-        "Turntable",
-        "Vestax",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/ad14bf88bff44f360e008311fcfb4c84_pc.png?resize=810%2C617&ssl=1",
-      "excerpt": "Have you ever just wanted to play your records anywhere? Not in a club, not in a bedroom, not tethered to a setup that takes twenty minutes to unpack. On the beach. In the park. In the back seat of a car on a long drive with someone who …"
     },
     {
       "id": "7d3c107c2c00930afa8dd2a2da60fa2d2ca65859",
