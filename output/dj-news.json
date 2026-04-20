@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T08:06:39.526Z",
+  "generatedAt": "2026-04-20T10:48:03.694Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,77 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
+      "title": "From Bankruptcy to a Million Customers: McDaniels Exits the Beatport CEO Chair",
+      "link": "https://www.decodedmagazine.com/from-bankruptcy-to-a-million-customers-mcdaniels-exits-the-beatport-ceo-chair/",
+      "published": "2026-04-20T10:16:01.000Z",
+      "publishedTs": 1776680161000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Beatport",
+        "stems",
+        "Streaming"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/12/05_Beatport_MainLogo_GreenWhite_On_Blk_Final.png",
+      "excerpt": "Beatport has confirmed a leadership transition that will take effect on 1 July 2026, with Robb McDaniels stepping up to Executive Chairman after nine years as chief executive. Matt Gralen, currently President and Chief Financial Officer,…"
+    },
+    {
+      "id": "883fdd2300ea2ed4d8d673ec5f67f80b6ce9d127",
+      "title": "Production Futures launches Make Noise to open live events careers to young people",
+      "link": "https://www.decodedmagazine.com/production-futures-launches-make-noise-to-open-live-events-careers-to-young-people/",
+      "published": "2026-04-20T09:30:00.000Z",
+      "publishedTs": 1776677400000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Audiotonic",
+        "Engineering",
+        "Manchester",
+        "Production Futures",
+        "Schools",
+        "stems",
+        "Technical Training",
+        "Teens",
+        "UK"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STEAM-Powered-Mixer-Promo-Image-2.png?resize=810%2C456&ssl=1",
+      "excerpt": "Backed by Greater Manchester Mayor Andy Burnham, funded through LIVE Trust and powered by Audiotonix, the campaign puts real pro audio kit in the hands of 12 to 18 year olds through a national competition. Production Futures has launched…"
+    },
+    {
+      "id": "7b6644adcfbeab7a4750f4acb965152ade20bca9",
+      "title": "Cat Fight",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jim-jones-all-stars-cat-fight/",
+      "published": "2026-04-20T09:17:00.000Z",
+      "publishedTs": 1776676620000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Jim-Jones-All-Stars-Cat-Fight.jpg",
+      "excerpt": "Las diferentes mutaciones y/o encarnaciones acumuladas por este músico británico a lo largo de su carrera, son todas, cada una... La entrada Cat Fight se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3f3e0fdc9c48e3c4756f2a6ae6cc9d397febbffd",
+      "title": "Rone announces first album in 6 years ‘Megaptera",
+      "link": "https://www.decodedmagazine.com/rone-announces-first-album-in-6-years-megaptera/",
+      "published": "2026-04-20T08:48:09.000Z",
+      "publishedTs": 1776674889000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "chill out",
+        "Electronica",
+        "Rone"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8.jpg?resize=810%2C456&ssl=1",
+      "excerpt": "Megaptera by Rone Rone returns. After six years away from the studio album format, the Paris producer Erwan Castex has announced Megaptera, a fifteen-track record that arrives on InFiné on 12 June, alongside a feature documentary of the …"
+    },
     {
       "id": "3bcc814ebffda7065665c77e5da0960123fb324d",
       "title": "fabric, Innervisions, Hedex Presents + more make up new London festival series",
@@ -364,20 +435,6 @@
       "excerpt": "Giante taldearen hirugarren proposamena zaurgarritasun eta deserosotasunaren aldeko aldarria dela esan liteke. Lehen konpasetatik, diskoak neurtutako tentsioa helarazten du, nota... La entrada Beste Norbait Izan se publicó primero en Mon…"
     },
     {
-      "id": "e121ab3e4fd6fbc22ef22a8d0ccaffe67a8e319b",
-      "title": "Lost on You",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tigers-jaw-lost-on-you/",
-      "published": "2026-04-13T16:51:21.000Z",
-      "publishedTs": 1776099081000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Tigers-Jaw-Lost-on-You.jpg",
-      "excerpt": "Pasado, presente y futuro ocurren simultáneamente en nuestras vidas. A partir de esta idea, Tigers Jaw enlazan once nuevas historias... La entrada Lost on You se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "430fce344885b615570f3b33cd952c67c2258995",
       "title": "FUSE and Brunch Electronik announce joint Ibiza series at 528",
       "link": "https://www.decodedmagazine.com/fuse-and-brunch-electronik-announce-joint-ibiza-series-at-528/",
@@ -531,73 +588,6 @@
       "excerpt": "Serato announced hardware compatibility in Serato DJ Pro 4.0.6 for three iconic Pioneer DJ mixers, the DJM-250MK2, DJM-750MK2, and DJM-450. Officially mapped by Serato, DJs can now seamlessly integrate Serato DJ Pro and DVS with their pr…"
     },
     {
-      "id": "0c5bd8b0ee30de6f5e85fbd9f61303406af45669",
-      "title": "Throwback Thursday: How Gorillaz Made the Most Unlikely Record of 2001 and Got Away With It",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-how-gorillaz-made-the-most-unlikely-record-of-2001-and-got-away-with-it/",
-      "published": "2026-04-09T03:07:53.000Z",
-      "publishedTs": 1775704073000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Del The Funky Homosapien",
-        "Electronica",
-        "Gorillaz",
-        "Hip Hop",
-        "Kid Koala",
-        "Pop",
-        "Review",
-        "Throwback Thursday",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/gorillaz.jpg",
-      "excerpt": "Some records arrive with a concept so odd that the music almost becomes secondary to the argument surrounding it. The debut album from Gorillaz was exactly that kind of record. Released on 26 March 2001, it was the work of Damon Albarn a…"
-    },
-    {
-      "id": "e4ca7e67f68086e412e98c8cb1744f9ec3341cbd",
-      "title": "Amirali just announced Radiance on SCI+TEC",
-      "link": "https://www.decodedmagazine.com/amirali-just-announced-radiance-on-scitec/",
-      "published": "2026-04-08T10:56:37.000Z",
-      "publishedTs": 1775645797000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Amirali",
-        "Progressive House",
-        "SCI+TEC",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/a1918419561_10.jpg",
-      "excerpt": "Radiance by Amirali After a period exploring left-field and experimental territories while completing his second studio album, Amirali returned to dance music in recent years with a renewed focus on the dancefloor. “Radiance”, his latest…"
-    },
-    {
-      "id": "c74f74e1ef3d407e58b48d3b05085cfc7baf10f9",
-      "title": "Fake Artists, Real Money: The AI Machine Quietly Bankrupting Electronic Music’s Future",
-      "link": "https://www.decodedmagazine.com/fake-artists-real-money-the-ai-machine-quietly-bankrupting-electronic-musics-future/",
-      "published": "2026-04-07T07:13:40.000Z",
-      "publishedTs": 1775546020000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Music Industry",
-        "AI",
-        "Apple Music",
-        "Beatport",
-        "Copyright",
-        "Deezer",
-        "Ghost production",
-        "music production",
-        "Spotify",
-        "Suno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/AI-Music-production-Decoded-Magazine-scaled.png",
-      "excerpt": "Ghost production has never been a secret in electronic music (we even wrote about it back in 2016). It has always existed in the margins, understood rather than spoken about, a quiet arrangement between those who could make the music and…"
-    },
-    {
       "id": "7d3c107c2c00930afa8dd2a2da60fa2d2ca65859",
       "title": "New music on our radar this week: Oppidan, DJ Seinfeld, TOMORA",
       "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-oppidan-dj-seinfeld-tomora-news",
@@ -631,7 +621,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york.jpg?width=660&fit=cover&s=diyxjvIQFX4M00gK8RZKp93mAx5J_C_fd2CgJxRDHrA",
-      "excerpt": "New venue owners have vowed to make things right after the beleaguered Brooklyn Mirage faced safety and financial issues Continue reading..."
+      "excerpt": "Pacha New York have vowed to make things right after the beleaguered Brooklyn Mirage faced safety and financial issues Continue reading..."
     },
     {
       "id": "dec9d000d8ea49041747210333480aa4a51222bc",
