@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T10:48:03.694Z",
+  "generatedAt": "2026-04-20T12:03:42.968Z",
   "total": 110,
   "sources": [
     {
@@ -34,7 +34,7 @@
         "stems",
         "Streaming"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/12/05_Beatport_MainLogo_GreenWhite_On_Blk_Final.png",
+      "image": "",
       "excerpt": "Beatport has confirmed a leadership transition that will take effect on 1 July 2026, with Robb McDaniels stepping up to Executive Chairman after nine years as chief executive. Matt Gralen, currently President and Chief Financial Officer,…"
     },
     {
@@ -155,7 +155,7 @@
         "music production",
         "Sampling"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/08/Kraftwerk-4.webp",
+      "image": "",
       "excerpt": "After twenty-nine years, a two-second drum loop and enough litigation to fill a small library, Kraftwerk have lost the decisive round in their copyright dispute with Moses Pelham. The European Court of Justice handed down its ruling on 1…"
     },
     {
@@ -171,7 +171,7 @@
         "budakid",
         "Progressive House"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
+      "image": "",
       "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
     },
     {
@@ -312,7 +312,7 @@
         "Tech House",
         "Techno"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Mint-Leeds-scaled.jpg",
+      "image": "",
       "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
     },
     {
@@ -360,7 +360,7 @@
         "Promoters",
         "record labels"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2014/12/dj-headphones-music-technology-1684184-1600x1092.jpg",
+      "image": "",
       "excerpt": "In today&#8217;s music landscape, talent alone isn&#8217;t always going to cut it. Whilst you&#8217;re busy perfecting your craft in the studio or behind the decks, there are hundreds of other artists doing the exact same thing, all vyin…"
     },
     {
@@ -396,7 +396,7 @@
         "Rough Trade",
         "Southbank Arts Centre"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/rough-trade-logo-scaled.jpg",
+      "image": "",
       "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
     },
     {
@@ -417,7 +417,7 @@
         "dub techno",
         "Electronica"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Calibre-scaled-e1776160431738.jpeg",
+      "image": "",
       "excerpt": "Calibre announces his new album ‘Tricklemore Sea’, set for release on vinyl and digital on 1st May via Signature Recordings. Alongside the announcement, he shares the track ‘Mizzle Mine’. A deeply personal and exploratory body of work, t…"
     },
     {
@@ -476,7 +476,7 @@
         "Techno",
         "Trip Hop"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
+      "image": "",
       "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
     },
     {
@@ -498,7 +498,7 @@
         "IDM",
         "Mix of the Month"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Aqueous-Monkey-Loft-25-scaled.jpg",
+      "image": "",
       "excerpt": "Decoded Magazine · Mix of the Month March 2026 Winner &#8211; Aqueous March&#8217;s Mix of the Month winner is someone who has been a familiar presence in our submissions inbox for a while now. Aqueous has been a runner up on several pre…"
     },
     {
@@ -564,7 +564,7 @@
         "Techno",
         "The Red Telephone"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
+      "image": "",
       "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
     },
     {
@@ -584,8 +584,20 @@
         "Traktor",
         "Upgrade"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/serato-alpha-theta.jpg",
+      "image": "",
       "excerpt": "Serato announced hardware compatibility in Serato DJ Pro 4.0.6 for three iconic Pioneer DJ mixers, the DJM-250MK2, DJM-750MK2, and DJM-450. Officially mapped by Serato, DJs can now seamlessly integrate Serato DJ Pro and DVS with their pr…"
+    },
+    {
+      "id": "2815c0efcb652b717b43a9c9f6d5212f5275a6a1",
+      "title": "New 2,000-capacity venue from team behind Mint Club to open in Leeds",
+      "link": "https://mixmag.net/read/new-2000-capacity-venue-team-behind-mint-club-open-leeds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mint-xl-leeds.jpg?width=660&fit=cover&s=6aqo7-kUe_BAjOKmD4NNwBdbz72hAv7JyTll-xR4sEM",
+      "excerpt": "Named Mint XL, the venue is set to open from September with a “strict” no-photo policy Continue reading..."
     },
     {
       "id": "7d3c107c2c00930afa8dd2a2da60fa2d2ca65859",
@@ -601,7 +613,7 @@
     },
     {
       "id": "dc539fa8963bf65a736bc79648b79eb68c7ba01c",
-      "title": "Festival line-ups you might have missed: YARD Festival, Sub Club Southside Weekender, Dimensions",
+      "title": "Festival line-ups you might have missed: YARD Festival, Sub Club Southside Weekender, Seasoning",
       "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-6-news",
       "published": "",
       "publishedTs": 0,
@@ -1534,18 +1546,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/supreme-court.jpg?width=660&fit=cover&s=v1nB9I28QbMNolQVoyr2a_zTxeXs3jjXEkZgD_6HZpI",
       "excerpt": "Sony Music were amongst labels urging for more to be done about illegal downloads online Continue reading..."
-    },
-    {
-      "id": "167c6db14790c55c0c806bd6c2b78c246499cb90",
-      "title": "Experimental musician and vocalist Bettina Köster has died aged 66",
-      "link": "https://mixmag.net/read/experimental-musician-vocalist-bettina-k%C3%B6ster-died-aged-66-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mania-d-koster.jpg?width=660&fit=cover&s=EHgReDyXwuJeKpzW0Yms5UAy6xT-yxeJCJTYXP_AWcU",
-      "excerpt": "Köster was a founding member of Berlin band Malaria!, formerly Mania D, renowned for her punk-adjacent vocal style Continue reading..."
     }
   ]
 }
