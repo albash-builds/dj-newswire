@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T05:41:26.910Z",
+  "generatedAt": "2026-04-20T08:06:39.526Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,89 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3bcc814ebffda7065665c77e5da0960123fb324d",
+      "title": "fabric, Innervisions, Hedex Presents + more make up new London festival series",
+      "link": "https://www.decodedmagazine.com/fabric-innervisions-hedex-presents-more-make-up-new-london-festival-series/",
+      "published": "2026-04-20T07:42:43.000Z",
+      "publishedTs": 1776670963000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "UK",
+        "House Music",
+        "Junction 2",
+        "London",
+        "LWE",
+        "Manor Park",
+        "Progressive House",
+        "Techno",
+        "THE BRIDGE"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
+      "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
+    },
+    {
+      "id": "f0daa7e0e63637a9143cd4f694805772a9f4a551",
+      "title": "Phonox Announces Circulate A Multi-Venue Series Connecting Three South London Venues",
+      "link": "https://www.decodedmagazine.com/phonox-announces-circulate-a-multi-venue-series-connecting-three-south-london-venues/",
+      "published": "2026-04-20T07:31:51.000Z",
+      "publishedTs": 1776670311000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "breaks",
+        "deep house",
+        "Electro",
+        "Garage",
+        "House Music",
+        "Jumbi",
+        "London",
+        "M.O.T",
+        "Phonox",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/image.jpeg?resize=810%2C456&ssl=1",
+      "excerpt": "Phonox announces the launch of Circulate, a new forward-thinking summer event series that connects three South London venues, Phonox, M.O.T., and Jumbi, into a day-to-night programme. Curated as a distinctive new format designed to chall…"
+    },
+    {
+      "id": "21f1a86a3e2926dd7e92e68ce3852e279cbfd35f",
+      "title": "How a two-second Kraftwerk drum loop became the test case for EU sampling law",
+      "link": "https://www.decodedmagazine.com/how-a-two-second-kraftwerk-drum-loop-became-the-test-case-for-eu-sampling-law/",
+      "published": "2026-04-20T06:06:50.000Z",
+      "publishedTs": 1776665210000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Copyright",
+        "Europe",
+        "Germany",
+        "music production",
+        "Sampling"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/08/Kraftwerk-4.webp",
+      "excerpt": "After twenty-nine years, a two-second drum loop and enough litigation to fill a small library, Kraftwerk have lost the decisive round in their copyright dispute with Moses Pelham. The European Court of Justice handed down its ruling on 1…"
+    },
+    {
+      "id": "4ae2b6b8d3c11818c37ae8c5e0955485837ff4f7",
+      "title": "Budakid announces debut LP ‘Dreams Stretched Beyond’",
+      "link": "https://www.decodedmagazine.com/budakid-announces-debut-lp-dreams-stretched-beyond/",
+      "published": "2026-04-20T06:00:13.000Z",
+      "publishedTs": 1776664813000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "budakid",
+        "Progressive House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
+      "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
+    },
     {
       "id": "0c5e99c67ad09f39fcd1cf94a64a1454f8cf952b",
       "title": "Book of the Month – Manchester must dance by Mike Pickering",
@@ -513,98 +596,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/AI-Music-production-Decoded-Magazine-scaled.png",
       "excerpt": "Ghost production has never been a secret in electronic music (we even wrote about it back in 2016). It has always existed in the margins, understood rather than spoken about, a quiet arrangement between those who could make the music and…"
-    },
-    {
-      "id": "afa293f3e6d7c9f5152529c1ea3c04acccac7d58",
-      "title": "Bumpboxx Rebuilds an Icon: Meet the BB-777",
-      "link": "https://www.decodedmagazine.com/bumpboxx-rebuilds-an-icon-meet-the-bb-777/",
-      "published": "2026-04-07T05:04:31.000Z",
-      "publishedTs": 1775538271000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Boombox",
-        "Bumpbox",
-        "Cassetee tape",
-        "CD",
-        "Stereo"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/Bumpboxx_BB-777_Hero_6.png?resize=810%2C540&ssl=1",
-      "excerpt": "If you were of a certain age in the 1980s, the boombox was simply part of the landscape. It sat on shoulders at the beach, anchored the corner of the park, soundtracked the street. It was communal by design, a shared experience rather th…"
-    },
-    {
-      "id": "3adee9b75ade466432a849f14f44e1f53d579a50",
-      "title": "Five on Friday with 303 Resistance",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-303-resistance/",
-      "published": "2026-04-03T06:22:09.000Z",
-      "publishedTs": 1775197329000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "303 acid",
-        "303 resistance",
-        "Electronica",
-        "Funk",
-        "Jeff Mills",
-        "Mad Mike Banks",
-        "Robert Hood",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/303-resistance-scaled-e1775197179504.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes from Manchester&#8217;s own 303 Resistance. There&#8217;s a difference between talking about keeping something alive and actually doing it. 303 Resistance sits firmly in the second camp. He was putt…"
-    },
-    {
-      "id": "ed7c9b36eb54170fba85d5caae5ea4bed1d14b25",
-      "title": "UK Rave Culture: A New Era Documentary Heads for Global Theatrical Release",
-      "link": "https://www.decodedmagazine.com/uk-rave-culture-a-new-era-documentary-heads-for-global-theatrical-release/",
-      "published": "2026-04-02T08:24:14.000Z",
-      "publishedTs": 1775118254000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Altern 8",
-        "Bristol",
-        "Bryan Gee",
-        "Cardiff",
-        "Culture",
-        "DJ Hype",
-        "DJ Rap",
-        "Documentary",
-        "Edinburgh",
-        "Eduardo Cubillo Blasco",
-        "Essex"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/docnroll-rave-culture-documentary.jpg",
-      "excerpt": "There are stories that have been told in fragments for decades, pieced together through fanzines, mixtapes, and late-night conversations between people who were there. The story of the British rave revolution is one of them. Now it has a…"
-    },
-    {
-      "id": "c9f016d39a28d1c74261f1731a3d491638c521dd",
-      "title": "Throwback Thursday: The Technics SL-DZ1200 — Beautiful, Ambitious, and a Little Broken",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-technics-sl-dz1200-beautiful-ambitious-and-a-little-broken/",
-      "published": "2026-04-02T03:50:35.000Z",
-      "publishedTs": 1775101835000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "CD Player",
-        "CDJ",
-        "CDJ-1000",
-        "DJ",
-        "MP3",
-        "Music tech",
-        "Panasonic",
-        "Pioneer",
-        "SD Card",
-        "technics"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/57_7866414c-a951-4dc9-bde2-d59cd3abc010.webp?resize=810%2C608&ssl=1",
-      "excerpt": "There are pieces of gear that divide a room, and the Technics SL-DZ1200 is one of them. Even now, mentioning it to the right crowd will get you a knowing smirk from one person and an eye roll from the next. Released in 2004, it arrived a…"
     },
     {
       "id": "7d3c107c2c00930afa8dd2a2da60fa2d2ca65859",
