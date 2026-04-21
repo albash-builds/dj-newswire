@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T09:26:06.819Z",
+  "generatedAt": "2026-04-21T11:06:34.892Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "cde28f4484c4f37f9df93fdf4cb7e2dc62f10a74",
+      "title": "Divino Tesoro",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kokoshca-divino-tesoro/",
+      "published": "2026-04-21T10:17:05.000Z",
+      "publishedTs": 1776766625000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/kokoshca.jpg",
+      "excerpt": "Los navarros Kokoshca sorprenden con este autohomenaje a su trayectoria, iniciada hace casi 20 años en Pamplona, revisitando sus propios... La entrada Divino Tesoro se publicó primero en MondoSonoro ."
+    },
     {
       "id": "793edbb4305a91a47f84b5498b32a39459b56cef",
       "title": "Brown Horse Total Dive",
@@ -306,20 +320,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Tito-Ramirez-Sonido-conquistador.jpg",
       "excerpt": "La realidad no siempre resulta ser el transmisor de la verdad, y mucho menos si nos ceñimos al ámbito artístico,... La entrada Sonido conquistador se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7b22512579912b47192778708c119ffd319e89c3",
-      "title": "Outside the Lines",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/conn-bux-outside-the-lines/",
-      "published": "2026-04-16T10:28:52.000Z",
-      "publishedTs": 1776335332000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/conn-bux.jpg",
-      "excerpt": "Más allá de la fisonomía que en cada época adopte la industria musical, siendo hoy en día un cadáver que... La entrada Outside the Lines se publicó primero en MondoSonoro ."
     },
     {
       "id": "c29f10cf1af812219f9530d2146382d9fff23045",
