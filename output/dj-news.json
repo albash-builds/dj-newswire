@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T15:12:39.869Z",
+  "generatedAt": "2026-04-21T17:01:38.283Z",
   "total": 110,
   "sources": [
     {
@@ -585,6 +585,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
       "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
+    },
+    {
+      "id": "82260a0a52ce249fd9122d2a19b952036e28869b",
+      "title": "London's \"first\" spatial audio listening room to launch in Soho",
+      "link": "https://mixmag.net/read/londons-first-spatial-audio-listening-room-to-launch-in-soho-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spatial_2026-04-21-145753_mgof.png?width=660&fit=cover&s=9Qdrg02hHv_C6S9YdfWBxpvtDOxHMrYkCmY3xlZWcUo",
+      "excerpt": "The 360° audio experience will allow attendees to take in &quot;multi-dimensional sound environments&quot;, powered by an L-Acoustics soundsystem Continue reading..."
     },
     {
       "id": "335c6bb5dbd6dc6995da8cf7337a9ea4c7491aff",
@@ -1533,18 +1545,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-g.png?width=660&fit=cover&s=lf43owjRQ2Ud14gnwtTNozjP3UVq3o9pKHH6Am2KwuM",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "721bfdb10da0c0f1538bcadf23aaebd50950444b",
-      "title": "Festival line-ups you might have missed: Field Maneuvers, We Out Here, WHOLE",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-5-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FM-pic.png?width=660&fit=cover&s=Z7nHAgQMBA7RXVd_wuAd3A-GKobv_xRI2JhDsfXDjy4",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
