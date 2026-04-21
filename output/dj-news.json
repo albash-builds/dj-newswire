@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T05:26:55.905Z",
+  "generatedAt": "2026-04-21T07:49:33.719Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "793edbb4305a91a47f84b5498b32a39459b56cef",
+      "title": "Brown Horse Total Dive",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/brown-horse-total-dive/",
+      "published": "2026-04-21T06:19:13.000Z",
+      "publishedTs": 1776752353000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Brown-Horse-Total-Dive.jpg",
+      "excerpt": "Parece haber unanimidad en la prensa sobre la calidad del nuevo trabajo de Brown Horse y su condición de mejor... La entrada Brown Horse Total Dive se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ad90ca3286afa29fb37d5cc02440cb9d8c261db9",
       "title": "Dig!",
@@ -267,7 +281,7 @@
     },
     {
       "id": "244211952ee17a68e6bf93325417b17ae9e5273a",
-      "title": "Crítica de 'Oniria Popular', el nuevo disco de Xoel López",
+      "title": "Oniria Popular",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/xoel-lopez-oniria-popular/",
       "published": "2026-04-17T09:33:24.000Z",
       "publishedTs": 1776418404000,
@@ -277,7 +291,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Xoel-Lopez-Oniria-Popular-.jpg",
-      "excerpt": "Xoel López presenta en este trabajo un discurso que trasciende la propia idea de colección de canciones. El universo que... La entrada Crítica de &#039;Oniria Popular&#039;, el nuevo disco de Xoel López se publicó primero en MondoSonoro ."
+      "excerpt": "Xoel López presenta en este trabajo un discurso que trasciende la propia idea de colección de canciones. El universo que... La entrada Oniria Popular se publicó primero en MondoSonoro ."
     },
     {
       "id": "56d12fd0ebb17b7f1ebbe29e20ff4b978e049a35",
@@ -306,20 +320,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/conn-bux.jpg",
       "excerpt": "Más allá de la fisonomía que en cada época adopte la industria musical, siendo hoy en día un cadáver que... La entrada Outside the Lines se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6a5b85efb858d56dfcb5d2c246658c26b3d2af81",
-      "title": "Jazmines",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/canastereo-jazmines/",
-      "published": "2026-04-16T08:09:50.000Z",
-      "publishedTs": 1776326990000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Canastero-Jazmines.jpg",
-      "excerpt": "Hay plantas que germinan a su ritmo, con un tallo sonoro que se bambolea sin miedo como la mimbre, creciendo... La entrada Jazmines se publicó primero en MondoSonoro ."
     },
     {
       "id": "c29f10cf1af812219f9530d2146382d9fff23045",
