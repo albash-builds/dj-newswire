@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T05:25:25.533Z",
+  "generatedAt": "2026-04-22T07:46:59.389Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
+      "title": "Polygon to launch London’s first dedicated  360° spatial audio listening room",
+      "link": "https://www.decodedmagazine.com/polygon-to-launch-londons-first-dedicated-360-spatial-audio-listening-room/",
+      "published": "2026-04-22T06:22:25.000Z",
+      "publishedTs": 1776838945000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "UK",
+        "360 audio",
+        "Dean Street",
+        "London",
+        "Polygon",
+        "SOHO",
+        "Spatial Audio"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/hf_20260408_073443_6b280dab-7458-4cb3-9ef1-620dd4f8e79e.png?resize=765%2C1024&ssl=1",
+      "excerpt": "A new spatial audio listening room opens in Soho next month, built around a 17.1.10 L-Acoustics rig and a programme that treats albums as events. It&#8217;s also a useful moment to ask what 360 audio is actually for. Somewhere in the sec…"
+    },
     {
       "id": "0632e6baf23cb5cf1122593b0ff0b3b4ead5bce1",
       "title": "Sabam partners with Audoo to replace legacy DJ reporting system in Belgium",
@@ -566,25 +587,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8fffbe01-a139-c041-cfa3-029e7849363a.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Voodoo Village has announced its second lineup drop ahead of its 11th edition, adding a substantial new wave of artists to the 2026 programme. The additions span techno, melodic electronic, live performance and hybrid formats. Anetha and…"
-    },
-    {
-      "id": "3d506c3906a43e9ddc20f064e89260c1ea981650",
-      "title": "Five on Friday with Thomass Jackson",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-thomass-jackson/",
-      "published": "2026-04-10T09:01:39.000Z",
-      "publishedTs": 1775811699000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Electronica",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Thomass-Jackson-Press-6-scaled-e1775811003664.png",
-      "excerpt": "This week&#8217;s Five on Friday guest needs little by way of introduction to anyone who has spent time in the deeper, more exploratory corners of the global underground. Thomass Jackson is an Argentine-born, Mexico-based musician, produ…"
     },
     {
       "id": "82260a0a52ce249fd9122d2a19b952036e28869b",
