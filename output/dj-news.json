@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:05:13.997Z",
+  "generatedAt": "2026-04-22T13:26:56.756Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "8371424a6f96110816bb2eddd041a70028aacbc0",
+      "title": "Ambiguous Desire",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/arlo-parks-ambiguous-desire/",
+      "published": "2026-04-22T12:22:45.000Z",
+      "publishedTs": 1776860565000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Arlo-Parks-Ambiguous-Desire.jpg",
+      "excerpt": "A “Ambiguous Desire”, el tercer disco de Arlo Parks, le han puesto el sambenito del disco “dance” de la artista,... La entrada Ambiguous Desire se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7c98b202f03b3eb7c1ea7ac02891000943138efd",
+      "title": "Tinko",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-titanians-tinko/",
+      "published": "2026-04-22T11:48:00.000Z",
+      "publishedTs": 1776858480000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/titanians.jpg",
+      "excerpt": "La banda navarra The Titanians, con quince años de trayectoria y conocida por su movilidad dentro del mundo del Roots... La entrada Tinko se publicó primero en MondoSonoro ."
+    },
     {
       "id": "fe7d51d16c1346376574b9bbf6ff5f277be2c776",
       "title": "Bully",
@@ -334,34 +362,6 @@
       "excerpt": "Alavedra se reían en sus propias redes de que acababan de publicar un disco que, según Spotify, era un EP.... La entrada Muy bien se publicó primero en MondoSonoro ."
     },
     {
-      "id": "62cc2ba29bec819556fe84f3bd0a8e35928dcfe8",
-      "title": "Punt de Creu",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/xarim-areste-punt-de-creu/",
-      "published": "2026-04-19T08:39:10.000Z",
-      "publishedTs": 1776587950000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Xarim-Areste-Punt-de-Creu.jpg",
-      "excerpt": "El nuevo disco de Xarim Aresté, “Punt de creu”, transmite desde su propio título la idea que lo atraviesa, un... La entrada Punt de Creu se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "86b50ee978188cf651e25665c7552005fe5edcc0",
-      "title": "Pin Ups",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-dandy-warhols-pin-ups/",
-      "published": "2026-04-18T07:45:31.000Z",
-      "publishedTs": 1776498331000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/The-Dandy-Warhols-Pin-Ups.jpg",
-      "excerpt": "La sospecha tiende a aparecer irremediablemente cada vez que un grupo (sobre todo si este no vive su mejor momento)... La entrada Pin Ups se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "c29f10cf1af812219f9530d2146382d9fff23045",
       "title": "The team behind Mint Warehouse & The legendary Mint Club announce a new 2000 capacity venue in Leeds",
       "link": "https://www.decodedmagazine.com/the-team-behind-mint-warehouse-the-legendary-mint-club-announce-a-new-2000-capacity-venue-in-leeds/",
@@ -587,6 +587,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8fffbe01-a139-c041-cfa3-029e7849363a.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Voodoo Village has announced its second lineup drop ahead of its 11th edition, adding a substantial new wave of artists to the 2026 programme. The additions span techno, melodic electronic, live performance and hybrid formats. Anetha and…"
+    },
+    {
+      "id": "e6da7297e744c361417c39d35dbdd20b1ccd0303",
+      "title": "Salmon swim faster and further on cocaine, study finds",
+      "link": "https://mixmag.net/read/salmon-swim-faster-and-further-on-cocaine-study-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cocaine.png?width=660&fit=cover&s=j6HlWWy5fgjfTMyv56cTNxt54RHUIIEuTWZb1v8lAUM",
+      "excerpt": "Scientists exposed 105 wild salmon to cocaine in Sweden&#039;s Lake Vattern to conduct their research Continue reading..."
     },
     {
       "id": "82260a0a52ce249fd9122d2a19b952036e28869b",
@@ -1535,18 +1547,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_HQ2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=hVTnJlAKWQ_Ja32bmyWY-Tu46DqNxemB5l3FylM323w",
       "excerpt": "HALFQUEEN channels the power of music into a rousing mix tailored to the present moment Continue reading..."
-    },
-    {
-      "id": "8da16813d4662216d18eb33b9a4b50ebdb784b90",
-      "title": "New music on our radar this week: Nia Archives, Beatrice M., deBasement",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-5-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-g.png?width=660&fit=cover&s=lf43owjRQ2Ud14gnwtTNozjP3UVq3o9pKHH6Am2KwuM",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
