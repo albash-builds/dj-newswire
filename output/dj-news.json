@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T21:51:28.054Z",
-  "total": 110,
+  "generatedAt": "2026-04-22T22:47:22.343Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "8371424a6f96110816bb2eddd041a70028aacbc0",
@@ -61,46 +68,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Kanye-West-Ye-bully.jpg",
       "excerpt": "Antes de arrancar con esta reseña, cade decir lo complicado que resulta enfrentarse a la evaluación de un acto artístico... La entrada Bully se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
-      "title": "Polygon to launch London’s first dedicated  360° spatial audio listening room",
-      "link": "https://www.decodedmagazine.com/polygon-to-launch-londons-first-dedicated-360-spatial-audio-listening-room/",
-      "published": "2026-04-22T06:22:25.000Z",
-      "publishedTs": 1776838945000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "UK",
-        "360 audio",
-        "Dean Street",
-        "London",
-        "Polygon",
-        "SOHO",
-        "Spatial Audio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/hf_20260408_073443_6b280dab-7458-4cb3-9ef1-620dd4f8e79e.png?resize=765%2C1024&ssl=1",
-      "excerpt": "A new spatial audio listening room opens in Soho next month, built around a 17.1.10 L-Acoustics rig and a programme that treats albums as events. It&#8217;s also a useful moment to ask what 360 audio is actually for. Somewhere in the sec…"
-    },
-    {
-      "id": "0632e6baf23cb5cf1122593b0ff0b3b4ead5bce1",
-      "title": "Sabam partners with Audoo to replace legacy DJ reporting system in Belgium",
-      "link": "https://www.decodedmagazine.com/sabam-partners-with-audoo-to-replace-legacy-dj-reporting-system-in-belgium/",
-      "published": "2026-04-21T12:54:22.000Z",
-      "publishedTs": 1776776062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audoo",
-        "Belgium",
-        "Copyright",
-        "Royalties",
-        "Sabam"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/SABAM-scaled.png",
-      "excerpt": "Belgium&#8217;s authors&#8217; society Sabam has partnered with London-based music technology firm Audoo to replace its existing DJ reporting system with continuous audio recognition. The agreement moves Sabam away from sample-based and …"
     },
     {
       "id": "a4fb173c79a8c0a64b11dfa59a36ee0db5a77032",
@@ -173,46 +140,6 @@
       "excerpt": "Hay veces en las que el rayo de una canción te atraviesa en el mismo momento de escucharla por primera... La entrada Leiho Ondoan Xori Bat se publicó primero en MondoSonoro ."
     },
     {
-      "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
-      "title": "From Bankruptcy to a Million Customers: McDaniels Exits the Beatport CEO Chair",
-      "link": "https://www.decodedmagazine.com/from-bankruptcy-to-a-million-customers-mcdaniels-exits-the-beatport-ceo-chair/",
-      "published": "2026-04-20T10:16:01.000Z",
-      "publishedTs": 1776680161000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Beatport",
-        "stems",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/12/05_Beatport_MainLogo_GreenWhite_On_Blk_Final.png",
-      "excerpt": "Beatport has confirmed a leadership transition that will take effect on 1 July 2026, with Robb McDaniels stepping up to Executive Chairman after nine years as chief executive. Matt Gralen, currently President and Chief Financial Officer,…"
-    },
-    {
-      "id": "883fdd2300ea2ed4d8d673ec5f67f80b6ce9d127",
-      "title": "Production Futures launches Make Noise to open live events careers to young people",
-      "link": "https://www.decodedmagazine.com/production-futures-launches-make-noise-to-open-live-events-careers-to-young-people/",
-      "published": "2026-04-20T09:30:00.000Z",
-      "publishedTs": 1776677400000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audiotonic",
-        "Engineering",
-        "Manchester",
-        "Production Futures",
-        "Schools",
-        "stems",
-        "Technical Training",
-        "Teens",
-        "UK"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STEAM-Powered-Mixer-Promo-Image-2.png?resize=810%2C456&ssl=1",
-      "excerpt": "Backed by Greater Manchester Mayor Andy Burnham, funded through LIVE Trust and powered by Audiotonix, the campaign puts real pro audio kit in the hands of 12 to 18 year olds through a national competition. Production Futures has launched…"
-    },
-    {
       "id": "7b6644adcfbeab7a4750f4acb965152ade20bca9",
       "title": "Cat Fight",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jim-jones-all-stars-cat-fight/",
@@ -227,127 +154,6 @@
       "excerpt": "Las diferentes mutaciones y/o encarnaciones acumuladas por este músico británico a lo largo de su carrera, son todas, cada una... La entrada Cat Fight se publicó primero en MondoSonoro ."
     },
     {
-      "id": "3f3e0fdc9c48e3c4756f2a6ae6cc9d397febbffd",
-      "title": "Rone announces first album in 6 years ‘Megaptera",
-      "link": "https://www.decodedmagazine.com/rone-announces-first-album-in-6-years-megaptera/",
-      "published": "2026-04-20T08:48:09.000Z",
-      "publishedTs": 1776674889000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "Rone"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Megaptera by Rone Rone returns. After six years away from the studio album format, the Paris producer Erwan Castex has announced Megaptera, a fifteen-track record that arrives on InFiné on 12 June, alongside a feature documentary of the …"
-    },
-    {
-      "id": "3bcc814ebffda7065665c77e5da0960123fb324d",
-      "title": "fabric, Innervisions, Hedex Presents + more make up new London festival series",
-      "link": "https://www.decodedmagazine.com/fabric-innervisions-hedex-presents-more-make-up-new-london-festival-series/",
-      "published": "2026-04-20T07:42:43.000Z",
-      "publishedTs": 1776670963000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "House Music",
-        "Junction 2",
-        "London",
-        "LWE",
-        "Manor Park",
-        "Progressive House",
-        "Techno",
-        "THE BRIDGE"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
-      "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
-    },
-    {
-      "id": "f0daa7e0e63637a9143cd4f694805772a9f4a551",
-      "title": "Phonox Announces Circulate A Multi-Venue Series Connecting Three South London Venues",
-      "link": "https://www.decodedmagazine.com/phonox-announces-circulate-a-multi-venue-series-connecting-three-south-london-venues/",
-      "published": "2026-04-20T07:31:51.000Z",
-      "publishedTs": 1776670311000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "breaks",
-        "deep house",
-        "Electro",
-        "Garage",
-        "House Music",
-        "Jumbi",
-        "London",
-        "M.O.T",
-        "Phonox",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/image.jpeg?resize=810%2C456&ssl=1",
-      "excerpt": "Phonox announces the launch of Circulate, a new forward-thinking summer event series that connects three South London venues, Phonox, M.O.T., and Jumbi, into a day-to-night programme. Curated as a distinctive new format designed to chall…"
-    },
-    {
-      "id": "21f1a86a3e2926dd7e92e68ce3852e279cbfd35f",
-      "title": "How a two-second Kraftwerk drum loop became the test case for EU sampling law",
-      "link": "https://www.decodedmagazine.com/how-a-two-second-kraftwerk-drum-loop-became-the-test-case-for-eu-sampling-law/",
-      "published": "2026-04-20T06:06:50.000Z",
-      "publishedTs": 1776665210000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Copyright",
-        "Europe",
-        "Germany",
-        "music production",
-        "Sampling"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/08/Kraftwerk-4.webp",
-      "excerpt": "After twenty-nine years, a two-second drum loop and enough litigation to fill a small library, Kraftwerk have lost the decisive round in their copyright dispute with Moses Pelham. The European Court of Justice handed down its ruling on 1…"
-    },
-    {
-      "id": "4ae2b6b8d3c11818c37ae8c5e0955485837ff4f7",
-      "title": "Budakid announces debut LP ‘Dreams Stretched Beyond’",
-      "link": "https://www.decodedmagazine.com/budakid-announces-debut-lp-dreams-stretched-beyond/",
-      "published": "2026-04-20T06:00:13.000Z",
-      "publishedTs": 1776664813000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "budakid",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
-      "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
-    },
-    {
-      "id": "0c5e99c67ad09f39fcd1cf94a64a1454f8cf952b",
-      "title": "Book of the Month – Manchester must dance by Mike Pickering",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-manchester-must-dance-by-mike-pickering/",
-      "published": "2026-04-20T05:33:10.000Z",
-      "publishedTs": 1776663190000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Happy Mondays",
-        "M People",
-        "Manchester",
-        "Mike Pickering",
-        "NME",
-        "Paul Morely"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
-      "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
-    },
-    {
       "id": "acfc95f62b81c00216d132ebf4413ddd75564b6f",
       "title": "Muy bien",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/alavedra-muy-bien/",
@@ -360,233 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Alavedra-Muy-bien.jpg",
       "excerpt": "Alavedra se reían en sus propias redes de que acababan de publicar un disco que, según Spotify, era un EP.... La entrada Muy bien se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c29f10cf1af812219f9530d2146382d9fff23045",
-      "title": "The team behind Mint Warehouse & The legendary Mint Club announce a new 2000 capacity venue in Leeds",
-      "link": "https://www.decodedmagazine.com/the-team-behind-mint-warehouse-the-legendary-mint-club-announce-a-new-2000-capacity-venue-in-leeds/",
-      "published": "2026-04-15T10:43:29.000Z",
-      "publishedTs": 1776249809000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Clubbing",
-        "House Music",
-        "Leeds",
-        "Mint Festival",
-        "Mint XL",
-        "No Phones",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Mint-Leeds-scaled.jpg",
-      "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
-    },
-    {
-      "id": "4c43e1b0aac8110acff0ba26b749c286f3062504",
-      "title": "John 00 Fleming: Six Years, One Album, a Statement Worth Making",
-      "link": "https://www.decodedmagazine.com/exclusive-interview-john-00-fleming-six-years-one-album-a-statement-worth-making/",
-      "published": "2026-04-15T06:56:28.000Z",
-      "publishedTs": 1776236188000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "AI",
-        "DJ",
-        "Icon",
-        "John 00 Fleming",
-        "JOOF",
-        "Music Industry",
-        "Progressive House",
-        "radio show",
-        "Social media",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STN01422.jpg?resize=810%2C541&ssl=1",
-      "excerpt": "There are artists you admire from a distance for years before the timing finally lines up. John 00 Fleming is one of them. His name has been on our interview wishlist at Decoded for longer than we care to admit, not because he is hard to…"
-    },
-    {
-      "id": "a4e73a5dd00bc7f1e182c75d71d0e03a882f956e",
-      "title": "The Electronic Press Kit: What It Is, Why It Matters, and How to Get It Right",
-      "link": "https://www.decodedmagazine.com/the-electronic-press-kit-what-it-is-why-it-matters-and-how-to-get-it-right/",
-      "published": "2026-04-14T12:18:38.000Z",
-      "publishedTs": 1776169118000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Electronic Press Kit",
-        "EPK",
-        "Media",
-        "music production",
-        "PR",
-        "Press kit",
-        "Promoters",
-        "record labels"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2014/12/dj-headphones-music-technology-1684184-1600x1092.jpg",
-      "excerpt": "In today&#8217;s music landscape, talent alone isn&#8217;t always going to cut it. Whilst you&#8217;re busy perfecting your craft in the studio or behind the decks, there are hundreds of other artists doing the exact same thing, all vyin…"
-    },
-    {
-      "id": "d97d1cafe496c3c5bd30e77880c77e2c3acd70a8",
-      "title": "Pulp and Scritti Politti to headline newly announced weekender celebrating 50 years of Rough Trade",
-      "link": "https://www.decodedmagazine.com/pulp-and-scritti-politti-to-headline-newly-announced-weekender-celebrating-50-years-of-rough-trade/",
-      "published": "2026-04-14T10:34:44.000Z",
-      "publishedTs": 1776162884000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Books",
-        "Electronica",
-        "Festival of Britain",
-        "London",
-        "Pulp",
-        "Rock",
-        "Rough Trade",
-        "Southbank Arts Centre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/rough-trade-logo-scaled.jpg",
-      "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
-    },
-    {
-      "id": "652803215924f09e24f5918d9641ffdb74c7b093",
-      "title": "Calibre returns with a new album ‘Tricklemore Sea’ on Signature Recordings",
-      "link": "https://www.decodedmagazine.com/calibre-returns-with-a-new-album-tricklemore-sea-on-signature-recordings/",
-      "published": "2026-04-14T09:55:27.000Z",
-      "publishedTs": 1776160527000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "ambient",
-        "Calibre",
-        "chill out",
-        "DnB",
-        "dub techno",
-        "Electronica"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Calibre-scaled-e1776160431738.jpeg",
-      "excerpt": "Calibre announces his new album ‘Tricklemore Sea’, set for release on vinyl and digital on 1st May via Signature Recordings. Alongside the announcement, he shares the track ‘Mizzle Mine’. A deeply personal and exploratory body of work, t…"
-    },
-    {
-      "id": "430fce344885b615570f3b33cd952c67c2258995",
-      "title": "FUSE and Brunch Electronik announce joint Ibiza series at 528",
-      "link": "https://www.decodedmagazine.com/fuse-and-brunch-electronik-announce-joint-ibiza-series-at-528/",
-      "published": "2026-04-13T13:18:05.000Z",
-      "publishedTs": 1776086285000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Ibiza",
-        "528 Ibiza",
-        "Brunch Electronik",
-        "deep house",
-        "Deep techno",
-        "Fuse",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/DSC5690.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "FUSE has revealed the full line-ups for its Ibiza series with Brunch Electronik this summer, returning to 528 across Sunday 2nd, 9th and 16th August 2026. Taking place at one of the island’s most distinctive venues, the series unfolds as…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-04-13T12:13:41.000Z",
-      "publishedTs": 1776082421000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
-    },
-    {
-      "id": "7b17b96b282835802c4a41d7fb4906f6033c90e6",
-      "title": "Meet our March 2026 Mix of the Month Winner – Aqueous",
-      "link": "https://www.decodedmagazine.com/meet-our-march-mix-of-the-month-winner-aqueous/",
-      "published": "2026-04-13T12:12:40.000Z",
-      "publishedTs": 1776082360000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Breaks &amp; DnB",
-        "Featured",
-        "Interviews",
-        "Mixes",
-        "Aqueous",
-        "DJ Competition",
-        "DnB",
-        "IDM",
-        "Mix of the Month"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Aqueous-Monkey-Loft-25-scaled.jpg",
-      "excerpt": "Decoded Magazine · Mix of the Month March 2026 Winner &#8211; Aqueous March&#8217;s Mix of the Month winner is someone who has been a familiar presence in our submissions inbox for a while now. Aqueous has been a runner up on several pre…"
-    },
-    {
-      "id": "a7262759080f52a06bc3369f2ff21752586266e2",
-      "title": "Hospitality on the Beach is partnering with Nautica Collective",
-      "link": "https://www.decodedmagazine.com/hospitality-on-the-beach-is-partnering-with-nautica-collective/",
-      "published": "2026-04-13T10:55:04.000Z",
-      "publishedTs": 1776077704000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Festivals",
-        "Adriatic coast",
-        "Croatia",
-        "DnB",
-        "Hospitality on the Beach",
-        "Jungle",
-        "Tisno",
-        "Yacht"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/unnamed-1.png?resize=810%2C567&ssl=1",
-      "excerpt": "Hospitality’s flagship drum &amp; bass holiday, Hospitality On The Beach is unveiling something truly unique for their 2026 edition. Partnering with luxury sailing specialists Nautica Collective to launch an exclusive new way to experien…"
-    },
-    {
-      "id": "035285d0dd4c2a54deb3030f80d1c9f74fd59d1d",
-      "title": "Voodoo Village Festival expands line up",
-      "link": "https://www.decodedmagazine.com/voodoo-village-festival-expands-line-up/",
-      "published": "2026-04-13T10:47:44.000Z",
-      "publishedTs": 1776077264000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Festivals",
-        "&amp;Me",
-        "999999999",
-        "Agents of Time",
-        "Belgium",
-        "DJ Tennis",
-        "House Music",
-        "Len Faki",
-        "Melodic Techno",
-        "Monolink",
-        "RY X"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8fffbe01-a139-c041-cfa3-029e7849363a.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Voodoo Village has announced its second lineup drop ahead of its 11th edition, adding a substantial new wave of artists to the 2026 programme. The additions span techno, melodic electronic, live performance and hybrid formats. Anetha and…"
     },
     {
       "id": "0ae8221028a1d2ec6ea72ef198313d1020e14e9d",
