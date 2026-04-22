@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T09:20:31.411Z",
+  "generatedAt": "2026-04-22T11:05:13.997Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fe7d51d16c1346376574b9bbf6ff5f277be2c776",
+      "title": "Bully",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kanye-west-ye-bully/",
+      "published": "2026-04-22T09:28:40.000Z",
+      "publishedTs": 1776850120000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Kanye-West-Ye-bully.jpg",
+      "excerpt": "Antes de arrancar con esta reseña, cade decir lo complicado que resulta enfrentarse a la evaluación de un acto artístico... La entrada Bully se publicó primero en MondoSonoro ."
+    },
     {
       "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
       "title": "Polygon to launch London’s first dedicated  360° spatial audio listening room",
@@ -346,20 +360,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/The-Dandy-Warhols-Pin-Ups.jpg",
       "excerpt": "La sospecha tiende a aparecer irremediablemente cada vez que un grupo (sobre todo si este no vive su mejor momento)... La entrada Pin Ups se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "244211952ee17a68e6bf93325417b17ae9e5273a",
-      "title": "Oniria Popular",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/xoel-lopez-oniria-popular/",
-      "published": "2026-04-17T09:33:24.000Z",
-      "publishedTs": 1776418404000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Xoel-Lopez-Oniria-Popular-.jpg",
-      "excerpt": "Xoel López presenta en este trabajo un discurso que trasciende la propia idea de colección de canciones. El universo que... La entrada Oniria Popular se publicó primero en MondoSonoro ."
     },
     {
       "id": "c29f10cf1af812219f9530d2146382d9fff23045",
