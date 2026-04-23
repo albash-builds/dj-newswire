@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T09:28:12.540Z",
+  "generatedAt": "2026-04-23T11:08:26.870Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7a5df9dbf7293c805edca4f6146e94e939948cda",
+      "title": "Gira tot igual, però diferent",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ginesta-gira-tot-igual/",
+      "published": "2026-04-23T10:03:47.000Z",
+      "publishedTs": 1776938627000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Ginesta-Gira-tot-igual.jpg",
+      "excerpt": "Viniendo de “Només Viure”, un EP que nos dejaba con una sensación de celebración y euforia desinhibida, Ginestà parecían apuntar... La entrada Gira tot igual, però diferent se publicó primero en MondoSonoro ."
+    },
     {
       "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
       "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
@@ -233,20 +247,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Brown-Horse-Total-Dive.jpg",
       "excerpt": "Parece haber unanimidad en la prensa sobre la calidad del nuevo trabajo de Brown Horse y su condición de mejor... La entrada Brown Horse Total Dive se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ad90ca3286afa29fb37d5cc02440cb9d8c261db9",
-      "title": "Dig!",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mama-s-gun-dig/",
-      "published": "2026-04-20T15:20:49.000Z",
-      "publishedTs": 1776698449000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/mama-s-gun-dig.jpg",
-      "excerpt": "Para amantes del buen pasar y el easy listening que no se mofa de sus oyentes, este nuevo lanzamiento de... La entrada Dig! se publicó primero en MondoSonoro ."
     },
     {
       "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
