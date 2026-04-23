@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T07:52:15.657Z",
+  "generatedAt": "2026-04-23T09:28:12.540Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
+      "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-remember-when-we-all-agreed-a-monkey-was-the-future-of-music/",
+      "published": "2026-04-23T09:22:03.000Z",
+      "publishedTs": 1776936123000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "Limewire",
+        "MP3",
+        "Music Industry",
+        "NFT",
+        "Sony",
+        "technology",
+        "Universal Music",
+        "Web3"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
+      "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
+    },
     {
       "id": "3c68fe768018e5cdb6871b56600575079a79cb4b",
       "title": "Reseñamos 'M.I.7', el nuevo álbum de M.I.A.",
@@ -565,28 +588,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Aqueous-Monkey-Loft-25-scaled.jpg",
       "excerpt": "Decoded Magazine · Mix of the Month March 2026 Winner &#8211; Aqueous March&#8217;s Mix of the Month winner is someone who has been a familiar presence in our submissions inbox for a while now. Aqueous has been a runner up on several pre…"
-    },
-    {
-      "id": "a7262759080f52a06bc3369f2ff21752586266e2",
-      "title": "Hospitality on the Beach is partnering with Nautica Collective",
-      "link": "https://www.decodedmagazine.com/hospitality-on-the-beach-is-partnering-with-nautica-collective/",
-      "published": "2026-04-13T10:55:04.000Z",
-      "publishedTs": 1776077704000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Festivals",
-        "Adriatic coast",
-        "Croatia",
-        "DnB",
-        "Hospitality on the Beach",
-        "Jungle",
-        "Tisno",
-        "Yacht"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/unnamed-1.png?resize=810%2C567&ssl=1",
-      "excerpt": "Hospitality’s flagship drum &amp; bass holiday, Hospitality On The Beach is unveiling something truly unique for their 2026 edition. Partnering with luxury sailing specialists Nautica Collective to launch an exclusive new way to experien…"
     },
     {
       "id": "0ae8221028a1d2ec6ea72ef198313d1020e14e9d",
