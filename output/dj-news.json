@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T05:30:05.355Z",
+  "generatedAt": "2026-04-23T07:52:15.657Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,73 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3c68fe768018e5cdb6871b56600575079a79cb4b",
+      "title": "Reseñamos 'M.I.7', el nuevo álbum de M.I.A.",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-a-m-i-7-disco/",
+      "published": "2026-04-23T06:54:16.000Z",
+      "publishedTs": 1776927256000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/M.I.A.-M.I.7-disco.jpg",
+      "excerpt": "El 2022 fue un año de muerte y resurrección para M.I.A. Un año en el que Maya abrazó el giro... La entrada Reseñamos &#039;M.I.7&#039;, el nuevo álbum de M.I.A. se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c35d4fff37a547490713293a2124fa0a39b923c9",
+      "title": "The global electronic music business generated $15.1 billion in 2025, growing faster (7%) than it did in 2024",
+      "link": "https://www.decodedmagazine.com/the-global-electronic-music-business-generated-15-1-billion-in-2025-growing-faster-7-than-it-did-in-2024/",
+      "published": "2026-04-23T06:46:59.000Z",
+      "publishedTs": 1776926819000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Premieres",
+        "Afro House",
+        "Ibiza",
+        "IMS",
+        "Industry Report",
+        "Music Industry",
+        "Soundcloud",
+        "Spotify",
+        "Tech House",
+        "Tik Tok",
+        "Youtube"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMS-business-report-talk.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "IMS Ibiza has unveiled the IMS Electronic Music Business Report 2025/6. Presented live at IMS Ibiza, the report returns for its twelfth edition, authored for the fourth consecutive year by MIDiA Research’s Mark Mulligan. The report provi…"
+    },
+    {
+      "id": "20154bf446cd0593ccc52c8980fd4b58fd019aaf",
+      "title": "Superbloom",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/superbloom/",
+      "published": "2026-04-23T06:39:07.000Z",
+      "publishedTs": 1776926347000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Jessie-Ware-Superbloom.jpg",
+      "excerpt": "Puede parecer lo contrario, pero “Superbloom” no es el tercer disco de Jessie Ware, sino el sexto. Es indudable que... La entrada Superbloom se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8b78bb3837f794d1688869d4f33e39eedd6c8576",
+      "title": "Es un dolor inexplicable",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mujeres-es-un-dolor-inexplicable/",
+      "published": "2026-04-23T06:18:49.000Z",
+      "publishedTs": 1776925129000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Mujeres-Es-un-dolor-inexplicable.jpg",
+      "excerpt": "¿Si funciona, para qué arreglarlo? Hay discos que reinventan. Otros, reafirman. “Es un dolor inexplicable”, el nuevo largo de los... La entrada Es un dolor inexplicable se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8371424a6f96110816bb2eddd041a70028aacbc0",
       "title": "Ambiguous Desire",
@@ -159,20 +226,6 @@
       "excerpt": "Para amantes del buen pasar y el easy listening que no se mofa de sus oyentes, este nuevo lanzamiento de... La entrada Dig! se publicó primero en MondoSonoro ."
     },
     {
-      "id": "701f43b9a4391908383958a26cecd310bcfc956b",
-      "title": "Leiho Ondoan Xori Bat",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/xabier-badiola-leiho-ondoan-xori-bat/",
-      "published": "2026-04-20T12:47:58.000Z",
-      "publishedTs": 1776689278000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/xabier-badiola.jpg",
-      "excerpt": "Hay veces en las que el rayo de una canción te atraviesa en el mismo momento de escucharla por primera... La entrada Leiho Ondoan Xori Bat se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
       "title": "From Bankruptcy to a Million Customers: McDaniels Exits the Beatport CEO Chair",
       "link": "https://www.decodedmagazine.com/from-bankruptcy-to-a-million-customers-mcdaniels-exits-the-beatport-ceo-chair/",
@@ -211,20 +264,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STEAM-Powered-Mixer-Promo-Image-2.png?resize=810%2C456&ssl=1",
       "excerpt": "Backed by Greater Manchester Mayor Andy Burnham, funded through LIVE Trust and powered by Audiotonix, the campaign puts real pro audio kit in the hands of 12 to 18 year olds through a national competition. Production Futures has launched…"
-    },
-    {
-      "id": "7b6644adcfbeab7a4750f4acb965152ade20bca9",
-      "title": "Cat Fight",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jim-jones-all-stars-cat-fight/",
-      "published": "2026-04-20T09:17:00.000Z",
-      "publishedTs": 1776676620000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Jim-Jones-All-Stars-Cat-Fight.jpg",
-      "excerpt": "Las diferentes mutaciones y/o encarnaciones acumuladas por este músico británico a lo largo de su carrera, son todas, cada una... La entrada Cat Fight se publicó primero en MondoSonoro ."
     },
     {
       "id": "3f3e0fdc9c48e3c4756f2a6ae6cc9d397febbffd",
@@ -346,20 +385,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
       "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
-    },
-    {
-      "id": "acfc95f62b81c00216d132ebf4413ddd75564b6f",
-      "title": "Muy bien",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/alavedra-muy-bien/",
-      "published": "2026-04-19T10:04:17.000Z",
-      "publishedTs": 1776593057000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Alavedra-Muy-bien.jpg",
-      "excerpt": "Alavedra se reían en sus propias redes de que acababan de publicar un disco que, según Spotify, era un EP.... La entrada Muy bien se publicó primero en MondoSonoro ."
     },
     {
       "id": "c29f10cf1af812219f9530d2146382d9fff23045",
@@ -562,31 +587,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/unnamed-1.png?resize=810%2C567&ssl=1",
       "excerpt": "Hospitality’s flagship drum &amp; bass holiday, Hospitality On The Beach is unveiling something truly unique for their 2026 edition. Partnering with luxury sailing specialists Nautica Collective to launch an exclusive new way to experien…"
-    },
-    {
-      "id": "035285d0dd4c2a54deb3030f80d1c9f74fd59d1d",
-      "title": "Voodoo Village Festival expands line up",
-      "link": "https://www.decodedmagazine.com/voodoo-village-festival-expands-line-up/",
-      "published": "2026-04-13T10:47:44.000Z",
-      "publishedTs": 1776077264000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Festivals",
-        "&amp;Me",
-        "999999999",
-        "Agents of Time",
-        "Belgium",
-        "DJ Tennis",
-        "House Music",
-        "Len Faki",
-        "Melodic Techno",
-        "Monolink",
-        "RY X"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8fffbe01-a139-c041-cfa3-029e7849363a.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Voodoo Village has announced its second lineup drop ahead of its 11th edition, adding a substantial new wave of artists to the 2026 programme. The additions span techno, melodic electronic, live performance and hybrid formats. Anetha and…"
     },
     {
       "id": "0ae8221028a1d2ec6ea72ef198313d1020e14e9d",
