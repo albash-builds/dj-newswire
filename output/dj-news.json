@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T13:28:32.142Z",
+  "generatedAt": "2026-04-23T15:52:30.769Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "84326d75de399a3abc0d7b3722c7fc61d129cba0",
+      "title": "Volando en pedazos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/telarana-volando-en-pedazos/",
+      "published": "2026-04-23T14:13:07.000Z",
+      "publishedTs": 1776953587000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/telarana-volando.jpg",
+      "excerpt": "Lo nuevo de Telaraña se titula “Volando en pedazos” y sale con Crazy Bat Factory Records. Se ve cierta distancia... La entrada Volando en pedazos se publicó primero en MondoSonoro ."
+    },
     {
       "id": "68c4a85e52642d097723d45d1586774bcc253a94",
       "title": "Carl Craig’s Ambient ‘Meditations’ LP Arrives on Digital Platforms for First Time",
@@ -253,20 +267,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/kokoshca.jpg",
       "excerpt": "Los navarros Kokoshca sorprenden con este autohomenaje a su trayectoria, iniciada hace casi 20 años en Pamplona, revisitando sus propios... La entrada Divino Tesoro se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "793edbb4305a91a47f84b5498b32a39459b56cef",
-      "title": "Brown Horse Total Dive",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/brown-horse-total-dive/",
-      "published": "2026-04-21T06:19:13.000Z",
-      "publishedTs": 1776752353000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Brown-Horse-Total-Dive.jpg",
-      "excerpt": "Parece haber unanimidad en la prensa sobre la calidad del nuevo trabajo de Brown Horse y su condición de mejor... La entrada Brown Horse Total Dive se publicó primero en MondoSonoro ."
     },
     {
       "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
