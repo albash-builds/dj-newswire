@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T05:34:57.855Z",
+  "generatedAt": "2026-04-24T08:03:22.857Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5d34a41465d40c1bc75fdc9bcf07c948af8fce36",
+      "title": "Crítica de 'Tertulia', lo nuevo de Fillas de Cassandra",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/fillas-de-cassandra-tertulia/",
+      "published": "2026-04-24T07:18:59.000Z",
+      "publishedTs": 1777015139000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/filla-de-cassandra-tertulia.jpg",
+      "excerpt": "Le das al play y un tono clásico de llamada rompe el silencio. Todavía no lo sabes, pero Maria y... La entrada Crítica de &#039;Tertulia&#039;, lo nuevo de Fillas de Cassandra se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
       "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
@@ -298,20 +312,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/SABAM-scaled.png",
       "excerpt": "Belgium&#8217;s authors&#8217; society Sabam has partnered with London-based music technology firm Audoo to replace its existing DJ reporting system with continuous audio recognition. The agreement moves Sabam away from sample-based and …"
-    },
-    {
-      "id": "a4fb173c79a8c0a64b11dfa59a36ee0db5a77032",
-      "title": "Savage Imperial Death March",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-melvins-with-napalm-death-savage-imperial-death-march/",
-      "published": "2026-04-21T12:12:02.000Z",
-      "publishedTs": 1776773522000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/The-Melvins-with-Napalm-Death-Savage-Imperial-Death-March.jpg",
-      "excerpt": "Tras haber compartido un par de giras y declararse admiración mutua, las cosas se pusieron creativas entre Melvins y Napalm... La entrada Savage Imperial Death March se publicó primero en MondoSonoro ."
     },
     {
       "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
