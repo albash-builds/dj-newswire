@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T15:07:53.983Z",
+  "generatedAt": "2026-04-24T16:56:26.724Z",
   "total": 110,
   "sources": [
     {
@@ -586,6 +586,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/rough-trade-logo-scaled.jpg",
       "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
+    },
+    {
+      "id": "847f2a0783418b9a7cc220b50576531ac3250663",
+      "title": "Here's the full tracklist for Eddie Halliwell's 'Bosh! 12 Sizzling Bangers'",
+      "link": "https://mixmag.net/feature/heres-the-full-tracklist-for-eddie-halliwells-bosh-12-sizzling-bangers",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bosh-lead-image.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=1ZDziQA-TsVJYFeIjwp0gl0egQ-DZWai2IJa1lLtDOs",
+      "excerpt": "The legendary mix CD, which originally came with our January 2002 issue, is now available to listen to via SoundCloud for the first time Continue reading..."
     },
     {
       "id": "3ee9e62f0a14bcde6ddfcc86ea68154489cf35e8",
@@ -1534,18 +1546,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__MH_WEB_3_2026-03-30-165108_wttw.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=gdTYNZKehYmwhDNSndnmMJBEPw8PChJkxtslwCT8U_c",
       "excerpt": "Born and raised in Berlin, Marlon Hoffstadt fell for the city’s underground club culture as a teen — though it never loved him back. Now a global dance phenomenon, the journey hasn’t been a smooth one. Recently sober, signed to a major, …"
-    },
-    {
-      "id": "8b9186bcfc4d47453e6abe4c8e52d7163606dbab",
-      "title": "The Cover Mix: Marlon Hoffstadt AKA DJ Daddy Trance",
-      "link": "https://mixmag.net/feature/marlon-hoffstadt-dj-daddy-trance-cover-mix",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MH_WEB2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=AP184gK1OkZQydYHqEAmPnQPv7A8o5vVsTNazxhY_fE",
-      "excerpt": "Marlon Hoffstadt showcases the building blocks of his DJ Daddy Trance alias with a mix of old school trance Continue reading..."
     }
   ]
 }
