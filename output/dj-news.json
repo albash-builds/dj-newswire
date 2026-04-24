@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T02:37:04.149Z",
+  "generatedAt": "2026-04-24T05:34:57.855Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,51 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
+      "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
+      "link": "https://www.decodedmagazine.com/k7-set-to-release-dj-kicks-kruder-dorfmeister-30th-anniversary-boxset-edition/",
+      "published": "2026-04-24T03:56:55.000Z",
+      "publishedTs": 1777003015000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "chill out",
+        "iK7",
+        "Kruder &amp; Dorfmeister",
+        "Trip Hop",
+        "Vinyl"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Kruder-Dorfmeister-scaled.jpg",
+      "excerpt": "For its 30th anniversary, Kruder &amp; Dorfmeister’s DJ-Kicks is available for the first time in mixed form on 3LP, remastered by Bernie Grundman and packaged in a special box set including original imagery. Kruder &amp; Dorfmeister&#821…"
+    },
+    {
+      "id": "3599a1cf975af1cbc019b0e5acc5b6f7242945b3",
+      "title": "Fergus Alexander: 25 years of Raving through the shadows of Brisbane",
+      "link": "https://www.decodedmagazine.com/fergus-alexander-25-years-of-raving-through-the-shadows-of-brisbane/",
+      "published": "2026-04-24T03:46:33.000Z",
+      "publishedTs": 1777002393000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Featured",
+        "Interviews",
+        "Progressive",
+        "Barsoma",
+        "Beatsville",
+        "Brisbane",
+        "Creamfields",
+        "Dave Seaman",
+        "Fortitude Valley",
+        "Henry Saiz",
+        "Inthemix"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
+    },
     {
       "id": "7fd916d11f3060cafcae9471dfc6813f57eee79d",
       "title": "Reseñamos 'De un siglo anterior', el nuevo trabajo de Bunbury",
@@ -541,51 +586,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Calibre-scaled-e1776160431738.jpeg",
       "excerpt": "Calibre announces his new album ‘Tricklemore Sea’, set for release on vinyl and digital on 1st May via Signature Recordings. Alongside the announcement, he shares the track ‘Mizzle Mine’. A deeply personal and exploratory body of work, t…"
-    },
-    {
-      "id": "430fce344885b615570f3b33cd952c67c2258995",
-      "title": "FUSE and Brunch Electronik announce joint Ibiza series at 528",
-      "link": "https://www.decodedmagazine.com/fuse-and-brunch-electronik-announce-joint-ibiza-series-at-528/",
-      "published": "2026-04-13T13:18:05.000Z",
-      "publishedTs": 1776086285000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Ibiza",
-        "528 Ibiza",
-        "Brunch Electronik",
-        "deep house",
-        "Deep techno",
-        "Fuse",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/DSC5690.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "FUSE has revealed the full line-ups for its Ibiza series with Brunch Electronik this summer, returning to 528 across Sunday 2nd, 9th and 16th August 2026. Taking place at one of the island’s most distinctive venues, the series unfolds as…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-04-13T12:13:41.000Z",
-      "publishedTs": 1776082421000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 APRIL After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlist…"
     },
     {
       "id": "0c8c80e79599628faabc4b6339798ac685a1962a",
