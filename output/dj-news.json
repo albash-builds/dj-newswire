@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T10:21:12.501Z",
+  "generatedAt": "2026-04-24T11:56:49.605Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,27 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
+      "title": "Five on Friday with Darko C",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-darko-c/",
+      "published": "2026-04-24T11:03:10.000Z",
+      "publishedTs": 1777028590000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Crosstown Rebels",
+        "Dorset",
+        "Electro",
+        "Five on Friday",
+        "House Music",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
+      "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
+    },
     {
       "id": "5d34a41465d40c1bc75fdc9bcf07c948af8fce36",
       "title": "Crítica de 'Tertulia', lo nuevo de Fillas de Cassandra",
@@ -567,25 +588,16 @@
       "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
     },
     {
-      "id": "652803215924f09e24f5918d9641ffdb74c7b093",
-      "title": "Calibre returns with a new album ‘Tricklemore Sea’ on Signature Recordings",
-      "link": "https://www.decodedmagazine.com/calibre-returns-with-a-new-album-tricklemore-sea-on-signature-recordings/",
-      "published": "2026-04-14T09:55:27.000Z",
-      "publishedTs": 1776160527000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "ambient",
-        "Calibre",
-        "chill out",
-        "DnB",
-        "dub techno",
-        "Electronica"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Calibre-scaled-e1776160431738.jpeg",
-      "excerpt": "Calibre announces his new album ‘Tricklemore Sea’, set for release on vinyl and digital on 1st May via Signature Recordings. Alongside the announcement, he shares the track ‘Mizzle Mine’. A deeply personal and exploratory body of work, t…"
+      "id": "3ee9e62f0a14bcde6ddfcc86ea68154489cf35e8",
+      "title": "Police intervene after Drake fans use blowtorches on block of ice to discover album release date",
+      "link": "https://mixmag.net/read/police-intervene-drake-fans-attack-block-ice-album-release-date-inside-toronto-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drake-iceman.jpg?width=660&fit=cover&s=wYG36zns53OfF_aqZa2KmPeZCKbjolAXz5iegVyizbI",
+      "excerpt": "As part of a pre-release stunt, Drake dropped a mound of ice in Toronto with the drop date of his next record ‘Iceman’ hidden inside Continue reading..."
     },
     {
       "id": "0c8c80e79599628faabc4b6339798ac685a1962a",
@@ -1534,18 +1546,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MH_WEB2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=AP184gK1OkZQydYHqEAmPnQPv7A8o5vVsTNazxhY_fE",
       "excerpt": "Marlon Hoffstadt showcases the building blocks of his DJ Daddy Trance alias with a mix of old school trance Continue reading..."
-    },
-    {
-      "id": "c466deb9d60944a94dff159a671d3d8d7a4ec790",
-      "title": "New “boutique” nightclub Nocturna to launch in Ibiza this summer",
-      "link": "https://mixmag.net/read/new-boutique-nightclub-nocturna-to-launch-in-ibiza-this-summer-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-Ibiza.png?width=660&fit=cover&s=C_DjisWKgTyUQbdH0cAw2tzihUV0byiTt8agmQWbra4",
-      "excerpt": "The new venue will join numerous others on the White Isle in implementing a no-phones policy Continue reading..."
     }
   ]
 }
