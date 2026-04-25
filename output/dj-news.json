@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T07:16:09.918Z",
+  "generatedAt": "2026-04-25T08:52:53.067Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "25e60c4207b90f30e2b6d1c804615a1309b3b74c",
+      "title": "Reseñamos 'Quin gong', lo nuevo de Dan Peralbo i el Comboi",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dan-peralbo-i-el-comboi-quin-goig/",
+      "published": "2026-04-25T07:37:47.000Z",
+      "publishedTs": 1777102667000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/dan-peralbo-i-el-comboi-quin-goig.jpg",
+      "excerpt": "Lo reconozco, siento una especial debilidad por esta banda que va más allá de lo estrictamente musical. Y es que... La entrada Reseñamos &#039;Quin gong&#039;, lo nuevo de Dan Peralbo i el Comboi se publicó primero en MondoSonoro ."
+    },
     {
       "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
       "title": "Five on Friday with Darko C",
@@ -187,7 +201,7 @@
     },
     {
       "id": "3c68fe768018e5cdb6871b56600575079a79cb4b",
-      "title": "Reseñamos 'M.I.7', el nuevo álbum de M.I.A.",
+      "title": "M.I.7",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-a-m-i-7-disco/",
       "published": "2026-04-23T06:54:16.000Z",
       "publishedTs": 1776927256000,
@@ -197,7 +211,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/M.I.A.-M.I.7-disco.jpg",
-      "excerpt": "El 2022 fue un año de muerte y resurrección para M.I.A. Un año en el que Maya abrazó el giro... La entrada Reseñamos &#039;M.I.7&#039;, el nuevo álbum de M.I.A. se publicó primero en MondoSonoro ."
+      "excerpt": "El 2022 fue un año de muerte y resurrección para M.I.A. Un año en el que Maya abrazó el giro... La entrada M.I.7 se publicó primero en MondoSonoro ."
     },
     {
       "id": "c35d4fff37a547490713293a2124fa0a39b923c9",
@@ -279,20 +293,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/titanians.jpg",
       "excerpt": "La banda navarra The Titanians, con quince años de trayectoria y conocida por su movilidad dentro del mundo del Roots... La entrada Tinko se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "fe7d51d16c1346376574b9bbf6ff5f277be2c776",
-      "title": "Bully",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kanye-west-ye-bully/",
-      "published": "2026-04-22T09:28:40.000Z",
-      "publishedTs": 1776850120000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Kanye-West-Ye-bully.jpg",
-      "excerpt": "Antes de arrancar con esta reseña, cade decir lo complicado que resulta enfrentarse a la evaluación de un acto artístico... La entrada Bully se publicó primero en MondoSonoro ."
     },
     {
       "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
