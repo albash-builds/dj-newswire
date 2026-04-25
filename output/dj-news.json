@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-25T10:42:52.960Z",
-  "total": 110,
+  "generatedAt": "2026-04-25T11:37:58.139Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "25e60c4207b90f30e2b6d1c804615a1309b3b74c",
@@ -35,27 +42,6 @@
       "excerpt": "Lo reconozco, siento una especial debilidad por esta banda que va más allá de lo estrictamente musical. Y es que... La entrada Reseñamos &#039;Quin gong&#039;, lo nuevo de Dan Peralbo i el Comboi se publicó primero en MondoSonoro ."
     },
     {
-      "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
-      "title": "Five on Friday with Darko C",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-darko-c/",
-      "published": "2026-04-24T11:03:10.000Z",
-      "publishedTs": 1777028590000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Crosstown Rebels",
-        "Dorset",
-        "Electro",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
-    },
-    {
       "id": "5d34a41465d40c1bc75fdc9bcf07c948af8fce36",
       "title": "Crítica de 'Tertulia', lo nuevo de Fillas de Cassandra",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/fillas-de-cassandra-tertulia/",
@@ -68,51 +54,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/filla-de-cassandra-tertulia.jpg",
       "excerpt": "Le das al play y un tono clásico de llamada rompe el silencio. Todavía no lo sabes, pero Maria y... La entrada Crítica de &#039;Tertulia&#039;, lo nuevo de Fillas de Cassandra se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
-      "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
-      "link": "https://www.decodedmagazine.com/k7-set-to-release-dj-kicks-kruder-dorfmeister-30th-anniversary-boxset-edition/",
-      "published": "2026-04-24T03:56:55.000Z",
-      "publishedTs": 1777003015000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "chill out",
-        "iK7",
-        "Kruder &amp; Dorfmeister",
-        "Trip Hop",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Kruder-Dorfmeister-scaled.jpg",
-      "excerpt": "For its 30th anniversary, Kruder &amp; Dorfmeister’s DJ-Kicks is available for the first time in mixed form on 3LP, remastered by Bernie Grundman and packaged in a special box set including original imagery. Kruder &amp; Dorfmeister&#821…"
-    },
-    {
-      "id": "3599a1cf975af1cbc019b0e5acc5b6f7242945b3",
-      "title": "Fergus Alexander: 25 years of Raving through the shadows of Brisbane",
-      "link": "https://www.decodedmagazine.com/fergus-alexander-25-years-of-raving-through-the-shadows-of-brisbane/",
-      "published": "2026-04-24T03:46:33.000Z",
-      "publishedTs": 1777002393000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Progressive",
-        "Barsoma",
-        "Beatsville",
-        "Brisbane",
-        "Creamfields",
-        "Dave Seaman",
-        "Fortitude Valley",
-        "Henry Saiz",
-        "Inthemix"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
     },
     {
       "id": "7fd916d11f3060cafcae9471dfc6813f57eee79d",
@@ -143,26 +84,6 @@
       "excerpt": "Lo nuevo de Telaraña se titula “Volando en pedazos” y sale con Crazy Bat Factory Records. Se ve cierta distancia... La entrada Volando en pedazos se publicó primero en MondoSonoro ."
     },
     {
-      "id": "68c4a85e52642d097723d45d1586774bcc253a94",
-      "title": "Carl Craig’s Ambient ‘Meditations’ LP Arrives on Digital Platforms for First Time",
-      "link": "https://www.decodedmagazine.com/carl-craigs-ambient-meditations-lp-arrives-on-digital-platforms-for-first-time/",
-      "published": "2026-04-23T12:16:48.000Z",
-      "publishedTs": 1776946608000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Bandcamp",
-        "Carl Craig",
-        "chill out",
-        "Electronica",
-        "Planet E"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
-      "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
-    },
-    {
       "id": "7a5df9dbf7293c805edca4f6146e94e939948cda",
       "title": "Gira tot igual, però diferent",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/ginesta-gira-tot-igual/",
@@ -177,29 +98,6 @@
       "excerpt": "Viniendo de “Només Viure”, un EP que nos dejaba con una sensación de celebración y euforia desinhibida, Ginestà parecían apuntar... La entrada Gira tot igual, però diferent se publicó primero en MondoSonoro ."
     },
     {
-      "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
-      "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-remember-when-we-all-agreed-a-monkey-was-the-future-of-music/",
-      "published": "2026-04-23T09:22:03.000Z",
-      "publishedTs": 1776936123000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Limewire",
-        "MP3",
-        "Music Industry",
-        "NFT",
-        "Sony",
-        "technology",
-        "Universal Music",
-        "Web3"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
-      "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
-    },
-    {
       "id": "3c68fe768018e5cdb6871b56600575079a79cb4b",
       "title": "M.I.7",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-a-m-i-7-disco/",
@@ -212,31 +110,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/M.I.A.-M.I.7-disco.jpg",
       "excerpt": "El 2022 fue un año de muerte y resurrección para M.I.A. Un año en el que Maya abrazó el giro... La entrada M.I.7 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c35d4fff37a547490713293a2124fa0a39b923c9",
-      "title": "The global electronic music business generated $15.1 billion in 2025, growing faster (7%) than it did in 2024",
-      "link": "https://www.decodedmagazine.com/the-global-electronic-music-business-generated-15-1-billion-in-2025-growing-faster-7-than-it-did-in-2024/",
-      "published": "2026-04-23T06:46:59.000Z",
-      "publishedTs": 1776926819000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "Afro House",
-        "Ibiza",
-        "IMS",
-        "Industry Report",
-        "Music Industry",
-        "Soundcloud",
-        "Spotify",
-        "Tech House",
-        "Tik Tok",
-        "Youtube"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMS-business-report-talk.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "IMS Ibiza has unveiled the IMS Electronic Music Business Report 2025/6. Presented live at IMS Ibiza, the report returns for its twelfth edition, authored for the fourth consecutive year by MIDiA Research’s Mark Mulligan. The report provi…"
     },
     {
       "id": "20154bf446cd0593ccc52c8980fd4b58fd019aaf",
@@ -293,299 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/titanians.jpg",
       "excerpt": "La banda navarra The Titanians, con quince años de trayectoria y conocida por su movilidad dentro del mundo del Roots... La entrada Tinko se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
-      "title": "Polygon to launch London’s first dedicated  360° spatial audio listening room",
-      "link": "https://www.decodedmagazine.com/polygon-to-launch-londons-first-dedicated-360-spatial-audio-listening-room/",
-      "published": "2026-04-22T06:22:25.000Z",
-      "publishedTs": 1776838945000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "UK",
-        "360 audio",
-        "Dean Street",
-        "London",
-        "Polygon",
-        "SOHO",
-        "Spatial Audio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/hf_20260408_073443_6b280dab-7458-4cb3-9ef1-620dd4f8e79e.png?resize=765%2C1024&ssl=1",
-      "excerpt": "A new spatial audio listening room opens in Soho next month, built around a 17.1.10 L-Acoustics rig and a programme that treats albums as events. It&#8217;s also a useful moment to ask what 360 audio is actually for. Somewhere in the sec…"
-    },
-    {
-      "id": "0632e6baf23cb5cf1122593b0ff0b3b4ead5bce1",
-      "title": "Sabam partners with Audoo to replace legacy DJ reporting system in Belgium",
-      "link": "https://www.decodedmagazine.com/sabam-partners-with-audoo-to-replace-legacy-dj-reporting-system-in-belgium/",
-      "published": "2026-04-21T12:54:22.000Z",
-      "publishedTs": 1776776062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audoo",
-        "Belgium",
-        "Copyright",
-        "Royalties",
-        "Sabam"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/SABAM-scaled.png",
-      "excerpt": "Belgium&#8217;s authors&#8217; society Sabam has partnered with London-based music technology firm Audoo to replace its existing DJ reporting system with continuous audio recognition. The agreement moves Sabam away from sample-based and …"
-    },
-    {
-      "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
-      "title": "From Bankruptcy to a Million Customers: McDaniels Exits the Beatport CEO Chair",
-      "link": "https://www.decodedmagazine.com/from-bankruptcy-to-a-million-customers-mcdaniels-exits-the-beatport-ceo-chair/",
-      "published": "2026-04-20T10:16:01.000Z",
-      "publishedTs": 1776680161000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Beatport",
-        "stems",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/12/05_Beatport_MainLogo_GreenWhite_On_Blk_Final.png",
-      "excerpt": "Beatport has confirmed a leadership transition that will take effect on 1 July 2026, with Robb McDaniels stepping up to Executive Chairman after nine years as chief executive. Matt Gralen, currently President and Chief Financial Officer,…"
-    },
-    {
-      "id": "883fdd2300ea2ed4d8d673ec5f67f80b6ce9d127",
-      "title": "Production Futures launches Make Noise to open live events careers to young people",
-      "link": "https://www.decodedmagazine.com/production-futures-launches-make-noise-to-open-live-events-careers-to-young-people/",
-      "published": "2026-04-20T09:30:00.000Z",
-      "publishedTs": 1776677400000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audiotonic",
-        "Engineering",
-        "Manchester",
-        "Production Futures",
-        "Schools",
-        "stems",
-        "Technical Training",
-        "Teens",
-        "UK"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STEAM-Powered-Mixer-Promo-Image-2.png?resize=810%2C456&ssl=1",
-      "excerpt": "Backed by Greater Manchester Mayor Andy Burnham, funded through LIVE Trust and powered by Audiotonix, the campaign puts real pro audio kit in the hands of 12 to 18 year olds through a national competition. Production Futures has launched…"
-    },
-    {
-      "id": "3f3e0fdc9c48e3c4756f2a6ae6cc9d397febbffd",
-      "title": "Rone announces first album in 6 years ‘Megaptera",
-      "link": "https://www.decodedmagazine.com/rone-announces-first-album-in-6-years-megaptera/",
-      "published": "2026-04-20T08:48:09.000Z",
-      "publishedTs": 1776674889000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "Rone"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Megaptera by Rone Rone returns. After six years away from the studio album format, the Paris producer Erwan Castex has announced Megaptera, a fifteen-track record that arrives on InFiné on 12 June, alongside a feature documentary of the …"
-    },
-    {
-      "id": "3bcc814ebffda7065665c77e5da0960123fb324d",
-      "title": "fabric, Innervisions, Hedex Presents + more make up new London festival series",
-      "link": "https://www.decodedmagazine.com/fabric-innervisions-hedex-presents-more-make-up-new-london-festival-series/",
-      "published": "2026-04-20T07:42:43.000Z",
-      "publishedTs": 1776670963000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "House Music",
-        "Junction 2",
-        "London",
-        "LWE",
-        "Manor Park",
-        "Progressive House",
-        "Techno",
-        "THE BRIDGE"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
-      "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
-    },
-    {
-      "id": "f0daa7e0e63637a9143cd4f694805772a9f4a551",
-      "title": "Phonox Announces Circulate A Multi-Venue Series Connecting Three South London Venues",
-      "link": "https://www.decodedmagazine.com/phonox-announces-circulate-a-multi-venue-series-connecting-three-south-london-venues/",
-      "published": "2026-04-20T07:31:51.000Z",
-      "publishedTs": 1776670311000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "breaks",
-        "deep house",
-        "Electro",
-        "Garage",
-        "House Music",
-        "Jumbi",
-        "London",
-        "M.O.T",
-        "Phonox",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/image.jpeg?resize=810%2C456&ssl=1",
-      "excerpt": "Phonox announces the launch of Circulate, a new forward-thinking summer event series that connects three South London venues, Phonox, M.O.T., and Jumbi, into a day-to-night programme. Curated as a distinctive new format designed to chall…"
-    },
-    {
-      "id": "21f1a86a3e2926dd7e92e68ce3852e279cbfd35f",
-      "title": "How a two-second Kraftwerk drum loop became the test case for EU sampling law",
-      "link": "https://www.decodedmagazine.com/how-a-two-second-kraftwerk-drum-loop-became-the-test-case-for-eu-sampling-law/",
-      "published": "2026-04-20T06:06:50.000Z",
-      "publishedTs": 1776665210000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Copyright",
-        "Europe",
-        "Germany",
-        "music production",
-        "Sampling"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/08/Kraftwerk-4.webp",
-      "excerpt": "After twenty-nine years, a two-second drum loop and enough litigation to fill a small library, Kraftwerk have lost the decisive round in their copyright dispute with Moses Pelham. The European Court of Justice handed down its ruling on 1…"
-    },
-    {
-      "id": "4ae2b6b8d3c11818c37ae8c5e0955485837ff4f7",
-      "title": "Budakid announces debut LP ‘Dreams Stretched Beyond’",
-      "link": "https://www.decodedmagazine.com/budakid-announces-debut-lp-dreams-stretched-beyond/",
-      "published": "2026-04-20T06:00:13.000Z",
-      "publishedTs": 1776664813000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "budakid",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
-      "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
-    },
-    {
-      "id": "0c5e99c67ad09f39fcd1cf94a64a1454f8cf952b",
-      "title": "Book of the Month – Manchester must dance by Mike Pickering",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-manchester-must-dance-by-mike-pickering/",
-      "published": "2026-04-20T05:33:10.000Z",
-      "publishedTs": 1776663190000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Happy Mondays",
-        "M People",
-        "Manchester",
-        "Mike Pickering",
-        "NME",
-        "Paul Morely"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
-      "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
-    },
-    {
-      "id": "c29f10cf1af812219f9530d2146382d9fff23045",
-      "title": "The team behind Mint Warehouse & The legendary Mint Club announce a new 2000 capacity venue in Leeds",
-      "link": "https://www.decodedmagazine.com/the-team-behind-mint-warehouse-the-legendary-mint-club-announce-a-new-2000-capacity-venue-in-leeds/",
-      "published": "2026-04-15T10:43:29.000Z",
-      "publishedTs": 1776249809000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Clubbing",
-        "House Music",
-        "Leeds",
-        "Mint Festival",
-        "Mint XL",
-        "No Phones",
-        "Tech House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Mint-Leeds-scaled.jpg",
-      "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
-    },
-    {
-      "id": "4c43e1b0aac8110acff0ba26b749c286f3062504",
-      "title": "John 00 Fleming: Six Years, One Album, a Statement Worth Making",
-      "link": "https://www.decodedmagazine.com/exclusive-interview-john-00-fleming-six-years-one-album-a-statement-worth-making/",
-      "published": "2026-04-15T06:56:28.000Z",
-      "publishedTs": 1776236188000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "AI",
-        "DJ",
-        "Icon",
-        "John 00 Fleming",
-        "JOOF",
-        "Music Industry",
-        "Progressive House",
-        "radio show",
-        "Social media",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STN01422.jpg?resize=810%2C541&ssl=1",
-      "excerpt": "There are artists you admire from a distance for years before the timing finally lines up. John 00 Fleming is one of them. His name has been on our interview wishlist at Decoded for longer than we care to admit, not because he is hard to…"
-    },
-    {
-      "id": "a4e73a5dd00bc7f1e182c75d71d0e03a882f956e",
-      "title": "The Electronic Press Kit: What It Is, Why It Matters, and How to Get It Right",
-      "link": "https://www.decodedmagazine.com/the-electronic-press-kit-what-it-is-why-it-matters-and-how-to-get-it-right/",
-      "published": "2026-04-14T12:18:38.000Z",
-      "publishedTs": 1776169118000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Electronic Press Kit",
-        "EPK",
-        "Media",
-        "music production",
-        "PR",
-        "Press kit",
-        "Promoters",
-        "record labels"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2014/12/dj-headphones-music-technology-1684184-1600x1092.jpg",
-      "excerpt": "In today&#8217;s music landscape, talent alone isn&#8217;t always going to cut it. Whilst you&#8217;re busy perfecting your craft in the studio or behind the decks, there are hundreds of other artists doing the exact same thing, all vyin…"
-    },
-    {
-      "id": "d97d1cafe496c3c5bd30e77880c77e2c3acd70a8",
-      "title": "Pulp and Scritti Politti to headline newly announced weekender celebrating 50 years of Rough Trade",
-      "link": "https://www.decodedmagazine.com/pulp-and-scritti-politti-to-headline-newly-announced-weekender-celebrating-50-years-of-rough-trade/",
-      "published": "2026-04-14T10:34:44.000Z",
-      "publishedTs": 1776162884000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Books",
-        "Electronica",
-        "Festival of Britain",
-        "London",
-        "Pulp",
-        "Rock",
-        "Rough Trade",
-        "Southbank Arts Centre"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/rough-trade-logo-scaled.jpg",
-      "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
     },
     {
       "id": "847f2a0783418b9a7cc220b50576531ac3250663",
