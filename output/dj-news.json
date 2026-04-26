@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T16:42:07.672Z",
+  "generatedAt": "2026-04-26T17:38:27.305Z",
   "total": 110,
   "sources": [
     {
@@ -586,6 +586,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/rough-trade-logo-scaled.jpg",
       "excerpt": "This summer, indie icon Rough Trade takes over the Southbank Centre for a weekend-long celebration of 50 years in the business as one of Britain’s most influential independent music institutions. As the Southbank Centre marks the 75th an…"
+    },
+    {
+      "id": "58fa667980b5044893669bdd0a5bc3b6ade71d2a",
+      "title": "Buy New music on our radar this week: Surusinghe, Machinedrum, horsegiirL",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-surusinghe-machinedrum-horsegiirl-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-pic.png?width=660&fit=cover&s=qnKXG0MtEN03UjL0kzVOqF9GfO0KXiJO_87e0Qrpul4",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "f1327526feb65e0a81f4edb5a0c27ba3abc78d69",
@@ -1534,18 +1546,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-fred-again.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=Gpxt5aKi4azVgjXyaCs-p2yrsWyFZzArquZ7qdR7pGI",
       "excerpt": "History was made last month as the Daft Punk legend joined Fred again.. for his first set on British soil in nearly 19 years. Here is every track the pair played during their performance on the last leg of the USB002 tour at London&#039;…"
-    },
-    {
-      "id": "1d691a5f3ed29e6a41981a2846de4c0fe372023e",
-      "title": "Listen to Frankie Knuckles’ last-ever recorded mix",
-      "link": "https://mixmag.net/read/listen-frankie-knuckles-last-ever-recorded-mix-2014-miami-house-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/frankie-last-ever-mix.jpg?width=660&fit=cover&s=YmdFbB7rRduBo4I8eKdwiazKtxWiN5Pw4Fb50Fz2uIQ",
-      "excerpt": "To mark 12 years since his passing, we’re revising this historic groove-fuelled house set Continue reading..."
     }
   ]
 }
