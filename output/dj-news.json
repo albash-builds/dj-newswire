@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-27T13:52:27.805Z",
+  "generatedAt": "2026-04-27T15:47:41.347Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STN01422.jpg?resize=810%2C541&ssl=1",
       "excerpt": "There are artists you admire from a distance for years before the timing finally lines up. John 00 Fleming is one of them. His name has been on our interview wishlist at Decoded for longer than we care to admit, not because he is hard to…"
+    },
+    {
+      "id": "857aff0e4fa1ac4c9727eaf056dadd92ee38686e",
+      "title": "Police step in as illegal rave in Welsh mountain rages on",
+      "link": "https://mixmag.net/read/police-step-in-illegal-rave-welsh-mountain-rages-on-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/welsh-mountain-rave.jpg?width=660&fit=cover&s=PYH6z5M1ywChdopaio0YwKXkQUCQtVPNXdqZSKZy_2Y",
+      "excerpt": "Ravers descended on Rhigos Mountain in southeast Wales over the weekend Continue reading..."
     },
     {
       "id": "d9d8911779f82975541982427558f5a454289825",
@@ -1527,18 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/edmas-awards-2026.jpg?width=660&fit=cover&s=RnbuCjjfwinYdh9wsyJHecopYHZdK5F2RlEllsd0NaQ",
       "excerpt": "Other fan-voted awards also went to the likes of Carl Cox, Sara Landry and more Continue reading..."
-    },
-    {
-      "id": "e8df76357f20637c2d817cc2b108bf38bd58c35a",
-      "title": "Police forcibly close Milan venue DKR citing noise disturbance",
-      "link": "https://mixmag.net/read/police-forcibly-close-milan-venue-dkr-citing-noise-disturbance-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dkr-milan-club.jpg?width=660&fit=cover&s=J8SduOcDCuLmLsd-gOxKxNhq38kBOLOa6339s5a5MH8",
-      "excerpt": "Demonstrations are set to go ahead in response to the event space’s abrupt closure Continue reading..."
     }
   ]
 }
