@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T06:07:10.612Z",
+  "generatedAt": "2026-04-28T09:20:52.530Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "3237e5ff4db3b42a24c0d50dcb1ca5a1a1149254",
+      "title": "Bienvenidos a 'Fuegos del Barrio', lo nuevo de La Pegatina",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-pegatina-fuegos-del-barrio/",
+      "published": "2026-04-28T06:54:07.000Z",
+      "publishedTs": 1777359247000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/La-Pegatina-Fuegos-del-Barrio.jpg",
+      "excerpt": "“De lado a lado me paso la vida. Tarjeta de embarque, controles, maletas... A veces no sé ni la hora,... La entrada Bienvenidos a &#039;Fuegos del Barrio&#039;, lo nuevo de La Pegatina se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "e902de3f5589482e5611220269d8994ffc64170b",
+      "title": "Crítica de '¿Dónde está la ONU cuando más la necesitas?' de Niña Polaca",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nina-polaca-donde-esta-la-onu/",
+      "published": "2026-04-28T06:36:52.000Z",
+      "publishedTs": 1777358212000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/nina-polaca-Donde-esta-la-ONU.jpg",
+      "excerpt": "La música popular lleva décadas funcionando como cronista y termómetro del momento. El de ahora, mal que nos pese, está... La entrada Crítica de &#039;¿Dónde está la ONU cuando más la necesitas?&#039; de Niña Polaca se publicó primero en…"
+    },
     {
       "id": "9043f29fb3cba545fdeaa4bb93b583ddf9ac1b29",
       "title": "Hotlife",
@@ -116,7 +144,7 @@
     },
     {
       "id": "25e60c4207b90f30e2b6d1c804615a1309b3b74c",
-      "title": "Reseñamos 'Quin goig', lo nuevo de Dan Peralbo i el Comboi",
+      "title": "Quin goig",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dan-peralbo-i-el-comboi-quin-goig/",
       "published": "2026-04-25T07:37:47.000Z",
       "publishedTs": 1777102667000,
@@ -126,7 +154,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/dan-peralbo-i-el-comboi-quin-goig.jpg",
-      "excerpt": "Lo reconozco, siento una especial debilidad por esta banda que va más allá de lo estrictamente musical. Y es que... La entrada Reseñamos &#039;Quin goig&#039;, lo nuevo de Dan Peralbo i el Comboi se publicó primero en MondoSonoro ."
+      "excerpt": "Lo reconozco, siento una especial debilidad por esta banda que va más allá de lo estrictamente musical. Y es que... La entrada Quin goig se publicó primero en MondoSonoro ."
     },
     {
       "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
@@ -151,7 +179,7 @@
     },
     {
       "id": "5d34a41465d40c1bc75fdc9bcf07c948af8fce36",
-      "title": "Crítica de 'Tertulia', lo nuevo de Fillas de Cassandra",
+      "title": "Tertulia",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/fillas-de-cassandra-tertulia/",
       "published": "2026-04-24T07:18:59.000Z",
       "publishedTs": 1777015139000,
@@ -161,7 +189,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/filla-de-cassandra-tertulia.jpg",
-      "excerpt": "Le das al play y un tono clásico de llamada rompe el silencio. Todavía no lo sabes, pero Maria y... La entrada Crítica de &#039;Tertulia&#039;, lo nuevo de Fillas de Cassandra se publicó primero en MondoSonoro ."
+      "excerpt": "Le das al play y un tono clásico de llamada rompe el silencio. Todavía no lo sabes, pero Maria y... La entrada Tertulia se publicó primero en MondoSonoro ."
     },
     {
       "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
@@ -257,20 +285,6 @@
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
     },
     {
-      "id": "7a5df9dbf7293c805edca4f6146e94e939948cda",
-      "title": "Gira tot igual, però diferent",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ginesta-gira-tot-igual/",
-      "published": "2026-04-23T10:03:47.000Z",
-      "publishedTs": 1776938627000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Ginesta-Gira-tot-igual.jpg",
-      "excerpt": "Viniendo de “Només Viure”, un EP que nos dejaba con una sensación de celebración y euforia desinhibida, Ginestà parecían apuntar... La entrada Gira tot igual, però diferent se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
       "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
       "link": "https://www.decodedmagazine.com/throwback-thursday-remember-when-we-all-agreed-a-monkey-was-the-future-of-music/",
@@ -292,20 +306,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
       "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
-    },
-    {
-      "id": "3c68fe768018e5cdb6871b56600575079a79cb4b",
-      "title": "M.I.7",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-a-m-i-7-disco/",
-      "published": "2026-04-23T06:54:16.000Z",
-      "publishedTs": 1776927256000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/M.I.A.-M.I.7-disco.jpg",
-      "excerpt": "El 2022 fue un año de muerte y resurrección para M.I.A. Un año en el que Maya abrazó el giro... La entrada M.I.7 se publicó primero en MondoSonoro ."
     },
     {
       "id": "c35d4fff37a547490713293a2124fa0a39b923c9",
