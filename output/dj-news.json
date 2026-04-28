@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T09:20:52.530Z",
+  "generatedAt": "2026-04-28T11:44:16.195Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,43 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a313e72f81af9cb56727b1a8e808ad30f19a23ae",
+      "title": "Come Closer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/come-closer/",
+      "published": "2026-04-28T11:08:19.000Z",
+      "publishedTs": 1777374499000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/tomora-come-closer.jpg",
+      "excerpt": "Tom Rowlands (Chemical Brothers) y AURORA avanzan entre paisajes etéreos y espíritu ravero para entregar un sólido y brillante debut.... La entrada Come Closer se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "46cfc309242585142757fb9712699919b4a1b37d",
+      "title": "Thirteen Years On, Brighton Music Conference Is Still The UK’s Most Underrated Asset",
+      "link": "https://www.decodedmagazine.com/thirteen-years-on-brighton-music-conference-is-still-the-uks-most-underrated-asset/",
+      "published": "2026-04-28T10:11:02.000Z",
+      "publishedTs": 1777371062000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "UK",
+        "Brighton",
+        "Brighton Music Conference",
+        "DnB",
+        "House Music",
+        "music production",
+        "Progressive House",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/03/Brighton-Music-Conference-scaled.jpg",
+      "excerpt": "BMC26 returns to the seafront on 20-23 May 2026. After (founded in 2013) thirteen years on the calendar (although lanched in 2014), our Editor argues it has quietly become the most important conference the British electronic music indust…"
+    },
     {
       "id": "3237e5ff4db3b42a24c0d50dcb1ca5a1a1149254",
       "title": "Bienvenidos a 'Fuegos del Barrio', lo nuevo de La Pegatina",
@@ -249,20 +286,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Bunbury-De-un-siglo-anterior.jpg",
       "excerpt": "¿Está Bunbury en uno de los mejores estados de forma de su carrera? Yo creo que sí. Porque si “Cuentas... La entrada De un siglo anterior se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "84326d75de399a3abc0d7b3722c7fc61d129cba0",
-      "title": "Volando en pedazos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/telarana-volando-en-pedazos/",
-      "published": "2026-04-23T14:13:07.000Z",
-      "publishedTs": 1776953587000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/telarana-volando.jpg",
-      "excerpt": "Lo nuevo de Telaraña se titula “Volando en pedazos” y sale con Crazy Bat Factory Records. Se ve cierta distancia... La entrada Volando en pedazos se publicó primero en MondoSonoro ."
     },
     {
       "id": "68c4a85e52642d097723d45d1586774bcc253a94",
@@ -556,29 +579,16 @@
       "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
     },
     {
-      "id": "4c43e1b0aac8110acff0ba26b749c286f3062504",
-      "title": "John 00 Fleming: Six Years, One Album, a Statement Worth Making",
-      "link": "https://www.decodedmagazine.com/exclusive-interview-john-00-fleming-six-years-one-album-a-statement-worth-making/",
-      "published": "2026-04-15T06:56:28.000Z",
-      "publishedTs": 1776236188000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "AI",
-        "DJ",
-        "Icon",
-        "John 00 Fleming",
-        "JOOF",
-        "Music Industry",
-        "Progressive House",
-        "radio show",
-        "Social media",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STN01422.jpg?resize=810%2C541&ssl=1",
-      "excerpt": "There are artists you admire from a distance for years before the timing finally lines up. John 00 Fleming is one of them. His name has been on our interview wishlist at Decoded for longer than we care to admit, not because he is hard to…"
+      "id": "590a0267ae53151cf9410e6d1a66da6f05f14260",
+      "title": "Berlin club Blue Velvet appeals for support after raccoons “eat insulation”",
+      "link": "https://mixmag.net/read/berlin-club-blue-velvet-urges-for-support-raccoons-eat-insulation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/blue-velvet-berlin.jpg?width=660&fit=cover&s=8q80lwk9SY5OMsTUJX23sRaFNtcnDApe_6p4Qka8YeM",
+      "excerpt": "The venue said it faced a tough winter with frozen pipes, damp conditions and some unwanted, four-legged guests Continue reading..."
     },
     {
       "id": "857aff0e4fa1ac4c9727eaf056dadd92ee38686e",
@@ -1527,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/outdoor-yard-venue-mot_2026-04-01-114547_fzph.jpg?width=660&fit=cover&s=wRNLhZtN3BHyXbei5nZkRssf-WldQn_E6U9zCNKWeHM",
       "excerpt": "The Bermondsey venue will host an inaugural outdoor day-to-night party on May 2 Continue reading..."
-    },
-    {
-      "id": "9658506d3f63c93f7904db984f7f5d6412bcd0a1",
-      "title": "Mixmag picks up Exceptional Contribution Award at EDMAs in Miami",
-      "link": "https://mixmag.net/read/mixmag-picks-up-exceptional-contribution-award-edmas-miami-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/edmas-awards-2026.jpg?width=660&fit=cover&s=RnbuCjjfwinYdh9wsyJHecopYHZdK5F2RlEllsd0NaQ",
-      "excerpt": "Other fan-voted awards also went to the likes of Carl Cox, Sara Landry and more Continue reading..."
     }
   ]
 }
