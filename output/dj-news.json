@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T11:44:16.195Z",
+  "generatedAt": "2026-04-28T16:51:09.533Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "82ab07f892779d296850a4ef2f187961b03ccac7",
+      "title": "Volumes: One (Selections From Music Concerts 1019 – 2023 Bon Iver 6 Piece Band)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bon-iver-volumes/",
+      "published": "2026-04-28T15:31:17.000Z",
+      "publishedTs": 1777390277000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Volumes-One-Selections-From-Music-Concerts-Bon-Iver-6-Piece-Band.jpg",
+      "excerpt": "Simplificando mucho, siempre he dicho que hay tres tipos de artistas en directo: los que se limitan a reproducir los... La entrada Volumes: One (Selections From Music Concerts 1019 – 2023 Bon Iver 6 Piece Band) se publicó primero en Mond…"
+    },
     {
       "id": "a313e72f81af9cb56727b1a8e808ad30f19a23ae",
       "title": "Come Closer",
@@ -272,20 +286,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
       "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
-    },
-    {
-      "id": "7fd916d11f3060cafcae9471dfc6813f57eee79d",
-      "title": "De un siglo anterior",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bunbury-de-un-siglo-anterior/",
-      "published": "2026-04-23T16:02:36.000Z",
-      "publishedTs": 1776960156000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Bunbury-De-un-siglo-anterior.jpg",
-      "excerpt": "¿Está Bunbury en uno de los mejores estados de forma de su carrera? Yo creo que sí. Porque si “Cuentas... La entrada De un siglo anterior se publicó primero en MondoSonoro ."
     },
     {
       "id": "68c4a85e52642d097723d45d1586774bcc253a94",
@@ -577,6 +577,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Mint-Leeds-scaled.jpg",
       "excerpt": "A new venue is set to open its doors this year, marking a significant moment for the city’s nightlife and events landscape. Mint XL , the latest project from the team behind the Mint brand, represents the next evolution of a name that ha…"
+    },
+    {
+      "id": "71643ee5cda3c6d9121cfdae3e57af3cc65f90d5",
+      "title": "NEOPOP celebrates 20 years with ANTIPOP theme for 2026",
+      "link": "https://mixmag.net/read/neopop-celebrates-20-years-antipop-theme-2026-portugal-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/antipop-neopop-festival.jpg?width=660&fit=cover&s=J5bK0SP9gyNsX7oAMEEyhaMYcaErv9xGWDQ1B-DDcTc",
+      "excerpt": "Nodding to its early years under the name ANTIPOP, the Portuguese festival reclaims its roots this summer Continue reading..."
+    },
+    {
+      "id": "399237acfd8854d9ddd202dc1d314346358382af",
+      "title": "Hot Chocolate co-founder Tony Wilson has died aged 89",
+      "link": "https://mixmag.net/read/hot-chocolate-co-founder-tony-wilson-has-died-aged-89-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Chocolate-tony-Wilson.jpg?width=660&fit=cover&s=IIhBoU0o9gajVP4UszZItw8Kad3uPCv5x0eL_d0mJKE",
+      "excerpt": "Wilson co-wrote &#039;70s hits including &#039;Emma&#039; and &#039;You Sexy Thing&#039; alongside bandmate Errol Brown Continue reading..."
+    },
+    {
+      "id": "f361b662b21f714e4618f724edc191b7de988434",
+      "title": "\"Phone-free\" club events rose by 567% globally in 2025, new data reveals",
+      "link": "https://mixmag.net/read/phone-free-club-events-up-by-567-new-data-reveals-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/phones-events.jpg?width=660&fit=cover&s=H_7ZHZS8KYBlhJjaVqgY9SvrmJXvQdta70EhFSq9sV8",
+      "excerpt": "The UK is the &quot;global leader&quot; of phone-free events, with a study from Eventbrite claiming that attendance at said events has grown by 1,441% in just one year Continue reading..."
     },
     {
       "id": "590a0267ae53151cf9410e6d1a66da6f05f14260",
@@ -1501,42 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SAMA2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=0Um8TjiIIzrX0ZdhtKcmhwFi4m_4wvZA3eHi1AIoXjY",
       "excerpt": "The 100th instalment of The Mix comes from one of the most vital artistic voices in dance music Continue reading..."
-    },
-    {
-      "id": "299c03d28f98c463bde1f5085c2f3f1c1138e896",
-      "title": "Plans for Detroit electronic music museum halted by new mayor",
-      "link": "https://mixmag.net/read/redevelopment-plans-for-detroit-electronic-music-museum-halted-by-new-mayor-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Abandoned-automotive.png?width=660&fit=cover&s=lsdpE6wPYjA-kVm9MbhHg7Aq8a-3W0hAVi7gy7PWoYc",
-      "excerpt": "Plans for the $50 million rejuvenation project to transform the area around the infamous Packard Automotive Plant ruin were first unveiled in December Continue reading..."
-    },
-    {
-      "id": "a0bba648e81aadf9d373c7bb5d8975e66bcfd274",
-      "title": "Documentary series charting 100 years of Japan's listening bar culture premieres in London",
-      "link": "https://mixmag.net/read/documentary-series-charting-a-century-of-japans-listening-bar-culture-premieres-in-london-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Century-of-sound.png?width=660&fit=cover&s=wB5p8jWBhUObeehcmwujOPBXfxtQv4O4l5CEneN6QeE",
-      "excerpt": "A Century In Sound explores the last hundred years of Japanese music culture against the backdrop of the country&#039;s &quot;Ongaku Kissa&quot; and the audiophiles who have frequented them Continue reading..."
-    },
-    {
-      "id": "57b988b565531607c6fc97102c401f1f2a6ae7ea",
-      "title": "London’s Venue M.O.T granted licence to host open-air parties",
-      "link": "https://mixmag.net/read/london-venue-mot-granted-licence-host-open-air-parties-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/outdoor-yard-venue-mot_2026-04-01-114547_fzph.jpg?width=660&fit=cover&s=wRNLhZtN3BHyXbei5nZkRssf-WldQn_E6U9zCNKWeHM",
-      "excerpt": "The Bermondsey venue will host an inaugural outdoor day-to-night party on May 2 Continue reading..."
     }
   ]
 }
