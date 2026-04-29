@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T12:16:56.422Z",
+  "generatedAt": "2026-04-29T15:13:01.599Z",
   "total": 110,
   "sources": [
     {
@@ -576,6 +576,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
       "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
+    },
+    {
+      "id": "3ea25ea8a2338542378a981304c039c7eb803101",
+      "title": "Boomtown announces expansion of “world-first” hydrogen-powered stage for 2026",
+      "link": "https://mixmag.net/read/boomtown-announces-expansion-of-world-first-hydrogen-powered-stage-for-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Boomtown-credit-Lucas-Sinclair.jpg?width=660&fit=cover&s=9G6kg2KZNjn-P_NUqCtBBMuaLYN2locW-KcdHtUUnrw",
+      "excerpt": "HYDRO XL, fka HYDRO, will increase in size by 150% this year, and move to the heart of Downtown Continue reading..."
     },
     {
       "id": "e8c35d0be66e0de6c3d90fa3c22d022f48e8fd21",
@@ -1524,18 +1536,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/20240720_MJF_COUP_OST_BarryCantSwim_cMarcDucrest_141.jpg?width=660&fit=cover&s=pWc7COdgS2H2c5lDLj5LPGXdLHX7u8_KtIhM3EP-WPI",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "ebea12bd390cf581cde693247c3db2eab32bfc4f",
-      "title": "\"Nothing lasts forever\": An emotional farewell to Corsica Studios",
-      "link": "https://mixmag.net/feature/long-live-corsica-saying-goodbye-to-a-london-nightlife-institution",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHERELLE-KODE9.png?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=sexuOLTDWo6W3XSh8o26DJ0E8ftvH66m_6yv834EMlA",
-      "excerpt": "One of the UK capital&#039;s most enduring and beloved nightspots held its last-ever knees up last weekend, rounding off 24 years as the beating heart of London’s club scene Continue reading..."
     }
   ]
 }
