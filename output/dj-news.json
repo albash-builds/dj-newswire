@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:26:39.044Z",
+  "generatedAt": "2026-04-30T09:10:42.901Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d4d1232908bcca74dee2d1cc3195a7a932075faa",
+      "title": "When Did Dance Music Become So Fucking Boring?",
+      "link": "https://www.decodedmagazine.com/when-did-dance-music-become-so-fucking-boring/",
+      "published": "2026-04-30T08:50:37.000Z",
+      "publishedTs": 1777539037000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Bandcamp",
+        "Beatport",
+        "Boards of Canada",
+        "Bob Moses",
+        "Chemical Brothers",
+        "Crazy P",
+        "Daft Punk",
+        "DJ",
+        "Faithless",
+        "Groove Aramada"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/featured-1024x683-1.jpg",
+      "excerpt": "I have been chewing on this one for months and it is finally coming out, so pour yourself something stronger than coffee. When did dance music, our dance music, become so spectacularly bland? I do not ask that lightly. I have given the b…"
+    },
     {
       "id": "e299c85a3c503e161f7c1daa9907c6c40c5bfd96",
       "title": "LUNA",
@@ -122,7 +147,7 @@
     },
     {
       "id": "e902de3f5589482e5611220269d8994ffc64170b",
-      "title": "Crítica de '¿Dónde está la ONU cuando más la necesitas?' de Niña Polaca",
+      "title": "Dónde está la ONU cuando más la necesitas",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/nina-polaca-donde-esta-la-onu/",
       "published": "2026-04-28T06:36:52.000Z",
       "publishedTs": 1777358212000,
@@ -132,7 +157,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/nina-polaca-Donde-esta-la-ONU.jpg",
-      "excerpt": "La música popular lleva décadas funcionando como cronista y termómetro del momento. El de ahora, mal que nos pese, está... La entrada Crítica de &#039;¿Dónde está la ONU cuando más la necesitas?&#039; de Niña Polaca se publicó primero en…"
+      "excerpt": "La música popular lleva décadas funcionando como cronista y termómetro del momento. El de ahora, mal que nos pese, está... La entrada Dónde está la ONU cuando más la necesitas se publicó primero en MondoSonoro ."
     },
     {
       "id": "9043f29fb3cba545fdeaa4bb93b583ddf9ac1b29",
@@ -150,7 +175,7 @@
     },
     {
       "id": "41b45d3681c6c6e16677246ef65161368d02b064",
-      "title": "Reseñamos 'Your Favorite Toy' el esperado álbum de Foo Fighters",
+      "title": "Your Favorite Toy",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/foo-fighters-your-favorite-toy-disco/",
       "published": "2026-04-27T13:16:27.000Z",
       "publishedTs": 1777295787000,
@@ -160,7 +185,7 @@
         "Discos"
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Foo-Fighters-Your-Favorite-Gun.jpg",
-      "excerpt": "El treinta aniversario de Foo Fighters como banda no pudo llegar en un momento más extraño, convulso incluso. A mediados... La entrada Reseñamos &#039;Your Favorite Toy&#039; el esperado álbum de Foo Fighters se publicó primero en MondoS…"
+      "excerpt": "El treinta aniversario de Foo Fighters como banda no pudo llegar en un momento más extraño, convulso incluso. A mediados... La entrada Your Favorite Toy se publicó primero en MondoSonoro ."
     },
     {
       "id": "903c18f4b396386a7f90fa60cdfdc9ab72f73f24",
@@ -554,27 +579,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
       "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
-    },
-    {
-      "id": "0c5e99c67ad09f39fcd1cf94a64a1454f8cf952b",
-      "title": "Book of the Month – Manchester must dance by Mike Pickering",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-manchester-must-dance-by-mike-pickering/",
-      "published": "2026-04-20T05:33:10.000Z",
-      "publishedTs": 1776663190000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Book of the month",
-        "Happy Mondays",
-        "M People",
-        "Manchester",
-        "Mike Pickering",
-        "NME",
-        "Paul Morely"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/manchester-must-dance-1.jpg?resize=325%2C500&ssl=1",
-      "excerpt": "There are DJ memoirs that chronicle careers, and there are DJ memoirs that chronicle cultures. Mike Pickering&#8217;s Manchester must dance sits firmly in the latter camp. Published by Manchester University Press in April 2026, co-writte…"
     },
     {
       "id": "7b2f4c81369467ee23434e1950df024a37cd646a",
