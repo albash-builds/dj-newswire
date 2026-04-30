@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T11:27:30.201Z",
+  "generatedAt": "2026-04-30T13:53:55.013Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,30 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "40bc78dd4c4cc871078862768a9aa44162d271ae",
+      "title": "John Digweed, GU019 Los Angeles: The Night America Finally Tuned In",
+      "link": "https://www.decodedmagazine.com/john-digweed-gu019-los-angeles-the-night-america-finally-tuned-in/",
+      "published": "2026-04-30T13:46:44.000Z",
+      "publishedTs": 1777556804000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "North America and Canada",
+        "Throwback Thursdays",
+        "America",
+        "Bedrock Records",
+        "Global Underground",
+        "Jimmy Van M",
+        "John Digweed",
+        "LA",
+        "Pole Folder",
+        "Progressive House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/john-digweed-scaled.jpg",
+      "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
+    },
     {
       "id": "6d6868fab58eddb471482ba952a93fbfbfa72527",
       "title": "Shortcuts",
@@ -565,20 +589,28 @@
       "excerpt": "After twenty-nine years, a two-second drum loop and enough litigation to fill a small library, Kraftwerk have lost the decisive round in their copyright dispute with Moses Pelham. The European Court of Justice handed down its ruling on 1…"
     },
     {
-      "id": "4ae2b6b8d3c11818c37ae8c5e0955485837ff4f7",
-      "title": "Budakid announces debut LP ‘Dreams Stretched Beyond’",
-      "link": "https://www.decodedmagazine.com/budakid-announces-debut-lp-dreams-stretched-beyond/",
-      "published": "2026-04-20T06:00:13.000Z",
-      "publishedTs": 1776664813000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "budakid",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
-      "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
+      "id": "2b7e9e19156eac0e0d2c144e7e586155ea6e1812",
+      "title": "Tupac's family launches wrongful death lawsuit against alleged murderers",
+      "link": "https://mixmag.net/read/tupac-family-launches-wrongful-death-lawsuit-against-alleged-murderers-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tupac-credit-Acwstler44.jpg?width=660&fit=cover&s=DI17Ds4drbaJkmENFBB1UTCE6Dg6zKmy_cmbBi659Tg",
+      "excerpt": "The suit is seeking to identify the &quot;individuals who may have participated in planning, financing, directing, or carrying out the conspiracy&quot; to murder Tupac in 1996 Continue reading..."
+    },
+    {
+      "id": "9ae142916f37e8ebbc7b9c52c9b7126b180b1c9b",
+      "title": "Suspected new Banksy work appears in Central London",
+      "link": "https://mixmag.net/read/suspected-new-banksy-statue-appears-central-london-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/banksy-statue-london.jpg?width=660&fit=cover&s=agvhFU0ZyfhEHUWWbU4aFJo230Es99w7Ejvu2Tk56ls",
+      "excerpt": "While the anonymous artist is yet to take ownership, the statue features Banksy’s signature at its base Continue reading..."
     },
     {
       "id": "ceb1bd483f094c13ae6f528047fcadf63710c4e6",
@@ -1515,30 +1547,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__FCUKERS_WEB_2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=tcIstMY6QCoxnLYwLqb0K_3_sn2KyGQbCi5Dua_TABs",
       "excerpt": "Bored with their respective indie bands, Shannon Wise and Jackson Walker Lewis formed Fcukers to explore club sounds and have quickly (and deservedly) become the most hyped act in dance music. Upon the release of their debut album ‘Ö’, t…"
-    },
-    {
-      "id": "13050fe742571f4fdc5901081915ea26662ba9ba",
-      "title": "The Cover Mix: Fcukers",
-      "link": "https://mixmag.net/feature/fcukers-the-cover-mix-dj",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_FCUKERS_WEB2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=p7bb1P2jbBVg1H4DMIQZ_8678VtJKPyImMCGxNhVgZU",
-      "excerpt": "Fcukers member Jackson Walker Lewis digs into his crates for a mix of records that made him fall in love with dance music Continue reading..."
-    },
-    {
-      "id": "c747352831f0f7629caf09a542b6984d2f3ee784",
-      "title": "Wireless Festival cancelled after Home Office blocks headliner Kanye West from entering UK",
-      "link": "https://mixmag.net/read/kanye-west-wireless-denied-entry-uk-festival-home-office-news-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanye-West.png?width=660&fit=cover&s=BXU-uAtR-nswXIlBBSXes2DtykMKze4am8emxK11sxc",
-      "excerpt": "Several major sponsors had withdrawn from the Finsbury Park event, where the controversial US musician was due to appear across three nights in July Continue reading..."
     }
   ]
 }
