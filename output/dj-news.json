@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T09:10:42.901Z",
+  "generatedAt": "2026-04-30T11:27:30.201Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6d6868fab58eddb471482ba952a93fbfbfa72527",
+      "title": "Shortcuts",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/charlie-hijos-bastardos-shortcuts/",
+      "published": "2026-04-30T10:43:56.000Z",
+      "publishedTs": 1777545836000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Charlie-Hijos-Bastardos-Shortcuts.jpg",
+      "excerpt": "Desde que incursionó en el género en los albores del nuevo milenio con la creación del grupo Hijos Bastardos –junto... La entrada Shortcuts se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d4d1232908bcca74dee2d1cc3195a7a932075faa",
       "title": "When Did Dance Music Become So Fucking Boring?",
@@ -252,20 +266,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Error-97-Nadie-nos-recordara.jpg",
       "excerpt": "Definitivamente, el subsuelo del pop español parece haberse convertido en una suerte de asamblea permanente sobre juventud precaria. El día... La entrada Nadie nos recordará se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "25e60c4207b90f30e2b6d1c804615a1309b3b74c",
-      "title": "Quin goig",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dan-peralbo-i-el-comboi-quin-goig/",
-      "published": "2026-04-25T07:37:47.000Z",
-      "publishedTs": 1777102667000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/dan-peralbo-i-el-comboi-quin-goig.jpg",
-      "excerpt": "Lo reconozco, siento una especial debilidad por esta banda que va más allá de lo estrictamente musical. Y es que... La entrada Quin goig se publicó primero en MondoSonoro ."
     },
     {
       "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
@@ -579,6 +579,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Budakid_Horizontal-scaled.jpg",
       "excerpt": "Dreams Stretched Beyond by Budakid Budakid announces Dreams Stretched Beyond, his debut album arriving 3 rd July, alongside ‘Endless’, the first single from the upcoming LP on his own label, Flores. The Dutch, Berlin based Producer, DJ, …"
+    },
+    {
+      "id": "ceb1bd483f094c13ae6f528047fcadf63710c4e6",
+      "title": "Boards of Canada invite fans to listen to new album ahead of release",
+      "link": "https://mixmag.net/read/boards-of-canada-invite-fans-to-listen-to-new-album-ahead-of-release-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-credit-warp.jpg?width=660&fit=cover&s=ztMgUZYs5xaUgyFA8F7zC-zF5w5LReSS4Sj-PGMaW_I",
+      "excerpt": "A series of &#039;Inferno&#039; listening sessions will be held in seven cities across the world on May 29 Continue reading..."
+    },
+    {
+      "id": "803c1127465906255cee0b2c03b5985de6c88052",
+      "title": "Chase & Status to feature as characters in new James Bond game, 007: First Light",
+      "link": "https://mixmag.net/read/chase-status-feature-characters-new-james-bond-game-007-first-light-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/First-light.png?width=660&fit=cover&s=6rmq2E7kkQne_Q3dHE7e8Q_KCUZ1hgSdb2ZT12zyDbA",
+      "excerpt": "The drum &#039;n&#039; bass duo join Dimitri Vegas as cast members for the video game, which will officially launch next month Continue reading..."
     },
     {
       "id": "7b2f4c81369467ee23434e1950df024a37cd646a",
@@ -1515,30 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanye-West.png?width=660&fit=cover&s=BXU-uAtR-nswXIlBBSXes2DtykMKze4am8emxK11sxc",
       "excerpt": "Several major sponsors had withdrawn from the Finsbury Park event, where the controversial US musician was due to appear across three nights in July Continue reading..."
-    },
-    {
-      "id": "3192afb6c65bf48174a21cbf2bff34b0858f1ccb",
-      "title": "Police criticised for \"attacking\" attendees at a rave in Dorset",
-      "link": "https://mixmag.net/read/police-accused-of-attacking-attendees-at-2000-strong-rave-in-dorset-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-rave.png?width=660&fit=cover&s=ADWo3eNS3YwYy4kx1eefQ0G27f4mjV3QJ2vYUT7oooc",
-      "excerpt": "Police arrested 11 people after shutting down the unlicensed music event near East Lulworth on Sunday Continue reading..."
-    },
-    {
-      "id": "ae9fff01f6bc314e1a42f6a925b0ca2d5a7a755e",
-      "title": "New music on our radar this week: Anz, Sully, Rebekah",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-anz-sully-rebekah-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-pic.png?width=660&fit=cover&s=swe5wSj9RJmsmsayEHnPEt2t0HR4fmETFQ9ppc1vzPM",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
