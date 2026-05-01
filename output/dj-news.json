@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:47:02.616Z",
+  "generatedAt": "2026-05-01T14:55:31.636Z",
   "total": 110,
   "sources": [
     {
@@ -581,6 +581,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
       "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
+    },
+    {
+      "id": "9f0ea95b4c17ec670d1fcd75c9d5dcad65cfc65e",
+      "title": "The Blessed Madonna calls out Róisín Murphy over claims of “censorship”",
+      "link": "https://mixmag.net/read/the-blessed-madonna-calls-out-roisin-murphy-over-claims-of-censorship-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tbm-roisin.jpg?width=660&fit=cover&s=otn62Xe1GFLw69obyfLN5ZYGW3H9h8ZoIOC06n_8uyE",
+      "excerpt": "The Irish singer said artists must “self-censor” to protect themselves from cancel culture in a speech at Parliament this week Continue reading..."
     },
     {
       "id": "0526115978f4b5e448d297e041a111121839c800",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_VANCO2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=EA6REDuSiz0ZIAbWmg3FVqCv7yAkSqPddgwSNEQvMc4",
       "excerpt": "Having released a stream of well-received tracks and played international tour dates for almost a decade, Vanco is now at the height of his powers, riding the monumental success of &#039;Ma Tnsani (Yalla Habibi)&#039;, with more major re…"
-    },
-    {
-      "id": "b10ba7da202131268a5f9b9240fde793b2c17a0a",
-      "title": "You can now listen to Fred again.. and Thomas Bangalter's Ally Pally b2b on Apple Music",
-      "link": "https://mixmag.net/read/you-can-now-listen-to-fred-again-and-thomas-bangalters-ally-pally-b2b-on-apple-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-fred-again-1.png?width=660&fit=cover&s=1-3VC5a95l-HoHFuVI3qJKzaEzSdd-YjY1a7MzjI24Y",
-      "excerpt": "The back-to-back between the UK producer and former Daft Punk member is also available to watch via YouTube Continue reading..."
     }
   ]
 }
