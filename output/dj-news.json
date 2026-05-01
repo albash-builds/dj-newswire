@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:59:05.728Z",
+  "generatedAt": "2026-05-01T13:47:02.616Z",
   "total": 110,
   "sources": [
     {
@@ -605,6 +605,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sisi-dj.jpg?width=660&fit=cover&s=1_cJrJIFJ75r84imCTuIbArj0cziVbuqKN147oXqb1A",
       "excerpt": "The Japanese DJ suffered an intracerebral haemorrhage, the festival confirmed Continue reading..."
+    },
+    {
+      "id": "1ff604470555cd9a99fb0587d84d7685f6e4ac9b",
+      "title": "Building bridges with bass: Low End Therapy is starting a dubstep revolution in Mumbai",
+      "link": "https://mixmag.net/feature/remedy-in-rebellion-low-end-therapy-is-bringing-dubstep-to-the-mumbai-masses",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Low-End-Therapy.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=n2DbGI_6paViRtCk_9TeRmm5Lb4k0-wF1T_kEOlUXeE",
+      "excerpt": "Dishing out rapid-fire dubstep for their city&#039;s lower-caste communities, Low End Therapy isn&#039;t just about &quot;drops and bouncing&quot;. We spoke to co-founder Tushar Adhava to find out more about the core tenants of this burg…"
     },
     {
       "id": "24b0bc28a98c98d1154b27b1b527b5cb54f7f33c",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-fred-again-1.png?width=660&fit=cover&s=1-3VC5a95l-HoHFuVI3qJKzaEzSdd-YjY1a7MzjI24Y",
       "excerpt": "The back-to-back between the UK producer and former Daft Punk member is also available to watch via YouTube Continue reading..."
-    },
-    {
-      "id": "ac627ebe6f5b244440b7252f36428c256f6d7f57",
-      "title": "Accra's Oroko Radio announces indefinite hiatus",
-      "link": "https://mixmag.net/read/accras-oroko-radio-announces-indefinate-hiatus-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/oroko-radio.png?width=660&fit=cover&s=N12SlNRj9FhMXZd6AeBdMrbXHsKdApuxFpjK9VXpt4c",
-      "excerpt": "The not-for-profit online station has championed music from Ghana and the African diaspora since it launched in 2022 Continue reading..."
     }
   ]
 }
