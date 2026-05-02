@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T05:36:41.937Z",
+  "generatedAt": "2026-05-02T07:43:27.369Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c8932560b6ac50b05ff8874f2ada24fb472568aa",
+      "title": "Mito único",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mito-unico-pal/",
+      "published": "2026-05-02T06:45:32.000Z",
+      "publishedTs": 1777704332000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/PalMitoUnicoCD.jpg",
+      "excerpt": "Una última bala perdida. Eso es lo que le quedaba al grupo de Torrijos PAL en la recámara. O, mejor... La entrada Mito único se publicó primero en MondoSonoro ."
+    },
     {
       "id": "80eb70e9beda3f3ac95db3bf5a086c7684dd9430",
       "title": "Five on Friday with FC Kahuna",
@@ -314,20 +328,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Lucas-Bun-Lodo.jpg",
       "excerpt": "Doce boleros inmortales (más uno inédito) filtrados por una minimalista y cuidada electrónica, rebosante de contemporaneidad y luminosidad pop, y... La entrada Lodo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "066bb4ade8f3df29cbef153654bff1cdc323c0a9",
-      "title": "Nadie nos recordará",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/error-97-nadie-nos-recordara/",
-      "published": "2026-04-27T08:53:01.000Z",
-      "publishedTs": 1777279981000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Error-97-Nadie-nos-recordara.jpg",
-      "excerpt": "Definitivamente, el subsuelo del pop español parece haberse convertido en una suerte de asamblea permanente sobre juventud precaria. El día... La entrada Nadie nos recordará se publicó primero en MondoSonoro ."
     },
     {
       "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
