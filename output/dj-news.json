@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T10:03:56.686Z",
+  "generatedAt": "2026-05-03T11:41:40.991Z",
   "total": 110,
   "sources": [
     {
@@ -581,6 +581,18 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
       "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
+    },
+    {
+      "id": "63f3fb631e019b119f655c66fb6f3bc6bd867e29",
+      "title": "Festival line-ups you might have missed: Peep, Rosklide, Cross The Tracks",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-peep-rosklide-cross-the-tracks-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festis.png?width=660&fit=cover&s=kMRuJnLw4vnzm_2aH74MNzdyp9EpB1ORsJ5RT0b0JRo",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "cf6577012b1eff64467a83d54128410faf8bb596",
@@ -1529,18 +1541,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SOPHIE-c-Renata-Raksha.jpg?width=660&fit=cover&s=rcfX_2VpzocYnQuXhMVMTmf0_jtDFmOaXmnj8yKx-Ng",
       "excerpt": "The fan-led project compiles live sets, interviews, releases and much more Continue reading..."
-    },
-    {
-      "id": "9bdbcd518121008ddd23bb31bc26ab90a69a19e2",
-      "title": "Pacha New York offers coupons to disgruntled Brooklyn Mirage ticketholders",
-      "link": "https://mixmag.net/read/pacha-new-york-pledges-credit-disgruntled-brooklyn-mirage-ticketholders-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york.jpg?width=660&fit=cover&s=diyxjvIQFX4M00gK8RZKp93mAx5J_C_fd2CgJxRDHrA",
-      "excerpt": "The new owners say they’re attempting to “rebuild” after a barrage of issues that previously faced the Williamsburg venue Continue reading..."
     }
   ]
 }
