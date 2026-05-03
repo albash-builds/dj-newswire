@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T22:40:47.064Z",
-  "total": 110,
+  "generatedAt": "2026-05-03T23:44:16.859Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "c8932560b6ac50b05ff8874f2ada24fb472568aa",
@@ -35,68 +42,6 @@
       "excerpt": "Una última bala perdida. Eso es lo que le quedaba al grupo de Torrijos PAL en la recámara. O, mejor... La entrada Mito único se publicó primero en MondoSonoro ."
     },
     {
-      "id": "80eb70e9beda3f3ac95db3bf5a086c7684dd9430",
-      "title": "Five on Friday with FC Kahuna",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-fc-kahuna/",
-      "published": "2026-05-01T10:56:51.000Z",
-      "publishedTs": 1777633011000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "Electronica",
-        "FC Kahuna",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Kahuna-2103-e1777632794501.jpg",
-      "excerpt": "FC Kahuna are one of those acts whose name carries three decades of dancefloor history without needing to shout about it. The story starts in the mid 90s with promoting and DJing at The Big Kahuna Burger, the now legendary party that bec…"
-    },
-    {
-      "id": "7fe7372393df08f1d36f79cd3817a2c8abc8b4d1",
-      "title": "Evermix & DJKIT Join Forces to Build a Bigger Future for DJs",
-      "link": "https://www.decodedmagazine.com/evermix-djkit-join-forces-to-build-a-bigger-future-for-djs/",
-      "published": "2026-04-30T14:43:01.000Z",
-      "publishedTs": 1777560181000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Tech News",
-        "Evermix",
-        "music production",
-        "Recording"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/evermix-1-scaled.png",
-      "excerpt": "Our favourite and go-to system for recording &#8211; Evermix, has announced that parent company Optimum Tech Holdings has acquired 50% of DJKIT -one of the UK’s most established DJ retailers &#8211; in a move designed to create a more po…"
-    },
-    {
-      "id": "40bc78dd4c4cc871078862768a9aa44162d271ae",
-      "title": "John Digweed, GU019 Los Angeles: The Night America Finally Tuned In",
-      "link": "https://www.decodedmagazine.com/john-digweed-gu019-los-angeles-the-night-america-finally-tuned-in/",
-      "published": "2026-04-30T13:46:44.000Z",
-      "publishedTs": 1777556804000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "North America and Canada",
-        "Throwback Thursdays",
-        "America",
-        "Bedrock Records",
-        "Global Underground",
-        "Jimmy Van M",
-        "John Digweed",
-        "LA",
-        "Pole Folder",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/john-digweed-scaled.jpg",
-      "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
-    },
-    {
       "id": "6d6868fab58eddb471482ba952a93fbfbfa72527",
       "title": "Shortcuts",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/charlie-hijos-bastardos-shortcuts/",
@@ -111,31 +56,6 @@
       "excerpt": "Desde que incursionó en el género en los albores del nuevo milenio con la creación del grupo Hijos Bastardos –junto... La entrada Shortcuts se publicó primero en MondoSonoro ."
     },
     {
-      "id": "d4d1232908bcca74dee2d1cc3195a7a932075faa",
-      "title": "When Did Dance Music Become So Fucking Boring?",
-      "link": "https://www.decodedmagazine.com/when-did-dance-music-become-so-fucking-boring/",
-      "published": "2026-04-30T08:50:37.000Z",
-      "publishedTs": 1777539037000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Bandcamp",
-        "Beatport",
-        "Boards of Canada",
-        "Bob Moses",
-        "Chemical Brothers",
-        "Crazy P",
-        "Daft Punk",
-        "DJ",
-        "Faithless",
-        "Groove Aramada"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/featured-1024x683-1.jpg",
-      "excerpt": "I have been chewing on this one for months and it is finally coming out, so pour yourself something stronger than coffee. When did dance music, our dance music, become so spectacularly bland? I do not ask that lightly. I have given the b…"
-    },
-    {
       "id": "e299c85a3c503e161f7c1daa9907c6c40c5bfd96",
       "title": "LUNA",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/luna-ki-luna/",
@@ -148,27 +68,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Luna-Ki-LUNA.jpg",
       "excerpt": "Imaginamos que, por su decisión de alejarse del foco mediático para cuidarse, no han salido entrevistas con Luna Ki en... La entrada LUNA se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "981feb69943abd6dd6c43fa8be050b8a84f2f854",
-      "title": "Goldie, Orbital, Utah Saints, Pete Tong & more feature in new podcast from London Records",
-      "link": "https://www.decodedmagazine.com/goldie-orbital-utah-saints-pete-tong-more-feature-in-new-podcast-from-london-records/",
-      "published": "2026-04-29T09:51:17.000Z",
-      "publishedTs": 1777456277000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Goldie",
-        "London",
-        "London Records",
-        "Music Industry",
-        "Orbital",
-        "Pete Tong",
-        "podcast"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/HTPB-Compilation-Artwork-scaled.jpg",
-      "excerpt": "London Records announce the launch of a brand-new podcast, Hit That Perfect Beat: The London Records Story &#8211; an immersive, star-studded deep dive into one of pop’s greatest untold stories: the confidence, chaos and cultural impact …"
     },
     {
       "id": "82ab07f892779d296850a4ef2f187961b03ccac7",
@@ -197,29 +96,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/tomora-come-closer.jpg",
       "excerpt": "Tom Rowlands (Chemical Brothers) y AURORA avanzan entre paisajes etéreos y espíritu ravero para entregar un sólido y brillante debut.... La entrada Come Closer se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "46cfc309242585142757fb9712699919b4a1b37d",
-      "title": "Thirteen Years On, Brighton Music Conference Is Still The UK’s Most Underrated Asset",
-      "link": "https://www.decodedmagazine.com/thirteen-years-on-brighton-music-conference-is-still-the-uks-most-underrated-asset/",
-      "published": "2026-04-28T10:11:02.000Z",
-      "publishedTs": 1777371062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "UK",
-        "Brighton",
-        "Brighton Music Conference",
-        "DnB",
-        "House Music",
-        "music production",
-        "Progressive House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/03/Brighton-Music-Conference-scaled.jpg",
-      "excerpt": "BMC26 returns to the seafront on 20-23 May 2026. After (founded in 2013) thirteen years on the calendar (although lanched in 2014), our Editor argues it has quietly become the most important conference the British electronic music indust…"
     },
     {
       "id": "3237e5ff4db3b42a24c0d50dcb1ca5a1a1149254",
@@ -278,44 +154,6 @@
       "excerpt": "El treinta aniversario de Foo Fighters como banda no pudo llegar en un momento más extraño, convulso incluso. A mediados... La entrada Your Favorite Toy se publicó primero en MondoSonoro ."
     },
     {
-      "id": "903c18f4b396386a7f90fa60cdfdc9ab72f73f24",
-      "title": "KVLTÖ Records release Daughters Of The Drums by Sarah Kay",
-      "link": "https://www.decodedmagazine.com/kvlto-records-release-daughters-of-the-drums-by-sarah-kay/",
-      "published": "2026-04-27T10:13:09.000Z",
-      "publishedTs": 1777284789000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "KVLTÖ Records",
-        "Melodic Techno",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/sarah-kay-KVLTO-Records.jpg",
-      "excerpt": "Daughters Of The Drums [KVLTD014] by Sarah Kay KVLTÖ continues to use its LTD series as a proving ground for artists worth watching, and the fourteenth instalment hands the floor to Sarah Kay. Her debut, Daughters Of The Drums, arrives w…"
-    },
-    {
-      "id": "2eeb377d39fe35299aee8d3f2022cde2871593ad",
-      "title": "Nightmares on Wax & Marlon Lopez via 20/20 Vision",
-      "link": "https://www.decodedmagazine.com/nightmares-on-wax-marlon-lopez-via-20-20-vision/",
-      "published": "2026-04-27T09:49:55.000Z",
-      "publishedTs": 1777283395000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "20/20 Vision Recordings",
-        "George Evelyn",
-        "House Music",
-        "Marlon Lopez",
-        "Nightmares on Wax",
-        "Ralph Lawson",
-        "Warp Records"
-      ],
-      "image": "https://www.juno.co.uk/player-embed/SF1131209-01-01-01.mp3/?pl=true&ed=26-04-27",
-      "excerpt": "If you were dancing in a warehouse in 1990 you would most definitely have heard the bass heavy bleep sounds emanating from a new record label called WARP Records, and many of those early tracks were made by a young artist from Leeds call…"
-    },
-    {
       "id": "b6c34d280105e8225c5f2e6932ac8e71f5da993d",
       "title": "Lodo",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/lucas-bun-lodo/",
@@ -328,259 +166,6 @@
       ],
       "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Lucas-Bun-Lodo.jpg",
       "excerpt": "Doce boleros inmortales (más uno inédito) filtrados por una minimalista y cuidada electrónica, rebosante de contemporaneidad y luminosidad pop, y... La entrada Lodo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
-      "title": "Five on Friday with Darko C",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-darko-c/",
-      "published": "2026-04-24T11:03:10.000Z",
-      "publishedTs": 1777028590000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Crosstown Rebels",
-        "Dorset",
-        "Electro",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
-    },
-    {
-      "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
-      "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
-      "link": "https://www.decodedmagazine.com/k7-set-to-release-dj-kicks-kruder-dorfmeister-30th-anniversary-boxset-edition/",
-      "published": "2026-04-24T03:56:55.000Z",
-      "publishedTs": 1777003015000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "chill out",
-        "iK7",
-        "Kruder &amp; Dorfmeister",
-        "Trip Hop",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Kruder-Dorfmeister-scaled.jpg",
-      "excerpt": "For its 30th anniversary, Kruder &amp; Dorfmeister’s DJ-Kicks is available for the first time in mixed form on 3LP, remastered by Bernie Grundman and packaged in a special box set including original imagery. Kruder &amp; Dorfmeister&#821…"
-    },
-    {
-      "id": "3599a1cf975af1cbc019b0e5acc5b6f7242945b3",
-      "title": "Fergus Alexander: 25 years of Raving through the shadows of Brisbane",
-      "link": "https://www.decodedmagazine.com/fergus-alexander-25-years-of-raving-through-the-shadows-of-brisbane/",
-      "published": "2026-04-24T03:46:33.000Z",
-      "publishedTs": 1777002393000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Progressive",
-        "Barsoma",
-        "Beatsville",
-        "Brisbane",
-        "Creamfields",
-        "Dave Seaman",
-        "Fortitude Valley",
-        "Henry Saiz",
-        "Inthemix"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
-    },
-    {
-      "id": "68c4a85e52642d097723d45d1586774bcc253a94",
-      "title": "Carl Craig’s Ambient ‘Meditations’ LP Arrives on Digital Platforms for First Time",
-      "link": "https://www.decodedmagazine.com/carl-craigs-ambient-meditations-lp-arrives-on-digital-platforms-for-first-time/",
-      "published": "2026-04-23T12:16:48.000Z",
-      "publishedTs": 1776946608000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Bandcamp",
-        "Carl Craig",
-        "chill out",
-        "Electronica",
-        "Planet E"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
-      "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
-    },
-    {
-      "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
-      "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-remember-when-we-all-agreed-a-monkey-was-the-future-of-music/",
-      "published": "2026-04-23T09:22:03.000Z",
-      "publishedTs": 1776936123000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Limewire",
-        "MP3",
-        "Music Industry",
-        "NFT",
-        "Sony",
-        "technology",
-        "Universal Music",
-        "Web3"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
-      "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
-    },
-    {
-      "id": "c35d4fff37a547490713293a2124fa0a39b923c9",
-      "title": "The global electronic music business generated $15.1 billion in 2025, growing faster (7%) than it did in 2024",
-      "link": "https://www.decodedmagazine.com/the-global-electronic-music-business-generated-15-1-billion-in-2025-growing-faster-7-than-it-did-in-2024/",
-      "published": "2026-04-23T06:46:59.000Z",
-      "publishedTs": 1776926819000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Afro House",
-        "Ibiza",
-        "IMS",
-        "Industry Report",
-        "Soundcloud",
-        "Spotify",
-        "Tech House",
-        "Tik Tok",
-        "Youtube"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMS-business-report-talk.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "IMS Ibiza has unveiled the IMS Electronic Music Business Report 2025/6. Presented live at IMS Ibiza, the report returns for its twelfth edition, authored for the fourth consecutive year by MIDiA Research’s Mark Mulligan. The report provi…"
-    },
-    {
-      "id": "954ab264904a26dde7bc6fef27e098b918cade6f",
-      "title": "Polygon to launch London’s first dedicated  360° spatial audio listening room",
-      "link": "https://www.decodedmagazine.com/polygon-to-launch-londons-first-dedicated-360-spatial-audio-listening-room/",
-      "published": "2026-04-22T06:22:25.000Z",
-      "publishedTs": 1776838945000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "UK",
-        "360 audio",
-        "Dean Street",
-        "London",
-        "Polygon",
-        "SOHO",
-        "Spatial Audio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/hf_20260408_073443_6b280dab-7458-4cb3-9ef1-620dd4f8e79e.png?resize=765%2C1024&ssl=1",
-      "excerpt": "A new spatial audio listening room opens in Soho next month, built around a 17.1.10 L-Acoustics rig and a programme that treats albums as events. It&#8217;s also a useful moment to ask what 360 audio is actually for. Somewhere in the sec…"
-    },
-    {
-      "id": "0632e6baf23cb5cf1122593b0ff0b3b4ead5bce1",
-      "title": "Sabam partners with Audoo to replace legacy DJ reporting system in Belgium",
-      "link": "https://www.decodedmagazine.com/sabam-partners-with-audoo-to-replace-legacy-dj-reporting-system-in-belgium/",
-      "published": "2026-04-21T12:54:22.000Z",
-      "publishedTs": 1776776062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audoo",
-        "Belgium",
-        "Copyright",
-        "Royalties",
-        "Sabam"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/SABAM-scaled.png",
-      "excerpt": "Belgium&#8217;s authors&#8217; society Sabam has partnered with London-based music technology firm Audoo to replace its existing DJ reporting system with continuous audio recognition. The agreement moves Sabam away from sample-based and …"
-    },
-    {
-      "id": "051cbdc5e018897ee23e2a526c5fa7722ad43030",
-      "title": "From Bankruptcy to a Million Customers: McDaniels Exits the Beatport CEO Chair",
-      "link": "https://www.decodedmagazine.com/from-bankruptcy-to-a-million-customers-mcdaniels-exits-the-beatport-ceo-chair/",
-      "published": "2026-04-20T10:16:01.000Z",
-      "publishedTs": 1776680161000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Beatport",
-        "stems",
-        "Streaming"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/12/05_Beatport_MainLogo_GreenWhite_On_Blk_Final.png",
-      "excerpt": "Beatport has confirmed a leadership transition that will take effect on 1 July 2026, with Robb McDaniels stepping up to Executive Chairman after nine years as chief executive. Matt Gralen, currently President and Chief Financial Officer,…"
-    },
-    {
-      "id": "883fdd2300ea2ed4d8d673ec5f67f80b6ce9d127",
-      "title": "Production Futures launches Make Noise to open live events careers to young people",
-      "link": "https://www.decodedmagazine.com/production-futures-launches-make-noise-to-open-live-events-careers-to-young-people/",
-      "published": "2026-04-20T09:30:00.000Z",
-      "publishedTs": 1776677400000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Audiotonic",
-        "Engineering",
-        "Manchester",
-        "Production Futures",
-        "Schools",
-        "stems",
-        "Technical Training",
-        "Teens",
-        "UK"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/STEAM-Powered-Mixer-Promo-Image-2.png?resize=810%2C456&ssl=1",
-      "excerpt": "Backed by Greater Manchester Mayor Andy Burnham, funded through LIVE Trust and powered by Audiotonix, the campaign puts real pro audio kit in the hands of 12 to 18 year olds through a national competition. Production Futures has launched…"
-    },
-    {
-      "id": "3f3e0fdc9c48e3c4756f2a6ae6cc9d397febbffd",
-      "title": "Rone announces first album in 6 years ‘Megaptera",
-      "link": "https://www.decodedmagazine.com/rone-announces-first-album-in-6-years-megaptera/",
-      "published": "2026-04-20T08:48:09.000Z",
-      "publishedTs": 1776674889000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "chill out",
-        "Electronica",
-        "Rone"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/8.jpg?resize=810%2C456&ssl=1",
-      "excerpt": "Megaptera by Rone Rone returns. After six years away from the studio album format, the Paris producer Erwan Castex has announced Megaptera, a fifteen-track record that arrives on InFiné on 12 June, alongside a feature documentary of the …"
-    },
-    {
-      "id": "3bcc814ebffda7065665c77e5da0960123fb324d",
-      "title": "fabric, Innervisions, Hedex Presents + more make up new London festival series",
-      "link": "https://www.decodedmagazine.com/fabric-innervisions-hedex-presents-more-make-up-new-london-festival-series/",
-      "published": "2026-04-20T07:42:43.000Z",
-      "publishedTs": 1776670963000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "House Music",
-        "Junction 2",
-        "London",
-        "LWE",
-        "Manor Park",
-        "Progressive House",
-        "Techno",
-        "THE BRIDGE"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/The-Bridge-2026.jpeg?resize=768%2C1024&ssl=1",
-      "excerpt": "LWE, the renowned electronic music promoters since 2010, has announced THE BRIDGE, a new series that brings together six electronic music events across two weekends at Boston Manor Park in West London. From 24th–26th July and 31st July–2…"
     },
     {
       "id": "63f3fb631e019b119f655c66fb6f3bc6bd867e29",
