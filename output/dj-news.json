@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T06:12:46.277Z",
+  "generatedAt": "2026-05-04T09:18:04.524Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "0c38b8aac4fbec951abffb0b0674b86683ac48db",
+      "title": "Nine Inch Noize",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nine-inch-noize/",
+      "published": "2026-05-04T08:51:29.000Z",
+      "publishedTs": 1777884689000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2017/07/logomondo-1.png",
+      "excerpt": "Trent Reznor y Atticus Ross, dos maestros incombustibles, se unen al productor Alexander Ridha (Boys Noize) para gestar este proyecto... La entrada Nine Inch Noize se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "780f533d3150957d6371986e4e724730f654ee52",
+      "title": "Mitos y leyendas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/parquesvr-mitos-y-leyendas/",
+      "published": "2026-05-04T07:52:17.000Z",
+      "publishedTs": 1777881137000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/05/Parquesvr-Mitos-y-leyendas.jpg",
+      "excerpt": "El quinteto madrileño liderado por Javier Ferrara alcanza su cuarto capítulo discográfico aprovechando su pujanza sobre los escenarios y un... La entrada Mitos y leyendas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c8932560b6ac50b05ff8874f2ada24fb472568aa",
       "title": "Mito único",
@@ -264,20 +292,6 @@
       "excerpt": "“I am what I am, and I like what I like”. Diez años después de su último álbum de estudio... La entrada Hotlife se publicó primero en MondoSonoro ."
     },
     {
-      "id": "41b45d3681c6c6e16677246ef65161368d02b064",
-      "title": "Your Favorite Toy",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/foo-fighters-your-favorite-toy-disco/",
-      "published": "2026-04-27T13:16:27.000Z",
-      "publishedTs": 1777295787000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Foo-Fighters-Your-Favorite-Gun.jpg",
-      "excerpt": "El treinta aniversario de Foo Fighters como banda no pudo llegar en un momento más extraño, convulso incluso. A mediados... La entrada Your Favorite Toy se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "903c18f4b396386a7f90fa60cdfdc9ab72f73f24",
       "title": "KVLTÖ Records release Daughters Of The Drums by Sarah Kay",
       "link": "https://www.decodedmagazine.com/kvlto-records-release-daughters-of-the-drums-by-sarah-kay/",
@@ -314,20 +328,6 @@
       ],
       "image": "https://www.juno.co.uk/player-embed/SF1131209-01-01-01.mp3/?pl=true&ed=26-04-27",
       "excerpt": "If you were dancing in a warehouse in 1990 you would most definitely have heard the bass heavy bleep sounds emanating from a new record label called WARP Records, and many of those early tracks were made by a young artist from Leeds call…"
-    },
-    {
-      "id": "b6c34d280105e8225c5f2e6932ac8e71f5da993d",
-      "title": "Lodo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lucas-bun-lodo/",
-      "published": "2026-04-27T09:19:04.000Z",
-      "publishedTs": 1777281544000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "http://www.mondosonoro.com/wp-content/uploads/2026/04/Lucas-Bun-Lodo.jpg",
-      "excerpt": "Doce boleros inmortales (más uno inédito) filtrados por una minimalista y cuidada electrónica, rebosante de contemporaneidad y luminosidad pop, y... La entrada Lodo se publicó primero en MondoSonoro ."
     },
     {
       "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
