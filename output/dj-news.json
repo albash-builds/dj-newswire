@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T10:45:56.318Z",
+  "generatedAt": "2026-05-05T12:01:28.360Z",
   "total": 110,
   "sources": [
     {
@@ -580,6 +580,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
       "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
+    },
+    {
+      "id": "7680112bceade8e90994016de9ed18fa6c0bf55f",
+      "title": "40,000 people attend illegal rave at French military site despite explosive fears",
+      "link": "https://mixmag.net/read/40000-people-attend-illegal-rave-french-military-site-despite-explosive-fears-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bourges-teknival.jpg?width=660&fit=cover&s=2mAjE-6OPzFgwR_mFkITga3ej6D2IOxTIlHF4d0R3YE",
+      "excerpt": "Bomb disposal experts warned of “unexploded ordnance” on the site where ravers gathered Continue reading..."
     },
     {
       "id": "4689139ef369b998653f7f802d0748d83f743f33",
@@ -1528,18 +1540,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/screengrab.png?width=660&fit=cover&s=2uwaRM8GM8eKNrx_3VA3x4ukjfIux33zxVSEz_zEpQo",
       "excerpt": "Footage shared on social media showed riot police dragging attendees as they attempted to shut down the 2000-strong unlicensed event on Sunday Continue reading..."
-    },
-    {
-      "id": "c7308e6c1a552ba6494d397be2b987f4789003bb",
-      "title": "Tremor is the world’s most remote, and perhaps best, experimental music festival",
-      "link": "https://mixmag.net/feature/tremor-is-the-worlds-most-remote-and-perhaps-best-experimental-music-festival",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tremor-lead.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=6ob4LvkLkemigLWY8VcQOKzxqzZn7v8sp-msoGua4hc",
-      "excerpt": "On an Azorean island 1,500km away from mainland Portugal, there’s a quaint music and arts festival that puts its unique location at centre stage. We travelled to Tremor to find out what makes it so special Continue reading..."
     }
   ]
 }
