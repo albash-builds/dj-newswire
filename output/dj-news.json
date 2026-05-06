@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T11:07:04.216Z",
+  "generatedAt": "2026-05-06T14:09:56.748Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "254224a1ec342293f91fce4bff2d6c7988200b4e",
+      "title": "La balada de David y Jonatán",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jordi-maranges-la-balada-de-david-y-jonatan/",
+      "published": "2026-05-06T13:29:40.000Z",
+      "publishedTs": 1778074180000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Jordi-Maranges-La-balada-de-David-y-Jonatan.jpg",
+      "excerpt": "Resulta casi intuitivo e inevitable acordarse de la recién premiada “Maspalomas” (25) cuando uno se deja caer por el imaginario... La entrada La balada de David y Jonatán se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "d6a1df3bac7e1db828e19693e240babb8a89a540",
+      "title": "¿Qué Seré Yo?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/querido-que-sere-yo/",
+      "published": "2026-05-06T12:34:46.000Z",
+      "publishedTs": 1778070886000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Querido-Que-Sere-Yo.jpg",
+      "excerpt": "Menos de dos años han necesitado Querido para dar forma a su segundo disco, un trabajo que deja claro desde... La entrada ¿Qué Seré Yo? se publicó primero en MondoSonoro ."
+    },
     {
       "id": "87d46ea3e33600355438b4e8a00c36d91f40c130",
       "title": "Cada casa, cada vida",
@@ -358,20 +386,6 @@
       "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
     },
     {
-      "id": "6d6868fab58eddb471482ba952a93fbfbfa72527",
-      "title": "Shortcuts",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/charlie-hijos-bastardos-shortcuts/",
-      "published": "2026-04-30T10:43:56.000Z",
-      "publishedTs": 1777545836000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/Charlie-Hijos-Bastardos-Shortcuts.jpg",
-      "excerpt": "Desde que incursionó en el género en los albores del nuevo milenio con la creación del grupo Hijos Bastardos –junto... La entrada Shortcuts se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "d4d1232908bcca74dee2d1cc3195a7a932075faa",
       "title": "When Did Dance Music Become So Fucking Boring?",
       "link": "https://www.decodedmagazine.com/when-did-dance-music-become-so-fucking-boring/",
@@ -395,20 +409,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/featured-1024x683-1.jpg",
       "excerpt": "I have been chewing on this one for months and it is finally coming out, so pour yourself something stronger than coffee. When did dance music, our dance music, become so spectacularly bland? I do not ask that lightly. I have given the b…"
-    },
-    {
-      "id": "e299c85a3c503e161f7c1daa9907c6c40c5bfd96",
-      "title": "LUNA",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/luna-ki-luna/",
-      "published": "2026-04-29T11:16:25.000Z",
-      "publishedTs": 1777461385000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/Luna-Ki-LUNA.jpg",
-      "excerpt": "Imaginamos que, por su decisión de alejarse del foco mediático para cuidarse, no han salido entrevistas con Luna Ki en... La entrada LUNA se publicó primero en MondoSonoro ."
     },
     {
       "id": "981feb69943abd6dd6c43fa8be050b8a84f2f854",
@@ -577,6 +577,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
+    },
+    {
+      "id": "316446c213de680212d05cd22ed8a74a82a7734c",
+      "title": "Beloved Yorkshire venue The Golden Lion “targeted” by noise complaints",
+      "link": "https://mixmag.net/read/beloved-yorkshire-venue-golden-lion-targeted-noise-complaints-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/golden-lion.jpg?width=660&fit=cover&s=_yXFfsvPy_5DYHTFTl33znSILai-LIiqd5RZ28GftCw",
+      "excerpt": "Owners of the pub-turned-club urged for support from the local council following closure threats Continue reading..."
     },
     {
       "id": "2815331e18d921d9e83b53ecffdab3e4b272dce8",
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/denzel-curry-artemis-ii.jpg?width=660&fit=cover&s=eChsDs_O3oCRYZ-TsW9HBcIPdBxhDmm5i8O9o_W5-3w",
       "excerpt": "Curry now says he wants to become the first rapper to perform in space Continue reading..."
-    },
-    {
-      "id": "126d799f71a44384f945a77e54a64620df4f69c3",
-      "title": "Freddie Gibbs rumoured to feature in GTA VI mission",
-      "link": "https://mixmag.net/read/freddie-gibbs-rumoured-to-feature-in-gta-6-mission-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTA-6_2026-04-10-094646_bmhr.png?width=660&fit=cover&s=aTRCKsdmvYqpcrl8YcB-OUgXiULn2GNxoqlGJ18okPI",
-      "excerpt": "Presenter HipHopGamer claims Gibbs will star in a &quot;special side mission&quot; in the long-awaited next game in the Grand Theft Auto series Continue reading..."
     }
   ]
 }
