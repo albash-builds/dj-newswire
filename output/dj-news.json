@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T20:21:49.934Z",
-  "total": 110,
+  "generatedAt": "2026-05-06T21:57:05.679Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,7 +18,14 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+    }
+  ],
   "items": [
     {
       "id": "38c7a8a489a5656082bb952b97894aa6c3d1adbc",
@@ -77,26 +84,6 @@
       "excerpt": "La tradición es un tema delicado. Juguetear con ella como con algo que está vivo es un homenaje al que... La entrada Cada casa, cada vida se publicó primero en MondoSonoro ."
     },
     {
-      "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
-      "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
-      "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
-      "published": "2026-05-06T09:32:12.000Z",
-      "publishedTs": 1778059932000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "AEFM",
-        "Mental Health",
-        "Mental Health In Electronic Music",
-        "Music Industry",
-        "Paul Thomas"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/mental-health-music-industry-decoded-magazine.jpg",
-      "excerpt": "Last night I was sitting in my Mum&#8217;s lounge in Adelaide, out here visiting family, watching an interesting documentary on mental health in Australia. The credits rolled and I just sat in the dark for a while, thinking. Not about th…"
-    },
-    {
       "id": "87b58c979ff5aee3b0f70811989f1cba7feb4839",
       "title": "My New Band Believe",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/my-new-band-believe-disco/",
@@ -109,69 +96,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/My-New-Band-Believe-disco.jpg",
       "excerpt": "Cameron Picton apenas tiene veintiséis años, pero parece un veterano de la escena británica más inquieta. El bajista y ocasional... La entrada My New Band Believe se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "45b166502e0f1bd33127c4eea5bd17bf78b9c0cf",
-      "title": "Ableton Live 12.4 is now available for download",
-      "link": "https://www.decodedmagazine.com/ableton-live-12-4-is-now-available-for-download/",
-      "published": "2026-05-05T09:09:49.000Z",
-      "publishedTs": 1777972189000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Tech News",
-        "Ableton Live",
-        "DAW",
-        "Move",
-        "music production",
-        "Note",
-        "Push"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/03_12.4-Link_Audio-Dark.png?resize=810%2C505&ssl=1",
-      "excerpt": "Ableton Live 12.4 is now available for download. Free for all Live 12 users, this update introduces new ways to create and collaborate in Live , plus new features and improvements for Push , Move and Note . Link Audio Live 12.4 introduce…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-05-05T08:36:43.000Z",
-      "publishedTs": 1777970203000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 MAY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlisted…"
-    },
-    {
-      "id": "199e49a4d7293efcec8b28774ae9b62a62c50471",
-      "title": "Felipe Gordon is back on Shall Not Fade with his new album Tezeta",
-      "link": "https://www.decodedmagazine.com/felipe-gordon-is-back-on-shall-not-fade-with-his-new-album-tezeta/",
-      "published": "2026-05-05T08:24:12.000Z",
-      "publishedTs": 1777969452000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Electronica",
-        "Felipe Gordon",
-        "House Music",
-        "Indie Electronica",
-        "Shall Not Fade"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fillipe-gordon.jpg",
-      "excerpt": "Tezeta by Felipe Gordon Felipe Gordon returns to Shall Not Fade with Tezeta, an album that arrives with the quiet authority you&#8217;d expect from an artist who has become a fixture on the label. Since A Landscape Onomatopeya in 2022, a…"
     },
     {
       "id": "e32d1dd6aa9ac0500730ce7619049cf757016103",
@@ -188,27 +112,6 @@
       "excerpt": "Hablar sobre el nuevo álbum de Fernando Lagreca es lo mismo que hacerlo de la noche como una geometría herida.... La entrada Motion Tactics se publicó primero en MondoSonoro ."
     },
     {
-      "id": "1183893f611eb2ac9dfb0cef7024a990dd63d5d6",
-      "title": "Review – Neither A9 Nor V10: The Curious Case of the AlphaTheta VM-5",
-      "link": "https://www.decodedmagazine.com/review-neither-a9-nor-v10-the-curious-case-of-the-alphatheta-vm-5/",
-      "published": "2026-05-05T06:06:32.000Z",
-      "publishedTs": 1777961192000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "3 Channel Mixer",
-        "AlphaTheta VM-5",
-        "DJ Mixer",
-        "EQ",
-        "Mixer",
-        "Pioneer DJ"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/djmv5-product-specification-image-01.webp?resize=810%2C810&ssl=1",
-      "excerpt": "There’s something about the AlphaTheta VM-5 that feels slightly unresolved, or undercooked. At first glance, it looks like a thoughtful attempt to bridge two worlds: the speed and familiarity of the Pioneer DJ DJM-A9, and the broader, mo…"
-    },
-    {
       "id": "f2caf90dfb5df71644ed800ecc334bd093ab25a3",
       "title": "Cat Fun",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/hnos-munoz-cat-fun/",
@@ -223,47 +126,6 @@
       "excerpt": "El nuevo disco de Hnos Munoz es como ese suspiro profundo que te sale del alma en la playa en... La entrada Cat Fun se publicó primero en MondoSonoro ."
     },
     {
-      "id": "d87011b6b19ec855445104f06d7865eae9f87fac",
-      "title": "Embassy Studios Recording and Mixing Complex Opens in the Heart of Manhattan",
-      "link": "https://www.decodedmagazine.com/embassy-studios-recording-and-mixing-complex-opens-in-the-heart-of-manhattan/",
-      "published": "2026-05-05T01:34:16.000Z",
-      "publishedTs": 1777944856000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "North America and Canada",
-        "Manhatten",
-        "music production",
-        "Music studio",
-        "New York"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/StudioA1FromTheLiveRoom.webp?resize=810%2C539&ssl=1",
-      "excerpt": "Embassy Studios , a new professional recording facility located in Midtown Manhattan’s historic Engineering Building, has officially opened, introducing a multi-room studio environment designed around hybrid production workflows, network…"
-    },
-    {
-      "id": "548e73ba73a0a9c3806d1bc6c8a2d25fab349707",
-      "title": "Cercle Festival lands in Mexico",
-      "link": "https://www.decodedmagazine.com/cercle-festival-lands-in-mexico/",
-      "published": "2026-05-05T01:24:54.000Z",
-      "publishedTs": 1777944294000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Festivals",
-        "North America and Canada",
-        "Cercle",
-        "deep house",
-        "House",
-        "Mexico",
-        "Progressive House",
-        "San José del Cabo"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/1_1_FLYER_CF_MEXICO_annonce.jpeg",
-      "excerpt": "Cercle announces the arrival of Cercle Festival in San José del Cabo, set to take place on November 14-15, 2026, within the singular landscapes of Baja California Sur. Building on the momentum of its Paris editions, the festival continue…"
-    },
-    {
       "id": "b4d35fff923c296fe6935342283ced1aa031cb41",
       "title": "Skindred You Got This",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/skindred-you-got-this/",
@@ -276,24 +138,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Skindred-You-Got-This.jpg",
       "excerpt": "Lo de Skindred, el combo reggae metal de Newport (Reino Unido), es un caso misterioso. Desde épocas de Dub War,... La entrada Skindred You Got This se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "d87d3785cfa96e7d2659d26cfd20883cb1cc4ade",
-      "title": "Gary Holldman explores hypnotic techno forms on debut album Traveler",
-      "link": "https://www.decodedmagazine.com/gary-holldman-explores-hypnotic-techno-forms-on-debut-album-traveler/",
-      "published": "2026-05-04T09:53:42.000Z",
-      "publishedTs": 1777888422000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Detroit techno",
-        "Gary Holldman",
-        "Poland",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/GARY_0330-kopia-scaled.jpg",
-      "excerpt": "After more than 15 years of studio work and releasing EP’s, Gary Holldman presents his debut album, Traveler —a deeply personal 10-track LP shaped by a long-standing affinity for hypnotic, stripped-back techno. Drawing on the emotional d…"
     },
     {
       "id": "0c38b8aac4fbec951abffb0b0674b86683ac48db",
@@ -322,261 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Parquesvr-Mitos-y-leyendas.jpg",
       "excerpt": "El quinteto madrileño liderado por Javier Ferrara alcanza su cuarto capítulo discográfico aprovechando su pujanza sobre los escenarios y un... La entrada Mitos y leyendas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "80eb70e9beda3f3ac95db3bf5a086c7684dd9430",
-      "title": "Five on Friday with FC Kahuna",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-fc-kahuna/",
-      "published": "2026-05-01T10:56:51.000Z",
-      "publishedTs": 1777633011000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "Electronica",
-        "FC Kahuna",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Kahuna-2103-e1777632794501.jpg",
-      "excerpt": "FC Kahuna are one of those acts whose name carries three decades of dancefloor history without needing to shout about it. The story starts in the mid 90s with promoting and DJing at The Big Kahuna Burger, the now legendary party that bec…"
-    },
-    {
-      "id": "7fe7372393df08f1d36f79cd3817a2c8abc8b4d1",
-      "title": "Evermix & DJKIT Join Forces to Build a Bigger Future for DJs",
-      "link": "https://www.decodedmagazine.com/evermix-djkit-join-forces-to-build-a-bigger-future-for-djs/",
-      "published": "2026-04-30T14:43:01.000Z",
-      "publishedTs": 1777560181000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Tech News",
-        "Evermix",
-        "music production",
-        "Recording"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/evermix-1-scaled.png",
-      "excerpt": "Our favourite and go-to system for recording &#8211; Evermix, has announced that parent company Optimum Tech Holdings has acquired 50% of DJKIT -one of the UK’s most established DJ retailers &#8211; in a move designed to create a more po…"
-    },
-    {
-      "id": "40bc78dd4c4cc871078862768a9aa44162d271ae",
-      "title": "John Digweed, GU019 Los Angeles: The Night America Finally Tuned In",
-      "link": "https://www.decodedmagazine.com/john-digweed-gu019-los-angeles-the-night-america-finally-tuned-in/",
-      "published": "2026-04-30T13:46:44.000Z",
-      "publishedTs": 1777556804000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "North America and Canada",
-        "Throwback Thursdays",
-        "America",
-        "Bedrock Records",
-        "Global Underground",
-        "Jimmy Van M",
-        "John Digweed",
-        "LA",
-        "Pole Folder",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/john-digweed-scaled.jpg",
-      "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
-    },
-    {
-      "id": "d4d1232908bcca74dee2d1cc3195a7a932075faa",
-      "title": "When Did Dance Music Become So Fucking Boring?",
-      "link": "https://www.decodedmagazine.com/when-did-dance-music-become-so-fucking-boring/",
-      "published": "2026-04-30T08:50:37.000Z",
-      "publishedTs": 1777539037000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Bandcamp",
-        "Beatport",
-        "Boards of Canada",
-        "Bob Moses",
-        "Chemical Brothers",
-        "Crazy P",
-        "Daft Punk",
-        "DJ",
-        "Faithless",
-        "Groove Aramada"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/01/featured-1024x683-1.jpg",
-      "excerpt": "I have been chewing on this one for months and it is finally coming out, so pour yourself something stronger than coffee. When did dance music, our dance music, become so spectacularly bland? I do not ask that lightly. I have given the b…"
-    },
-    {
-      "id": "981feb69943abd6dd6c43fa8be050b8a84f2f854",
-      "title": "Goldie, Orbital, Utah Saints, Pete Tong & more feature in new podcast from London Records",
-      "link": "https://www.decodedmagazine.com/goldie-orbital-utah-saints-pete-tong-more-feature-in-new-podcast-from-london-records/",
-      "published": "2026-04-29T09:51:17.000Z",
-      "publishedTs": 1777456277000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Goldie",
-        "London",
-        "London Records",
-        "Music Industry",
-        "Orbital",
-        "Pete Tong",
-        "podcast"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/HTPB-Compilation-Artwork-scaled.jpg",
-      "excerpt": "London Records announce the launch of a brand-new podcast, Hit That Perfect Beat: The London Records Story &#8211; an immersive, star-studded deep dive into one of pop’s greatest untold stories: the confidence, chaos and cultural impact …"
-    },
-    {
-      "id": "46cfc309242585142757fb9712699919b4a1b37d",
-      "title": "Thirteen Years On, Brighton Music Conference Is Still The UK’s Most Underrated Asset",
-      "link": "https://www.decodedmagazine.com/thirteen-years-on-brighton-music-conference-is-still-the-uks-most-underrated-asset/",
-      "published": "2026-04-28T10:11:02.000Z",
-      "publishedTs": 1777371062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "UK",
-        "Brighton",
-        "Brighton Music Conference",
-        "DnB",
-        "House Music",
-        "music production",
-        "Progressive House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/03/Brighton-Music-Conference-scaled.jpg",
-      "excerpt": "BMC26 returns to the seafront on 20-23 May 2026. After (founded in 2013) thirteen years on the calendar (although lanched in 2014), our Editor argues it has quietly become the most important conference the British electronic music indust…"
-    },
-    {
-      "id": "903c18f4b396386a7f90fa60cdfdc9ab72f73f24",
-      "title": "KVLTÖ Records release Daughters Of The Drums by Sarah Kay",
-      "link": "https://www.decodedmagazine.com/kvlto-records-release-daughters-of-the-drums-by-sarah-kay/",
-      "published": "2026-04-27T10:13:09.000Z",
-      "publishedTs": 1777284789000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "KVLTÖ Records",
-        "Melodic Techno",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/sarah-kay-KVLTO-Records.jpg",
-      "excerpt": "Daughters Of The Drums [KVLTD014] by Sarah Kay KVLTÖ continues to use its LTD series as a proving ground for artists worth watching, and the fourteenth instalment hands the floor to Sarah Kay. Her debut, Daughters Of The Drums, arrives w…"
-    },
-    {
-      "id": "2eeb377d39fe35299aee8d3f2022cde2871593ad",
-      "title": "Nightmares on Wax & Marlon Lopez via 20/20 Vision",
-      "link": "https://www.decodedmagazine.com/nightmares-on-wax-marlon-lopez-via-20-20-vision/",
-      "published": "2026-04-27T09:49:55.000Z",
-      "publishedTs": 1777283395000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "20/20 Vision Recordings",
-        "George Evelyn",
-        "House Music",
-        "Marlon Lopez",
-        "Nightmares on Wax",
-        "Ralph Lawson",
-        "Warp Records"
-      ],
-      "image": "https://www.juno.co.uk/player-embed/SF1131209-01-01-01.mp3/?pl=true&ed=26-04-27",
-      "excerpt": "If you were dancing in a warehouse in 1990 you would most definitely have heard the bass heavy bleep sounds emanating from a new record label called WARP Records, and many of those early tracks were made by a young artist from Leeds call…"
-    },
-    {
-      "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
-      "title": "Five on Friday with Darko C",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-darko-c/",
-      "published": "2026-04-24T11:03:10.000Z",
-      "publishedTs": 1777028590000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Crosstown Rebels",
-        "Dorset",
-        "Electro",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
-    },
-    {
-      "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
-      "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
-      "link": "https://www.decodedmagazine.com/k7-set-to-release-dj-kicks-kruder-dorfmeister-30th-anniversary-boxset-edition/",
-      "published": "2026-04-24T03:56:55.000Z",
-      "publishedTs": 1777003015000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "chill out",
-        "iK7",
-        "Kruder &amp; Dorfmeister",
-        "Trip Hop",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Kruder-Dorfmeister-scaled.jpg",
-      "excerpt": "For its 30th anniversary, Kruder &amp; Dorfmeister’s DJ-Kicks is available for the first time in mixed form on 3LP, remastered by Bernie Grundman and packaged in a special box set including original imagery. Kruder &amp; Dorfmeister&#821…"
-    },
-    {
-      "id": "3599a1cf975af1cbc019b0e5acc5b6f7242945b3",
-      "title": "Fergus Alexander: 25 years of Raving through the shadows of Brisbane",
-      "link": "https://www.decodedmagazine.com/fergus-alexander-25-years-of-raving-through-the-shadows-of-brisbane/",
-      "published": "2026-04-24T03:46:33.000Z",
-      "publishedTs": 1777002393000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Progressive",
-        "Barsoma",
-        "Beatsville",
-        "Brisbane",
-        "Creamfields",
-        "Dave Seaman",
-        "Fortitude Valley",
-        "Henry Saiz",
-        "Inthemix"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
-    },
-    {
-      "id": "68c4a85e52642d097723d45d1586774bcc253a94",
-      "title": "Carl Craig’s Ambient ‘Meditations’ LP Arrives on Digital Platforms for First Time",
-      "link": "https://www.decodedmagazine.com/carl-craigs-ambient-meditations-lp-arrives-on-digital-platforms-for-first-time/",
-      "published": "2026-04-23T12:16:48.000Z",
-      "publishedTs": 1776946608000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Bandcamp",
-        "Carl Craig",
-        "chill out",
-        "Electronica",
-        "Planet E"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
-      "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
     },
     {
       "id": "c01b7b12f0e60f5618250f5b7abb68b697678b05",
