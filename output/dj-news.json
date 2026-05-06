@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T14:09:56.748Z",
+  "generatedAt": "2026-05-06T16:27:11.653Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "38c7a8a489a5656082bb952b97894aa6c3d1adbc",
+      "title": "Eatxi",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ramonas-first-evil-boyfriend-eatxi/",
+      "published": "2026-05-06T15:16:52.000Z",
+      "publishedTs": 1778080612000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ramonas-First-Evil-Boyfriend.jpg",
+      "excerpt": "Ramona's First Evil Boyfriend se atreven a combinar temas en inglés con otros en castellano y en euskera en su... La entrada Eatxi se publicó primero en MondoSonoro ."
+    },
     {
       "id": "254224a1ec342293f91fce4bff2d6c7988200b4e",
       "title": "La balada de David y Jonatán",
@@ -310,20 +324,6 @@
       "excerpt": "El quinteto madrileño liderado por Javier Ferrara alcanza su cuarto capítulo discográfico aprovechando su pujanza sobre los escenarios y un... La entrada Mitos y leyendas se publicó primero en MondoSonoro ."
     },
     {
-      "id": "c8932560b6ac50b05ff8874f2ada24fb472568aa",
-      "title": "Mito único",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mito-unico-pal/",
-      "published": "2026-05-02T06:45:32.000Z",
-      "publishedTs": 1777704332000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/PalMitoUnicoCD.jpg",
-      "excerpt": "Una última bala perdida. Eso es lo que le quedaba al grupo de Torrijos PAL en la recámara. O, mejor... La entrada Mito único se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "80eb70e9beda3f3ac95db3bf5a086c7684dd9430",
       "title": "Five on Friday with FC Kahuna",
       "link": "https://www.decodedmagazine.com/five-on-friday-with-fc-kahuna/",
@@ -577,6 +577,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
+    },
+    {
+      "id": "c01b7b12f0e60f5618250f5b7abb68b697678b05",
+      "title": "The Mix 105: Olof Dreijer",
+      "link": "https://mixmag.net/feature/the-mix-105-olof-dreijer-loud-bloom-dh2",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OLOF2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=teVz2EKCOlQot90VjFfAXllQjUbhVaN5EtRgIrjHh5Y",
+      "excerpt": "Olof Dreijer shares a mix of playful, driving club music and speaks to Christian Eede about his extended hiatus from releasing music and the fun he’s having returning to the dancefloor Continue reading..."
+    },
+    {
+      "id": "a5f9fd4ade8b050bc63cd387fd2af4d00bef917b",
+      "title": "Almost half of all music uploaded to Deezer daily is AI-generated",
+      "link": "https://mixmag.net/read/almost-half-all-music-uploaded-deezer-daily-ai-generated-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Deezer-press.jpg?width=660&fit=cover&s=DGnRv-tt9yfZgn5awGORDcXXHNIhVuv6mH7uNTRZhXI",
+      "excerpt": "The streaming platform says it detects around two million “fully” AI-made tracks each month Continue reading..."
+    },
+    {
+      "id": "1a183a98d130aea59f38308a1646c5cc4fd32a71",
+      "title": "48% of UK venues launched in 2025 have already closed, new report claims",
+      "link": "https://mixmag.net/read/half-of-uk-venues-launched-in-2025-have-already-closed-new-report-claims-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gig_2026-05-06-140309_woib.png?width=660&fit=cover&s=8Ll5VOmUKSWBQBEIUsdLrZZBMad7BLTQIKAHfT5CiEo",
+      "excerpt": "According to Companies House data analysed by TicketSource, 73% of UK venues shutter before they make it to three years Continue reading..."
     },
     {
       "id": "316446c213de680212d05cd22ed8a74a82a7734c",
@@ -1501,42 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/20250729_UNVRS_Anyma_0010_5000x4000px.jpg?width=660&fit=cover&s=lFxp4roKCdSKN1hH8sIc_tOksr2VdCTeU_yoZW0PYVk",
       "excerpt": "Videos shared on social media also show chaos in the campsites with tents blown away Continue reading..."
-    },
-    {
-      "id": "d080b692c76873ac1d186791c3e3c14fbe31b9ee",
-      "title": "Festival line-ups you might have missed: Bass Coast, Dekmantel Lentekabinet, SPOT",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-bass-coast-dekmantel-lentekabinet-spot-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bass-coast-festivals.jpg?width=660&fit=cover&s=GJGdyws3qKTKk2EdwoKAE9xmUGk-4onCPG9LXDGx_TY",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "63eb78bb08ccb95e1e338d41812a59be387b8d4f",
-      "title": "Tottenham music venue The Post Bar to close permanently this weekend",
-      "link": "https://mixmag.net/read/tottenham-music-venue-the-post-bar-to-close-permanently-this-weekend-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-Post-Bar.png?width=660&fit=cover&s=_aMmJriIqgFxyHZ_i-mhpY1Jf7cBxJSklEX4sF9M0Z4",
-      "excerpt": "The owners have said that &quot;conversations are ongoing&quot; with prospective new operators of the space Continue reading..."
-    },
-    {
-      "id": "1511df7d69710a7bdb3efee77c8a1b3c5b28cc13",
-      "title": "Artemis II astronauts have been listening to Denzel Curry in space",
-      "link": "https://mixmag.net/read/artemis-ii-astronauts-have-been-listening-to-denzel-curry-in-space-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/denzel-curry-artemis-ii.jpg?width=660&fit=cover&s=eChsDs_O3oCRYZ-TsW9HBcIPdBxhDmm5i8O9o_W5-3w",
-      "excerpt": "Curry now says he wants to become the first rapper to perform in space Continue reading..."
     }
   ]
 }
