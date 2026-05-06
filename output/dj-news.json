@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T08:34:28.819Z",
+  "generatedAt": "2026-05-06T11:07:04.216Z",
   "total": 110,
   "sources": [
     {
@@ -21,6 +21,40 @@
   "errors": [],
   "items": [
     {
+      "id": "87d46ea3e33600355438b4e8a00c36d91f40c130",
+      "title": "Cada casa, cada vida",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nastallat-cada-casa-cada-vida/",
+      "published": "2026-05-06T10:13:48.000Z",
+      "publishedTs": 1778062428000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Nastallat-Cada-casa-cada-vida.jpg",
+      "excerpt": "La tradición es un tema delicado. Juguetear con ella como con algo que está vivo es un homenaje al que... La entrada Cada casa, cada vida se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
+      "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
+      "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
+      "published": "2026-05-06T09:32:12.000Z",
+      "publishedTs": 1778059932000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "AEFM",
+        "Mental Health",
+        "Mental Health In Electronic Music",
+        "Music Industry",
+        "Paul Thomas"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/mental-health-music-industry-decoded-magazine.jpg",
+      "excerpt": "Last night I was sitting in my Mum&#8217;s lounge in Adelaide, out here visiting family, watching an interesting documentary on mental health in Australia. The credits rolled and I just sat in the dark for a while, thinking. Not about th…"
+    },
+    {
       "id": "87b58c979ff5aee3b0f70811989f1cba7feb4839",
       "title": "My New Band Believe",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/my-new-band-believe-disco/",
@@ -31,7 +65,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/My-New-Band-Believe-disco.jpg",
       "excerpt": "Cameron Picton apenas tiene veintiséis años, pero parece un veterano de la escena británica más inquieta. El bajista y ocasional... La entrada My New Band Believe se publicó primero en MondoSonoro ."
     },
     {
@@ -108,7 +142,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Fernando-Lagreca-Motion-Tactics.jpg",
       "excerpt": "Hablar sobre el nuevo álbum de Fernando Lagreca es lo mismo que hacerlo de la noche como una geometría herida.... La entrada Motion Tactics se publicó primero en MondoSonoro ."
     },
     {
@@ -143,7 +177,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Hnos-Munoz-Cat-Fun.jpg",
       "excerpt": "El nuevo disco de Hnos Munoz es como ese suspiro profundo que te sale del alma en la playa en... La entrada Cat Fun se publicó primero en MondoSonoro ."
     },
     {
@@ -198,7 +232,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Skindred-You-Got-This.jpg",
       "excerpt": "Lo de Skindred, el combo reggae metal de Newport (Reino Unido), es un caso misterioso. Desde épocas de Dub War,... La entrada Skindred You Got This se publicó primero en MondoSonoro ."
     },
     {
@@ -230,7 +264,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Nine-Inch-Noize.jpg",
       "excerpt": "Trent Reznor y Atticus Ross, dos maestros incombustibles, se unen al productor Alexander Ridha (Boys Noize) para gestar este proyecto... La entrada Nine Inch Noize se publicó primero en MondoSonoro ."
     },
     {
@@ -244,7 +278,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Parquesvr-Mitos-y-leyendas.jpg",
       "excerpt": "El quinteto madrileño liderado por Javier Ferrara alcanza su cuarto capítulo discográfico aprovechando su pujanza sobre los escenarios y un... La entrada Mitos y leyendas se publicó primero en MondoSonoro ."
     },
     {
@@ -258,7 +292,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/PalMitoUnicoCD.jpg",
       "excerpt": "Una última bala perdida. Eso es lo que le quedaba al grupo de Torrijos PAL en la recámara. O, mejor... La entrada Mito único se publicó primero en MondoSonoro ."
     },
     {
@@ -334,7 +368,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/Charlie-Hijos-Bastardos-Shortcuts.jpg",
       "excerpt": "Desde que incursionó en el género en los albores del nuevo milenio con la creación del grupo Hijos Bastardos –junto... La entrada Shortcuts se publicó primero en MondoSonoro ."
     },
     {
@@ -373,7 +407,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/04/Luna-Ki-LUNA.jpg",
       "excerpt": "Imaginamos que, por su decisión de alejarse del foco mediático para cuidarse, no han salido entrevistas con Luna Ki en... La entrada LUNA se publicó primero en MondoSonoro ."
     },
     {
@@ -396,20 +430,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/HTPB-Compilation-Artwork-scaled.jpg",
       "excerpt": "London Records announce the launch of a brand-new podcast, Hit That Perfect Beat: The London Records Story &#8211; an immersive, star-studded deep dive into one of pop’s greatest untold stories: the confidence, chaos and cultural impact …"
-    },
-    {
-      "id": "82ab07f892779d296850a4ef2f187961b03ccac7",
-      "title": "Volumes: One (Selections From Music Concerts 1019 – 2023 Bon Iver 6 Piece Band)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bon-iver-volumes/",
-      "published": "2026-04-28T15:31:17.000Z",
-      "publishedTs": 1777390277000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "",
-      "excerpt": "Simplificando mucho, siempre he dicho que hay tres tipos de artistas en directo: los que se limitan a reproducir los... La entrada Volumes: One (Selections From Music Concerts 1019 – 2023 Bon Iver 6 Piece Band) se publicó primero en Mond…"
     },
     {
       "id": "46cfc309242585142757fb9712699919b4a1b37d",
@@ -557,29 +577,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
-    },
-    {
-      "id": "24381a6c9ed334cb67e9ab061c2eeb4bb9c34975",
-      "title": "Throwback Thursday – Remember When We All Agreed a Monkey Was the Future of Music",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-remember-when-we-all-agreed-a-monkey-was-the-future-of-music/",
-      "published": "2026-04-23T09:22:03.000Z",
-      "publishedTs": 1776936123000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Limewire",
-        "MP3",
-        "Music Industry",
-        "NFT",
-        "Sony",
-        "technology",
-        "Universal Music",
-        "Web3"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/NFT-monkeys-and-the-music-industry.jpg",
-      "excerpt": "Throwback Thursday tends to reach for the good stuff. A classic twelve inch, a legendary warehouse, a night at Fabric when you still queued down the alley in the rain and didn&#8217;t mind. This week we are going somewhere else. We are g…"
     },
     {
       "id": "2815331e18d921d9e83b53ecffdab3e4b272dce8",
