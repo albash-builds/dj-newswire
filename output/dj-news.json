@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T11:47:02.464Z",
+  "generatedAt": "2026-05-07T14:07:18.729Z",
   "total": 110,
   "sources": [
     {
@@ -577,6 +577,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
+    },
+    {
+      "id": "d70f6a468acf54fa5f07f41b710b8ecafacb1eaf",
+      "title": "Beastie Boys’ Mike D appears to be working on new music",
+      "link": "https://mixmag.net/read/beastie-boys-mike-d-new-music-cryptic-online-website-videos-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mike-d-Fabio-Venni.jpg?width=660&fit=cover&s=HjcMiHp_1dl71CC6Vb69sHVzgPUX3siNC2U7fnKsPU0",
+      "excerpt": "Fan speculation is stirring as the US rapper announced his first solo live shows in years and shared a cryptic online project Continue reading..."
     },
     {
       "id": "914251cb9c2062448849623f5b62978dfe5aebed",
@@ -1525,18 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-apr-11.jpg?width=660&fit=cover&s=dKtR76wbuccOEYYce4QNwdxjCfbvT7YyMXKBd_fkUyc",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "7c7ed476d39413cdb034d687ed7462b94c621e8d",
-      "title": "“Dangerous” winds disrupt Coachella, Anyma cancels set",
-      "link": "https://mixmag.net/read/dangerous-winds-coachella-2026-disruption-festival-california-anyma-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/20250729_UNVRS_Anyma_0010_5000x4000px.jpg?width=660&fit=cover&s=lFxp4roKCdSKN1hH8sIc_tOksr2VdCTeU_yoZW0PYVk",
-      "excerpt": "Videos shared on social media also show chaos in the campsites with tents blown away Continue reading..."
     }
   ]
 }
