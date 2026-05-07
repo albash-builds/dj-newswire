@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T14:07:18.729Z",
+  "generatedAt": "2026-05-07T16:49:23.132Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "68fe8e712227321076ab9a4caaaa7ed7faf49ddc",
+      "title": "Ultracocinado",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mutiko-marmitako-trap-banda/",
+      "published": "2026-05-07T15:46:03.000Z",
+      "publishedTs": 1778168763000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/marmitako-mutiko.jpg",
+      "excerpt": "Mutiko &#38; MarmitakoTrapBand-ek elkarlanean kaleratutako “Ultracocinado EP (Live campingas session)” lanak zuzeneko grabazioaren freskotasuna eta momentuko energia harrapatzeko asmo argia... La entrada Ultracocinado se publicó primero …"
+    },
     {
       "id": "ab596cb8aeda4051e85943fd985fe7ea87383ddf",
       "title": "Crítica de 'Fenian', el esperado nuevo álbum de Kneecap",
@@ -310,20 +324,6 @@
       "excerpt": "After more than 15 years of studio work and releasing EP’s, Gary Holldman presents his debut album, Traveler —a deeply personal 10-track LP shaped by a long-standing affinity for hypnotic, stripped-back techno. Drawing on the emotional d…"
     },
     {
-      "id": "0c38b8aac4fbec951abffb0b0674b86683ac48db",
-      "title": "Nine Inch Noize",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nine-inch-noize/",
-      "published": "2026-05-04T08:51:29.000Z",
-      "publishedTs": 1777884689000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Nine-Inch-Noize.jpg",
-      "excerpt": "Trent Reznor y Atticus Ross, dos maestros incombustibles, se unen al productor Alexander Ridha (Boys Noize) para gestar este proyecto... La entrada Nine Inch Noize se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "80eb70e9beda3f3ac95db3bf5a086c7684dd9430",
       "title": "Five on Friday with FC Kahuna",
       "link": "https://www.decodedmagazine.com/five-on-friday-with-fc-kahuna/",
@@ -577,6 +577,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
       "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
+    },
+    {
+      "id": "87bb8bb41165281ded813dbe47e6ec7c1e8b2ae9",
+      "title": "Disco Pogo announce Andrew Weatherall tribute book",
+      "link": "https://mixmag.net/read/disco-pogo-announce-andrew-weatherall-tribute-book-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/andrew-Weatherall.png?width=660&fit=cover&s=pgugfxzFJ1KAw6FWTb3Ow1GYJxzsKV6yu2RdrjOzo80",
+      "excerpt": "The follow-up to Jockey Slut&#039;s &#039;A Tribute To Andrew Weatherall&#039; comes with the &quot;blessing, approval and full cooperation&quot; from the late DJ and producer&#039;s family Continue reading..."
+    },
+    {
+      "id": "30e4085bfd01caf4217ee8fb06a1424ed7c762a7",
+      "title": "Waterworks forced to relocate and change format for 2026",
+      "link": "https://mixmag.net/read/waterworks-forced-to-relocate-and-change-format-for-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/250913_waterworks_Angelina_Nikolayeva-233-2.jpg?width=660&fit=cover&s=UWUmMNBx9KsU8pM88-VLUapuM4faCj83lJ5AY7FmnfM",
+      "excerpt": "It will now take over East London&#039;s The Cause with a format it&#039;s calling Waterworks Extended, a 36-hour event this September Continue reading..."
+    },
+    {
+      "id": "10f6e21d743b712a77e32b853e6e68f5a9de9d95",
+      "title": "High Court rules in favour of Brockwell Park festivals following local planning dispute",
+      "link": "https://mixmag.net/read/high-court-rules-favour-brockwell-park-festivals-following-local-dispute-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/City-Splash-credit-garry-jones.jpg?width=660&fit=cover&s=KnGMtyNljNw-hl0bqTYVvut6CQVrCq5tC-Tc4DcYg98",
+      "excerpt": "A judge dismissed a challenge brought by a local campaigner to halt festivals at the park, which include Field Day and City Splash Continue reading..."
     },
     {
       "id": "d70f6a468acf54fa5f07f41b710b8ecafacb1eaf",
@@ -1501,42 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/del-naja-police.jpg?width=660&fit=cover&s=aoW2xMYVBdw5b6CK8FuhRLW39IMNSZSwOBbCXSkq0P8",
       "excerpt": "Del Naja was amongst 500 arrested at a Palestine Action protest in London on Saturday Continue reading..."
-    },
-    {
-      "id": "1c3e767c69d0eb3c435fece7759d290543497bcb",
-      "title": "Ibiza residents call for cap on Balearic tourist numbers in new survey",
-      "link": "https://mixmag.net/read/ibiza-residents-call-for-cap-on-balearic-tourist-numbers-in-new-survey-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ibiza-1.png?width=660&fit=cover&s=CfQD7FBhoNxk4obM0So8VzxTjtC0gz08D9ULsuX2VHw",
-      "excerpt": "Out of 2,008 residents surveyed by Balearic electoral party alliance Ara Més, 69.1% agreed there should be a cap on the number of visitors to the Spanish islands Continue reading..."
-    },
-    {
-      "id": "c318f0682431064c58750f27eacf0ba7ec708206",
-      "title": "Coachella's Do LaB dance stage closes after falling light reportedly injures crowd member",
-      "link": "https://mixmag.net/read/coachellas-do-lab-dance-stage-closes-after-falling-light-reportedly-injures-crowd-member-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/coachella-dolab-light-john-summit.jpg?width=660&fit=cover&s=bItLUxeJQaY3lGKB0lQ2WhOcgd2IshdGaPiCTUt3pOg",
-      "excerpt": "The incident reportedly happened during a surprise John Summit set and &quot;badly injured&quot; a woman Continue reading..."
-    },
-    {
-      "id": "990b14e257c9ac5ad44fa665ebd4ffd83311cc58",
-      "title": "New music on our radar this week: Flying Lotus, Peach, M.I.A.",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-flying-lotus-peach-m-i-a-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-apr-11.jpg?width=660&fit=cover&s=dKtR76wbuccOEYYce4QNwdxjCfbvT7YyMXKBd_fkUyc",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
