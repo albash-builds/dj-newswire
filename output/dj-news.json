@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T07:41:07.273Z",
+  "generatedAt": "2026-05-08T09:20:44.825Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "c3063957307c7533bca7ef73ad274abf8d6f4853",
+      "title": "Crítica de 'WIRED', el nuevo álbum de Basement que acaba de estrenarse",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/basement-wired/",
+      "published": "2026-05-08T08:53:06.000Z",
+      "publishedTs": 1778230386000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Basement-WIRED.jpg",
+      "excerpt": "Siempre que los británicos Basement se han permitido desaparecer del radar, y eso ha pasado al menos un par de... La entrada Crítica de &#039;WIRED&#039;, el nuevo álbum de Basement que acaba de estrenarse se publicó primero en MondoSono…"
+    },
+    {
+      "id": "d5c68f4a9b1ae304b048a4496f1f2033c5d5138f",
+      "title": "Kehlani",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kehlani-disco/",
+      "published": "2026-05-08T08:25:40.000Z",
+      "publishedTs": 1778228740000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kehlani-disco.jpg",
+      "excerpt": "“You’re about to hear a heart that’s been stretched, healed and reborn”, expone Kehlani nada más iniciar su esperado álbum... La entrada Kehlani se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9709199f77b4eee956d33545e330830d645524ee",
+      "title": "Middle of Nowhere",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kacey-musgraves-middle-of-nowhere/",
+      "published": "2026-05-08T07:45:44.000Z",
+      "publishedTs": 1778226344000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kacey-musgraves-Middle-of-Nowhere.jpg",
+      "excerpt": "En ocasiones el video de un artista puede, como carta de presentación, dar muchas pistas sobre cuál va a ser... La entrada Middle of Nowhere se publicó primero en MondoSonoro ."
+    },
     {
       "id": "68fe8e712227321076ab9a4caaaa7ed7faf49ddc",
       "title": "Ultracocinado",
@@ -202,20 +244,6 @@
       "excerpt": "Tezeta by Felipe Gordon Felipe Gordon returns to Shall Not Fade with Tezeta, an album that arrives with the quiet authority you&#8217;d expect from an artist who has become a fixture on the label. Since A Landscape Onomatopeya in 2022, a…"
     },
     {
-      "id": "e32d1dd6aa9ac0500730ce7619049cf757016103",
-      "title": "Motion Tactics",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ernando-lagreca-motion-tactics/",
-      "published": "2026-05-05T06:27:55.000Z",
-      "publishedTs": 1777962475000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Fernando-Lagreca-Motion-Tactics.jpg",
-      "excerpt": "Hablar sobre el nuevo álbum de Fernando Lagreca es lo mismo que hacerlo de la noche como una geometría herida.... La entrada Motion Tactics se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "1183893f611eb2ac9dfb0cef7024a990dd63d5d6",
       "title": "Review – Neither A9 Nor V10: The Curious Case of the AlphaTheta VM-5",
       "link": "https://www.decodedmagazine.com/review-neither-a9-nor-v10-the-curious-case-of-the-alphatheta-vm-5/",
@@ -235,20 +263,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/djmv5-product-specification-image-01.webp?resize=810%2C810&ssl=1",
       "excerpt": "There’s something about the AlphaTheta VM-5 that feels slightly unresolved, or undercooked. At first glance, it looks like a thoughtful attempt to bridge two worlds: the speed and familiarity of the Pioneer DJ DJM-A9, and the broader, mo…"
-    },
-    {
-      "id": "f2caf90dfb5df71644ed800ecc334bd093ab25a3",
-      "title": "Cat Fun",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hnos-munoz-cat-fun/",
-      "published": "2026-05-05T06:04:50.000Z",
-      "publishedTs": 1777961090000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Hnos-Munoz-Cat-Fun.jpg",
-      "excerpt": "El nuevo disco de Hnos Munoz es como ese suspiro profundo que te sale del alma en la playa en... La entrada Cat Fun se publicó primero en MondoSonoro ."
     },
     {
       "id": "d87011b6b19ec855445104f06d7865eae9f87fac",
@@ -290,20 +304,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/1_1_FLYER_CF_MEXICO_annonce.jpeg",
       "excerpt": "Cercle announces the arrival of Cercle Festival in San José del Cabo, set to take place on November 14-15, 2026, within the singular landscapes of Baja California Sur. Building on the momentum of its Paris editions, the festival continue…"
-    },
-    {
-      "id": "b4d35fff923c296fe6935342283ced1aa031cb41",
-      "title": "Skindred You Got This",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/skindred-you-got-this/",
-      "published": "2026-05-04T10:52:02.000Z",
-      "publishedTs": 1777891922000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Skindred-You-Got-This.jpg",
-      "excerpt": "Lo de Skindred, el combo reggae metal de Newport (Reino Unido), es un caso misterioso. Desde épocas de Dub War,... La entrada Skindred You Got This se publicó primero en MondoSonoro ."
     },
     {
       "id": "d87d3785cfa96e7d2659d26cfd20883cb1cc4ade",
