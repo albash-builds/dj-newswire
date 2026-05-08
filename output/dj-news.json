@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T09:20:44.825Z",
+  "generatedAt": "2026-05-08T11:15:04.366Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,63 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "6fce09798b6a9e49c5bcffcf18834145213338fc",
+      "title": "Book of the Month – A Disco Pogo Tribute to Andrew Weatherhall",
+      "link": "https://www.decodedmagazine.com/book-of-the-month-a-disco-pogo-tribute-to-andrew-weatherhall/",
+      "published": "2026-05-08T10:55:39.000Z",
+      "publishedTs": 1778237739000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Andrew Weatherall",
+        "Book of the month",
+        "Disco Pogo",
+        "Electronica",
+        "Jockey Slut",
+        "Music Industry"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_NO_DROPSHADOW.png?resize=810%2C810&ssl=1",
+      "excerpt": "&#8216;A Disco Pogo Tribute To Andrew Weatherall&#8217; is the fourth in the hardback Tribute series — following Daft Punk, Aphex Twin and LCD Soundsystem — and the long-overdue successor to the now hard-to-find A Jockey Slut Tribute To …"
+    },
+    {
+      "id": "9aa48e6f6c778618670e45bbfcf19111def06b71",
+      "title": "Tresor Records just released Together You Gather All Power Applied Worldwide by TYGAPAW",
+      "link": "https://www.decodedmagazine.com/tresor-records-just-released-together-you-gather-all-power-applied-worldwide-by-tygapaw/",
+      "published": "2026-05-08T10:35:44.000Z",
+      "publishedTs": 1778236544000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Album",
+        "Techno",
+        "Tresor",
+        "TYGAPAW"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2069530638_10.jpg",
+      "excerpt": "Together You Gather All Power Applied Worldwide by TYGAPAW May 2026 marks the arrival of TYGAPAW (aka Dion McKenzie)’s first full-length album on Tresor Records, entitled Together You Gather All Power Applied Worldwide. An acronym of its…"
+    },
+    {
+      "id": "da1202fcd8a895452c42b4f1aada0f2d01a1c84f",
+      "title": "Meet our April 2026 Mix of the Month Winner – Toxic Shame Squadron",
+      "link": "https://www.decodedmagazine.com/meet-our-april-2026-mix-of-the-month-winner-toxic-shame-squadron/",
+      "published": "2026-05-08T09:38:46.000Z",
+      "publishedTs": 1778233126000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Mixes",
+        "Electronica",
+        "House Music",
+        "Mix of the Month competition",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TSS-promo-pic-landscape-scaled.jpeg",
+      "excerpt": "Decoded Magazine · Mix of the Month Winner April 2026 &#8211; Toxic Shame Squadron Each month at Decoded Magazine, our Mix of the Month competition throws up plenty of surprises, but few entrants arrive with quite the same delightfully a…"
+    },
     {
       "id": "c3063957307c7533bca7ef73ad274abf8d6f4853",
       "title": "Crítica de 'WIRED', el nuevo álbum de Basement que acaba de estrenarse",
@@ -512,71 +569,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
       "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
-    },
-    {
-      "id": "4fc9ae6e6c025972173903d87fe934f625f201a8",
-      "title": "!K7 set to release DJ-Kicks: Kruder & Dorfmeister (30th Anniversary Boxset Edition)",
-      "link": "https://www.decodedmagazine.com/k7-set-to-release-dj-kicks-kruder-dorfmeister-30th-anniversary-boxset-edition/",
-      "published": "2026-04-24T03:56:55.000Z",
-      "publishedTs": 1777003015000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "chill out",
-        "iK7",
-        "Kruder &amp; Dorfmeister",
-        "Trip Hop",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Kruder-Dorfmeister-scaled.jpg",
-      "excerpt": "For its 30th anniversary, Kruder &amp; Dorfmeister’s DJ-Kicks is available for the first time in mixed form on 3LP, remastered by Bernie Grundman and packaged in a special box set including original imagery. Kruder &amp; Dorfmeister&#821…"
-    },
-    {
-      "id": "3599a1cf975af1cbc019b0e5acc5b6f7242945b3",
-      "title": "Fergus Alexander: 25 years of Raving through the shadows of Brisbane",
-      "link": "https://www.decodedmagazine.com/fergus-alexander-25-years-of-raving-through-the-shadows-of-brisbane/",
-      "published": "2026-04-24T03:46:33.000Z",
-      "publishedTs": 1777002393000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Featured",
-        "Interviews",
-        "Progressive",
-        "Barsoma",
-        "Beatsville",
-        "Brisbane",
-        "Creamfields",
-        "Dave Seaman",
-        "Fortitude Valley",
-        "Henry Saiz",
-        "Inthemix"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/04/IMG_5968.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Decoded Magazine · Decoded Magazine presents Fergus Alexander It&#8217;s close&nbsp;to 2pm when&nbsp;Fergus Alexander pulls up outside my hotel in Brisbane&#8217;s inner north, engine idling,&nbsp;a faint pulse of Selador sessions leakin…"
-    },
-    {
-      "id": "68c4a85e52642d097723d45d1586774bcc253a94",
-      "title": "Carl Craig’s Ambient ‘Meditations’ LP Arrives on Digital Platforms for First Time",
-      "link": "https://www.decodedmagazine.com/carl-craigs-ambient-meditations-lp-arrives-on-digital-platforms-for-first-time/",
-      "published": "2026-04-23T12:16:48.000Z",
-      "publishedTs": 1776946608000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "Bandcamp",
-        "Carl Craig",
-        "chill out",
-        "Electronica",
-        "Planet E"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Carl-Craig-new-scaled-e1776946413195.jpg",
-      "excerpt": "Desire: The Carl Craig Story by Carl Craig Detroit techno innovator Carl Craig reissues his ambient opus&nbsp; Meditations &nbsp;on his imprint Planet E Communications, available fully on digital platforms for the first time.&nbsp; Medit…"
     },
     {
       "id": "87bb8bb41165281ded813dbe47e6ec7c1e8b2ae9",
