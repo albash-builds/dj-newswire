@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T13:46:32.870Z",
+  "generatedAt": "2026-05-08T15:21:36.818Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d62835710418f8fc301ece8993e82a5f1f400906",
+      "title": "BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall",
+      "link": "https://www.decodedmagazine.com/bicep-live-returns-for-a-special-show-at-londons-iconic-royal-albert-hall/",
+      "published": "2026-05-08T13:59:12.000Z",
+      "publishedTs": 1778248752000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Bicep",
+        "breaks",
+        "Electronica",
+        "London",
+        "Ninja Tunes",
+        "Royal Albert Hall"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/bicep-royal-albert-hall.png?resize=769%2C1024&ssl=1",
+      "excerpt": "Following a three-year hiatus, BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall, on Thursday 26th November 2026. For fans who have been clamouring for the duo’s return while they’ve been locked away in the studi…"
+    },
     {
       "id": "51005ccad8ef9bfe2cd4da4c58e49b6c50155422",
       "title": "Five on Friday with DJ Oolong",
@@ -555,27 +575,28 @@
       "excerpt": "London Records announce the launch of a brand-new podcast, Hit That Perfect Beat: The London Records Story &#8211; an immersive, star-studded deep dive into one of pop’s greatest untold stories: the confidence, chaos and cultural impact …"
     },
     {
-      "id": "46cfc309242585142757fb9712699919b4a1b37d",
-      "title": "Thirteen Years On, Brighton Music Conference Is Still The UK’s Most Underrated Asset",
-      "link": "https://www.decodedmagazine.com/thirteen-years-on-brighton-music-conference-is-still-the-uks-most-underrated-asset/",
-      "published": "2026-04-28T10:11:02.000Z",
-      "publishedTs": 1777371062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "UK",
-        "Brighton",
-        "Brighton Music Conference",
-        "DnB",
-        "House Music",
-        "music production",
-        "Progressive House",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2024/03/Brighton-Music-Conference-scaled.jpg",
-      "excerpt": "BMC26 returns to the seafront on 20-23 May 2026. After (founded in 2013) thirteen years on the calendar (although lanched in 2014), our Editor argues it has quietly become the most important conference the British electronic music indust…"
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Mixes.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=OUMMJ7DbhY1p9ARLucGWy5l3gOgWZwzC_n66VTjDhnE",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
+    },
+    {
+      "id": "5c37de982e1b01a5a71f3624fd7cef79d3dfac6d",
+      "title": "Boards of Canada drop trippy new singles ‘Introit’ and ‘Prophecy At 1420 MHz’",
+      "link": "https://mixmag.net/read/boards-of-canada-drop-trippy-new-singles-introit-and-prophecy-at-1420-mhz-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-visualiser.jpg?width=660&fit=cover&s=_49nkTl2NCtYRByv0fLhJM4b84WDCFmUdRUwaszkwMk",
+      "excerpt": "The new tracks land just weeks ahead of the release of their first record in some 13 years, ‘Inferno’ Continue reading..."
     },
     {
       "id": "0d5c4a1a5a14ea6ee208e1ae09deb6c1dca19720",
@@ -1502,18 +1523,6 @@
       "excerpt": "With the help of funding from the UK&#039;s arena ticket levy, Voodoo Daddy’s has undergone renovations Continue reading..."
     },
     {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Mixes.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=OUMMJ7DbhY1p9ARLucGWy5l3gOgWZwzC_n66VTjDhnE",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
       "id": "463c9dd5c5ba3dd32f5a1c34e35361720dd2b4e7",
       "title": "Björk confirms that a new album is coming in 2027",
       "link": "https://mixmag.net/read/bjork-confirms-that-a-new-album-is-coming-in-2027-news",
@@ -1524,18 +1533,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bjork-Brits.png?width=660&fit=cover&s=SQoiPMHloTH6Dav7bjnM5vuEY5MrxHjUL9lwATRz6h0",
       "excerpt": "The Icelandic musician confirmed that a version &quot;of a new song&quot; will feature as part of her echolalia exhibition at the National Gallery of Iceland Continue reading..."
-    },
-    {
-      "id": "c0971ae87ff20c73c8b25e0421bfb01fcfce5dfa",
-      "title": "Conservative MP calls for DJ Haram to be barred from UK",
-      "link": "https://mixmag.net/read/conservative-mp-calls-dj-haram-barred-from-uk-ahead-of-shows-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-haram-uk-shows.jpg?width=660&fit=cover&s=OBC_InoZMef2b5TX_EywPsPNvWVplzrdE3H3ba3Qy9I",
-      "excerpt": "It follows her impassioned pro-Palestine speech at the 25th Biennale of Sydney last month Continue reading..."
     }
   ]
 }
