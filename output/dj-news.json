@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:15:04.366Z",
+  "generatedAt": "2026-05-08T13:46:32.870Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,72 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "51005ccad8ef9bfe2cd4da4c58e49b6c50155422",
+      "title": "Five on Friday with DJ Oolong",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-dj-oolong/",
+      "published": "2026-05-08T13:16:43.000Z",
+      "publishedTs": 1778246203000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Capeesh",
+        "DJ Ooolong",
+        "Electronica",
+        "Five on Friday",
+        "House Music",
+        "London",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/oolong-scaled.jpg",
+      "excerpt": "This Friday, we&#8217;re over the moon to welcome one of the leading hands behind The Capeesh club nights, Mr. Harry Abraham, better known as DJ Oolong . Alongside Hamish, Harry co-runs Capeesh, a party series hosted across intimate venu…"
+    },
+    {
+      "id": "580fa966bd0d9d5708ec3423fb697183263ca544",
+      "title": "Bristol trio Elder Island released their third studio album Hello Baby, Okay",
+      "link": "https://www.decodedmagazine.com/bristol-trio-elder-island-released-their-third-studio-album-hello-baby-okay/",
+      "published": "2026-05-08T11:54:10.000Z",
+      "publishedTs": 1778241250000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Bristol",
+        "Elder Island",
+        "Electronica",
+        "House Music",
+        "Indie Electronica",
+        "UK"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Elder-Island-scaled.jpg",
+      "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
+    },
+    {
+      "id": "97d90097d4f34ecb49e0b17991cb38bc87a2142d",
+      "title": "Native Instruments has been bought by InMusic",
+      "link": "https://www.decodedmagazine.com/native-instruments-has-been-bought-by-inmusic/",
+      "published": "2026-05-08T11:28:49.000Z",
+      "publishedTs": 1778239729000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Akai",
+        "Denon",
+        "inMusic",
+        "M-Audio",
+        "Moog",
+        "music production",
+        "Native Instruments",
+        "Numark",
+        "Rane"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
+      "excerpt": "&nbsp; inMusic &nbsp;and&nbsp; Native Instruments &nbsp;today announced that inMusic has signed a definitive agreement to acquire Native Instruments, the Berlin-based music technology company behind some of the most widely used creative …"
+    },
     {
       "id": "6fce09798b6a9e49c5bcffcf18834145213338fc",
       "title": "Book of the Month – A Disco Pogo Tribute to Andrew Weatherhall",
@@ -512,63 +578,40 @@
       "excerpt": "BMC26 returns to the seafront on 20-23 May 2026. After (founded in 2013) thirteen years on the calendar (although lanched in 2014), our Editor argues it has quietly become the most important conference the British electronic music indust…"
     },
     {
-      "id": "903c18f4b396386a7f90fa60cdfdc9ab72f73f24",
-      "title": "KVLTÖ Records release Daughters Of The Drums by Sarah Kay",
-      "link": "https://www.decodedmagazine.com/kvlto-records-release-daughters-of-the-drums-by-sarah-kay/",
-      "published": "2026-04-27T10:13:09.000Z",
-      "publishedTs": 1777284789000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "KVLTÖ Records",
-        "Melodic Techno",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/sarah-kay-KVLTO-Records.jpg",
-      "excerpt": "Daughters Of The Drums [KVLTD014] by Sarah Kay KVLTÖ continues to use its LTD series as a proving ground for artists worth watching, and the fourteenth instalment hands the floor to Sarah Kay. Her debut, Daughters Of The Drums, arrives w…"
+      "id": "0d5c4a1a5a14ea6ee208e1ae09deb6c1dca19720",
+      "title": "London's KOKO announces extensive programme for 125th birthday",
+      "link": "https://mixmag.net/read/koko-announces-programme-and-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/koko_2026-05-08-115405_bqbk.png?width=660&fit=cover&s=P9mUnzzW5CxTPGWorET9tyCq_wbt2V8ylXW1zyHoghU",
+      "excerpt": "To mark the milestone, the iconic Camden venue has also unveiled a new recording studio Continue reading..."
     },
     {
-      "id": "2eeb377d39fe35299aee8d3f2022cde2871593ad",
-      "title": "Nightmares on Wax & Marlon Lopez via 20/20 Vision",
-      "link": "https://www.decodedmagazine.com/nightmares-on-wax-marlon-lopez-via-20-20-vision/",
-      "published": "2026-04-27T09:49:55.000Z",
-      "publishedTs": 1777283395000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "20/20 Vision Recordings",
-        "George Evelyn",
-        "House Music",
-        "Marlon Lopez",
-        "Nightmares on Wax",
-        "Ralph Lawson",
-        "Warp Records"
-      ],
-      "image": "https://www.juno.co.uk/player-embed/SF1131209-01-01-01.mp3/?pl=true&ed=26-04-27",
-      "excerpt": "If you were dancing in a warehouse in 1990 you would most definitely have heard the bass heavy bleep sounds emanating from a new record label called WARP Records, and many of those early tracks were made by a young artist from Leeds call…"
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/APRIL_Best_Of_Albums2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=awHwtX2SAgbo0QSeTyXWhhpD9Uf3oSJWUjBm073JAL0",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
-      "id": "cd07bb03388f1dbd003fb28214f2cda53557537a",
-      "title": "Five on Friday with Darko C",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-darko-c/",
-      "published": "2026-04-24T11:03:10.000Z",
-      "publishedTs": 1777028590000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Crosstown Rebels",
-        "Dorset",
-        "Electro",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Darko-scaled.jpeg",
-      "excerpt": "This week&#8217;s Five on Friday comes courtesy of Mr Darko C , in conjunction with our friends over atThe Red Telephone. A selector whose ear for the unexpected has earned him a quiet but loyal following on the south coast. Based in Poo…"
+      "id": "3772c55748f6ce71ad3e3b3e7a108e375f9bbe9c",
+      "title": "Secretive London club night Lost to leave current home at the end of this month",
+      "link": "https://mixmag.net/read/london-lost-announces-closure-current-home-covent-garden-club-night-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lost-club-night.jpg?width=660&fit=cover&s=A5D803NuIi59rBS9m-K4p2MQyMpiIP0zAZC3owkWnQg",
+      "excerpt": "The team said they failed to secure an extension on the lease of the former Odeon cinema, but have since found a new home Continue reading..."
     },
     {
       "id": "87bb8bb41165281ded813dbe47e6ec7c1e8b2ae9",
@@ -1388,7 +1431,7 @@
     },
     {
       "id": "6ba96d2ee72a884a8bd5edc0c9a405b0ba5886de",
-      "title": "Massive Attack share new music for the first time in over a decade",
+      "title": "Massive Attack share new music for the first time in six years",
       "link": "https://mixmag.net/read/massive-attack-share-new-music-first-time-over-decade-news",
       "published": "",
       "publishedTs": 0,
@@ -1396,7 +1439,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/massive-attack-new.jpg?width=660&fit=cover&s=TzLtJEnt9mpFf_vSEWtIkp6Vyv23uiDvlV3_FGWVjYc",
-      "excerpt": "‘Boots on the Ground’ featuring Tom Waits marks their first release since 2016&#039;s ‘Ritual Spirit’ Continue reading..."
+      "excerpt": "‘Boots on the Ground’ featuring Tom Waits marks their first release in more than half a decade Continue reading..."
     },
     {
       "id": "cedd73c4fed5c071b913204f019a9368b498f26e",
@@ -1471,18 +1514,6 @@
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
-      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
-      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MARCH_Best_Of_Albums2.jpg?width=1200&height=630&quality=60&format=baseline-jpeg&fit=cover&s=UDbRzhmpWfivzfUJPJGXfYqd1qfAExgHWlSH1Iphu3k",
-      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
-    },
-    {
       "id": "463c9dd5c5ba3dd32f5a1c34e35361720dd2b4e7",
       "title": "Björk confirms that a new album is coming in 2027",
       "link": "https://mixmag.net/read/bjork-confirms-that-a-new-album-is-coming-in-2027-news",
@@ -1505,30 +1536,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-haram-uk-shows.jpg?width=660&fit=cover&s=OBC_InoZMef2b5TX_EywPsPNvWVplzrdE3H3ba3Qy9I",
       "excerpt": "It follows her impassioned pro-Palestine speech at the 25th Biennale of Sydney last month Continue reading..."
-    },
-    {
-      "id": "8f82121666bc91c7eeb066bd37dfc3647154aa69",
-      "title": "Legendary Bollywood singer and Gorillaz collaborator Asha Bhosle has died, aged 92",
-      "link": "https://mixmag.net/read/legendary-bollywood-singer-and-gorillaz-collaborator-asha-bholse-has-died-aged-92-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Asha-Bholse.png?width=660&fit=cover&s=dGogZcB6KGPdBq2zD9rralGsqLzbL7mGhy-Ik-MAwbs",
-      "excerpt": "The &quot;voice of Bollywood&quot; recorded her last-ever track, &#039;Shadowy Light&#039;, alongside the animated band Continue reading..."
-    },
-    {
-      "id": "2418e030dcd7be26a4b60c3104b11bf62f1d76df",
-      "title": "Massive Attack’s Robert Del Naja calls protest arrest “total madness”",
-      "link": "https://mixmag.net/read/massive-attack-robert-del-naja-issues-statement-arrest-protest-palestine-action-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/del-naja-police.jpg?width=660&fit=cover&s=aoW2xMYVBdw5b6CK8FuhRLW39IMNSZSwOBbCXSkq0P8",
-      "excerpt": "Del Naja was amongst 500 arrested at a Palestine Action protest in London on Saturday Continue reading..."
     }
   ]
 }
