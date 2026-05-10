@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T17:52:48.883Z",
+  "generatedAt": "2026-05-10T19:03:27.948Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "fc7f908f263481b2b787437ede78a72f01342e7e",
+      "title": "Midnight Sun: Girls Trip",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/zara-larsson-midnight-sun-girls-trip/",
+      "published": "2026-05-10T18:01:51.000Z",
+      "publishedTs": 1778436111000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2017/07/logomondo-1.png",
+      "excerpt": "Decía en la crítica de “Midnight Sun” para esta casa que Zara Larsson había logrado su primer gran disco, después... La entrada Midnight Sun: Girls Trip se publicó primero en MondoSonoro ."
+    },
     {
       "id": "37f1d247826d34c9194bf6a14dddc92f39b80e8c",
       "title": "Look For Your Mind!",
@@ -288,20 +302,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Querido-Que-Sere-Yo.jpg",
       "excerpt": "Menos de dos años han necesitado Querido para dar forma a su segundo disco, un trabajo que deja claro desde... La entrada ¿Qué Seré Yo? se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "87d46ea3e33600355438b4e8a00c36d91f40c130",
-      "title": "Cada casa, cada vida",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nastallat-cada-casa-cada-vida/",
-      "published": "2026-05-06T10:13:48.000Z",
-      "publishedTs": 1778062428000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Nastallat-Cada-casa-cada-vida.jpg",
-      "excerpt": "La tradición es un tema delicado. Juguetear con ella como con algo que está vivo es un homenaje al que... La entrada Cada casa, cada vida se publicó primero en MondoSonoro ."
     },
     {
       "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
