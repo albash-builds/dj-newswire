@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T14:50:07.217Z",
+  "generatedAt": "2026-05-11T17:24:18.731Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "28df9f072380e59038a284bf03c24fdcd2ab6621",
+      "title": "Presence",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hypersense-presence/",
+      "published": "2026-05-11T17:13:09.000Z",
+      "publishedTs": 1778519589000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Hypersense-Presence.jpg",
+      "excerpt": "Los músicos evolucionan y el enfoque de algunos de ellos también. Esto es lo primero que se desprende tras escudriñar... La entrada Presence se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0f45fd6b82be83f795f087b75b73237cf3b84b4a",
+      "title": "Brightside",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ziggy-marley-brightside/",
+      "published": "2026-05-11T16:48:44.000Z",
+      "publishedTs": 1778518124000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ziggy-Marley-Brightside.jpg",
+      "excerpt": "El primero de los hijos de Marley en asomar a la exposición mediática hace más de treinta y cinco años... La entrada Brightside se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1cbe0565448c8900cd9213b269eaef55450c8a84",
+      "title": "Crítica de 'Terrorismo Emocional', el nuevo álbum de Siloé",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/siloe-terrorismo-emocional/",
+      "published": "2026-05-11T16:39:28.000Z",
+      "publishedTs": 1778517568000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Siloe-Terrorismo-Emocional.jpg",
+      "excerpt": "Lo nuevo de Siloé llega con una sensación un tanto extraña. La de estar escuchando un disco recién publicado que,... La entrada Crítica de &#039;Terrorismo Emocional&#039;, el nuevo álbum de Siloé se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6fe3838764e225f298714c64e48e0631fd8150b5",
       "title": "Lose Your Self",
@@ -296,48 +338,6 @@
       "excerpt": "“You’re about to hear a heart that’s been stretched, healed and reborn”, expone Kehlani nada más iniciar su esperado álbum... La entrada Kehlani se publicó primero en MondoSonoro ."
     },
     {
-      "id": "9709199f77b4eee956d33545e330830d645524ee",
-      "title": "Middle of Nowhere",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kacey-musgraves-middle-of-nowhere/",
-      "published": "2026-05-08T07:45:44.000Z",
-      "publishedTs": 1778226344000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kacey-musgraves-Middle-of-Nowhere.jpg",
-      "excerpt": "En ocasiones el video de un artista puede, como carta de presentación, dar muchas pistas sobre cuál va a ser... La entrada Middle of Nowhere se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "68fe8e712227321076ab9a4caaaa7ed7faf49ddc",
-      "title": "Ultracocinado",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mutiko-marmitako-trap-banda/",
-      "published": "2026-05-07T15:46:03.000Z",
-      "publishedTs": 1778168763000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/marmitako-mutiko.jpg",
-      "excerpt": "Mutiko &#38; MarmitakoTrapBand-ek elkarlanean kaleratutako “Ultracocinado EP (Live campingas session)” lanak zuzeneko grabazioaren freskotasuna eta momentuko energia harrapatzeko asmo argia... La entrada Ultracocinado se publicó primero …"
-    },
-    {
-      "id": "ab596cb8aeda4051e85943fd985fe7ea87383ddf",
-      "title": "Fenian",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kneecap-fenian/",
-      "published": "2026-05-07T06:13:16.000Z",
-      "publishedTs": 1778134396000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Kneecap-Fenian.jpg",
-      "excerpt": "Paso a paso, prosigue el destilado progresivo de Kneecap hacia formas menos old school, enriqueciendo su paleta sonora con nuevos... La entrada Fenian se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
       "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
       "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
@@ -561,6 +561,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/john-digweed-scaled.jpg",
       "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
+    },
+    {
+      "id": "03969fc96245656d47e6f8555fed39f10394a96f",
+      "title": "Industry Insider: An interview with AMAAD co-founder Paul Jack",
+      "link": "https://mixmag.net/feature/industry-insider-an-interview-with-amaads-paul-jack",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paul-Jack-credit-%40elliekoepke.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IVXjT9NKYKM-Ngf9rskpTuaYRoXrrYte6IdCMIs4RsU",
+      "excerpt": "Next in our interview series talking to some of the most influential people in the dance music industry, we sit down with promoter and AMAAD co-founder Paul Jack Continue reading..."
+    },
+    {
+      "id": "84daf55d0cddc07828cd692e09fc0e9b50f2af36",
+      "title": "UK music industry urges government to crack down on ticket touts",
+      "link": "https://mixmag.net/read/uk-music-industry-urges-government-crack-down-ticket-touts-eu-touring-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/crowd-festival-credit-zak-bentley.jpg?fit=cover&width=660&s=q7wczoeutTDhTIFeE3wddh7j7NGNJxd1aWo7xEeZxEw",
+      "excerpt": "A letter addressed to Prime Minister Keir Starmer also asks for more to be done for musicians touring in the EU Continue reading..."
     },
     {
       "id": "0de61ddd6bd4731979bf15d99b8cdaed50057e78",
@@ -1497,30 +1521,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/massive-attack-new.jpg?fit=cover&width=660&s=y2newbYUk1bulx5Nt-bmEAYkCshYn8dSZhnLExmdiVg",
       "excerpt": "‘Boots on the Ground’ featuring Tom Waits marks their first release in more than half a decade Continue reading..."
-    },
-    {
-      "id": "cedd73c4fed5c071b913204f019a9368b498f26e",
-      "title": "The Mix 102: IZCO",
-      "link": "https://mixmag.net/feature/the-mix-102-izco-brownswood-powerscroft-brighter-days-london",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_IZCO.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=B9u8lF5mSN0aHRa6WihNHKO3-fo9NdwuH7CiyUgVsFc",
-      "excerpt": "The Brighter Days mainstay turns in an hour of luminescent house, garage and future jazz, and speaks to Gemma Ross about staying true to himself, nurturing the community around him, and his debut album on Brownswood, &#039;Powerscroft&#0…"
-    },
-    {
-      "id": "f93e67413b4c3ed1270a84f1fc24b102ab9c09fc",
-      "title": "Stormzy’s Banksy-designed stab vest among display items at London exhibition",
-      "link": "https://mixmag.net/read/stormzy-banksy-emblazoned-stab-vest-glastonbury-display-london-exhibition-the-music-is-black-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/stormzy-glasto.jpg?fit=cover&width=660&s=PLsAFUolcSUbd0fE-enE4ofBbGMfggvtKXphWNGeBMk",
-      "excerpt": "It goes on display at The Music Is Black: A British Story, the first installation at the new V&amp;A East museum Continue reading..."
     }
   ]
 }
