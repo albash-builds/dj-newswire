@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T09:38:35.813Z",
+  "generatedAt": "2026-05-12T11:55:19.946Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,86 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "d99897f59b8d01d1095f4cf62b929077db5ad5a0",
+      "title": "Tot escrit",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tot-escrit/",
+      "published": "2026-05-12T11:03:06.000Z",
+      "publishedTs": 1778583786000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/TIEMEI-Tot-escrit.jpg",
+      "excerpt": "No he tenido la oportunidad esta vez de sentarme con ellos en una cuevecilla musiquera de la Vila de Gràcia... La entrada Tot escrit se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
+      "title": "Submit your Mix of the Month DJ Competition entry",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
+      "published": "2026-05-12T10:29:01.000Z",
+      "publishedTs": 1778581741000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "breaks",
+        "DJ Competition",
+        "DnB",
+        "dub techno",
+        "House Music",
+        "Melodic Techno",
+        "Progressive House",
+        "Techno",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
+      "excerpt": "ENTRIES CLOSE ON 20 MAY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlisted…"
+    },
+    {
+      "id": "c09a6a7dab24b1c352a26f8206a6c0dc97afc21a",
+      "title": "Richie Hawtin headline show at 18th-century royal palace in Palermo",
+      "link": "https://www.decodedmagazine.com/richie-hawtin-headline-show-at-18th-century-royal-palace-in-palermo/",
+      "published": "2026-05-12T10:14:30.000Z",
+      "publishedTs": 1778580870000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Festivals",
+        "Festival",
+        "Italy",
+        "Richie Hawtin",
+        "Sicily",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/unnamed-23.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Aura&#8217;s debut edition sold out beside the ancient Doric temple at Segesta, and now the series moves to Palermo. On 1st June, Richie Hawtin headlines at Palazzina Cinese, an 18th-century royal residence built as a retreat for King Fe…"
+    },
+    {
+      "id": "6d22dfc0afe32019c6390fb4312c3086b222b2ce",
+      "title": "Paul van Dyk Launches VANDIT Next Generation Mentorship Programme",
+      "link": "https://www.decodedmagazine.com/paul-van-dyk-launches-vandit-next-generation-mentorship-programme/",
+      "published": "2026-05-12T10:07:45.000Z",
+      "publishedTs": 1778580465000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "chill out",
+        "House Music",
+        "music production",
+        "Paul Van Dyk",
+        "Progressive House",
+        "Techno",
+        "Trance",
+        "Vandit"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/paul-van-dyk-studio.jpg",
+      "excerpt": "Paul van Dyk and the VANDIT Label Group announce VANDIT Next Generation, a talent scouting and mentorship initiative designed to discover, support, and elevate the next generation of global electronic music producers. The programme is se…"
+    },
     {
       "id": "5fa2f5957a77333cc671af4f2c0b87a6ce087f75",
       "title": "A Tiempo de Nada",
@@ -324,20 +404,6 @@
       "excerpt": "Decoded Magazine · Mix of the Month Winner April 2026 &#8211; Toxic Shame Squadron Each month at Decoded Magazine, our Mix of the Month competition throws up plenty of surprises, but few entrants arrive with quite the same delightfully a…"
     },
     {
-      "id": "c3063957307c7533bca7ef73ad274abf8d6f4853",
-      "title": "WIRED",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/basement-wired/",
-      "published": "2026-05-08T08:53:06.000Z",
-      "publishedTs": 1778230386000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Basement-WIRED.jpg",
-      "excerpt": "Siempre que los británicos Basement se han permitido desaparecer del radar, y eso ha pasado al menos un par de... La entrada WIRED se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
       "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
       "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
@@ -376,30 +442,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/03_12.4-Link_Audio-Dark.png?resize=810%2C505&ssl=1",
       "excerpt": "Ableton Live 12.4 is now available for download. Free for all Live 12 users, this update introduces new ways to create and collaborate in Live , plus new features and improvements for Push , Move and Note . Link Audio Live 12.4 introduce…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-05-05T08:36:43.000Z",
-      "publishedTs": 1777970203000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 MAY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlisted…"
     },
     {
       "id": "199e49a4d7293efcec8b28774ae9b62a62c50471",
@@ -519,48 +561,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Kahuna-2103-e1777632794501.jpg",
       "excerpt": "FC Kahuna are one of those acts whose name carries three decades of dancefloor history without needing to shout about it. The story starts in the mid 90s with promoting and DJing at The Big Kahuna Burger, the now legendary party that bec…"
-    },
-    {
-      "id": "7fe7372393df08f1d36f79cd3817a2c8abc8b4d1",
-      "title": "Evermix & DJKIT Join Forces to Build a Bigger Future for DJs",
-      "link": "https://www.decodedmagazine.com/evermix-djkit-join-forces-to-build-a-bigger-future-for-djs/",
-      "published": "2026-04-30T14:43:01.000Z",
-      "publishedTs": 1777560181000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "Tech News",
-        "Evermix",
-        "music production",
-        "Recording"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/evermix-1-scaled.png",
-      "excerpt": "Our favourite and go-to system for recording &#8211; Evermix, has announced that parent company Optimum Tech Holdings has acquired 50% of DJKIT -one of the UK’s most established DJ retailers &#8211; in a move designed to create a more po…"
-    },
-    {
-      "id": "40bc78dd4c4cc871078862768a9aa44162d271ae",
-      "title": "John Digweed, GU019 Los Angeles: The Night America Finally Tuned In",
-      "link": "https://www.decodedmagazine.com/john-digweed-gu019-los-angeles-the-night-america-finally-tuned-in/",
-      "published": "2026-04-30T13:46:44.000Z",
-      "publishedTs": 1777556804000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "North America and Canada",
-        "Throwback Thursdays",
-        "America",
-        "Bedrock Records",
-        "Global Underground",
-        "Jimmy Van M",
-        "John Digweed",
-        "LA",
-        "Pole Folder",
-        "Progressive House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/john-digweed-scaled.jpg",
-      "excerpt": "The Global Underground Archive · Global Underground 019 &#8211; John Digweed &#8211; Los Angeles There is a moment in every cultural shift where the room finally tunes in. For dance music in the United States, that moment was somewhere a…"
     },
     {
       "id": "03969fc96245656d47e6f8555fed39f10394a96f",
