@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T06:36:55.995Z",
+  "generatedAt": "2026-05-12T09:38:35.813Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5fa2f5957a77333cc671af4f2c0b87a6ce087f75",
+      "title": "A Tiempo de Nada",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/monte-ventura-a-tiempo-de-nada/",
+      "published": "2026-05-12T07:23:46.000Z",
+      "publishedTs": 1778570626000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Monte-Ventura-A-Tiempo-de-Nada.jpg",
+      "excerpt": "Parapetarse tras la ironía o el distanciamiento ya no mola. Ese tiempo pasó y lo que se lleva ahora es... La entrada A Tiempo de Nada se publicó primero en MondoSonoro ."
+    },
     {
       "id": "28df9f072380e59038a284bf03c24fdcd2ab6621",
       "title": "Presence",
@@ -322,20 +336,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Basement-WIRED.jpg",
       "excerpt": "Siempre que los británicos Basement se han permitido desaparecer del radar, y eso ha pasado al menos un par de... La entrada WIRED se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "d5c68f4a9b1ae304b048a4496f1f2033c5d5138f",
-      "title": "Kehlani",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kehlani-disco/",
-      "published": "2026-05-08T08:25:40.000Z",
-      "publishedTs": 1778228740000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kehlani-disco.jpg",
-      "excerpt": "“You’re about to hear a heart that’s been stretched, healed and reborn”, expone Kehlani nada más iniciar su esperado álbum... La entrada Kehlani se publicó primero en MondoSonoro ."
     },
     {
       "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
