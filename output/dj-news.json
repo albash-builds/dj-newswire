@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T12:03:23.723Z",
-  "total": 90,
+  "generatedAt": "2026-05-13T15:42:01.756Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,15 +18,32 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "01f8af7971e113a312c45ee4b67a69daf2a6ea7e",
+      "title": "LDN East Announce 4th Anniversary Summer Programme",
+      "link": "https://www.decodedmagazine.com/ldn-east-announce-4th-anniversary-summer-programme/",
+      "published": "2026-05-13T12:52:55.000Z",
+      "publishedTs": 1778676775000,
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "Festivals",
+        "UK",
+        "Disco",
+        "East London",
+        "Funktion-One",
+        "Hip Hop",
+        "House Music",
+        "Rave",
+        "RnB",
+        "Techno",
+        "Void"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Sammy-Virji-x-Skepta-%E2%80%93-LDN-East-%E2%80%93-%40joshuahiatt-104-of-109.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "East London’s defining open-air venue LDN East marks its 4th anniversary this summer with its biggest programme to date &#8211; a season-long run of parties running from May to July that reflects the venue’s inclusive approach to club cu…"
+    },
     {
       "id": "1c6531d82f05f6333ea1874ca1ac03ba56cfe155",
       "title": "In Spite Of Everything",
@@ -70,6 +87,49 @@
       "excerpt": "Los integrantes de Cervatana no esconden su objectivo de convertir su nuevo proyecto en referente local y europeo de ese... La entrada Cervatana se publicó primero en MondoSonoro ."
     },
     {
+      "id": "09bb67981a16f4af5d7ac0724845395b5a6f097f",
+      "title": "MUTEK Montréal reveals final music program, new additions for its 27th edition this August",
+      "link": "https://www.decodedmagazine.com/mutek-montreal-reveals-final-music-program-new-additions-for-its-27th-edition-this-august/",
+      "published": "2026-05-13T05:11:22.000Z",
+      "publishedTs": 1778649082000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Festivals",
+        "North America and Canada",
+        "Canada",
+        "Electronica",
+        "House Music",
+        "Montreal",
+        "Music Industry",
+        "Mutek",
+        "Progressive House",
+        "Quebec",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mutek-2026-line-up.png?resize=810%2C456&ssl=1",
+      "excerpt": "The International Festival of Digital Creativity and Electronic Music MUTEK has revealed the artists confirmed for its 27th edition, taking place August 25–30, 2026 in Montréal. Bringing together pioneers of electronic music, leading fig…"
+    },
+    {
+      "id": "24f0a6c39ddb1985f4ea733960e9b1af0a03747c",
+      "title": "DJ Seinfeld returns with his third studio album",
+      "link": "https://www.decodedmagazine.com/dj-seinfeld-returns-with-his-third-studio-album/",
+      "published": "2026-05-13T03:16:54.000Z",
+      "publishedTs": 1778642214000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "DJ Seinfeld",
+        "Electronica",
+        "House Music",
+        "Ninja Tunes",
+        "UK Garage"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/DJ-Seinfeld-scaled.jpg",
+      "excerpt": "DJSeinfeld returns with his third studio album, out 5thJune on NinjaTune. ‘If This Is It’ is a 12-track exploration of letting go, embracing the present, and turning “what ifs” into acceptance. “ ‘If This Is It’ is about reflecting on th…"
+    },
+    {
       "id": "d99897f59b8d01d1095f4cf62b929077db5ad5a0",
       "title": "Tot escrit",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/tot-escrit/",
@@ -82,6 +142,72 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/TIEMEI-Tot-escrit.jpg",
       "excerpt": "No he tenido la oportunidad esta vez de sentarme con ellos en una cuevecilla musiquera de la Vila de Gràcia... La entrada Tot escrit se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
+      "title": "Submit your Mix of the Month DJ Competition entry",
+      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
+      "published": "2026-05-12T10:29:01.000Z",
+      "publishedTs": 1778581741000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "breaks",
+        "DJ Competition",
+        "DnB",
+        "dub techno",
+        "House Music",
+        "Melodic Techno",
+        "Progressive House",
+        "Techno",
+        "Trip Hop"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
+      "excerpt": "ENTRIES CLOSE ON 20 MAY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlisted…"
+    },
+    {
+      "id": "c09a6a7dab24b1c352a26f8206a6c0dc97afc21a",
+      "title": "Richie Hawtin headline show at 18th-century royal palace in Palermo",
+      "link": "https://www.decodedmagazine.com/richie-hawtin-headline-show-at-18th-century-royal-palace-in-palermo/",
+      "published": "2026-05-12T10:14:30.000Z",
+      "publishedTs": 1778580870000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Festivals",
+        "Festival",
+        "Italy",
+        "Richie Hawtin",
+        "Sicily",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/unnamed-23.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Aura&#8217;s debut edition sold out beside the ancient Doric temple at Segesta, and now the series moves to Palermo. On 1st June, Richie Hawtin headlines at Palazzina Cinese, an 18th-century royal residence built as a retreat for King Fe…"
+    },
+    {
+      "id": "6d22dfc0afe32019c6390fb4312c3086b222b2ce",
+      "title": "Paul van Dyk Launches VANDIT Next Generation Mentorship Programme",
+      "link": "https://www.decodedmagazine.com/paul-van-dyk-launches-vandit-next-generation-mentorship-programme/",
+      "published": "2026-05-12T10:07:45.000Z",
+      "publishedTs": 1778580465000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "News",
+        "chill out",
+        "House Music",
+        "music production",
+        "Paul Van Dyk",
+        "Progressive House",
+        "Techno",
+        "Trance",
+        "Vandit"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/paul-van-dyk-studio.jpg",
+      "excerpt": "Paul van Dyk and the VANDIT Label Group announce VANDIT Next Generation, a talent scouting and mentorship initiative designed to discover, support, and elevate the next generation of global electronic music producers. The programme is se…"
     },
     {
       "id": "5fa2f5957a77333cc671af4f2c0b87a6ce087f75",
@@ -166,6 +292,318 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/chucho-tejido-de-felicidad-reedicion.jpg",
       "excerpt": "Esta era dorada de las reediciones en vinilo nos ha deparado ya la alegría de reencontrarnos con la mitad de... La entrada Tejido de felicidad (Reedición) se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
+      "title": "Mahorka just released Hermetic by Toni Dimitrov + Blanket Swimming",
+      "link": "https://www.decodedmagazine.com/mahorka-just-released-hermetic-by-toni-dimitrov-blanket-swimming/",
+      "published": "2026-05-11T04:06:22.000Z",
+      "publishedTs": 1778472382000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "ambient",
+        "chill out",
+        "Mahorka"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a0742680098_10.jpg",
+      "excerpt": "Hermetic by Toni Dimitrov + Blanket Swimming This new tape release on Mahorka brings together ambient artists Toni Dimitrov and Blanket Swimming, both with longstanding history with the label, in a restrained yet deeply textured collabor…"
+    },
+    {
+      "id": "b6b5ce8df27a3189f5a5988f2b87062a56c5bd3e",
+      "title": "Ian Pilosa releases Guiyang [mmrgy]",
+      "link": "https://www.decodedmagazine.com/ian-pilosa-releases-guiyang-mmrgy/",
+      "published": "2026-05-11T04:01:02.000Z",
+      "publishedTs": 1778472062000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Hamburg",
+        "Ian Pilosa",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a3196671034_10.jpg",
+      "excerpt": "Guiyang [mmrgy] by Ian Pilosa Hamburg-based producer Ian Pilosa approaches techno through an exploratory lens. On Guiyang, that sensibility comes into especially sharp focus: the title track was shaped in isolation during an unexpected a…"
+    },
+    {
+      "id": "d62835710418f8fc301ece8993e82a5f1f400906",
+      "title": "BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall",
+      "link": "https://www.decodedmagazine.com/bicep-live-returns-for-a-special-show-at-londons-iconic-royal-albert-hall/",
+      "published": "2026-05-08T13:59:12.000Z",
+      "publishedTs": 1778248752000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Bicep",
+        "breaks",
+        "Electronica",
+        "London",
+        "Ninja Tunes",
+        "Royal Albert Hall"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/bicep-royal-albert-hall.png?resize=769%2C1024&ssl=1",
+      "excerpt": "Following a three-year hiatus, BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall, on Thursday 26th November 2026. For fans who have been clamouring for the duo’s return while they’ve been locked away in the studi…"
+    },
+    {
+      "id": "51005ccad8ef9bfe2cd4da4c58e49b6c50155422",
+      "title": "Five on Friday with DJ Oolong",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-dj-oolong/",
+      "published": "2026-05-08T13:16:43.000Z",
+      "publishedTs": 1778246203000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Capeesh",
+        "DJ Ooolong",
+        "Electronica",
+        "Five on Friday",
+        "House Music",
+        "London",
+        "Techno",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/oolong-scaled.jpg",
+      "excerpt": "This Friday, we&#8217;re over the moon to welcome one of the leading hands behind The Capeesh club nights, Mr. Harry Abraham, better known as DJ Oolong . Alongside Hamish, Harry co-runs Capeesh, a party series hosted across intimate venu…"
+    },
+    {
+      "id": "580fa966bd0d9d5708ec3423fb697183263ca544",
+      "title": "Bristol trio Elder Island released their third studio album Hello Baby, Okay",
+      "link": "https://www.decodedmagazine.com/bristol-trio-elder-island-released-their-third-studio-album-hello-baby-okay/",
+      "published": "2026-05-08T11:54:10.000Z",
+      "publishedTs": 1778241250000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Bristol",
+        "Elder Island",
+        "Electronica",
+        "House Music",
+        "Indie Electronica",
+        "UK"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Elder-Island-scaled.jpg",
+      "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
+    },
+    {
+      "id": "97d90097d4f34ecb49e0b17991cb38bc87a2142d",
+      "title": "Native Instruments has been bought by InMusic",
+      "link": "https://www.decodedmagazine.com/native-instruments-has-been-bought-by-inmusic/",
+      "published": "2026-05-08T11:28:49.000Z",
+      "publishedTs": 1778239729000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Akai",
+        "Denon",
+        "inMusic",
+        "M-Audio",
+        "Moog",
+        "music production",
+        "Native Instruments",
+        "Numark",
+        "Rane"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
+      "excerpt": "&nbsp; inMusic &nbsp;and&nbsp; Native Instruments &nbsp;today announced that inMusic has signed a definitive agreement to acquire Native Instruments, the Berlin-based music technology company behind some of the most widely used creative …"
+    },
+    {
+      "id": "6fce09798b6a9e49c5bcffcf18834145213338fc",
+      "title": "Book of the Month – A Disco Pogo Tribute to Andrew Weatherhall",
+      "link": "https://www.decodedmagazine.com/book-of-the-month-a-disco-pogo-tribute-to-andrew-weatherhall/",
+      "published": "2026-05-08T10:55:39.000Z",
+      "publishedTs": 1778237739000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Andrew Weatherall",
+        "Book of the month",
+        "Disco Pogo",
+        "Electronica",
+        "Jockey Slut",
+        "Music Industry"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_NO_DROPSHADOW.png?resize=810%2C810&ssl=1",
+      "excerpt": "&#8216;A Disco Pogo Tribute To Andrew Weatherall&#8217; is the fourth in the hardback Tribute series — following Daft Punk, Aphex Twin and LCD Soundsystem — and the long-overdue successor to the now hard-to-find A Jockey Slut Tribute To …"
+    },
+    {
+      "id": "9aa48e6f6c778618670e45bbfcf19111def06b71",
+      "title": "Tresor Records just released Together You Gather All Power Applied Worldwide by TYGAPAW",
+      "link": "https://www.decodedmagazine.com/tresor-records-just-released-together-you-gather-all-power-applied-worldwide-by-tygapaw/",
+      "published": "2026-05-08T10:35:44.000Z",
+      "publishedTs": 1778236544000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Album",
+        "Techno",
+        "Tresor",
+        "TYGAPAW"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2069530638_10.jpg",
+      "excerpt": "Together You Gather All Power Applied Worldwide by TYGAPAW May 2026 marks the arrival of TYGAPAW (aka Dion McKenzie)’s first full-length album on Tresor Records, entitled Together You Gather All Power Applied Worldwide. An acronym of its…"
+    },
+    {
+      "id": "da1202fcd8a895452c42b4f1aada0f2d01a1c84f",
+      "title": "Meet our April 2026 Mix of the Month Winner – Toxic Shame Squadron",
+      "link": "https://www.decodedmagazine.com/meet-our-april-2026-mix-of-the-month-winner-toxic-shame-squadron/",
+      "published": "2026-05-08T09:38:46.000Z",
+      "publishedTs": 1778233126000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Mixes",
+        "Electronica",
+        "House Music",
+        "Mix of the Month competition",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TSS-promo-pic-landscape-scaled.jpeg",
+      "excerpt": "Decoded Magazine · Mix of the Month Winner April 2026 &#8211; Toxic Shame Squadron Each month at Decoded Magazine, our Mix of the Month competition throws up plenty of surprises, but few entrants arrive with quite the same delightfully a…"
+    },
+    {
+      "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
+      "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
+      "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
+      "published": "2026-05-06T09:32:12.000Z",
+      "publishedTs": 1778059932000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "AEFM",
+        "Mental Health",
+        "Mental Health In Electronic Music",
+        "Music Industry",
+        "Paul Thomas"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/mental-health-music-industry-decoded-magazine.jpg",
+      "excerpt": "Last night I was sitting in my Mum&#8217;s lounge in Adelaide, out here visiting family, watching an interesting documentary on mental health in Australia. The credits rolled and I just sat in the dark for a while, thinking. Not about th…"
+    },
+    {
+      "id": "45b166502e0f1bd33127c4eea5bd17bf78b9c0cf",
+      "title": "Ableton Live 12.4 is now available for download",
+      "link": "https://www.decodedmagazine.com/ableton-live-12-4-is-now-available-for-download/",
+      "published": "2026-05-05T09:09:49.000Z",
+      "publishedTs": 1777972189000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Tech News",
+        "Ableton Live",
+        "DAW",
+        "Move",
+        "music production",
+        "Note",
+        "Push"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/03_12.4-Link_Audio-Dark.png?resize=810%2C505&ssl=1",
+      "excerpt": "Ableton Live 12.4 is now available for download. Free for all Live 12 users, this update introduces new ways to create and collaborate in Live , plus new features and improvements for Push , Move and Note . Link Audio Live 12.4 introduce…"
+    },
+    {
+      "id": "199e49a4d7293efcec8b28774ae9b62a62c50471",
+      "title": "Felipe Gordon is back on Shall Not Fade with his new album Tezeta",
+      "link": "https://www.decodedmagazine.com/felipe-gordon-is-back-on-shall-not-fade-with-his-new-album-tezeta/",
+      "published": "2026-05-05T08:24:12.000Z",
+      "publishedTs": 1777969452000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Electronica",
+        "Felipe Gordon",
+        "House Music",
+        "Indie Electronica",
+        "Shall Not Fade"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fillipe-gordon.jpg",
+      "excerpt": "Tezeta by Felipe Gordon Felipe Gordon returns to Shall Not Fade with Tezeta, an album that arrives with the quiet authority you&#8217;d expect from an artist who has become a fixture on the label. Since A Landscape Onomatopeya in 2022, a…"
+    },
+    {
+      "id": "1183893f611eb2ac9dfb0cef7024a990dd63d5d6",
+      "title": "Review – Neither A9 Nor V10: The Curious Case of the AlphaTheta VM-5",
+      "link": "https://www.decodedmagazine.com/review-neither-a9-nor-v10-the-curious-case-of-the-alphatheta-vm-5/",
+      "published": "2026-05-05T06:06:32.000Z",
+      "publishedTs": 1777961192000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Tech Reviews",
+        "3 Channel Mixer",
+        "AlphaTheta VM-5",
+        "DJ Mixer",
+        "EQ",
+        "Mixer",
+        "Pioneer DJ"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/djmv5-product-specification-image-01.webp?resize=810%2C810&ssl=1",
+      "excerpt": "There’s something about the AlphaTheta VM-5 that feels slightly unresolved, or undercooked. At first glance, it looks like a thoughtful attempt to bridge two worlds: the speed and familiarity of the Pioneer DJ DJM-A9, and the broader, mo…"
+    },
+    {
+      "id": "d87011b6b19ec855445104f06d7865eae9f87fac",
+      "title": "Embassy Studios Recording and Mixing Complex Opens in the Heart of Manhattan",
+      "link": "https://www.decodedmagazine.com/embassy-studios-recording-and-mixing-complex-opens-in-the-heart-of-manhattan/",
+      "published": "2026-05-05T01:34:16.000Z",
+      "publishedTs": 1777944856000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "North America and Canada",
+        "Manhatten",
+        "music production",
+        "Music studio",
+        "New York"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/StudioA1FromTheLiveRoom.webp?resize=810%2C539&ssl=1",
+      "excerpt": "Embassy Studios , a new professional recording facility located in Midtown Manhattan’s historic Engineering Building, has officially opened, introducing a multi-room studio environment designed around hybrid production workflows, network…"
+    },
+    {
+      "id": "d12b9844dc88087223a09182a8aea24ac371417f",
+      "title": "SHEE gears up to release debut EP 'Rosebud'",
+      "link": "https://mixmag.net/read/shee-gears-up-to-release-debut-ep-rosebud-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHEE-11.png?fit=cover&width=660&s=JcCNLiB525CAhpyuJ57XzUH1tcY5CidLFbZLanYKo_s",
+      "excerpt": "The new record features collaborations with legendary producers Karma Kid and A-Trak Continue reading..."
+    },
+    {
+      "id": "ae790bcbe09a9aa34d6a2eb6449bde6eb1d67bc7",
+      "title": "The Mix 106: Nene H",
+      "link": "https://mixmag.net/feature/the-mix-106-nene-h-second-skin-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_NeneH2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=oglJjo9WY3lTkbYv3WFOwXu_rR64y_v0w7HkbRbCuIU",
+      "excerpt": "Nene H shares their version of a house music set, recorded live at UNFOLD, and speaks to Sophie McNulty about the significant life changes that are explored on liberated new album &#039;Second Skin&#039; Continue reading..."
+    },
+    {
+      "id": "8f93b9ad50455f277d8e72aa9849bf53f99e65ee",
+      "title": "Phonox fundraiser party set up to support Lenzman amidst cancer battle",
+      "link": "https://mixmag.net/read/phonox-fundraiser-party-support-lenzman-cancer-battle-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lenzman-health.jpg?fit=cover&width=660&s=UGfIsmiLiP2LM-YLm1-zthTKInfSp46bfVmbUAIo_h8",
+      "excerpt": "The Metalheadz artist recently stopped treatment for stage three terminal cancer Continue reading..."
     },
     {
       "id": "40e2ac577e970a02fcbe275bbe5af93de555b8d5",
@@ -1090,42 +1528,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york.jpg?fit=cover&width=660&s=U3wMcXzszooy2hoMLyHp__VvSKX93VLguWLVIf8F69o",
       "excerpt": "Pacha New York have vowed to make things right after the beleaguered Brooklyn Mirage faced safety and financial issues Continue reading..."
-    },
-    {
-      "id": "dec9d000d8ea49041747210333480aa4a51222bc",
-      "title": "Westminster resident pleads guilty to falsifying statements in attempt to shutter Heaven",
-      "link": "https://mixmag.net/read/resident-pleads-guilty-using-falsified-ai-statements-attempt-shutter-heaven-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Heaven.png?fit=cover&width=660&s=ZL4vSXeLCCGzDk_rpdKjsvoKGf4GQfCsWormu166mOE",
-      "excerpt": "Aldo d’Aponte, who is the CEO of a letting and estate agent firm, has been given a 12-month conditional discharge and was ordered to pay just £26 in damages to the nightclub Continue reading..."
-    },
-    {
-      "id": "2162f7fd06d8b2a99b8c811f746e5fa4b4e90787",
-      "title": "Moby to donate profits from Coachella performance to animal rights organisations",
-      "link": "https://mixmag.net/read/moby-donate-all-coachella-profits-animal-rights-organisations-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/moby-credit-k-chaldek.jpg?fit=cover&width=660&s=rEW3twyNJ0gVgSKJr4JxFgCSeBsMUMnCqf3bI7IfgGo",
-      "excerpt": "He says that he hopes it will “draw attention to” and financially support leading charities Continue reading..."
-    },
-    {
-      "id": "b8bfa8d469a180692cc8a3142341d6ed3db65220",
-      "title": "Elton John and The Blessed Madonna in conversation",
-      "link": "https://mixmag.net/feature/elton-john-and-the-blessed-madonna-in-conversation",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Elton-Blessed-Madonna.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=3LSNbOVMBHWBB8h3To1xpKJQdDAy7jgwC_kb3cJXxes",
-      "excerpt": "As he gears up for the release of his first dance music remix album, which will land via Positiva for Record Store Day 2026, Elton John and The Blessed Madonna discuss their love of record stores, Studio 54 and the dancefloor moments tha…"
     }
   ]
 }
