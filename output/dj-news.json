@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T06:47:09.598Z",
+  "generatedAt": "2026-05-13T09:43:56.488Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1c6531d82f05f6333ea1874ca1ac03ba56cfe155",
+      "title": "In Spite Of Everything",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/in-spite-of-everything/",
+      "published": "2026-05-13T09:21:34.000Z",
+      "publishedTs": 1778664094000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Boo-Radleys-In-Spite-Of-Everything.jpg",
+      "excerpt": "Pues sí, hay retornos que no necesitan más justificación que los resultados de sus nuevos lanzamientos discográficos y de su... La entrada In Spite Of Everything se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9dbcd5586d210bff3a92f0d6aa3d7b1ed74d0177",
+      "title": "LP4",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/american-football-lp-cuatro/",
+      "published": "2026-05-13T09:04:54.000Z",
+      "publishedTs": 1778663094000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/American-Football-LPcuatro.jpg",
+      "excerpt": "Se cumple una década de la reaparición de American Football con “LP2” (16), la ansiada continuación de un disco debut... La entrada LP4 se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ce64515a81dcf1352f8f0080ca98411c7dc9c434",
+      "title": "Cervatana",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/cervatana/",
+      "published": "2026-05-13T08:06:42.000Z",
+      "publishedTs": 1778659602000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/cervatana-disco.jpg",
+      "excerpt": "Los integrantes de Cervatana no esconden su objectivo de convertir su nuevo proyecto en referente local y europeo de ese... La entrada Cervatana se publicó primero en MondoSonoro ."
+    },
     {
       "id": "09bb67981a16f4af5d7ac0724845395b5a6f097f",
       "title": "MUTEK Montréal reveals final music program, new additions for its 27th edition this August",
@@ -168,7 +210,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Hypersense-Presence.jpg",
+      "image": "",
       "excerpt": "Los músicos evolucionan y el enfoque de algunos de ellos también. Esto es lo primero que se desprende tras escudriñar... La entrada Presence se publicó primero en MondoSonoro ."
     },
     {
@@ -182,7 +224,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ziggy-Marley-Brightside.jpg",
+      "image": "",
       "excerpt": "El primero de los hijos de Marley en asomar a la exposición mediática hace más de treinta y cinco años... La entrada Brightside se publicó primero en MondoSonoro ."
     },
     {
@@ -210,7 +252,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Enter-Shikari-Lose-Your-Self.jpg",
+      "image": "",
       "excerpt": "A lo largo de dos décadas, Enter Shikari han construido una identidad sonora en la que la electrónica convive con... La entrada Lose Your Self se publicó primero en MondoSonoro ."
     },
     {
@@ -224,22 +266,8 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/chucho-tejido-de-felicidad-reedicion.jpg",
+      "image": "",
       "excerpt": "Esta era dorada de las reediciones en vinilo nos ha deparado ya la alegría de reencontrarnos con la mitad de... La entrada Tejido de felicidad (Reedición) se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "38ec5bc1a1dbbdf9e64eece43ac6dc4b57af0bf3",
-      "title": "Buenas prácticas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mil-cordobas-buenas-practicas/",
-      "published": "2026-05-11T06:18:42.000Z",
-      "publishedTs": 1778480322000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/mil-cordobas.jpg",
-      "excerpt": "Resulta reconfortante comprobar que, en un panorama musical a menudo saturado de capas y efectos, todavía existen bandas capaces de... La entrada Buenas prácticas se publicó primero en MondoSonoro ."
     },
     {
       "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
@@ -274,34 +302,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a3196671034_10.jpg",
       "excerpt": "Guiyang [mmrgy] by Ian Pilosa Hamburg-based producer Ian Pilosa approaches techno through an exploratory lens. On Guiyang, that sensibility comes into especially sharp focus: the title track was shaped in isolation during an unexpected a…"
-    },
-    {
-      "id": "fc7f908f263481b2b787437ede78a72f01342e7e",
-      "title": "Midnight Sun: Girls Trip",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/zara-larsson-midnight-sun-girls-trip/",
-      "published": "2026-05-10T18:01:51.000Z",
-      "publishedTs": 1778436111000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Zara-Larsson-Midnight-Sun-Girls-Trip.jpg",
-      "excerpt": "Decía en la crítica de “Midnight Sun” para esta casa que Zara Larsson había logrado su primer gran disco, después... La entrada Midnight Sun: Girls Trip se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "37f1d247826d34c9194bf6a14dddc92f39b80e8c",
-      "title": "Look For Your Mind!",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-lemon-twigs-look-for-your-mind/",
-      "published": "2026-05-10T17:01:55.000Z",
-      "publishedTs": 1778432515000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/The-lemon-twigs-Look-For-Your-Mind.jpg",
-      "excerpt": "Los Lemon Twigs, o lo que es lo mismo los hermanos Brian y Michael D’Addario, vuelven con su sexto disco,... La entrada Look For Your Mind! se publicó primero en MondoSonoro ."
     },
     {
       "id": "d62835710418f8fc301ece8993e82a5f1f400906",
