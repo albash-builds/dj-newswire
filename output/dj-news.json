@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T11:52:24.267Z",
+  "generatedAt": "2026-05-14T14:10:38.337Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,29 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "a7e05adf6fab3734b4b865406b3729bb8b963e2e",
+      "title": "Technics launch Toki-O Nights, UK listening bar series",
+      "link": "https://www.decodedmagazine.com/technics-launch-toki-o-nights-a-new-uk-listening-bar-series/",
+      "published": "2026-05-14T12:49:51.000Z",
+      "publishedTs": 1778762991000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "chill out",
+        "Electronica",
+        "House Music",
+        "London",
+        "Manchester",
+        "Suntory",
+        "technics",
+        "Toki-O Nights",
+        "Whisky"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mitsu-34-scaled.jpg",
+      "excerpt": "Suntory Toki Whisky , together with Technics , is set to bring a new ritual to UK nightlife with the launch of Toki-O Nights, a new series of free and ticketed music-led events inspired by Tokyo’s iconic kissaten and listening bar cultur…"
+    },
     {
       "id": "dfdf62bc675edfc7f3cf2d3a24e9b559390d9c29",
       "title": "Reseñamos 'O Cuarto', el nuevo álbum de Tanxugueiras",
@@ -551,23 +574,28 @@
       "excerpt": "Ableton Live 12.4 is now available for download. Free for all Live 12 users, this update introduces new ways to create and collaborate in Live , plus new features and improvements for Push , Move and Note . Link Audio Live 12.4 introduce…"
     },
     {
-      "id": "199e49a4d7293efcec8b28774ae9b62a62c50471",
-      "title": "Felipe Gordon is back on Shall Not Fade with his new album Tezeta",
-      "link": "https://www.decodedmagazine.com/felipe-gordon-is-back-on-shall-not-fade-with-his-new-album-tezeta/",
-      "published": "2026-05-05T08:24:12.000Z",
-      "publishedTs": 1777969452000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Electronica",
-        "Felipe Gordon",
-        "House Music",
-        "Indie Electronica",
-        "Shall Not Fade"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fillipe-gordon.jpg",
-      "excerpt": "Tezeta by Felipe Gordon Felipe Gordon returns to Shall Not Fade with Tezeta, an album that arrives with the quiet authority you&#8217;d expect from an artist who has become a fixture on the label. Since A Landscape Onomatopeya in 2022, a…"
+      "id": "d2ee5e375a953038d92dc99d7ab250c790f63f22",
+      "title": "Police shut down 100-strong illegal rave in abandoned East London Argos",
+      "link": "https://mixmag.net/read/police-shut-down-100-strong-illegal-rave-in-abandoned-east-london-argos-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-rave-argos.png?fit=cover&width=660&s=e0QVNYLS8YZooB95fg0MFdpxKZK2wDMXLSETmiS6yK0",
+      "excerpt": "The unlicensed event was shut down at just before midday on Sunday, after reportedly raging on &quot;overnight&quot; Continue reading..."
+    },
+    {
+      "id": "3b10467937f456452d42f36487e70d91c1a6cba5",
+      "title": "Rave documentary 'Free Party: A Folk History' to get streaming release",
+      "link": "https://mixmag.net/read/rave-documentary-free-party-a-folk-history-to-get-streaming-release-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Free-Party.jpg?fit=cover&width=660&s=kyRnFndqEux2t8h62jsobM4x62vxrisSd_HcuGe2Eqk",
+      "excerpt": "The film explores the origins of the UK&#039;s free party movement in the &#039;90s and includes interviews with Spiral Tribe, DiY Sound System, Bedlam and more Continue reading..."
     },
     {
       "id": "d12b9844dc88087223a09182a8aea24ac371417f",
@@ -1504,30 +1532,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mint-xl-leeds.jpg?fit=cover&width=660&s=7Taga8XXZP5cNsyeQjO0iehYiy8YdjHE76xW43gtTKc",
       "excerpt": "Named Mint XL, the venue is set to open from September with a “strict” no-photo policy Continue reading..."
-    },
-    {
-      "id": "7d3c107c2c00930afa8dd2a2da60fa2d2ca65859",
-      "title": "New music on our radar this week: Oppidan, DJ Seinfeld, TOMORA",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-oppidan-dj-seinfeld-tomora-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Releases-1.png?fit=cover&width=660&s=PaSuZ_sIXdwPEHIMPOtV7FNxQrkPuF7cxBOEVeQ-a_0",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "dc539fa8963bf65a736bc79648b79eb68c7ba01c",
-      "title": "Festival line-ups you might have missed: YARD Festival, Sub Club Southside Weekender, Seasoning",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-6-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/YARD.png?fit=cover&width=660&s=_mU7OdkMAvL-AJPfAH-U02F-URIxyFHNe6FtkaZvy3s",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
