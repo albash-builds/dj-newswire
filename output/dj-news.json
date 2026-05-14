@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T14:10:38.337Z",
+  "generatedAt": "2026-05-14T17:00:43.002Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "59985a953f05d8d575532d86db949f368ce00439",
+      "title": "Sudden Deaths (Revisited)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jon-iturbe-and-the-radio-gangsters-sudden-deaths/",
+      "published": "2026-05-14T16:29:55.000Z",
+      "publishedTs": 1778776195000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Jon-Iturbe-And-The-Radio-Gangsters.jpg",
+      "excerpt": "La historia del rock and roll se sostiene, también, sobre su propio relato mitológico, un ingrediente que, más allá de... La entrada Sudden Deaths (Revisited) se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a7e05adf6fab3734b4b865406b3729bb8b963e2e",
       "title": "Technics launch Toki-O Nights, UK listening bar series",
@@ -341,20 +355,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Siloe-Terrorismo-Emocional.jpg",
       "excerpt": "Lo nuevo de Siloé llega con una sensación un tanto extraña. La de estar escuchando un disco recién publicado que,... La entrada Terrorismo Emocional se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6fe3838764e225f298714c64e48e0631fd8150b5",
-      "title": "Lose Your Self",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/enter-shikari-lose-your-self/",
-      "published": "2026-05-11T07:27:05.000Z",
-      "publishedTs": 1778484425000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Enter-Shikari-Lose-Your-Self.jpg",
-      "excerpt": "A lo largo de dos décadas, Enter Shikari han construido una identidad sonora en la que la electrónica convive con... La entrada Lose Your Self se publicó primero en MondoSonoro ."
     },
     {
       "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
