@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T03:58:22.478Z",
+  "generatedAt": "2026-05-14T06:49:55.662Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,60 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "dfdf62bc675edfc7f3cf2d3a24e9b559390d9c29",
+      "title": "O Cuarto",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tanxugueiras-o-cuarto/",
+      "published": "2026-05-14T05:59:47.000Z",
+      "publishedTs": 1778738387000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Tanxugueiras-O-Cuarto.jpg",
+      "excerpt": "Tanxugueiras ya no tienen mucho que demostrar, y esa libertad que las mantiene ajenas a presiones, junto con las tablas... La entrada O Cuarto se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ebed6d5cda57bcf9a8e3140e3432713cd60914fb",
+      "title": "From Funktion-One To Gold Plated: A Working Class Ravers’ Tour Of Ultra High-End Audio",
+      "link": "https://www.decodedmagazine.com/from-funktion-one-to-gold-plated-a-working-class-ravers-tour-of-ultra-high-end-audio/",
+      "published": "2026-05-14T05:26:31.000Z",
+      "publishedTs": 1778736391000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/683741d1be498-lg.webp?resize=810%2C567&ssl=1",
+      "excerpt": "A field guide to the very top end of hi-fi, where the cabinets weigh more than your car, the cones are cut from diamonds, and the price tags would buy you a small Greek island. Strap in. It is shear madness that lives at the very top end…"
+    },
+    {
+      "id": "578925b9ff453840abbc73787f0a77970c2e349a",
+      "title": "Throwback Thursday: 3 A.M. Eternal, Dead Sheep and a Million Quid, The KLF’s The White Room Revisited",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-3-a-m-eternal-dead-sheep-and-a-million-quid-the-klfs-the-white-room-revisited/",
+      "published": "2026-05-14T04:16:14.000Z",
+      "publishedTs": 1778732174000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "Acid House",
+        "Bill Drummond",
+        "Breakbeat",
+        "BRIT Awards",
+        "Electronica",
+        "Jimmy Cauty",
+        "Rave",
+        "The KLF",
+        "The White Room",
+        "Throwback Thursday"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/KLF.webp?resize=704%2C1024&ssl=1",
+      "excerpt": "There are records you grow into, and there are records that arrive when you are ready for them. And then there is The KLF&#8217;s The White Room . It landed in March 1991 and, much in the way that modern EDM works for kids today, it was …"
+    },
     {
       "id": "01f8af7971e113a312c45ee4b67a69daf2a6ea7e",
       "title": "LDN East Announce 4th Anniversary Summer Programme",
@@ -253,7 +307,7 @@
     },
     {
       "id": "1cbe0565448c8900cd9213b269eaef55450c8a84",
-      "title": "Crítica de 'Terrorismo Emocional', el nuevo álbum de Siloé",
+      "title": "Terrorismo Emocional",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/siloe-terrorismo-emocional/",
       "published": "2026-05-11T16:39:28.000Z",
       "publishedTs": 1778517568000,
@@ -263,7 +317,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Siloe-Terrorismo-Emocional.jpg",
-      "excerpt": "Lo nuevo de Siloé llega con una sensación un tanto extraña. La de estar escuchando un disco recién publicado que,... La entrada Crítica de &#039;Terrorismo Emocional&#039;, el nuevo álbum de Siloé se publicó primero en MondoSonoro ."
+      "excerpt": "Lo nuevo de Siloé llega con una sensación un tanto extraña. La de estar escuchando un disco recién publicado que,... La entrada Terrorismo Emocional se publicó primero en MondoSonoro ."
     },
     {
       "id": "6fe3838764e225f298714c64e48e0631fd8150b5",
@@ -278,20 +332,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Enter-Shikari-Lose-Your-Self.jpg",
       "excerpt": "A lo largo de dos décadas, Enter Shikari han construido una identidad sonora en la que la electrónica convive con... La entrada Lose Your Self se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "91250225ba9488180b14f1732583a068ccd48f4e",
-      "title": "Tejido de felicidad (Reedición)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/chucho-tejido-de-felicidad-reedicion/",
-      "published": "2026-05-11T06:55:51.000Z",
-      "publishedTs": 1778482551000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/chucho-tejido-de-felicidad-reedicion.jpg",
-      "excerpt": "Esta era dorada de las reediciones en vinilo nos ha deparado ya la alegría de reencontrarnos con la mitad de... La entrada Tejido de felicidad (Reedición) se publicó primero en MondoSonoro ."
     },
     {
       "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
@@ -528,46 +568,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fillipe-gordon.jpg",
       "excerpt": "Tezeta by Felipe Gordon Felipe Gordon returns to Shall Not Fade with Tezeta, an album that arrives with the quiet authority you&#8217;d expect from an artist who has become a fixture on the label. Since A Landscape Onomatopeya in 2022, a…"
-    },
-    {
-      "id": "1183893f611eb2ac9dfb0cef7024a990dd63d5d6",
-      "title": "Review – Neither A9 Nor V10: The Curious Case of the AlphaTheta VM-5",
-      "link": "https://www.decodedmagazine.com/review-neither-a9-nor-v10-the-curious-case-of-the-alphatheta-vm-5/",
-      "published": "2026-05-05T06:06:32.000Z",
-      "publishedTs": 1777961192000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "3 Channel Mixer",
-        "AlphaTheta VM-5",
-        "DJ Mixer",
-        "EQ",
-        "Mixer",
-        "Pioneer DJ"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/djmv5-product-specification-image-01.webp?resize=810%2C810&ssl=1",
-      "excerpt": "There’s something about the AlphaTheta VM-5 that feels slightly unresolved, or undercooked. At first glance, it looks like a thoughtful attempt to bridge two worlds: the speed and familiarity of the Pioneer DJ DJM-A9, and the broader, mo…"
-    },
-    {
-      "id": "d87011b6b19ec855445104f06d7865eae9f87fac",
-      "title": "Embassy Studios Recording and Mixing Complex Opens in the Heart of Manhattan",
-      "link": "https://www.decodedmagazine.com/embassy-studios-recording-and-mixing-complex-opens-in-the-heart-of-manhattan/",
-      "published": "2026-05-05T01:34:16.000Z",
-      "publishedTs": 1777944856000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "North America and Canada",
-        "Manhatten",
-        "music production",
-        "Music studio",
-        "New York"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/StudioA1FromTheLiveRoom.webp?resize=810%2C539&ssl=1",
-      "excerpt": "Embassy Studios , a new professional recording facility located in Midtown Manhattan’s historic Engineering Building, has officially opened, introducing a multi-room studio environment designed around hybrid production workflows, network…"
     },
     {
       "id": "d12b9844dc88087223a09182a8aea24ac371417f",
@@ -1142,7 +1142,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_riria2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=skyGt34vuQLiMyrNFWfYEWmAZ-A_m7IkNoZ8LCPfddM",
       "excerpt": "The Tokyo-born DJ shares a full-throttle club mix paying homage to the UK bass music she&#039;s been influenced by since moving to London, and talks digging through strangers’ SoundCloud collections and helping producers&#039; tracks go …"
     },
     {
