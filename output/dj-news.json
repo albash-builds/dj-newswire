@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:52:34.897Z",
+  "generatedAt": "2026-05-15T15:12:29.798Z",
   "total": 110,
   "sources": [
     {
@@ -608,6 +608,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Free-Party.jpg?fit=cover&width=660&s=kyRnFndqEux2t8h62jsobM4x62vxrisSd_HcuGe2Eqk",
       "excerpt": "The film explores the origins of the UK&#039;s free party movement in the &#039;90s and includes interviews with Spiral Tribe, DiY Sound System, Bedlam and more Continue reading..."
+    },
+    {
+      "id": "2452899560db02387f3fa213940f30975e82bf06",
+      "title": "Tiësto awarded €14.5 million for \"incorrect\" US tax advice",
+      "link": "https://mixmag.net/read/ti%C3%ABsto-awarded-17-million-for-incorrect-us-tax-advice-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tiesto-1.png?fit=cover&width=660&s=dvhipWsBOD3C2LH2flMuU__vIcc_5dnDQAzmmv_JI9Q",
+      "excerpt": "An Amsterdam appeals court ruled that law firm Greenberg Traurig had issued &quot;faulty&quot; advice that led to the DJ being considered a US resident Continue reading..."
     },
     {
       "id": "d12b9844dc88087223a09182a8aea24ac371417f",
@@ -1520,18 +1532,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Annas-Archive.png?fit=cover&width=660&s=5nYvpawlsQXkkA2RChZ_DKVF0mBPz60xrTLlVKNYY9E",
       "excerpt": "Spotify claimed that &quot;99.6% of all music listened to by users on the platform&quot; was &quot;unlawfully scraped&quot; by the online activist group last year Continue reading..."
-    },
-    {
-      "id": "cbcf9312f86afd7d378615dc9870866c83769d1e",
-      "title": "Kraftwerk lose one of music's \"longest-running\" copyright cases",
-      "link": "https://mixmag.net/read/kraftwerk-lose-long-running-copyright-cases-moses-pelham-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kraftwerk_2026-04-20-130740_krzo.png?fit=cover&width=660&s=qF5EFBw-bcE_2HZw6OeFH54CBUl7xJQSPTEeNNM9p-0",
-      "excerpt": "An EU court ruled in favour of producer Moses Pelham, marking the end of Kraftwerk&#039;s 30-year dispute over a sample of &#039;Metall auf Metall&#039; Continue reading..."
     }
   ]
 }
