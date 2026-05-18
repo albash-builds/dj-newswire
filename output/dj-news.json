@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T03:58:17.222Z",
+  "generatedAt": "2026-05-18T08:10:24.671Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f2c38fc0314683156b8355dc2a48198dc6f156ec",
+      "title": "Australia’s Festivals Are Not Dying. They Are Being Asked to Pay for Their Own Survival.",
+      "link": "https://www.decodedmagazine.com/australias-festivals-are-not-dying-they-are-being-asked-to-pay-for-their-own-survival/",
+      "published": "2026-05-18T06:02:17.000Z",
+      "publishedTs": 1779084137000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Feature Articles",
+        "Featured",
+        "Adelaide",
+        "Brisbane",
+        "Bush Doof",
+        "Councils",
+        "Creative Australia",
+        "Damien Gelle",
+        "Dan Burke",
+        "Electric Gardens",
+        "festivals"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/JOKERTHEORY_PHOTOS_ADE26_215.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "When the organisers of Return to Rio cancelled their 2024 event in New South Wales, they did so citing a 529% increase in police and medical costs. The figure has been repeated often enough in the press since to start losing its weight. …"
+    },
     {
       "id": "482c6964c116b6a6ae252d41f1dbd987eb18b149",
       "title": "No me quiero morir nunca",
@@ -552,26 +577,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TSS-promo-pic-landscape-scaled.jpeg",
       "excerpt": "Decoded Magazine · Mix of the Month Winner April 2026 &#8211; Toxic Shame Squadron Each month at Decoded Magazine, our Mix of the Month competition throws up plenty of surprises, but few entrants arrive with quite the same delightfully a…"
-    },
-    {
-      "id": "38100bb84f548d503e7487911ec7573a8aa453d3",
-      "title": "The Quiet Epidemic: Why Mental Health In Electronic Music Still Isn’t Reaching The People Who Need It",
-      "link": "https://www.decodedmagazine.com/the-quiet-epidemic-why-mental-health-in-electronic-music-still-isnt-reaching-the-people-who-need-it/",
-      "published": "2026-05-06T09:32:12.000Z",
-      "publishedTs": 1778059932000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "AEFM",
-        "Mental Health",
-        "Mental Health In Electronic Music",
-        "Music Industry",
-        "Paul Thomas"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/mental-health-music-industry-decoded-magazine.jpg",
-      "excerpt": "Last night I was sitting in my Mum&#8217;s lounge in Adelaide, out here visiting family, watching an interesting documentary on mental health in Australia. The credits rolled and I just sat in the dark for a while, thinking. Not about th…"
     },
     {
       "id": "62dc01e29f015e91a9f965530a40d15f53a0a35c",
