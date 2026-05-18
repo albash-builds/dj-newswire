@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T08:10:24.671Z",
+  "generatedAt": "2026-05-18T12:30:01.759Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5b65d161f1890c0de113d3765bdd114c1d44db03",
+      "title": "Inside the Booth: AJ Gibson on Twenty Records That Built Godskitchen",
+      "link": "https://www.decodedmagazine.com/inside-the-booth-aj-gibson-on-twenty-records-that-built-godskitchen/",
+      "published": "2026-05-18T10:48:53.000Z",
+      "publishedTs": 1779101333000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "2000s",
+        "90s",
+        "Agnelli and Nelson",
+        "Amnesia",
+        "Armin Van Buuren",
+        "BBE",
+        "Birmingham",
+        "DJ Misjah &amp; DJ Tim",
+        "Fergie",
+        "Godskicthen"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/662627985_1500641921627712_8498933232600372065_n.jpg?resize=810%2C1013&ssl=1",
+      "excerpt": "Few brands in British dance music carry the weight of Godskitchen . The name itself came from a simple observation by founders Chris Griffin and Tyrone Matthews, who noticed that the best house parties always seemed to gravitate around t…"
+    },
     {
       "id": "f2c38fc0314683156b8355dc2a48198dc6f156ec",
       "title": "Australia’s Festivals Are Not Dying. They Are Being Asked to Pay for Their Own Survival.",
@@ -558,25 +583,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2069530638_10.jpg",
       "excerpt": "Together You Gather All Power Applied Worldwide by TYGAPAW May 2026 marks the arrival of TYGAPAW (aka Dion McKenzie)’s first full-length album on Tresor Records, entitled Together You Gather All Power Applied Worldwide. An acronym of its…"
-    },
-    {
-      "id": "da1202fcd8a895452c42b4f1aada0f2d01a1c84f",
-      "title": "Meet our April 2026 Mix of the Month Winner – Toxic Shame Squadron",
-      "link": "https://www.decodedmagazine.com/meet-our-april-2026-mix-of-the-month-winner-toxic-shame-squadron/",
-      "published": "2026-05-08T09:38:46.000Z",
-      "publishedTs": 1778233126000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "Electronica",
-        "House Music",
-        "Mix of the Month competition",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TSS-promo-pic-landscape-scaled.jpeg",
-      "excerpt": "Decoded Magazine · Mix of the Month Winner April 2026 &#8211; Toxic Shame Squadron Each month at Decoded Magazine, our Mix of the Month competition throws up plenty of surprises, but few entrants arrive with quite the same delightfully a…"
     },
     {
       "id": "62dc01e29f015e91a9f965530a40d15f53a0a35c",
