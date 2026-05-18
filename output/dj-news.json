@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T12:30:01.759Z",
+  "generatedAt": "2026-05-18T16:22:13.613Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,50 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "88a6837c0af37353488f348c54a990121f84818b",
+      "title": "Godskitchen, Reloaded: Fergie Returns to the Room That Made Him",
+      "link": "https://www.decodedmagazine.com/godskitchen-reloaded-fergie-returns-to-the-room-that-made-him/",
+      "published": "2026-05-18T14:33:33.000Z",
+      "publishedTs": 1779114813000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Interviews",
+        "Mixes",
+        "Techno",
+        "AI",
+        "Birmingham",
+        "BXR Records",
+        "Fergie",
+        "Hard House",
+        "Las Vegas",
+        "Nukleuuz Records",
+        "raving"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Fergie-2026-credit-Sam-Marshall-4.jpg?resize=683%2C1024&ssl=1",
+      "excerpt": "The last time Decoded sat down properly with Fergie aka Robert Ferguson, Daz Pearson was holding the dictaphone, the venue conversation revolved around Legends in the Park , and the phrase &#8220;global pandemic&#8221; was still somethin…"
+    },
+    {
+      "id": "a0374bb327a4c54981310923b9378b41fbd10059",
+      "title": "fabric Records unveils VA Compilation fabric SELECTS VII",
+      "link": "https://www.decodedmagazine.com/fabric-records-unveils-va-compilation-fabric-selects-vii/",
+      "published": "2026-05-18T12:44:25.000Z",
+      "publishedTs": 1779108265000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "2 step",
+        "Fabric",
+        "fabric london",
+        "Garage",
+        "UKG"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fabric-select-11.jpg",
+      "excerpt": "FABRICLIVE SELECTS VII by Various Artists fabric SELECTS returns for its seventh volume. Following DJ Q&#8217;s recent single &#8216;Lose My Cool&#8217;. The compilation gathers UK garage and bass material from both established names and…"
+    },
     {
       "id": "5b65d161f1890c0de113d3765bdd114c1d44db03",
       "title": "Inside the Booth: AJ Gibson on Twenty Records That Built Godskitchen",
@@ -547,42 +591,28 @@
       "excerpt": "&nbsp; inMusic &nbsp;and&nbsp; Native Instruments &nbsp;today announced that inMusic has signed a definitive agreement to acquire Native Instruments, the Berlin-based music technology company behind some of the most widely used creative …"
     },
     {
-      "id": "6fce09798b6a9e49c5bcffcf18834145213338fc",
-      "title": "Book of the Month – A Disco Pogo Tribute to Andrew Weatherhall",
-      "link": "https://www.decodedmagazine.com/book-of-the-month-a-disco-pogo-tribute-to-andrew-weatherhall/",
-      "published": "2026-05-08T10:55:39.000Z",
-      "publishedTs": 1778237739000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Andrew Weatherall",
-        "Book of the month",
-        "Disco Pogo",
-        "Electronica",
-        "Jockey Slut",
-        "Music Industry"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Disco_Pogo_Andrew_Weatherall_Tribute_Cover_NO_DROPSHADOW.png?resize=810%2C810&ssl=1",
-      "excerpt": "&#8216;A Disco Pogo Tribute To Andrew Weatherall&#8217; is the fourth in the hardback Tribute series — following Daft Punk, Aphex Twin and LCD Soundsystem — and the long-overdue successor to the now hard-to-find A Jockey Slut Tribute To …"
+      "id": "14746c924760dd234ad6e5a667068a06aba2a3ad",
+      "title": "The Prodigy’s Maxim launches new event and collective, Club Unity",
+      "link": "https://mixmag.net/read/the-prodigy-maxim-launches-new-event-collective-club-unity-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/maxim-prodigy-credit-High-Voltage-Photography.jpg?fit=cover&width=660&s=E1yOMVO174IkBG8cACQnhq_6rmKf83BGdsYOiO3cmRs",
+      "excerpt": "The movement aims to “confront the growing global crisis of social disconnection” Continue reading..."
     },
     {
-      "id": "9aa48e6f6c778618670e45bbfcf19111def06b71",
-      "title": "Tresor Records just released Together You Gather All Power Applied Worldwide by TYGAPAW",
-      "link": "https://www.decodedmagazine.com/tresor-records-just-released-together-you-gather-all-power-applied-worldwide-by-tygapaw/",
-      "published": "2026-05-08T10:35:44.000Z",
-      "publishedTs": 1778236544000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Album",
-        "Techno",
-        "Tresor",
-        "TYGAPAW"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2069530638_10.jpg",
-      "excerpt": "Together You Gather All Power Applied Worldwide by TYGAPAW May 2026 marks the arrival of TYGAPAW (aka Dion McKenzie)’s first full-length album on Tresor Records, entitled Together You Gather All Power Applied Worldwide. An acronym of its…"
+      "id": "cbce91001215ff8990d8324f68fcbad18e3f7404",
+      "title": "“Severe weather” forces temporary stage closures at EDC Las Vegas",
+      "link": "https://mixmag.net/read/severe-weather-forces-temporary-stage-closures-edc-las-vegas-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/edc-las-vegas-credit-Jamal-Eid.jpg?fit=cover&width=660&s=k_TLVnkmvjaN12LjX_c8MH4sBRH-6wAn93hTHav_oc0",
+      "excerpt": "Stages were made to shut during the festival’s final night due to strong winds Continue reading..."
     },
     {
       "id": "62dc01e29f015e91a9f965530a40d15f53a0a35c",
@@ -631,6 +661,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nour-Pic.jpg?fit=cover&width=660&s=7CIJJIqJdd9AaAPCHN8wTh-Z-Q3oF2tQ9Ihiouo8E04",
       "excerpt": "“Our vision is for Palestinian art to be powerfully positioned on the world stage,” states founder Nour Alsholi Continue reading..."
+    },
+    {
+      "id": "4388366b17f83391afc51fd13d24c47609f1b061",
+      "title": "Faster Horses in The Mixmag Lab",
+      "link": "https://mixmag.net/read/faster-horses-in-the-mixmag-lab-dj-lab",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/faster-horses-lab-ldn.jpg?fit=cover&width=660&s=vzIagkV4FxMGEZb6c4eAxZrhCKC2GS80WwuP6bZYULk",
+      "excerpt": "An hour of pumping garage and and pure euphoria Continue reading..."
     },
     {
       "id": "d2ee5e375a953038d92dc99d7ab250c790f63f22",
@@ -907,6 +949,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lost-club-night.jpg?fit=cover&width=660&s=O0fR9v5J8IOKkEn_rehfmeCEPyBI0LOUxI6MwAM1wj4",
       "excerpt": "The team said they failed to secure an extension on the lease of the former Odeon cinema, but have since found a new home Continue reading..."
+    },
+    {
+      "id": "481cc848b1b3e3b33f7d4992d7cf2011d54b159a",
+      "title": "SHEE in The Mixmag Lab | Southern Fried Takeover",
+      "link": "https://mixmag.net/read/shee-in-the-mixmag-lab-southern-fried-takeover-dj-lab",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shee-lab-ldn.jpg?fit=cover&width=660&s=MfyrOyOjHjbcyanC0Dt6wmpYPH6KMxDxRXqTFAQYEsw",
+      "excerpt": "The Irish DJ and producer celebrates the launch of his new EP in the Mixmag Lab Continue reading..."
     },
     {
       "id": "87bb8bb41165281ded813dbe47e6ec7c1e8b2ae9",
@@ -1413,6 +1467,18 @@
       "excerpt": "The legendary mix CD, which originally came with our January 2002 issue, is now available to listen to via SoundCloud for the first time Continue reading..."
     },
     {
+      "id": "9e38e14af32164529da94062c0f7728bd386d883",
+      "title": "Fonzo in The Mixmag Lab",
+      "link": "https://mixmag.net/read/fonzo-in-the-mixmag-lab-dj-lab",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fonzo-lab-ldn.jpg?fit=cover&width=660&s=Jg7mFQotdoBr-i9b4J8lTKUb0_EWrXkGNe1xZDzA25U",
+      "excerpt": "Fonzo delivers an hour of low-slung techno and minimal grooves Continue reading..."
+    },
+    {
       "id": "3ee9e62f0a14bcde6ddfcc86ea68154489cf35e8",
       "title": "Police intervene after Drake fans use blowtorches on block of ice to discover album release date",
       "link": "https://mixmag.net/read/police-intervene-drake-fans-attack-block-ice-album-release-date-inside-toronto-news",
@@ -1483,66 +1549,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-1.png?fit=cover&width=660&s=QDtYW-BG2PM62-HM6xa7oH3fw00rzjq0snDYInU89CQ",
       "excerpt": "Findings from the IMS Business Report also revealed that the electronic music industry grew by 7% last year to $15.1 billion Continue reading..."
-    },
-    {
-      "id": "82260a0a52ce249fd9122d2a19b952036e28869b",
-      "title": "London's \"first\" spatial audio listening room to launch in Soho",
-      "link": "https://mixmag.net/read/londons-first-spatial-audio-listening-room-to-launch-in-soho-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spatial_2026-04-21-145753_mgof.png?fit=cover&width=660&s=CrJNcYrAnyPM12EsPVPzqPl_WluUZ04-H6pBuJOxh5Q",
-      "excerpt": "The 360° audio experience will allow attendees to take in &quot;multi-dimensional sound environments&quot;, powered by an L-Acoustics soundsystem Continue reading..."
-    },
-    {
-      "id": "335c6bb5dbd6dc6995da8cf7337a9ea4c7491aff",
-      "title": "Meet IceMorph, the Willy Wonka-type world builders of UK bass",
-      "link": "https://mixmag.net/feature/icemorph-cloudcore-interview-benomorph-ice-wing-discord-dj",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IceMorph-lead.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=l8y7JVJutxZJfDkKN47pbATfr6AgfPNF0djyrFmtnh4",
-      "excerpt": "After almost half a decade of buildup, Ice Wing and Benomorph are embarking on their IceMorph project proper with a debut mixtape. Nathan Evans meets the alien-transformer duo as they come down to earth Continue reading..."
-    },
-    {
-      "id": "92b8a78ef3c691d099b2542b17349ceb870a1699",
-      "title": "Carl Cox honoured with mural in Cardiff ahead of The Prodigy tour leg",
-      "link": "https://mixmag.net/read/carl-cox-honoured-large-scale-mural-cardiff-the-prodigy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/carl-cox-mural-cardiff.jpg?fit=cover&width=660&s=JJ6THQISrdZelRyDN3F4iTROg1DUX46ipLqz6iQj3iU",
-      "excerpt": "The portrait was painted by Welsh artist Steve Jenkins ahead of Cox’s appearance at the Utilita Arena Continue reading..."
-    },
-    {
-      "id": "cfdfd2e313d9e757d75f31a041c37a5587cc9540",
-      "title": "Unreleased Prince track 'With This Tear' shared on 10th anniversary of his death",
-      "link": "https://mixmag.net/read/princes-estate-shares-unreleased-version-of-with-this-tear-to-mark-10th-anniversary-of-his-death-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Prince.png?fit=cover&width=660&s=lRFeK5hngpToge1BKF_jRUNaqQvOJVSjv3nRMNgjEBY",
-      "excerpt": "The late-musician&#039;s original demo of the track, which was eventually given to Celine Dion, has now been officially released Continue reading..."
-    },
-    {
-      "id": "45c136a615e16bbf21e3bf8ea05aa28e01c6ed2f",
-      "title": "Brockwell Park residents launch new challenge against council over festival licenses",
-      "link": "https://mixmag.net/read/brockwell-park-locals-challenge-lambeth-council-over-continuation-of-festivals-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Field-Day-credit-Luke-Dyson.jpg?fit=cover&width=660&s=xrHd_LRwik47l3vWmYNb28VQ0Uae3vU6KuBdr81Lils",
-      "excerpt": "“Large-scale” events that are being challenged include Field Day, City Splash and Wide Awake Continue reading..."
     }
   ]
 }
