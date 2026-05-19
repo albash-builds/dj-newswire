@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T08:36:16.304Z",
+  "generatedAt": "2026-05-19T12:10:19.850Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,53 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "717c9a65b1d1f0d44b8f9ef3505d2b7e53744c57",
+      "title": "Remember the Humans",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/broken-social-scene-remember-the-humans/",
+      "published": "2026-05-19T11:16:48.000Z",
+      "publishedTs": 1779189408000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/broken-social-scene-Remember-the-Humans.jpg",
+      "excerpt": "Broken Social Scene siempre fue más un colectivo artístico que una banda al uso, su mayor impacto llegó con su... La entrada Remember the Humans se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "adf2595a324714cf66243b8c45588827d126efb3",
+      "title": "Tresor Records just announced Aeternum (Existenz) by Function",
+      "link": "https://www.decodedmagazine.com/tresor-records-just-announced-aeternum-existenz-by-function/",
+      "published": "2026-05-19T10:54:45.000Z",
+      "publishedTs": 1779188085000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Function",
+        "House",
+        "Techno",
+        "Tresor",
+        "Tresor Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a1601452348_10.jpg",
+      "excerpt": "Aeternum (Existenz) by Function Much like the fusion resulting in the output of light and heat within a star, the last seven years for Dave Sumner, aka Function, have been defined by immense change and an outpouring of creative energy. W…"
+    },
+    {
+      "id": "1f78b595fdaaa5007c699ea0c5a21802f0c1cbb2",
+      "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/genesis-owusu-redstar-wu/",
+      "published": "2026-05-19T10:11:25.000Z",
+      "publishedTs": 1779185485000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Genesis-Owusu-REDSTAR-WU-THE-WORLDWIDE-SCOURGE.jpg",
+      "excerpt": "El australiano Genesis Owusu lo tiene muy claro, así que dejemos que sea él el que nos explique este \"REDSTAR... La entrada REDSTAR WU &#038; THE WORLDWIDE SCOURGE se publicó primero en MondoSonoro ."
+    },
     {
       "id": "88a6837c0af37353488f348c54a990121f84818b",
       "title": "Godskitchen, Reloaded: Fergie Returns to the Room That Made Him",
@@ -88,6 +135,20 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/662627985_1500641921627712_8498933232600372065_n.jpg?resize=810%2C1013&ssl=1",
       "excerpt": "Few brands in British dance music carry the weight of Godskitchen . The name itself came from a simple observation by founders Chris Griffin and Tyrone Matthews, who noticed that the best house parties always seemed to gravitate around t…"
+    },
+    {
+      "id": "0f1140cd5e22978b88cbdd645984d1e62889132f",
+      "title": "Crítica de 'American Stories ', el nuevo álbum de Rostam",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/rostam-american-stories/",
+      "published": "2026-05-18T09:50:01.000Z",
+      "publishedTs": 1779097801000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Rostam-American-Stories.jpg",
+      "excerpt": "Como si de una extraña pero muy lúcida ceremonia de reconciliación se tratase, Rostam Batmanglij ha decidido sintonizar en una... La entrada Crítica de &#039;American Stories &#039;, el nuevo álbum de Rostam se publicó primero en MondoSo…"
     },
     {
       "id": "f2c38fc0314683156b8355dc2a48198dc6f156ec",
@@ -363,20 +424,6 @@
       "excerpt": "DJSeinfeld returns with his third studio album, out 5thJune on NinjaTune. ‘If This Is It’ is a 12-track exploration of letting go, embracing the present, and turning “what ifs” into acceptance. “ ‘If This Is It’ is about reflecting on th…"
     },
     {
-      "id": "d99897f59b8d01d1095f4cf62b929077db5ad5a0",
-      "title": "Tot escrit",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tot-escrit/",
-      "published": "2026-05-12T11:03:06.000Z",
-      "publishedTs": 1778583786000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/TIEMEI-Tot-escrit.jpg",
-      "excerpt": "No he tenido la oportunidad esta vez de sentarme con ellos en una cuevecilla musiquera de la Vila de Gràcia... La entrada Tot escrit se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
       "title": "Submit your Mix of the Month DJ Competition entry",
       "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
@@ -441,34 +488,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/paul-van-dyk-studio.jpg",
       "excerpt": "Paul van Dyk and the VANDIT Label Group announce VANDIT Next Generation, a talent scouting and mentorship initiative designed to discover, support, and elevate the next generation of global electronic music producers. The programme is se…"
-    },
-    {
-      "id": "5fa2f5957a77333cc671af4f2c0b87a6ce087f75",
-      "title": "A Tiempo de Nada",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/monte-ventura-a-tiempo-de-nada/",
-      "published": "2026-05-12T07:23:46.000Z",
-      "publishedTs": 1778570626000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Monte-Ventura-A-Tiempo-de-Nada.jpg",
-      "excerpt": "Parapetarse tras la ironía o el distanciamiento ya no mola. Ese tiempo pasó y lo que se lleva ahora es... La entrada A Tiempo de Nada se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "28df9f072380e59038a284bf03c24fdcd2ab6621",
-      "title": "Presence",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hypersense-presence/",
-      "published": "2026-05-11T17:13:09.000Z",
-      "publishedTs": 1778519589000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Hypersense-Presence.jpg",
-      "excerpt": "Los músicos evolucionan y el enfoque de algunos de ellos también. Esto es lo primero que se desprende tras escudriñar... La entrada Presence se publicó primero en MondoSonoro ."
     },
     {
       "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
@@ -567,28 +586,16 @@
       "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
     },
     {
-      "id": "97d90097d4f34ecb49e0b17991cb38bc87a2142d",
-      "title": "Native Instruments has been bought by InMusic",
-      "link": "https://www.decodedmagazine.com/native-instruments-has-been-bought-by-inmusic/",
-      "published": "2026-05-08T11:28:49.000Z",
-      "publishedTs": 1778239729000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Akai",
-        "Denon",
-        "inMusic",
-        "M-Audio",
-        "Moog",
-        "music production",
-        "Native Instruments",
-        "Numark",
-        "Rane"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/03/Native-Instruments-logo-1.webp",
-      "excerpt": "&nbsp; inMusic &nbsp;and&nbsp; Native Instruments &nbsp;today announced that inMusic has signed a definitive agreement to acquire Native Instruments, the Berlin-based music technology company behind some of the most widely used creative …"
+      "id": "9fa1f89a54576009272682e7f977fe03feae3c21",
+      "title": "New York venue Brooklyn Storehouse to close later this year",
+      "link": "https://mixmag.net/read/new-york-venue-brooklyn-storehouse-close-later-this-year-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/brooklyn-storehouse-credit-Off-Brand-Project.jpg?fit=cover&width=660&s=PDfsQswC2fZkXnodMSzGyaC5OMrvvHtZXPj0P7yp3nk",
+      "excerpt": "Owners say that the venue’s tenancy was “always time-limited”, and will end this autumn Continue reading..."
     },
     {
       "id": "036d55413ba36e575cb67f9a1e52f39c8cec93ec",
@@ -1537,18 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Coachella-1.png?fit=cover&width=660&s=PovpNCnaf8TOBoR5bC0VkBpWoEZIkPZ0AZhiWRuKVeU",
       "excerpt": "Anyma&#039;s second weekend set cost the festival an additional $24,000 due to running over for nine minutes Continue reading..."
-    },
-    {
-      "id": "0ae8221028a1d2ec6ea72ef198313d1020e14e9d",
-      "title": "The Mix 103: Tiga",
-      "link": "https://mixmag.net/feature/the-mix-103-tiga-hotlife-electroclash-bugatti-silk-scarf",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_TIGA2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lTEJtEgHNvvVkX9hBL3iuo3HFE7-AayC0JATQYipzdg",
-      "excerpt": "The Canadian electroclash luminary takes us behind the &#039;HOTLIFE&#039; curtain on the latest edition of The Mix, and speaks with Megan Townsend about collaborations, the electroclash revival and making peace with the word &quot;legen…"
     }
   ]
 }
