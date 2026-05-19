@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T12:10:19.850Z",
+  "generatedAt": "2026-05-19T16:19:26.159Z",
   "total": 110,
   "sources": [
     {
@@ -584,6 +584,42 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Elder-Island-scaled.jpg",
       "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
+    },
+    {
+      "id": "65894aeabb099817507b1b1dd4e0c60b15f0631f",
+      "title": "UK government accused of \"diverting\" grassroots ticket levy funds to Treasury",
+      "link": "https://mixmag.net/read/uk-government-accused-of-diverting-grassroots-ticket-levy-funds-to-treasury-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Grassroots-music.jpg?fit=cover&width=660&s=nOUf6buqbI2_CBOtwZfGiUiRfpcHqZNHwO-axFDK2Js",
+      "excerpt": "Over £1.2 million of the £6 million raised by the initiative so far has been eaten up by VAT charges Continue reading..."
+    },
+    {
+      "id": "e792e25c617952289d7f18ee3f55912fc1ea0e2b",
+      "title": "George Clinton sues Universal Music Group $1.1 million over frozen royalties",
+      "link": "https://mixmag.net/read/george-clinton-sues-universal-music-group-1-1-million-over-frozen-royalties-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/george-clinton-credit-music-like-dirt.jpg?fit=cover&width=660&s=ZlV1bqrB7E6bicEfSSVEMuTzUe_pC6TpaqJbN1KQTNw",
+      "excerpt": "The funk legend claims that 100% of royalties owed to him have been withheld for three years Continue reading..."
+    },
+    {
+      "id": "ec1b61607c749ec1fbbece969270c761996985e3",
+      "title": "It's now officially Detroit Techno Week, Mayor proclaims",
+      "link": "https://mixmag.net/read/detroit-techno-week-officially-declared-by-citys-mayor-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Movement.jpg?fit=cover&width=660&s=8BAp56ou1nd-1Q6tbXPKkhUDyClgK4kxJ7UVDl_KfKc",
+      "excerpt": "It honours the city&#039;s electronic heritage ahead of the 20th edition of Movement Detroit, which kicks off later this week Continue reading..."
     },
     {
       "id": "9fa1f89a54576009272682e7f977fe03feae3c21",
@@ -1508,42 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bosh-lead-image.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-AiVxPJZO-ovUYof-l1S-LwDbje0DlCK9TaGY8UcbZY",
       "excerpt": "The legendary mix CD, which originally came with our January 2002 issue, is now available to listen to via SoundCloud for the first time Continue reading..."
-    },
-    {
-      "id": "9e38e14af32164529da94062c0f7728bd386d883",
-      "title": "Fonzo in The Mixmag Lab",
-      "link": "https://mixmag.net/read/fonzo-in-the-mixmag-lab-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fonzo-lab-ldn.jpg?fit=cover&width=660&s=Jg7mFQotdoBr-i9b4J8lTKUb0_EWrXkGNe1xZDzA25U",
-      "excerpt": "Fonzo delivers an hour of low-slung techno and minimal grooves Continue reading..."
-    },
-    {
-      "id": "3ee9e62f0a14bcde6ddfcc86ea68154489cf35e8",
-      "title": "Police intervene after Drake fans use blowtorches on block of ice to discover album release date",
-      "link": "https://mixmag.net/read/police-intervene-drake-fans-attack-block-ice-album-release-date-inside-toronto-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drake-iceman.jpg?fit=cover&width=660&s=NxwigdxAcPVEjmfBSHVjKMqeBQoFuvgQ7YEmRR7uwyU",
-      "excerpt": "As part of a pre-release stunt, Drake dropped a mound of ice in Toronto with the drop date of his next record ‘Iceman’ hidden inside Continue reading..."
-    },
-    {
-      "id": "0c8c80e79599628faabc4b6339798ac685a1962a",
-      "title": "Coachella fined $40,000 due to Anyma and Justin Bieber sets running over curfew",
-      "link": "https://mixmag.net/read/coachella-fined-40-000-due-to-running-over-curfew-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Coachella-1.png?fit=cover&width=660&s=PovpNCnaf8TOBoR5bC0VkBpWoEZIkPZ0AZhiWRuKVeU",
-      "excerpt": "Anyma&#039;s second weekend set cost the festival an additional $24,000 due to running over for nine minutes Continue reading..."
     }
   ]
 }
