@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T09:32:53.712Z",
+  "generatedAt": "2026-05-20T12:24:19.677Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9396684391a9c87cb573681d7d0382bc114f1a55",
+      "title": "Res a perdre",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/res-a-perdre-groggy-rude/",
+      "published": "2026-05-20T11:46:56.000Z",
+      "publishedTs": 1779277616000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/GroggyRudeCDWEB.jpg",
+      "excerpt": "Sería muy injusto valorar la propuesta musical de Groggy Rude únicamente por las versiones que han realizado de temas comerciales... La entrada Res a perdre se publicó primero en MondoSonoro ."
+    },
     {
       "id": "96903b1edb2e1860a8882abb444593d961194145",
       "title": "Passat combatiu, futur desconegut",
@@ -367,20 +381,6 @@
       "excerpt": "Pues sí, hay retornos que no necesitan más justificación que los resultados de sus nuevos lanzamientos discográficos y de su... La entrada In Spite Of Everything se publicó primero en MondoSonoro ."
     },
     {
-      "id": "9dbcd5586d210bff3a92f0d6aa3d7b1ed74d0177",
-      "title": "LP4",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/american-football-lp-cuatro/",
-      "published": "2026-05-13T09:04:54.000Z",
-      "publishedTs": 1778663094000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/American-Football-LPcuatro.jpg",
-      "excerpt": "Se cumple una década de la reaparición de American Football con “LP2” (16), la ansiada continuación de un disco debut... La entrada LP4 se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "09bb67981a16f4af5d7ac0724845395b5a6f097f",
       "title": "MUTEK Montréal reveals final music program, new additions for its 27th edition this August",
       "link": "https://www.decodedmagazine.com/mutek-montreal-reveals-final-music-program-new-additions-for-its-27th-edition-this-august/",
@@ -586,6 +586,30 @@
       "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
     },
     {
+      "id": "9fd66be46d621b7aec8349c8deb325be3ff083d8",
+      "title": "10 tracks that informed Hamdi's love of electronic music",
+      "link": "https://mixmag.net/feature/10-tracks-hamdi-gala-ukg-calvin-harris-bassline-skrillex-footwork",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hamdi-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dMdqg2G1P2yIxiybKZ-iRA8tc9K1tvHmYLN__9En8fY",
+      "excerpt": "Ahead of his appearance at London&#039;s GALA Festival on Friday, the Oxford-born UKG whizz charts the tracks that inspired his musical obsessions, from DJ Q to Skrillex Continue reading..."
+    },
+    {
+      "id": "fb513fc991ad1dc4248972f2966bba5d672c7836",
+      "title": "London queer venue Algha's Plantroom launches urgent fundraising campaign",
+      "link": "https://mixmag.net/read/london-queer-venue-alghas-plantroom-launches-urgent-fundraising-campaign-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alghas-plantroom-playbody.jpg?fit=cover&width=660&s=Sz3cjE-IZ7qD7rCLCm9eRIxMdk2LskNJ_FIsclFtbF0",
+      "excerpt": "A fundraiser event will take place at the arts space in Hackney Wick on May 23 Continue reading..."
+    },
+    {
       "id": "65894aeabb099817507b1b1dd4e0c60b15f0631f",
       "title": "UK government accused of \"diverting\" grassroots ticket levy funds to Treasury",
       "link": "https://mixmag.net/read/uk-government-accused-of-diverting-grassroots-ticket-levy-funds-to-treasury-news",
@@ -655,7 +679,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_COBRAH_AZYR2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ByhIW7RRHjzhjbWW-5A5I1fOL5nHgTku2xNIRdk0zxo",
-      "excerpt": "Blackpool&#039;s hard techno phenomenon AZYR debuts in the Mixmag Lab London with a specially curated line-up of full throttle dance music — full set drops on Wedesday, May 20 Continue reading..."
+      "excerpt": "Blackpool&#039;s hard techno phenomenon AZYR debuts in the Mixmag Lab London with a specially curated line-up of full throttle dance music Continue reading..."
     },
     {
       "id": "14746c924760dd234ad6e5a667068a06aba2a3ad",
@@ -1520,30 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cesar-burton.png?fit=cover&width=660&s=0Dt0s1KYaMSLdATs9LV6IiG_XwJZzl34zjYD-SVF30w",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "2195039375872519df5cbd1e7a556394deb091ad",
-      "title": "Daft Punk's Thomas Bangalter announces new ballet album 'Mirage'",
-      "link": "https://mixmag.net/read/thomas-bangalter-announces-new-ballet-album-mirage-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bangalter-pic.png?fit=cover&width=660&s=3OE-u_YxSdy8MOs6NTl_UA_79VLHGwhbL55pyb3Txds",
-      "excerpt": "The record is a minimalist electronic soundtrack to a new 16-dancer ballet, created by choreographer Damien Jalet and contemporary artist Kōhei Nawa Continue reading..."
-    },
-    {
-      "id": "847f2a0783418b9a7cc220b50576531ac3250663",
-      "title": "Here's the full tracklist for Eddie Halliwell's 'Bosh! 12 Sizzling Bangers'",
-      "link": "https://mixmag.net/feature/heres-the-full-tracklist-for-eddie-halliwells-bosh-12-sizzling-bangers",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bosh-lead-image.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-AiVxPJZO-ovUYof-l1S-LwDbje0DlCK9TaGY8UcbZY",
-      "excerpt": "The legendary mix CD, which originally came with our January 2002 issue, is now available to listen to via SoundCloud for the first time Continue reading..."
     }
   ]
 }
