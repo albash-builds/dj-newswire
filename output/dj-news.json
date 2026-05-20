@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T19:24:24.138Z",
+  "generatedAt": "2026-05-20T21:52:55.731Z",
   "total": 110,
   "sources": [
     {
@@ -586,6 +586,18 @@
       "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
     },
     {
+      "id": "ee50c9cb2640e1e6034be3cb2e41425461118160",
+      "title": "German house mainstay Philipp Jung, co-founder of M.A.N.D.Y. and Get Physical, has died",
+      "link": "https://mixmag.net/read/german-house-philipp-jung-co-founder-of-m-a-n-d-y-get-physical-died-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Philipp-Jung-M.A.N.D.Y.-DJ.jpeg?fit=cover&width=660&s=aBStBb-5h_RaU1Nqt9tfe2n0LpVeZ7_YbW3dAWIpNSQ",
+      "excerpt": "The DJ, producer and label head was an icon of Germany’s house music scene Continue reading..."
+    },
+    {
       "id": "2059eb6b262ed07d2c3b76bfce09ad4911c3c32f",
       "title": "Big Freedia to release SOPHIE-produced record this summer",
       "link": "https://mixmag.net/read/big-freedia-release-sophie-produced-record-this-summer-news",
@@ -611,7 +623,7 @@
     },
     {
       "id": "9fd66be46d621b7aec8349c8deb325be3ff083d8",
-      "title": "10 tracks that informed Hamdi's love of electronic music",
+      "title": "Anywhere & Everywhere: 10 tracks that informed Hamdi's love of electronic music",
       "link": "https://mixmag.net/feature/10-tracks-hamdi-gala-ukg-calvin-harris-bassline-skrillex-footwork",
       "published": "",
       "publishedTs": 0,
@@ -1532,18 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/welsh-mountain-rave.jpg?fit=cover&width=660&s=7O9ghD-B70ydiABjp8JeHf4uiBRCFyJmjZJxjEF0VG4",
       "excerpt": "Ravers descended on Rhigos Mountain in southeast Wales over the weekend Continue reading..."
-    },
-    {
-      "id": "d9d8911779f82975541982427558f5a454289825",
-      "title": "Man arrested under suspicion of arson following blaze at Milton Keynes LGBTQIA+ nightclub",
-      "link": "https://mixmag.net/read/man-arrested-under-suspicion-of-arson-following-blaze-at-milton-keynes-lgbtqia-nightclub-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club_2026-04-27-114353_wuql.jpg?fit=cover&width=660&s=VSzSqBBw1lM45kNnwcUPW9K9CGCuSCV7SPCt-EHOgYA",
-      "excerpt": "Pink Punters, which has been open for over 36 years, was completely destroyed as a result of the fire Continue reading..."
     }
   ]
 }
