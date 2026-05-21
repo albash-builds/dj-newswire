@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T03:38:42.373Z",
+  "generatedAt": "2026-05-21T07:51:59.466Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "532d797b4bb03dfac9a761bc5935f5c29aaa372d",
+      "title": "Zodeon At Crystal Hall",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-smashing-pumpkins-zodeon-at-crystal-hall/",
+      "published": "2026-05-21T07:15:36.000Z",
+      "publishedTs": 1779347736000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/The-Smashing-Pumpkins-Zodeon-At-Crystal-Hall-.jpg",
+      "excerpt": "Fiel a su impredecible instinto, Billy Corgan ha publicado por sorpresa y oficiosamente “Zodeon At Crystal Hall”, un disco de... La entrada Zodeon At Crystal Hall se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ea37162103e8185364630f391befb8e2ce001197",
+      "title": "Apache Bereber",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/cristian-de-moret-apache-bereber/",
+      "published": "2026-05-21T07:05:13.000Z",
+      "publishedTs": 1779347113000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cristian-de-Moret-Apache-Bereber.jpg",
+      "excerpt": "El flamenco mutante más rockero del último lustro, Cristian de Moret, vuelve a levantar el vuelo desde su Doñana (foto... La entrada Apache Bereber se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2a08b7e5cf9f286bd2ee620755da494c65a50684",
       "title": "Ranjha",
@@ -266,20 +294,6 @@
       "excerpt": "En plena vorágine de capas sonoras, oscuridad intrínseca y apología del ruidismo, Triángulo de Amor Bizarro tocaron techo con “SED”... La entrada Mi catedral se publicó primero en MondoSonoro ."
     },
     {
-      "id": "59985a953f05d8d575532d86db949f368ce00439",
-      "title": "Sudden Deaths (Revisited)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jon-iturbe-and-the-radio-gangsters-sudden-deaths/",
-      "published": "2026-05-14T16:29:55.000Z",
-      "publishedTs": 1778776195000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Jon-Iturbe-And-The-Radio-Gangsters.jpg",
-      "excerpt": "La historia del rock and roll se sostiene, también, sobre su propio relato mitológico, un ingrediente que, más allá de... La entrada Sudden Deaths (Revisited) se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "a7e05adf6fab3734b4b865406b3729bb8b963e2e",
       "title": "Technics launch Toki-O Nights, UK listening bar series",
       "link": "https://www.decodedmagazine.com/technics-launch-toki-o-nights-a-new-uk-listening-bar-series/",
@@ -301,20 +315,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mitsu-34-scaled.jpg",
       "excerpt": "Suntory Toki Whisky , together with Technics , is set to bring a new ritual to UK nightlife with the launch of Toki-O Nights, a new series of free and ticketed music-led events inspired by Tokyo’s iconic kissaten and listening bar cultur…"
-    },
-    {
-      "id": "dfdf62bc675edfc7f3cf2d3a24e9b559390d9c29",
-      "title": "O Cuarto",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tanxugueiras-o-cuarto/",
-      "published": "2026-05-14T05:59:47.000Z",
-      "publishedTs": 1778738387000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Tanxugueiras-O-Cuarto.jpg",
-      "excerpt": "Tanxugueiras ya no tienen mucho que demostrar, y esa libertad que las mantiene ajenas a presiones, junto con las tablas... La entrada O Cuarto se publicó primero en MondoSonoro ."
     },
     {
       "id": "ebed6d5cda57bcf9a8e3140e3432713cd60914fb",
