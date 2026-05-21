@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T15:24:15.573Z",
+  "generatedAt": "2026-05-21T17:57:37.070Z",
   "total": 110,
   "sources": [
     {
@@ -584,6 +584,18 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Elder-Island-scaled.jpg",
       "excerpt": "Bristol trio Elder Island released their third studio album Hello Baby, Okay alongside the video for ‘Faster Faster’ and announced European and North American tour dates. Featuring recent singles ‘Ordinary Love’, ‘Pink Lemon’, ‘Snapshot’…"
+    },
+    {
+      "id": "ca98b85df75aec8a02b5ef00758e925daea03f03",
+      "title": "New Leeds venue Mint XL reveals first-look photos of 2,500-capacity club",
+      "link": "https://mixmag.net/read/new-leeds-venue-mint-xl-reveals-first-look-photos-2500-capacity-club-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mint-xl-lead.jpg?fit=cover&width=660&s=NJuHeybK9RngDYhQWxiSM24oyRfpCF-GIe9lpLvsTns",
+      "excerpt": "Coming from the team behind Mint Club, the new venue&#039;s official launch party has also been announced for September Continue reading..."
     },
     {
       "id": "ea4a087a551af6e1a8269e65f29170ca955ab9a6",
@@ -1532,18 +1544,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Chocolate-tony-Wilson.jpg?fit=cover&width=660&s=WlAgma1CCLeM7425AqJ9ZIUJLHweXrShuj-bHStSBn8",
       "excerpt": "Wilson co-wrote &#039;70s hits including &#039;Emma&#039; and &#039;You Sexy Thing&#039; alongside bandmate Errol Brown Continue reading..."
-    },
-    {
-      "id": "f361b662b21f714e4618f724edc191b7de988434",
-      "title": "\"Phone-free\" club events rose by 567% globally in 2025, new data reveals",
-      "link": "https://mixmag.net/read/phone-free-club-events-up-by-567-new-data-reveals-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/phones-events.jpg?fit=cover&width=660&s=Hm_1xMKwGf8T5XwgosJn6kbTTqpSGE0q83r-FtTGfyU",
-      "excerpt": "The UK is the &quot;global leader&quot; of phone-free events, with a study from Eventbrite claiming that attendance at said events has grown by 1,441% in just one year Continue reading..."
     }
   ]
 }
