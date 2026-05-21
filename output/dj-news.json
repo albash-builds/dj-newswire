@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T07:51:59.466Z",
+  "generatedAt": "2026-05-21T11:23:55.415Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "97689778714abcb8b1a8cfa7f2338f0c8cea7bc6",
+      "title": "23.556",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gere-23556/",
+      "published": "2026-05-21T10:14:28.000Z",
+      "publishedTs": 1779358468000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Gere.jpg",
+      "excerpt": "Musikak badu irudiak iradokitzeko ahalmena. Bada Iñaki Gereñuren (Peachy Joke) proiektu berriak hiriko argiak kantu bilakatu ditu. Zaila da jakitea... La entrada 23.556 se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4e851e83fabac200865ca0b5cea6bf9a0cb73b36",
+      "title": "Down Home Gumbo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-donkey-rider-down-home-gumbo/",
+      "published": "2026-05-21T08:22:42.000Z",
+      "publishedTs": 1779351762000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Donkey-Riders-Gumbo.jpg",
+      "excerpt": "Si a la reducida extensión que ocupa la escena “bluesera”en el territorio vasco le añadimos la inquieta condición que caracteriza... La entrada Down Home Gumbo se publicó primero en MondoSonoro ."
+    },
     {
       "id": "532d797b4bb03dfac9a761bc5935f5c29aaa372d",
       "title": "Zodeon At Crystal Hall",
@@ -208,7 +236,7 @@
     },
     {
       "id": "0f1140cd5e22978b88cbdd645984d1e62889132f",
-      "title": "Crítica de 'American Stories ', el nuevo álbum de Rostam",
+      "title": "American Stories",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/rostam-american-stories/",
       "published": "2026-05-18T09:50:01.000Z",
       "publishedTs": 1779097801000,
@@ -218,7 +246,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Rostam-American-Stories.jpg",
-      "excerpt": "Como si de una extraña pero muy lúcida ceremonia de reconciliación se tratase, Rostam Batmanglij ha decidido sintonizar en una... La entrada Crítica de &#039;American Stories &#039;, el nuevo álbum de Rostam se publicó primero en MondoSo…"
+      "excerpt": "Como si de una extraña pero muy lúcida ceremonia de reconciliación se tratase, Rostam Batmanglij ha decidido sintonizar en una... La entrada American Stories se publicó primero en MondoSonoro ."
     },
     {
       "id": "f2c38fc0314683156b8355dc2a48198dc6f156ec",
@@ -246,20 +274,6 @@
       "excerpt": "When the organisers of Return to Rio cancelled their 2024 event in New South Wales, they did so citing a 529% increase in police and medical costs. The figure has been repeated often enough in the press since to start losing its weight. …"
     },
     {
-      "id": "482c6964c116b6a6ae252d41f1dbd987eb18b149",
-      "title": "No me quiero morir nunca",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/rata-no-me-quiero-morir-nunca/",
-      "published": "2026-05-15T07:21:59.000Z",
-      "publishedTs": 1778829719000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/rata-no-me-quiero-morir-nunca.jpg",
-      "excerpt": "Jack y Meg White (The White Stripes); Mike Kerr y Ben Thatcher (Royal Blood); Dan Auerbach y Patrick Carney (The... La entrada No me quiero morir nunca se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "af436da944372c1e8f643a6743fd848a07d9ed57",
       "title": "Five on Friday with Mark Collings",
       "link": "https://www.decodedmagazine.com/five-on-friday-with-mark-collings/",
@@ -278,20 +292,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mark-scaled-e1778819279699.jpg",
       "excerpt": "There are some names that don&#8217;t shout about themselves but carry weight all the same, the kind of operator whose CV reads like a love letter to the capital&#8217;s underground. Mark Collings is one of them. His story starts in the …"
-    },
-    {
-      "id": "f0e62ca4ff7d33c18a62e351a96c092797891d4f",
-      "title": "Mi catedral",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/triangulo-de-amor-bizarro-mi-catedral/",
-      "published": "2026-05-15T04:41:04.000Z",
-      "publishedTs": 1778820064000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Triangulo-de-Amor-Bizarro-Mi-catedral.jpg",
-      "excerpt": "En plena vorágine de capas sonoras, oscuridad intrínseca y apología del ruidismo, Triángulo de Amor Bizarro tocaron techo con “SED”... La entrada Mi catedral se publicó primero en MondoSonoro ."
     },
     {
       "id": "a7e05adf6fab3734b4b865406b3729bb8b963e2e",
@@ -882,7 +882,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/parris-call-super-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ozG-dC0Sz3eJsRJMogwNT5kiQBzzh7Zd7UnWIdKx0E4",
+      "image": "",
       "excerpt": "Ahead of their b2b set at Horst Music &amp; Arts Festival this week under their can you feel the sun alias, Call Super and Parris pick out their summertime selections, from the sentimental to the peak-time Continue reading..."
     },
     {
