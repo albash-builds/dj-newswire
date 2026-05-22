@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T03:37:03.015Z",
+  "generatedAt": "2026-05-22T07:43:45.377Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,86 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "5e9887d1ff0fdc6c47f4361a8e8e10ccace2638a",
+      "title": "Five on Friday with Viper Patrol",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-viper-patrol/",
+      "published": "2026-05-22T07:06:12.000Z",
+      "publishedTs": 1779433572000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Belfast",
+        "Electro",
+        "Five on Friday",
+        "House Music",
+        "Techno",
+        "The Red Telephone",
+        "Viper Patrol"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Viper-Patrol-scaled-e1779433456771.png",
+      "excerpt": "Some producers chase the big moment. Belfast&#8217;s Viper Patrol prefers to creep up on you. His sound sits in the murk between electro, dark disco and leftfield house, all brooding basslines, razor-sharp synths and atmosphere for days,…"
+    },
+    {
+      "id": "941045e51aaf21c7375cd5f849c46ecf2f7d176d",
+      "title": "Bass Made Visible: H₇O Launches on LA’s Westside",
+      "link": "https://www.decodedmagazine.com/bass-made-visible-h%e2%82%87o-launches-on-las-westside/",
+      "published": "2026-05-22T06:07:24.000Z",
+      "publishedTs": 1779430044000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "California",
+        "House Music",
+        "Jimmy Bel",
+        "LA",
+        "Lincoln Boulevard",
+        "Paul Edge",
+        "Techno",
+        "Venice Beach"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/H70-NEW-flyer-no-crop_red.jpg?resize=810%2C574&ssl=1",
+      "excerpt": "Los Angeles underground night H₇O launches this month with a pointed provocation: “Don’t just feel the bass. See it.” Kicking off at Wurstküche Venice on May 30, the party pairs proper DJ craftsmanship with immersive visuals designed to …"
+    },
+    {
+      "id": "78be182ba0ce524c3372237ef2f1d29577733dfa",
+      "title": "New documentary explores London’s underground accessible club scene",
+      "link": "https://www.decodedmagazine.com/new-documentary-explores-londons-underground-accessible-club-scene/",
+      "published": "2026-05-22T05:06:55.000Z",
+      "publishedTs": 1779426415000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "93 Feet East",
+        "Bubble Club",
+        "Documentary",
+        "House Music",
+        "London"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/BubbleClub_93FeetEast_Oct25_DB_0243-1-scaled-e1779426268583.jpg",
+      "excerpt": "A new feature documentary is in development exploring nightlife through the lens of people with learning disabilities and autism, following five long-standing members of London’s radically inclusive club scene over the course of a year. …"
+    },
+    {
+      "id": "0e9fee20dea2c824ab2d6a87b1c1c0c894b39ed5",
+      "title": "20 years of The Warehouse Project plus new film directed by Leigh Powis",
+      "link": "https://www.decodedmagazine.com/20-years-of-the-warehouse-project-plus-new-film-directed-by-leigh-powis/",
+      "published": "2026-05-22T04:56:12.000Z",
+      "publishedTs": 1779425772000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Apple Music",
+        "Documentary",
+        "Manchester",
+        "The Warehouse Project"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/%40tanyahanley_-304.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "The Warehouse Project has announced its 2026 seasons starting on Friday 18th September, marking 20 years since their first season at Boddington’s Strangeways Brewery in 2006, which set the blueprint for club and rave event series around …"
+    },
     {
       "id": "f941018f3dff0faf15e76568f2c097ccc48aeb1b",
       "title": "London’s The Vinyl Factory exhibition that explores vinyl culture is coming to Melbourne",
@@ -509,82 +589,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/paul-van-dyk-studio.jpg",
       "excerpt": "Paul van Dyk and the VANDIT Label Group announce VANDIT Next Generation, a talent scouting and mentorship initiative designed to discover, support, and elevate the next generation of global electronic music producers. The programme is se…"
-    },
-    {
-      "id": "1ced18e1721401ed6a821f4c864b2efad9d61d70",
-      "title": "Mahorka just released Hermetic by Toni Dimitrov + Blanket Swimming",
-      "link": "https://www.decodedmagazine.com/mahorka-just-released-hermetic-by-toni-dimitrov-blanket-swimming/",
-      "published": "2026-05-11T04:06:22.000Z",
-      "publishedTs": 1778472382000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "ambient",
-        "chill out",
-        "Mahorka"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a0742680098_10.jpg",
-      "excerpt": "Hermetic by Toni Dimitrov + Blanket Swimming This new tape release on Mahorka brings together ambient artists Toni Dimitrov and Blanket Swimming, both with longstanding history with the label, in a restrained yet deeply textured collabor…"
-    },
-    {
-      "id": "b6b5ce8df27a3189f5a5988f2b87062a56c5bd3e",
-      "title": "Ian Pilosa releases Guiyang [mmrgy]",
-      "link": "https://www.decodedmagazine.com/ian-pilosa-releases-guiyang-mmrgy/",
-      "published": "2026-05-11T04:01:02.000Z",
-      "publishedTs": 1778472062000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Hamburg",
-        "Ian Pilosa",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a3196671034_10.jpg",
-      "excerpt": "Guiyang [mmrgy] by Ian Pilosa Hamburg-based producer Ian Pilosa approaches techno through an exploratory lens. On Guiyang, that sensibility comes into especially sharp focus: the title track was shaped in isolation during an unexpected a…"
-    },
-    {
-      "id": "d62835710418f8fc301ece8993e82a5f1f400906",
-      "title": "BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall",
-      "link": "https://www.decodedmagazine.com/bicep-live-returns-for-a-special-show-at-londons-iconic-royal-albert-hall/",
-      "published": "2026-05-08T13:59:12.000Z",
-      "publishedTs": 1778248752000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Bicep",
-        "breaks",
-        "Electronica",
-        "London",
-        "Ninja Tunes",
-        "Royal Albert Hall"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/bicep-royal-albert-hall.png?resize=769%2C1024&ssl=1",
-      "excerpt": "Following a three-year hiatus, BICEP LIVE returns for a special show at London’s iconic Royal Albert Hall, on Thursday 26th November 2026. For fans who have been clamouring for the duo’s return while they’ve been locked away in the studi…"
-    },
-    {
-      "id": "51005ccad8ef9bfe2cd4da4c58e49b6c50155422",
-      "title": "Five on Friday with DJ Oolong",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-dj-oolong/",
-      "published": "2026-05-08T13:16:43.000Z",
-      "publishedTs": 1778246203000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Capeesh",
-        "DJ Ooolong",
-        "Electronica",
-        "Five on Friday",
-        "House Music",
-        "London",
-        "Techno",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/oolong-scaled.jpg",
-      "excerpt": "This Friday, we&#8217;re over the moon to welcome one of the leading hands behind The Capeesh club nights, Mr. Harry Abraham, better known as DJ Oolong . Alongside Hamish, Harry co-runs Capeesh, a party series hosted across intimate venu…"
     },
     {
       "id": "ca98b85df75aec8a02b5ef00758e925daea03f03",
