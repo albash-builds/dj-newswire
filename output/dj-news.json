@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T10:50:44.928Z",
+  "generatedAt": "2026-05-22T13:31:51.108Z",
   "total": 110,
   "sources": [
     {
@@ -618,6 +618,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/la-di-da-nightclub.jpg?fit=cover&width=660&s=3gNkwdQWjp3vUN0bUkSOPjhr9_z6Bfsp5oSZQ6zS6e8",
       "excerpt": "Three separate clubs were allegedly targeted in a spree earlier this month Continue reading..."
+    },
+    {
+      "id": "c2907dd660f355c89b2139827ffb05f005da591f",
+      "title": "The Warehouse Project shares plans for 20th birthday celebrations",
+      "link": "https://mixmag.net/read/the-warehouse-project-shares-plans-for-20th-birthday-celebrations-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-WHP.jpg?fit=cover&width=660&s=LlHs5z1qCj5Dc7XJiikQdTGzP7zGxCRbzl9aKs3OSgc",
+      "excerpt": "An exhibition, podcast and a print magazine have been announced to help WHP mark its two-decade milestone Continue reading..."
     },
     {
       "id": "ecd598a4fa3d04cf4b5906a12eba30b4e965210a",
@@ -1530,18 +1542,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Brandon-Densley-for-Skyline.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-7RFOvwtoJ2qers3F7ITCdHEVWfsouIbkVcyg4_8gss",
       "excerpt": "In something akin to a full circle moment, Insomniac showcases its boldest programming to date at Skyline Festival&#039;s Arts District stage in Downtown Los Angeles Continue reading..."
-    },
-    {
-      "id": "71643ee5cda3c6d9121cfdae3e57af3cc65f90d5",
-      "title": "NEOPOP celebrates 20 years with ANTIPOP theme for 2026",
-      "link": "https://mixmag.net/read/neopop-celebrates-20-years-antipop-theme-2026-portugal-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/antipop-neopop-festival.jpg?fit=cover&width=660&s=waVsYX2402nYtMQfGgul-55BWR3n2bbKUo0kDSdqk7A",
-      "excerpt": "Nodding to its early years under the name ANTIPOP, the Portuguese festival reclaims its roots this summer Continue reading..."
     }
   ]
 }
