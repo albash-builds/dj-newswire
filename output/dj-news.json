@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T10:04:36.782Z",
+  "generatedAt": "2026-05-25T14:07:27.192Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "9b44e0da4648832755253c616c8928207e698c6c",
+      "title": "Txaskario",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maraca-diablo-txaskario/",
+      "published": "2026-05-25T11:36:48.000Z",
+      "publishedTs": 1779709008000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Maraca-diablo.jpg",
+      "excerpt": "Históricamente, y más en las últimas décadas, siempre ha existido la figura del músico inquieto y ecléctico a quien enfocarse... La entrada Txaskario se publicó primero en MondoSonoro ."
+    },
     {
       "id": "297f12870ffd815cc016a4e0177a0d7ddcee472f",
       "title": "La Insolación",
@@ -321,20 +335,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/GroggyRudeCDWEB.jpg",
       "excerpt": "Sería muy injusto valorar la propuesta musical de Groggy Rude únicamente por las versiones que han realizado de temas comerciales... La entrada Res a perdre se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "96903b1edb2e1860a8882abb444593d961194145",
-      "title": "Passat combatiu, futur desconegut",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/passat-combatiu-futur-desconegut-bastards/",
-      "published": "2026-05-20T06:55:13.000Z",
-      "publishedTs": 1779260113000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/BastardsCD.jpg",
-      "excerpt": "Aquellos que descubran a la banda catalana Bastards con “Passat combatiu, futur desconegut”, su nuevo EP, podrían llegar a pensar... La entrada Passat combatiu, futur desconegut se publicó primero en MondoSonoro ."
     },
     {
       "id": "adf2595a324714cf66243b8c45588827d126efb3",
