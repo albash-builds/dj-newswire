@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T05:19:52.649Z",
+  "generatedAt": "2026-05-25T10:04:36.782Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "297f12870ffd815cc016a4e0177a0d7ddcee472f",
+      "title": "La Insolación",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/martin-la-insolacion/",
+      "published": "2026-05-25T07:29:51.000Z",
+      "publishedTs": 1779694191000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Martin-La-Insolacion.jpg",
+      "excerpt": "A priori, no tenía mucho interés en el debut de Martin Urrutia: durante su paso por Operación Triunfo no estaba... La entrada La Insolación se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "816467e5dfa1f83de8a09fabb7b11c9cf2b7b652",
+      "title": "Trixies",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/squeeze-trixies/",
+      "published": "2026-05-25T07:12:43.000Z",
+      "publishedTs": 1779693163000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Squeeze-Trixies.jpg",
+      "excerpt": "Hay algo entrañable pero también ligeramente temerario en rescatar unas canciones escritas siendo adolescente y convertirlas medio siglo después en... La entrada Trixies se publicó primero en MondoSonoro ."
+    },
     {
       "id": "1f3615b39006a1b5f603c12acb7dd1fcc461b779",
       "title": "TEED announces !K7 ‘DJ-Kicks’ mix",
@@ -309,20 +337,6 @@
       "excerpt": "Aquellos que descubran a la banda catalana Bastards con “Passat combatiu, futur desconegut”, su nuevo EP, podrían llegar a pensar... La entrada Passat combatiu, futur desconegut se publicó primero en MondoSonoro ."
     },
     {
-      "id": "717c9a65b1d1f0d44b8f9ef3505d2b7e53744c57",
-      "title": "Remember the Humans",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/broken-social-scene-remember-the-humans/",
-      "published": "2026-05-19T11:16:48.000Z",
-      "publishedTs": 1779189408000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/broken-social-scene-Remember-the-Humans.jpg",
-      "excerpt": "Broken Social Scene siempre fue más un colectivo artístico que una banda al uso, su mayor impacto llegó con su... La entrada Remember the Humans se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "adf2595a324714cf66243b8c45588827d126efb3",
       "title": "Tresor Records just announced Aeternum (Existenz) by Function",
       "link": "https://www.decodedmagazine.com/tresor-records-just-announced-aeternum-existenz-by-function/",
@@ -340,20 +354,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a1601452348_10.jpg",
       "excerpt": "Aeternum (Existenz) by Function Much like the fusion resulting in the output of light and heat within a star, the last seven years for Dave Sumner, aka Function, have been defined by immense change and an outpouring of creative energy. W…"
-    },
-    {
-      "id": "1f78b595fdaaa5007c699ea0c5a21802f0c1cbb2",
-      "title": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/genesis-owusu-redstar-wu/",
-      "published": "2026-05-19T10:11:25.000Z",
-      "publishedTs": 1779185485000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Genesis-Owusu-REDSTAR-WU-THE-WORLDWIDE-SCOURGE.jpg",
-      "excerpt": "El australiano Genesis Owusu lo tiene muy claro, así que dejemos que sea él el que nos explique este \"REDSTAR... La entrada REDSTAR WU &#038; THE WORLDWIDE SCOURGE se publicó primero en MondoSonoro ."
     },
     {
       "id": "88a6837c0af37353488f348c54a990121f84818b",
