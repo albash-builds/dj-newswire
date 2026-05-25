@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T14:07:27.192Z",
+  "generatedAt": "2026-05-25T17:06:21.000Z",
   "total": 110,
   "sources": [
     {
@@ -579,6 +579,30 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mutek-2026-line-up.png?resize=810%2C456&ssl=1",
       "excerpt": "The International Festival of Digital Creativity and Electronic Music MUTEK has revealed the artists confirmed for its 27th edition, taking place August 25–30, 2026 in Montréal. Bringing together pioneers of electronic music, leading fig…"
+    },
+    {
+      "id": "71c89dccfb53912beec645fa84f3c2f9640088fa",
+      "title": "New music on our radar this week: Amelie Lens, PS Hitsquad, Ellen Allien",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-amelie-lens-ps-hitsquad-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-may24.jpg?fit=cover&width=660&s=V2AzS5gV7yTZEgbULVPefkdsOLGOuqQoYoX0x1aSAnc",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "6b5d7c38baf86f0f66adbffb816d3264e3c06a81",
+      "title": "Festival line-ups you might have missed: Meakusuma, BOEM, Making Time",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-meakusuma-boem-making-time-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Moodymann-1.jpg?fit=cover&width=660&s=N_U4mhswblsWMIJzkts7W2pc8qisbqW1YupqZW9yhoE",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "5b56fe54846540915a790e290831cee26942028e",
@@ -1515,30 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_riria2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=skyGt34vuQLiMyrNFWfYEWmAZ-A_m7IkNoZ8LCPfddM",
       "excerpt": "The Tokyo-born DJ shares a full-throttle club mix paying homage to the UK bass music she&#039;s been influenced by since moving to London, and talks digging through strangers’ SoundCloud collections and helping producers&#039; tracks go …"
-    },
-    {
-      "id": "3ea25ea8a2338542378a981304c039c7eb803101",
-      "title": "Boomtown announces expansion of “world-first” hydrogen-powered stage for 2026",
-      "link": "https://mixmag.net/read/boomtown-announces-expansion-of-world-first-hydrogen-powered-stage-for-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Boomtown-credit-Lucas-Sinclair.jpg?fit=cover&width=660&s=tOzk_hH5SEOyh8QK2QDtnOLkFKimi4LgweEiLUDy9G4",
-      "excerpt": "HYDRO XL, fka HYDRO, will increase in size by 150% this year, and move to the heart of Downtown Continue reading..."
-    },
-    {
-      "id": "e8c35d0be66e0de6c3d90fa3c22d022f48e8fd21",
-      "title": "Illegal rave attendees in Marseille could face fines of €3,000 under proposed legislation",
-      "link": "https://mixmag.net/read/illegal-ravers-marseille-catch-fines-3000-euros-new-legislation-france-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/france-illegal-rave_2026-04-29-103024_wefr.jpg?fit=cover&width=660&s=kncOwtteG4kQcQMRym1lfcFllpXn__bXuqp4854rwuo",
-      "excerpt": "The move comes after 300 people attended an event dubbed &quot;the last rave&quot; on the outskirts of the Southern French city Continue reading..."
     }
   ]
 }
