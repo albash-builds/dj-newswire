@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T00:09:20.581Z",
+  "generatedAt": "2026-05-25T05:19:52.649Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,47 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1f3615b39006a1b5f603c12acb7dd1fcc461b779",
+      "title": "TEED announces !K7 ‘DJ-Kicks’ mix",
+      "link": "https://www.decodedmagazine.com/teed-announces-k7-dj-kicks-mix/",
+      "published": "2026-05-25T05:18:02.000Z",
+      "publishedTs": 1779686282000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Electronica",
+        "House Music",
+        "iK7",
+        "TEED",
+        "Totally exinct dinosaurs"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TEED-scaled-e1779686034371.png",
+      "excerpt": "TEED has announced his long-awaited DJ-Kicks mix, arriving 26th June, alongside the release of first offering, “Never Seen You Dance (DJ-Kicks Version)”, a reimagined, club-ready update of his 2022 track. The new version sets the tone fo…"
+    },
+    {
+      "id": "981937caaf34f7278177fbb810fb4eaa25871b9d",
+      "title": "Mint announces location of brand new 2500 capacity venue in Leeds city centre",
+      "link": "https://www.decodedmagazine.com/mint-announces-location-of-brand-new-2500-capacity-venue-in-leeds-city-centre/",
+      "published": "2026-05-25T05:08:56.000Z",
+      "publishedTs": 1779685736000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "UK",
+        "DnB",
+        "Dubstep",
+        "House",
+        "Leeds",
+        "Mint",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mint-XL.png?resize=640%2C426&ssl=1",
+      "excerpt": "Leeds-based events brand Mint, known for Mint Festival, Mint Warehouse and the former Mint Club, has officially announced the location of its highly anticipated new venue, Mint XL, set to open within the former PRYZM nightclub site on Wo…"
+    },
     {
       "id": "d11c78e87da7afb25b4ddd8e8109c64781208206",
       "title": "Watch: Fergie Delivers an Exclusive Vinyl Video Mix for Decoded Magazine and Godskitchen",
@@ -538,49 +579,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mutek-2026-line-up.png?resize=810%2C456&ssl=1",
       "excerpt": "The International Festival of Digital Creativity and Electronic Music MUTEK has revealed the artists confirmed for its 27th edition, taking place August 25–30, 2026 in Montréal. Bringing together pioneers of electronic music, leading fig…"
-    },
-    {
-      "id": "24f0a6c39ddb1985f4ea733960e9b1af0a03747c",
-      "title": "DJ Seinfeld returns with his third studio album",
-      "link": "https://www.decodedmagazine.com/dj-seinfeld-returns-with-his-third-studio-album/",
-      "published": "2026-05-13T03:16:54.000Z",
-      "publishedTs": 1778642214000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "DJ Seinfeld",
-        "Electronica",
-        "House Music",
-        "Ninja Tunes",
-        "UK Garage"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/DJ-Seinfeld-scaled.jpg",
-      "excerpt": "DJSeinfeld returns with his third studio album, out 5thJune on NinjaTune. ‘If This Is It’ is a 12-track exploration of letting go, embracing the present, and turning “what ifs” into acceptance. “ ‘If This Is It’ is about reflecting on th…"
-    },
-    {
-      "id": "a22366f95833bd98a200f2a3a4484fc79ad37d61",
-      "title": "Submit your Mix of the Month DJ Competition entry",
-      "link": "https://www.decodedmagazine.com/decoded-magazine-dj-competition/",
-      "published": "2026-05-12T10:29:01.000Z",
-      "publishedTs": 1778581741000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "breaks",
-        "DJ Competition",
-        "DnB",
-        "dub techno",
-        "House Music",
-        "Melodic Techno",
-        "Progressive House",
-        "Techno",
-        "Trip Hop"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/04/Blog-single-featured-img12-scaled.jpg",
-      "excerpt": "ENTRIES CLOSE ON 20 MAY After a little bit of a hiatus, we have brought back one of our most loved (and yes, hotly debated) features: the&nbsp;Decoded Magazine Mix of the Month. But this time, we’re doing it differently. We have enlisted…"
     },
     {
       "id": "5b56fe54846540915a790e290831cee26942028e",
