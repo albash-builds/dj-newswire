@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T03:30:48.654Z",
+  "generatedAt": "2026-05-26T07:44:29.148Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,41 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "b8a9acda5e68dc20685054dcaf604023548c2416",
+      "title": "Transmitter",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/cut-worms-transmitte/",
+      "published": "2026-05-26T06:56:27.000Z",
+      "publishedTs": 1779778587000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cut-Worms-Transmitter.jpg",
+      "excerpt": "En tiempos en los que hay que sacar la cabeza entre un millón de competidores y para ello se tiende... La entrada Transmitter se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "61b2e26c0b1ef05626c4bac6d34aee106cc2c873",
+      "title": "Sound Avenue just released Dimensions 04",
+      "link": "https://www.decodedmagazine.com/sound-avenue-just-released-dimensions-04/",
+      "published": "2026-05-26T06:19:22.000Z",
+      "publishedTs": 1779776362000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Album",
+        "Belgium",
+        "deep house",
+        "Madloch",
+        "Melodic Techno",
+        "Progressive House",
+        "Sound Avenue"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/sound-avenue-dimensions-4.jpg",
+      "excerpt": "Dimensions_04 by Various Artists Belgian imprint Sound Avenue returns with the fourth instalment of its Dimensions series, a various artists collection that lives up to its name. Founded in 2011 by DJ and producer Madloch, the label has …"
+    },
     {
       "id": "9b44e0da4648832755253c616c8928207e698c6c",
       "title": "Txaskario",
@@ -323,20 +358,6 @@
       "excerpt": "Diez años después de “Junun”, el debut de esta asociación multicultural que junta a Jonny Greenwood, guitarrista de Radiohead y... La entrada Ranjha se publicó primero en MondoSonoro ."
     },
     {
-      "id": "9396684391a9c87cb573681d7d0382bc114f1a55",
-      "title": "Res a perdre",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/res-a-perdre-groggy-rude/",
-      "published": "2026-05-20T11:46:56.000Z",
-      "publishedTs": 1779277616000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/GroggyRudeCDWEB.jpg",
-      "excerpt": "Sería muy injusto valorar la propuesta musical de Groggy Rude únicamente por las versiones que han realizado de temas comerciales... La entrada Res a perdre se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "adf2595a324714cf66243b8c45588827d126efb3",
       "title": "Tresor Records just announced Aeternum (Existenz) by Function",
       "link": "https://www.decodedmagazine.com/tresor-records-just-announced-aeternum-existenz-by-function/",
@@ -555,30 +576,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Sammy-Virji-x-Skepta-%E2%80%93-LDN-East-%E2%80%93-%40joshuahiatt-104-of-109.jpg?resize=810%2C540&ssl=1",
       "excerpt": "East London’s defining open-air venue LDN East marks its 4th anniversary this summer with its biggest programme to date &#8211; a season-long run of parties running from May to July that reflects the venue’s inclusive approach to club cu…"
-    },
-    {
-      "id": "09bb67981a16f4af5d7ac0724845395b5a6f097f",
-      "title": "MUTEK Montréal reveals final music program, new additions for its 27th edition this August",
-      "link": "https://www.decodedmagazine.com/mutek-montreal-reveals-final-music-program-new-additions-for-its-27th-edition-this-august/",
-      "published": "2026-05-13T05:11:22.000Z",
-      "publishedTs": 1778649082000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "North America and Canada",
-        "Canada",
-        "Electronica",
-        "House Music",
-        "Montreal",
-        "Music Industry",
-        "Mutek",
-        "Progressive House",
-        "Quebec",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mutek-2026-line-up.png?resize=810%2C456&ssl=1",
-      "excerpt": "The International Festival of Digital Creativity and Electronic Music MUTEK has revealed the artists confirmed for its 27th edition, taking place August 25–30, 2026 in Montréal. Bringing together pioneers of electronic music, leading fig…"
     },
     {
       "id": "71c89dccfb53912beec645fa84f3c2f9640088fa",
