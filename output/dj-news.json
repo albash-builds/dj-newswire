@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T07:44:29.148Z",
+  "generatedAt": "2026-05-26T15:26:04.133Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,31 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "f2ffa209b8291f1749f001728e1849af1ca6eb29",
+      "title": "Before Dubplates There Were Bones: The Soviet X-Ray Vinyl Story",
+      "link": "https://www.decodedmagazine.com/before-dubplates-there-were-bones-the-soviet-x-ray-vinyl-story/",
+      "published": "2026-05-26T11:24:47.000Z",
+      "publishedTs": 1779794687000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "bootleg",
+        "Dubplates",
+        "Leningrad",
+        "Moscow",
+        "music production",
+        "Rostov",
+        "Russia",
+        "The Vinyl Factory",
+        "Underground Music",
+        "Vinyl"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/image-asset-1.webp?resize=480%2C488&ssl=1",
+      "excerpt": "How Cold War Leningrad pressed its forbidden records into other people&#8217;s skeletons, and why every bedroom producer who has ever cut a dubplate owes the lot of them a drink. Somewhere in a private collection there is a recording of …"
+    },
     {
       "id": "b8a9acda5e68dc20685054dcaf604023548c2416",
       "title": "Transmitter",
@@ -554,28 +579,28 @@
       "excerpt": "There are records you grow into, and there are records that arrive when you are ready for them. And then there is The KLF&#8217;s The White Room . It landed in March 1991 and, much in the way that modern EDM works for kids today, it was …"
     },
     {
-      "id": "01f8af7971e113a312c45ee4b67a69daf2a6ea7e",
-      "title": "LDN East Announce 4th Anniversary Summer Programme",
-      "link": "https://www.decodedmagazine.com/ldn-east-announce-4th-anniversary-summer-programme/",
-      "published": "2026-05-13T12:52:55.000Z",
-      "publishedTs": 1778676775000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Festivals",
-        "UK",
-        "Disco",
-        "East London",
-        "Funktion-One",
-        "Hip Hop",
-        "House Music",
-        "Rave",
-        "RnB",
-        "Techno",
-        "Void"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Sammy-Virji-x-Skepta-%E2%80%93-LDN-East-%E2%80%93-%40joshuahiatt-104-of-109.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "East London’s defining open-air venue LDN East marks its 4th anniversary this summer with its biggest programme to date &#8211; a season-long run of parties running from May to July that reflects the venue’s inclusive approach to club cu…"
+      "id": "40328b042a33b40e2ad2d3e28dacb17f4859b0e3",
+      "title": "UK politicians call for fresh competition probe into Live Nation",
+      "link": "https://mixmag.net/read/uk-mps-call-for-fresh-competition-probe-into-live-nation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Live-Nation_2026-05-26-110215_lckh.jpg?fit=cover&width=660&s=UEAkyRF99S--3gwHsKCTIID3C-8TXyoY8VKnxjflIpU",
+      "excerpt": "The Business and Trade Committee claim the events industry has become a &quot;climate of fear&quot; due to Live Nation&#039;s dominance Continue reading..."
+    },
+    {
+      "id": "6a61098789b03806637b13ff49d3961912d0b2ee",
+      "title": "Spotify faces backlash over launch of paid Premium AI remix tool",
+      "link": "https://mixmag.net/read/spotify-receives-backlash-over-launch-of-paid-premium-ai-remix-tool-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Spotify_231121_124448.jpg?fit=cover&width=660&s=7ZmBm7MCJzvsIZeggkpkWXR-OElv0k_Qqx_GBXa2gZk",
+      "excerpt": "The platform’s co-chief said he wants Spotify to be “the one that’s legal” when it comes to AI features Continue reading..."
     },
     {
       "id": "71c89dccfb53912beec645fa84f3c2f9640088fa",
@@ -1512,30 +1537,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-credit-warp.jpg?fit=cover&width=660&s=InMMwJjqtOHWbQzadh6twRqpCv-MNUJIhJodFzHaPjg",
       "excerpt": "A series of &#039;Inferno&#039; listening sessions will be held in seven cities across the world on May 29 Continue reading..."
-    },
-    {
-      "id": "803c1127465906255cee0b2c03b5985de6c88052",
-      "title": "Chase & Status to feature as characters in new James Bond game, 007: First Light",
-      "link": "https://mixmag.net/read/chase-status-feature-characters-new-james-bond-game-007-first-light-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/First-light.png?fit=cover&width=660&s=56EdEw1kyAxJoSu5B9HDmPsYDJ43QxFYvLOSdsHj3-k",
-      "excerpt": "The drum &#039;n&#039; bass duo join Dimitri Vegas as cast members for the video game, which will officially launch next month Continue reading..."
-    },
-    {
-      "id": "7b2f4c81369467ee23434e1950df024a37cd646a",
-      "title": "The Mix 104: riria",
-      "link": "https://mixmag.net/feature/the-mix-104-riria-tokyo-london-uk-garage-club-tour-europe",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_riria2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=skyGt34vuQLiMyrNFWfYEWmAZ-A_m7IkNoZ8LCPfddM",
-      "excerpt": "The Tokyo-born DJ shares a full-throttle club mix paying homage to the UK bass music she&#039;s been influenced by since moving to London, and talks digging through strangers’ SoundCloud collections and helping producers&#039; tracks go …"
     }
   ]
 }
