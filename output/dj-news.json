@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T09:44:46.318Z",
+  "generatedAt": "2026-05-27T12:51:27.866Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,43 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "bdc3efd62aba7fd6695eaaeea22f09d28d831463",
+      "title": "Token Records just dropped Spectral Tension by Border One",
+      "link": "https://www.decodedmagazine.com/token-records-just-dropped-spectral-tension-by-border-one/",
+      "published": "2026-05-27T11:13:46.000Z",
+      "publishedTs": 1779880426000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Bandcamp",
+        "Belgium",
+        "Border One",
+        "Techno",
+        "Token Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2456308596_10.jpg",
+      "excerpt": "Spectral Tension by Border One Border One pushes his sound to new extremities with this latest EP on Token ‘Spectral Tension’. Known for his driving, melodically abstract productions under eye twitching pressure, the Belgian artist takes…"
+    },
+    {
+      "id": "b731506423e78b774dba8e764056261cedcc1187",
+      "title": "NYC Record Label and Party Series Akumandra has announced its Inaugural Festival",
+      "link": "https://www.decodedmagazine.com/nyc-record-label-and-party-series-akumandra-has-announced-its-inaugural-festival/",
+      "published": "2026-05-27T10:12:49.000Z",
+      "publishedTs": 1779876769000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "North America and Canada",
+        "Festival",
+        "House Music",
+        "New York City",
+        "Techno"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/JULY-4-FLYER-FINAL.png?resize=768%2C1024&ssl=1",
+      "excerpt": "Record label and party series Akumandra, founded by Sainte Vie, has announced its inaugural festival after eleven years of throwing underground events in New York City. The Akumandra Festival will take place Saturday, July 4, 2026 at Kno…"
+    },
     {
       "id": "aba7cabf01be914581743b11cfa37c0e4f0e5732",
       "title": "In Times Of Dragons",
@@ -539,44 +576,16 @@
       "excerpt": "Suntory Toki Whisky , together with Technics , is set to bring a new ritual to UK nightlife with the launch of Toki-O Nights, a new series of free and ticketed music-led events inspired by Tokyo’s iconic kissaten and listening bar cultur…"
     },
     {
-      "id": "ebed6d5cda57bcf9a8e3140e3432713cd60914fb",
-      "title": "From Funktion-One To Gold Plated: A Working Class Ravers’ Tour Of Ultra High-End Audio",
-      "link": "https://www.decodedmagazine.com/from-funktion-one-to-gold-plated-a-working-class-ravers-tour-of-ultra-high-end-audio/",
-      "published": "2026-05-14T05:26:31.000Z",
-      "publishedTs": 1778736391000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/683741d1be498-lg.webp?resize=810%2C567&ssl=1",
-      "excerpt": "A field guide to the very top end of hi-fi, where the cabinets weigh more than your car, the cones are cut from diamonds, and the price tags would buy you a small Greek island. Strap in. It is shear madness that lives at the very top end…"
-    },
-    {
-      "id": "578925b9ff453840abbc73787f0a77970c2e349a",
-      "title": "Throwback Thursday: 3 A.M. Eternal, Dead Sheep and a Million Quid, The KLF’s The White Room Revisited",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-3-a-m-eternal-dead-sheep-and-a-million-quid-the-klfs-the-white-room-revisited/",
-      "published": "2026-05-14T04:16:14.000Z",
-      "publishedTs": 1778732174000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Acid House",
-        "Bill Drummond",
-        "Breakbeat",
-        "BRIT Awards",
-        "Electronica",
-        "Jimmy Cauty",
-        "Rave",
-        "The KLF",
-        "The White Room",
-        "Throwback Thursday"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/KLF.webp?resize=704%2C1024&ssl=1",
-      "excerpt": "There are records you grow into, and there are records that arrive when you are ready for them. And then there is The KLF&#8217;s The White Room . It landed in March 1991 and, much in the way that modern EDM works for kids today, it was …"
+      "id": "3bc54da11e9776dfb97f714337f8ac2677db1301",
+      "title": "A new 7,000-capacity warehouse venue is coming to London, Ironworks",
+      "link": "https://mixmag.net/read/new-7000-capacity-warehouse-venue-coming-east-london-ironworks-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead.jpg?fit=cover&width=660&s=cMW1kGn62htAVQ2747YfTdSf2CFMKUisXB1dsZmizDk",
+      "excerpt": "The new space will feature an open-air terrace overlooking the Thames, landing this autumn Continue reading..."
     },
     {
       "id": "40328b042a33b40e2ad2d3e28dacb17f4859b0e3",
@@ -1525,18 +1534,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/banksy-statue-london.jpg?fit=cover&width=660&s=1pyBwA-Al1RhKK4My1az0EcTfsOpLe96VUmyRsAM8Uc",
       "excerpt": "The anonymous artist has now taken ownership of the statue, which features his signature at its base Continue reading..."
-    },
-    {
-      "id": "ceb1bd483f094c13ae6f528047fcadf63710c4e6",
-      "title": "Boards of Canada invite fans to listen to new album ahead of release",
-      "link": "https://mixmag.net/read/boards-of-canada-invite-fans-to-listen-to-new-album-ahead-of-release-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-credit-warp.jpg?fit=cover&width=660&s=InMMwJjqtOHWbQzadh6twRqpCv-MNUJIhJodFzHaPjg",
-      "excerpt": "A series of &#039;Inferno&#039; listening sessions will be held in seven cities across the world on May 29 Continue reading..."
     }
   ]
 }
