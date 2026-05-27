@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T16:36:57.414Z",
+  "generatedAt": "2026-05-27T19:24:25.851Z",
   "total": 110,
   "sources": [
     {
@@ -574,6 +574,30 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mitsu-34-scaled.jpg",
       "excerpt": "Suntory Toki Whisky , together with Technics , is set to bring a new ritual to UK nightlife with the launch of Toki-O Nights, a new series of free and ticketed music-led events inspired by Tokyo’s iconic kissaten and listening bar cultur…"
+    },
+    {
+      "id": "3fbf8d306dd97d6b007792dd2496b059cb532f4e",
+      "title": "The Mix 108: Charlie Sparks",
+      "link": "https://mixmag.net/feature/the-mix-108-charlie-sparks-hard-techno-dj-power-up-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MIX108-CHARLIE.SPARKS2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CN1gsVXzXvnmKKgqtJRrXTaC-2aGebLJfZfP6UZMcWM",
+      "excerpt": "Charlie Sparks shares an energised mix and speaks to Patrick Hinton about drawing soft and warm energy from hard techno, rediscovering balance in his life and work, and the ups and downs leading leading to his debut album &#039;Power Up&…"
+    },
+    {
+      "id": "f3e5ebf5be89ff946e04a0efd37e84800266f8e3",
+      "title": "Manchester's The White Hotel confirms it will close in January 2027",
+      "link": "https://mixmag.net/read/manchesters-the-white-hotel-confirms-it-will-close-in-january-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/White-hotel.jpg?fit=cover&width=660&s=57_D87SjgXnKcPfe9CBOe9FM_eklT8VYHyTtGX15mUw",
+      "excerpt": "Co-founders Austin Collings and Ben Ward cited Salford flood risks as the reason behind the legendary club&#039;s closure Continue reading..."
     },
     {
       "id": "3d84001d640e4be27df555c19b72f2b36b9f221f",
@@ -1510,30 +1534,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sisi-dj.jpg?fit=cover&width=660&s=NJJLxLsRM1HJJSAPxx1nDelJ3cRzrOUFPKR0UCNMeb4",
       "excerpt": "The Japanese DJ suffered an intracerebral haemorrhage, the festival confirmed Continue reading..."
-    },
-    {
-      "id": "1ff604470555cd9a99fb0587d84d7685f6e4ac9b",
-      "title": "Building bridges with bass: Low End Therapy is starting a dubstep revolution in Mumbai",
-      "link": "https://mixmag.net/feature/remedy-in-rebellion-low-end-therapy-is-bringing-dubstep-to-the-mumbai-masses",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=hEGMwcOE7BIadWSSoekoezKGRK1ECGW8wGWz_SiU6Qk",
-      "excerpt": "Dishing out rapid-fire dubstep for their city&#039;s lower-caste communities, Low End Therapy isn&#039;t just about &quot;drops and bouncing&quot;. We spoke to founder Tushar Adhav to find out more about the core tenants of this burgeoni…"
-    },
-    {
-      "id": "24b0bc28a98c98d1154b27b1b527b5cb54f7f33c",
-      "title": "Watch Novelist offer up his Cornershop Confessions with ZYN",
-      "link": "https://mixmag.net/feature/watch-novelist-offer-up-his-cornershop-confessions-with-zyn",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mixmag-Branded-Editorial-Header-1-copy.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NcrSKSGbvWpP9Mk2ZrN2Pi7JK0yni3DrJ9W9Kp3dFPw",
-      "excerpt": "The London MC gives an unexpected confessional over the counter at ZYN’s newly fashioned cornershop, where People Just Do Nothing’s Asim Chaudhry plays bossman Continue reading..."
     }
   ]
 }
