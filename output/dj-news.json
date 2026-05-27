@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T05:14:22.583Z",
+  "generatedAt": "2026-05-27T09:44:46.318Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "aba7cabf01be914581743b11cfa37c0e4f0e5732",
+      "title": "In Times Of Dragons",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tori-amos-in-times-of-dragons/",
+      "published": "2026-05-27T08:56:15.000Z",
+      "publishedTs": 1779872175000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Tori-Amos-In-Times-Of-Dragons.jpg",
+      "excerpt": "A estas alturas y jugando ajena a la presión, Tori Amos vive cada proceso sin prisas, con calma. Y bien... La entrada In Times Of Dragons se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4dcce796e4758bdeff6bca126b4efdc4313c219d",
+      "title": "From A Hole In The Floor To A Fountain Of Youth",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/future-islands-from-a-hole-in-the-floor/",
+      "published": "2026-05-27T08:36:14.000Z",
+      "publishedTs": 1779870974000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/future-islands-From-A-Hole-In-The-Floor.jpg",
+      "excerpt": "Future Islands podrían haber publicado un recopilatorio al uso, de esos que, de algún modo, permiten cuantificar el notable valor... La entrada From A Hole In The Floor To A Fountain Of Youth se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f2ffa209b8291f1749f001728e1849af1ca6eb29",
       "title": "Before Dubplates There Were Bones: The Soviet X-Ray Vinyl Story",
@@ -353,34 +381,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/The-Smashing-Pumpkins-Zodeon-At-Crystal-Hall-.jpg",
       "excerpt": "Fiel a su impredecible instinto, Billy Corgan ha publicado por sorpresa y oficiosamente “Zodeon At Crystal Hall”, un disco de... La entrada Zodeon At Crystal Hall se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ea37162103e8185364630f391befb8e2ce001197",
-      "title": "Apache Bereber",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/cristian-de-moret-apache-bereber/",
-      "published": "2026-05-21T07:05:13.000Z",
-      "publishedTs": 1779347113000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cristian-de-Moret-Apache-Bereber.jpg",
-      "excerpt": "El flamenco mutante más rockero del último lustro, Cristian de Moret, vuelve a levantar el vuelo desde su Doñana (foto... La entrada Apache Bereber se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2a08b7e5cf9f286bd2ee620755da494c65a50684",
-      "title": "Ranjha",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ranjha/",
-      "published": "2026-05-20T13:10:04.000Z",
-      "publishedTs": 1779282604000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ranjha.jpg",
-      "excerpt": "Diez años después de “Junun”, el debut de esta asociación multicultural que junta a Jonny Greenwood, guitarrista de Radiohead y... La entrada Ranjha se publicó primero en MondoSonoro ."
     },
     {
       "id": "adf2595a324714cf66243b8c45588827d126efb3",
