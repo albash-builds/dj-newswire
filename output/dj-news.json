@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T03:33:41.102Z",
+  "generatedAt": "2026-05-28T07:57:25.315Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,34 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "e77a7a8c0a6fe54a00b505521006e38a2aeb526a",
+      "title": "Looking For People To Unfollow",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ecca-vandal-looking-for-people/",
+      "published": "2026-05-28T07:19:54.000Z",
+      "publishedTs": 1779952794000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ecca-Vandal-LOOKING-FOR-PEOPLE-.jpg",
+      "excerpt": "Para cualquier amante de lo que se conoció como la escena alternativa de los noventa, hay varias cuestiones del concepto... La entrada Looking For People To Unfollow se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "987bccdf2c6f11991a3a381f11d790df2cf4c86f",
+      "title": "Oral_Abisal",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/oral_abisal/",
+      "published": "2026-05-28T06:55:28.000Z",
+      "publishedTs": 1779951328000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Silvia-Perez-Cruz-Oral_Abisal.jpg",
+      "excerpt": "Hay artistas que se mueven siempre, hagan lo que hagan, en la excelencia, ya sea en trabajos compartidos, como los... La entrada Oral_Abisal se publicó primero en MondoSonoro ."
+    },
     {
       "id": "bdc3efd62aba7fd6695eaaeea22f09d28d831463",
       "title": "Token Records just dropped Spectral Tension by Border One",
@@ -390,34 +418,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Gere.jpg",
       "excerpt": "Musikak badu irudiak iradokitzeko ahalmena. Bada Iñaki Gereñuren (Peachy Joke) proiektu berriak hiriko argiak kantu bilakatu ditu. Zaila da jakitea... La entrada 23.556 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4e851e83fabac200865ca0b5cea6bf9a0cb73b36",
-      "title": "Down Home Gumbo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-donkey-rider-down-home-gumbo/",
-      "published": "2026-05-21T08:22:42.000Z",
-      "publishedTs": 1779351762000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Donkey-Riders-Gumbo.jpg",
-      "excerpt": "Si a la reducida extensión que ocupa la escena “bluesera”en el territorio vasco le añadimos la inquieta condición que caracteriza... La entrada Down Home Gumbo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "532d797b4bb03dfac9a761bc5935f5c29aaa372d",
-      "title": "Zodeon At Crystal Hall",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-smashing-pumpkins-zodeon-at-crystal-hall/",
-      "published": "2026-05-21T07:15:36.000Z",
-      "publishedTs": 1779347736000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/The-Smashing-Pumpkins-Zodeon-At-Crystal-Hall-.jpg",
-      "excerpt": "Fiel a su impredecible instinto, Billy Corgan ha publicado por sorpresa y oficiosamente “Zodeon At Crystal Hall”, un disco de... La entrada Zodeon At Crystal Hall se publicó primero en MondoSonoro ."
     },
     {
       "id": "adf2595a324714cf66243b8c45588827d126efb3",
