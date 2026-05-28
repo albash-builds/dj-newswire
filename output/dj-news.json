@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T07:57:25.315Z",
+  "generatedAt": "2026-05-28T11:41:30.366Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,48 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "1dd9393e7da257a3d0baa2baae03f3a27d5e1e0b",
+      "title": "Throwback Thursday: The Stanton SA-5, the battle mixer that banned the knob",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-the-stanton-sa-5-the-battle-mixer-that-banned-the-knob/",
+      "published": "2026-05-28T10:40:23.000Z",
+      "publishedTs": 1779964823000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Throwback Thursdays",
+        "Battle Mixer",
+        "DJ Gear",
+        "DJ Mixer",
+        "Faders",
+        "Stanton",
+        "Stanton SA-5",
+        "Throback Thursday",
+        "Turntablist"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/804052000000000-01-2000x2000-1.webp?resize=810%2C810&ssl=1",
+      "excerpt": "If you ever fancied a mixer that treated rotary controls like an ex who still had your hoodie, this one was for you. Once again, we did deep into that particular kind of DJ gear that arrived to solve a problem almost nobody was losing sl…"
+    },
+    {
+      "id": "818d14c7b0734702f562c9caa3644e37d1ce9b64",
+      "title": "YouTube’s New AI Rules And What They Mean For Music Video",
+      "link": "https://www.decodedmagazine.com/youtubes-new-ai-rules-and-what-they-mean-for-music-video/",
+      "published": "2026-05-28T09:38:36.000Z",
+      "publishedTs": 1779961116000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "Google",
+        "metadata",
+        "video",
+        "Youtube"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/youtube-logo.png",
+      "excerpt": "YouTube has quietly redrawn the rules on how artificial intelligence gets flagged on the world&#8217;s biggest video platform, and if you make a living from moving image, you should be paying attention. On 27 May the company announced tw…"
+    },
     {
       "id": "e77a7a8c0a6fe54a00b505521006e38a2aeb526a",
       "title": "Looking For People To Unfollow",
@@ -531,49 +573,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/JOKERTHEORY_PHOTOS_ADE26_215.jpg?resize=810%2C540&ssl=1",
       "excerpt": "When the organisers of Return to Rio cancelled their 2024 event in New South Wales, they did so citing a 529% increase in police and medical costs. The figure has been repeated often enough in the press since to start losing its weight. …"
-    },
-    {
-      "id": "af436da944372c1e8f643a6743fd848a07d9ed57",
-      "title": "Five on Friday with Mark Collings",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-mark-collings/",
-      "published": "2026-05-15T05:40:58.000Z",
-      "publishedTs": 1778823658000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "breaks",
-        "Electro",
-        "Electronica",
-        "House Music",
-        "Margate",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mark-scaled-e1778819279699.jpg",
-      "excerpt": "There are some names that don&#8217;t shout about themselves but carry weight all the same, the kind of operator whose CV reads like a love letter to the capital&#8217;s underground. Mark Collings is one of them. His story starts in the …"
-    },
-    {
-      "id": "a7e05adf6fab3734b4b865406b3729bb8b963e2e",
-      "title": "Technics launch Toki-O Nights, UK listening bar series",
-      "link": "https://www.decodedmagazine.com/technics-launch-toki-o-nights-a-new-uk-listening-bar-series/",
-      "published": "2026-05-14T12:49:51.000Z",
-      "publishedTs": 1778762991000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "chill out",
-        "Electronica",
-        "House Music",
-        "London",
-        "Manchester",
-        "Suntory",
-        "technics",
-        "Toki-O Nights",
-        "Whisky"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Mitsu-34-scaled.jpg",
-      "excerpt": "Suntory Toki Whisky , together with Technics , is set to bring a new ritual to UK nightlife with the launch of Toki-O Nights, a new series of free and ticketed music-led events inspired by Tokyo’s iconic kissaten and listening bar cultur…"
     },
     {
       "id": "3fbf8d306dd97d6b007792dd2496b059cb532f4e",
