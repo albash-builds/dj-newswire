@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T03:33:39.362Z",
+  "generatedAt": "2026-05-29T07:55:33.074Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,102 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "81deec31e41c877a960573b5885e9f3acb0b6831",
+      "title": "Philadelphia’s Been Good To Me",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kurt-vile-philadelphias-been-good-to-me/",
+      "published": "2026-05-29T07:20:49.000Z",
+      "publishedTs": 1780039249000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kurt-vile-philadelphias-been-good-to-me.jpg",
+      "excerpt": "Aunque tenía buenas canciones, el anterior álbum del melenudo compositor norteamericano me dejó cierto regusto a auto complacencia. Empezaba a... La entrada Philadelphia’s Been Good To Me se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "31a5f7146dd726e464664ba6b0bf43175e9a3635",
+      "title": "Five on Friday with Richard Rogers",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-richard-rogers/",
+      "published": "2026-05-29T06:57:45.000Z",
+      "publishedTs": 1780037865000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "House Music",
+        "Margate",
+        "Margate Arts Club",
+        "Ministry of Sound",
+        "Richard Rogers",
+        "The Cross",
+        "The Red Telephone",
+        "Turnmills"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/IMG_0276-scaled.jpeg",
+      "excerpt": "Richard Rogers came into music early. As a young teenager he was already spending time in Rough Trade on Portobello Road, drawn to punk, tough US garage and heavier sounds. The route into dance music followed naturally: Chicago and Detro…"
+    },
+    {
+      "id": "41e37159a23fb7182dee9b7e3ad2ce1e9a884ff4",
+      "title": "Argentinian cultural institution Artlab celebrates 10 years with four V/A Releases",
+      "link": "https://www.decodedmagazine.com/argentinian-cultural-institution-artlab-celebrates-10-years-with-four-v-a-releases/",
+      "published": "2026-05-29T06:39:44.000Z",
+      "publishedTs": 1780036784000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Argentina",
+        "Artlab",
+        "breaks",
+        "Electro",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/ARTLAB001.1Artwork.jpg",
+      "excerpt": "Recognised as a site of Cultural Interest in 2023, Artlab celebrates a decade of boundary-pushing work with a series of four 12”/Digital releases featuring the likes of Voigtmann, Cristi Cons, and Jorge Savoretti, among established local…"
+    },
+    {
+      "id": "824070fde7f01c5c858d49547a3a6e041f486344",
+      "title": "Deep Dish release #GU49 Dublin, the final part of their Global Underground City Mix Trilogy",
+      "link": "https://www.decodedmagazine.com/deep-dish-release-gu49-dublin-the-final-part-of-their-global-underground-city-mix-trilogy/",
+      "published": "2026-05-29T06:30:47.000Z",
+      "publishedTs": 1780036247000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "16BL",
+        "Deep Dish",
+        "Dubfire",
+        "Franky Wah",
+        "Global Underground",
+        "Guy J",
+        "House Music",
+        "Miss Kitten",
+        "Moderat",
+        "Progressive House"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/GU49-Deep-Dish-Dublin-cover.jpg?resize=810%2C810&ssl=1",
+      "excerpt": "Deep Dish make their monumental return to Global Underground with #GU49 Dublin. And what a return it is. 25 years ago, Global Underground and Deep Dish brought you the incredible #GU21 Moscow. Then came the seminal #GU25 Toronto, where S…"
+    },
+    {
+      "id": "38bfcf2637f39b93544173bcf0e10547fc11ab06",
+      "title": "Crítica de 'All In Now', el nuevo álbum de la banda de Keanu Reeves",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dogstar-all-in-now/",
+      "published": "2026-05-29T04:48:41.000Z",
+      "publishedTs": 1780030121000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Dogstar-All-In-Now.jpg",
+      "excerpt": "Hay algo entrañable en la imagen de tres viejos amigos retomando su grupo veintitantos años después. La cosa mejora cuando... La entrada Crítica de &#039;All In Now&#039;, el nuevo álbum de la banda de Keanu Reeves se publicó primero en …"
+    },
     {
       "id": "1dd9393e7da257a3d0baa2baae03f3a27d5e1e0b",
       "title": "Throwback Thursday: The Stanton SA-5, the battle mixer that banned the knob",
@@ -299,20 +395,6 @@
       "excerpt": "Leeds-based events brand Mint, known for Mint Festival, Mint Warehouse and the former Mint Club, has officially announced the location of its highly anticipated new venue, Mint XL, set to open within the former PRYZM nightclub site on Wo…"
     },
     {
-      "id": "9efa70c30fde046017d9385a26857ae5b4a883e8",
-      "title": "Boys Cry Too",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/boys-cry-too-haunted-youth/",
-      "published": "2026-05-24T14:06:27.000Z",
-      "publishedTs": 1779631587000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/TheHauntedYouthCD.jpg",
-      "excerpt": "La banda belga The Haunted Youth da un importante paso con el que viene siendo su segundo disco, materializando en... La entrada Boys Cry Too se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "d11c78e87da7afb25b4ddd8e8109c64781208206",
       "title": "Watch: Fergie Delivers an Exclusive Vinyl Video Mix for Decoded Magazine and Godskitchen",
       "link": "https://www.decodedmagazine.com/watch-fergie-delivers-an-exclusive-vinyl-video-mix-for-decoded-magazine-and-godskitchen/",
@@ -330,20 +412,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Fergie-2026-credit-Sam-Marshall-6-scaled-e1779619554286.jpg",
       "excerpt": "There are mixes, and then there are statements. This is firmly the latter. We are genuinely proud to present an exclusive video mix from Fergie , recorded specially for Decoded Magazine in partnership with Godskitchen , dropped ahead of …"
-    },
-    {
-      "id": "408e7a67075b1d8531e9ab550f80f2bd5f823d1d",
-      "title": "Yendo rápido a ningún lugar",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bestia-bebe-yendo-rapido-a-ningun-lugar/",
-      "published": "2026-05-22T14:15:26.000Z",
-      "publishedTs": 1779459326000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Bestia-Bebe-Yendo-rapido-a-ningun-lugar.jpg",
-      "excerpt": "Cuando uno empieza a peinar canas, es fácil caer en la tentadora debilidad de releer el pasado con puño de... La entrada Yendo rápido a ningún lugar se publicó primero en MondoSonoro ."
     },
     {
       "id": "6eca16c67b32ad03daa40bd2cf980562609b893b",
@@ -504,75 +572,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Fergie-2026-credit-Sam-Marshall-4.jpg?resize=683%2C1024&ssl=1",
       "excerpt": "The last time Decoded sat down properly with Fergie aka Robert Ferguson, Daz Pearson was holding the dictaphone, the venue conversation revolved around Legends in the Park , and the phrase &#8220;global pandemic&#8221; was still somethin…"
-    },
-    {
-      "id": "a0374bb327a4c54981310923b9378b41fbd10059",
-      "title": "fabric Records unveils VA Compilation fabric SELECTS VII",
-      "link": "https://www.decodedmagazine.com/fabric-records-unveils-va-compilation-fabric-selects-vii/",
-      "published": "2026-05-18T12:44:25.000Z",
-      "publishedTs": 1779108265000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "2 step",
-        "Fabric",
-        "fabric london",
-        "Garage",
-        "UKG"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/fabric-select-11.jpg",
-      "excerpt": "FABRICLIVE SELECTS VII by Various Artists fabric SELECTS returns for its seventh volume. Following DJ Q&#8217;s recent single &#8216;Lose My Cool&#8217;. The compilation gathers UK garage and bass material from both established names and…"
-    },
-    {
-      "id": "5b65d161f1890c0de113d3765bdd114c1d44db03",
-      "title": "Inside the Booth: AJ Gibson on Twenty Records That Built Godskitchen",
-      "link": "https://www.decodedmagazine.com/inside-the-booth-aj-gibson-on-twenty-records-that-built-godskitchen/",
-      "published": "2026-05-18T10:48:53.000Z",
-      "publishedTs": 1779101333000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "2000s",
-        "90s",
-        "Agnelli and Nelson",
-        "Amnesia",
-        "Armin Van Buuren",
-        "BBE",
-        "Birmingham",
-        "DJ Misjah &amp; DJ Tim",
-        "Fergie",
-        "Godskicthen"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/662627985_1500641921627712_8498933232600372065_n.jpg?resize=810%2C1013&ssl=1",
-      "excerpt": "Few brands in British dance music carry the weight of Godskitchen . The name itself came from a simple observation by founders Chris Griffin and Tyrone Matthews, who noticed that the best house parties always seemed to gravitate around t…"
-    },
-    {
-      "id": "f2c38fc0314683156b8355dc2a48198dc6f156ec",
-      "title": "Australia’s Festivals Are Not Dying. They Are Being Asked to Pay for Their Own Survival.",
-      "link": "https://www.decodedmagazine.com/australias-festivals-are-not-dying-they-are-being-asked-to-pay-for-their-own-survival/",
-      "published": "2026-05-18T06:02:17.000Z",
-      "publishedTs": 1779084137000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Feature Articles",
-        "Featured",
-        "Adelaide",
-        "Brisbane",
-        "Bush Doof",
-        "Councils",
-        "Creative Australia",
-        "Damien Gelle",
-        "Dan Burke",
-        "Electric Gardens",
-        "festivals"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/JOKERTHEORY_PHOTOS_ADE26_215.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "When the organisers of Return to Rio cancelled their 2024 event in New South Wales, they did so citing a 529% increase in police and medical costs. The figure has been repeated often enough in the press since to start losing its weight. …"
     },
     {
       "id": "43741ede2bfac945efba55454ef8cda5f3f48682",
