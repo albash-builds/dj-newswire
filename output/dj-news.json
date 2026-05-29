@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T07:55:33.074Z",
+  "generatedAt": "2026-05-29T11:29:36.223Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,41 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "bd226c389eb6d79eac9c628acee1ef1d9e2dea89",
+      "title": "Exclusive Premiere – benjunnen – Heart EP (Vocal Mix)",
+      "link": "https://www.decodedmagazine.com/exclusive-premiere-benjunnen-heart-ep-vocal-mix/",
+      "published": "2026-05-29T11:28:21.000Z",
+      "publishedTs": 1780054101000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Premieres",
+        "Ben Clifford",
+        "benjunnen",
+        "deep house",
+        "House Music",
+        "Premiere",
+        "Tech House"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Ben-Clifford-scaled.jpg",
+      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; benjunnen &#8211; Heart EP (Vocal Mix) We welcome one of our own The London-based artist has spent years working in the background of electronic music&#8217;s infrastructure, as web designer …"
+    },
+    {
+      "id": "0456b75c49676c18c554f2fe406c0cc0835cd503",
+      "title": "Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/emilia-pardo-y-bazan-que-ha-sido-de-los-planes/",
+      "published": "2026-05-29T08:26:19.000Z",
+      "publishedTs": 1780043179000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Emilia-Pardo-y-Bazan-Que-ha-sido-de-los-planes-.jpg",
+      "excerpt": "El grupo de Talavera de la Reina, Emilia, Pardo y Bazán (Sergio Sanguino, Paula García, Ada Martínez, Pepe Sánchez y,... La entrada Qué ha sido de los planes que hicimos anoche cuando estábamos borrachos se publicó primero en MondoSonoro ."
+    },
     {
       "id": "81deec31e41c877a960573b5885e9f3acb0b6831",
       "title": "Philadelphia’s Been Good To Me",
@@ -340,20 +375,6 @@
       "excerpt": "A priori, no tenía mucho interés en el debut de Martin Urrutia: durante su paso por Operación Triunfo no estaba... La entrada La Insolación se publicó primero en MondoSonoro ."
     },
     {
-      "id": "816467e5dfa1f83de8a09fabb7b11c9cf2b7b652",
-      "title": "Trixies",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/squeeze-trixies/",
-      "published": "2026-05-25T07:12:43.000Z",
-      "publishedTs": 1779693163000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Squeeze-Trixies.jpg",
-      "excerpt": "Hay algo entrañable pero también ligeramente temerario en rescatar unas canciones escritas siendo adolescente y convertirlas medio siglo después en... La entrada Trixies se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "1f3615b39006a1b5f603c12acb7dd1fcc461b779",
       "title": "TEED announces !K7 ‘DJ-Kicks’ mix",
       "link": "https://www.decodedmagazine.com/teed-announces-k7-dj-kicks-mix/",
@@ -547,31 +568,6 @@
       ],
       "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a1601452348_10.jpg",
       "excerpt": "Aeternum (Existenz) by Function Much like the fusion resulting in the output of light and heat within a star, the last seven years for Dave Sumner, aka Function, have been defined by immense change and an outpouring of creative energy. W…"
-    },
-    {
-      "id": "88a6837c0af37353488f348c54a990121f84818b",
-      "title": "Godskitchen, Reloaded: Fergie Returns to the Room That Made Him",
-      "link": "https://www.decodedmagazine.com/godskitchen-reloaded-fergie-returns-to-the-room-that-made-him/",
-      "published": "2026-05-18T14:33:33.000Z",
-      "publishedTs": 1779114813000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Interviews",
-        "Mixes",
-        "Techno",
-        "AI",
-        "Birmingham",
-        "BXR Records",
-        "Fergie",
-        "Hard House",
-        "Las Vegas",
-        "Nukleuuz Records",
-        "raving"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Fergie-2026-credit-Sam-Marshall-4.jpg?resize=683%2C1024&ssl=1",
-      "excerpt": "The last time Decoded sat down properly with Fergie aka Robert Ferguson, Daz Pearson was holding the dictaphone, the venue conversation revolved around Legends in the Park , and the phrase &#8220;global pandemic&#8221; was still somethin…"
     },
     {
       "id": "43741ede2bfac945efba55454ef8cda5f3f48682",
