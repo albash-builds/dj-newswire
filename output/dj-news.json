@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-30T09:15:27.783Z",
-  "total": 110,
+  "generatedAt": "2026-05-30T11:19:30.221Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,8 +18,29 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+    }
+  ],
   "items": [
+    {
+      "id": "4d31fa62ae1052f42843c45d0bc7b9d2e5ff3983",
+      "title": "Nostalgia",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/revendless-nostalgia/",
+      "published": "2026-05-30T09:16:39.000Z",
+      "publishedTs": 1780132599000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Revendless-Nostalgia.jpg",
+      "excerpt": "Particularmente, me llama mucho la atención que alguien que aún no alcanza los cuarenta años desvele un disco que orbita... La entrada Nostalgia se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2bbc78c8d9b9a8c6c011f5ff238b445584253c41",
       "title": "Reseñamos 'Inferno', el retorno discográfico de Boards Of Canada",
@@ -33,27 +54,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Boards-of-Canada-Inferno.jpg",
       "excerpt": "Trece años después de “Tomorrow’s Harvest”, Boards of Canada han convertido el anuncio de “Inferno” en una campaña de comunicación... La entrada Reseñamos &#039;Inferno&#039;, el retorno discográfico de Boards Of Canada se publicó primer…"
-    },
-    {
-      "id": "bd226c389eb6d79eac9c628acee1ef1d9e2dea89",
-      "title": "Exclusive Premiere – benjunnen – Heart (Vocal Mix)",
-      "link": "https://www.decodedmagazine.com/exclusive-premiere-benjunnen-heart-ep-vocal-mix/",
-      "published": "2026-05-29T11:28:21.000Z",
-      "publishedTs": 1780054101000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Premieres",
-        "Ben Clifford",
-        "benjunnen",
-        "deep house",
-        "House Music",
-        "Premiere",
-        "Tech House"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Ben-Clifford-scaled.jpg",
-      "excerpt": "Decoded Magazine · Exclusive Premiere &#8211; benjunnen &#8211; Heart EP (Vocal Mix) We welcome one of our own. The London-based artist has spent years working not just as a DJ/producer but also in the background of electronic music&#821…"
     },
     {
       "id": "0456b75c49676c18c554f2fe406c0cc0835cd503",
@@ -84,74 +84,6 @@
       "excerpt": "Aunque tenía buenas canciones, el anterior álbum del melenudo compositor norteamericano me dejó cierto regusto a auto complacencia. Empezaba a... La entrada Philadelphia’s Been Good To Me se publicó primero en MondoSonoro ."
     },
     {
-      "id": "31a5f7146dd726e464664ba6b0bf43175e9a3635",
-      "title": "Five on Friday with Richard Rogers",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-richard-rogers/",
-      "published": "2026-05-29T06:57:45.000Z",
-      "publishedTs": 1780037865000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "deep house",
-        "House Music",
-        "Margate",
-        "Margate Arts Club",
-        "Ministry of Sound",
-        "Richard Rogers",
-        "The Cross",
-        "The Red Telephone",
-        "Turnmills"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/IMG_0276-scaled.jpeg",
-      "excerpt": "Richard Rogers came into music early. As a young teenager he was already spending time in Rough Trade on Portobello Road, drawn to punk, tough US garage and heavier sounds. The route into dance music followed naturally: Chicago and Detro…"
-    },
-    {
-      "id": "41e37159a23fb7182dee9b7e3ad2ce1e9a884ff4",
-      "title": "Argentinian cultural institution Artlab celebrates 10 years with four V/A Releases",
-      "link": "https://www.decodedmagazine.com/argentinian-cultural-institution-artlab-celebrates-10-years-with-four-v-a-releases/",
-      "published": "2026-05-29T06:39:44.000Z",
-      "publishedTs": 1780036784000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Argentina",
-        "Artlab",
-        "breaks",
-        "Electro",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/ARTLAB001.1Artwork.jpg",
-      "excerpt": "Recognised as a site of Cultural Interest in 2023, Artlab celebrates a decade of boundary-pushing work with a series of four 12”/Digital releases featuring the likes of Voigtmann, Cristi Cons, and Jorge Savoretti, among established local…"
-    },
-    {
-      "id": "824070fde7f01c5c858d49547a3a6e041f486344",
-      "title": "Deep Dish release #GU49 Dublin, the final part of their Global Underground City Mix Trilogy",
-      "link": "https://www.decodedmagazine.com/deep-dish-release-gu49-dublin-the-final-part-of-their-global-underground-city-mix-trilogy/",
-      "published": "2026-05-29T06:30:47.000Z",
-      "publishedTs": 1780036247000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "16BL",
-        "Deep Dish",
-        "Dubfire",
-        "Franky Wah",
-        "Global Underground",
-        "Guy J",
-        "House Music",
-        "Miss Kitten",
-        "Moderat",
-        "Progressive House"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/GU49-Deep-Dish-Dublin-cover.jpg?resize=810%2C810&ssl=1",
-      "excerpt": "Deep Dish make their monumental return to Global Underground with #GU49 Dublin. And what a return it is. 25 years ago, Global Underground and Deep Dish brought you the incredible #GU21 Moscow. Then came the seminal #GU25 Toronto, where S…"
-    },
-    {
       "id": "38bfcf2637f39b93544173bcf0e10547fc11ab06",
       "title": "Crítica de 'All In Now', el nuevo álbum de la banda de Keanu Reeves",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dogstar-all-in-now/",
@@ -164,48 +96,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Dogstar-All-In-Now.jpg",
       "excerpt": "Hay algo entrañable en la imagen de tres viejos amigos retomando su grupo veintitantos años después. La cosa mejora cuando... La entrada Crítica de &#039;All In Now&#039;, el nuevo álbum de la banda de Keanu Reeves se publicó primero en …"
-    },
-    {
-      "id": "1dd9393e7da257a3d0baa2baae03f3a27d5e1e0b",
-      "title": "Throwback Thursday: The Stanton SA-5, the battle mixer that banned the knob",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-stanton-sa-5-the-battle-mixer-that-banned-the-knob/",
-      "published": "2026-05-28T10:40:23.000Z",
-      "publishedTs": 1779964823000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Battle Mixer",
-        "DJ Gear",
-        "DJ Mixer",
-        "Faders",
-        "Stanton",
-        "Stanton SA-5",
-        "Throback Thursday",
-        "Turntablist"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/804052000000000-01-2000x2000-1.webp?resize=810%2C810&ssl=1",
-      "excerpt": "If you ever fancied a mixer that treated rotary controls like an ex who still had your hoodie, this one was for you. Once again, we did deep into that particular kind of DJ gear that arrived to solve a problem almost nobody was losing sl…"
-    },
-    {
-      "id": "818d14c7b0734702f562c9caa3644e37d1ce9b64",
-      "title": "YouTube’s New AI Rules And What They Mean For Music Video",
-      "link": "https://www.decodedmagazine.com/youtubes-new-ai-rules-and-what-they-mean-for-music-video/",
-      "published": "2026-05-28T09:38:36.000Z",
-      "publishedTs": 1779961116000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "Google",
-        "metadata",
-        "video",
-        "Youtube"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/youtube-logo.png",
-      "excerpt": "YouTube has quietly redrawn the rules on how artificial intelligence gets flagged on the world&#8217;s biggest video platform, and if you make a living from moving image, you should be paying attention. On 27 May the company announced tw…"
     },
     {
       "id": "e77a7a8c0a6fe54a00b505521006e38a2aeb526a",
@@ -236,43 +126,6 @@
       "excerpt": "Hay artistas que se mueven siempre, hagan lo que hagan, en la excelencia, ya sea en trabajos compartidos, como los... La entrada Oral_Abisal se publicó primero en MondoSonoro ."
     },
     {
-      "id": "bdc3efd62aba7fd6695eaaeea22f09d28d831463",
-      "title": "Token Records just dropped Spectral Tension by Border One",
-      "link": "https://www.decodedmagazine.com/token-records-just-dropped-spectral-tension-by-border-one/",
-      "published": "2026-05-27T11:13:46.000Z",
-      "publishedTs": 1779880426000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Bandcamp",
-        "Belgium",
-        "Border One",
-        "Techno",
-        "Token Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a2456308596_10.jpg",
-      "excerpt": "Spectral Tension by Border One Border One pushes his sound to new extremities with this latest EP on Token ‘Spectral Tension’. Known for his driving, melodically abstract productions under eye twitching pressure, the Belgian artist takes…"
-    },
-    {
-      "id": "b731506423e78b774dba8e764056261cedcc1187",
-      "title": "NYC Record Label and Party Series Akumandra has announced its Inaugural Festival",
-      "link": "https://www.decodedmagazine.com/nyc-record-label-and-party-series-akumandra-has-announced-its-inaugural-festival/",
-      "published": "2026-05-27T10:12:49.000Z",
-      "publishedTs": 1779876769000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "Festival",
-        "House Music",
-        "New York City",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/JULY-4-FLYER-FINAL.png?resize=768%2C1024&ssl=1",
-      "excerpt": "Record label and party series Akumandra, founded by Sainte Vie, has announced its inaugural festival after eleven years of throwing underground events in New York City. The Akumandra Festival will take place Saturday, July 4, 2026 at Kno…"
-    },
-    {
       "id": "aba7cabf01be914581743b11cfa37c0e4f0e5732",
       "title": "In Times Of Dragons",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/tori-amos-in-times-of-dragons/",
@@ -301,31 +154,6 @@
       "excerpt": "Future Islands podrían haber publicado un recopilatorio al uso, de esos que, de algún modo, permiten cuantificar el notable valor... La entrada From A Hole In The Floor To A Fountain Of Youth se publicó primero en MondoSonoro ."
     },
     {
-      "id": "f2ffa209b8291f1749f001728e1849af1ca6eb29",
-      "title": "Before Dubplates There Were Bones: The Soviet X-Ray Vinyl Story",
-      "link": "https://www.decodedmagazine.com/before-dubplates-there-were-bones-the-soviet-x-ray-vinyl-story/",
-      "published": "2026-05-26T11:24:47.000Z",
-      "publishedTs": 1779794687000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "bootleg",
-        "Dubplates",
-        "Leningrad",
-        "Moscow",
-        "music production",
-        "Rostov",
-        "Russia",
-        "The Vinyl Factory",
-        "Underground Music",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/image-asset-1.webp?resize=480%2C488&ssl=1",
-      "excerpt": "How Cold War Leningrad pressed its forbidden records into other people&#8217;s skeletons, and why every bedroom producer who has ever cut a dubplate owes the lot of them a drink. Somewhere in a private collection there is a recording of …"
-    },
-    {
       "id": "b8a9acda5e68dc20685054dcaf604023548c2416",
       "title": "Transmitter",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/cut-worms-transmitte/",
@@ -338,236 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cut-Worms-Transmitter.jpg",
       "excerpt": "En tiempos en los que hay que sacar la cabeza entre un millón de competidores y para ello se tiende... La entrada Transmitter se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "61b2e26c0b1ef05626c4bac6d34aee106cc2c873",
-      "title": "Sound Avenue just released Dimensions 04",
-      "link": "https://www.decodedmagazine.com/sound-avenue-just-released-dimensions-04/",
-      "published": "2026-05-26T06:19:22.000Z",
-      "publishedTs": 1779776362000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Album",
-        "Belgium",
-        "deep house",
-        "Madloch",
-        "Melodic Techno",
-        "Progressive House",
-        "Sound Avenue"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/sound-avenue-dimensions-4.jpg",
-      "excerpt": "Dimensions_04 by Various Artists Belgian imprint Sound Avenue returns with the fourth instalment of its Dimensions series, a various artists collection that lives up to its name. Founded in 2011 by DJ and producer Madloch, the label has …"
-    },
-    {
-      "id": "9b44e0da4648832755253c616c8928207e698c6c",
-      "title": "Txaskario",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/maraca-diablo-txaskario/",
-      "published": "2026-05-25T11:36:48.000Z",
-      "publishedTs": 1779709008000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Maraca-diablo.jpg",
-      "excerpt": "Históricamente, y más en las últimas décadas, siempre ha existido la figura del músico inquieto y ecléctico a quien enfocarse... La entrada Txaskario se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1f3615b39006a1b5f603c12acb7dd1fcc461b779",
-      "title": "TEED announces !K7 ‘DJ-Kicks’ mix",
-      "link": "https://www.decodedmagazine.com/teed-announces-k7-dj-kicks-mix/",
-      "published": "2026-05-25T05:18:02.000Z",
-      "publishedTs": 1779686282000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Electronica",
-        "House Music",
-        "iK7",
-        "TEED",
-        "Totally exinct dinosaurs"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/TEED-scaled-e1779686034371.png",
-      "excerpt": "TEED has announced his long-awaited DJ-Kicks mix, arriving 26th June, alongside the release of first offering, “Never Seen You Dance (DJ-Kicks Version)”, a reimagined, club-ready update of his 2022 track. The new version sets the tone fo…"
-    },
-    {
-      "id": "981937caaf34f7278177fbb810fb4eaa25871b9d",
-      "title": "Mint announces location of brand new 2500 capacity venue in Leeds city centre",
-      "link": "https://www.decodedmagazine.com/mint-announces-location-of-brand-new-2500-capacity-venue-in-leeds-city-centre/",
-      "published": "2026-05-25T05:08:56.000Z",
-      "publishedTs": 1779685736000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "UK",
-        "DnB",
-        "Dubstep",
-        "House",
-        "Leeds",
-        "Mint",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/Mint-XL.png?resize=640%2C426&ssl=1",
-      "excerpt": "Leeds-based events brand Mint, known for Mint Festival, Mint Warehouse and the former Mint Club, has officially announced the location of its highly anticipated new venue, Mint XL, set to open within the former PRYZM nightclub site on Wo…"
-    },
-    {
-      "id": "d11c78e87da7afb25b4ddd8e8109c64781208206",
-      "title": "Watch: Fergie Delivers an Exclusive Vinyl Video Mix for Decoded Magazine and Godskitchen",
-      "link": "https://www.decodedmagazine.com/watch-fergie-delivers-an-exclusive-vinyl-video-mix-for-decoded-magazine-and-godskitchen/",
-      "published": "2026-05-24T10:47:49.000Z",
-      "publishedTs": 1779619669000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Mixes",
-        "Techno",
-        "Fergie",
-        "Godskicthen",
-        "Vinyl"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Fergie-2026-credit-Sam-Marshall-6-scaled-e1779619554286.jpg",
-      "excerpt": "There are mixes, and then there are statements. This is firmly the latter. We are genuinely proud to present an exclusive video mix from Fergie , recorded specially for Decoded Magazine in partnership with Godskitchen , dropped ahead of …"
-    },
-    {
-      "id": "6eca16c67b32ad03daa40bd2cf980562609b893b",
-      "title": "DJ Koze shares new track ‘Spiralen’ + video",
-      "link": "https://www.decodedmagazine.com/dj-koze-shares-new-track-spiralen-video/",
-      "published": "2026-05-22T09:42:09.000Z",
-      "publishedTs": 1779442929000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "DJ Koze"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/DJ-Koze.jpeg",
-      "excerpt": "There are artists who create music, and then there is&nbsp;DJ Koze, who, according to certain accounts that have never been fully verified, was already involved in the shaping of the universe long before he agreed to take on physical for…"
-    },
-    {
-      "id": "5e9887d1ff0fdc6c47f4361a8e8e10ccace2638a",
-      "title": "Five on Friday with Viper Patrol",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-viper-patrol/",
-      "published": "2026-05-22T07:06:12.000Z",
-      "publishedTs": 1779433572000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Belfast",
-        "Electro",
-        "Five on Friday",
-        "House Music",
-        "Techno",
-        "The Red Telephone",
-        "Viper Patrol"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/Viper-Patrol-scaled-e1779433456771.png",
-      "excerpt": "Some producers chase the big moment. Belfast&#8217;s Viper Patrol prefers to creep up on you. His sound sits in the murk between electro, dark disco and leftfield house, all brooding basslines, razor-sharp synths and atmosphere for days,…"
-    },
-    {
-      "id": "941045e51aaf21c7375cd5f849c46ecf2f7d176d",
-      "title": "Bass Made Visible: H₇O Launches on LA’s Westside",
-      "link": "https://www.decodedmagazine.com/bass-made-visible-h%e2%82%87o-launches-on-las-westside/",
-      "published": "2026-05-22T06:07:24.000Z",
-      "publishedTs": 1779430044000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "North America and Canada",
-        "California",
-        "House Music",
-        "Jimmy Bel",
-        "LA",
-        "Lincoln Boulevard",
-        "Paul Edge",
-        "Techno",
-        "Venice Beach"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/H70-NEW-flyer-no-crop_red.jpg?resize=810%2C574&ssl=1",
-      "excerpt": "Los Angeles underground night H₇O launches this month with a pointed provocation: “Don’t just feel the bass. See it.” Kicking off at Wurstküche Venice on May 30, the party pairs proper DJ craftsmanship with immersive visuals designed to …"
-    },
-    {
-      "id": "78be182ba0ce524c3372237ef2f1d29577733dfa",
-      "title": "New documentary explores London’s underground accessible club scene",
-      "link": "https://www.decodedmagazine.com/new-documentary-explores-londons-underground-accessible-club-scene/",
-      "published": "2026-05-22T05:06:55.000Z",
-      "publishedTs": 1779426415000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Industry",
-        "93 Feet East",
-        "Bubble Club",
-        "Documentary",
-        "House Music",
-        "London"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/BubbleClub_93FeetEast_Oct25_DB_0243-1-scaled-e1779426268583.jpg",
-      "excerpt": "A new feature documentary is in development exploring nightlife through the lens of people with learning disabilities and autism, following five long-standing members of London’s radically inclusive club scene over the course of a year. …"
-    },
-    {
-      "id": "0e9fee20dea2c824ab2d6a87b1c1c0c894b39ed5",
-      "title": "20 years of The Warehouse Project plus new film directed by Leigh Powis",
-      "link": "https://www.decodedmagazine.com/20-years-of-the-warehouse-project-plus-new-film-directed-by-leigh-powis/",
-      "published": "2026-05-22T04:56:12.000Z",
-      "publishedTs": 1779425772000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Apple Music",
-        "Documentary",
-        "Manchester",
-        "The Warehouse Project"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/%40tanyahanley_-304.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "The Warehouse Project has announced its 2026 seasons starting on Friday 18th September, marking 20 years since their first season at Boddington’s Strangeways Brewery in 2006, which set the blueprint for club and rave event series around …"
-    },
-    {
-      "id": "f941018f3dff0faf15e76568f2c097ccc48aeb1b",
-      "title": "London’s The Vinyl Factory exhibition that explores vinyl culture is coming to Melbourne",
-      "link": "https://www.decodedmagazine.com/londons-the-vinyl-factory-exhibition-that-explores-vinyl-culture-is-coming-to-melbourne/",
-      "published": "2026-05-22T02:07:34.000Z",
-      "publishedTs": 1779415654000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Art",
-        "Australia",
-        "ACMI",
-        "Exhibition",
-        "Melbourne",
-        "Reverb",
-        "The Vinyl Factory",
-        "Vimyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/05/The-Vinyl-Factory_-Reverb-Kahlil-Joseph-image-by-Jack-Hems-taken-at-180-Studios-2024_1.jpg?resize=810%2C608&ssl=1",
-      "excerpt": "The Vinyl Factory: Reverb is now open at ACMI, inviting audiences to dive into sound and explore its impact on art, film and social movements. Co-presented with RISING, Melbourne&#8217;s premier festival of music, art and performance, th…"
-    },
-    {
-      "id": "adf2595a324714cf66243b8c45588827d126efb3",
-      "title": "Tresor Records just announced Aeternum (Existenz) by Function",
-      "link": "https://www.decodedmagazine.com/tresor-records-just-announced-aeternum-existenz-by-function/",
-      "published": "2026-05-19T10:54:45.000Z",
-      "publishedTs": 1779188085000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Function",
-        "House",
-        "Techno",
-        "Tresor",
-        "Tresor Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/05/a1601452348_10.jpg",
-      "excerpt": "Aeternum (Existenz) by Function Much like the fusion resulting in the output of light and heat within a star, the last seven years for Dave Sumner, aka Function, have been defined by immense change and an outpouring of creative energy. W…"
     },
     {
       "id": "1af8410f0459726974ad4135f014e6688fa8a9a9",
