@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T06:44:46.397Z",
+  "generatedAt": "2026-05-30T09:15:27.783Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,20 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "2bbc78c8d9b9a8c6c011f5ff238b445584253c41",
+      "title": "Reseñamos 'Inferno', el retorno discográfico de Boards Of Canada",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/boards-of-canada-inferno/",
+      "published": "2026-05-30T05:53:28.000Z",
+      "publishedTs": 1780120408000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Boards-of-Canada-Inferno.jpg",
+      "excerpt": "Trece años después de “Tomorrow’s Harvest”, Boards of Canada han convertido el anuncio de “Inferno” en una campaña de comunicación... La entrada Reseñamos &#039;Inferno&#039;, el retorno discográfico de Boards Of Canada se publicó primer…"
+    },
     {
       "id": "bd226c389eb6d79eac9c628acee1ef1d9e2dea89",
       "title": "Exclusive Premiere – benjunnen – Heart (Vocal Mix)",
@@ -359,20 +373,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Maraca-diablo.jpg",
       "excerpt": "Históricamente, y más en las últimas décadas, siempre ha existido la figura del músico inquieto y ecléctico a quien enfocarse... La entrada Txaskario se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "297f12870ffd815cc016a4e0177a0d7ddcee472f",
-      "title": "La Insolación",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/martin-la-insolacion/",
-      "published": "2026-05-25T07:29:51.000Z",
-      "publishedTs": 1779694191000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Martin-La-Insolacion.jpg",
-      "excerpt": "A priori, no tenía mucho interés en el debut de Martin Urrutia: durante su paso por Operación Triunfo no estaba... La entrada La Insolación se publicó primero en MondoSonoro ."
     },
     {
       "id": "1f3615b39006a1b5f603c12acb7dd1fcc461b779",
