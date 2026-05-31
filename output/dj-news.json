@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T18:01:04.022Z",
+  "generatedAt": "2026-05-31T20:07:15.706Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "65df4a51e03a4992c3e4705b5d5eaaf168331f41",
+      "title": "The Never Ending Search",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/aschen-the-never-ending-search/",
+      "published": "2026-05-31T19:38:55.000Z",
+      "publishedTs": 1780256335000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Aschen-The-Never-Ending-Search-cover.jpg",
+      "excerpt": "Aschen son una joven banda navarra de Black Metal que nacio en 2022, pero hasta el 2024 no editaron su... La entrada The Never Ending Search se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4d31fa62ae1052f42843c45d0bc7b9d2e5ff3983",
       "title": "Nostalgia",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/future-islands-From-A-Hole-In-The-Floor.jpg",
       "excerpt": "Future Islands podrían haber publicado un recopilatorio al uso, de esos que, de algún modo, permiten cuantificar el notable valor... La entrada From A Hole In The Floor To A Fountain Of Youth se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b8a9acda5e68dc20685054dcaf604023548c2416",
-      "title": "Transmitter",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/cut-worms-transmitte/",
-      "published": "2026-05-26T06:56:27.000Z",
-      "publishedTs": 1779778587000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cut-Worms-Transmitter.jpg",
-      "excerpt": "En tiempos en los que hay que sacar la cabeza entre un millón de competidores y para ello se tiende... La entrada Transmitter se publicó primero en MondoSonoro ."
     },
     {
       "id": "4eb0de2de0f753873982862e7152f7863c991f86",
