@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:43:46.110Z",
+  "generatedAt": "2026-05-31T16:07:24.716Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Cut-Worms-Transmitter.jpg",
       "excerpt": "En tiempos en los que hay que sacar la cabeza entre un millón de competidores y para ello se tiende... La entrada Transmitter se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4eb0de2de0f753873982862e7152f7863c991f86",
+      "title": "New music on our radar this week: Barry Can't Swim, AQUTIE, Josh Caffé",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-barry-cant-swim-aqutie-josh-caff%C3%A9-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-releases-may-30.jpg?fit=cover&width=660&s=TWfOGI6KJ3I7XcBzoMIue3kbvjeZxuohK-sLanR1syQ",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "3f609724a3dff1d8ede9e7595682af01c7e63575",
+      "title": "Festival line-ups you might have missed: SOUNDIT, Iceland Airwaves, Shambala",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-soundit-iceland-airwaves-shambala-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/soundit-by-Laura-Dominguez.jpg?fit=cover&width=660&s=1YEJ9GHWxqbJcWJdM_U3Sl5ESxNdgb2IcFpv7xgKXZg",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "1af8410f0459726974ad4135f014e6688fa8a9a9",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bourges-teknival.jpg?fit=cover&width=660&s=He6kAlK_H8N-cLRBQdFCDRxTzLddlSX39HFfAVV7nWg",
       "excerpt": "Bomb disposal experts warned of “unexploded ordnance” on the site where ravers gathered Continue reading..."
-    },
-    {
-      "id": "4689139ef369b998653f7f802d0748d83f743f33",
-      "title": "Fugees' Pras Michel turns himself in to authorities to begin 14-year prison sentence",
-      "link": "https://mixmag.net/read/fugees-pras-michel-turns-himself-in-to-authorities-to-begin-14-year-prison-sentence-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Pras-Michel.png?fit=cover&width=660&s=6K6qADW28kPKa4jmcNuPrs3fAyP0baEBzeo3dEU-5aw",
-      "excerpt": "Michel was convicted of money laundering, illegal lobbying, and campaign finance violations in 2023 Continue reading..."
-    },
-    {
-      "id": "382c3660c22d55e4427331151ee2354fff77eb66",
-      "title": "New music on our radar this week: Miss Bashful, Brutalismus 3000, Nia Archives",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-miss-bashful-brutalismus-3000-nia-archives-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-1.png?fit=cover&width=660&s=OSy0U6DZVaDwSs7belAMFwUi163VX7hWAczZIZwCOQU",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
