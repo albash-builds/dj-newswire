@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T04:01:04.750Z",
+  "generatedAt": "2026-06-01T10:17:49.803Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "08fb7ba88e8d08265b3be096c05c650320501f39",
+      "title": "The Boys Of Dungeon Lane",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/paul-mccartney-the-boys-of-dungeon-lane/",
+      "published": "2026-06-01T07:48:29.000Z",
+      "publishedTs": 1780300109000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Paul-McCartney-The-Boys-Of-Dungeon-Lane.jpg",
+      "excerpt": "La nostalgia tiende a tener, en general, mala fama. Un juicio cuestionable en base a esa consecuencia inmediata que propicia... La entrada The Boys Of Dungeon Lane se publicó primero en MondoSonoro ."
+    },
     {
       "id": "65df4a51e03a4992c3e4705b5d5eaaf168331f41",
       "title": "The Never Ending Search",
@@ -99,7 +113,7 @@
     },
     {
       "id": "38bfcf2637f39b93544173bcf0e10547fc11ab06",
-      "title": "Crítica de 'All In Now', el nuevo álbum de la banda de Keanu Reeves",
+      "title": "All In Now",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dogstar-all-in-now/",
       "published": "2026-05-29T04:48:41.000Z",
       "publishedTs": 1780030121000,
@@ -109,7 +123,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Dogstar-All-In-Now.jpg",
-      "excerpt": "Hay algo entrañable en la imagen de tres viejos amigos retomando su grupo veintitantos años después. La cosa mejora cuando... La entrada Crítica de &#039;All In Now&#039;, el nuevo álbum de la banda de Keanu Reeves se publicó primero en …"
+      "excerpt": "Hay algo entrañable en la imagen de tres viejos amigos retomando su grupo veintitantos años después. La cosa mejora cuando... La entrada All In Now se publicó primero en MondoSonoro ."
     },
     {
       "id": "e77a7a8c0a6fe54a00b505521006e38a2aeb526a",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Tori-Amos-In-Times-Of-Dragons.jpg",
       "excerpt": "A estas alturas y jugando ajena a la presión, Tori Amos vive cada proceso sin prisas, con calma. Y bien... La entrada In Times Of Dragons se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4dcce796e4758bdeff6bca126b4efdc4313c219d",
-      "title": "From A Hole In The Floor To A Fountain Of Youth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/future-islands-from-a-hole-in-the-floor/",
-      "published": "2026-05-27T08:36:14.000Z",
-      "publishedTs": 1779870974000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/future-islands-From-A-Hole-In-The-Floor.jpg",
-      "excerpt": "Future Islands podrían haber publicado un recopilatorio al uso, de esos que, de algún modo, permiten cuantificar el notable valor... La entrada From A Hole In The Floor To A Fountain Of Youth se publicó primero en MondoSonoro ."
     },
     {
       "id": "4eb0de2de0f753873982862e7152f7863c991f86",
