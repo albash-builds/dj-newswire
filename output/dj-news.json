@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T10:17:49.803Z",
+  "generatedAt": "2026-06-01T16:36:10.826Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,62 @@
     }
   ],
   "items": [
+    {
+      "id": "7794ca7f5a7902e94c4ea4de6324cf38867e09d3",
+      "title": "Crítica del nuevo disco de Carlangas, titulado 'Universo Paralelo'",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/carlangas-universo-paralelo-disco/",
+      "published": "2026-06-01T14:41:43.000Z",
+      "publishedTs": 1780324903000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Carlangas-Universo-Paralelo.jpg",
+      "excerpt": "En “Universo Paralelo”, Carlangas insiste en no fijarse en un solo lugar creativo, y vuelve a mover su proyecto hacia... La entrada Crítica del nuevo disco de Carlangas, titulado &#039;Universo Paralelo&#039; se publicó primero en MondoS…"
+    },
+    {
+      "id": "18f8ac706b46e7fac5be99462726d4b0bce06da8",
+      "title": "El Juego",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-jose-llergo-el-juego/",
+      "published": "2026-06-01T14:19:42.000Z",
+      "publishedTs": 1780323582000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Maria-Jose-Llergo-El-Juego.jpg",
+      "excerpt": "Dicen que el lenguaje configura nuestra forma de ver el mundo. Que hay pueblos con veinte palabras para la nieve... La entrada El Juego se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5f926a617b0d223679a7decabc20a6580e311c14",
+      "title": "Nadie con ese nombre vive aquí",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/guille-galvan-nadie-con-ese-nombre-vive-aqui/",
+      "published": "2026-06-01T14:04:32.000Z",
+      "publishedTs": 1780322672000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Guille-Galvan-Nadie-con-ese-nombre-vive-aqui.jpg",
+      "excerpt": "El guitarrista y compositor de Vetusta Morla ha entregado un disco íntimo, valiente y personal, casi de otra época, alejado... La entrada Nadie con ese nombre vive aquí se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b3b1e7557015650dc4b93e638c7fae1f6a455f12",
+      "title": "Norteña",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/julieta-venegas-nortena/",
+      "published": "2026-06-01T13:46:36.000Z",
+      "publishedTs": 1780321596000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Julieta-Venegas-Nortena.jpg",
+      "excerpt": "En alguna casa de Tijuana, una radio suena desde la cocina. Se escuchan acordeones, trompetas y voces que hablan de... La entrada Norteña se publicó primero en MondoSonoro ."
+    },
     {
       "id": "08fb7ba88e8d08265b3be096c05c650320501f39",
       "title": "The Boys Of Dungeon Lane",
@@ -112,60 +168,28 @@
       "excerpt": "Aunque tenía buenas canciones, el anterior álbum del melenudo compositor norteamericano me dejó cierto regusto a auto complacencia. Empezaba a... La entrada Philadelphia’s Been Good To Me se publicó primero en MondoSonoro ."
     },
     {
-      "id": "38bfcf2637f39b93544173bcf0e10547fc11ab06",
-      "title": "All In Now",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dogstar-all-in-now/",
-      "published": "2026-05-29T04:48:41.000Z",
-      "publishedTs": 1780030121000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Dogstar-All-In-Now.jpg",
-      "excerpt": "Hay algo entrañable en la imagen de tres viejos amigos retomando su grupo veintitantos años después. La cosa mejora cuando... La entrada All In Now se publicó primero en MondoSonoro ."
+      "id": "0946af250af4e27dd3ebdeb7615c6d90e10b6960",
+      "title": "Jay-Z calls out Drake, Kanye and Nicki Minaj during first headline show in five years",
+      "link": "https://mixmag.net/read/jay-z-calls-out-drake-kanye-nicki-minaj-during-first-headline-show-in-five-years-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jay-z-roots.jpg?fit=cover&width=660&s=UaikAAlKEvSuYsmDFze8cPEEsNzNnKUZbQc5Q0XtpSw",
+      "excerpt": "He topped the bill at Philadelphia’s Roots Picnic over the weekend Continue reading..."
     },
     {
-      "id": "e77a7a8c0a6fe54a00b505521006e38a2aeb526a",
-      "title": "Looking For People To Unfollow",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ecca-vandal-looking-for-people/",
-      "published": "2026-05-28T07:19:54.000Z",
-      "publishedTs": 1779952794000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Ecca-Vandal-LOOKING-FOR-PEOPLE-.jpg",
-      "excerpt": "Para cualquier amante de lo que se conoció como la escena alternativa de los noventa, hay varias cuestiones del concepto... La entrada Looking For People To Unfollow se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "987bccdf2c6f11991a3a381f11d790df2cf4c86f",
-      "title": "Oral_Abisal",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/oral_abisal/",
-      "published": "2026-05-28T06:55:28.000Z",
-      "publishedTs": 1779951328000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Silvia-Perez-Cruz-Oral_Abisal.jpg",
-      "excerpt": "Hay artistas que se mueven siempre, hagan lo que hagan, en la excelencia, ya sea en trabajos compartidos, como los... La entrada Oral_Abisal se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aba7cabf01be914581743b11cfa37c0e4f0e5732",
-      "title": "In Times Of Dragons",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tori-amos-in-times-of-dragons/",
-      "published": "2026-05-27T08:56:15.000Z",
-      "publishedTs": 1779872175000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Tori-Amos-In-Times-Of-Dragons.jpg",
-      "excerpt": "A estas alturas y jugando ajena a la presión, Tori Amos vive cada proceso sin prisas, con calma. Y bien... La entrada In Times Of Dragons se publicó primero en MondoSonoro ."
+      "id": "eba50b259df274ea463a697e83a0e9170f2d7419",
+      "title": "German government to reclassify threatened nightclubs as cultural and artistic venues",
+      "link": "https://mixmag.net/read/german-government-save-threatened-nightclubs-reclassifying-them-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berlin-night_2026-06-01-112239_kjkq.jpg?fit=cover&width=660&s=4jxa-StBznteQWUkl4rFZT4gy1qaF8Wf-5dH92boL6I",
+      "excerpt": "By changing building regulations, it would become harder for developers to evict venue operators Continue reading..."
     },
     {
       "id": "4eb0de2de0f753873982862e7152f7863c991f86",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Troxy-1.jpg?fit=cover&width=660&s=8U9SoFTzmToXXYmh7Ew0_lNKGEE86PyyGrbG9ojnK-4",
       "excerpt": "The Grade II-listed music venue has reopened access to its basement as part of the £1.5 million project, which was partly funded by its own ticket levy Continue reading..."
-    },
-    {
-      "id": "fc7608c61386362958ae2ca6881b244ae73a5959",
-      "title": "EXIT Festival unveils new home in Montenegro as part of 2026 World Tour",
-      "link": "https://mixmag.net/read/exit-festival-announces-new-home-in-montenegro-as-part-of-its-world-tour-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/EXIT-Festival_2026-05-05-123036_ikpr.jpg?fit=cover&width=660&s=8ixfaTMq2LPy4yAVx6bu_h6JReBEG1YMSimJFUWC26g",
-      "excerpt": "The festival held its final edition in Serbia last July, citing &quot;unprecedented government pressure&quot; behind its decision to leave Continue reading..."
-    },
-    {
-      "id": "7680112bceade8e90994016de9ed18fa6c0bf55f",
-      "title": "40,000 people attend illegal rave at French military site despite explosive fears",
-      "link": "https://mixmag.net/read/40000-people-attend-illegal-rave-french-military-site-despite-explosive-fears-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bourges-teknival.jpg?fit=cover&width=660&s=He6kAlK_H8N-cLRBQdFCDRxTzLddlSX39HFfAVV7nWg",
-      "excerpt": "Bomb disposal experts warned of “unexploded ordnance” on the site where ravers gathered Continue reading..."
     }
   ]
 }
