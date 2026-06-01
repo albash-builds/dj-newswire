@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T16:36:10.826Z",
+  "generatedAt": "2026-06-01T20:53:52.488Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/kurt-vile-philadelphias-been-good-to-me.jpg",
       "excerpt": "Aunque tenía buenas canciones, el anterior álbum del melenudo compositor norteamericano me dejó cierto regusto a auto complacencia. Empezaba a... La entrada Philadelphia’s Been Good To Me se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "26397ccfab84823386e5fa5cf59993515af2bf97",
+      "title": "Juno Download announces closure after two decades",
+      "link": "https://mixmag.net/read/juno-download-announces-closure-of-platform-after-two-decades-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juno-Download.jpg?fit=cover&width=660&s=cE8gp74WpZ19uEjFcnN2l5MItj1D7xn13Uuscd5D6iI",
+      "excerpt": "The digital marketplace first launched in 2006, becoming a haven for electronic fans to discover new music Continue reading..."
+    },
+    {
+      "id": "48ecae7eb9c6790eb271b34937355a98a1259f75",
+      "title": "Five things to expect from We Love Green 2026",
+      "link": "https://mixmag.net/feature/five-things-to-expect-from-we-love-green-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/We-Love-Green.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=qNiZQ6iffszFheFLi5-RDdhrVyhi1HrY-7JBrhFElNs",
+      "excerpt": "Allons-y! With over 100,000 people expected to descend upon the Parisian festival over three days this weekend, here&#039;s what you can expect from We Love Green&#039;s forthcoming 15th edition Continue reading..."
     },
     {
       "id": "0946af250af4e27dd3ebdeb7615c6d90e10b6960",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/golden-lion.jpg?fit=cover&width=660&s=_OSMLRaKz79o9tLGVBH-KK6pXjAr5ci0LEF0FFpAWg8",
       "excerpt": "Owners of the pub-turned-club urged for support from the local council following closure threats Continue reading..."
-    },
-    {
-      "id": "2815331e18d921d9e83b53ecffdab3e4b272dce8",
-      "title": "M.I.A. responds after being thrown off Kid Cudi tour for \"undocumented migrants\" rant in Texas",
-      "link": "https://mixmag.net/read/mia-responds-thrown-off-kid-cudi-tour-offensive-remarks-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mia-credit-Mel-Ashley.jpg?fit=cover&width=660&s=5tu_0bHd3pEUFwsPBR5mH5Q0adi_dLRgXi3T0pNHAhs",
-      "excerpt": "Kid Cudi said that “offensive remarks” she made on stage during the opening nights of his tour were &quot;upsetting&quot; Continue reading..."
-    },
-    {
-      "id": "d7078bab632e1f8a88e1717de1fb4bcf95c5e53f",
-      "title": "London's Troxy expands capacity to 3,600 following six-year redevelopment project",
-      "link": "https://mixmag.net/read/londons-troxy-expands-capacity-to-3-600-following-six-year-redevelopment-project-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Troxy-1.jpg?fit=cover&width=660&s=8U9SoFTzmToXXYmh7Ew0_lNKGEE86PyyGrbG9ojnK-4",
-      "excerpt": "The Grade II-listed music venue has reopened access to its basement as part of the £1.5 million project, which was partly funded by its own ticket levy Continue reading..."
     }
   ]
 }
