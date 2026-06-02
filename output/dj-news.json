@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T12:41:01.315Z",
+  "generatedAt": "2026-06-02T17:21:59.968Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "7abb4312fdce6058bca293d4a9a74bdda5ca5fbe",
+      "title": "Iceman / Habibti / Maid Of Honour",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/drake-iceman/",
+      "published": "2026-06-02T13:42:41.000Z",
+      "publishedTs": 1780407761000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/drake-iceman.jpg",
+      "excerpt": "Todos esperábamos un disparo rápido y seco con “Iceman” que diera la vuelta un poco a todo. Un golpe frío... La entrada Iceman / Habibti / Maid Of Honour se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4d23f1ea3245c994158b70f1ac3b880ec1c766db",
       "title": "Train on the Island",
@@ -154,18 +168,28 @@
       "excerpt": "Particularmente, me llama mucho la atención que alguien que aún no alcanza los cuarenta años desvele un disco que orbita... La entrada Nostalgia se publicó primero en MondoSonoro ."
     },
     {
-      "id": "2bbc78c8d9b9a8c6c011f5ff238b445584253c41",
-      "title": "Inferno",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/boards-of-canada-inferno/",
-      "published": "2026-05-30T05:53:28.000Z",
-      "publishedTs": 1780120408000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Boards-of-Canada-Inferno.jpg",
-      "excerpt": "Trece años después de “Tomorrow’s Harvest”, Boards of Canada han convertido el anuncio de “Inferno” en una campaña de comunicación... La entrada Inferno se publicó primero en MondoSonoro ."
+      "id": "3464142e6d26f4422a0a28b161ec930e72fe81b7",
+      "title": "Björk launches new Echolalia exhibition at The National Gallery of Iceland",
+      "link": "https://mixmag.net/read/bjork-launches-new-echolalia-exhibition-at-the-national-gallery-of-iceland-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bjork-pic.jpg?fit=cover&width=660&s=yPM0oKSITnmfyvYNSKcoQ_DNbnvceWKDLYI1wWxVa9g",
+      "excerpt": "The exhibition will feature three large-scale audiovisual installations, including one &quot;developed from material connected to her forthcoming musical work&quot; Continue reading..."
+    },
+    {
+      "id": "33dab69f0ef56341ce7be74b10c4e34ecf614e80",
+      "title": "DMX set to be honoured with street named after him in New York",
+      "link": "https://mixmag.net/read/dmx-set-to-be-honoured-with-street-name-in-new-york-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/yonkers-1.jpg?fit=cover&width=660&s=LMl8PB9bEUiL1sqUAqQKQQwK_XQ0gJ3IOLUR_vvBbOw",
+      "excerpt": "Earl DMX Simmons Way will be located close to where the legendary rapper grew up in Yonkers Continue reading..."
     },
     {
       "id": "53b2168728453f66818bade63a4009f9670d5d39",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/APRIL_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lSy-x1S13fAU0p207s_6aXCk8GJWX8AftXbB3PyQE9U",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
-    },
-    {
-      "id": "c01b7b12f0e60f5618250f5b7abb68b697678b05",
-      "title": "The Mix 105: Olof Dreijer",
-      "link": "https://mixmag.net/feature/the-mix-105-olof-dreijer-loud-bloom-dh2",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OLOF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=G4oXl8lsKynymL9OMCxgEdmNaDkqBI1wwTCB_YUN5zU",
-      "excerpt": "Olof Dreijer shares a mix of playful, driving club music and speaks to Christian Eede about his extended hiatus from releasing music and the fun he’s having returning to the dancefloor Continue reading..."
-    },
-    {
-      "id": "a5f9fd4ade8b050bc63cd387fd2af4d00bef917b",
-      "title": "Almost half of all music uploaded to Deezer daily is AI-generated",
-      "link": "https://mixmag.net/read/almost-half-all-music-uploaded-deezer-daily-ai-generated-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Deezer-press.jpg?fit=cover&width=660&s=g9QoUmZQt5gyZkLsQ7JCklK1cvNJTY7Jl2nSPLOGeAE",
-      "excerpt": "The streaming platform says it detects around two million “fully” AI-made tracks each month Continue reading..."
     }
   ]
 }
