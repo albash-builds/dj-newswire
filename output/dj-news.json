@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T04:03:30.903Z",
+  "generatedAt": "2026-06-03T09:24:31.255Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "334b87ea9eacda9f8e96eac1f233253b44964c67",
+      "title": "Cut A Silhouette",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sparta-cut-a-silhouette/",
+      "published": "2026-06-03T06:18:23.000Z",
+      "publishedTs": 1780467503000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Sparta-Cut-A-Silhouette.jpg",
+      "excerpt": "Cuando uno termina de escuchar este nuevo título de Sparta piensa en Jim Ward como el capitán de un barco... La entrada Cut A Silhouette se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7abb4312fdce6058bca293d4a9a74bdda5ca5fbe",
       "title": "Iceman / Habibti / Maid Of Honour",
@@ -57,7 +71,7 @@
     },
     {
       "id": "7794ca7f5a7902e94c4ea4de6324cf38867e09d3",
-      "title": "Crítica del nuevo disco de Carlangas, titulado 'Universo Paralelo'",
+      "title": "Universo Paralelo",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/carlangas-universo-paralelo-disco/",
       "published": "2026-06-01T14:41:43.000Z",
       "publishedTs": 1780324903000,
@@ -67,7 +81,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Carlangas-Universo-Paralelo.jpg",
-      "excerpt": "En “Universo Paralelo”, Carlangas insiste en no fijarse en un solo lugar creativo, y vuelve a mover su proyecto hacia... La entrada Crítica del nuevo disco de Carlangas, titulado &#039;Universo Paralelo&#039; se publicó primero en MondoS…"
+      "excerpt": "En “Universo Paralelo”, Carlangas insiste en no fijarse en un solo lugar creativo, y vuelve a mover su proyecto hacia... La entrada Universo Paralelo se publicó primero en MondoSonoro ."
     },
     {
       "id": "18f8ac706b46e7fac5be99462726d4b0bce06da8",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/black-keys-Peaches.jpg",
       "excerpt": "Probablemente no haya diagnóstico más doloroso para una banda que mostrar una incapacidad para estimular las expectativas del oyente. Síntomas... La entrada Peaches! se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4d31fa62ae1052f42843c45d0bc7b9d2e5ff3983",
-      "title": "Nostalgia",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/revendless-nostalgia/",
-      "published": "2026-05-30T09:16:39.000Z",
-      "publishedTs": 1780132599000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Revendless-Nostalgia.jpg",
-      "excerpt": "Particularmente, me llama mucho la atención que alguien que aún no alcanza los cuarenta años desvele un disco que orbita... La entrada Nostalgia se publicó primero en MondoSonoro ."
     },
     {
       "id": "3464142e6d26f4422a0a28b161ec930e72fe81b7",
