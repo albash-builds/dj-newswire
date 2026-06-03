@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T09:24:31.255Z",
+  "generatedAt": "2026-06-03T14:28:06.260Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/black-keys-Peaches.jpg",
       "excerpt": "Probablemente no haya diagnóstico más doloroso para una banda que mostrar una incapacidad para estimular las expectativas del oyente. Síntomas... La entrada Peaches! se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "be7579264abda9ba7f7bccf97765dfbc1f1c70cf",
+      "title": "Theo Parrish, Shanti Celeste and more to perform at Arc’teryx Alpine Academy 2026",
+      "link": "https://mixmag.net/read/theo-parrish-shanti-celeste-perform-arcteryx-alpine-academy-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/arcteryx-alpine-lead.jpg?fit=cover&width=660&s=vLcKRBf1Se0wE6DordsCT7RlAOE30m8okTPu3_Khbgk",
+      "excerpt": "The festival returns to Chamonix-Mont-Blanc this July with a program of music, talks, workshops and more Continue reading..."
+    },
+    {
+      "id": "12d61ab9d18fe292f0edcd93df6c220ebec10d51",
+      "title": "No small feat: Rhythm Büro is the beloved Kyiv party pushing on through wartime",
+      "link": "https://mixmag.net/feature/no-small-feat-rhythm-buro-is-the-beloved-kyiv-party-pushing-on-through-wartime",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rhythm-buro-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mCIpF4JqYxdPResYvGaoS1LbDNrx2VD9imOjmlISDPo",
+      "excerpt": "More than a decade since it began, Rhythm Büro has morphed from a club night into an anticipated bi-annual day party following war-imposed curfews. We spoke to the team behind the event series and record label about its 10-year tenure Co…"
     },
     {
       "id": "3464142e6d26f4422a0a28b161ec930e72fe81b7",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/City-Splash-credit-garry-jones.jpg?fit=cover&width=660&s=Gr4NO_8ELeihZwvhJLtJXJvos-tBD14Bzm1-lfzfCOM",
       "excerpt": "A judge dismissed a challenge brought by a local campaigner to halt festivals at the park, which include Field Day and City Splash Continue reading..."
-    },
-    {
-      "id": "d70f6a468acf54fa5f07f41b710b8ecafacb1eaf",
-      "title": "Beastie Boys’ Mike D appears to be working on new music",
-      "link": "https://mixmag.net/read/beastie-boys-mike-d-new-music-cryptic-online-website-videos-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mike-d-Fabio-Venni.jpg?fit=cover&width=660&s=FTd3DsHWXrC9qtdHKozTIEVO0Yl7_P_l-7MHZAZM13c",
-      "excerpt": "Fan speculation is stirring as the US rapper announced his first solo live shows in years and shared a cryptic online project Continue reading..."
-    },
-    {
-      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
-      "title": "The Best Tracks Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/APRIL_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lSy-x1S13fAU0p207s_6aXCk8GJWX8AftXbB3PyQE9U",
-      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     }
   ]
 }
