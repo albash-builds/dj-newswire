@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T11:53:20.597Z",
+  "generatedAt": "2026-06-04T14:59:15.894Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "aa055f60fbc75755df77524771b8fdce27c959a1",
+      "title": "21 22-11",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tu-k-21-22-11/",
+      "published": "2026-06-04T14:58:24.000Z",
+      "publishedTs": 1780585104000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TU-K.jpg",
+      "excerpt": "1985 eta 1989 urteen artean grabatutako bi maketak 2024ean Tio Pepe estudioan bermasterizatu zituen Piztiak taldeko Josu Aranbarri eta Txomin... La entrada 21 22-11 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "b5b34b2bfe7bd6ec7447b2cbd3541c10ccd965a8",
       "title": "Tierras Raras",
@@ -154,18 +168,16 @@
       "excerpt": "La nostalgia tiende a tener, en general, mala fama. Un juicio cuestionable en base a esa consecuencia inmediata que propicia... La entrada The Boys Of Dungeon Lane se publicó primero en MondoSonoro ."
     },
     {
-      "id": "65df4a51e03a4992c3e4705b5d5eaaf168331f41",
-      "title": "The Never Ending Search",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/aschen-the-never-ending-search/",
-      "published": "2026-05-31T19:38:55.000Z",
-      "publishedTs": 1780256335000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Aschen-The-Never-Ending-Search-cover.jpg",
-      "excerpt": "Aschen son una joven banda navarra de Black Metal que nacio en 2022, pero hasta el 2024 no editaron su... La entrada The Never Ending Search se publicó primero en MondoSonoro ."
+      "id": "313e35fe30c326a1b5582da9373a208924e8139f",
+      "title": "2 Live Crew cannot claim rights to their own music, US court rules",
+      "link": "https://mixmag.net/read/2-live-crew-cannot-claim-rights-to-their-own-music-us-court-rules-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2-live-crew.jpg?fit=cover&width=660&s=SqaNy6TyaG6s-UjSEXynwwgdWTRlbYgdg1A0zpkWATg",
+      "excerpt": "The hip hop group have been embroiled in a legal battle with their label over the copyrights to their back catalogue Continue reading..."
     },
     {
       "id": "6b5be3d332b2a46a40c4702cf368f2fc071ae743",
@@ -190,6 +202,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/conducta-jungle-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=bMhtRx1J6u0fXmHE9fNH7rvUCO_SztHnzmPMjkRCj0A",
       "excerpt": "In a rare move from garage into jungle territory, Conducta’s new EP ‘Soundboy Johnny’ channels his appetite for bright, breakneck rhythms as summer beckons. He picks out the jungle tracks that get him motivated in the studio Continue rea…"
+    },
+    {
+      "id": "8fb2f3225737222fefc5d18effb7c00208b2fc42",
+      "title": "Amsterdam queer venue Club RAUM to launch new room, Nexus",
+      "link": "https://mixmag.net/read/amsterdams-club-raum-to-launch-new-room-nexus-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-raum.jpg?fit=cover&width=660&s=M34J8gENsyWhN58-6CfsXfYcJ4oy5SlXouDolXzE3IQ",
+      "excerpt": "Set to be kitted out with a bespoke Funktion-One soundsystem, the new room will be tailored around a &quot;deep, introspective listening experience&quot; Continue reading..."
     },
     {
       "id": "c8c910a53f67873724f9da407617476044f65f9b",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/APRIL_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6N7-r8pZhXW1TNv_l_clMplDj_mchRgQ_R850SXdSIg",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
-    },
-    {
-      "id": "3772c55748f6ce71ad3e3b3e7a108e375f9bbe9c",
-      "title": "Secretive London club night Lost to leave current home at the end of this month",
-      "link": "https://mixmag.net/read/london-lost-announces-closure-current-home-covent-garden-club-night-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lost-club-night.jpg?fit=cover&width=660&s=O0fR9v5J8IOKkEn_rehfmeCEPyBI0LOUxI6MwAM1wj4",
-      "excerpt": "The team said they failed to secure an extension on the lease of the former Odeon cinema, but have since found a new home Continue reading..."
-    },
-    {
-      "id": "481cc848b1b3e3b33f7d4992d7cf2011d54b159a",
-      "title": "SHEE in The Mixmag Lab | Southern Fried Takeover",
-      "link": "https://mixmag.net/read/shee-in-the-mixmag-lab-southern-fried-takeover-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shee-lab-ldn.jpg?fit=cover&width=660&s=MfyrOyOjHjbcyanC0Dt6wmpYPH6KMxDxRXqTFAQYEsw",
-      "excerpt": "The Irish DJ and producer celebrates the launch of his new EP in the Mixmag Lab Continue reading..."
     }
   ]
 }
