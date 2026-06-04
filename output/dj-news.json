@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T03:57:57.838Z",
+  "generatedAt": "2026-06-04T08:23:42.483Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "b5b34b2bfe7bd6ec7447b2cbd3541c10ccd965a8",
+      "title": "Tierras Raras",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dano-cerounno-mir-nicolas-y-h-de-perra-tierras-raras/",
+      "published": "2026-06-04T07:37:30.000Z",
+      "publishedTs": 1780558650000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dano-Cerounno-Mir-Nicolas-y-H-de-Perra-Tierras-Raras.jpg",
+      "excerpt": "Lo más granado del último lustro en el rap argentino, H de Perra, Cerounno, Mir Nicolás, y el ideólogo inspiracional... La entrada Tierras Raras se publicó primero en MondoSonoro ."
+    },
     {
       "id": "334b87ea9eacda9f8e96eac1f233253b44964c67",
       "title": "Cut A Silhouette",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Aschen-The-Never-Ending-Search-cover.jpg",
       "excerpt": "Aschen son una joven banda navarra de Black Metal que nacio en 2022, pero hasta el 2024 no editaron su... La entrada The Never Ending Search se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "29ecd6ab60e9a7ba9467922c16c873b7480a26b1",
-      "title": "Peaches!",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/peaches/",
-      "published": "2026-05-30T10:23:26.000Z",
-      "publishedTs": 1780136606000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/black-keys-Peaches.jpg",
-      "excerpt": "Probablemente no haya diagnóstico más doloroso para una banda que mostrar una incapacidad para estimular las expectativas del oyente. Síntomas... La entrada Peaches! se publicó primero en MondoSonoro ."
     },
     {
       "id": "c8c910a53f67873724f9da407617476044f65f9b",
