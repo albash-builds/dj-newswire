@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T08:23:42.483Z",
+  "generatedAt": "2026-06-04T11:53:20.597Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/05/Aschen-The-Never-Ending-Search-cover.jpg",
       "excerpt": "Aschen son una joven banda navarra de Black Metal que nacio en 2022, pero hasta el 2024 no editaron su... La entrada The Never Ending Search se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6b5be3d332b2a46a40c4702cf368f2fc071ae743",
+      "title": "DJs, promoters, punters and staff members remember Corsica Studios",
+      "link": "https://mixmag.net/feature/corsica-studios-djs-promoters-punters-staff-remember-rip-london-club",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Corsica-crowd-credit-Clayton-Burke.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gGC4hXBtwKm4H6QMN82_ToAExjmS-xoRDEXWWCtYzMs",
+      "excerpt": "Corsica Studios will be remembered as one of the best and most important clubs in London of the 21st century. Across its closing months, Yewande Adeniran spoke to some of the venue&#039;s key players and appreciators to pay tribute. Remi…"
+    },
+    {
+      "id": "3e82c3ec2e362f0594cf8763898af337f551f36b",
+      "title": "Conducta selects 10 jungle tracks that inspire his productions",
+      "link": "https://mixmag.net/feature/conducta-selects-10-jungle-tracks-that-inspire-his-productions",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/conducta-jungle-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=bMhtRx1J6u0fXmHE9fNH7rvUCO_SztHnzmPMjkRCj0A",
+      "excerpt": "In a rare move from garage into jungle territory, Conducta’s new EP ‘Soundboy Johnny’ channels his appetite for bright, breakneck rhythms as summer beckons. He picks out the jungle tracks that get him motivated in the studio Continue rea…"
     },
     {
       "id": "c8c910a53f67873724f9da407617476044f65f9b",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shee-lab-ldn.jpg?fit=cover&width=660&s=MfyrOyOjHjbcyanC0Dt6wmpYPH6KMxDxRXqTFAQYEsw",
       "excerpt": "The Irish DJ and producer celebrates the launch of his new EP in the Mixmag Lab Continue reading..."
-    },
-    {
-      "id": "87bb8bb41165281ded813dbe47e6ec7c1e8b2ae9",
-      "title": "Disco Pogo announce Andrew Weatherall tribute book",
-      "link": "https://mixmag.net/read/disco-pogo-announce-andrew-weatherall-tribute-book-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/andrew-Weatherall.png?fit=cover&width=660&s=VmI5hzVZQBvvYBJdqQGXW8t8RRFLXkied9usmlOLhas",
-      "excerpt": "The follow-up to Jockey Slut&#039;s &#039;A Tribute To Andrew Weatherall&#039; comes with the &quot;blessing, approval and full cooperation&quot; from the late DJ and producer&#039;s family Continue reading..."
-    },
-    {
-      "id": "30e4085bfd01caf4217ee8fb06a1424ed7c762a7",
-      "title": "Waterworks forced to relocate and change format for 2026",
-      "link": "https://mixmag.net/read/waterworks-forced-to-relocate-and-change-format-for-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/250913_waterworks_Angelina_Nikolayeva-233-2.jpg?fit=cover&width=660&s=hKyhxgTo6NfVZuNKRsw7vnTCJKl5uzDDYoR1K9QK1tY",
-      "excerpt": "It will now take over East London&#039;s The Cause with a format it&#039;s calling Waterworks Extended, a 36-hour event this September Continue reading..."
     }
   ]
 }
