@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T09:48:57.426Z",
+  "generatedAt": "2026-06-05T12:36:58.570Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "cbadb739813e765c879cf168b147561ef2345bf1",
+      "title": "Crítica de 'I Built You a Tower', el nuevo álbum de Death Cab For Cutie",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/death-cab-for-cutie-i-built-you-a-tower/",
+      "published": "2026-06-05T10:31:27.000Z",
+      "publishedTs": 1780655487000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Death-Cab-for-Cutie-I-Built-You-a-Tower.jpg",
+      "excerpt": "Los caminos de los grupos son, como los del Señor, inescrutables. Imprevisibles. Hace ya más de dos décadas que la... La entrada Crítica de &#039;I Built You a Tower&#039;, el nuevo álbum de Death Cab For Cutie se publicó primero en Mond…"
+    },
     {
       "id": "aa055f60fbc75755df77524771b8fdce27c959a1",
       "title": "21 22-11",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Julieta-Venegas-Nortena.jpg",
       "excerpt": "En alguna casa de Tijuana, una radio suena desde la cocina. Se escuchan acordeones, trompetas y voces que hablan de... La entrada Norteña se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "08fb7ba88e8d08265b3be096c05c650320501f39",
-      "title": "The Boys Of Dungeon Lane",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/paul-mccartney-the-boys-of-dungeon-lane/",
-      "published": "2026-06-01T07:48:29.000Z",
-      "publishedTs": 1780300109000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Paul-McCartney-The-Boys-Of-Dungeon-Lane.jpg",
-      "excerpt": "La nostalgia tiende a tener, en general, mala fama. Un juicio cuestionable en base a esa consecuencia inmediata que propicia... La entrada The Boys Of Dungeon Lane se publicó primero en MondoSonoro ."
     },
     {
       "id": "313e35fe30c326a1b5582da9373a208924e8139f",
