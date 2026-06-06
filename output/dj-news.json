@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T11:25:59.065Z",
+  "generatedAt": "2026-06-06T13:41:23.840Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Julieta-Venegas-Nortena.jpg",
       "excerpt": "En alguna casa de Tijuana, una radio suena desde la cocina. Se escuchan acordeones, trompetas y voces que hablan de... La entrada Norteña se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "031b688f1c3287ecb582686d9fd144082d541a7d",
+      "title": "Founder and CEO of the MOBOs Kanya King has died aged 57",
+      "link": "https://mixmag.net/read/founder-and-ceo-of-the-mobos-kanya-king-has-died-aged-57-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanya-King.jpg?fit=cover&width=660&s=7qqjRtSSxM_sMfx7FZDNi038Mm-amUF7nxYVmD01Acs",
+      "excerpt": "The MOBOs paid tribute to King: &quot;The music world has lost one of its most fearless champions” Continue reading..."
     },
     {
       "id": "313e35fe30c326a1b5582da9373a208924e8139f",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/koko_2026-05-08-115405_bqbk.png?fit=cover&width=660&s=QHBXmDnMO95Wml7XtRTHNPMbmKfmGIqYlWVGLIFhX7Y",
       "excerpt": "To mark the milestone, the iconic Camden venue has also unveiled a new recording studio Continue reading..."
-    },
-    {
-      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
-      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/APRIL_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6N7-r8pZhXW1TNv_l_clMplDj_mchRgQ_R850SXdSIg",
-      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     }
   ]
 }
