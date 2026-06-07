@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T12:20:44.122Z",
+  "generatedAt": "2026-06-07T14:52:05.693Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Julieta-Venegas-Nortena.jpg",
       "excerpt": "En alguna casa de Tijuana, una radio suena desde la cocina. Se escuchan acordeones, trompetas y voces que hablan de... La entrada Norteña se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "059df4a1d69cf374046f4a1fde3a3cbb2db2562b",
+      "title": "New music on our radar this week: Skrillex, UNIIQU3, The Avalanches",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-skrillex-uniiqu3-avalanches-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Avalanches-1.jpg?fit=cover&width=660&s=1ZLtODpGAeBScoEIFeG9r0shpw4hw6USnSDtO7D6vd0",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "031b688f1c3287ecb582686d9fd144082d541a7d",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-visualiser.jpg?fit=cover&width=660&s=V8Eae35EOdPBNdgOcWMl1kP5nMdqVh2ewIVC4k1O_i4",
       "excerpt": "The new tracks land just weeks ahead of the release of their first record in some 13 years, ‘Inferno’ Continue reading..."
-    },
-    {
-      "id": "0d5c4a1a5a14ea6ee208e1ae09deb6c1dca19720",
-      "title": "London's KOKO announces extensive programme for 125th birthday",
-      "link": "https://mixmag.net/read/koko-announces-programme-and-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/koko_2026-05-08-115405_bqbk.png?fit=cover&width=660&s=QHBXmDnMO95Wml7XtRTHNPMbmKfmGIqYlWVGLIFhX7Y",
-      "excerpt": "To mark the milestone, the iconic Camden venue has also unveiled a new recording studio Continue reading..."
     }
   ]
 }
