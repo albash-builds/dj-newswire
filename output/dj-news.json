@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T05:49:55.412Z",
+  "generatedAt": "2026-06-08T10:53:01.322Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "8320d18219de4e0be23f183e0997da7a488b490d",
+      "title": "Historias Distintas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/marcu-historias-distintas/",
+      "published": "2026-06-08T06:58:34.000Z",
+      "publishedTs": 1780901914000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/marcu.jpg",
+      "excerpt": "El salto del formato breve al álbum completo constituye, casi siempre, una prueba de fuego que revela la verdadera estatura... La entrada Historias Distintas se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "e6e078d344907f831a63a91b4ddd5238337eeb3c",
+      "title": "Gravitas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/elio-toffana-gravitas/",
+      "published": "2026-06-08T05:50:41.000Z",
+      "publishedTs": 1780897841000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Elio-Toffana-Gravitas.jpg",
+      "excerpt": "Tras su último e inestable álbum “Aliens” (24) el curtido rapero madrileño Elio Toffana y miembro de los colectivos Ziontifik... La entrada Gravitas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "abf0e101067634d853cf03313fcca0806f3f0810",
       "title": "Sol.Hz",
@@ -57,7 +85,7 @@
     },
     {
       "id": "cbadb739813e765c879cf168b147561ef2345bf1",
-      "title": "Crítica de 'I Built You a Tower', el nuevo álbum de Death Cab For Cutie",
+      "title": "I Built You a Tower",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/death-cab-for-cutie-i-built-you-a-tower/",
       "published": "2026-06-05T10:31:27.000Z",
       "publishedTs": 1780655487000,
@@ -67,7 +95,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Death-Cab-for-Cutie-I-Built-You-a-Tower.jpg",
-      "excerpt": "Los caminos de los grupos son, como los del Señor, inescrutables. Imprevisibles. Hace ya más de dos décadas que la... La entrada Crítica de &#039;I Built You a Tower&#039;, el nuevo álbum de Death Cab For Cutie se publicó primero en Mond…"
+      "excerpt": "Los caminos de los grupos son, como los del Señor, inescrutables. Imprevisibles. Hace ya más de dos décadas que la... La entrada I Built You a Tower se publicó primero en MondoSonoro ."
     },
     {
       "id": "aa055f60fbc75755df77524771b8fdce27c959a1",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Aldous-harding-Train-on-the-Island.jpg",
       "excerpt": "Recuerdo la primera y única vez que presencié en directo a Aldous Harding. Fue en el Primavera Sound de 2017... La entrada Train on the Island se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7794ca7f5a7902e94c4ea4de6324cf38867e09d3",
-      "title": "Universo Paralelo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/carlangas-universo-paralelo-disco/",
-      "published": "2026-06-01T14:41:43.000Z",
-      "publishedTs": 1780324903000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Carlangas-Universo-Paralelo.jpg",
-      "excerpt": "En “Universo Paralelo”, Carlangas insiste en no fijarse en un solo lugar creativo, y vuelve a mover su proyecto hacia... La entrada Universo Paralelo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "18f8ac706b46e7fac5be99462726d4b0bce06da8",
-      "title": "El Juego",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/maria-jose-llergo-el-juego/",
-      "published": "2026-06-01T14:19:42.000Z",
-      "publishedTs": 1780323582000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Maria-Jose-Llergo-El-Juego.jpg",
-      "excerpt": "Dicen que el lenguaje configura nuestra forma de ver el mundo. Que hay pueblos con veinte palabras para la nieve... La entrada El Juego se publicó primero en MondoSonoro ."
     },
     {
       "id": "059df4a1d69cf374046f4a1fde3a3cbb2db2562b",
