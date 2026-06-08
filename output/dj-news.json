@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T00:07:11.783Z",
+  "generatedAt": "2026-06-08T05:49:55.412Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "abf0e101067634d853cf03313fcca0806f3f0810",
+      "title": "Sol.Hz",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/seefeel-sol-hz/",
+      "published": "2026-06-08T05:20:31.000Z",
+      "publishedTs": 1780896031000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Seefeel-Sol.Hz_.jpg",
+      "excerpt": "Antes de adentrarnos en el corazón del primer álbum de Seefeel en quince años, tras sus dos sobresalientes EP’s de... La entrada Sol.Hz se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "e2f20282718e934fbf79c732ca35894dd17c4b30",
+      "title": "In illo tempore",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mayte-martin-in-illo-tempore/",
+      "published": "2026-06-08T05:09:14.000Z",
+      "publishedTs": 1780895354000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Mayte-Martin-In-illo-tempore.jpg",
+      "excerpt": "Mayte Martín, cantaora y compositora, es una de esas voces genuinas que, allá por donde pasan, dejan huella. Así lo... La entrada In illo tempore se publicó primero en MondoSonoro ."
+    },
     {
       "id": "cbadb739813e765c879cf168b147561ef2345bf1",
       "title": "Crítica de 'I Built You a Tower', el nuevo álbum de Death Cab For Cutie",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Maria-Jose-Llergo-El-Juego.jpg",
       "excerpt": "Dicen que el lenguaje configura nuestra forma de ver el mundo. Que hay pueblos con veinte palabras para la nieve... La entrada El Juego se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5f926a617b0d223679a7decabc20a6580e311c14",
-      "title": "Nadie con ese nombre vive aquí",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/guille-galvan-nadie-con-ese-nombre-vive-aqui/",
-      "published": "2026-06-01T14:04:32.000Z",
-      "publishedTs": 1780322672000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Guille-Galvan-Nadie-con-ese-nombre-vive-aqui.jpg",
-      "excerpt": "El guitarrista y compositor de Vetusta Morla ha entregado un disco íntimo, valiente y personal, casi de otra época, alejado... La entrada Nadie con ese nombre vive aquí se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b3b1e7557015650dc4b93e638c7fae1f6a455f12",
-      "title": "Norteña",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/julieta-venegas-nortena/",
-      "published": "2026-06-01T13:46:36.000Z",
-      "publishedTs": 1780321596000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Julieta-Venegas-Nortena.jpg",
-      "excerpt": "En alguna casa de Tijuana, una radio suena desde la cocina. Se escuchan acordeones, trompetas y voces que hablan de... La entrada Norteña se publicó primero en MondoSonoro ."
     },
     {
       "id": "059df4a1d69cf374046f4a1fde3a3cbb2db2562b",
