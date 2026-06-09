@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T05:05:20.785Z",
+  "generatedAt": "2026-06-09T09:41:56.322Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "e3204fe7e19fd1f41bdc8c5ed2b427f6f6b34ed0",
+      "title": "What’s Left Now?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/death-lens-whats-left-now/",
+      "published": "2026-06-09T08:57:06.000Z",
+      "publishedTs": 1780995426000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Death-Lens-Whats-Left-Now-.jpg",
+      "excerpt": "El éxito comercial y de crítica de un grupo como Turnstile puede interpretarse de varias maneras. Pero lo esencial es... La entrada What’s Left Now? se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8320d18219de4e0be23f183e0997da7a488b490d",
       "title": "Historias Distintas",
@@ -154,20 +168,6 @@
       "excerpt": "Todos esperábamos un disparo rápido y seco con “Iceman” que diera la vuelta un poco a todo. Un golpe frío... La entrada Iceman / Habibti / Maid Of Honour se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4d23f1ea3245c994158b70f1ac3b880ec1c766db",
-      "title": "Train on the Island",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/train-on-the-island/",
-      "published": "2026-06-02T10:11:53.000Z",
-      "publishedTs": 1780395113000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Aldous-harding-Train-on-the-Island.jpg",
-      "excerpt": "Recuerdo la primera y única vez que presencié en directo a Aldous Harding. Fue en el Primavera Sound de 2017... La entrada Train on the Island se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "f9f495f9b5222be036c97ac577b0a69e8a1b6ed3",
       "title": "Pacha New York severs final ties with Brooklyn Mirage, secures temporary liquor licence",
       "link": "https://mixmag.net/read/pacha-new-york-severs-final-ties-with-brooklyn-mirage-secures-temporary-liquor-licence-news",
@@ -181,7 +181,7 @@
     },
     {
       "id": "36489ae856970b32458afe53c911d22eb52036a9",
-      "title": "London residents’ plea to block new bar licences is \"bad for city\", says Sadiq Khan",
+      "title": "Soho residents’ plea to block new bar licences is \"bad for London\", says Sadiq Khan",
       "link": "https://mixmag.net/read/london-residents-plea-block-new-bar-licences-is-wrong-says-sadiq-khan-news",
       "published": "",
       "publishedTs": 0,
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hamdi-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dMdqg2G1P2yIxiybKZ-iRA8tc9K1tvHmYLN__9En8fY",
       "excerpt": "Ahead of his appearance at London&#039;s GALA Festival on Friday, the Oxford-born DJ and producer charts the tracks that inspired his musical obsessions, from DJ Q to Skrillex Continue reading..."
     },
     {
