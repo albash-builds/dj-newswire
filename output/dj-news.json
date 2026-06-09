@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T12:36:46.066Z",
+  "generatedAt": "2026-06-09T15:54:35.374Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "4773b2ac5f61e7a3dacb4a0d66873618abf76023",
+      "title": "Crítica de 'An Eraser And A Maze', el regreso discográfico de Modest Mouse",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/modest-mouse-an-eraser-and-a-maze/",
+      "published": "2026-06-09T13:12:20.000Z",
+      "publishedTs": 1781010740000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Modest-Mouse-An-Eraser-And-A-Maze.jpg",
+      "excerpt": "Se echaban de menos las peculiares atmósferas propiedad de esos veteranos del indie-rock con marca de agua propia que son... La entrada Crítica de &#039;An Eraser And A Maze&#039;, el regreso discográfico de Modest Mouse se publicó prime…"
+    },
     {
       "id": "e3204fe7e19fd1f41bdc8c5ed2b427f6f6b34ed0",
       "title": "What’s Left Now?",
@@ -154,18 +168,52 @@
       "excerpt": "Cuando uno termina de escuchar este nuevo título de Sparta piensa en Jim Ward como el capitán de un barco... La entrada Cut A Silhouette se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7abb4312fdce6058bca293d4a9a74bdda5ca5fbe",
-      "title": "Iceman / Habibti / Maid Of Honour",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/drake-iceman/",
-      "published": "2026-06-02T13:42:41.000Z",
-      "publishedTs": 1780407761000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/drake-iceman.jpg",
-      "excerpt": "Todos esperábamos un disparo rápido y seco con “Iceman” que diera la vuelta un poco a todo. Un golpe frío... La entrada Iceman / Habibti / Maid Of Honour se publicó primero en MondoSonoro ."
+      "id": "a53e08209e2e02dfe899d0c3caef4b4f880887fb",
+      "title": "underscores accuses Texas venue of \"misogynistic\" conduct",
+      "link": "https://mixmag.net/read/underscores-accuses-texas-venue-of-misogynistic-conduct-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/underscores-credit-Bailey-Krawczyk.jpg?fit=cover&width=660&s=c3no265oEt_Vor89jCWOPAoqcKh0-pnEPj4zU_nZUIg",
+      "excerpt": "She claimed that Houston venue Meow Wolf was &quot;difficult to work with&quot; ahead of her scheduled show Continue reading..."
+    },
+    {
+      "id": "2ff979e560ecaf00cdc5881e5cba28a30443a958",
+      "title": "New compensation platform launched for festivalgoers",
+      "link": "https://mixmag.net/read/compensation-platform-launched-for-festival-cancellations-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kathy-Zhang.jpg?fit=cover&width=660&s=cjmwi4D7SulyExtzknWOM3QTdv0BKAxqIhEWqQsMY_8",
+      "excerpt": "FestProtect will help buyers claim compensation for issues such as weather-related cancellations or excessively large crowds Continue reading..."
+    },
+    {
+      "id": "98cab031648907d05fa69f28e14bd7bee7853287",
+      "title": "Tresor Foundation expands \"How To Run A Club\" programme to global applicants",
+      "link": "https://mixmag.net/read/berlins-academy-of-subcultural-understanding-is-going-global-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/felix-moser.jpg?fit=cover&width=660&s=Nar9_x1IipQR3mYrEhfJyunzmNeXs3BNLICMuQAjSw4",
+      "excerpt": "Run by the Berlin-based Academy of Subcultural Understanding, the programme hopes to establish the next generation of club pioneers Continue reading..."
+    },
+    {
+      "id": "04984ed93ac3df1ebee6c7b1b2270f121e9224dd",
+      "title": "Sheffield is getting a brand new warehouse venue, Hangr",
+      "link": "https://mixmag.net/read/sheffield-new-warehouse-venue-hangr-kargo-eats-everything-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hangr-sheffield.jpg?fit=cover&width=660&s=dnDL19zTL5rr-_H11HmEYh_sod1PS74mDIn6Wre442c",
+      "excerpt": "The team behind the space said they’re “in the process of creating a monster” Continue reading..."
     },
     {
       "id": "856d6523966575d281be4cd0e677113225bf2de4",
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/luna-spring-birmingham.jpg?fit=cover&width=660&s=XZs0DwdSoPY8LS10iye7Z-3ugCPeZU4lbkdS_6dAWQk",
       "excerpt": "Two men were stabbed during a drum ‘n’ bass event at Luna Springs on Saturday Continue reading..."
-    },
-    {
-      "id": "03969fc96245656d47e6f8555fed39f10394a96f",
-      "title": "Industry Insider: An interview with AMAAD co-founder Paul Jack",
-      "link": "https://mixmag.net/feature/industry-insider-an-interview-with-amaads-paul-jack",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paul-Jack-credit-%40elliekoepke.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IVXjT9NKYKM-Ngf9rskpTuaYRoXrrYte6IdCMIs4RsU",
-      "excerpt": "Next in our interview series talking to some of the most influential people in the dance music industry, we sit down with promoter and AMAAD co-founder Paul Jack Continue reading..."
-    },
-    {
-      "id": "84daf55d0cddc07828cd692e09fc0e9b50f2af36",
-      "title": "UK music industry urges government to crack down on ticket touts",
-      "link": "https://mixmag.net/read/uk-music-industry-urges-government-crack-down-ticket-touts-eu-touring-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/crowd-festival-credit-zak-bentley.jpg?fit=cover&width=660&s=q7wczoeutTDhTIFeE3wddh7j7NGNJxd1aWo7xEeZxEw",
-      "excerpt": "A letter addressed to Prime Minister Keir Starmer also asks for more to be done for musicians touring in the EU Continue reading..."
-    },
-    {
-      "id": "0de61ddd6bd4731979bf15d99b8cdaed50057e78",
-      "title": "Native Instruments acquired by inMusic following insolvency",
-      "link": "https://mixmag.net/read/native-instruments-acquired-by-inmusic-following-insolvency-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/native-instruments-inmusic.jpg?fit=cover&width=660&s=Wyk6U5opcbSdEKrUmnwmWKHGieHK5lbw_X9cAsxTr1w",
-      "excerpt": "It comes after an uncertain period for the music tech company Continue reading..."
-    },
-    {
-      "id": "06ab44f84c05b693efdb33b549bd0b7b5a6921af",
-      "title": "Amsterdam’s Music On Festival cancels hours before opening due to permit issues",
-      "link": "https://mixmag.net/read/amsterdam-music-on-festival-cancels-hours-before-opening-permit-issues-marco-carola-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festival-hands-music-event.jpg?fit=cover&width=660&s=BFYFKH2mJQpy06OKfLvp6KSsetX8nCGu49krJm__Gsg",
-      "excerpt": "The festival team said they had “no choice” but to pull the plug on this year’s edition Continue reading..."
     }
   ]
 }
