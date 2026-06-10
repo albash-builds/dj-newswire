@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T13:39:11.175Z",
+  "generatedAt": "2026-06-10T16:57:43.054Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dano-Cerounno-Mir-Nicolas-y-H-de-Perra-Tierras-Raras.jpg",
       "excerpt": "Lo más granado del último lustro en el rap argentino, H de Perra, Cerounno, Mir Nicolás, y el ideólogo inspiracional... La entrada Tierras Raras se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "90278e52885f3650557078bc849e4c6c1190d6ea",
+      "title": "The Mix 110: LWS",
+      "link": "https://mixmag.net/feature/the-mix-110-lws-dj-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_LWS2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Yoebwn60-WnGFK0l2iLCiilkPEhSjv66SAa8obJWfrk",
+      "excerpt": "The creator of some of the biggest dancefloor tracks of recent years shares a chaotically percussive mix that pushes into deeper grooves, and speaks to Christian Eede about &quot;headfuck&quot; music and not wanting to be pigeonholed as …"
     },
     {
       "id": "a6b15ff7a2f4516a902c3793a638c32e628e5252",
@@ -584,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berlin-after-glow-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=f03hPCuZNlYhlAjBiQ2jqFiCuEIjT9fgzdXTjw66-B0",
       "excerpt": "In his new book Berlin Night After Glow, Chris Noltekuhlmann photographs the sweaty daze of Berlin clubbers after a full night of partying. Take a peek at some of the “exhausted, euphoric and vulnerable” ravers after-hours Continue readi…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/emba-dj-accusations.jpg?fit=cover&width=660&s=c4N-Zi6evgNuEoUrUwK7Ef_cKTubcCFkaYE55jlwvpE",
       "excerpt": "The drum ‘n’ bass DJ was accused of harassing and assaulting another artist while on tour in November Continue reading..."
-    },
-    {
-      "id": "2e920dfaf0a4b50ed6eb4da9008d88eb5e03bd18",
-      "title": "Amsterdam’s Intercell cites permit issues for cancellation of summer event series",
-      "link": "https://mixmag.net/read/amsterdam-intercell-cancels-summer-events-permit-issues-netherlands-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/intercell-courtyard.jpg?fit=cover&width=660&s=SiLYgk81UZw7lQVez-V4CzqIdi-57_4Z1DQV628hiT0",
-      "excerpt": "The event platform said its planned June show will go ahead as its “only Dutch outdoor event this summer” Continue reading..."
     }
   ]
 }
