@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T05:17:37.950Z",
+  "generatedAt": "2026-06-10T09:58:59.603Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "385b5d1e8db2aa2a06f79dbb651cb50296eed8b0",
+      "title": "Arrakastaren Rave Eternalean",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/superlore-arrakastaren-rave-eternalean/",
+      "published": "2026-06-10T08:40:37.000Z",
+      "publishedTs": 1781080837000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/superlore.jpg",
+      "excerpt": "Proiektu guztiz desberdinetatik datozen musikariek osatutako taldea da Superlore. Buruntzaldeko taldea Meltdown eta Kyxo proiektuetan ibilitako kidez osatzen da eta... La entrada Arrakastaren Rave Eternalean se publicó primero en MondoSo…"
+    },
     {
       "id": "4773b2ac5f61e7a3dacb4a0d66873618abf76023",
       "title": "Crítica de 'An Eraser And A Maze', el regreso discográfico de Modest Mouse",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dano-Cerounno-Mir-Nicolas-y-H-de-Perra-Tierras-Raras.jpg",
       "excerpt": "Lo más granado del último lustro en el rap argentino, H de Perra, Cerounno, Mir Nicolás, y el ideólogo inspiracional... La entrada Tierras Raras se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "334b87ea9eacda9f8e96eac1f233253b44964c67",
-      "title": "Cut A Silhouette",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sparta-cut-a-silhouette/",
-      "published": "2026-06-03T06:18:23.000Z",
-      "publishedTs": 1780467503000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Sparta-Cut-A-Silhouette.jpg",
-      "excerpt": "Cuando uno termina de escuchar este nuevo título de Sparta piensa en Jim Ward como el capitán de un barco... La entrada Cut A Silhouette se publicó primero en MondoSonoro ."
     },
     {
       "id": "a6b15ff7a2f4516a902c3793a638c32e628e5252",
