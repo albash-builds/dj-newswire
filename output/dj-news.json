@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T05:28:00.168Z",
+  "generatedAt": "2026-06-11T10:23:02.293Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "1c0a8717c53e050a01a312acd630a6188bd93467",
+      "title": "Crítica de 'Massa', el nuevo álbum de Fatoumata Diawara",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/fatoumata-diawara-massa/",
+      "published": "2026-06-11T10:12:38.000Z",
+      "publishedTs": 1781172758000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Fatouata-Diawara-Massa.jpg",
+      "excerpt": "Más allá de que en reseñas como estas puede ser necesario dar algo de contexto en cuanto a lo referido... La entrada Crítica de &#039;Massa&#039;, el nuevo álbum de Fatoumata Diawara se publicó primero en MondoSonoro ."
+    },
     {
       "id": "385b5d1e8db2aa2a06f79dbb651cb50296eed8b0",
       "title": "Arrakastaren Rave Eternalean",
@@ -43,7 +57,7 @@
     },
     {
       "id": "4773b2ac5f61e7a3dacb4a0d66873618abf76023",
-      "title": "Crítica de 'An Eraser And A Maze', el regreso discográfico de Modest Mouse",
+      "title": "An Eraser And A Maze",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/modest-mouse-an-eraser-and-a-maze/",
       "published": "2026-06-09T13:12:20.000Z",
       "publishedTs": 1781010740000,
@@ -53,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Modest-Mouse-An-Eraser-And-A-Maze.jpg",
-      "excerpt": "Se echaban de menos las peculiares atmósferas propiedad de esos veteranos del indie-rock con marca de agua propia que son... La entrada Crítica de &#039;An Eraser And A Maze&#039;, el regreso discográfico de Modest Mouse se publicó prime…"
+      "excerpt": "Se echaban de menos las peculiares atmósferas propiedad de esos veteranos del indie-rock con marca de agua propia que son... La entrada An Eraser And A Maze se publicó primero en MondoSonoro ."
     },
     {
       "id": "e3204fe7e19fd1f41bdc8c5ed2b427f6f6b34ed0",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TU-K.jpg",
       "excerpt": "1985 eta 1989 urteen artean grabatutako bi maketak 2024ean Tio Pepe estudioan bermasterizatu zituen Piztiak taldeko Josu Aranbarri eta Txomin... La entrada 21 22-11 se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b5b34b2bfe7bd6ec7447b2cbd3541c10ccd965a8",
-      "title": "Tierras Raras",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dano-cerounno-mir-nicolas-y-h-de-perra-tierras-raras/",
-      "published": "2026-06-04T07:37:30.000Z",
-      "publishedTs": 1780558650000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dano-Cerounno-Mir-Nicolas-y-H-de-Perra-Tierras-Raras.jpg",
-      "excerpt": "Lo más granado del último lustro en el rap argentino, H de Perra, Cerounno, Mir Nicolás, y el ideólogo inspiracional... La entrada Tierras Raras se publicó primero en MondoSonoro ."
     },
     {
       "id": "90278e52885f3650557078bc849e4c6c1190d6ea",
