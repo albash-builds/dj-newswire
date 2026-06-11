@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:35:32.490Z",
+  "generatedAt": "2026-06-11T18:12:28.545Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "1f6847acce79f0d4eb3c0027a4e5d43e1459d275",
+      "title": "Sins",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-soulbreaker-company-sins/",
+      "published": "2026-06-11T16:35:49.000Z",
+      "publishedTs": 1781195749000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/soulbreaker-company.jpg",
+      "excerpt": "Si meritorio resulta encontrar un registro propio entre el masificado ecosistema musical actual, mucho más lo es alcanzarlo a través... La entrada Sins se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ea2d15b561628b5532e90c6d393d72e664b27b18",
+      "title": "Larra Bideak",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/larra-bideak/",
+      "published": "2026-06-11T16:18:55.000Z",
+      "publishedTs": 1781194735000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/larra-bideak.jpg",
+      "excerpt": "Supertalde bat osatu du Iñaki Larrayoz, Larrak, bere bigarren lana kaleratzeko bidean, \"Larra bideak II\". Bakarlari moduan ulertu beharreko diskoa,... La entrada Larra Bideak se publicó primero en MondoSonoro ."
+    },
     {
       "id": "1c0a8717c53e050a01a312acd630a6188bd93467",
       "title": "Crítica de 'Massa', el nuevo álbum de Fatoumata Diawara",
@@ -140,32 +168,40 @@
       "excerpt": "Mayte Martín, cantaora y compositora, es una de esas voces genuinas que, allá por donde pasan, dejan huella. Así lo... La entrada In illo tempore se publicó primero en MondoSonoro ."
     },
     {
-      "id": "cbadb739813e765c879cf168b147561ef2345bf1",
-      "title": "I Built You a Tower",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/death-cab-for-cutie-i-built-you-a-tower/",
-      "published": "2026-06-05T10:31:27.000Z",
-      "publishedTs": 1780655487000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Death-Cab-for-Cutie-I-Built-You-a-Tower.jpg",
-      "excerpt": "Los caminos de los grupos son, como los del Señor, inescrutables. Imprevisibles. Hace ya más de dos décadas que la... La entrada I Built You a Tower se publicó primero en MondoSonoro ."
+      "id": "8156c5231ed7d2cafa38ac46b87fae60c5d40c17",
+      "title": "NTIA urge government to recognise nightclubs as cultural institutions in new open letter",
+      "link": "https://mixmag.net/read/ntia-urge-government-to-recognise-nightclubs-as-cultural-institutions-in-new-open-letter-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/NTIA_2026-06-11-162923_hxqe.jpg?fit=cover&width=660&s=5hbJGv-DrDhPMPdMHEWTxbF_wP4EI35YRXyYLtgA7I0",
+      "excerpt": "The letter suggests following the lead of the German government in reclassifying clubs as &quot;cultural and artistic&quot; spaces Continue reading..."
     },
     {
-      "id": "aa055f60fbc75755df77524771b8fdce27c959a1",
-      "title": "21 22-11",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tu-k-21-22-11/",
-      "published": "2026-06-04T14:58:24.000Z",
-      "publishedTs": 1780585104000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TU-K.jpg",
-      "excerpt": "1985 eta 1989 urteen artean grabatutako bi maketak 2024ean Tio Pepe estudioan bermasterizatu zituen Piztiak taldeko Josu Aranbarri eta Txomin... La entrada 21 22-11 se publicó primero en MondoSonoro ."
+      "id": "52551487c5fbbc96566ada9f7d15294d7f70ebc5",
+      "title": "Here are the winners of Burn Energy and Mixmag’s DJ Open Contest 2026",
+      "link": "https://mixmag.net/feature/here-are-the-winners-of-burn-energy-and-mixmags-dj-open-contest",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burn-Energy-new.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4DeuDgiU1fKNjwe_f2YBczg9fXNn0HCtoYQNWqhJhoM",
+      "excerpt": "Following hundreds of entries, we’ve cherry-picked the most exciting emerging DJs to join us on the Burn Energy Tour 2026, bringing incendiary line-ups across Europe and North Africa Continue reading..."
+    },
+    {
+      "id": "700b411a1fcef32f8c4f17d5f79bbebd17dd430a",
+      "title": "New exhibition explores the 30-year evolution of jungle in Bristol",
+      "link": "https://mixmag.net/read/new-exhibition-explores-the-30-year-evolution-of-jungle-in-bristol-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jungle.jpg?fit=cover&width=660&s=IIcygpX4wKR8tatnnnNWgeJwSN91uE7SxzV2-c6XXnc",
+      "excerpt": "Charting the genre&#039;s journey from the &#039;80s to present day, the exhibition has been curated by DJ Krust, DJ Flynn and author, Gary Thompson Continue reading..."
     },
     {
       "id": "90278e52885f3650557078bc849e4c6c1190d6ea",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/parris-call-super-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ozG-dC0Sz3eJsRJMogwNT5kiQBzzh7Zd7UnWIdKx0E4",
       "excerpt": "Ahead of their b2b set at Horst Music &amp; Arts Festival this week under their can you feel the sun alias, Call Super and Parris pick out their summertime selections, from the sentimental to the peak-time Continue reading..."
-    },
-    {
-      "id": "ae790bcbe09a9aa34d6a2eb6449bde6eb1d67bc7",
-      "title": "The Mix 106: Nene H",
-      "link": "https://mixmag.net/feature/the-mix-106-nene-h-second-skin-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_NeneH2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=oglJjo9WY3lTkbYv3WFOwXu_rR64y_v0w7HkbRbCuIU",
-      "excerpt": "Nene H shares their version of a house music set, recorded live at UNFOLD, and speaks to Sophie McNulty about the significant life changes that are explored on liberated new album &#039;Second Skin&#039; Continue reading..."
-    },
-    {
-      "id": "8f93b9ad50455f277d8e72aa9849bf53f99e65ee",
-      "title": "Phonox fundraiser party set up to support Lenzman amidst cancer battle",
-      "link": "https://mixmag.net/read/phonox-fundraiser-party-support-lenzman-cancer-battle-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lenzman-health.jpg?fit=cover&width=660&s=UGfIsmiLiP2LM-YLm1-zthTKInfSp46bfVmbUAIo_h8",
-      "excerpt": "The Metalheadz artist recently stopped treatment for stage three terminal cancer Continue reading..."
-    },
-    {
-      "id": "40e2ac577e970a02fcbe275bbe5af93de555b8d5",
-      "title": "UK DJ Emba dropped from Hybrid Minds show following sexual assault allegation",
-      "link": "https://mixmag.net/read/uk-dj-emba-dropped-hybrid-minds-show-sexual-assault-harassment-allegation-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/emba-dj-accusations.jpg?fit=cover&width=660&s=c4N-Zi6evgNuEoUrUwK7Ef_cKTubcCFkaYE55jlwvpE",
-      "excerpt": "The drum ‘n’ bass DJ was accused of harassing and assaulting another artist while on tour in November Continue reading..."
     }
   ]
 }
