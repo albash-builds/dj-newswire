@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T12:18:44.587Z",
+  "generatedAt": "2026-06-12T16:17:25.373Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,18 @@
       "excerpt": "El salto del formato breve al álbum completo constituye, casi siempre, una prueba de fuego que revela la verdadera estatura... La entrada Historias Distintas se publicó primero en MondoSonoro ."
     },
     {
+      "id": "8471f1ac8170dd2d18efa6b524922f5ca24baff7",
+      "title": "Hot Since 82 shares details of new album 'Obsessions'",
+      "link": "https://mixmag.net/read/hot-since-82-reworks-sound-of-eden-on-new-single-shaded-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82_2026-06-12-125114_agep.jpg?fit=cover&width=660&s=Z6l0OK_Tsv9_YruMMxxwZw3g-ZWkDVFEB4_k_DYbQwI",
+      "excerpt": "The Barnsley-raised producer has premiered the first single from the project, a rework of Shades of Rhythm&#039;s &#039;The Sound Of Eden&#039;, via Mixmag Continue reading..."
+    },
+    {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
       "title": "The Best DJ Mixes Of The Year 2026 So Far",
       "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
@@ -188,7 +200,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wPgLmxgcnpTkDdD6UOW9p_yapMYe27X7SeULPf4SJpk",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-rave-argos.png?fit=cover&width=660&s=e0QVNYLS8YZooB95fg0MFdpxKZK2wDMXLSETmiS6yK0",
       "excerpt": "The unlicensed event was shut down at just before midday on Sunday, after reportedly raging on &quot;overnight&quot; Continue reading..."
-    },
-    {
-      "id": "3b10467937f456452d42f36487e70d91c1a6cba5",
-      "title": "Rave documentary 'Free Party: A Folk History' to get streaming release",
-      "link": "https://mixmag.net/read/rave-documentary-free-party-a-folk-history-to-get-streaming-release-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Free-Party.jpg?fit=cover&width=660&s=kyRnFndqEux2t8h62jsobM4x62vxrisSd_HcuGe2Eqk",
-      "excerpt": "The film explores the origins of the UK&#039;s free party movement in the &#039;90s and includes interviews with Spiral Tribe, DiY Sound System, Bedlam and more Continue reading..."
     }
   ]
 }
