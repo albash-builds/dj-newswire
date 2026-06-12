@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T08:25:42.894Z",
+  "generatedAt": "2026-06-12T12:18:44.587Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,48 @@
     }
   ],
   "items": [
+    {
+      "id": "70db875bc4909eb5c5c368af6efc4aa2b588e208",
+      "title": "ULTRASWAN",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/abhir-ultraswan/",
+      "published": "2026-06-12T10:05:45.000Z",
+      "publishedTs": 1781258745000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Abhir-ULTRASWAN-bueno.jpg",
+      "excerpt": "“Dicen que todo es acostumbrarse”. O eso afirma Abhir en su nuevo proyecto, “ULTRASWAN”. Un viaje de catorce cortes por... La entrada ULTRASWAN se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ea8d44d8c42a8c1b946d00b2ac2a18127fdcdc36",
+      "title": "Super Atomic",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/super-atomic/",
+      "published": "2026-06-12T09:48:16.000Z",
+      "publishedTs": 1781257696000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/aggrolites-Super-Atomic.jpg",
+      "excerpt": "Qué entrañable y noble grupo es The Aggrolites. Destinados a ser soldados del underground, el grupo californiano de dirty reggae... La entrada Super Atomic se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a068e24f2d23d4eaf1a97a96c02c870fd07edb51",
+      "title": "Popular",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/yerai-cortes-popular/",
+      "published": "2026-06-12T09:35:44.000Z",
+      "publishedTs": 1781256944000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Yerai-Cortes-Popular.jpg",
+      "excerpt": "Tras la popularidad meteórica alcanzada con su debut discográfico, “La Guitarra Flamenca de Yerai Cortés” (24), y el premiado documental... La entrada Popular se publicó primero en MondoSonoro ."
+    },
     {
       "id": "1f6847acce79f0d4eb3c0027a4e5d43e1459d275",
       "title": "Sins",
@@ -126,46 +168,40 @@
       "excerpt": "El salto del formato breve al álbum completo constituye, casi siempre, una prueba de fuego que revela la verdadera estatura... La entrada Historias Distintas se publicó primero en MondoSonoro ."
     },
     {
-      "id": "e6e078d344907f831a63a91b4ddd5238337eeb3c",
-      "title": "Gravitas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/elio-toffana-gravitas/",
-      "published": "2026-06-08T05:50:41.000Z",
-      "publishedTs": 1780897841000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Elio-Toffana-Gravitas.jpg",
-      "excerpt": "Tras su último e inestable álbum “Aliens” (24) el curtido rapero madrileño Elio Toffana y miembro de los colectivos Ziontifik... La entrada Gravitas se publicó primero en MondoSonoro ."
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=LUYlTlF1zJWxhVU5F3o3_PTZ7m77t52W3QJoUZaihRs",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
-      "id": "abf0e101067634d853cf03313fcca0806f3f0810",
-      "title": "Sol.Hz",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/seefeel-sol-hz/",
-      "published": "2026-06-08T05:20:31.000Z",
-      "publishedTs": 1780896031000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Seefeel-Sol.Hz_.jpg",
-      "excerpt": "Antes de adentrarnos en el corazón del primer álbum de Seefeel en quince años, tras sus dos sobresalientes EP’s de... La entrada Sol.Hz se publicó primero en MondoSonoro ."
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
-      "id": "e2f20282718e934fbf79c732ca35894dd17c4b30",
-      "title": "In illo tempore",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mayte-martin-in-illo-tempore/",
-      "published": "2026-06-08T05:09:14.000Z",
-      "publishedTs": 1780895354000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Mayte-Martin-In-illo-tempore.jpg",
-      "excerpt": "Mayte Martín, cantaora y compositora, es una de esas voces genuinas que, allá por donde pasan, dejan huella. Así lo... La entrada In illo tempore se publicó primero en MondoSonoro ."
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=zLBN6fqmNlET6cpmJUVRtQRRJnVdSzFl3j2Oq0scmK4",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
       "id": "8156c5231ed7d2cafa38ac46b87fae60c5d40c17",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Free-Party.jpg?fit=cover&width=660&s=kyRnFndqEux2t8h62jsobM4x62vxrisSd_HcuGe2Eqk",
       "excerpt": "The film explores the origins of the UK&#039;s free party movement in the &#039;90s and includes interviews with Spiral Tribe, DiY Sound System, Bedlam and more Continue reading..."
-    },
-    {
-      "id": "2452899560db02387f3fa213940f30975e82bf06",
-      "title": "Tiësto awarded €14.5 million for \"incorrect\" US tax advice",
-      "link": "https://mixmag.net/read/ti%C3%ABsto-awarded-17-million-for-incorrect-us-tax-advice-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tiesto-1.png?fit=cover&width=660&s=dvhipWsBOD3C2LH2flMuU__vIcc_5dnDQAzmmv_JI9Q",
-      "excerpt": "An Amsterdam appeals court ruled that law firm Greenberg Traurig had issued &quot;faulty&quot; advice that led to the DJ being considered a US resident Continue reading..."
-    },
-    {
-      "id": "d12b9844dc88087223a09182a8aea24ac371417f",
-      "title": "SHEE gears up to release debut EP 'Rosebud'",
-      "link": "https://mixmag.net/read/shee-gears-up-to-release-debut-ep-rosebud-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SHEE-11.png?fit=cover&width=660&s=JcCNLiB525CAhpyuJ57XzUH1tcY5CidLFbZLanYKo_s",
-      "excerpt": "The new record features collaborations with legendary producers Karma Kid and A-Trak Continue reading..."
-    },
-    {
-      "id": "3e705ba34adf6aed38492d3241f098a0f7ce00ad",
-      "title": "Call Super & Parris select 10 summertime tracks for festival season",
-      "link": "https://mixmag.net/feature/call-super-parris-select-10-peak-time-tracks-for-festival-season",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/parris-call-super-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ozG-dC0Sz3eJsRJMogwNT5kiQBzzh7Zd7UnWIdKx0E4",
-      "excerpt": "Ahead of their b2b set at Horst Music &amp; Arts Festival this week under their can you feel the sun alias, Call Super and Parris pick out their summertime selections, from the sentimental to the peak-time Continue reading..."
     }
   ]
 }
