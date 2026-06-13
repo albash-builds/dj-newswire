@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T16:23:41.787Z",
+  "generatedAt": "2026-06-13T18:07:34.641Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dina2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lY4_gJ5QtnWcuJOSFv34LCrDPmH4olFA8R57ZrtWlR0",
       "excerpt": "Connecting the dots between the global trance underground, the Berlin-based producer creates a sunshine-tinged atmosphere for The Mix and speaks to Megan Townsend about community, finding inspiration in disparate scenes, and moving tranc…"
     },
     {
