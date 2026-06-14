@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T20:16:42.308Z",
+  "generatedAt": "2026-06-14T22:08:54.371Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/marcu.jpg",
       "excerpt": "El salto del formato breve al álbum completo constituye, casi siempre, una prueba de fuego que revela la verdadera estatura... La entrada Historias Distintas se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a9dae793fa00f159ededb0a5e56d65a9768cac29",
+      "title": "New music on our radar this week: Jeff Mills, LUXE, Bonobo",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-jeff-mills-luxe-bonobo-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pic_2026-06-14-204658_cgcy.jpg?fit=cover&width=660&s=zPkvz3IWU5_htAFzsfTmRUPlwdUxEgdV5DuBiokla1A",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "824065e48a7313c87a1e0579e2f36ee315629e51",
+      "title": "Festival line-ups you might have missed: Eastern Margins, CRSSD, SQUARE",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-eastern-margins-crssd-square-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CRSSD-1818.jpg?fit=cover&width=660&s=2mSAfjhAoicq-zI0zl2U3C-uqfs3Gdy2U-pMCo4lo0g",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "8471f1ac8170dd2d18efa6b524922f5ca24baff7",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nour-Pic.jpg?fit=cover&width=660&s=7CIJJIqJdd9AaAPCHN8wTh-Z-Q3oF2tQ9Ihiouo8E04",
       "excerpt": "“Our vision is for Palestinian art to be powerfully positioned on the world stage,” states founder Nour Alsholi Continue reading..."
-    },
-    {
-      "id": "4388366b17f83391afc51fd13d24c47609f1b061",
-      "title": "Faster Horses in The Mixmag Lab",
-      "link": "https://mixmag.net/read/faster-horses-in-the-mixmag-lab-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/faster-horses-lab-ldn.jpg?fit=cover&width=660&s=vzIagkV4FxMGEZb6c4eAxZrhCKC2GS80WwuP6bZYULk",
-      "excerpt": "An hour of pumping garage and and pure euphoria Continue reading..."
-    },
-    {
-      "id": "d2ee5e375a953038d92dc99d7ab250c790f63f22",
-      "title": "Police shut down 100-strong illegal rave in abandoned East London Argos",
-      "link": "https://mixmag.net/read/police-shut-down-100-strong-illegal-rave-in-abandoned-east-london-argos-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-rave-argos.png?fit=cover&width=660&s=e0QVNYLS8YZooB95fg0MFdpxKZK2wDMXLSETmiS6yK0",
-      "excerpt": "The unlicensed event was shut down at just before midday on Sunday, after reportedly raging on &quot;overnight&quot; Continue reading..."
     }
   ]
 }
