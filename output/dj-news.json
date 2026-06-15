@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T06:23:09.856Z",
+  "generatedAt": "2026-06-15T13:12:56.635Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "380d84fe13e1c6dbf5953b5da54450f132baf15e",
+      "title": "Kontzientziaren hitzak",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/omago-kontzientziaren-hitzak/",
+      "published": "2026-06-15T09:40:50.000Z",
+      "publishedTs": 1781516450000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/omago.jpg",
+      "excerpt": "Omago talde bizkaitarrak itxaronaldi luze baten ostean lan berria plazaratu du, “Kontzientziaren hitzak”, bost kantuz osatutako disko laburra. Aitziber Omagogeaskoaren... La entrada Kontzientziaren hitzak se publicó primero en MondoSonoro ."
+    },
     {
       "id": "82a4bdff073a3dcbfe7598185da4cfbd233d8eeb",
       "title": "Who Cares?",
@@ -66,7 +80,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2017/07/logomondo-1.png",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/GyozaCD.jpg",
       "excerpt": "“Soltar un error y no hablar de nada si el dolor no es para tanto”. Esta frase, construida a partir... La entrada Beber y soltar se publicó primero en MondoSonoro ."
     },
     {
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Fatouata-Diawara-Massa.jpg",
       "excerpt": "Más allá de que en reseñas como estas puede ser necesario dar algo de contexto en cuanto a lo referido... La entrada Massa se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "385b5d1e8db2aa2a06f79dbb651cb50296eed8b0",
-      "title": "Arrakastaren Rave Eternalean",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/superlore-arrakastaren-rave-eternalean/",
-      "published": "2026-06-10T08:40:37.000Z",
-      "publishedTs": 1781080837000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/superlore.jpg",
-      "excerpt": "Proiektu guztiz desberdinetatik datozen musikariek osatutako taldea da Superlore. Buruntzaldeko taldea Meltdown eta Kyxo proiektuetan ibilitako kidez osatzen da eta... La entrada Arrakastaren Rave Eternalean se publicó primero en MondoSo…"
     },
     {
       "id": "a9dae793fa00f159ededb0a5e56d65a9768cac29",
