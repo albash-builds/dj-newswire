@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T13:12:56.635Z",
+  "generatedAt": "2026-06-15T18:25:02.967Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "f2c2d7be29c6dbe4d5aab93fb28ce39f14ce3e25",
+      "title": "Until The Sun Explodes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sublime-until-the-sun-explodes/",
+      "published": "2026-06-15T17:03:00.000Z",
+      "publishedTs": 1781542980000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Sublime-Until-The-Sun-Explodes.jpg",
+      "excerpt": "Otra vez el capcioso tema del reemplazo de vocalistas… En este caso aún más complejo porque si bien la base... La entrada Until The Sun Explodes se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1787e267c814c9e8c4a272b835b18abfdd8ff632",
+      "title": "Crítica de 'you seem pretty sad for a girl so in love', el nuevo álbum de Olivia Rodrigo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/olivia-rodrigo-you-seem-pretty-sad/",
+      "published": "2026-06-15T14:37:31.000Z",
+      "publishedTs": 1781534251000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/olivia-rodrigo-disco.jpg",
+      "excerpt": "En el pop actual, ninguna canción se queda solo en una canción. Cada verso parece abrir una investigación: a quién... La entrada Crítica de &#039;you seem pretty sad for a girl so in love&#039;, el nuevo álbum de Olivia Rodrigo se public…"
+    },
     {
       "id": "380d84fe13e1c6dbf5953b5da54450f132baf15e",
       "title": "Kontzientziaren hitzak",
@@ -140,32 +168,16 @@
       "excerpt": "Si meritorio resulta encontrar un registro propio entre el masificado ecosistema musical actual, mucho más lo es alcanzarlo a través... La entrada Sins se publicó primero en MondoSonoro ."
     },
     {
-      "id": "ea2d15b561628b5532e90c6d393d72e664b27b18",
-      "title": "Larra Bideak",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/larra-bideak/",
-      "published": "2026-06-11T16:18:55.000Z",
-      "publishedTs": 1781194735000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/larra-bideak.jpg",
-      "excerpt": "Supertalde bat osatu du Iñaki Larrayoz, Larrak, bere bigarren lana kaleratzeko bidean, \"Larra bideak II\". Bakarlari moduan ulertu beharreko diskoa,... La entrada Larra Bideak se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1c0a8717c53e050a01a312acd630a6188bd93467",
-      "title": "Massa",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/fatoumata-diawara-massa/",
-      "published": "2026-06-11T10:12:38.000Z",
-      "publishedTs": 1781172758000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Fatouata-Diawara-Massa.jpg",
-      "excerpt": "Más allá de que en reseñas como estas puede ser necesario dar algo de contexto en cuanto a lo referido... La entrada Massa se publicó primero en MondoSonoro ."
+      "id": "1273e76002624f680285ee846bc0da7b2bd4ee52",
+      "title": "Carl Cox awarded OBE in King's Birthday Honours List 2026",
+      "link": "https://mixmag.net/read/carl-cox-awarded-obe-in-kings-birthday-honours-list-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Carl-Cox_2026-06-15-133107_bzdd.jpg?fit=cover&width=660&s=X6rF1N4MdY7anaD-z5k8_kopffXbs_NiKPzMSGNSW7U",
+      "excerpt": "Fellow DJ Judge Jules has also been honoured with an MBE in recognition for his services to music Continue reading..."
     },
     {
       "id": "a9dae793fa00f159ededb0a5e56d65a9768cac29",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nikolina-lab-ldn.jpg?fit=cover&width=660&s=LcwMpD7UYkBrJv1TWjVZqluLah7eqm3CrJwuLpAhlAU",
       "excerpt": "A high-octane, peak-time techno and schranz set live from The Cause Continue reading..."
-    },
-    {
-      "id": "c725a5b94e2e6d5c12c9c5b34928522fbac79458",
-      "title": "Nour to launch Aswatna talent agency for Palestinian artists",
-      "link": "https://mixmag.net/read/nour-to-launch-aswatna-talent-agency-for-palestinian-artists-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nour-Pic.jpg?fit=cover&width=660&s=7CIJJIqJdd9AaAPCHN8wTh-Z-Q3oF2tQ9Ihiouo8E04",
-      "excerpt": "“Our vision is for Palestinian art to be powerfully positioned on the world stage,” states founder Nour Alsholi Continue reading..."
     }
   ]
 }
