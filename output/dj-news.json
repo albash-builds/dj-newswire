@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T00:08:07.032Z",
+  "generatedAt": "2026-06-15T06:23:09.856Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,52 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "82a4bdff073a3dcbfe7598185da4cfbd233d8eeb",
+      "title": "Who Cares?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/go-to-the-dogs-who-cares/",
+      "published": "2026-06-15T05:48:35.000Z",
+      "publishedTs": 1781502515000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Go-to-the-Dogs-Who-Cares.jpg",
+      "excerpt": "Lejos de la pose nostálgica y del revival domesticado, lo de Go to the Dogs suena a barra pegajosa, amplificador... La entrada Who Cares? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3e6fb0f3b18527acd8ed34e3f5f5d4aa66b6589c",
+      "title": "Crítica de 'Cry Baby', el nuevo álbum de Vince Staples",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-cry-baby-el-nuevo-album-de-vince-staples/",
+      "published": "2026-06-15T05:21:32.000Z",
+      "publishedTs": 1781500892000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Vince-Staples-Cry-Baby.jpg",
+      "excerpt": "Vince Staples es crudo, directo y tremendamente crítico ante una América actual sin alma. Una América liderada por Trump, racista,... La entrada Crítica de &#039;Cry Baby&#039;, el nuevo álbum de Vince Staples se publicó primero en Mondo…"
+    },
+    {
+      "id": "5311ac62ea14c948a23194002c28f337294f2deb",
+      "title": "Beber y soltar",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gyoza-beber-y-soltar/",
+      "published": "2026-06-15T05:04:37.000Z",
+      "publishedTs": 1781499877000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2017/07/logomondo-1.png",
+      "excerpt": "“Soltar un error y no hablar de nada si el dolor no es para tanto”. Esta frase, construida a partir... La entrada Beber y soltar se publicó primero en MondoSonoro ."
+    },
     {
       "id": "70db875bc4909eb5c5c368af6efc4aa2b588e208",
       "title": "ULTRASWAN",
@@ -124,48 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/superlore.jpg",
       "excerpt": "Proiektu guztiz desberdinetatik datozen musikariek osatutako taldea da Superlore. Buruntzaldeko taldea Meltdown eta Kyxo proiektuetan ibilitako kidez osatzen da eta... La entrada Arrakastaren Rave Eternalean se publicó primero en MondoSo…"
-    },
-    {
-      "id": "4773b2ac5f61e7a3dacb4a0d66873618abf76023",
-      "title": "An Eraser And A Maze",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/modest-mouse-an-eraser-and-a-maze/",
-      "published": "2026-06-09T13:12:20.000Z",
-      "publishedTs": 1781010740000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Modest-Mouse-An-Eraser-And-A-Maze.jpg",
-      "excerpt": "Se echaban de menos las peculiares atmósferas propiedad de esos veteranos del indie-rock con marca de agua propia que son... La entrada An Eraser And A Maze se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e3204fe7e19fd1f41bdc8c5ed2b427f6f6b34ed0",
-      "title": "What’s Left Now?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/death-lens-whats-left-now/",
-      "published": "2026-06-09T08:57:06.000Z",
-      "publishedTs": 1780995426000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Death-Lens-Whats-Left-Now-.jpg",
-      "excerpt": "El éxito comercial y de crítica de un grupo como Turnstile puede interpretarse de varias maneras. Pero lo esencial es... La entrada What’s Left Now? se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8320d18219de4e0be23f183e0997da7a488b490d",
-      "title": "Historias Distintas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/marcu-historias-distintas/",
-      "published": "2026-06-08T06:58:34.000Z",
-      "publishedTs": 1780901914000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/marcu.jpg",
-      "excerpt": "El salto del formato breve al álbum completo constituye, casi siempre, una prueba de fuego que revela la verdadera estatura... La entrada Historias Distintas se publicó primero en MondoSonoro ."
     },
     {
       "id": "a9dae793fa00f159ededb0a5e56d65a9768cac29",
