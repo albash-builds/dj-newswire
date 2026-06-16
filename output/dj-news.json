@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T04:03:49.857Z",
+  "generatedAt": "2026-06-16T10:06:02.332Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "051b8f31c19061425f6985d867335b97d1e04ba6",
+      "title": "Compro Oro",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/compro-oro-disco/",
+      "published": "2026-06-16T06:53:05.000Z",
+      "publishedTs": 1781592785000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/compro-oro-disco.jpg",
+      "excerpt": "La banda almeriense Compro Oro vuelve a la carga con disco homónimo y diez nuevas canciones en las que, además... La entrada Compro Oro se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4e2667c926233c9092e6f2c446a46302cf67e58e",
+      "title": "Máximo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-estrella-de-david-maximo/",
+      "published": "2026-06-16T06:26:10.000Z",
+      "publishedTs": 1781591170000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/La-Estrella-de-David-maximo.jpg",
+      "excerpt": "Podemos creer, erróneamente, que David Rodríguez está de vuelta de todo y que “Máximo” (26) es su particular manifiesto en... La entrada Máximo se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f2c2d7be29c6dbe4d5aab93fb28ce39f14ce3e25",
       "title": "Until The Sun Explodes",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/aggrolites-Super-Atomic.jpg",
       "excerpt": "Qué entrañable y noble grupo es The Aggrolites. Destinados a ser soldados del underground, el grupo californiano de dirty reggae... La entrada Super Atomic se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a068e24f2d23d4eaf1a97a96c02c870fd07edb51",
-      "title": "Popular",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/yerai-cortes-popular/",
-      "published": "2026-06-12T09:35:44.000Z",
-      "publishedTs": 1781256944000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Yerai-Cortes-Popular.jpg",
-      "excerpt": "Tras la popularidad meteórica alcanzada con su debut discográfico, “La Guitarra Flamenca de Yerai Cortés” (24), y el premiado documental... La entrada Popular se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1f6847acce79f0d4eb3c0027a4e5d43e1459d275",
-      "title": "Sins",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-soulbreaker-company-sins/",
-      "published": "2026-06-11T16:35:49.000Z",
-      "publishedTs": 1781195749000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/soulbreaker-company.jpg",
-      "excerpt": "Si meritorio resulta encontrar un registro propio entre el masificado ecosistema musical actual, mucho más lo es alcanzarlo a través... La entrada Sins se publicó primero en MondoSonoro ."
     },
     {
       "id": "1273e76002624f680285ee846bc0da7b2bd4ee52",
