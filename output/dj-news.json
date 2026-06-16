@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T10:06:02.332Z",
+  "generatedAt": "2026-06-16T15:51:49.330Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "e1567ff94a15cffe2366069e1c7572a7f4ff126f",
+      "title": "It's The Long Goodbye",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-twilight-sad-its-the-long-goodbye/",
+      "published": "2026-06-16T14:03:09.000Z",
+      "publishedTs": 1781618589000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Twilight-Sad-It-s-The-Long-Goodbye.jpg",
+      "excerpt": "Pasan los años y The Twilight Sad continúan fieles a sus bases estilísticas, reconfirmándose a cada nueva entrega como una... La entrada It&#039;s The Long Goodbye se publicó primero en MondoSonoro ."
+    },
     {
       "id": "051b8f31c19061425f6985d867335b97d1e04ba6",
       "title": "Compro Oro",
@@ -113,7 +127,7 @@
     },
     {
       "id": "3e6fb0f3b18527acd8ed34e3f5f5d4aa66b6589c",
-      "title": "Crítica de 'Cry Baby', el nuevo álbum de Vince Staples",
+      "title": "Cry Baby",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-cry-baby-el-nuevo-album-de-vince-staples/",
       "published": "2026-06-15T05:21:32.000Z",
       "publishedTs": 1781500892000,
@@ -123,7 +137,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Vince-Staples-Cry-Baby.jpg",
-      "excerpt": "Vince Staples es crudo, directo y tremendamente crítico ante una América actual sin alma. Una América liderada por Trump, racista,... La entrada Crítica de &#039;Cry Baby&#039;, el nuevo álbum de Vince Staples se publicó primero en Mondo…"
+      "excerpt": "Vince Staples es crudo, directo y tremendamente crítico ante una América actual sin alma. Una América liderada por Trump, racista,... La entrada Cry Baby se publicó primero en MondoSonoro ."
     },
     {
       "id": "5311ac62ea14c948a23194002c28f337294f2deb",
@@ -154,18 +168,40 @@
       "excerpt": "“Dicen que todo es acostumbrarse”. O eso afirma Abhir en su nuevo proyecto, “ULTRASWAN”. Un viaje de catorce cortes por... La entrada ULTRASWAN se publicó primero en MondoSonoro ."
     },
     {
-      "id": "ea8d44d8c42a8c1b946d00b2ac2a18127fdcdc36",
-      "title": "Super Atomic",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/super-atomic/",
-      "published": "2026-06-12T09:48:16.000Z",
-      "publishedTs": 1781257696000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/aggrolites-Super-Atomic.jpg",
-      "excerpt": "Qué entrañable y noble grupo es The Aggrolites. Destinados a ser soldados del underground, el grupo californiano de dirty reggae... La entrada Super Atomic se publicó primero en MondoSonoro ."
+      "id": "8a1c919d4e199b9df154505901c43e0d6ad38348",
+      "title": "The Cause to launch new radio station-focused festival in London",
+      "link": "https://mixmag.net/read/the-cause-launch-new-radio-station-focused-festival-in-london-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-cause-london_2026-06-16-140940_qgmm.jpg?fit=cover&width=660&s=o5qOM0r43pV2rLOQ9RUn5G3r-Cue-n5VzrbVKA1yuzY",
+      "excerpt": "Each stage at the day festival will celebrate independent stations around the world, including South Korea&#039;s Seoul Community Radio and Indonesia&#039;s Headstream Continue reading..."
+    },
+    {
+      "id": "a8ac2fb0c08b909699845bee094e7c845a2a2399",
+      "title": "An exhibition on pioneering '90s rave crew Spiral Tribe is coming to London",
+      "link": "https://mixmag.net/read/exhibition-exploring-spiral-tribes-countercultural-legacy-to-launch-in-london-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/diy4.jpg?fit=cover&width=660&s=Ebs774G7PO2RTkNNNbgh_Df3bZ1bFmgqxtVUvZAZPjo",
+      "excerpt": "The free-to-attend exhibition will take over East London&#039;s REinsTate across four days this September Continue reading..."
+    },
+    {
+      "id": "5053962f18fb8d0e8bdaecc1c5615ca4a93aab92",
+      "title": "Man charged with fraud over “fake” $3 billion investment into Napster",
+      "link": "https://mixmag.net/read/man-charged-fraud-over-fake-3-billion-investment-napster-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/napster-investor.jpg?fit=cover&width=660&s=JH26ixyaede2lHEoeaOWNF8axCdxV3qRjEsfhQyM67U",
+      "excerpt": "The alleged fraudster is accused of forging bank records to obtain shares in the music sharing network Continue reading..."
     },
     {
       "id": "1273e76002624f680285ee846bc0da7b2bd4ee52",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups_2026-05-15-131654_kpbk.png?fit=cover&width=660&s=sGRGngSWqKRbYhmYkiNw7GF7bWU_r4z_ubgI9WSxdiA",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "f6d41407f558dd6d0219dabbf39408ad5d5c9eb2",
-      "title": "Festival line-ups you might have missed: Floorless, Afro Nation, Kelburn Garden Party",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-floorless-afro-nation-kelburn-garden-party-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Festis-round-up-floorless.png?fit=cover&width=660&s=Ufyfb6DTkYl1sl9GHQk3OiWbCiP3XB_R3O3HUyThRkw",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "ee82104109f365401c1db447b7a265ef06ad5515",
-      "title": "UK government \"deprioritises\" ticket tout ban in 2026 King's Speech",
-      "link": "https://mixmag.net/read/uk-ticket-touting-legislation-deprioritised-in-kings-speech-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gig-tickets.png?fit=cover&width=660&s=AeefBF2FuJd56ca7bF7kA2MVJWvjwy7GUo4RUDKpH9o",
-      "excerpt": "The lack of action on the ticket touting ban has been criticised as a &quot;betrayal of millions of music fans&quot; Continue reading..."
-    },
-    {
-      "id": "3be4cb170e9d1849ca13743454de02ebb97f697a",
-      "title": "Nikolina in The Mixmag Lab",
-      "link": "https://mixmag.net/read/nikolina-in-the-mixmag-lab-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nikolina-lab-ldn.jpg?fit=cover&width=660&s=LcwMpD7UYkBrJv1TWjVZqluLah7eqm3CrJwuLpAhlAU",
-      "excerpt": "A high-octane, peak-time techno and schranz set live from The Cause Continue reading..."
     }
   ]
 }
