@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T00:15:40.794Z",
+  "generatedAt": "2026-06-17T06:10:59.047Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "757b73fb32c3a263775a101c20971e720f81d754",
+      "title": "Atlas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-bluetones-atlas/",
+      "published": "2026-06-17T06:02:08.000Z",
+      "publishedTs": 1781676128000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Bluetones-Atlas.jpg",
+      "excerpt": "The Bluetones aúnan en una única referencia los tres EPs (cada uno de ellos copado por otras tantas canciones), publicados... La entrada Atlas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "e1567ff94a15cffe2366069e1c7572a7f4ff126f",
       "title": "It's The Long Goodbye",
@@ -85,7 +99,7 @@
     },
     {
       "id": "1787e267c814c9e8c4a272b835b18abfdd8ff632",
-      "title": "Crítica de 'you seem pretty sad for a girl so in love', el nuevo álbum de Olivia Rodrigo",
+      "title": "you seem pretty sad for a girl so in love",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/olivia-rodrigo-you-seem-pretty-sad/",
       "published": "2026-06-15T14:37:31.000Z",
       "publishedTs": 1781534251000,
@@ -94,8 +108,8 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/olivia-rodrigo-disco.jpg",
-      "excerpt": "En el pop actual, ninguna canción se queda solo en una canción. Cada verso parece abrir una investigación: a quién... La entrada Crítica de &#039;you seem pretty sad for a girl so in love&#039;, el nuevo álbum de Olivia Rodrigo se public…"
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/olivia-rodrigo-you-seem-pretty-sad.jpg",
+      "excerpt": "En el pop actual, ninguna canción se queda solo en una canción. Cada verso parece abrir una investigación: a quién... La entrada you seem pretty sad for a girl so in love se publicó primero en MondoSonoro ."
     },
     {
       "id": "380d84fe13e1c6dbf5953b5da54450f132baf15e",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/GyozaCD.jpg",
       "excerpt": "“Soltar un error y no hablar de nada si el dolor no es para tanto”. Esta frase, construida a partir... La entrada Beber y soltar se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "70db875bc4909eb5c5c368af6efc4aa2b588e208",
-      "title": "ULTRASWAN",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/abhir-ultraswan/",
-      "published": "2026-06-12T10:05:45.000Z",
-      "publishedTs": 1781258745000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Abhir-ULTRASWAN-bueno.jpg",
-      "excerpt": "“Dicen que todo es acostumbrarse”. O eso afirma Abhir en su nuevo proyecto, “ULTRASWAN”. Un viaje de catorce cortes por... La entrada ULTRASWAN se publicó primero en MondoSonoro ."
     },
     {
       "id": "8a1c919d4e199b9df154505901c43e0d6ad38348",
