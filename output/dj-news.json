@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T15:27:41.620Z",
+  "generatedAt": "2026-06-17T18:15:10.788Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/GyozaCD.jpg",
       "excerpt": "“Soltar un error y no hablar de nada si el dolor no es para tanto”. Esta frase, construida a partir... La entrada Beber y soltar se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a65e5b8fac5cf042cfe7e50654ada2da5bfd76e6",
+      "title": "The Mix 111: Karen Nyame KG",
+      "link": "https://mixmag.net/feature/the-mix-111-karen-nyame-kg-house-uk-funky-london",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_KarenNyameKG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=LtnYbUzCSOOErGGcG-9YukMiKukKCJCNO5As-aX3DG8",
+      "excerpt": "With a mission to pay it forward and foster future generations in dance music, Karen Nyame KG has cultivated a strong community over the past decade. She talks about that community and takes the reins of The Mix reins to deliver a deep a…"
     },
     {
       "id": "69bf18ab2958cc3c52895b7e2106103ab85290e4",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/brooklyn-storehouse-credit-Off-Brand-Project.jpg?fit=cover&width=660&s=PDfsQswC2fZkXnodMSzGyaC5OMrvvHtZXPj0P7yp3nk",
       "excerpt": "Owners say that the venue’s tenancy was “always time-limited”, and will end this autumn Continue reading..."
-    },
-    {
-      "id": "036d55413ba36e575cb67f9a1e52f39c8cec93ec",
-      "title": "How AZYR became the poster boy for the UK’s hard dance phenomenon",
-      "link": "https://mixmag.net/feature/azyr-cover-feature-hard-techno-dj-blackpool-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__AZYR_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mmNL7DAH93d3ZU56t0_fxSrFTiZVbKIIq2xBu5wa9cI",
-      "excerpt": "Breaking out from Blackpool b2bs to enrapturing thousands-strong arenas worldwide in four years, AZYR has hit the big time at the kind of face-melting pace usually found in his DJ sets. Undeniably the UK’s biggest hard techno export, the…"
     }
   ]
 }
