@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:25:44.125Z",
+  "generatedAt": "2026-06-18T16:30:53.627Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Go-to-the-Dogs-Who-Cares.jpg",
       "excerpt": "Lejos de la pose nostálgica y del revival domesticado, lo de Go to the Dogs suena a barra pegajosa, amplificador... La entrada Who Cares? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7db6130c0d15dcc8b266b4fe7c6164f1ab42c095",
+      "title": "DJ given suspended jail sentence for selling remix CDs containing copyrighted music",
+      "link": "https://mixmag.net/read/man-jailed-for-selling-remix-cds-containing-copyrighted-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cds.jpg?fit=cover&width=660&s=d5viGccU464HL7pqXhVdkwqLpOpbMZUCRcwrCpeHJUQ",
+      "excerpt": "Mark Kearns allegedly made &quot;thousands&quot; from selling CDs online featuring &quot;well‑known tracks&quot; Continue reading..."
+    },
+    {
+      "id": "4c90e3c98c21f23120d9bc126856e84c46fc13ff",
+      "title": "Bristol, Oxford and Edinburgh amongst UK cities that party the most, study shows",
+      "link": "https://mixmag.net/read/bristol-oxford-edinburgh-amongst-uk-cities-party-most-study-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bristol-party.jpg?fit=cover&width=660&s=sG0GvbRflDXF0g3TNYyZBK_2V_JBSKADVeqxo8RPkpc",
+      "excerpt": "New research from online searches shows the cities where a night out is most in demand Continue reading..."
     },
     {
       "id": "a65e5b8fac5cf042cfe7e50654ada2da5bfd76e6",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/george-clinton-credit-music-like-dirt.jpg?fit=cover&width=660&s=ZlV1bqrB7E6bicEfSSVEMuTzUe_pC6TpaqJbN1KQTNw",
       "excerpt": "The funk legend claims that 100% of royalties owed to him have been withheld for three years Continue reading..."
-    },
-    {
-      "id": "ec1b61607c749ec1fbbece969270c761996985e3",
-      "title": "It's now officially Detroit Techno Week, Mayor proclaims",
-      "link": "https://mixmag.net/read/detroit-techno-week-officially-declared-by-citys-mayor-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Movement.jpg?fit=cover&width=660&s=8BAp56ou1nd-1Q6tbXPKkhUDyClgK4kxJ7UVDl_KfKc",
-      "excerpt": "It honours the city&#039;s electronic heritage ahead of the 20th edition of Movement Detroit, which kicks off later this week Continue reading..."
-    },
-    {
-      "id": "9fa1f89a54576009272682e7f977fe03feae3c21",
-      "title": "New York venue Brooklyn Storehouse to close later this year",
-      "link": "https://mixmag.net/read/new-york-venue-brooklyn-storehouse-close-later-this-year-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/brooklyn-storehouse-credit-Off-Brand-Project.jpg?fit=cover&width=660&s=PDfsQswC2fZkXnodMSzGyaC5OMrvvHtZXPj0P7yp3nk",
-      "excerpt": "Owners say that the venue’s tenancy was “always time-limited”, and will end this autumn Continue reading..."
     }
   ]
 }
