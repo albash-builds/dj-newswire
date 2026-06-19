@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T00:26:12.205Z",
+  "generatedAt": "2026-06-19T06:18:45.544Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "7d1627530ceca8a5dd8d0b308a4c2c36f994924e",
+      "title": "Reseñamos 'Placebo RE:CREATED', algo más que una simple reedición",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/resenamos-placebo-recreated-algo-mas-que-una-simple-reedicion/",
+      "published": "2026-06-19T06:09:40.000Z",
+      "publishedTs": 1781849380000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Placebo-RE-CREATED.jpg",
+      "excerpt": "“Placebo” (Hut, 96), el que fuera punzante debut homónimo de la banda de Brian Molko y Stefan Olsdal, cumplía el... La entrada Reseñamos &#039;Placebo RE:CREATED&#039;, algo más que una simple reedición se publicó primero en MondoSonoro ."
+    },
     {
       "id": "371a03d01c011bef6a1b1a10dbe76e86e9d1faf8",
       "title": "Errex",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/omago.jpg",
       "excerpt": "Omago talde bizkaitarrak itxaronaldi luze baten ostean lan berria plazaratu du, “Kontzientziaren hitzak”, bost kantuz osatutako disko laburra. Aitziber Omagogeaskoaren... La entrada Kontzientziaren hitzak se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "82a4bdff073a3dcbfe7598185da4cfbd233d8eeb",
-      "title": "Who Cares?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/go-to-the-dogs-who-cares/",
-      "published": "2026-06-15T05:48:35.000Z",
-      "publishedTs": 1781502515000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Go-to-the-Dogs-Who-Cares.jpg",
-      "excerpt": "Lejos de la pose nostálgica y del revival domesticado, lo de Go to the Dogs suena a barra pegajosa, amplificador... La entrada Who Cares? se publicó primero en MondoSonoro ."
     },
     {
       "id": "7db6130c0d15dcc8b266b4fe7c6164f1ab42c095",
