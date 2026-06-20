@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:55:00.860Z",
+  "generatedAt": "2026-06-20T11:18:48.826Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "97f6b224acfd67881a36678f8ff34eaebdfc1306",
+      "title": "Un Sol dentro",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/las-nietas-del-charli-un-sol-dentro/",
+      "published": "2026-06-20T10:25:55.000Z",
+      "publishedTs": 1781951155000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Las-Nietas-del-Charli-un-sol-dentro.jpg",
+      "excerpt": "Somos tan esclavos de lo inmediato y estamos tan malitos de los nervios que la paciencia y la mesura se... La entrada Un Sol dentro se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0935782cb74d0b7da24b60f733dd45a2fd4c7eb7",
+      "title": "Le Salon des Refusés",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/guerrita-manu-beats-le-salon-des-refuses/",
+      "published": "2026-06-20T10:03:38.000Z",
+      "publishedTs": 1781949818000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Guerrita-Manu-Beats-Le-Salon-des-Refuses.jpg",
+      "excerpt": "“A veces que te entre lleva tiempo / de la birra no te gustaba el primer sorbo y ahora huele... La entrada Le Salon des Refusés se publicó primero en MondoSonoro ."
+    },
     {
       "id": "38549ffb96a66ca8499ff8111d64abb87da17302",
       "title": "Tan lejos como esta tarde me lleve",
@@ -140,32 +168,16 @@
       "excerpt": "La banda almeriense Compro Oro vuelve a la carga con disco homónimo y diez nuevas canciones en las que, además... La entrada Compro Oro se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4e2667c926233c9092e6f2c446a46302cf67e58e",
-      "title": "Máximo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-estrella-de-david-maximo/",
-      "published": "2026-06-16T06:26:10.000Z",
-      "publishedTs": 1781591170000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/La-Estrella-de-David-maximo.jpg",
-      "excerpt": "Podemos creer, erróneamente, que David Rodríguez está de vuelta de todo y que “Máximo” (26) es su particular manifiesto en... La entrada Máximo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f2c2d7be29c6dbe4d5aab93fb28ce39f14ce3e25",
-      "title": "Until The Sun Explodes",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sublime-until-the-sun-explodes/",
-      "published": "2026-06-15T17:03:00.000Z",
-      "publishedTs": 1781542980000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Sublime-Until-The-Sun-Explodes.jpg",
-      "excerpt": "Otra vez el capcioso tema del reemplazo de vocalistas… En este caso aún más complejo porque si bien la base... La entrada Until The Sun Explodes se publicó primero en MondoSonoro ."
+      "id": "d5fab32b44be807bdad9b59ba77671a1288886a6",
+      "title": "Festival line-ups you might have missed: Body Movements, Public Disco, Voodoo Village",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-body-movements-public-disco-voodoo-village-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-village.jpg?fit=cover&width=660&s=91_GMVTh4kzmboiWPyD0S2o-ML47ktqPk0EsO4R1bVo",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "89d390160506c050b7712f9422be97d94f91e725",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CAIO_PRINCE_WEB_001.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Qaq_oXLRKuwykxAj8Py_bQmqdgN-F25cshrYJUIqH_4",
       "excerpt": "As Brazilian funk sub-genre bruxaria catapults across the globe, São Paulo-hailing DJ and producer Caio Prince is propelling its growth after his viral hit ‘Botano (Útero Baixo)’ sent the sound skywards. He steps up for The Mix and chats…"
-    },
-    {
-      "id": "9fd66be46d621b7aec8349c8deb325be3ff083d8",
-      "title": "Anywhere & Everywhere: 10 tracks that informed Hamdi's love of electronic music",
-      "link": "https://mixmag.net/feature/10-tracks-hamdi-gala-ukg-calvin-harris-bassline-skrillex-footwork",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hamdi-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dMdqg2G1P2yIxiybKZ-iRA8tc9K1tvHmYLN__9En8fY",
-      "excerpt": "Ahead of his appearance at London&#039;s GALA Festival on Friday, the Oxford-born DJ and producer charts the tracks that inspired his musical obsessions, from DJ Q to Skrillex Continue reading..."
     }
   ]
 }
