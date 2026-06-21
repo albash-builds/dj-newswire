@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T10:02:05.857Z",
+  "generatedAt": "2026-06-21T13:04:48.366Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/compro-oro-disco.jpg",
       "excerpt": "La banda almeriense Compro Oro vuelve a la carga con disco homónimo y diez nuevas canciones en las que, además... La entrada Compro Oro se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "70b3e07e63b630af175498171d0f093added3bbb",
+      "title": "New music on our radar this week: Mount Kimbie, Original Koffee, Jazzy",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-mount-kimbie-original-koffee-jazzy-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-21-June.jpg?fit=cover&width=660&s=lbFuvt3Xn48BadLPql7Qr2V5aaql8M6MYL5VVVpVdUQ",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "d5fab32b44be807bdad9b59ba77671a1288886a6",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sophie-big-freedia.jpg?fit=cover&width=660&s=iazHy2T8a2VRQMnDRR7RIvOKgnzwKf_nsDRyxwHLF_c",
       "excerpt": "All three tracks on the new EP were produced a decade ago Continue reading..."
-    },
-    {
-      "id": "dac4ae4995e061d456d97c6411488b7dbafd0a3f",
-      "title": "The Mix 107: Caio Prince",
-      "link": "https://mixmag.net/feature/the-mix-107-caio-prince-brazil-bruxaria-baile-funk-dancehall-sao-paulo",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CAIO_PRINCE_WEB_001.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Qaq_oXLRKuwykxAj8Py_bQmqdgN-F25cshrYJUIqH_4",
-      "excerpt": "As Brazilian funk sub-genre bruxaria catapults across the globe, São Paulo-hailing DJ and producer Caio Prince is propelling its growth after his viral hit ‘Botano (Útero Baixo)’ sent the sound skywards. He steps up for The Mix and chats…"
     }
   ]
 }
