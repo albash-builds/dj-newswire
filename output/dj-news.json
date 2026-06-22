@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:37:02.663Z",
+  "generatedAt": "2026-06-22T15:50:27.720Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Twilight-Sad-It-s-The-Long-Goodbye.jpg",
       "excerpt": "Pasan los años y The Twilight Sad continúan fieles a sus bases estilísticas, reconfirmándose a cada nueva entrega como una... La entrada It&#039;s The Long Goodbye se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b7ed0e161f64cce47fcee6fc6e41a85b46c15369",
+      "title": "Public drinking banned at France’s Fête de la Musique due to extreme weather",
+      "link": "https://mixmag.net/read/alcohol-banned-france-f%C3%AAte-de-la-musique-extreme-weather-paris-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fete-de-la-musique_2026-06-22-111741_pywi.jpg?fit=cover&width=660&s=-8Ytftr1fFu52vHk0wumYoAn84yYornb9tJA2mrTS9Y",
+      "excerpt": "Authorities restricted drinking at the annual country-wide street celebrations over the weekend as temperatures hit 40 degrees Continue reading..."
+    },
+    {
+      "id": "1621dd311437045c9b8abbc0ee2cd433461b47c3",
+      "title": "Belfast’s \"first-ever\" dedicated listening bar to open this summer",
+      "link": "https://mixmag.net/read/belfast-first-ever-dedicated-listening-bar-open-this-summer-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-room-belfast.jpg?fit=cover&width=660&s=RtJZX_Mfe78YSU7Wb6uEuZV-AkqvmJRYWgYh-Ey3vtQ",
+      "excerpt": "Music Room bills itself as a hi-fi bar built around vinyl culture, launching this July Continue reading..."
     },
     {
       "id": "70b3e07e63b630af175498171d0f093added3bbb",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jaz-the-garage.jpg?fit=cover&width=660&s=DV2DQHXwGGBFxiksODugDfcNJp2DpCYByZ4FO9xXB0Y",
       "excerpt": "The beloved bouncer spent over 12 years with the Sauchiehall Street nightclub Continue reading..."
-    },
-    {
-      "id": "ee50c9cb2640e1e6034be3cb2e41425461118160",
-      "title": "German house mainstay Philipp Jung, co-founder of M.A.N.D.Y. and Get Physical, has died",
-      "link": "https://mixmag.net/read/german-house-philipp-jung-co-founder-of-m-a-n-d-y-get-physical-died-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Philipp-Jung-M.A.N.D.Y.-DJ.jpeg?fit=cover&width=660&s=aBStBb-5h_RaU1Nqt9tfe2n0LpVeZ7_YbW3dAWIpNSQ",
-      "excerpt": "The DJ, producer and label head was an icon of Germany’s house music scene Continue reading..."
-    },
-    {
-      "id": "2059eb6b262ed07d2c3b76bfce09ad4911c3c32f",
-      "title": "Big Freedia to release SOPHIE-produced record this summer",
-      "link": "https://mixmag.net/read/big-freedia-release-sophie-produced-record-this-summer-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sophie-big-freedia.jpg?fit=cover&width=660&s=iazHy2T8a2VRQMnDRR7RIvOKgnzwKf_nsDRyxwHLF_c",
-      "excerpt": "All three tracks on the new EP were produced a decade ago Continue reading..."
     }
   ]
 }
