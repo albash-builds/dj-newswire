@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T15:50:27.720Z",
+  "generatedAt": "2026-06-22T19:25:52.559Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Twilight-Sad-It-s-The-Long-Goodbye.jpg",
       "excerpt": "Pasan los años y The Twilight Sad continúan fieles a sus bases estilísticas, reconfirmándose a cada nueva entrega como una... La entrada It&#039;s The Long Goodbye se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4feaf1551d2718c2fc3988b74fefe8b97170bd9c",
+      "title": "Rave Preservation Project launches directory tool for archival artefacts",
+      "link": "https://mixmag.net/read/rave-preservation-project-launches-new-directory-tool-for-expansive-archive-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/flyers_2026-06-22-161257_guis.jpg?fit=cover&width=660&s=TLoBHVREwYwvqOiOd2vTTRJKY_4gWabVGNecre0qUkY",
+      "excerpt": "The online archive of rave memorabilia features around 40,000 items, though its organiser claims there is a backlog of around 250,000 artefacts waiting to be added Continue reading..."
+    },
+    {
+      "id": "0f31e84a5398c0dde12a2efff9e4023adc7f0ae9",
+      "title": "Artists can now check whether their music has been used to train AI",
+      "link": "https://mixmag.net/read/artists-check-music-used-train-ai-atlantic-investigation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-ai-checker.jpg?fit=cover&width=660&s=wwm0GboMsiOCIEAfr64lC_CRp5cSYLYBFkXQoAyzqKw",
+      "excerpt": "Launched by The Atlantic, AI Watchdog offers a search tool for songs used by AI music creation platforms, including Google and Stability AI Continue reading..."
     },
     {
       "id": "b7ed0e161f64cce47fcee6fc6e41a85b46c15369",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/la-di-da-nightclub.jpg?fit=cover&width=660&s=3gNkwdQWjp3vUN0bUkSOPjhr9_z6Bfsp5oSZQ6zS6e8",
       "excerpt": "Three separate clubs were allegedly targeted in a spree earlier this month Continue reading..."
-    },
-    {
-      "id": "c2907dd660f355c89b2139827ffb05f005da591f",
-      "title": "The Warehouse Project shares plans for 20th birthday celebrations",
-      "link": "https://mixmag.net/read/the-warehouse-project-shares-plans-for-20th-birthday-celebrations-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-WHP.jpg?fit=cover&width=660&s=LlHs5z1qCj5Dc7XJiikQdTGzP7zGxCRbzl9aKs3OSgc",
-      "excerpt": "An exhibition, podcast and a print magazine have been announced to help WHP mark its two-decade milestone Continue reading..."
-    },
-    {
-      "id": "ecd598a4fa3d04cf4b5906a12eba30b4e965210a",
-      "title": "Long-time bouncer of Glasgow’s The Garage, Jaz Majid, has died aged 48",
-      "link": "https://mixmag.net/read/long-time-bouncer-glasgow-the-garage-jaz-majid-has-died-aged-48-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jaz-the-garage.jpg?fit=cover&width=660&s=DV2DQHXwGGBFxiksODugDfcNJp2DpCYByZ4FO9xXB0Y",
-      "excerpt": "The beloved bouncer spent over 12 years with the Sauchiehall Street nightclub Continue reading..."
     }
   ]
 }
