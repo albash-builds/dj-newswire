@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T04:11:03.503Z",
+  "generatedAt": "2026-06-22T10:37:02.663Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "0977e911cbb80aef6199fe8fe51aea081b944c03",
+      "title": "M I N",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-n/",
+      "published": "2026-06-22T08:40:53.000Z",
+      "publishedTs": 1782117653000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Min.jpg",
+      "excerpt": "Sorpresan etorri den talde horietakoa da Urola Kostan sortu den M I N taldea. Neguan eskaini zuten lehen emanaldia Zestoako... La entrada M I N se publicó primero en MondoSonoro ."
+    },
     {
       "id": "97f6b224acfd67881a36678f8ff34eaebdfc1306",
       "title": "Un Sol dentro",
@@ -85,7 +99,7 @@
     },
     {
       "id": "7d1627530ceca8a5dd8d0b308a4c2c36f994924e",
-      "title": "Reseñamos 'Placebo RE:CREATED', algo más que una simple reedición",
+      "title": "Placebo RE:CREATED",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/resenamos-placebo-recreated-algo-mas-que-una-simple-reedicion/",
       "published": "2026-06-19T06:09:40.000Z",
       "publishedTs": 1781849380000,
@@ -95,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Placebo-RE-CREATED.jpg",
-      "excerpt": "“Placebo” (Hut, 96), el que fuera punzante debut homónimo de la banda de Brian Molko y Stefan Olsdal, cumplía el... La entrada Reseñamos &#039;Placebo RE:CREATED&#039;, algo más que una simple reedición se publicó primero en MondoSonoro ."
+      "excerpt": "“Placebo” (Hut, 96), el que fuera punzante debut homónimo de la banda de Brian Molko y Stefan Olsdal, cumplía el... La entrada Placebo RE:CREATED se publicó primero en MondoSonoro ."
     },
     {
       "id": "371a03d01c011bef6a1b1a10dbe76e86e9d1faf8",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Twilight-Sad-It-s-The-Long-Goodbye.jpg",
       "excerpt": "Pasan los años y The Twilight Sad continúan fieles a sus bases estilísticas, reconfirmándose a cada nueva entrega como una... La entrada It&#039;s The Long Goodbye se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "051b8f31c19061425f6985d867335b97d1e04ba6",
-      "title": "Compro Oro",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/compro-oro-disco/",
-      "published": "2026-06-16T06:53:05.000Z",
-      "publishedTs": 1781592785000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/compro-oro-disco.jpg",
-      "excerpt": "La banda almeriense Compro Oro vuelve a la carga con disco homónimo y diez nuevas canciones en las que, además... La entrada Compro Oro se publicó primero en MondoSonoro ."
     },
     {
       "id": "70b3e07e63b630af175498171d0f093added3bbb",
