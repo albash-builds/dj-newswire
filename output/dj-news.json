@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T05:00:01.539Z",
+  "generatedAt": "2026-06-23T08:34:34.593Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "5b727935a9192cb655567099ea87628807546ac1",
+      "title": "Real Life Evolution",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/joan-as-a-police-woman-real-life-evolution/",
+      "published": "2026-06-23T06:27:18.000Z",
+      "publishedTs": 1782196038000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Joan-as-a-Police-Woman-Real-Life-Evolution.jpg",
+      "excerpt": "La norteamericana Joan Wasser, que saltó a la palestra con “Real Life” hace justo veinte años, retoma el disco que... La entrada Real Life Evolution se publicó primero en MondoSonoro ."
+    },
     {
       "id": "0977e911cbb80aef6199fe8fe51aea081b944c03",
       "title": "M I N",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Bluetones-Atlas.jpg",
       "excerpt": "The Bluetones aúnan en una única referencia los tres EPs (cada uno de ellos copado por otras tantas canciones), publicados... La entrada Atlas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e1567ff94a15cffe2366069e1c7572a7f4ff126f",
-      "title": "It's The Long Goodbye",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-twilight-sad-its-the-long-goodbye/",
-      "published": "2026-06-16T14:03:09.000Z",
-      "publishedTs": 1781618589000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Twilight-Sad-It-s-The-Long-Goodbye.jpg",
-      "excerpt": "Pasan los años y The Twilight Sad continúan fieles a sus bases estilísticas, reconfirmándose a cada nueva entrega como una... La entrada It&#039;s The Long Goodbye se publicó primero en MondoSonoro ."
     },
     {
       "id": "4feaf1551d2718c2fc3988b74fefe8b97170bd9c",
