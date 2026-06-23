@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T08:34:34.593Z",
+  "generatedAt": "2026-06-23T12:07:15.461Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "0a201eb2d507217bb96d5740d18764099393c84e",
+      "title": "Crítica de 'Nuca', el nuevo álbum de Clara Peya",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/clara-peya-nuca/",
+      "published": "2026-06-23T09:18:18.000Z",
+      "publishedTs": 1782206298000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Clara-Peya-Nuca.jpg",
+      "excerpt": "Hay discos que nacen para explicar una herida. Otros para intentar cerrarla. “Nuca” pertenece a una categoría más extraña: la... La entrada Crítica de &#039;Nuca&#039;, el nuevo álbum de Clara Peya se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5b727935a9192cb655567099ea87628807546ac1",
       "title": "Real Life Evolution",
@@ -154,18 +168,52 @@
       "excerpt": "Lo decíamos en el contexto de la reseña del último disco de Buenos Vampiros, “Entre sombras”, de 2024: en Argentina... La entrada El Color del Mar se publicó primero en MondoSonoro ."
     },
     {
-      "id": "757b73fb32c3a263775a101c20971e720f81d754",
-      "title": "Atlas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-bluetones-atlas/",
-      "published": "2026-06-17T06:02:08.000Z",
-      "publishedTs": 1781676128000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-Bluetones-Atlas.jpg",
-      "excerpt": "The Bluetones aúnan en una única referencia los tres EPs (cada uno de ellos copado por otras tantas canciones), publicados... La entrada Atlas se publicó primero en MondoSonoro ."
+      "id": "4c03f1ab587b4ef54f9709ade81a5ebe63bba34b",
+      "title": "Ibiza DJ alleged to be \"mastermind\" behind international drug smuggling operation",
+      "link": "https://mixmag.net/read/ibiza-dj-alleged-mastermind-behind-international-drug-smuggling-operation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Raymond-Petrik.jpg?fit=cover&width=660&s=41RPS43dW-2wUZs5RS-8nsfT0Jl2JO8JoCqRG1RwO4c",
+      "excerpt": "Hugo Bianco, who has been declared a &quot;fugitive from justice&quot;, has played at Pacha Ibiza, Unum Festival and 93 Feet East Continue reading..."
+    },
+    {
+      "id": "a505a4f5a26736ad07abcc761fb00842234514d5",
+      "title": "Purple Disco Machine takes hiatus from touring citing “sudden” hearing loss",
+      "link": "https://mixmag.net/read/purple-disco-machine-takes-hiatus-from-touring-citing-sudden-hearing-loss-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/purple-disco-machine_2026-06-23-112803_wziq.jpg?fit=cover&width=660&s=QXzQbQDeCS8HQV9w2nif7uDt0_Si2p2nMUbvyNV8Hag",
+      "excerpt": "He’ll pause performing for a month while dealing with “severe” tinnitus and hearing issues Continue reading..."
+    },
+    {
+      "id": "cb9a91d2fdfea9c8fea332ca7eb10ea1ca2e6d23",
+      "title": "Daft Punk’s Thomas Bangalter performs surprise set for \"no-phones\" party Lost",
+      "link": "https://mixmag.net/read/daft-punk-thomas-bangalter-performs-surprise-no-phone-show-basel-switzerland-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-23-104219_qkdu.jpg?fit=cover&width=660&s=3IIK_BB1Zk-Ny__k-3djnZ2zywkWR4mX2y6xQgfncS0",
+      "excerpt": "The former robot played on a custom modular set-up for the surprise show in Basel, Switzerland Continue reading..."
+    },
+    {
+      "id": "3a31efab8709013fe3bb3281666c8bd44ca57ab7",
+      "title": "New nightclub takes over former home of Soho's G-A-Y",
+      "link": "https://mixmag.net/read/new-nightclub-to-take-over-former-home-of-sohos-g-a-y-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Coven-nightclub.jpg?fit=cover&width=660&s=Ba-ZoEvsAX6Ri4RTgkp8g5v8515sBTz70lcn3g5AkLI",
+      "excerpt": "Coven Headquarters launched this weekend, nine months after the famed LGBTQIA+ nightspot closed its doors Continue reading..."
     },
     {
       "id": "4feaf1551d2718c2fc3988b74fefe8b97170bd9c",
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Moodymann-1.jpg?fit=cover&width=660&s=N_U4mhswblsWMIJzkts7W2pc8qisbqW1YupqZW9yhoE",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "5b56fe54846540915a790e290831cee26942028e",
-      "title": "The Mixmag Lab and Eastern City's Club In the Clouds returns this month",
-      "link": "https://mixmag.net/read/eastern-citys-club-in-the-clouds-returns-this-month-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Club-in-the-clouds.jpg?fit=cover&width=660&s=0Rp_IkhSrYyBmt9zcacplOXvLGkj4GYOGgw3uQdUIVc",
-      "excerpt": "Headliner Charisse C will provide silky-smooth amapiano at Europe&#039;s tallest viewing platform Continue reading..."
-    },
-    {
-      "id": "cb4088a7c405ab84e20857292cc464c7ac95fada",
-      "title": "Scottish techno stalwart Harvey McKay has died",
-      "link": "https://mixmag.net/read/scottish-techno-stalwart-harvey-mckay-has-died-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Drumcode.jpg?fit=cover&width=660&s=vf-T8o8FINxduTzfMCq7DDIF8D-WsIdeONzzw2_AlqI",
-      "excerpt": "McKay rose to prominence in the late noughties with releases on Drumcode, Perc Trax and Soma Records Continue reading..."
-    },
-    {
-      "id": "ca98b85df75aec8a02b5ef00758e925daea03f03",
-      "title": "New Leeds venue Mint XL reveals first-look photos of 2,500-capacity club",
-      "link": "https://mixmag.net/read/new-leeds-venue-mint-xl-reveals-first-look-photos-2500-capacity-club-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mint-xl-lead.jpg?fit=cover&width=660&s=NJuHeybK9RngDYhQWxiSM24oyRfpCF-GIe9lpLvsTns",
-      "excerpt": "Coming from the team behind Mint Club, the new venue&#039;s official launch party has also been announced for September Continue reading..."
-    },
-    {
-      "id": "ea4a087a551af6e1a8269e65f29170ca955ab9a6",
-      "title": "Three teens arrested over alleged arson attacks on Melbourne nightclubs",
-      "link": "https://mixmag.net/read/three-teens-arrested-alleged-arson-attacks-melbourne-nightclubs-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/la-di-da-nightclub.jpg?fit=cover&width=660&s=3gNkwdQWjp3vUN0bUkSOPjhr9_z6Bfsp5oSZQ6zS6e8",
-      "excerpt": "Three separate clubs were allegedly targeted in a spree earlier this month Continue reading..."
     }
   ]
 }
