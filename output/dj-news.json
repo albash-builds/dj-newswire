@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T03:47:16.483Z",
+  "generatedAt": "2026-06-24T07:40:02.722Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "dd5c68542120cff9f724e0cf6aca06f8ef8ea14f",
+      "title": "¿Por qué me miráis así?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-la-love-you-por-que-me-mirais-asi/",
+      "published": "2026-06-24T07:30:05.000Z",
+      "publishedTs": 1782286205000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/La-La-Love-You-Por-que-me-mirais-asi.jpg",
+      "excerpt": "La La Love You siguen queriendo evitar asumir la vida adulta y prefieren permanecer atrapados en una cápsula del tiempo... La entrada ¿Por qué me miráis así? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "775f95cc41ff8d1f08f0e99c5c426fff7e3a9d3d",
+      "title": "Dimonis de la Sauva Negra",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dimonis-de-la-sauva-negra-tort/",
+      "published": "2026-06-24T06:47:15.000Z",
+      "publishedTs": 1782283635000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TortCDDimonis.jpg",
+      "excerpt": "Después de siete años de espera, la banda catalana Tort regresa de su hibernación con un cuarto disco tan sucio... La entrada Dimonis de la Sauva Negra se publicó primero en MondoSonoro ."
+    },
     {
       "id": "26b46318488cec8f77e74f6dc5dfdb562b394a78",
       "title": "Es lo que hay",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Jon-Spencer-Songs-of-Personal-Loss-and-Protest.jpg",
       "excerpt": "Encaramado durante las últimas décadas al púlpito desde el que se oficia el blues más heterodoxo y furibundo, el músico... La entrada Songs of Personal Loss and Protest se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7d1627530ceca8a5dd8d0b308a4c2c36f994924e",
-      "title": "Placebo RE:CREATED",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/resenamos-placebo-recreated-algo-mas-que-una-simple-reedicion/",
-      "published": "2026-06-19T06:09:40.000Z",
-      "publishedTs": 1781849380000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Placebo-RE-CREATED.jpg",
-      "excerpt": "“Placebo” (Hut, 96), el que fuera punzante debut homónimo de la banda de Brian Molko y Stefan Olsdal, cumplía el... La entrada Placebo RE:CREATED se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "371a03d01c011bef6a1b1a10dbe76e86e9d1faf8",
-      "title": "Errex",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/joseba-irazoki-noel-akchote-errex/",
-      "published": "2026-06-18T07:26:59.000Z",
-      "publishedTs": 1781767619000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Joseba-Irazoki-Noel-Akchote.jpg",
-      "excerpt": "Nueva aventura del sempiterno aventurero Joseba Irazoki, en este caso junto al músico parisino Nöel Akchoté, destacado en la escena... La entrada Errex se publicó primero en MondoSonoro ."
     },
     {
       "id": "4c271354015f548ae405aa9de77412d71b28e50f",
