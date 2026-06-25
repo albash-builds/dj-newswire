@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T15:39:16.006Z",
+  "generatedAt": "2026-06-25T18:09:09.131Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c05597f3de83f4e75ec627a9236c532682ef1ad8",
+      "title": "Crítica de 'Camisa de fuerza', el esperado disco de Kase O",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kase-o-camisa-de-fuerza/",
+      "published": "2026-06-25T18:02:55.000Z",
+      "publishedTs": 1782410575000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Kase.O-Camisa-de-fuerza.jpg",
+      "excerpt": "Casi una década después de “El Círculo” (16), Kase O ha vuelto a publicar un álbum. Y parece que ha... La entrada Crítica de &#039;Camisa de fuerza&#039;, el esperado disco de Kase O se publicó primero en MondoSonoro ."
+    },
     {
       "id": "85d7321770898a84aa64ec1c24c9db869e9d52bc",
       "title": "Experimental Rap",
@@ -99,7 +113,7 @@
     },
     {
       "id": "0a201eb2d507217bb96d5740d18764099393c84e",
-      "title": "Crítica de 'Nuca', el nuevo álbum de Clara Peya",
+      "title": "Nuca",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/clara-peya-nuca/",
       "published": "2026-06-23T09:18:18.000Z",
       "publishedTs": 1782206298000,
@@ -109,7 +123,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Clara-Peya-Nuca.jpg",
-      "excerpt": "Hay discos que nacen para explicar una herida. Otros para intentar cerrarla. “Nuca” pertenece a una categoría más extraña: la... La entrada Crítica de &#039;Nuca&#039;, el nuevo álbum de Clara Peya se publicó primero en MondoSonoro ."
+      "excerpt": "Hay discos que nacen para explicar una herida. Otros para intentar cerrarla. “Nuca” pertenece a una categoría más extraña: la... La entrada Nuca se publicó primero en MondoSonoro ."
     },
     {
       "id": "5b727935a9192cb655567099ea87628807546ac1",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Las-Nietas-del-Charli-un-sol-dentro.jpg",
       "excerpt": "Somos tan esclavos de lo inmediato y estamos tan malitos de los nervios que la paciencia y la mesura se... La entrada Un Sol dentro se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0935782cb74d0b7da24b60f733dd45a2fd4c7eb7",
-      "title": "Le Salon des Refusés",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/guerrita-manu-beats-le-salon-des-refuses/",
-      "published": "2026-06-20T10:03:38.000Z",
-      "publishedTs": 1781949818000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Guerrita-Manu-Beats-Le-Salon-des-Refuses.jpg",
-      "excerpt": "“A veces que te entre lleva tiempo / de la birra no te gustaba el primer sorbo y ahora huele... La entrada Le Salon des Refusés se publicó primero en MondoSonoro ."
     },
     {
       "id": "fa3d8e23c2c8efe812e93e747333fa09f1d372a1",
