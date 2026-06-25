@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T05:05:15.039Z",
+  "generatedAt": "2026-06-25T09:20:13.864Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "85d7321770898a84aa64ec1c24c9db869e9d52bc",
+      "title": "Experimental Rap",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jpegmafia-experimental-rap/",
+      "published": "2026-06-25T06:52:19.000Z",
+      "publishedTs": 1782370339000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/JPEGMAFIA-experimental-rap.jpg",
+      "excerpt": "La genialidad habitual de Peggy como creador siempre nos invita a ser partícipes de un juego de provocación que por... La entrada Experimental Rap se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "2d26e7d7a2a75ade385bda332e62d9fb16a25475",
+      "title": "The Former Site of The New Pornographers",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-new-pornographers-the-former-site-of/",
+      "published": "2026-06-25T06:37:23.000Z",
+      "publishedTs": 1782369443000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-New-Pornographers-The-Former-Site-of-1.jpg",
+      "excerpt": "Me decía A.C. Newman en una entrevista a propósito de su anterior y estimable álbum –el primero para Merge– que... La entrada The Former Site of The New Pornographers se publicó primero en MondoSonoro ."
+    },
     {
       "id": "dd5c68542120cff9f724e0cf6aca06f8ef8ea14f",
       "title": "¿Por qué me miráis así?",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Guerrita-Manu-Beats-Le-Salon-des-Refuses.jpg",
       "excerpt": "“A veces que te entre lleva tiempo / de la birra no te gustaba el primer sorbo y ahora huele... La entrada Le Salon des Refusés se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "38549ffb96a66ca8499ff8111d64abb87da17302",
-      "title": "Tan lejos como esta tarde me lleve",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tan-lejos-como-esta-tarde-me-lleve/",
-      "published": "2026-06-19T10:43:42.000Z",
-      "publishedTs": 1781865822000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Como-Vivir-En-El-Campo-Tan-lejos-como-esta-tarde-me-lleve.jpg",
-      "excerpt": "Decía Pedro Arranz, cuando la banda publicó “Yiyi” (23), su anterior disco, que la vocación de Cómo Vivir En El... La entrada Tan lejos como esta tarde me lleve se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "fc6dec3505d178750ac894b80e144b0748735d86",
-      "title": "Songs of Personal Loss and Protest",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/songs-of-personal-loss-and-protest/",
-      "published": "2026-06-19T08:12:29.000Z",
-      "publishedTs": 1781856749000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Jon-Spencer-Songs-of-Personal-Loss-and-Protest.jpg",
-      "excerpt": "Encaramado durante las últimas décadas al púlpito desde el que se oficia el blues más heterodoxo y furibundo, el músico... La entrada Songs of Personal Loss and Protest se publicó primero en MondoSonoro ."
     },
     {
       "id": "ea8a62979f2bcde02ef761235f97cb8416b99497",
