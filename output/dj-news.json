@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T15:23:25.134Z",
+  "generatedAt": "2026-06-26T17:47:09.595Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
     }
   ],
   "items": [
@@ -237,7 +237,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-CVRMIX-WEB-002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mmew--dUdy6uUO01yxyf4VXTQsxGNa2loIGmLCQZf5k",
-      "excerpt": "Brutalismus 3000 mix their upcoming album &#039;Harmony&#039; into a punchy half-hour set, with a bonus track inside. Continue reading..."
+      "excerpt": "Brutalismus 3000 mix their new album &#039;Harmony&#039; into a punchy half-hour set, with a bonus track inside. Continue reading..."
     },
     {
       "id": "ea8a62979f2bcde02ef761235f97cb8416b99497",
