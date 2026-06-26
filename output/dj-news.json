@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T05:08:01.949Z",
+  "generatedAt": "2026-06-26T09:25:12.820Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "626dcd4cfd1a9973b59ac96b02080132b5a7928f",
+      "title": "Trenza mía",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/blanca-paloma-trenza-mia/",
+      "published": "2026-06-26T06:56:44.000Z",
+      "publishedTs": 1782457004000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Blanca-Paloma-Trenza-mia.jpg",
+      "excerpt": "Publicar un álbum debut tres años después de pasar por esa trituradora mediática que es Eurovisión es un acto casi... La entrada Trenza mía se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4ca31dbb23aa2a2fd737eda7975b5fc51c43d1a7",
       "title": "Petit Paris",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Clara-Peya-Nuca.jpg",
       "excerpt": "Hay discos que nacen para explicar una herida. Otros para intentar cerrarla. “Nuca” pertenece a una categoría más extraña: la... La entrada Nuca se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5b727935a9192cb655567099ea87628807546ac1",
-      "title": "Real Life Evolution",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/joan-as-a-police-woman-real-life-evolution/",
-      "published": "2026-06-23T06:27:18.000Z",
-      "publishedTs": 1782196038000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Joan-as-a-Police-Woman-Real-Life-Evolution.jpg",
-      "excerpt": "La norteamericana Joan Wasser, que saltó a la palestra con “Real Life” hace justo veinte años, retoma el disco que... La entrada Real Life Evolution se publicó primero en MondoSonoro ."
     },
     {
       "id": "fa3d8e23c2c8efe812e93e747333fa09f1d372a1",
