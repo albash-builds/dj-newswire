@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T22:21:18.939Z",
+  "generatedAt": "2026-06-26T00:08:18.516Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "4ca31dbb23aa2a2fd737eda7975b5fc51c43d1a7",
+      "title": "Petit Paris",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-veletas-petit-paris/",
+      "published": "2026-06-25T23:07:34.000Z",
+      "publishedTs": 1782428854000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/los-veletas.jpg",
+      "excerpt": "En sus orígenes, la banda guipuzcoana Los Veletas comenzó berreando y tocando hardcore, pero algún cambio de formación hizo que... La entrada Petit Paris se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c4056ad254047bfd6587f743c3d2b451633d378e",
+      "title": "Zaurietan Lore",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/iban-martin-zaurietan-lore/",
+      "published": "2026-06-25T23:00:09.000Z",
+      "publishedTs": 1782428409000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/iban-martin.jpg",
+      "excerpt": "Iban Durruti bezala hainbat proiektutan ibili ostean (Raimundo el canastero, Eskafandra), bakarkako bideari atea zabaldu dio Iban Martin lekeitiarrak. Lau... La entrada Zaurietan Lore se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c05597f3de83f4e75ec627a9236c532682ef1ad8",
       "title": "Crítica de 'Camisa de fuerza', el esperado disco de Kase O",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Joan-as-a-Police-Woman-Real-Life-Evolution.jpg",
       "excerpt": "La norteamericana Joan Wasser, que saltó a la palestra con “Real Life” hace justo veinte años, retoma el disco que... La entrada Real Life Evolution se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0977e911cbb80aef6199fe8fe51aea081b944c03",
-      "title": "M I N",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/m-i-n/",
-      "published": "2026-06-22T08:40:53.000Z",
-      "publishedTs": 1782117653000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Min.jpg",
-      "excerpt": "Sorpresan etorri den talde horietakoa da Urola Kostan sortu den M I N taldea. Neguan eskaini zuten lehen emanaldia Zestoako... La entrada M I N se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "97f6b224acfd67881a36678f8ff34eaebdfc1306",
-      "title": "Un Sol dentro",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/las-nietas-del-charli-un-sol-dentro/",
-      "published": "2026-06-20T10:25:55.000Z",
-      "publishedTs": 1781951155000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Las-Nietas-del-Charli-un-sol-dentro.jpg",
-      "excerpt": "Somos tan esclavos de lo inmediato y estamos tan malitos de los nervios que la paciencia y la mesura se... La entrada Un Sol dentro se publicó primero en MondoSonoro ."
     },
     {
       "id": "fa3d8e23c2c8efe812e93e747333fa09f1d372a1",
