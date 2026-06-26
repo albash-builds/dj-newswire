@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T09:25:12.820Z",
+  "generatedAt": "2026-06-26T12:10:46.678Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "3707d69854b12bd8b9218833728902d9beb0822c",
+      "title": "Castle Park",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/graham-coxon-castle-park/",
+      "published": "2026-06-26T09:54:37.000Z",
+      "publishedTs": 1782467677000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Graham-Coxon-Castle-Park.jpg",
+      "excerpt": "Graham Coxon ha tenido a bien guardarse para sí mismo esa gominola que es “Castle Park” durante nada menos que... La entrada Castle Park se publicó primero en MondoSonoro ."
+    },
     {
       "id": "626dcd4cfd1a9973b59ac96b02080132b5a7928f",
       "title": "Trenza mía",
@@ -154,18 +168,16 @@
       "excerpt": "El regreso de los Nasti de Plasti es también el comienzo de Dirty Analog Records, el sello que ha sacado... La entrada Es lo que hay se publicó primero en MondoSonoro ."
     },
     {
-      "id": "0a201eb2d507217bb96d5740d18764099393c84e",
-      "title": "Nuca",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/clara-peya-nuca/",
-      "published": "2026-06-23T09:18:18.000Z",
-      "publishedTs": 1782206298000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Clara-Peya-Nuca.jpg",
-      "excerpt": "Hay discos que nacen para explicar una herida. Otros para intentar cerrarla. “Nuca” pertenece a una categoría más extraña: la... La entrada Nuca se publicó primero en MondoSonoro ."
+      "id": "01cbd2857fe2a624b333bac8ebef4a2bb7f77937",
+      "title": "Glastonbury's San Remo and Block9 share set recordings on fallow year weekend",
+      "link": "https://mixmag.net/read/glastonbury-san-remo-block9-2025-set-recordings-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Block-9-9.jpg?fit=cover&width=660&s=3AhUmfXMhsofu-m5zm-gzMkrMLuyPonLhzoZVcWjhCk",
+      "excerpt": "The Somerset festival is taking a break for 2026 to help Worthy Farm recover Continue reading..."
     },
     {
       "id": "fa3d8e23c2c8efe812e93e747333fa09f1d372a1",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Lost-Music-Venues-David-Parry.jpg?fit=cover&width=660&s=hmOmIscCqS3JX4XRQUfd_FI4xDbVRynYip0HHMdUG00",
       "excerpt": "After making a public call for material, the V&amp;A exhibition will feature more than 100 objects from the Haçienda to Plastic People Continue reading..."
-    },
-    {
-      "id": "43741ede2bfac945efba55454ef8cda5f3f48682",
-      "title": "Here’s what Berlin clubbers look like after 24 hours at Berghain",
-      "link": "https://mixmag.net/feature/heres-what-berlin-clubbers-look-like-after-24-hours-at-berghain",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berlin-after-glow-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=f03hPCuZNlYhlAjBiQ2jqFiCuEIjT9fgzdXTjw66-B0",
-      "excerpt": "In his new book Berlin Night After Glow, Chris Noltekuhlmann photographs the sweaty daze of Berlin clubbers after a full night of partying. Take a peek at some of the “exhausted, euphoric and vulnerable” ravers after-hours Continue readi…"
     }
   ]
 }
