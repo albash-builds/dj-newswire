@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:52:00.893Z",
+  "generatedAt": "2026-06-27T09:28:01.534Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -85,7 +85,7 @@
     },
     {
       "id": "c05597f3de83f4e75ec627a9236c532682ef1ad8",
-      "title": "Crítica de 'Camisa de fuerza', el esperado disco de Kase O",
+      "title": "Camisa de fuerza",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/kase-o-camisa-de-fuerza/",
       "published": "2026-06-25T18:02:55.000Z",
       "publishedTs": 1782410575000,
@@ -95,7 +95,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Kase.O-Camisa-de-fuerza.jpg",
-      "excerpt": "Casi una década después de “El Círculo” (16), Kase O ha vuelto a publicar un álbum. Y parece que ha... La entrada Crítica de &#039;Camisa de fuerza&#039;, el esperado disco de Kase O se publicó primero en MondoSonoro ."
+      "excerpt": "Casi una década después de “El Círculo” (16), Kase O ha vuelto a publicar un álbum. Y parece que ha... La entrada Camisa de fuerza se publicó primero en MondoSonoro ."
     },
     {
       "id": "85d7321770898a84aa64ec1c24c9db869e9d52bc",
