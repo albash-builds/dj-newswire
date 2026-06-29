@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T10:57:53.201Z",
+  "generatedAt": "2026-06-29T14:49:21.653Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "f3b2c90ec5689971b0c29ef00b8dfae4a00dc91b",
+      "title": "Resonance",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/acid-arab-resonance/",
+      "published": "2026-06-29T11:24:50.000Z",
+      "publishedTs": 1782732290000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Acid-Arab-Resonance.jpg",
+      "excerpt": "El colectivo franco-árabe parisino, el cual lleva ininterrumpidamente más de una década conectando y mostrándonos las singularidades de una electrónica... La entrada Resonance se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8e2334d3627bbf7aa041d590a8deacb9490111fe",
+      "title": "El año de la pera",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sr-chinarro-el-ano-de-la-pera/",
+      "published": "2026-06-29T10:57:48.000Z",
+      "publishedTs": 1782730668000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/sr-chinarro-El-ano-de-la-pera.jpg",
+      "excerpt": "Creo que hace muy bien Antonio Luque en reivindicar su pasado con este disco. En arrojar nueva luz sobre la... La entrada El año de la pera se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f690ac5af7fb5072d4abab22355d01b5ccb0b5ed",
       "title": "Crítica de 'Bliss', el nuevo disco de Temples",
@@ -140,32 +168,40 @@
       "excerpt": "Me decía A.C. Newman en una entrevista a propósito de su anterior y estimable álbum –el primero para Merge– que... La entrada The Former Site of The New Pornographers se publicó primero en MondoSonoro ."
     },
     {
-      "id": "dd5c68542120cff9f724e0cf6aca06f8ef8ea14f",
-      "title": "¿Por qué me miráis así?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-la-love-you-por-que-me-mirais-asi/",
-      "published": "2026-06-24T07:30:05.000Z",
-      "publishedTs": 1782286205000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/La-La-Love-You-Por-que-me-mirais-asi.jpg",
-      "excerpt": "La La Love You siguen queriendo evitar asumir la vida adulta y prefieren permanecer atrapados en una cápsula del tiempo... La entrada ¿Por qué me miráis así? se publicó primero en MondoSonoro ."
+      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
+      "title": "Who's playing The Mixmag Lab?",
+      "link": "https://mixmag.net/feature/lab-ldn",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=SpeHCNkOVR9xf12qAICzzUuKPOILKY6uCxrcJD-8WOc",
+      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
-      "id": "775f95cc41ff8d1f08f0e99c5c426fff7e3a9d3d",
-      "title": "Dimonis de la Sauva Negra",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dimonis-de-la-sauva-negra-tort/",
-      "published": "2026-06-24T06:47:15.000Z",
-      "publishedTs": 1782283635000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TortCDDimonis.jpg",
-      "excerpt": "Después de siete años de espera, la banda catalana Tort regresa de su hibernación con un cuarto disco tan sucio... La entrada Dimonis de la Sauva Negra se publicó primero en MondoSonoro ."
+      "id": "393b209bbc4d2e59d4e995eacbc73b4c1a2313a9",
+      "title": "Immersive Gorillaz exhibition to open in New York this September",
+      "link": "https://mixmag.net/read/immersive-gorillaz-exhibition-open-new-york-house-of-kong-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gorillaz-nyc.jpg?fit=cover&width=660&s=DNnf2F66vB-YJx2jGp1fbJWiVNyTKvZMRDvIUmAkOoY",
+      "excerpt": "House Of Kong first debuted in London last year to celebrate the virtual band’s 25th anniversary Continue reading..."
+    },
+    {
+      "id": "c1d5e75b8c7eb37ae373ca224e49349f42b41cf2",
+      "title": "Body of newborn baby found in portaloo at Electric Forest Festival",
+      "link": "https://mixmag.net/read/body-newborn-baby-found-portable-toilet-electric-forest-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest.jpg?fit=cover&width=660&s=t5XyHv9rwHz_6z_aEPnMm6UH-K1qXao_HoCdBSw1ZK4",
+      "excerpt": "A police investigation is currently underway, the Michigan festival has confirmed Continue reading..."
     },
     {
       "id": "221f7700d7d24a73b46594faec5c57673857cb2c",
@@ -756,18 +792,6 @@
       "excerpt": "With so many late kick offs in the US, Mexico and Canada-hosted tournament, there are a range of clubs, music venues festivals showing the big games across the next few weeks Continue reading..."
     },
     {
-      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
-      "title": "Who's playing The Mixmag Lab?",
-      "link": "https://mixmag.net/feature/lab-ldn",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=SpeHCNkOVR9xf12qAICzzUuKPOILKY6uCxrcJD-8WOc",
-      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
-    },
-    {
       "id": "8e619c8f38f470331b228732f2f618895275c206",
       "title": "The Semi Delicious crew select their five ultimate festival tracks",
       "link": "https://mixmag.net/feature/semi-delicious-ultimate-festival-tracks-gottwood-playlist",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/soundit-by-Laura-Dominguez.jpg?fit=cover&width=660&s=1YEJ9GHWxqbJcWJdM_U3Sl5ESxNdgb2IcFpv7xgKXZg",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "1af8410f0459726974ad4135f014e6688fa8a9a9",
-      "title": "How it felt to attend London's phone-free club night, Lost",
-      "link": "https://mixmag.net/feature/lost-club-night-london-secret-cinema-phone-free-ban-dancefloor-central-party",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LOST.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=RnJ3ev--7jRR4t62GuKBQUCAxqqL0MALuVNE8voZ-Os",
-      "excerpt": "With its strict policy of leaving devices at the door, self-confessed phone addict Megan Townsend went down to London&#039;s &quot;mysterious&quot; club night to find out what this &quot;not a phone in sight, just living in the moment&qu…"
-    },
-    {
-      "id": "f67f759662e01f34d2d5a088df3dfb99fc70efeb",
-      "title": "Manchester venue Stage & Radio under threat from neighbouring flat development",
-      "link": "https://mixmag.net/read/manchester-venue-stage-radio-under-threat-from-neighbouring-flat-development-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SR.jpg?fit=cover&width=660&s=Vo3jCr88-ifMF0TNFilKB_rDmJTk-bgu2ZjUQwYUu1c",
-      "excerpt": "The grassroots venue, home to CROP Radio, has shared “serious concerns” over the council’s planned development Continue reading..."
     }
   ]
 }
