@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:49:51.456Z",
+  "generatedAt": "2026-06-29T10:57:53.201Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "f690ac5af7fb5072d4abab22355d01b5ccb0b5ed",
+      "title": "Crítica de 'Bliss', el nuevo disco de Temples",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/temples-bliss/",
+      "published": "2026-06-29T06:14:57.000Z",
+      "publishedTs": 1782713697000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/temples-bliss.jpg",
+      "excerpt": "En activo desde 2012, los británicos Temples fueron uno de los protagonistas de la nueva ola de rock psicodélico con... La entrada Crítica de &#039;Bliss&#039;, el nuevo disco de Temples se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3707d69854b12bd8b9218833728902d9beb0822c",
       "title": "Castle Park",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/TortCDDimonis.jpg",
       "excerpt": "Después de siete años de espera, la banda catalana Tort regresa de su hibernación con un cuarto disco tan sucio... La entrada Dimonis de la Sauva Negra se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "26b46318488cec8f77e74f6dc5dfdb562b394a78",
-      "title": "Es lo que hay",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nasti-de-plasti-es-lo-que-hay/",
-      "published": "2026-06-23T17:30:36.000Z",
-      "publishedTs": 1782235836000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Nasti-de-plasti.jpg",
-      "excerpt": "El regreso de los Nasti de Plasti es también el comienzo de Dirty Analog Records, el sello que ha sacado... La entrada Es lo que hay se publicó primero en MondoSonoro ."
     },
     {
       "id": "221f7700d7d24a73b46594faec5c57673857cb2c",
