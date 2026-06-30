@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T05:02:39.845Z",
+  "generatedAt": "2026-06-30T09:33:59.988Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "6d6b5c1ace3eb25fe4dd7b9e6b541a267f491604",
+      "title": "Feeling Is Structure",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/feeling-is-structure/",
+      "published": "2026-06-30T08:09:06.000Z",
+      "publishedTs": 1782806946000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Max-Cooper-Feeling-Is-Structure.jpg",
+      "excerpt": "A estas alturas, Max Cooper lleva más de una década trazando un camino singular dentro de la electrónica: un territorio... La entrada Feeling Is Structure se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9d7952cdb329c4a2559e1548cc367137df7192d6",
+      "title": "Reseñamos 'BRIGADO,' el nuevo álbum de Dellafuente",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dellafuente-brigado/",
+      "published": "2026-06-30T07:47:58.000Z",
+      "publishedTs": 1782805678000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dellafuente-BRIGADO.jpg",
+      "excerpt": "El nuevo álbum de Dellafuente es una carta al aprendizaje. Un tratado de paz consigo mismo por haber logrado quererse... La entrada Reseñamos &#039;BRIGADO,&#039; el nuevo álbum de Dellafuente se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f3b2c90ec5689971b0c29ef00b8dfae4a00dc91b",
       "title": "Resonance",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Kase.O-Camisa-de-fuerza.jpg",
       "excerpt": "Casi una década después de “El Círculo” (16), Kase O ha vuelto a publicar un álbum. Y parece que ha... La entrada Camisa de fuerza se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "85d7321770898a84aa64ec1c24c9db869e9d52bc",
-      "title": "Experimental Rap",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jpegmafia-experimental-rap/",
-      "published": "2026-06-25T06:52:19.000Z",
-      "publishedTs": 1782370339000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/JPEGMAFIA-experimental-rap.jpg",
-      "excerpt": "La genialidad habitual de Peggy como creador siempre nos invita a ser partícipes de un juego de provocación que por... La entrada Experimental Rap se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2d26e7d7a2a75ade385bda332e62d9fb16a25475",
-      "title": "The Former Site of The New Pornographers",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-new-pornographers-the-former-site-of/",
-      "published": "2026-06-25T06:37:23.000Z",
-      "publishedTs": 1782369443000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/The-New-Pornographers-The-Former-Site-of-1.jpg",
-      "excerpt": "Me decía A.C. Newman en una entrevista a propósito de su anterior y estimable álbum –el primero para Merge– que... La entrada The Former Site of The New Pornographers se publicó primero en MondoSonoro ."
     },
     {
       "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
