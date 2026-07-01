@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T15:41:07.896Z",
+  "generatedAt": "2026-07-01T17:54:26.061Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Blanca-Paloma-Trenza-mia.jpg",
       "excerpt": "Publicar un álbum debut tres años después de pasar por esa trituradora mediática que es Eurovisión es un acto casi... La entrada Trenza mía se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "696312f0e82c2c6b75c2a552f3d3ae45e632407e",
+      "title": "Lukas Wigflex cancels all gigs and steps down from Peep Festival in response to abuse allegations",
+      "link": "https://mixmag.net/read/lukas-wigflex-steps-down-from-peep-festival-addresses-abuse-allegations-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=O0Y7_5xG9T-u0--EgCT5FcK7tAeTMgUg-HiON_RuJHA",
+      "excerpt": "The team behind Peep, which he co-founded alongside Dr Banana, said they are “deeply saddened” by the accusations Continue reading..."
     },
     {
       "id": "eea9f44afda70a2ef1a9e75cb823dd8d8deb5a9b",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/yonkers-1.jpg?fit=cover&width=660&s=LMl8PB9bEUiL1sqUAqQKQQwK_XQ0gJ3IOLUR_vvBbOw",
       "excerpt": "Earl DMX Simmons Way will be located close to where the legendary rapper grew up in Yonkers Continue reading..."
-    },
-    {
-      "id": "53b2168728453f66818bade63a4009f9670d5d39",
-      "title": "Cocaine deaths are higher than ever as “ultra strength” purity floods UK market",
-      "link": "https://mixmag.net/read/cocaine-deaths-higher-than-ever-ultra-strength-purity-floods-uk-market-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cocaine-credit-daniel-foster.jpg?fit=cover&width=660&s=0ykFN3igrqMPrkTlalEXFPsSj9s4LF-XheHtX6unHwM",
-      "excerpt": "According to a new report, purity levels have increased almost 50% in the last 13 years Continue reading..."
     }
   ]
 }
