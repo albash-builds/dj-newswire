@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:06:56.016Z",
+  "generatedAt": "2026-07-01T15:41:07.896Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "24f45e510e0d876b947a08b7e79b70d4a0037ee7",
+      "title": "The Great Parrot-Ox and the Golden Egg of Sympathy",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-claypool-lennon-delirium-the-great-parrot-ox/",
+      "published": "2026-07-01T15:14:54.000Z",
+      "publishedTs": 1782918894000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Claypool-Lennon-Delirium-The-Great-Parrot-Ox.jpg",
+      "excerpt": "Este guiño entre colegas se va convirtiendo en cosa seria. Decíamos en 2016 que “Monolith of Phobos” el debut de... La entrada The Great Parrot-Ox and the Golden Egg of Sympathy se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2ee6ccb4fcbdbd316e740a8aa01e40b8a811916a",
       "title": "Before The World Caves In",
@@ -154,18 +168,52 @@
       "excerpt": "Publicar un álbum debut tres años después de pasar por esa trituradora mediática que es Eurovisión es un acto casi... La entrada Trenza mía se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4ca31dbb23aa2a2fd737eda7975b5fc51c43d1a7",
-      "title": "Petit Paris",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-veletas-petit-paris/",
-      "published": "2026-06-25T23:07:34.000Z",
-      "publishedTs": 1782428854000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/los-veletas.jpg",
-      "excerpt": "En sus orígenes, la banda guipuzcoana Los Veletas comenzó berreando y tocando hardcore, pero algún cambio de formación hizo que... La entrada Petit Paris se publicó primero en MondoSonoro ."
+      "id": "eea9f44afda70a2ef1a9e75cb823dd8d8deb5a9b",
+      "title": "Inside the new 8,500-capacity Berlin club and music venue, FOUND",
+      "link": "https://mixmag.net/feature/found-berlin-inside-photos-nightclub-berlin-venue",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOUND-BERLIN.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8VipWuTyHRDG5av904NKfNvlXsbx2ba3NG-AMJ-SZWw",
+      "excerpt": "The Tempelhof-Schöneberg venue, which was occupied by KitKatClub from 2001 to 2004, opened last weekend with a marathon party from Watergate Continue reading..."
+    },
+    {
+      "id": "e2296263c90139779bc58c3cda4d54c7449086c7",
+      "title": "The Warehouse Project announces new shows for 20th anniversary",
+      "link": "https://mixmag.net/read/warehouse-project-announces-20th-anniversary-line-ups-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warehouse-project-26.jpg?fit=cover&width=660&s=yfxx7oZULP4kWFPF5Oeb_TwH37YQ7ZWm-Qqsyzu17ks",
+      "excerpt": "WHP26 kicks off in September, celebrating two decades of quality electronic music in Manchester Continue reading..."
+    },
+    {
+      "id": "f1a9b516d8a194e1b4e50bf790269d60b4d44528",
+      "title": "Being a DJ is the number one dream job in New Zealand, study finds",
+      "link": "https://mixmag.net/read/dj-number-one-dream-job-new-zealand-study-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-new-zealand.jpg?fit=cover&width=660&s=3ZpDpKbXn4Miw7j7DGNtSFD9aMbXRS9olFYhWXSw5H4",
+      "excerpt": "It ranks above jobs like acting, writing, or becoming a CEO, according to new research Continue reading..."
+    },
+    {
+      "id": "9361332ed46998b76fab906d7b50693a56ca0cc7",
+      "title": "The Mix 113: Debit",
+      "link": "https://mixmag.net/feature/the-mix-113-dj-debit-interview-potpourri-naafi",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Debit2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=5EXIUx-o0Oz2fg8h8EefIEEsJv4YSRYhEHITVyMAuLg",
+      "excerpt": "Debit shares an energetic mix she&#039;s titling &#039;Handling Polyrhythms Without a Jog Wheel: Time Doesn’t Exist&#039; and speaks to Martyn Pepperell about how much the creative landscape has shifted through her career, learning to ac…"
     },
     {
       "id": "11c960c4376cabdfbe31bc5daa685e1259436a17",
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cocaine-credit-daniel-foster.jpg?fit=cover&width=660&s=0ykFN3igrqMPrkTlalEXFPsSj9s4LF-XheHtX6unHwM",
       "excerpt": "According to a new report, purity levels have increased almost 50% in the last 13 years Continue reading..."
-    },
-    {
-      "id": "7413a95c23527917f85b2c52a8d76ebe402e579c",
-      "title": "ANOTR’s pop-up show in Manchester shut down after fans scale fence",
-      "link": "https://mixmag.net/read/anotr-pop-up-show-manchester-shut-down-police-fans-scale-fence-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/anotr-show.jpg?fit=cover&width=660&s=92sTM4ubUku5uttxfa8SOyeCoOJbrTbRLfRoZ3ASqwQ",
-      "excerpt": "The duo said they were “disappointed” about the police’s decision to cancel the event Continue reading..."
-    },
-    {
-      "id": "26397ccfab84823386e5fa5cf59993515af2bf97",
-      "title": "Juno Download announces closure after two decades",
-      "link": "https://mixmag.net/read/juno-download-announces-closure-of-platform-after-two-decades-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juno-Download.jpg?fit=cover&width=660&s=cE8gp74WpZ19uEjFcnN2l5MItj1D7xn13Uuscd5D6iI",
-      "excerpt": "The digital marketplace first launched in 2006, becoming a haven for electronic fans to discover new music Continue reading..."
-    },
-    {
-      "id": "48ecae7eb9c6790eb271b34937355a98a1259f75",
-      "title": "Five things to expect from We Love Green 2026",
-      "link": "https://mixmag.net/feature/five-things-to-expect-from-we-love-green-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/We-Love-Green.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=qNiZQ6iffszFheFLi5-RDdhrVyhi1HrY-7JBrhFElNs",
-      "excerpt": "Allons-y! With over 100,000 people expected to descend upon the Parisian festival over three days this weekend, here&#039;s what you can expect from We Love Green&#039;s forthcoming 15th edition Continue reading..."
-    },
-    {
-      "id": "0946af250af4e27dd3ebdeb7615c6d90e10b6960",
-      "title": "Jay-Z calls out Drake, Kanye and Nicki Minaj during first headline show in five years",
-      "link": "https://mixmag.net/read/jay-z-calls-out-drake-kanye-nicki-minaj-during-first-headline-show-in-five-years-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jay-z-roots.jpg?fit=cover&width=660&s=UaikAAlKEvSuYsmDFze8cPEEsNzNnKUZbQc5Q0XtpSw",
-      "excerpt": "He topped the bill at Philadelphia’s Roots Picnic over the weekend Continue reading..."
     }
   ]
 }
