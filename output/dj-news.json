@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T10:39:12.587Z",
+  "generatedAt": "2026-07-02T12:57:24.697Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -168,6 +168,30 @@
       "excerpt": "Graham Coxon ha tenido a bien guardarse para sí mismo esa gominola que es “Castle Park” durante nada menos que... La entrada Castle Park se publicó primero en MondoSonoro ."
     },
     {
+      "id": "d983eccb65359ee2a60074ba6050bafada8f49fe",
+      "title": "A list of ways to aid those affected by the Venezuelan earthquake",
+      "link": "https://mixmag.net/read/a-list-of-ways-to-aid-those-affected-by-the-venezuelan-earthqake-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Venezuela.jpg?fit=cover&width=660&s=_9AHMw21Iud-Z290Bu9mqq-zo5gwFFdtHNeaLWpEjmA",
+      "excerpt": "Find out how you can help the humanitarian crisis in Venezuela as a result of the devastating earthquakes across the country on June 24 Continue reading..."
+    },
+    {
+      "id": "e1bfe0902c511e4818315f71b9f9c1fa1bdbe23d",
+      "title": "Traxsource and TIDAL introduce new AI detection tools",
+      "link": "https://mixmag.net/read/traxsource-tidal-introduce-new-ai-detection-tools-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones-phone-credit-Arun-Thomas.jpg?fit=cover&width=660&s=I2RfeOnOyRaosOGDWlU8cwZDUvqMH01tLYSidpDpAZM",
+      "excerpt": "Both platforms are cracking down on AI-generated music and “fraudulent” tracks Continue reading..."
+    },
+    {
       "id": "b93def5dc07b6ba979118fa4f32f9aa0f7c3450f",
       "title": "Russian nightclub owner and workers jailed amid worsening anti-LGBTQIA+ crackdown",
       "link": "https://mixmag.net/read/russian-nightclub-owner-and-workers-jailed-amid-worsening-anti-lgbtqia-crackdown-news",
@@ -181,7 +205,7 @@
     },
     {
       "id": "268f59940a315d1b618ba3dc57d094bde25bf275",
-      "title": "Riz Ahmed: \"SOPHIE's 'BIPP' gave me the belief that things could get better\"",
+      "title": "Riz Ahmed: “SOPHIE's 'BIPP' gave me the belief that things could get better”",
       "link": "https://mixmag.net/feature/riz-ahmed-sophie-bipp-bait-soundtrack-interview",
       "published": "",
       "publishedTs": 0,
@@ -201,7 +225,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=O0Y7_5xG9T-u0--EgCT5FcK7tAeTMgUg-HiON_RuJHA",
-      "excerpt": "A blog was published online at the weekend with alleged details of &quot;psychological abuse, coercive and controlling behaviour, physical abuse, intimidation and threats&quot; Continue reading..."
+      "excerpt": "An article was published online at the weekend with alleged details of &quot;psychological abuse, coercive and controlling behaviour, physical abuse, intimidation and threats&quot; Continue reading..."
     },
     {
       "id": "eea9f44afda70a2ef1a9e75cb823dd8d8deb5a9b",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dina2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lY4_gJ5QtnWcuJOSFv34LCrDPmH4olFA8R57ZrtWlR0",
       "excerpt": "Connecting the dots between the global trance underground, the Berlin-based producer creates a sunshine-tinged atmosphere for The Mix and speaks to Megan Townsend about community, finding inspiration in disparate scenes, and moving tranc…"
-    },
-    {
-      "id": "be7579264abda9ba7f7bccf97765dfbc1f1c70cf",
-      "title": "Theo Parrish, Shanti Celeste and more to perform at Arc’teryx Alpine Academy 2026",
-      "link": "https://mixmag.net/read/theo-parrish-shanti-celeste-perform-arcteryx-alpine-academy-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/arcteryx-alpine-lead.jpg?fit=cover&width=660&s=vLcKRBf1Se0wE6DordsCT7RlAOE30m8okTPu3_Khbgk",
-      "excerpt": "The festival returns to Chamonix-Mont-Blanc this July with a program of music, talks, workshops and more Continue reading..."
-    },
-    {
-      "id": "12d61ab9d18fe292f0edcd93df6c220ebec10d51",
-      "title": "No small feat: Rhythm Büro is the beloved Kyiv party pushing on through wartime",
-      "link": "https://mixmag.net/feature/no-small-feat-rhythm-buro-is-the-beloved-kyiv-party-pushing-on-through-wartime",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rhythm-buro-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mCIpF4JqYxdPResYvGaoS1LbDNrx2VD9imOjmlISDPo",
-      "excerpt": "More than a decade since it began, Rhythm Büro has morphed from a club night into an anticipated bi-annual day party following war-imposed curfews. We spoke to the team behind the event series and record label about its 10-year tenure Co…"
     }
   ]
 }
