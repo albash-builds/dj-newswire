@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T07:31:31.417Z",
+  "generatedAt": "2026-07-02T10:39:12.587Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "15341e82b2a83e2ab54e912065af2193e48abd74",
+      "title": "People of the Moon",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nu-genea-people-of-the-moon/",
+      "published": "2026-07-02T10:08:05.000Z",
+      "publishedTs": 1782986885000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nu-Genea-People-of-the-Moon.jpg",
+      "excerpt": "Nu Genea, el dúo de músicos y productores napolitanos Massimo Di Lena y Lucio Aquilina siguen su camino casi arqueológico... La entrada People of the Moon se publicó primero en MondoSonoro ."
+    },
     {
       "id": "24f45e510e0d876b947a08b7e79b70d4a0037ee7",
       "title": "The Great Parrot-Ox and the Golden Egg of Sympathy",
@@ -154,18 +168,28 @@
       "excerpt": "Graham Coxon ha tenido a bien guardarse para sí mismo esa gominola que es “Castle Park” durante nada menos que... La entrada Castle Park se publicó primero en MondoSonoro ."
     },
     {
-      "id": "626dcd4cfd1a9973b59ac96b02080132b5a7928f",
-      "title": "Trenza mía",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/blanca-paloma-trenza-mia/",
-      "published": "2026-06-26T06:56:44.000Z",
-      "publishedTs": 1782457004000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Blanca-Paloma-Trenza-mia.jpg",
-      "excerpt": "Publicar un álbum debut tres años después de pasar por esa trituradora mediática que es Eurovisión es un acto casi... La entrada Trenza mía se publicó primero en MondoSonoro ."
+      "id": "b93def5dc07b6ba979118fa4f32f9aa0f7c3450f",
+      "title": "Russian nightclub owner and workers jailed amid worsening anti-LGBTQIA+ crackdown",
+      "link": "https://mixmag.net/read/russian-nightclub-owner-and-workers-jailed-amid-worsening-anti-lgbtqia-crackdown-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Orenburg.jpg?fit=cover&width=660&s=KEi444fF8evDG9jCfgnvKW37oU5gZrCuDd70MiIuWiE",
+      "excerpt": "Three people have been handed sentences ranging from two to seven years for their support of the so-called &quot;international LGBT movement&quot; Continue reading..."
+    },
+    {
+      "id": "268f59940a315d1b618ba3dc57d094bde25bf275",
+      "title": "Riz Ahmed: \"SOPHIE's 'BIPP' gave me the belief that things could get better\"",
+      "link": "https://mixmag.net/feature/riz-ahmed-sophie-bipp-bait-soundtrack-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead_2026-06-23-151509_wacr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=l-CdFq3igzt_gSzlASssKCiFPrDTDktK0F84TfhctRo",
+      "excerpt": "With his semi-autobiographical comedy Bait receiving awards buzz, we caught up with Riz Ahmed to talk about bringing his South Asian diaspora-themed James Bond soundtrack to life for the show Continue reading..."
     },
     {
       "id": "696312f0e82c2c6b75c2a552f3d3ae45e632407e",
@@ -177,7 +201,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=O0Y7_5xG9T-u0--EgCT5FcK7tAeTMgUg-HiON_RuJHA",
-      "excerpt": "The team behind Peep, which he co-founded alongside Dr Banana, said they are “deeply saddened” by the accusations Continue reading..."
+      "excerpt": "A blog was published online at the weekend with alleged details of &quot;psychological abuse, coercive and controlling behaviour, physical abuse, intimidation and threats&quot; Continue reading..."
     },
     {
       "id": "eea9f44afda70a2ef1a9e75cb823dd8d8deb5a9b",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rhythm-buro-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mCIpF4JqYxdPResYvGaoS1LbDNrx2VD9imOjmlISDPo",
       "excerpt": "More than a decade since it began, Rhythm Büro has morphed from a club night into an anticipated bi-annual day party following war-imposed curfews. We spoke to the team behind the event series and record label about its 10-year tenure Co…"
-    },
-    {
-      "id": "3464142e6d26f4422a0a28b161ec930e72fe81b7",
-      "title": "Björk launches new Echolalia exhibition at The National Gallery of Iceland",
-      "link": "https://mixmag.net/read/bjork-launches-new-echolalia-exhibition-at-the-national-gallery-of-iceland-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bjork-pic.jpg?fit=cover&width=660&s=yPM0oKSITnmfyvYNSKcoQ_DNbnvceWKDLYI1wWxVa9g",
-      "excerpt": "The exhibition will feature three large-scale audiovisual installations, including one &quot;developed from material connected to her forthcoming musical work&quot; Continue reading..."
-    },
-    {
-      "id": "33dab69f0ef56341ce7be74b10c4e34ecf614e80",
-      "title": "DMX set to be honoured with street named after him in New York",
-      "link": "https://mixmag.net/read/dmx-set-to-be-honoured-with-street-name-in-new-york-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/yonkers-1.jpg?fit=cover&width=660&s=LMl8PB9bEUiL1sqUAqQKQQwK_XQ0gJ3IOLUR_vvBbOw",
-      "excerpt": "Earl DMX Simmons Way will be located close to where the legendary rapper grew up in Yonkers Continue reading..."
     }
   ]
 }
