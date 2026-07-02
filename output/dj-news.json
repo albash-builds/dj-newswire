@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:57:24.697Z",
+  "generatedAt": "2026-07-02T15:19:38.825Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Graham-Coxon-Castle-Park.jpg",
       "excerpt": "Graham Coxon ha tenido a bien guardarse para sí mismo esa gominola que es “Castle Park” durante nada menos que... La entrada Castle Park se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "373640a88ae22e0914ee9994b57ea4be91dc84f9",
+      "title": "Dublin's Yamamori Izakaya to cease DJ events, ending legal dispute with neighbour",
+      "link": "https://mixmag.net/read/dublins-yamamori-izakaya-to-end-club-programming-following-deal-with-the-hoxton-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/YAMAMORI.jpg?fit=cover&width=660&s=AGaGz6RnaaWlZ10t2Skfk9-SZeB65NKXtnmzCyvKxCg",
+      "excerpt": "The Japanese-themed bar will end its late-night programming from July 19 after reaching a deal with The Hoxton Hotel Continue reading..."
+    },
+    {
+      "id": "acab830641d6601ef1e5d6ebe96ec57de5e2aa3d",
+      "title": "Man hospitalised after stabbing at 400-person illegal rave in Cambridgeshire",
+      "link": "https://mixmag.net/read/man-hospitalised-after-stabbing-at-400-person-illegal-rave-in-cambridgeshire-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dry-drayton-rave.jpg?fit=cover&width=660&s=XN2zRL4qDsM06v9nGCU9ReJUGYbGawV7K6bb8A8QTeY",
+      "excerpt": "An investigation into the incident has been opened by police Continue reading..."
     },
     {
       "id": "d983eccb65359ee2a60074ba6050bafada8f49fe",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/conducta-jungle-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=bMhtRx1J6u0fXmHE9fNH7rvUCO_SztHnzmPMjkRCj0A",
       "excerpt": "In a rare move from garage into jungle territory, Conducta’s new EP ‘Soundboy Johnny’ channels his appetite for bright, breakneck rhythms as summer beckons. He picks out the jungle tracks that get him motivated in the studio Continue rea…"
-    },
-    {
-      "id": "8fb2f3225737222fefc5d18effb7c00208b2fc42",
-      "title": "Amsterdam queer venue Club RAUM to launch new room, Nexus",
-      "link": "https://mixmag.net/read/amsterdams-club-raum-to-launch-new-room-nexus-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-raum.jpg?fit=cover&width=660&s=M34J8gENsyWhN58-6CfsXfYcJ4oy5SlXouDolXzE3IQ",
-      "excerpt": "Set to be kitted out with a bespoke Funktion-One soundsystem, the new room will be tailored around a &quot;deep, introspective listening experience&quot; Continue reading..."
-    },
-    {
-      "id": "c8c910a53f67873724f9da407617476044f65f9b",
-      "title": "The Mix 109: DINA",
-      "link": "https://mixmag.net/feature/the-mix-109-dina-trance-nachtcrew-interview-dj-berlin",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Dina2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lY4_gJ5QtnWcuJOSFv34LCrDPmH4olFA8R57ZrtWlR0",
-      "excerpt": "Connecting the dots between the global trance underground, the Berlin-based producer creates a sunshine-tinged atmosphere for The Mix and speaks to Megan Townsend about community, finding inspiration in disparate scenes, and moving tranc…"
     }
   ]
 }
