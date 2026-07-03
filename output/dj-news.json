@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T12:11:40.590Z",
+  "generatedAt": "2026-07-03T15:10:46.325Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Acid-Arab-Resonance.jpg",
       "excerpt": "El colectivo franco-árabe parisino, el cual lleva ininterrumpidamente más de una década conectando y mostrándonos las singularidades de una electrónica... La entrada Resonance se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "aea6ea30d065b4e78632b6cab678807487bbfc3a",
+      "title": "Watch the first trailer for HBO's Burning Man documentary series",
+      "link": "https://mixmag.net/read/watch-the-first-trailer-for-hbos-burning-man-documentary-series-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burning-Man_2026-07-03-125502_gamu.jpg?fit=cover&width=660&s=gA5oPfaOSdMW0HOghBPgj1UuuD4tupPe_Ko2unk0UNo",
+      "excerpt": "The Man Will Burn promises to offer an &quot;intimate&quot; look at the yearly Black Rock Desert event Continue reading..."
+    },
+    {
+      "id": "19d635745a4be18db7f8a4330defd82a57ce44d3",
+      "title": "Village People frontman Victor Willis has died aged 74",
+      "link": "https://mixmag.net/read/village-people-frontman-victor-willis-died-aged-74-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/victor-willis.jpg?fit=cover&width=660&s=RzbPyHdrXn9dH7Hu98UZsCxVgpxgYdq5sQbZJMjkQJA",
+      "excerpt": "The disco group confirmed that he suffered an “aggressive illness” before his passing Continue reading..."
     },
     {
       "id": "cac8d67061843434daff01553a846066674cd854",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Avalanches-1.jpg?fit=cover&width=660&s=1ZLtODpGAeBScoEIFeG9r0shpw4hw6USnSDtO7D6vd0",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "031b688f1c3287ecb582686d9fd144082d541a7d",
-      "title": "Founder and CEO of the MOBOs Kanya King has died aged 57",
-      "link": "https://mixmag.net/read/founder-and-ceo-of-the-mobos-kanya-king-has-died-aged-57-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kanya-King.jpg?fit=cover&width=660&s=7qqjRtSSxM_sMfx7FZDNi038Mm-amUF7nxYVmD01Acs",
-      "excerpt": "The MOBOs paid tribute to King: &quot;The music world has lost one of its most fearless champions” Continue reading..."
-    },
-    {
-      "id": "313e35fe30c326a1b5582da9373a208924e8139f",
-      "title": "2 Live Crew cannot claim rights to their own music, US court rules",
-      "link": "https://mixmag.net/read/2-live-crew-cannot-claim-rights-to-their-own-music-us-court-rules-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2-live-crew.jpg?fit=cover&width=660&s=SqaNy6TyaG6s-UjSEXynwwgdWTRlbYgdg1A0zpkWATg",
-      "excerpt": "The hip hop group have been embroiled in a legal battle with their label over the copyrights to their back catalogue Continue reading..."
     }
   ]
 }
