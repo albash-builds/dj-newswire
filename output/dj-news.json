@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T06:32:09.629Z",
+  "generatedAt": "2026-07-03T09:57:42.016Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,52 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "6a2507b5ba16482090b48798c86dd1dabb888403",
+      "title": "Manifesto.",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mnfst-manifesto/",
+      "published": "2026-07-03T09:06:34.000Z",
+      "publishedTs": 1783069594000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/MNFST.-Manifesto.jpg",
+      "excerpt": "El debut discográfico de MNFST., un proyecto anónimo afincado en Barcelona, juega deliberadamente con el misterio. No sabemos nada del... La entrada Manifesto. se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "e5671a8b81e04d25a857c2db13583e80c3e3cc36",
+      "title": "PA",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/anna-ferrer-pa/",
+      "published": "2026-07-03T08:29:35.000Z",
+      "publishedTs": 1783067375000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Anna-Ferrer-PA.jpg",
+      "excerpt": "Sin duda, que la vanguardia haya entrado en la ecuación de la tradición ha traído consigo milagros particulares como el... La entrada PA se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8f0c6cf608ed956f6b50cda0b663aa48fcb605cb",
+      "title": "Crítica de 'Amor Compartido', el nuevo disco de Cupido",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/cupido-amor-compartido/",
+      "published": "2026-07-02T19:30:25.000Z",
+      "publishedTs": 1783020625000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Cupido-Amor-Compartido.jpg",
+      "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Crítica de &#039;Amor Compartido&#039;, el nuevo disco de Cupido se publicó primero en MondoSonoro ."
+    },
     {
       "id": "15341e82b2a83e2ab54e912065af2193e48abd74",
       "title": "People of the Moon",
@@ -124,48 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Acid-Arab-Resonance.jpg",
       "excerpt": "El colectivo franco-árabe parisino, el cual lleva ininterrumpidamente más de una década conectando y mostrándonos las singularidades de una electrónica... La entrada Resonance se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8e2334d3627bbf7aa041d590a8deacb9490111fe",
-      "title": "El año de la pera",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sr-chinarro-el-ano-de-la-pera/",
-      "published": "2026-06-29T10:57:48.000Z",
-      "publishedTs": 1782730668000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/sr-chinarro-El-ano-de-la-pera.jpg",
-      "excerpt": "Creo que hace muy bien Antonio Luque en reivindicar su pasado con este disco. En arrojar nueva luz sobre la... La entrada El año de la pera se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f690ac5af7fb5072d4abab22355d01b5ccb0b5ed",
-      "title": "Bliss",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/temples-bliss/",
-      "published": "2026-06-29T06:14:57.000Z",
-      "publishedTs": 1782713697000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/temples-bliss.jpg",
-      "excerpt": "En activo desde 2012, los británicos Temples fueron uno de los protagonistas de la nueva ola de rock psicodélico con... La entrada Bliss se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3707d69854b12bd8b9218833728902d9beb0822c",
-      "title": "Castle Park",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/graham-coxon-castle-park/",
-      "published": "2026-06-26T09:54:37.000Z",
-      "publishedTs": 1782467677000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Graham-Coxon-Castle-Park.jpg",
-      "excerpt": "Graham Coxon ha tenido a bien guardarse para sí mismo esa gominola que es “Castle Park” durante nada menos que... La entrada Castle Park se publicó primero en MondoSonoro ."
     },
     {
       "id": "373640a88ae22e0914ee9994b57ea4be91dc84f9",
