@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T06:19:45.651Z",
+  "generatedAt": "2026-07-04T09:22:29.141Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,52 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "465c7bd736cb0fc764b6a2ab5047b41fa6b60719",
+      "title": "Después de esa nube",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bariri-despues-de-esa-nube/",
+      "published": "2026-07-04T07:57:54.000Z",
+      "publishedTs": 1783151874000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/BARIRI-Despues-de-esa-nube.jpg",
+      "excerpt": "A pesar de que su carta de presentación estuviera marcada en su día por una abierta querencia al hedonismo y... La entrada Después de esa nube se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8a29223fe3271728133104cfed1915feb16fd64c",
+      "title": "Vendedor ambulante de estrellas va por la avenida de espuma de mar",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/anti-vendedor-ambulante-de-estrellas/",
+      "published": "2026-07-04T07:41:27.000Z",
+      "publishedTs": 1783150887000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ANTI-Vendedor-ambulante-de-estrellas.jpg",
+      "excerpt": "Dice e refranero popular que las cosas buenas se hacen esperar. En el caso que hoy nos atañe, cabe la... La entrada Vendedor ambulante de estrellas va por la avenida de espuma de mar se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "58f265d34e307d88f3a710323aa50d0c41a4bf8c",
+      "title": "Recuerdos Nuevos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/charlie-3-recuerdos-nuevos/",
+      "published": "2026-07-04T07:28:19.000Z",
+      "publishedTs": 1783150099000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Charlie-3-Recuerdos-Nuevos.jpg",
+      "excerpt": "El underground es un lugar de magia y sacrificio. Lo saben la enorme mayoría de bandas que pueblan el panorama... La entrada Recuerdos Nuevos se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6a2507b5ba16482090b48798c86dd1dabb888403",
       "title": "Manifesto.",
@@ -57,7 +99,7 @@
     },
     {
       "id": "8f0c6cf608ed956f6b50cda0b663aa48fcb605cb",
-      "title": "Crítica de 'Amor Compartido', el nuevo disco de Cupido",
+      "title": "Amor Compartido",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/cupido-amor-compartido/",
       "published": "2026-07-02T19:30:25.000Z",
       "publishedTs": 1783020625000,
@@ -67,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Cupido-Amor-Compartido.jpg",
-      "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Crítica de &#039;Amor Compartido&#039;, el nuevo disco de Cupido se publicó primero en MondoSonoro ."
+      "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Amor Compartido se publicó primero en MondoSonoro ."
     },
     {
       "id": "15341e82b2a83e2ab54e912065af2193e48abd74",
@@ -124,48 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Lero-MaNana.jpg",
       "excerpt": "Parece que, por muy manido que suene recordar que Hitchcock nunca recibió el Óscar a mejor director, Sharon Jones no... La entrada Mañana se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6d6b5c1ace3eb25fe4dd7b9e6b541a267f491604",
-      "title": "Feeling Is Structure",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/feeling-is-structure/",
-      "published": "2026-06-30T08:09:06.000Z",
-      "publishedTs": 1782806946000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Max-Cooper-Feeling-Is-Structure.jpg",
-      "excerpt": "A estas alturas, Max Cooper lleva más de una década trazando un camino singular dentro de la electrónica: un territorio... La entrada Feeling Is Structure se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9d7952cdb329c4a2559e1548cc367137df7192d6",
-      "title": "BRIGADO",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dellafuente-brigado/",
-      "published": "2026-06-30T07:47:58.000Z",
-      "publishedTs": 1782805678000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Dellafuente-BRIGADO.jpg",
-      "excerpt": "El nuevo álbum de Dellafuente es una carta al aprendizaje. Un tratado de paz consigo mismo por haber logrado quererse... La entrada BRIGADO se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f3b2c90ec5689971b0c29ef00b8dfae4a00dc91b",
-      "title": "Resonance",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/acid-arab-resonance/",
-      "published": "2026-06-29T11:24:50.000Z",
-      "publishedTs": 1782732290000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/06/Acid-Arab-Resonance.jpg",
-      "excerpt": "El colectivo franco-árabe parisino, el cual lleva ininterrumpidamente más de una década conectando y mostrándonos las singularidades de una electrónica... La entrada Resonance se publicó primero en MondoSonoro ."
     },
     {
       "id": "aea6ea30d065b4e78632b6cab678807487bbfc3a",
