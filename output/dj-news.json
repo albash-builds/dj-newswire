@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:42:28.110Z",
+  "generatedAt": "2026-07-05T16:07:57.220Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Good-Riddance-Before-The-World-Caves-In.jpg",
       "excerpt": "A pocas semanas de las elecciones de 2024, que enfrentaron a Donald Trump y Kamala Harris, los californianos Good Riddance... La entrada Before The World Caves In se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "dede835dd30721d4ef7200c02863ce778d0ce0da",
+      "title": "Music tech you might have missed: AlphaTheta CJD-1500X, Arturia Rev OCEAN, Sennheiser MOMENTUM 5",
+      "link": "https://mixmag.net/read/music-tech-you-might-have-missed--alphatheta-cjd-1500x-arturia-rev-ocean-sennheiser-momentum-5-tech",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-tech.jpg?fit=cover&width=660&s=Bwpb_XUxGzsg5_Fn9M5tZANE305T1DRsALfjfZQE0nE",
+      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     },
     {
       "id": "aea6ea30d065b4e78632b6cab678807487bbfc3a",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Primavera-photo.jpg?fit=cover&width=660&s=82AeSOUkvxfdvHJQl7gUrVDSZWd1fPY_stJNdy024Hk",
       "excerpt": "The Barcelona festival was hit with persistent wind and rain on Thursday, leading to the cancellation of multiple sets Continue reading..."
-    },
-    {
-      "id": "059df4a1d69cf374046f4a1fde3a3cbb2db2562b",
-      "title": "New music on our radar this week: Skrillex, UNIIQU3, The Avalanches",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-skrillex-uniiqu3-avalanches-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Avalanches-1.jpg?fit=cover&width=660&s=1ZLtODpGAeBScoEIFeG9r0shpw4hw6USnSDtO7D6vd0",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
