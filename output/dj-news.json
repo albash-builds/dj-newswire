@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T07:56:06.684Z",
+  "generatedAt": "2026-07-05T10:13:04.607Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "f4d82deea5f6b7e8a072c6e55eb2dae740e14791",
+      "title": "Al Norte del Norte",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gatoperro-al-norte-del-norte/",
+      "published": "2026-07-05T09:45:28.000Z",
+      "publishedTs": 1783244728000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Gatoperro-Al-Norte-del-Norte.jpg",
+      "excerpt": "Tal vez sea Asturias (su actual lugar de residencia) el lugar al que se refiere el vallisoletano Gatoperro con el... La entrada Al Norte del Norte se publicó primero en MondoSonoro ."
+    },
     {
       "id": "465c7bd736cb0fc764b6a2ab5047b41fa6b60719",
       "title": "Después de esa nube",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Good-Riddance-Before-The-World-Caves-In.jpg",
       "excerpt": "A pocas semanas de las elecciones de 2024, que enfrentaron a Donald Trump y Kamala Harris, los californianos Good Riddance... La entrada Before The World Caves In se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5f8e50c229dc81c26ff6c278eef57de09d4f8f19",
-      "title": "Mañana",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lero-manana/",
-      "published": "2026-07-01T07:26:29.000Z",
-      "publishedTs": 1782890789000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Lero-MaNana.jpg",
-      "excerpt": "Parece que, por muy manido que suene recordar que Hitchcock nunca recibió el Óscar a mejor director, Sharon Jones no... La entrada Mañana se publicó primero en MondoSonoro ."
     },
     {
       "id": "aea6ea30d065b4e78632b6cab678807487bbfc3a",
