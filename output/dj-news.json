@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T05:10:12.415Z",
+  "generatedAt": "2026-07-06T10:19:18.808Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "a4c4140f9d14e9367c89fc380558763056276fae",
+      "title": "Crítica de 'The Wow! Signal', el nuevo álbum de Muse",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/muse-the-wow-signal/",
+      "published": "2026-07-06T04:07:17.000Z",
+      "publishedTs": 1783310837000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Muse-The-Wow-Signal.jpg",
+      "excerpt": "Muse siempre han sido una banda de dimensiones poco razonables. No solo por las temáticas de sus canciones, que suelen... La entrada Crítica de &#039;The Wow! Signal&#039;, el nuevo álbum de Muse se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f4d82deea5f6b7e8a072c6e55eb2dae740e14791",
       "title": "Al Norte del Norte",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Claypool-Lennon-Delirium-The-Great-Parrot-Ox.jpg",
       "excerpt": "Este guiño entre colegas se va convirtiendo en cosa seria. Decíamos en 2016 que “Monolith of Phobos” el debut de... La entrada The Great Parrot-Ox and the Golden Egg of Sympathy se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2ee6ccb4fcbdbd316e740a8aa01e40b8a811916a",
-      "title": "Before The World Caves In",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/good-riddance-before-the-world-caves-in/",
-      "published": "2026-07-01T07:42:23.000Z",
-      "publishedTs": 1782891743000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Good-Riddance-Before-The-World-Caves-In.jpg",
-      "excerpt": "A pocas semanas de las elecciones de 2024, que enfrentaron a Donald Trump y Kamala Harris, los californianos Good Riddance... La entrada Before The World Caves In se publicó primero en MondoSonoro ."
     },
     {
       "id": "5923acc7e4cdeb189ba1cf361db7bd2c992e15aa",
