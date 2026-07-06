@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T14:24:08.577Z",
+  "generatedAt": "2026-07-06T17:42:24.630Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "44f38adf0353df1f48831f2e5f3ff686baa8ce2b",
+      "title": "Ultrapop",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/meison-ultrapop/",
+      "published": "2026-07-06T16:53:52.000Z",
+      "publishedTs": 1783356832000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
+      "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a4c4140f9d14e9367c89fc380558763056276fae",
       "title": "Crítica de 'The Wow! Signal', el nuevo álbum de Muse",
@@ -154,20 +168,6 @@
       "excerpt": "Nu Genea, el dúo de músicos y productores napolitanos Massimo Di Lena y Lucio Aquilina siguen su camino casi arqueológico... La entrada People of the Moon se publicó primero en MondoSonoro ."
     },
     {
-      "id": "24f45e510e0d876b947a08b7e79b70d4a0037ee7",
-      "title": "The Great Parrot-Ox and the Golden Egg of Sympathy",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-claypool-lennon-delirium-the-great-parrot-ox/",
-      "published": "2026-07-01T15:14:54.000Z",
-      "publishedTs": 1782918894000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Claypool-Lennon-Delirium-The-Great-Parrot-Ox.jpg",
-      "excerpt": "Este guiño entre colegas se va convirtiendo en cosa seria. Decíamos en 2016 que “Monolith of Phobos” el debut de... La entrada The Great Parrot-Ox and the Golden Egg of Sympathy se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "d55dfd94fe56632eb701d480647351066c26b80c",
       "title": "20,000-capacity stage at Silverworks Island to show England World Cup match",
       "link": "https://mixmag.net/read/silverworks-island-show-england-world-cup-match-fisher-headline-news",
@@ -177,7 +177,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Silverworks-0-1.jpg?fit=cover&width=660&s=55GDyJsv2NXSU2Ar1SrfC3qJ6PRYL0uHUQqJUhF8ROc",
-      "excerpt": "It will be London&#039;s &quot;biggest&quot; screening of England&#039;s quarter-final game following a headline set from FISHER on Sunday Continue reading..."
+      "excerpt": "It will be London&#039;s &quot;biggest&quot; screening of England&#039;s quarter-final game following a headline set from FISHER on Saturday Continue reading..."
     },
     {
       "id": "22e354eea62f635bf5041d3322ea58a74be7f3d9",
