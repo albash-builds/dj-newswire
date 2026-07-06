@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T10:19:18.808Z",
+  "generatedAt": "2026-07-06T14:24:08.577Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,30 @@
       "excerpt": "Este guiño entre colegas se va convirtiendo en cosa seria. Decíamos en 2016 que “Monolith of Phobos” el debut de... La entrada The Great Parrot-Ox and the Golden Egg of Sympathy se publicó primero en MondoSonoro ."
     },
     {
+      "id": "d55dfd94fe56632eb701d480647351066c26b80c",
+      "title": "20,000-capacity stage at Silverworks Island to show England World Cup match",
+      "link": "https://mixmag.net/read/silverworks-island-show-england-world-cup-match-fisher-headline-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Silverworks-0-1.jpg?fit=cover&width=660&s=55GDyJsv2NXSU2Ar1SrfC3qJ6PRYL0uHUQqJUhF8ROc",
+      "excerpt": "It will be London&#039;s &quot;biggest&quot; screening of England&#039;s quarter-final game following a headline set from FISHER on Sunday Continue reading..."
+    },
+    {
+      "id": "22e354eea62f635bf5041d3322ea58a74be7f3d9",
+      "title": "Main stage collapses at Naples' Alien Sound Festival",
+      "link": "https://mixmag.net/read/main-stage-collapses-naples-alien-sound-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alien-sound-stage.jpg?fit=cover&width=660&s=7O-F1F-dRKPy8YBmVoSEeikPYIStaNjMbFHbFAm2Jhs",
+      "excerpt": "The festival was called off as its &quot;necessary authorisation&quot; was withdrawn, though a rescheduled July date has since been set Continue reading..."
+    },
+    {
       "id": "5923acc7e4cdeb189ba1cf361db7bd2c992e15aa",
       "title": "New music on our radar this week: Ineffekt, Bullion, Cobrah and Grimes",
       "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-ineffekt-bullion-cobrah-grimes-news",
@@ -176,7 +200,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Releases_2026-07-05-160611_crqn.jpg?fit=cover&width=660&s=yjozyI_8sGjNZWkOY_wHNS01rGXu7vFKDgAk6R4gM6Y",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Releases_2026-07-05-160611_crqn.jpg?fit=cover&width=660&s=iSVx7kDzVDQqgF69nUvPDwX0tDde6ogivnkrQOY66Ls",
       "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
@@ -188,7 +212,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-tech.jpg?fit=cover&width=660&s=Bwpb_XUxGzsg5_Fn9M5tZANE305T1DRsALfjfZQE0nE",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-tech.jpg?fit=cover&width=660&s=ktQ3h3y0PYEmYP0MLmNwXjcHCcbe3HSvtAy8IogKXlk",
       "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     },
     {
@@ -200,7 +224,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burning-Man_2026-07-03-125502_gamu.jpg?fit=cover&width=660&s=gA5oPfaOSdMW0HOghBPgj1UuuD4tupPe_Ko2unk0UNo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burning-Man_2026-07-03-125502_gamu.jpg?fit=cover&width=660&s=KtUu2TWYBSnQwZuMSc2B-w7vaEMSqFlr-HBfH0sPiLc",
       "excerpt": "The Man Will Burn promises to offer an &quot;intimate&quot; look at the yearly Black Rock Desert event Continue reading..."
     },
     {
@@ -212,7 +236,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/victor-willis.jpg?fit=cover&width=660&s=RzbPyHdrXn9dH7Hu98UZsCxVgpxgYdq5sQbZJMjkQJA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/victor-willis.jpg?fit=cover&width=660&s=bLNc-XDBBd9STOpamDmg9oaue6zzb2M6rI-qsTqnXqE",
       "excerpt": "The disco group confirmed that he suffered an “aggressive illness” before his passing Continue reading..."
     },
     {
@@ -224,7 +248,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/prospa_2026-07-03-110019_kmly.jpg?fit=cover&width=660&s=NPlhIkpEay9luVfl9NFJAQl30GVOWeRcJ_VgkVD9oKg",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/prospa_2026-07-03-110019_kmly.jpg?fit=cover&width=660&s=QaSuUgyceivbKjQv7Gq79bzow3JQCVRLtf-QFyI2A2Y",
       "excerpt": "The duo&#039;s forthcoming sets in Ibiza, London and the Netherlands will be performed solely by Gosha Continue reading..."
     },
     {
@@ -236,7 +260,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vegas-night.jpg?fit=cover&width=660&s=LczzKV3EFQlU2SCdZZtA_QmO4rF_gwwkC8TNDRmDIsE",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vegas-night.jpg?fit=cover&width=660&s=yUTzLiMWaB2P-vK4XTeUk7JIbTvejlyqCG0YLcoUTMM",
       "excerpt": "The new initiative will offer those who recently turned 21, and up to four friends, complimentary access to 11 nightclubs in the city Continue reading..."
     },
     {
@@ -248,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/YAMAMORI.jpg?fit=cover&width=660&s=AGaGz6RnaaWlZ10t2Skfk9-SZeB65NKXtnmzCyvKxCg",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/YAMAMORI.jpg?fit=cover&width=660&s=jOvw8wfrdkvDvOrXHKbvEjhwcyVHt_igVf5D2SZc0Xg",
       "excerpt": "The Japanese-themed bar will end its late-night programming from July 19 after reaching a deal with The Hoxton Hotel Continue reading..."
     },
     {
@@ -260,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dry-drayton-rave.jpg?fit=cover&width=660&s=XN2zRL4qDsM06v9nGCU9ReJUGYbGawV7K6bb8A8QTeY",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dry-drayton-rave.jpg?fit=cover&width=660&s=r7I7WB4lSnU0PV2Ck23Yhjw60yue2EPSTQ_zDWS0JJI",
       "excerpt": "An investigation into the incident has been opened by police Continue reading..."
     },
     {
@@ -272,7 +296,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Venezuela.jpg?fit=cover&width=660&s=_9AHMw21Iud-Z290Bu9mqq-zo5gwFFdtHNeaLWpEjmA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Venezuela.jpg?fit=cover&width=660&s=lOr4l0uZ9ken-UOiN92iOmX4pibwqoJmfBsgEKsAEP4",
       "excerpt": "Find out how you can help the humanitarian crisis in Venezuela as a result of the devastating earthquakes across the country on June 24 Continue reading..."
     },
     {
@@ -284,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones-phone-credit-Arun-Thomas.jpg?fit=cover&width=660&s=I2RfeOnOyRaosOGDWlU8cwZDUvqMH01tLYSidpDpAZM",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones-phone-credit-Arun-Thomas.jpg?fit=cover&width=660&s=NfXjvfLQfDaTWOv8N9ZoC7x9M0Zk2l2MJ-eRpHCtjn0",
       "excerpt": "Both platforms are cracking down on AI-generated music and “fraudulent” tracks Continue reading..."
     },
     {
@@ -296,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Orenburg.jpg?fit=cover&width=660&s=KEi444fF8evDG9jCfgnvKW37oU5gZrCuDd70MiIuWiE",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Orenburg.jpg?fit=cover&width=660&s=ziGE-dJ6Xc4FOt_h5oTq9AZ1IUoKgULBv9q4ob2jabY",
       "excerpt": "Three people have been handed sentences ranging from two to seven years for their support of the so-called &quot;international LGBT movement&quot; Continue reading..."
     },
     {
@@ -308,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead_2026-06-23-151509_wacr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=l-CdFq3igzt_gSzlASssKCiFPrDTDktK0F84TfhctRo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead_2026-06-23-151509_wacr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=E9gHBSg0x18UeAdh4pFunW0lg93sq1UHyPKane37Fiw",
       "excerpt": "With his semi-autobiographical comedy Bait receiving awards buzz, we caught up with Riz Ahmed to talk about bringing his South Asian diaspora-themed James Bond soundtrack to life for the show Continue reading..."
     },
     {
@@ -320,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=O0Y7_5xG9T-u0--EgCT5FcK7tAeTMgUg-HiON_RuJHA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=FfAWYw6fraytWrmrZ7VIFKYdLA2hI9XZSNJwEFFJGxk",
       "excerpt": "An article was published online at the weekend with alleged details of &quot;psychological abuse, coercive and controlling behaviour, physical abuse, intimidation and threats&quot; Continue reading..."
     },
     {
@@ -332,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOUND-BERLIN.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8VipWuTyHRDG5av904NKfNvlXsbx2ba3NG-AMJ-SZWw",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOUND-BERLIN.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=zVufwHFJM5qwB22Wzi-CkWomvgMxndRgRCNfnonigrI",
       "excerpt": "The Tempelhof-Schöneberg venue, which was occupied by KitKatClub from 2001 to 2004, opened last weekend with a marathon party from Watergate Continue reading..."
     },
     {
@@ -344,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warehouse-project-26.jpg?fit=cover&width=660&s=yfxx7oZULP4kWFPF5Oeb_TwH37YQ7ZWm-Qqsyzu17ks",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warehouse-project-26.jpg?fit=cover&width=660&s=jOvi3anLYxmc8mH1cFBrNr7ivDtJqoYYzFTZKrBn7jI",
       "excerpt": "WHP26 kicks off in September, celebrating two decades of quality electronic music in Manchester Continue reading..."
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-new-zealand.jpg?fit=cover&width=660&s=3ZpDpKbXn4Miw7j7DGNtSFD9aMbXRS9olFYhWXSw5H4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-new-zealand.jpg?fit=cover&width=660&s=sOwA6UaVQQkiUIbM_V5jFQBrD1TIyBmTEvWbiGbn_0Y",
       "excerpt": "It ranks above jobs like acting, writing, or becoming a CEO, according to new research Continue reading..."
     },
     {
@@ -368,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Debit2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=5EXIUx-o0Oz2fg8h8EefIEEsJv4YSRYhEHITVyMAuLg",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Debit2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AO6nJFImZMb87n3jpxBPG51XWTEFB0WjG0kztOs7hqU",
       "excerpt": "Debit shares an energetic mix she&#039;s titling &#039;Handling Polyrhythms Without a Jog Wheel: Time Doesn’t Exist&#039; and speaks to Martyn Pepperell about how much the creative landscape has shifted through her career, learning to ac…"
     },
     {
@@ -380,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/momentum-5-sennheiser-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=7Dq9YZTRwjM9QNUt8ELlOkXVnmqB--8POeDqKt1My74",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/momentum-5-sennheiser-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=x1tT9VtbT3WmH-x7Vn_iOu8LGEpnkhehqF1VH740E3A",
       "excerpt": "Back with the fifth iteration of their flagship over-ear headphones, Sennheiser deliver a headset that boasts quality sound, foolproof functions and an ergonomic design Continue reading..."
     },
     {
@@ -392,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/defqon-1-netherlands.jpg?fit=cover&width=660&s=ahqvWJdVhUgvN40NFReuzxxRw_4nEb4QifyrAKP8r8M",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/defqon-1-netherlands.jpg?fit=cover&width=660&s=jH2RZPqglg9yoLRALHZp9IFNsEpza88pF_ZpAcPXfkI",
       "excerpt": "Both dance music events cited intense 40-degree spells and the Netherlands’ first-ever code red weather alert as reasons for their cancellations Continue reading..."
     },
     {
@@ -404,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/madonna-glasto.jpg?fit=cover&width=660&s=hSu7ClE9sWwI3eFlk5ZQOoPsCUzXMAxZTlV9RKGIsSA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/madonna-glasto.jpg?fit=cover&width=660&s=tXRyG9XHUnmp0Ld1Pe_YEu9LkIJuKDi5pH6ANanlqkw",
       "excerpt": "In an interview with Graham Norton, she teased something “big” next year Continue reading..."
     },
     {
@@ -416,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=SpeHCNkOVR9xf12qAICzzUuKPOILKY6uCxrcJD-8WOc",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -428,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gorillaz-nyc.jpg?fit=cover&width=660&s=DNnf2F66vB-YJx2jGp1fbJWiVNyTKvZMRDvIUmAkOoY",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gorillaz-nyc.jpg?fit=cover&width=660&s=4oizIqHesa5_9grq6-b5qsbmb5Nzo-MyyM-N_I1lbAo",
       "excerpt": "House Of Kong first debuted in London last year to celebrate the virtual band’s 25th anniversary Continue reading..."
     },
     {
@@ -440,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest.jpg?fit=cover&width=660&s=t5XyHv9rwHz_6z_aEPnMm6UH-K1qXao_HoCdBSw1ZK4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest.jpg?fit=cover&width=660&s=7hisfrqvBd3dvPfPxOUSfHa_Ck6E6-HQU_JtnvQrMuU",
       "excerpt": "A police investigation is currently underway, the Michigan festival has confirmed Continue reading..."
     },
     {
@@ -452,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-radar-june-27-28.jpg?fit=cover&width=660&s=xlblhG3KGCpq1OLKJZfl-4AXqAnUsXHyWfz-tyZ2i0g",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-radar-june-27-28.jpg?fit=cover&width=660&s=RGyW4ETgjoXqDV7Gv-gP2x8Tl2nWbAMEv7K_H_Ak3d4",
       "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
@@ -464,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/houghton-credit-jake-davis.jpg?fit=cover&width=660&s=g6Noeixc2xYfSzamWFWs23Ert21Pq0HZNyE0z3u03b4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/houghton-credit-jake-davis.jpg?fit=cover&width=660&s=Pywe0HqDlz29yrCuF5k0BdZN6oTZs21619MW05AlRR0",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
@@ -476,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Block-9-9.jpg?fit=cover&width=660&s=3AhUmfXMhsofu-m5zm-gzMkrMLuyPonLhzoZVcWjhCk",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Block-9-9.jpg?fit=cover&width=660&s=oLM3s1y2OYRJl9hPGtfUhnKw7ZbsQC_pGmmmJBDpZlE",
       "excerpt": "The Somerset festival is taking a break for 2026 to help Worthy Farm recover Continue reading..."
     },
     {
@@ -488,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boardmasters-credit-will-bailey.jpg?fit=cover&width=660&s=TLYFB48KNuXPaQrWuN1IQpn2YTBFdvXP3ECglhvZjIM",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boardmasters-credit-will-bailey.jpg?fit=cover&width=660&s=Ve11kxD5c-wljokSgFOe3ihQqHMQwJexXyAshxv2Nuw",
       "excerpt": "The festival’s director spoke about issues faced over the years, including a crowd crush and local disturbances Continue reading..."
     },
     {
@@ -500,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/free-party-murder.jpg?fit=cover&width=660&s=r0o5RyVLDt-_6pf8plot3Ssokx_0s2xKWe2NCGPOKSI",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/free-party-murder.jpg?fit=cover&width=660&s=dAJmxh7Z0IDGqlHG-zpLoGkfms9VSHV8BkZnhRxHQiA",
       "excerpt": "The Nottingham man was discovered at the site of a summer solstice event on Monday Continue reading..."
     },
     {
@@ -512,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cercle-festival.jpg?fit=cover&width=660&s=nojMljNIa1OceRil9Ugb3cuvkaa9_lUe7clSLKkKh9I",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cercle-festival.jpg?fit=cover&width=660&s=emlajKYugxilpQ28i8P8jm_bENK45Z-QGsqVl-AQwzU",
       "excerpt": "Cercle revealed that it’s currently “in danger”, 10 years after it first launched Continue reading..."
     },
     {
@@ -524,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-WEB-001.1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=g6R4ZOGgS0zNT6uFLSmKWvyQn9PDs5wGEI03A5akDg4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-WEB-001.1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JhqnMcddbWRPX9l0iBw5RuAESJ-lPMS1kCQpO-wUMnM",
       "excerpt": "On their second album &#039;Harmony&#039;, Brutalismus 3000 stretch their ferocious sound even further, expanding from gabber-techno-punk hybrids to experiment with styles like hyperpop, nu-metal and trap. From this turbulent mix, they’v…"
     },
     {
@@ -536,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-CVRMIX-WEB-002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=mmew--dUdy6uUO01yxyf4VXTQsxGNa2loIGmLCQZf5k",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-CVRMIX-WEB-002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=HwJpDQ4ziuSR6LoDFYRlbMmt3rbqOGzn9ylW1wT0bao",
       "excerpt": "Brutalismus 3000 mix their new album &#039;Harmony&#039; into a punchy half-hour set, with a bonus track inside. Continue reading..."
     },
     {
@@ -548,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JumpSource2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-AJq4LvvDPEvlYdePanEMdJoqE-IK6HSOUWImQEosg0",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JumpSource2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PeP6oHK1xc9b6MztM1q1bumb7jSbmH2gt-hu8TOS-_8",
       "excerpt": "Montreal duo Jump Source, AKA Patrick Holland and Priori, go one-for-one across an unruly three-hour mix and speak to Sophie McNulty about progressing their songwriting, subversive pop and their debut album &#039;Fold&#039; Continue read…"
     },
     {
@@ -560,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clive-davis-credit-Christopher-Peterson.jpg?fit=cover&width=660&s=XzRHX3sSdxdCGKE7KHIjQM0KSRcH46T0vh9WWIedxB0",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clive-davis-credit-Christopher-Peterson.jpg?fit=cover&width=660&s=jV6F5wvfBjQQH1Fr3uRl2QPU9XkxfcqMjInzPV_m-uU",
       "excerpt": "He’s credited with &quot;changing the lives&quot; of musicians including Bruce Springsteen, Alicia Keys and many more Continue reading..."
     },
     {
@@ -572,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-grant-walker.jpg?fit=cover&width=660&s=0Vi6i0Jl__I0YRtt-FgR6tciwjC410tp3fEzn19Z4yA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-grant-walker.jpg?fit=cover&width=660&s=Op3N9Xhx4vHZeXxG6fQMG_lAvcKJqw_omhN_-jVoDuY",
       "excerpt": "An initial run of events will kick off on October 3, boasting some day-to-night artist takeovers Continue reading..."
     },
     {
@@ -584,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/We-Love-Green-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=7raE8NPoSyJW9f3U9RezNYKNWdU-hSO862bzlTV2Tk0",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/We-Love-Green-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6DOeEvkdFa65EWiIN36eWFTcIDLSVG_CnMV6dwZMpBc",
       "excerpt": "With a line-up spanning pop, experimental, rock and electronic music, there was something for all musical tastes across three days on Bois de Vincennes for the Paris-based festival Continue reading..."
     },
     {
@@ -596,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festivals.jpg?fit=cover&width=660&s=TNlLj_4xrwi0_wyCywwtOKnAqGWd2VBFeaB94seS6Uk",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festivals.jpg?fit=cover&width=660&s=3d60TnHYGPDMhq3EqUoloca9s0bcMhg8ZybuGbT2RKo",
       "excerpt": "The CMA has also issued the secondary ticketing platform with a £900,000 fine after it illegally charged customers Continue reading..."
     },
     {
@@ -608,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Raymond-Petrik.jpg?fit=cover&width=660&s=41RPS43dW-2wUZs5RS-8nsfT0Jl2JO8JoCqRG1RwO4c",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Raymond-Petrik.jpg?fit=cover&width=660&s=5R9uMxyuQha6I5bgi5z-bRVCCeC-xrdnIQKjBq75EUw",
       "excerpt": "Hugo Bianco, who has been declared a &quot;fugitive from justice&quot;, has played at Pacha Ibiza, Unum Festival and 93 Feet East Continue reading..."
     },
     {
@@ -620,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/purple-disco-machine_2026-06-23-112803_wziq.jpg?fit=cover&width=660&s=QXzQbQDeCS8HQV9w2nif7uDt0_Si2p2nMUbvyNV8Hag",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/purple-disco-machine_2026-06-23-112803_wziq.jpg?fit=cover&width=660&s=BkUwE7xpBEIZcUX1xBcNpHCepScziJDmHRJ4Vo4U3zA",
       "excerpt": "He’ll pause performing for a month while dealing with “severe” tinnitus and hearing issues Continue reading..."
     },
     {
@@ -632,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-23-104219_qkdu.jpg?fit=cover&width=660&s=3IIK_BB1Zk-Ny__k-3djnZ2zywkWR4mX2y6xQgfncS0",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-23-104219_qkdu.jpg?fit=cover&width=660&s=_5vv6bO0F_b7cqJyKw5VRRggqhIyF8LsGN4iYUJeh8Q",
       "excerpt": "The former robot played on a custom modular set-up during the surprise show in Basel Continue reading..."
     },
     {
@@ -644,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Coven-nightclub.jpg?fit=cover&width=660&s=Ba-ZoEvsAX6Ri4RTgkp8g5v8515sBTz70lcn3g5AkLI",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Coven-nightclub.jpg?fit=cover&width=660&s=oS5_XyS65tKOOCD0I947fwKNKw-o-3KGKgiMRl4I8wI",
       "excerpt": "Coven Headquarters launched this weekend, nine months after the famed LGBTQIA+ nightspot closed its doors Continue reading..."
     },
     {
@@ -656,7 +680,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/flyers_2026-06-22-161257_guis.jpg?fit=cover&width=660&s=TLoBHVREwYwvqOiOd2vTTRJKY_4gWabVGNecre0qUkY",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/flyers_2026-06-22-161257_guis.jpg?fit=cover&width=660&s=VZcGhbwHl-NVCCT1EqWT4ghqV0fFysgtIaJmdWJuDiM",
       "excerpt": "The online archive of rave memorabilia features around 40,000 items, though its organiser claims there is a backlog of around 250,000 artefacts waiting to be added Continue reading..."
     },
     {
@@ -668,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-ai-checker.jpg?fit=cover&width=660&s=wwm0GboMsiOCIEAfr64lC_CRp5cSYLYBFkXQoAyzqKw",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-ai-checker.jpg?fit=cover&width=660&s=XeH0ZdYyxp5U41jIv_8XRBE7qZjMalxWmcthRLcz8Xg",
       "excerpt": "Launched by The Atlantic, AI Watchdog offers a search tool for songs used by AI music creation platforms, including Google and Stability AI Continue reading..."
     },
     {
@@ -680,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fete-de-la-musique_2026-06-22-111741_pywi.jpg?fit=cover&width=660&s=-8Ytftr1fFu52vHk0wumYoAn84yYornb9tJA2mrTS9Y",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fete-de-la-musique_2026-06-22-111741_pywi.jpg?fit=cover&width=660&s=ILGyQcL273c4Hq4KLQ2t5r5YI7A49uDkwIysOkIE2S0",
       "excerpt": "Authorities restricted drinking at the annual country-wide street celebrations over the weekend as temperatures hit 40 degrees Continue reading..."
     },
     {
@@ -692,7 +716,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-room-belfast.jpg?fit=cover&width=660&s=RtJZX_Mfe78YSU7Wb6uEuZV-AkqvmJRYWgYh-Ey3vtQ",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-room-belfast.jpg?fit=cover&width=660&s=-xWu5iWSckGcLt6jH5jk6bLDehfZ1M9nFdRKz0YpafE",
       "excerpt": "Music Room bills itself as a hi-fi bar built around vinyl culture, launching this July Continue reading..."
     },
     {
@@ -704,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-21-June.jpg?fit=cover&width=660&s=lbFuvt3Xn48BadLPql7Qr2V5aaql8M6MYL5VVVpVdUQ",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-21-June.jpg?fit=cover&width=660&s=OvyluQXWZ8kfSjzeKtxVPEAVwHgtguLJuX3P7ScD3Ic",
       "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
@@ -716,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-village.jpg?fit=cover&width=660&s=91_GMVTh4kzmboiWPyD0S2o-ML47ktqPk0EsO4R1bVo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-village.jpg?fit=cover&width=660&s=iQidql0Z6Z2yP8-j5QODrhe8-hySQySDZMxAklAxQx4",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
@@ -728,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ron-Lach.jpg?fit=cover&width=660&s=Uvwd92xtzls-oTUvqUPPjGsUS5JYxnwtBKDSOXEm5JU",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ron-Lach.jpg?fit=cover&width=660&s=WADmaBpSju7WHE8ZrPhIe2asOtCQKBEWYsyT5B6sAnk",
       "excerpt": "The app will focus on peer-to-peer music recommendations of music and film Continue reading..."
     },
     {
@@ -740,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2-Live-Crew_2026-06-19-094610_ahws.jpg?fit=cover&width=660&s=ICFt5uzrwIOlZJcPvwKUvly-Djg-XGN2UbefeUdQHNo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2-Live-Crew_2026-06-19-094610_ahws.jpg?fit=cover&width=660&s=EDYgoqsQ9OVkDzmeqKwsdSIP3EOD-dFepRnxXbsnISM",
       "excerpt": "The 2 Live Crew member, AKA Luther Campbell, is running to lead Florida&#039;s Congressional District 20 Continue reading..."
     },
     {
@@ -752,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tay-keith-producer.jpg?fit=cover&width=660&s=hdbmz0tmaO6LmHgQC-dN5CS6Ky5TbuiOll2nNu7KT4E",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tay-keith-producer.jpg?fit=cover&width=660&s=VSgkQbyTZO6swgaGih6yHwe9fz241AH-iLOd53kJ5yY",
       "excerpt": "The ‘Sicko Mode’ producer was found dead in his apartment in Nashville this week Continue reading..."
     },
     {
@@ -764,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rawhide-nyc.jpg?fit=cover&width=660&s=R9JyiHwRoamtPV8NGgsadPWH7osAPig8EWHm5MXcaoI",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rawhide-nyc.jpg?fit=cover&width=660&s=mlgAuGg3zvGmk8BRuUAzwKBmf3KqLGR5R3SMHQ1BU8o",
       "excerpt": "The Manhattan club pays homage to Chelsea’s first-ever gay bar of the same name, which closed in 2012 Continue reading..."
     },
     {
@@ -776,7 +800,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cds.jpg?fit=cover&width=660&s=d5viGccU464HL7pqXhVdkwqLpOpbMZUCRcwrCpeHJUQ",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cds.jpg?fit=cover&width=660&s=5rD4X1A8Mvmo2V-VvXtr7KPBldJMG9Lf6wjii2IOc1w",
       "excerpt": "Mark Kearns allegedly made &quot;thousands&quot; from selling CDs online featuring &quot;well‑known tracks&quot; Continue reading..."
     },
     {
@@ -788,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bristol-party.jpg?fit=cover&width=660&s=sG0GvbRflDXF0g3TNYyZBK_2V_JBSKADVeqxo8RPkpc",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bristol-party.jpg?fit=cover&width=660&s=eH1j9cics456iG8JISA21bIdrpvt4oWhs_7_rtlvNEI",
       "excerpt": "New research from online searches shows the cities where a night out is most in demand Continue reading..."
     },
     {
@@ -800,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_KarenNyameKG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=LtnYbUzCSOOErGGcG-9YukMiKukKCJCNO5As-aX3DG8",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_KarenNyameKG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AvbpP2XlWEBHKq0Snh7G7bDAY-SikJpllU3sr7BT0MI",
       "excerpt": "With a mission to pay it forward and foster future generations in dance music, Karen Nyame KG has cultivated a strong community over the past decade. She talks about that community and takes the reins of The Mix to deliver a deep and sou…"
     },
     {
@@ -812,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tangerine-Dream.jpg?fit=cover&width=660&s=4hWl3vY649Jeep1G2WJfZyoKLldq1WofEN-Pwmz2EUQ",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tangerine-Dream.jpg?fit=cover&width=660&s=EnFGq9OD8U73R8ukuYS8WqFWFQZf4Yx1C2zMC-8Flc0",
       "excerpt": "&#039;Movements of the Visionaries&#039; features never-before-seen archival images of the seminal electronic outfit taken by photographer Marcel Fugère Continue reading..."
     },
     {
@@ -824,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Festival_2026-06-17-115615_dxuv.jpg?fit=cover&width=660&s=tlVYtWei5ClrWfNyGeYW6c_6sxQBlkg5exSWewlOFrc",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Festival_2026-06-17-115615_dxuv.jpg?fit=cover&width=660&s=0BcyFPQTw2HxS63P-tkx5Snt67C_e2I94Nvi0QYLD2M",
       "excerpt": "The streaming giant has reportedly approached a number of live music promoters to build on its &quot;super fan&quot; offering Continue reading..."
     },
     {
@@ -836,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cassiopeia-berlin.jpg?fit=cover&width=660&s=lreUnLLMRt6Bdh49u1ld9BTykjWwAY-fhSCzWVJKnng",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cassiopeia-berlin.jpg?fit=cover&width=660&s=o0OPFR1gReRmHmPfS6Z0epXPyBnsLNzGjpM9wiKguHE",
       "excerpt": "The Friedrichshain venue was served an eviction notice amid a development dispute in the area Continue reading..."
     },
     {
@@ -848,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-credit-theo-batterham.jpg?fit=cover&width=660&s=KNu6S8wttX5Lab_LwEE2BdXSUmiuDqaBILtfez2qZkA",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-credit-theo-batterham.jpg?fit=cover&width=660&s=3Rvt6TLyPsY8aoSGmZfJy1bwT5AlUaVLM1_bXZlT-BI",
       "excerpt": "The workshop will take place this Friday at Abbey Road Studios as part of a new Trans+ Future Sounds initiative Continue reading..."
     },
     {
@@ -860,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-cause-london_2026-06-16-140940_qgmm.jpg?fit=cover&width=660&s=o5qOM0r43pV2rLOQ9RUn5G3r-Cue-n5VzrbVKA1yuzY",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-cause-london_2026-06-16-140940_qgmm.jpg?fit=cover&width=660&s=ylLazSj20jptuZkIKhVcsPS47Fnip-FC3lL6qLJClq4",
       "excerpt": "Each stage at the day festival will celebrate independent stations around the world, including South Korea&#039;s Seoul Community Radio and Indonesia&#039;s Headstream Continue reading..."
     },
     {
@@ -872,7 +896,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/diy4.jpg?fit=cover&width=660&s=Ebs774G7PO2RTkNNNbgh_Df3bZ1bFmgqxtVUvZAZPjo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/diy4.jpg?fit=cover&width=660&s=XL8L5z262fRUw9JNkM0At3oBepsQPxjFybIG8mMKAKY",
       "excerpt": "The free-to-attend exhibition will take over East London&#039;s REinsTate across four days this September Continue reading..."
     },
     {
@@ -884,7 +908,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/napster-investor.jpg?fit=cover&width=660&s=JH26ixyaede2lHEoeaOWNF8axCdxV3qRjEsfhQyM67U",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/napster-investor.jpg?fit=cover&width=660&s=8cjfZQuk6fKnVmmlOAJToDAHIem5Jsw5tm-eojfeeHI",
       "excerpt": "The alleged fraudster is accused of forging bank records to obtain shares in the music sharing network Continue reading..."
     },
     {
@@ -896,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Carl-Cox_2026-06-15-133107_bzdd.jpg?fit=cover&width=660&s=X6rF1N4MdY7anaD-z5k8_kopffXbs_NiKPzMSGNSW7U",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Carl-Cox_2026-06-15-133107_bzdd.jpg?fit=cover&width=660&s=tjGj-8Si02IkRhnwX9BxZu_0YITx0Q_ntkjDRrm11NM",
       "excerpt": "Fellow DJ Judge Jules has also been honoured with an MBE in recognition for his services to music Continue reading..."
     },
     {
@@ -908,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pic_2026-06-14-204658_cgcy.jpg?fit=cover&width=660&s=zPkvz3IWU5_htAFzsfTmRUPlwdUxEgdV5DuBiokla1A",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pic_2026-06-14-204658_cgcy.jpg?fit=cover&width=660&s=60MKzOUMMFxp64z1py59iYQTH86q_yLn44giSIl4QIM",
       "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
@@ -920,7 +944,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CRSSD-1818.jpg?fit=cover&width=660&s=2mSAfjhAoicq-zI0zl2U3C-uqfs3Gdy2U-pMCo4lo0g",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CRSSD-1818.jpg?fit=cover&width=660&s=r_ooDmUOtZeJFSfCPJ_3Y1RIgbHaXGZcwdKhvYBawZs",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
@@ -932,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82_2026-06-12-125114_agep.jpg?fit=cover&width=660&s=Z6l0OK_Tsv9_YruMMxxwZw3g-ZWkDVFEB4_k_DYbQwI",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82_2026-06-12-125114_agep.jpg?fit=cover&width=660&s=AGy8povSKvUP4lWKlrrc818gzy1E9tTr5g24acCkxEs",
       "excerpt": "The Barnsley-raised producer has premiered the first single from the project, a rework of Shades of Rhythm&#039;s &#039;The Sound Of Eden&#039;, via Mixmag Continue reading..."
     },
     {
@@ -944,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=LUYlTlF1zJWxhVU5F3o3_PTZ7m77t52W3QJoUZaihRs",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_fD8LpwfuIS7XRdt9iZTN43bbSmfndj64JrbbRu4U1s",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -956,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wPgLmxgcnpTkDdD6UOW9p_yapMYe27X7SeULPf4SJpk",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=jDghvLAEyVR5xlSljVMBW4S3n185wQF5vOzuQsI3Oj8",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -968,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=zLBN6fqmNlET6cpmJUVRtQRRJnVdSzFl3j2Oq0scmK4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JgI-9cG4iMgkb8IsG1BzysF54bf1pyybVy2X3QuWGOw",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -980,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/NTIA_2026-06-11-162923_hxqe.jpg?fit=cover&width=660&s=5hbJGv-DrDhPMPdMHEWTxbF_wP4EI35YRXyYLtgA7I0",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/NTIA_2026-06-11-162923_hxqe.jpg?fit=cover&width=660&s=pJvhPumL9YyeptWAwJVwPzb22k8ul4Lz2m1lOcf_x3U",
       "excerpt": "The letter suggests following the lead of the German government in reclassifying clubs as &quot;cultural and artistic&quot; spaces Continue reading..."
     },
     {
@@ -992,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burn-Energy-new.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4DeuDgiU1fKNjwe_f2YBczg9fXNn0HCtoYQNWqhJhoM",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burn-Energy-new.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ILtDyAiDfxReLfTRZuOArPyCG0jjmo6PI5cRdI5Eidw",
       "excerpt": "Following hundreds of entries, we’ve cherry-picked the most exciting emerging DJs to join us on the Burn Energy Tour 2026, bringing incendiary line-ups across Europe and North Africa Continue reading..."
     },
     {
@@ -1004,7 +1028,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jungle.jpg?fit=cover&width=660&s=IIcygpX4wKR8tatnnnNWgeJwSN91uE7SxzV2-c6XXnc",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jungle.jpg?fit=cover&width=660&s=1Cw_dV01MJsi2_-rlwHEZv4NPoQfYb0IIo_mXyjCgZk",
       "excerpt": "Charting the genre&#039;s journey from the &#039;80s to present day, the exhibition has been curated by DJ Krust, DJ Flynn and author, Gary Thompson Continue reading..."
     },
     {
@@ -1016,7 +1040,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_LWS2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Yoebwn60-WnGFK0l2iLCiilkPEhSjv66SAa8obJWfrk",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_LWS2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=yX9VmJkYMByIteMPCHrd_FVIlwEU2rfajvYsKRos9rI",
       "excerpt": "The creator of some of the biggest dancefloor tracks of recent years shares a chaotically percussive mix that pushes into deeper grooves, and speaks to Christian Eede about &quot;headfuck&quot; music and not wanting to be pigeonholed as …"
     },
     {
@@ -1028,7 +1052,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/semsibelli.jpg?fit=cover&width=660&s=B_M1O22ZZpK5583IWLmhbD9Bdiylf6RXFl3FQC8EMOg",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/semsibelli.jpg?fit=cover&width=660&s=23pjKDBu9XryXZi0ODWGBOR_t34FXQuv8u5r1KaOf_A",
       "excerpt": "With so many late kick offs in the US, Mexico and Canada-hosted tournament, there are a range of clubs, music venues festivals showing the big games across the next few weeks Continue reading..."
     },
     {
@@ -1040,7 +1064,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gottwood-Trigon.JPG?fit=cover&format=baseline-jpeg&height=630&width=1200&s=fd3YE5SvBnSgzBV-2BQ6iO1uKITQGjA-XYeZlYe6Olo",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gottwood-Trigon.JPG?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gkgJx1xtdFtFEce4luYz6eXfWKjYHCtuSHc3xaCAD3U",
       "excerpt": "Ahead of their stage takeover at Gottwood’s 15th edition, five members of the Semi Delicious family share their perfect festival banger Continue reading..."
     },
     {
@@ -1052,7 +1076,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/underscores-credit-Bailey-Krawczyk.jpg?fit=cover&width=660&s=c3no265oEt_Vor89jCWOPAoqcKh0-pnEPj4zU_nZUIg",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/underscores-credit-Bailey-Krawczyk.jpg?fit=cover&width=660&s=2IWKoPdO7HOrMUGNe5c9GPx6sj80gspTtzreR9rsDYI",
       "excerpt": "She claimed that Houston venue Meow Wolf was &quot;difficult to work with&quot; ahead of her scheduled show Continue reading..."
     },
     {
@@ -1064,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kathy-Zhang.jpg?fit=cover&width=660&s=cjmwi4D7SulyExtzknWOM3QTdv0BKAxqIhEWqQsMY_8",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kathy-Zhang.jpg?fit=cover&width=660&s=wGe4YotrbxFbO0X36w1NER9WnMdf8H6GDk9OULhfXeI",
       "excerpt": "FestProtect will help buyers claim compensation for issues such as weather-related cancellations or excessively large crowds Continue reading..."
     },
     {
@@ -1076,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/felix-moser.jpg?fit=cover&width=660&s=Nar9_x1IipQR3mYrEhfJyunzmNeXs3BNLICMuQAjSw4",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/felix-moser.jpg?fit=cover&width=660&s=9YVGVNX3Ym75ATBajoAXAp8PoGhDtFYOBYwL8lkGODA",
       "excerpt": "Run by the Berlin-based Academy of Subcultural Understanding, the programme hopes to establish the next generation of club pioneers Continue reading..."
     },
     {
@@ -1088,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hangr-sheffield.jpg?fit=cover&width=660&s=dnDL19zTL5rr-_H11HmEYh_sod1PS74mDIn6Wre442c",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hangr-sheffield.jpg?fit=cover&width=660&s=reZXwA5agoJ20-_8R7l5PH0MXqzOvDg0vAd8UFS0G74",
       "excerpt": "The team behind the space said they’re “in the process of creating a monster” Continue reading..."
     },
     {
@@ -1100,32 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-09-104538_usrw.jpg?fit=cover&width=660&s=YsMDuRsxnVmoVMzYmtrhc4wH-tDymMlCuClDVaoinfM",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-09-104538_usrw.jpg?fit=cover&width=660&s=nm5c34_dImacx_9n4njsrj_YEkBfJbZ2t_VcqKo9pe0",
       "excerpt": "The former robot also appeared on New York&#039;s The Lot Radio yesterday for an impromptu broadcast Continue reading..."
-    },
-    {
-      "id": "f9f495f9b5222be036c97ac577b0a69e8a1b6ed3",
-      "title": "Pacha New York severs final ties with Brooklyn Mirage, secures temporary liquor licence",
-      "link": "https://mixmag.net/read/pacha-new-york-severs-final-ties-with-brooklyn-mirage-secures-temporary-liquor-licence-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pacha-new-york-new.png?fit=cover&width=660&s=LhMaNWws1Rw0BSUxyCN-k0P5d5AOSozOqXXs1EYMZTU",
-      "excerpt": "The venue, set to open this weekend, still faces a myriad of restrictions such as capacity limits and a block from using third-party promoters Continue reading..."
-    },
-    {
-      "id": "36489ae856970b32458afe53c911d22eb52036a9",
-      "title": "Soho residents’ plea to block new bar licences is \"bad for London\", says Sadiq Khan",
-      "link": "https://mixmag.net/read/london-residents-plea-block-new-bar-licences-is-wrong-says-sadiq-khan-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sadiq-khan-licence-london.png?fit=cover&width=660&s=BfQK1DEeLvDaNPh0q6JjRLHZPrHGKFxx3XJAZ50Oq14",
-      "excerpt": "A group voted to challenge all new bar and restaurant licence applications in Soho, as well as renewals of existing ones Continue reading..."
     }
   ]
 }
