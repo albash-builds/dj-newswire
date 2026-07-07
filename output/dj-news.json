@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T10:54:44.836Z",
+  "generatedAt": "2026-07-07T13:20:13.022Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Cupido-Amor-Compartido.jpg",
       "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Amor Compartido se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4572b5f30e8b07ca9e6fab02dcc9ff2f28cb5628",
+      "title": "Giggs launches fundraiser to open school for neurodivergent children",
+      "link": "https://mixmag.net/read/giggs-launches-fundraiser-open-school-neurodivergent-children-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/giggs-rio-romaine.jpg?fit=cover&width=660&s=eza944gLk_YJOwllgHjAdQGR5AQxApzI78orF-sL30g",
+      "excerpt": "St James House will feature both a school and an assessment centre for young people aged 11 to 18 Continue reading..."
+    },
+    {
+      "id": "327504c0d2b9840e21d37f3800ebf209b1d1b0d0",
+      "title": "Beloved Glasgow nightclub The Garage has gone up for sale",
+      "link": "https://mixmag.net/read/beloved-glasgow-nightclub-the-garage-gone-up-sale-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-garage-glasgow.jpg?fit=cover&width=660&s=eJDu8CjHrAIHkflHOhieMl0Br5Xz44moOE6su8v2sfg",
+      "excerpt": "Operators of the 1994-opened venue said they hope the next owners will continue its &quot;incredible legacy&quot; Continue reading..."
     },
     {
       "id": "d55dfd94fe56632eb701d480647351066c26b80c",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/felix-moser.jpg?fit=cover&width=660&s=9YVGVNX3Ym75ATBajoAXAp8PoGhDtFYOBYwL8lkGODA",
       "excerpt": "Run by the Berlin-based Academy of Subcultural Understanding, the programme hopes to establish the next generation of club pioneers Continue reading..."
-    },
-    {
-      "id": "04984ed93ac3df1ebee6c7b1b2270f121e9224dd",
-      "title": "Sheffield is getting a brand new warehouse venue, Hangr",
-      "link": "https://mixmag.net/read/sheffield-new-warehouse-venue-hangr-kargo-eats-everything-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hangr-sheffield.jpg?fit=cover&width=660&s=reZXwA5agoJ20-_8R7l5PH0MXqzOvDg0vAd8UFS0G74",
-      "excerpt": "The team behind the space said they’re “in the process of creating a monster” Continue reading..."
-    },
-    {
-      "id": "856d6523966575d281be4cd0e677113225bf2de4",
-      "title": "Thomas Bangalter says that Daft Punk will not reunite for comeback show",
-      "link": "https://mixmag.net/read/thomas-bangalter-says-daft-punk-will-not-reunite-for-comeback-show-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/thomas-bangalter_2026-06-09-104538_usrw.jpg?fit=cover&width=660&s=nm5c34_dImacx_9n4njsrj_YEkBfJbZ2t_VcqKo9pe0",
-      "excerpt": "The former robot also appeared on New York&#039;s The Lot Radio yesterday for an impromptu broadcast Continue reading..."
     }
   ]
 }
