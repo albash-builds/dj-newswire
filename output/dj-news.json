@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:37:00.955Z",
+  "generatedAt": "2026-07-07T10:54:44.836Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "5355d621a8411e5fd36905f775c878ecf56d8684",
+      "title": "Role Model Hermit",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mary-in-the-junkyard-role-model-hermit/",
+      "published": "2026-07-07T09:26:38.000Z",
+      "publishedTs": 1783416398000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/mary-in-the-junkyard-role-model-hermitmary-in-the-junkyard-role-model-hermit.jpg",
+      "excerpt": "Sería capaz de apostar mi mano derecha a que el año que viene Mary In The Junkyard estarán presentes en... La entrada Role Model Hermit se publicó primero en MondoSonoro ."
+    },
     {
       "id": "44f38adf0353df1f48831f2e5f3ff686baa8ce2b",
       "title": "Ultrapop",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Cupido-Amor-Compartido.jpg",
       "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Amor Compartido se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "15341e82b2a83e2ab54e912065af2193e48abd74",
-      "title": "People of the Moon",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nu-genea-people-of-the-moon/",
-      "published": "2026-07-02T10:08:05.000Z",
-      "publishedTs": 1782986885000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nu-Genea-People-of-the-Moon.jpg",
-      "excerpt": "Nu Genea, el dúo de músicos y productores napolitanos Massimo Di Lena y Lucio Aquilina siguen su camino casi arqueológico... La entrada People of the Moon se publicó primero en MondoSonoro ."
     },
     {
       "id": "d55dfd94fe56632eb701d480647351066c26b80c",
