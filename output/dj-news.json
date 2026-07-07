@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T16:29:55.752Z",
+  "generatedAt": "2026-07-07T19:01:28.100Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Anna-Ferrer-PA.jpg",
       "excerpt": "Sin duda, que la vanguardia haya entrado en la ecuación de la tradición ha traído consigo milagros particulares como el... La entrada PA se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b5cb3b13450aef48abef78fdacc4f22000cc7ffd",
+      "title": "The Lion & Lamb cancels events and severs ties with co-founder Andre King amid abuse allegations",
+      "link": "https://mixmag.net/read/lion-lamb-cuts-ties-with-co-owner-andre-king-amid-sexual-abuse-allegations-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Andre-King.jpg?fit=cover&width=660&s=KnSt51bGioyprLwJGj6wa0ObspxT6Npsbk7mJhmBzbc",
+      "excerpt": "King&#039;s business partner Mauro Ferno has encouraged anyone with allegations to come forward Continue reading..."
     },
     {
       "id": "c8d2270ffcec3ac6be9415fead2f89dbd9e5c208",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/underscores-credit-Bailey-Krawczyk.jpg?fit=cover&width=660&s=2IWKoPdO7HOrMUGNe5c9GPx6sj80gspTtzreR9rsDYI",
       "excerpt": "She claimed that Houston venue Meow Wolf was &quot;difficult to work with&quot; ahead of her scheduled show Continue reading..."
-    },
-    {
-      "id": "2ff979e560ecaf00cdc5881e5cba28a30443a958",
-      "title": "New compensation platform launched for festivalgoers",
-      "link": "https://mixmag.net/read/compensation-platform-launched-for-festival-cancellations-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kathy-Zhang.jpg?fit=cover&width=660&s=wGe4YotrbxFbO0X36w1NER9WnMdf8H6GDk9OULhfXeI",
-      "excerpt": "FestProtect will help buyers claim compensation for issues such as weather-related cancellations or excessively large crowds Continue reading..."
     }
   ]
 }
