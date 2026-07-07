@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T13:20:13.022Z",
+  "generatedAt": "2026-07-07T16:29:55.752Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "cb03a2b158b7a2346a5bc1f7916f46713a76f4a5",
+      "title": "Crítica de 'Confessions II', el nuevo álbum de Madonna",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/madonna-confessions-ii/",
+      "published": "2026-07-07T14:45:59.000Z",
+      "publishedTs": 1783435559000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Madonna-Confessions-II.jpg",
+      "excerpt": "“Jesús murió por los pecados de alguien, pero no por los míos” es quizás una de las mejores aperturas de... La entrada Crítica de &#039;Confessions II&#039;, el nuevo álbum de Madonna se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5355d621a8411e5fd36905f775c878ecf56d8684",
       "title": "Role Model Hermit",
@@ -154,18 +168,16 @@
       "excerpt": "Sin duda, que la vanguardia haya entrado en la ecuación de la tradición ha traído consigo milagros particulares como el... La entrada PA se publicó primero en MondoSonoro ."
     },
     {
-      "id": "8f0c6cf608ed956f6b50cda0b663aa48fcb605cb",
-      "title": "Amor Compartido",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/cupido-amor-compartido/",
-      "published": "2026-07-02T19:30:25.000Z",
-      "publishedTs": 1783020625000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Cupido-Amor-Compartido.jpg",
-      "excerpt": "Cupido se marcan el mejor homenaje posible a lo que son como banda, a su alma, a una identidad que... La entrada Amor Compartido se publicó primero en MondoSonoro ."
+      "id": "c8d2270ffcec3ac6be9415fead2f89dbd9e5c208",
+      "title": "Popularity of tracks with explicit lyrics has declined by 61% since 2018, report finds",
+      "link": "https://mixmag.net/read/popularity-of-tracks-with-explicit-lyrics-has-declined-by-61-since-2018-report-finds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Parental-advisor.jpg?fit=cover&width=660&s=N98hA67xDRK-TNfw0-tj3PYa5-D7hLoQpEmF3Bxx304",
+      "excerpt": "Music requiring a parental advisory tag now makes up just 13% of Spotify&#039;s Top 50 Continue reading..."
     },
     {
       "id": "4572b5f30e8b07ca9e6fab02dcc9ff2f28cb5628",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kathy-Zhang.jpg?fit=cover&width=660&s=wGe4YotrbxFbO0X36w1NER9WnMdf8H6GDk9OULhfXeI",
       "excerpt": "FestProtect will help buyers claim compensation for issues such as weather-related cancellations or excessively large crowds Continue reading..."
-    },
-    {
-      "id": "98cab031648907d05fa69f28e14bd7bee7853287",
-      "title": "Tresor Foundation expands \"How To Run A Club\" programme to global applicants",
-      "link": "https://mixmag.net/read/berlins-academy-of-subcultural-understanding-is-going-global-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/felix-moser.jpg?fit=cover&width=660&s=9YVGVNX3Ym75ATBajoAXAp8PoGhDtFYOBYwL8lkGODA",
-      "excerpt": "Run by the Berlin-based Academy of Subcultural Understanding, the programme hopes to establish the next generation of club pioneers Continue reading..."
     }
   ]
 }
