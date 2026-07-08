@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:26:08.002Z",
+  "generatedAt": "2026-07-08T11:02:55.993Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Anna-Ferrer-PA.jpg",
       "excerpt": "Sin duda, que la vanguardia haya entrado en la ecuación de la tradición ha traído consigo milagros particulares como el... La entrada PA se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "55b12642d054fb5a2f83a507f4630f373f592f4b",
+      "title": "The Mix 114: Shannen SP",
+      "link": "https://mixmag.net/feature/the-mix-114-shannen-sp-tratratrax-mzansi-bass-gqom-3-step-techno",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ShannenSP2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Jwwhp9HUwVdMPkLvIx7LPXnKAzdxkG76frIyN4VlXrc",
+      "excerpt": "After making her debut on TraTraTrax with a compilation documenting the emerging dance music scenes in South Africa, Hyperdub regular Shannen SP steps up to The Mix, delivering a sharp, percussive set recorded live at Open Ground in Wupp…"
     },
     {
       "id": "b5cb3b13450aef48abef78fdacc4f22000cc7ffd",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gottwood-Trigon.JPG?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gkgJx1xtdFtFEce4luYz6eXfWKjYHCtuSHc3xaCAD3U",
       "excerpt": "Ahead of their stage takeover at Gottwood’s 15th edition, five members of the Semi Delicious family share their perfect festival banger Continue reading..."
-    },
-    {
-      "id": "a53e08209e2e02dfe899d0c3caef4b4f880887fb",
-      "title": "underscores accuses Texas venue of \"misogynistic\" conduct",
-      "link": "https://mixmag.net/read/underscores-accuses-texas-venue-of-misogynistic-conduct-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/underscores-credit-Bailey-Krawczyk.jpg?fit=cover&width=660&s=2IWKoPdO7HOrMUGNe5c9GPx6sj80gspTtzreR9rsDYI",
-      "excerpt": "She claimed that Houston venue Meow Wolf was &quot;difficult to work with&quot; ahead of her scheduled show Continue reading..."
     }
   ]
 }
