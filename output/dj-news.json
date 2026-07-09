@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T11:56:26.115Z",
+  "generatedAt": "2026-07-09T15:13:24.292Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "6c74a77e59c8959af703a7d2f2b62df6a35a5f08",
+      "title": "El gran circo de ilusiones",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-infierno-el-gran-circo-de-ilusiones/",
+      "published": "2026-07-09T13:39:32.000Z",
+      "publishedTs": 1783604372000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Chico-Inferno.jpg",
+      "excerpt": "Si hay alguien con entidad sobrada para traducir lo que significa en esencia el mundo del circo, ese es Philip... La entrada El gran circo de ilusiones se publicó primero en MondoSonoro ."
+    },
     {
       "id": "cb03a2b158b7a2346a5bc1f7916f46713a76f4a5",
       "title": "Crítica de 'Confessions II', el nuevo álbum de Madonna",
@@ -154,18 +168,40 @@
       "excerpt": "El debut discográfico de MNFST., un proyecto anónimo afincado en Barcelona, juega deliberadamente con el misterio. No sabemos nada del... La entrada Manifesto. se publicó primero en MondoSonoro ."
     },
     {
-      "id": "e5671a8b81e04d25a857c2db13583e80c3e3cc36",
-      "title": "PA",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/anna-ferrer-pa/",
-      "published": "2026-07-03T08:29:35.000Z",
-      "publishedTs": 1783067375000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Anna-Ferrer-PA.jpg",
-      "excerpt": "Sin duda, que la vanguardia haya entrado en la ecuación de la tradición ha traído consigo milagros particulares como el... La entrada PA se publicó primero en MondoSonoro ."
+      "id": "b2c00d8c2e358959193af6fb81493999e63a6526",
+      "title": "Franky Rizardo pulls out of Pete Tong collaboration amid John Summit dispute",
+      "link": "https://mixmag.net/read/frankie-rizardo-pulls-missing-remix-john-summit-dispute-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pete-tong_2026-07-09-130333_ezix.jpg?fit=cover&width=660&s=k4b3qde3SXcQ08eMMj9Y_4mdkRy8BETIuz8Lyok9HFo",
+      "excerpt": "Summit claims that Tong &quot;jacked&quot; his remix of &#039;Missing&#039; Continue reading..."
+    },
+    {
+      "id": "00fefa8b4bdf3fa609d658f7d9e1c10b93e45636",
+      "title": "New nightclub to open in Los Angeles this year, ORIGIN",
+      "link": "https://mixmag.net/read/new-nightclub-to-open-in-los-angeles-this-year-origin-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/origin-los-angeles.jpg?fit=cover&width=660&s=G2t57sQGNutoiVdP7zk1stFIDt1-FNpDAMb_SUDBSw4",
+      "excerpt": "Flaunting both indoor and outdoor spaces, the new venue is set to open in the coming months Continue reading..."
+    },
+    {
+      "id": "5c458db761599398d1f889cbb4486306a4953c04",
+      "title": "Venezuela’s raptor house legends DJ Babatr and DJ Yirvin are coming together for the culture",
+      "link": "https://mixmag.net/feature/venezuela-raptor-house-dj-babatr-dj-yirvin-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Babatr-header-Yirvin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Ah6myVkybzZDZdPmN1Rxyy6EVylCrUXE3Pq4R7mX2PM",
+      "excerpt": "Two pioneers of Caracas’ dance music scene will perform side-by-side for the first time ever at Barcelona’s SOUNDIT Festival next week Continue reading..."
     },
     {
       "id": "55b12642d054fb5a2f83a507f4630f373f592f4b",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jungle.jpg?fit=cover&width=660&s=1Cw_dV01MJsi2_-rlwHEZv4NPoQfYb0IIo_mXyjCgZk",
       "excerpt": "Charting the genre&#039;s journey from the &#039;80s to present day, the exhibition has been curated by DJ Krust, DJ Flynn and author, Gary Thompson Continue reading..."
-    },
-    {
-      "id": "90278e52885f3650557078bc849e4c6c1190d6ea",
-      "title": "The Mix 110: LWS",
-      "link": "https://mixmag.net/feature/the-mix-110-lws-dj-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_LWS2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=yX9VmJkYMByIteMPCHrd_FVIlwEU2rfajvYsKRos9rI",
-      "excerpt": "The creator of some of the biggest dancefloor tracks of recent years shares a chaotically percussive mix that pushes into deeper grooves, and speaks to Christian Eede about &quot;headfuck&quot; music and not wanting to be pigeonholed as …"
-    },
-    {
-      "id": "a6b15ff7a2f4516a902c3793a638c32e628e5252",
-      "title": "A list of UK nightlife spaces where you can watch the World Cup 2026",
-      "link": "https://mixmag.net/read/here-are-the-uk-nightlife-spaces-showing-the-world-cup-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/semsibelli.jpg?fit=cover&width=660&s=23pjKDBu9XryXZi0ODWGBOR_t34FXQuv8u5r1KaOf_A",
-      "excerpt": "With so many late kick offs in the US, Mexico and Canada-hosted tournament, there are a range of clubs, music venues festivals showing the big games across the next few weeks Continue reading..."
-    },
-    {
-      "id": "8e619c8f38f470331b228732f2f618895275c206",
-      "title": "The Semi Delicious crew select their five ultimate festival tracks",
-      "link": "https://mixmag.net/feature/semi-delicious-ultimate-festival-tracks-gottwood-playlist",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gottwood-Trigon.JPG?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gkgJx1xtdFtFEce4luYz6eXfWKjYHCtuSHc3xaCAD3U",
-      "excerpt": "Ahead of their stage takeover at Gottwood’s 15th edition, five members of the Semi Delicious family share their perfect festival banger Continue reading..."
     }
   ]
 }
