@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T13:10:20.116Z",
+  "generatedAt": "2026-07-10T16:23:11.793Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Charlie-3-Recuerdos-Nuevos.jpg",
       "excerpt": "El underground es un lugar de magia y sacrificio. Lo saben la enorme mayoría de bandas que pueblan el panorama... La entrada Recuerdos Nuevos se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "2d0fd42c1e582e4300570194e9c25bafcbfa01a2",
+      "title": "New electronic music-focused record store opens in Leeds",
+      "link": "https://mixmag.net/read/new-electronic-music-focused-record-store-opens-leeds-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/leeds-1.jpg?fit=cover&width=660&s=aIxY2zaayBjsNszis1EAgu39g6hPa-FvWPnQZ0nGvQM",
+      "excerpt": "Vinyl specialists Plant &amp; Deck and Peppermint Records have joined forces to launch the store, which is located on the top floor of Doghouse Bar Continue reading..."
+    },
+    {
+      "id": "e248d88a545b8144e51d6e68dbd6ef6a9457444d",
+      "title": "72% of young people have felt unsafe working in the music industry, report reveals",
+      "link": "https://mixmag.net/read/72-percent-young-people-felt-unsafe-working-music-industry-report-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-credit-wolf-art.jpg?fit=cover&width=660&s=ZfKJRZ2d4hfyRaYRiDSDCw2M62e8CLGmUXxm_znetZ8",
+      "excerpt": "In the wake of recent allegations in the industry, Youth Music expose the harm faced by young people Continue reading..."
     },
     {
       "id": "f00737b59972405ff076b553eecaa858a53442f6",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=jDghvLAEyVR5xlSljVMBW4S3n185wQF5vOzuQsI3Oj8",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
-    },
-    {
-      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
-      "title": "The Best Tracks Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JgI-9cG4iMgkb8IsG1BzysF54bf1pyybVy2X3QuWGOw",
-      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
-    },
-    {
-      "id": "8156c5231ed7d2cafa38ac46b87fae60c5d40c17",
-      "title": "NTIA urges UK government to recognise nightclubs as cultural institutions in new open letter",
-      "link": "https://mixmag.net/read/ntia-urge-government-to-recognise-nightclubs-as-cultural-institutions-in-new-open-letter-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/NTIA_2026-06-11-162923_hxqe.jpg?fit=cover&width=660&s=pJvhPumL9YyeptWAwJVwPzb22k8ul4Lz2m1lOcf_x3U",
-      "excerpt": "The letter suggests following the lead of the German government in reclassifying clubs as &quot;cultural and artistic&quot; spaces Continue reading..."
     }
   ]
 }
