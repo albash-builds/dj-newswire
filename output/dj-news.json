@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T16:23:11.793Z",
+  "generatedAt": "2026-07-10T18:22:12.948Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -189,7 +189,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-credit-wolf-art.jpg?fit=cover&width=660&s=ZfKJRZ2d4hfyRaYRiDSDCw2M62e8CLGmUXxm_znetZ8",
-      "excerpt": "In the wake of recent allegations in the industry, Youth Music expose the harm faced by young people Continue reading..."
+      "excerpt": "In the wake of recent allegations in the industry, Youth Music has investigated the harm faced by young people Continue reading..."
     },
     {
       "id": "f00737b59972405ff076b553eecaa858a53442f6",
