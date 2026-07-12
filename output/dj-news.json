@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T20:45:51.164Z",
+  "generatedAt": "2026-07-12T21:49:17.123Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ANTI-Vendedor-ambulante-de-estrellas.jpg",
       "excerpt": "Dice e refranero popular que las cosas buenas se hacen esperar. En el caso que hoy nos atañe, cabe la... La entrada Vendedor ambulante de estrellas va por la avenida de espuma de mar se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5f57ec892078dc8ff1cdd3c99e2b4ad9e38c4e74",
+      "title": "New music on our radar this week: Jnr SA, Confidence Man, RenzNiro",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-kabza-de-small-confidence-man-renzniro-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rezniro.jpg?fit=cover&width=660&s=wMy1VQ0lAkZ5LVY-O6ldDfQIhK6kuQTGLztjX6BqVfU",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "1ee2f72d953abf8144ad724f6c4d99a35fbd6e2b",
+      "title": "Festival line-ups you might have missed: Unsound, Field Maneuvers, Yard Portugal",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-unsound-field-maneuvers-yard-portugal-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FN.jpg?fit=cover&width=660&s=NAKWm7a5teCVtMv0mjeDCtNdCGI1f4n-qNTnuEhoXg8",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "2d0fd42c1e582e4300570194e9c25bafcbfa01a2",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82_2026-06-12-125114_agep.jpg?fit=cover&width=660&s=AGy8povSKvUP4lWKlrrc818gzy1E9tTr5g24acCkxEs",
       "excerpt": "The Barnsley-raised producer has premiered the first single from the project, a rework of Shades of Rhythm&#039;s &#039;The Sound Of Eden&#039;, via Mixmag Continue reading..."
-    },
-    {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_fD8LpwfuIS7XRdt9iZTN43bbSmfndj64JrbbRu4U1s",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
-      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
-      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MAY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=jDghvLAEyVR5xlSljVMBW4S3n185wQF5vOzuQsI3Oj8",
-      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     }
   ]
 }
