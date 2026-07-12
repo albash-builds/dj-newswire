@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T11:58:43.231Z",
+  "generatedAt": "2026-07-12T13:45:43.100Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "4c5e5052533b642af464f9650de72e25d9196f07",
+      "title": "Visitor",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sienna-spiro-visitor/",
+      "published": "2026-07-12T13:17:42.000Z",
+      "publishedTs": 1783862262000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/sienna-spiro-visitor.jpg",
+      "excerpt": "Reconozcámoslo abiertamente: los cuentos protagonizados por fantasmas nos gustan tanto como los que acaban con un final feliz. Pero, si... La entrada Visitor se publicó primero en MondoSonoro ."
+    },
     {
       "id": "b6647a80f323c11e60aea4c40e3fe482f85ee5c7",
       "title": "Alone Together",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ANTI-Vendedor-ambulante-de-estrellas.jpg",
       "excerpt": "Dice e refranero popular que las cosas buenas se hacen esperar. En el caso que hoy nos atañe, cabe la... La entrada Vendedor ambulante de estrellas va por la avenida de espuma de mar se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "58f265d34e307d88f3a710323aa50d0c41a4bf8c",
-      "title": "Recuerdos Nuevos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/charlie-3-recuerdos-nuevos/",
-      "published": "2026-07-04T07:28:19.000Z",
-      "publishedTs": 1783150099000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Charlie-3-Recuerdos-Nuevos.jpg",
-      "excerpt": "El underground es un lugar de magia y sacrificio. Lo saben la enorme mayoría de bandas que pueblan el panorama... La entrada Recuerdos Nuevos se publicó primero en MondoSonoro ."
     },
     {
       "id": "2d0fd42c1e582e4300570194e9c25bafcbfa01a2",
