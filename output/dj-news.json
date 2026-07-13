@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T10:25:18.953Z",
+  "generatedAt": "2026-07-13T13:22:31.874Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ANTI-Vendedor-ambulante-de-estrellas.jpg",
       "excerpt": "Dice e refranero popular que las cosas buenas se hacen esperar. En el caso que hoy nos atañe, cabe la... La entrada Vendedor ambulante de estrellas va por la avenida de espuma de mar se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f9b11c03d74f68bf1eef8b6174d01a6191876da6",
+      "title": "Beloved drum ‘n’ bass artist Lenzman has died",
+      "link": "https://mixmag.net/read/beloved-drum-n-bass-artist-lenzman-died-following-cancer-battle-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lenzman-press.jpg?fit=cover&width=660&s=wmSprkxkENmrpH41XFpek0C5bSMatBNxh4jt4MDnGKQ",
+      "excerpt": "The North Quarter founder and Metalheadz signee passed away over the weekend, his family confirmed Continue reading..."
+    },
+    {
+      "id": "218d3f40ab50603048ef36cb53b744608d349b5d",
+      "title": "Pete Tong responds to John Summit remix controversy, claims allegations \"aren't supported by the facts\"",
+      "link": "https://mixmag.net/read/pete-tong-responds-to-john-summit-remix-controversy-says-allegations-are-simply-not-supported-by-the-facts-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Pete-Tong-10.jpg?fit=cover&width=660&s=aOdUx-dB6lk3tkKua3hC4nPjTeY0OKgTc0AIMx18dio",
+      "excerpt": "Summit accused the BBC Radio 1 broadcaster of &quot;jacking&quot; his rework of Everything But The Girl&#039;s &#039;Missing&#039; Continue reading..."
     },
     {
       "id": "5f57ec892078dc8ff1cdd3c99e2b4ad9e38c4e74",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pic_2026-06-14-204658_cgcy.jpg?fit=cover&width=660&s=60MKzOUMMFxp64z1py59iYQTH86q_yLn44giSIl4QIM",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "824065e48a7313c87a1e0579e2f36ee315629e51",
-      "title": "Festival line-ups you might have missed: Eastern Margins, CRSSD, SQUARE",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-eastern-margins-crssd-square-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CRSSD-1818.jpg?fit=cover&width=660&s=r_ooDmUOtZeJFSfCPJ_3Y1RIgbHaXGZcwdKhvYBawZs",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "8471f1ac8170dd2d18efa6b524922f5ca24baff7",
-      "title": "Hot Since 82 shares details of new album 'Obsessions'",
-      "link": "https://mixmag.net/read/hot-since-82-reworks-sound-of-eden-on-new-single-shaded-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82_2026-06-12-125114_agep.jpg?fit=cover&width=660&s=AGy8povSKvUP4lWKlrrc818gzy1E9tTr5g24acCkxEs",
-      "excerpt": "The Barnsley-raised producer has premiered the first single from the project, a rework of Shades of Rhythm&#039;s &#039;The Sound Of Eden&#039;, via Mixmag Continue reading..."
     }
   ]
 }
