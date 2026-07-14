@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T10:45:02.262Z",
+  "generatedAt": "2026-07-14T12:11:11.757Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/BARIRI-Despues-de-esa-nube.jpg",
       "excerpt": "A pesar de que su carta de presentación estuviera marcada en su día por una abierta querencia al hedonismo y... La entrada Después de esa nube se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1977ec3a765e8cf914c860d8080abedd890ec727",
+      "title": "PinkPantheress to make acting debut in new film from 'Everything Everywhere All at Once' directors",
+      "link": "https://mixmag.net/read/pinkpantheress-make-acting-debut-new-film-everything-everywhere-all-at-once-directors-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/PinkPantheress_2026-07-14-112520_zvdm.jpg?fit=cover&width=660&s=PXAP7iHZ0MStN2CyIUTf6FN3HQXMuI6BhjZpxln0-mE",
+      "excerpt": "The as-yet-untitled project will also star Matt Damon, Sandra Oh and Michael Gandolfini Continue reading..."
+    },
+    {
+      "id": "7db793546f632af4a7abccb9ef801b589520450c",
+      "title": "18-year-old dies following medical emergency at North Wales' Tonnau Festival",
+      "link": "https://mixmag.net/read/18-year-old-dies-medical-emergency-wales-tonnau-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Festival_2026-07-14-102523_hlmv.jpg?fit=cover&width=660&s=mr4BreV2Caq1XeUdv00n50HtKIRJRPxYGsuZ3W53s0w",
+      "excerpt": "Organisers ended the event after the tragedy in the early hours of Sunday morning Continue reading..."
     },
     {
       "id": "180d51d0ec99588f73404eca819003a6df364a9b",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cassiopeia-berlin.jpg?fit=cover&width=660&s=o0OPFR1gReRmHmPfS6Z0epXPyBnsLNzGjpM9wiKguHE",
       "excerpt": "The Friedrichshain venue was served an eviction notice amid a development dispute in the area Continue reading..."
-    },
-    {
-      "id": "b9242630a2a545392377a1aee6943552298168dc",
-      "title": "Fred again.. to host free production workshop for trans+ musicians in London",
-      "link": "https://mixmag.net/read/fred-again-host-free-production-workshop-for-trans-musicians-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-credit-theo-batterham.jpg?fit=cover&width=660&s=3Rvt6TLyPsY8aoSGmZfJy1bwT5AlUaVLM1_bXZlT-BI",
-      "excerpt": "The workshop will take place this Friday at Abbey Road Studios as part of a new Trans+ Future Sounds initiative Continue reading..."
-    },
-    {
-      "id": "8a1c919d4e199b9df154505901c43e0d6ad38348",
-      "title": "The Cause to launch new radio station-focused festival in London",
-      "link": "https://mixmag.net/read/the-cause-launch-new-radio-station-focused-festival-in-london-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-cause-london_2026-06-16-140940_qgmm.jpg?fit=cover&width=660&s=ylLazSj20jptuZkIKhVcsPS47Fnip-FC3lL6qLJClq4",
-      "excerpt": "Each stage at the day festival will celebrate independent stations around the world, including South Korea&#039;s Seoul Community Radio and Indonesia&#039;s Headstream Continue reading..."
     }
   ]
 }
