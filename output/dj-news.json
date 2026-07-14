@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:50:09.397Z",
+  "generatedAt": "2026-07-14T16:13:54.945Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "8f4af2addc437253c48334f3fbd1a9dcb2bfaa9f",
+      "title": "Foreign Tongues",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-rolling-stones-foreign-tongues/",
+      "published": "2026-07-14T15:47:39.000Z",
+      "publishedTs": 1784044059000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Rolling-Stones-Foreign-Tongues.jpg",
+      "excerpt": "Que The Rolling Stones comiencen \"Foreign Tongues\", su vigesimoquinto disco, con una canción que se llama \"Rough And Twisted\", llena... La entrada Foreign Tongues se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6e74f90acf305f62bf77d50d4fcd5efcfad705c3",
+      "title": "Crítica de 'Frozen Charlotte', el nuevo disco de Jack White",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jack-white-frozen-charlotte/",
+      "published": "2026-07-14T15:06:09.000Z",
+      "publishedTs": 1784041569000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/jack-white-frozen-charlotte.jpg",
+      "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Crítica de &#039;Frozen Charlotte&#039;, el nuevo disco de Jack White se publicó primero en MondoSonoro ."
+    },
     {
       "id": "769a8daefdfc382187fa696745a3d3e60f150457",
       "title": "Fragile World",
@@ -140,34 +168,6 @@
       "excerpt": "Muse siempre han sido una banda de dimensiones poco razonables. No solo por las temáticas de sus canciones, que suelen... La entrada The Wow! Signal se publicó primero en MondoSonoro ."
     },
     {
-      "id": "f4d82deea5f6b7e8a072c6e55eb2dae740e14791",
-      "title": "Al Norte del Norte",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gatoperro-al-norte-del-norte/",
-      "published": "2026-07-05T09:45:28.000Z",
-      "publishedTs": 1783244728000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Gatoperro-Al-Norte-del-Norte.jpg",
-      "excerpt": "Tal vez sea Asturias (su actual lugar de residencia) el lugar al que se refiere el vallisoletano Gatoperro con el... La entrada Al Norte del Norte se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "465c7bd736cb0fc764b6a2ab5047b41fa6b60719",
-      "title": "Después de esa nube",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bariri-despues-de-esa-nube/",
-      "published": "2026-07-04T07:57:54.000Z",
-      "publishedTs": 1783151874000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/BARIRI-Despues-de-esa-nube.jpg",
-      "excerpt": "A pesar de que su carta de presentación estuviera marcada en su día por una abierta querencia al hedonismo y... La entrada Después de esa nube se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "1285db5e029d9991ec9f84d005929d30b4eede90",
       "title": "New directory lets you browse 300 community radio stations around the world",
       "link": "https://mixmag.net/read/new-directory-browse-300-community-radio-stations-world-index-news",
@@ -217,7 +217,7 @@
     },
     {
       "id": "180d51d0ec99588f73404eca819003a6df364a9b",
-      "title": "Inside MANUMISSION, the brothel-turned-nightclub and debauched epicentre of '90s Ibiza",
+      "title": "Inside MANUMISSION Motel, the brothel-turned-nightclub and debauched epicentre of '90s Ibiza",
       "link": "https://mixmag.net/feature/debauched-visceral-hedonistic-manumission-laid-the-blueprint-for-ecstatic-ibiza-clubbing",
       "published": "",
       "publishedTs": 0,
