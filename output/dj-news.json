@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T05:30:27.024Z",
-  "total": 80,
+  "generatedAt": "2026-07-15T08:07:59.102Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -23,16 +23,150 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
-    },
-    {
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/",
-      "error": "Fetch failed 404 Not Found for https://www.mondosonoro.com/criticas/discos-musica/feed/: <!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "4a21fa84528afd75cc700416a4a45dccb400f2ad",
+      "title": "new avatar",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kelela-new-avatar/",
+      "published": "2026-07-15T07:40:23.000Z",
+      "publishedTs": 1784101223000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Kelela-new-avatar.jpg",
+      "excerpt": "En una reciente entrevista con un medio británico Kelela aseguraba que el RnB es uno de los géneros más expansivos... La entrada new avatar se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8f4af2addc437253c48334f3fbd1a9dcb2bfaa9f",
+      "title": "Foreign Tongues",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-rolling-stones-foreign-tongues/",
+      "published": "2026-07-14T15:47:39.000Z",
+      "publishedTs": 1784044059000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Rolling-Stones-Foreign-Tongues.jpg",
+      "excerpt": "Que The Rolling Stones comiencen \"Foreign Tongues\", su vigesimoquinto disco, con una canción que se llama \"Rough And Twisted\", llena... La entrada Foreign Tongues se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6e74f90acf305f62bf77d50d4fcd5efcfad705c3",
+      "title": "Crítica de 'Frozen Charlotte', el nuevo disco de Jack White",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jack-white-frozen-charlotte/",
+      "published": "2026-07-14T15:06:09.000Z",
+      "publishedTs": 1784041569000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/jack-white-frozen-charlotte.jpg",
+      "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Crítica de &#039;Frozen Charlotte&#039;, el nuevo disco de Jack White se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "769a8daefdfc382187fa696745a3d3e60f150457",
+      "title": "Fragile World",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-veils-fragile-world/",
+      "published": "2026-07-14T08:14:50.000Z",
+      "publishedTs": 1784016890000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Veils-Fragile-World.jpg",
+      "excerpt": "Mucho ha cambiado, con el paso de los años, el enfoque artístico de Finn Andrews al frente de sus The... La entrada Fragile World se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4c5e5052533b642af464f9650de72e25d9196f07",
+      "title": "Visitor",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sienna-spiro-visitor/",
+      "published": "2026-07-12T13:17:42.000Z",
+      "publishedTs": 1783862262000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/sienna-spiro-visitor.jpg",
+      "excerpt": "Reconozcámoslo abiertamente: los cuentos protagonizados por fantasmas nos gustan tanto como los que acaban con un final feliz. Pero, si... La entrada Visitor se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b6647a80f323c11e60aea4c40e3fe482f85ee5c7",
+      "title": "Alone Together",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/alone-together-show-me-the-body/",
+      "published": "2026-07-10T10:54:18.000Z",
+      "publishedTs": 1783680858000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ShowMeTheBodyCD.jpg",
+      "excerpt": "Gestado en el sótano del colectivo neoyorquino Corpus, “Alone Together” supone el cuarto disco del trío Show Me The Body... La entrada Alone Together se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6c74a77e59c8959af703a7d2f2b62df6a35a5f08",
+      "title": "El gran circo de ilusiones",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-infierno-el-gran-circo-de-ilusiones/",
+      "published": "2026-07-09T13:39:32.000Z",
+      "publishedTs": 1783604372000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Chico-Inferno.jpg",
+      "excerpt": "Si hay alguien con entidad sobrada para traducir lo que significa en esencia el mundo del circo, ese es Philip... La entrada El gran circo de ilusiones se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "cb03a2b158b7a2346a5bc1f7916f46713a76f4a5",
+      "title": "Confessions II",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/madonna-confessions-ii/",
+      "published": "2026-07-07T14:45:59.000Z",
+      "publishedTs": 1783435559000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Madonna-Confessions-II.jpg",
+      "excerpt": "“Jesús murió por los pecados de alguien, pero no por los míos” es quizás una de las mejores aperturas de... La entrada Confessions II se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5355d621a8411e5fd36905f775c878ecf56d8684",
+      "title": "Role Model Hermit",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mary-in-the-junkyard-role-model-hermit/",
+      "published": "2026-07-07T09:26:38.000Z",
+      "publishedTs": 1783416398000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/mary-in-the-junkyard-role-model-hermitmary-in-the-junkyard-role-model-hermit.jpg",
+      "excerpt": "Sería capaz de apostar mi mano derecha a que el año que viene Mary In The Junkyard estarán presentes en... La entrada Role Model Hermit se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "44f38adf0353df1f48831f2e5f3ff686baa8ce2b",
+      "title": "Ultrapop",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/meison-ultrapop/",
+      "published": "2026-07-06T16:53:52.000Z",
+      "publishedTs": 1783356832000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
+      "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
     {
       "id": "dec727f8ade8285800d1d703cd06154767f819b3",
       "title": "Josh Baker to play free show with JD ahead of World Cup watch party at secret Manchester location",
