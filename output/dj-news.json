@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:14:11.437Z",
+  "generatedAt": "2026-07-15T14:49:34.515Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
       "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1a407348f6307be70ae625cf778b4812c518f040",
+      "title": "Warner Music asks court to throw out musicians' union lawsuit over AI deal",
+      "link": "https://mixmag.net/read/warner-music-asks-court-throw-out-musicians-union-lawsuit-ai-deal-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warner-music.jpg?fit=cover&width=660&s=Or7LsRlf7-UFmjxuaQ61pQi_P1W7w05e21ZaIMQeQNI",
+      "excerpt": "The American Federation of Musicians argues that artists have not been offered &quot;compensation or credit&quot; for their music to be used to train AI models Continue reading..."
+    },
+    {
+      "id": "90bfec9bcac26ce0e268ba6dec6f5d1880bdd332",
+      "title": "Blaze that destroyed Tomorrowland 2025 main stage caused by ethanol leak, sources claim",
+      "link": "https://mixmag.net/read/blaze-destroyed-tomorrowland-2025-main-stage-ethanol-leak-sources-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tomorrowland-s.jpg?fit=cover&width=660&s=_H7Z9Hx0R-ANiSNnaWJeJ9b1i1zpUvR1VKPxSFHCAQI",
+      "excerpt": "Investigations into the dramatic blaze, which destroyed the Orbyz Mainstage just 48 hours before gates were due to open last year, are ongoing Continue reading..."
     },
     {
       "id": "7e760a47aa95213dd873acc5108828f56d9e5dca",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2-Live-Crew_2026-06-19-094610_ahws.jpg?fit=cover&width=660&s=EDYgoqsQ9OVkDzmeqKwsdSIP3EOD-dFepRnxXbsnISM",
       "excerpt": "The 2 Live Crew member, AKA Luther Campbell, is running to lead Florida&#039;s Congressional District 20 Continue reading..."
-    },
-    {
-      "id": "fe3d6ebc1dcbe1e8ce22830e63651454b193db43",
-      "title": "Tay Keith, producer behind Drake and Travis Scott hits, dies aged 29",
-      "link": "https://mixmag.net/read/tay-keith-producer-behind-drake-travis-scott-hits-dies-aged-29-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tay-keith-producer.jpg?fit=cover&width=660&s=VSgkQbyTZO6swgaGih6yHwe9fz241AH-iLOd53kJ5yY",
-      "excerpt": "The ‘Sicko Mode’ producer was found dead in his apartment in Nashville this week Continue reading..."
-    },
-    {
-      "id": "565c0d29b91e5569b0a35d97ee01ad78f8d74db2",
-      "title": "New 160-capacity venue launches in New York, Club Rawhide",
-      "link": "https://mixmag.net/read/new-160-capacity-venue-launches-new-york-club-rawhide-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rawhide-nyc.jpg?fit=cover&width=660&s=mlgAuGg3zvGmk8BRuUAzwKBmf3KqLGR5R3SMHQ1BU8o",
-      "excerpt": "The Manhattan club pays homage to Chelsea’s first-ever gay bar of the same name, which closed in 2012 Continue reading..."
     }
   ]
 }
