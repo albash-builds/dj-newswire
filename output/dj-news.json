@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T10:48:45.550Z",
+  "generatedAt": "2026-07-15T12:14:11.437Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
       "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7e760a47aa95213dd873acc5108828f56d9e5dca",
+      "title": "$15,000 reward offered for information on newborn baby found dead at Electric Forest",
+      "link": "https://mixmag.net/read/15000-reward-offered-information-newborn-baby-found-dead-electric-forest-michigan-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest-2026.jpg?fit=cover&width=660&s=oJW1kd6hz-_vd9BBccdOfdIeVelYhAOk1kaMY6Oc37A",
+      "excerpt": "The baby was discovered inside a portaloo at the Michigan electronic festival in June, thought to have been &quot;born alive&quot; Continue reading..."
+    },
+    {
+      "id": "3f8d9c5232e1c94b6b4058f3eb7c3a3fce7b4acf",
+      "title": "Orbital’s historic 1994 Glastonbury performance to get official release",
+      "link": "https://mixmag.net/read/orbital-historic-1994-glastonbury-performance-first-official-release-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/orbital-credit-steve-double.jpg?fit=cover&width=660&s=V7tOR6nfG8jfgWtvnHjPbidDpJ4viPGEXWLCYFH7_v8",
+      "excerpt": "The landmark show will be released on coloured vinyl, CD and digitally for the first time ever Continue reading..."
     },
     {
       "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rawhide-nyc.jpg?fit=cover&width=660&s=mlgAuGg3zvGmk8BRuUAzwKBmf3KqLGR5R3SMHQ1BU8o",
       "excerpt": "The Manhattan club pays homage to Chelsea’s first-ever gay bar of the same name, which closed in 2012 Continue reading..."
-    },
-    {
-      "id": "7db6130c0d15dcc8b266b4fe7c6164f1ab42c095",
-      "title": "DJ given suspended jail sentence for selling remix CDs containing copyrighted music",
-      "link": "https://mixmag.net/read/man-jailed-for-selling-remix-cds-containing-copyrighted-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cds.jpg?fit=cover&width=660&s=5rD4X1A8Mvmo2V-VvXtr7KPBldJMG9Lf6wjii2IOc1w",
-      "excerpt": "Mark Kearns allegedly made &quot;thousands&quot; from selling CDs online featuring &quot;well‑known tracks&quot; Continue reading..."
-    },
-    {
-      "id": "4c90e3c98c21f23120d9bc126856e84c46fc13ff",
-      "title": "Bristol, Oxford and Edinburgh amongst UK cities that party the most, study shows",
-      "link": "https://mixmag.net/read/bristol-oxford-edinburgh-amongst-uk-cities-party-most-study-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bristol-party.jpg?fit=cover&width=660&s=eH1j9cics456iG8JISA21bIdrpvt4oWhs_7_rtlvNEI",
-      "excerpt": "New research from online searches shows the cities where a night out is most in demand Continue reading..."
     }
   ]
 }
