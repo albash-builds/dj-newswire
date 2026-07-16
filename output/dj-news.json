@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T08:11:25.025Z",
+  "generatedAt": "2026-07-16T10:58:49.506Z",
   "total": 90,
   "sources": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "id": "6e74f90acf305f62bf77d50d4fcd5efcfad705c3",
-      "title": "Crítica de 'Frozen Charlotte', el nuevo disco de Jack White",
+      "title": "Frozen Charlotte",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jack-white-frozen-charlotte/",
       "published": "2026-07-14T15:06:09.000Z",
       "publishedTs": 1784041569000,
@@ -67,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/jack-white-frozen-charlotte.jpg",
-      "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Crítica de &#039;Frozen Charlotte&#039;, el nuevo disco de Jack White se publicó primero en MondoSonoro ."
+      "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Frozen Charlotte se publicó primero en MondoSonoro ."
     },
     {
       "id": "769a8daefdfc382187fa696745a3d3e60f150457",
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
       "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "48bca562bf5849ce4ee102bd0b72472327dcb23b",
+      "title": "Queer venue in former Sydney church forced to shut following Christian protests",
+      "link": "https://mixmag.net/read/queer-venue-former-sydney-church-forced-shut-following-christian-protests-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/divine-playhouse.jpg?fit=cover&width=660&s=_PABvuMsFZH1U4k7VDjtT5oygSJLxsHBk73p7CqHhuE",
+      "excerpt": "Divine Playhouse opened for the first time last week inside a deconsecrated church Continue reading..."
     },
     {
       "id": "8884a7b51be8a7976d5b1d7fa754dc5dc2653a93",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-village.jpg?fit=cover&width=660&s=iQidql0Z6Z2yP8-j5QODrhe8-hySQySDZMxAklAxQx4",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "89d390160506c050b7712f9422be97d94f91e725",
-      "title": "New \"ad and algorithm-free\" social music app Corus has launched",
-      "link": "https://mixmag.net/read/new-music-app-cymbal-tipped-as-the-instagram-for-music-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Ron-Lach.jpg?fit=cover&width=660&s=WADmaBpSju7WHE8ZrPhIe2asOtCQKBEWYsyT5B6sAnk",
-      "excerpt": "The app will focus on peer-to-peer music recommendations of music and film Continue reading..."
     }
   ]
 }
