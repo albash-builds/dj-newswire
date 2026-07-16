@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T12:25:32.455Z",
+  "generatedAt": "2026-07-16T15:01:08.747Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
       "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "56ce49948f6597d1bc3a517ea910d8fce6fba7b6",
+      "title": "Sub Club manager Mike Grieve to lead new Glasgow nightlife commission",
+      "link": "https://mixmag.net/read/sub-club-manager-mike-grieve-to-lead-new-glasgow-nightlife-taskforce-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Sub-Club_2026-07-16-141506_xceq.jpg?fit=cover&width=660&s=d1kwbrryyOgJuSMEA7WaSWdGStPEWZyafxQgPn13ano",
+      "excerpt": "The City Centre Task Force has been launched with the aim of supporting the nightlife industry Continue reading..."
     },
     {
       "id": "3023b72f3ce2b2748b94e69839585d79189ea96e",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-ai-checker.jpg?fit=cover&width=660&s=XeH0ZdYyxp5U41jIv_8XRBE7qZjMalxWmcthRLcz8Xg",
       "excerpt": "Launched by The Atlantic, AI Watchdog offers a search tool for songs used by AI music creation platforms, including Google and Stability AI Continue reading..."
-    },
-    {
-      "id": "b7ed0e161f64cce47fcee6fc6e41a85b46c15369",
-      "title": "Public drinking banned at France’s Fête de la Musique due to extreme weather",
-      "link": "https://mixmag.net/read/alcohol-banned-france-f%C3%AAte-de-la-musique-extreme-weather-paris-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fete-de-la-musique_2026-06-22-111741_pywi.jpg?fit=cover&width=660&s=ILGyQcL273c4Hq4KLQ2t5r5YI7A49uDkwIysOkIE2S0",
-      "excerpt": "Authorities restricted drinking at the annual country-wide street celebrations over the weekend as temperatures hit 40 degrees Continue reading..."
     }
   ]
 }
