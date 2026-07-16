@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T10:58:49.506Z",
+  "generatedAt": "2026-07-16T12:25:32.455Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
       "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3023b72f3ce2b2748b94e69839585d79189ea96e",
+      "title": "41% of people in the UK haven't listened to a full album in a year, according to new poll",
+      "link": "https://mixmag.net/read/40-percent-people-uk-have-not-listened-to-full-album-year-according-to-new-poll-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones_2026-07-16-111522_zizg.jpg?fit=cover&width=660&s=o-tJCZr5QVxqyJnjGeYc1x6FM1trSpeTFfwUZDT6YNE",
+      "excerpt": "A survey of 2,000 UK adults found that a further 8% admitted to having &quot;never&quot; listened to an album from start-to-finish Continue reading..."
+    },
+    {
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JUNE_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=bmAmDueJlJygIL9NH5dRYzwAFRGZQis1uUY_hkEU2Yc",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
+    },
+    {
+      "id": "e4748c1a2935eb2dad2b7b7e7500d127160036f5",
+      "title": "AI music generator Suno scraped “millions of songs” from YouTube and Deezer",
+      "link": "https://mixmag.net/read/ai-music-generator-suno-scraped-millions-songs-youtube-deezer-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/suno-music-making.jpg?fit=cover&width=660&s=9GyVir_f0S01wi6zGWE3F-NqLMvAevqqyQPUwcKPp8E",
+      "excerpt": "A data leak revealed that over two million music clips were used to train Suno’s AI models Continue reading..."
     },
     {
       "id": "48bca562bf5849ce4ee102bd0b72472327dcb23b",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fete-de-la-musique_2026-06-22-111741_pywi.jpg?fit=cover&width=660&s=ILGyQcL273c4Hq4KLQ2t5r5YI7A49uDkwIysOkIE2S0",
       "excerpt": "Authorities restricted drinking at the annual country-wide street celebrations over the weekend as temperatures hit 40 degrees Continue reading..."
-    },
-    {
-      "id": "1621dd311437045c9b8abbc0ee2cd433461b47c3",
-      "title": "Belfast’s \"first-ever\" dedicated listening bar to open this summer",
-      "link": "https://mixmag.net/read/belfast-first-ever-dedicated-listening-bar-open-this-summer-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-room-belfast.jpg?fit=cover&width=660&s=-xWu5iWSckGcLt6jH5jk6bLDehfZ1M9nFdRKz0YpafE",
-      "excerpt": "Music Room bills itself as a hi-fi bar built around vinyl culture, launching this July Continue reading..."
-    },
-    {
-      "id": "70b3e07e63b630af175498171d0f093added3bbb",
-      "title": "New music on our radar this week: Mount Kimbie, Original Koffee, Jazzy",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-mount-kimbie-original-koffee-jazzy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-21-June.jpg?fit=cover&width=660&s=OvyluQXWZ8kfSjzeKtxVPEAVwHgtguLJuX3P7ScD3Ic",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "d5fab32b44be807bdad9b59ba77671a1288886a6",
-      "title": "Festival line-ups you might have missed: Body Movements, Public Disco, Voodoo Village",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-body-movements-public-disco-voodoo-village-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/voodoo-village.jpg?fit=cover&width=660&s=iQidql0Z6Z2yP8-j5QODrhe8-hySQySDZMxAklAxQx4",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
