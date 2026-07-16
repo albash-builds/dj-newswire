@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:04:10.934Z",
+  "generatedAt": "2026-07-16T23:58:24.905Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "a87d74039416f74f06c47116679deaf555eafb5b",
+      "title": "Txirenadas Vol.I",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/vuelve-ferralla-txirenadas-vol-i/",
+      "published": "2026-07-16T22:42:13.000Z",
+      "publishedTs": 1784241733000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Vuelve-ferralla.jpg",
+      "excerpt": "Hay proyectos que nacen de la necesidad y proyectos que nacen de la conversación. Vuelve Ferralla pertenece a la segunda... La entrada Txirenadas Vol.I se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "dfa837eb91a034e99aacf55b1861fde385e75afe",
+      "title": "Biziraun",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ziraun-biziraun/",
+      "published": "2026-07-16T22:34:00.000Z",
+      "publishedTs": 1784241240000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Ziraun.jpg",
+      "excerpt": "Ziraun taldearen “Biziraun” diskoa ez da soilik bigarren lan baten baieztapena; taldearen eboluzioaren eta bizitako prozesuaren isla zuzena ere bada.... La entrada Biziraun se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4a21fa84528afd75cc700416a4a45dccb400f2ad",
       "title": "new avatar",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Madonna-Confessions-II.jpg",
       "excerpt": "“Jesús murió por los pecados de alguien, pero no por los míos” es quizás una de las mejores aperturas de... La entrada Confessions II se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "5355d621a8411e5fd36905f775c878ecf56d8684",
-      "title": "Role Model Hermit",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mary-in-the-junkyard-role-model-hermit/",
-      "published": "2026-07-07T09:26:38.000Z",
-      "publishedTs": 1783416398000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/mary-in-the-junkyard-role-model-hermitmary-in-the-junkyard-role-model-hermit.jpg",
-      "excerpt": "Sería capaz de apostar mi mano derecha a que el año que viene Mary In The Junkyard estarán presentes en... La entrada Role Model Hermit se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "44f38adf0353df1f48831f2e5f3ff686baa8ce2b",
-      "title": "Ultrapop",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/meison-ultrapop/",
-      "published": "2026-07-06T16:53:52.000Z",
-      "publishedTs": 1783356832000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/meison.jpg",
-      "excerpt": "Berriztik datorren power trioa da Meison taldea. Titulurik irakurriko ez bagenu, rock disko baten aurrean geundekeela esango genuke 'Ultrapop' entzutean,... La entrada Ultrapop se publicó primero en MondoSonoro ."
     },
     {
       "id": "56ce49948f6597d1bc3a517ea910d8fce6fba7b6",
