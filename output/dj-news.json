@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T09:08:20.872Z",
+  "generatedAt": "2026-07-17T11:20:36.640Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "5f1216ddc04994acb652196aa6b22dda14c9c791",
+      "title": "Optimism",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/digitalism-optimism/",
+      "published": "2026-07-17T10:28:23.000Z",
+      "publishedTs": 1784284103000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Digitalism-Optimism.jpg",
+      "excerpt": "Convertirte casi al instante en símbolo de modernidad conlleva unos riesgos tan evidentes como inevitables. Digitalism consensuaron el logro en... La entrada Optimism se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a87d74039416f74f06c47116679deaf555eafb5b",
       "title": "Txirenadas Vol.I",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Chico-Inferno.jpg",
       "excerpt": "Si hay alguien con entidad sobrada para traducir lo que significa en esencia el mundo del circo, ese es Philip... La entrada El gran circo de ilusiones se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cb03a2b158b7a2346a5bc1f7916f46713a76f4a5",
-      "title": "Confessions II",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/madonna-confessions-ii/",
-      "published": "2026-07-07T14:45:59.000Z",
-      "publishedTs": 1783435559000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Madonna-Confessions-II.jpg",
-      "excerpt": "“Jesús murió por los pecados de alguien, pero no por los míos” es quizás una de las mejores aperturas de... La entrada Confessions II se publicó primero en MondoSonoro ."
     },
     {
       "id": "56ce49948f6597d1bc3a517ea910d8fce6fba7b6",
