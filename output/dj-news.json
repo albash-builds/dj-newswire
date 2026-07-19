@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:57:09.596Z",
+  "generatedAt": "2026-07-19T13:24:25.172Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Ffeed%2F&y=ipr:134.33.68.243:1784467460.221\"></meta"
     }
   ],
   "items": [
