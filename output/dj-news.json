@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:49:09.491Z",
+  "generatedAt": "2026-07-20T18:01:24.480Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,42 @@
       "excerpt": "Gestado en el sótano del colectivo neoyorquino Corpus, “Alone Together” supone el cuarto disco del trío Show Me The Body... La entrada Alone Together se publicó primero en MondoSonoro ."
     },
     {
+      "id": "01b9801c2134c46ded95d8e08cbde0cef1f34e4d",
+      "title": "Home is at the heart of Hannah Laing’s global success",
+      "link": "https://mixmag.net/feature/hannah-laing-cover-feature-dundee-doof-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_HANNAH_LAIGN_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=DyuZ0uYzE3-rd45Jd0oZpTT5X7yBBUi-VdZuNoyeoBM",
+      "excerpt": "Born to teenaged parents and raised on a working-class housing estate in Dundee, the pathway into an electronic music career wasn’t readily accessible for Hannah Laing. After many years of grind spent flyering club nights while underage …"
+    },
+    {
+      "id": "e6e103b7d2723708af5c91e70a93d2c4a445a840",
+      "title": "The Cover Mix: Hannah Laing",
+      "link": "https://mixmag.net/feature/hannah-laing-mixmag-lab-cover-mix",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_HANNAH_LAING_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=RgI_6rToa5to8z2PDL0wLpIKMegprWB4kZ3To3498-E",
+      "excerpt": "Hannah Laing brings her refreshed take on classic trance and hard house for a riotous Mixmag Lab debut Continue reading..."
+    },
+    {
+      "id": "046e4f2073b6add008acd22591fd917b5e30cf24",
+      "title": "Berlin grants permission for open-air events in Friedrichshain-Kreuzberg",
+      "link": "https://mixmag.net/read/berlin-grants-permission-open-air-events-friedrichshain-kreuzberg-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gleisdreieck.jpg?fit=cover&width=660&s=JFoYHbO99qJn2pQ1UvLf5Z5NHmn62iDeWUxTIFIsAo0",
+      "excerpt": "Gleisdreieck Park will be able to host free-to-attend music events following a campaign backed by Berlin&#039;s Clubcommission Continue reading..."
+    },
+    {
       "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
       "title": "Who's playing The Mixmag Lab?",
       "link": "https://mixmag.net/feature/lab-ldn",
@@ -189,7 +225,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/radial-lead.jpg?fit=cover&width=660&s=pAn_5J4R-XfIH_xnQdncm2vRj6GwTOJELjqU1CX-r50",
-      "excerpt": "The space takes over the former home of both Five Miles and MOKO, hosting live music, performances and cultural events Continue reading..."
+      "excerpt": "The space takes over the former home of both Five Miles and later MOKO, hosting live music, performances and cultural events Continue reading..."
     },
     {
       "id": "894f3c7ecc0c9aadffde71b7c2a52ade6eae8f89",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-grant-walker.jpg?fit=cover&width=660&s=Op3N9Xhx4vHZeXxG6fQMG_lAvcKJqw_omhN_-jVoDuY",
       "excerpt": "An initial run of events will kick off on October 3, boasting some day-to-night artist takeovers Continue reading..."
-    },
-    {
-      "id": "4c271354015f548ae405aa9de77412d71b28e50f",
-      "title": "A festival to fall for: We Love Green 2026 demonstrated the potential of city-based festivals",
-      "link": "https://mixmag.net/feature/we-love-green-paris-festival-review-france-yousuke-yukismatsu-dj-addison-rae",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/We-Love-Green-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6DOeEvkdFa65EWiIN36eWFTcIDLSVG_CnMV6dwZMpBc",
-      "excerpt": "With a line-up spanning pop, experimental, rock and electronic music, there was something for all musical tastes across three days on Bois de Vincennes for the Paris-based festival Continue reading..."
-    },
-    {
-      "id": "70007c4e482b48f8ddf51a2350a8c0cfcd6a7930",
-      "title": "StubHub UK ordered to refund 50,000 customers over hidden fees",
-      "link": "https://mixmag.net/read/stubhub-uk-ordered-to-refund-50-000-customers-over-hidden-fees-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festivals.jpg?fit=cover&width=660&s=3d60TnHYGPDMhq3EqUoloca9s0bcMhg8ZybuGbT2RKo",
-      "excerpt": "The CMA has also issued the secondary ticketing platform with a £900,000 fine after it illegally charged customers Continue reading..."
-    },
-    {
-      "id": "4c03f1ab587b4ef54f9709ade81a5ebe63bba34b",
-      "title": "Ibiza DJ alleged to be \"mastermind\" behind international drug smuggling operation",
-      "link": "https://mixmag.net/read/ibiza-dj-alleged-mastermind-behind-international-drug-smuggling-operation-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Raymond-Petrik.jpg?fit=cover&width=660&s=5R9uMxyuQha6I5bgi5z-bRVCCeC-xrdnIQKjBq75EUw",
-      "excerpt": "Hugo Bianco, who has been declared a &quot;fugitive from justice&quot;, has played at Pacha Ibiza, Unum Festival and 93 Feet East Continue reading..."
     }
   ]
 }
