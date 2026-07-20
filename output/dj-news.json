@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T06:44:19.831Z",
+  "generatedAt": "2026-07-20T10:09:44.544Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "115003a8cc7c0d085d38af07878946672476629a",
+      "title": "Crítica de 'Oh yeah?', el nuevo trabajo de Steve Lacy",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/steve-lacy-oh-yeah/",
+      "published": "2026-07-20T08:30:51.000Z",
+      "publishedTs": 1784536251000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Steve-Lacy-oh-yeah.jpg",
+      "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Crítica de &#039;Oh yeah?&#039;, el nuevo trabajo de Steve Lacy se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5f1216ddc04994acb652196aa6b22dda14c9c791",
       "title": "Optimism",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ShowMeTheBodyCD.jpg",
       "excerpt": "Gestado en el sótano del colectivo neoyorquino Corpus, “Alone Together” supone el cuarto disco del trío Show Me The Body... La entrada Alone Together se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6c74a77e59c8959af703a7d2f2b62df6a35a5f08",
-      "title": "El gran circo de ilusiones",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-infierno-el-gran-circo-de-ilusiones/",
-      "published": "2026-07-09T13:39:32.000Z",
-      "publishedTs": 1783604372000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Chico-Inferno.jpg",
-      "excerpt": "Si hay alguien con entidad sobrada para traducir lo que significa en esencia el mundo del circo, ese es Philip... La entrada El gran circo de ilusiones se publicó primero en MondoSonoro ."
     },
     {
       "id": "9492b56eff3e65a7220984b51764b618aebdc926",
