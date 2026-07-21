@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:07:09.852Z",
+  "generatedAt": "2026-07-21T13:47:16.476Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "4ad268d20e6bfdcee3590e166de0b39eb1604d55",
+      "title": "Ses Dones D´Aigua",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jose-domingo-ses-dones-daigua/",
+      "published": "2026-07-21T11:09:10.000Z",
+      "publishedTs": 1784632150000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Jose-Domingo-Ses-Dones-D-Aigua.jpg",
+      "excerpt": "Desde que inició su carrera en solitario los adjetivos elogiosos han seguido al ex miembro de la banda gerundense de... La entrada Ses Dones D´Aigua se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7ffa1c8ddc3d52129715d3a8028de8b6eb0d9bbe",
       "title": "Different When It’s Silent",
@@ -154,18 +168,28 @@
       "excerpt": "Que The Rolling Stones comiencen \"Foreign Tongues\", su vigesimoquinto disco, con una canción que se llama \"Rough And Twisted\", llena... La entrada Foreign Tongues se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6e74f90acf305f62bf77d50d4fcd5efcfad705c3",
-      "title": "Frozen Charlotte",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jack-white-frozen-charlotte/",
-      "published": "2026-07-14T15:06:09.000Z",
-      "publishedTs": 1784041569000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/jack-white-frozen-charlotte.jpg",
-      "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Frozen Charlotte se publicó primero en MondoSonoro ."
+      "id": "c5dbecf7ed258aa924bb5558486530cf89e9d1cb",
+      "title": "New 1,300-capacity nightclub launches in Palma, Mallorca",
+      "link": "https://mixmag.net/read/new-1300-capacity-nightclub-launched-palma-mallorca-fitz-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-Mallorca.jpg?fit=cover&width=660&s=XsXUTy1GO8jq9e96uav-5QhwNUSZWJR6ohzFEkcRkqI",
+      "excerpt": "FITZ Mallorca takes over the former home of Tito’s, a famed venue once visited by Frank Sinatra, Grace Kelly and Ray Charles Continue reading..."
+    },
+    {
+      "id": "e7f8318d3442bd4c1355c4a99e72f0acc36ce74a",
+      "title": "Rusko \"calls it a day\" on music, citing mental health issues",
+      "link": "https://mixmag.net/read/rusko-announces-indefinite-hiatus-music-mental-health-issues-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rusko-1_2026-07-21-100137_yeuc.jpg?fit=cover&width=660&s=RxBqXkTq98atN9axjZbynp5XA416BnZxc1Dj3qy6irs",
+      "excerpt": "The Leeds-hailing dubstep pioneer said that he has reached &quot;breakdown point&quot; and must now look for &quot;healing and recovery&quot; Continue reading..."
     },
     {
       "id": "23927040c265cabbe4e4f12ffb977ab51aa847d5",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-CVRMIX-WEB-002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=HwJpDQ4ziuSR6LoDFYRlbMmt3rbqOGzn9ylW1wT0bao",
       "excerpt": "Brutalismus 3000 mix their new album &#039;Harmony&#039; into a punchy half-hour set, with a bonus track inside. Continue reading..."
-    },
-    {
-      "id": "ea8a62979f2bcde02ef761235f97cb8416b99497",
-      "title": "The Mix 112: Jump Source",
-      "link": "https://mixmag.net/feature/the-mix-112-dj-jump-source-patrick-holland-priori-montreal-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JumpSource2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PeP6oHK1xc9b6MztM1q1bumb7jSbmH2gt-hu8TOS-_8",
-      "excerpt": "Montreal duo Jump Source, AKA Patrick Holland and Priori, go one-for-one across an unruly three-hour mix and speak to Sophie McNulty about progressing their songwriting, subversive pop and their debut album &#039;Fold&#039; Continue read…"
-    },
-    {
-      "id": "551dd9a1ec3a8dae6952847d5ada39dca4171790",
-      "title": "Influential producer and music mogul Clive Davis has died aged 94",
-      "link": "https://mixmag.net/read/influential-producer-music-mogul-clive-davis-died-aged-94-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clive-davis-credit-Christopher-Peterson.jpg?fit=cover&width=660&s=jV6F5wvfBjQQH1Fr3uRl2QPU9XkxfcqMjInzPV_m-uU",
-      "excerpt": "He’s credited with &quot;changing the lives&quot; of musicians including Bruce Springsteen, Alicia Keys and many more Continue reading..."
     }
   ]
 }
