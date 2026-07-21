@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:26:49.940Z",
+  "generatedAt": "2026-07-21T11:07:09.852Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,48 @@
     }
   ],
   "items": [
+    {
+      "id": "7ffa1c8ddc3d52129715d3a8028de8b6eb0d9bbe",
+      "title": "Different When It’s Silent",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tricky-different-when-its-silent/",
+      "published": "2026-07-21T10:50:14.000Z",
+      "publishedTs": 1784631014000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Tricky-Different-When-Its-Silent.jpg",
+      "excerpt": "La imagen artística de Tricky ha ido mutando con el paso de los años (y las décadas), pasando de icono... La entrada Different When It’s Silent se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1534b3d1dd7c739b08aa64f26d4122a6fe3a9093",
+      "title": "lgs",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/vinuetto-lgs/",
+      "published": "2026-07-21T10:22:35.000Z",
+      "publishedTs": 1784629355000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/vinuetto-lgs-1.jpg",
+      "excerpt": "vinuetto –con la v en minúscula– es el alias del músico Pablo Vinuesa (TENTUDÍA, Sr. Chinarro), también un habitual del... La entrada lgs se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "82f7e1d29ceaf7c1edb19d55ec626a2d86dfc4c6",
+      "title": "Crítica de 'You're Gonna Need A Little Music', lo nuevo de Yard Act",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/yard-act-youre-gonna-need-a-little-music/",
+      "published": "2026-07-21T08:47:48.000Z",
+      "publishedTs": 1784623668000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Yard-Act-You-re-Gonna-Need-A-Little-Music.jpg",
+      "excerpt": "Con su segundo álbum, los de Leeds apostaron por un trabajo intensivo de producción para conseguir un sonido más sofisticado... La entrada Crítica de &#039;You&#039;re Gonna Need A Little Music&#039;, lo nuevo de Yard Act se publicó prim…"
+    },
     {
       "id": "115003a8cc7c0d085d38af07878946672476629a",
       "title": "Crítica de 'Oh yeah?', el nuevo trabajo de Steve Lacy",
@@ -126,46 +168,16 @@
       "excerpt": "“No name” (24), el anterior trabajo de Jack White, puso a casi todo el mundo de acuerdo: Era un disco que... La entrada Frozen Charlotte se publicó primero en MondoSonoro ."
     },
     {
-      "id": "769a8daefdfc382187fa696745a3d3e60f150457",
-      "title": "Fragile World",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-veils-fragile-world/",
-      "published": "2026-07-14T08:14:50.000Z",
-      "publishedTs": 1784016890000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Veils-Fragile-World.jpg",
-      "excerpt": "Mucho ha cambiado, con el paso de los años, el enfoque artístico de Finn Andrews al frente de sus The... La entrada Fragile World se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4c5e5052533b642af464f9650de72e25d9196f07",
-      "title": "Visitor",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sienna-spiro-visitor/",
-      "published": "2026-07-12T13:17:42.000Z",
-      "publishedTs": 1783862262000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/sienna-spiro-visitor.jpg",
-      "excerpt": "Reconozcámoslo abiertamente: los cuentos protagonizados por fantasmas nos gustan tanto como los que acaban con un final feliz. Pero, si... La entrada Visitor se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "b6647a80f323c11e60aea4c40e3fe482f85ee5c7",
-      "title": "Alone Together",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/alone-together-show-me-the-body/",
-      "published": "2026-07-10T10:54:18.000Z",
-      "publishedTs": 1783680858000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/ShowMeTheBodyCD.jpg",
-      "excerpt": "Gestado en el sótano del colectivo neoyorquino Corpus, “Alone Together” supone el cuarto disco del trío Show Me The Body... La entrada Alone Together se publicó primero en MondoSonoro ."
+      "id": "23927040c265cabbe4e4f12ffb977ab51aa847d5",
+      "title": "Apple Music hikes subscription fees following “rising licence costs”",
+      "link": "https://mixmag.net/read/apple-music-hikes-subscription-fees-rising-licence-costs-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music_2026-07-21-103840_pxen.jpg?fit=cover&width=660&s=3KitjlPP-BKK7T5o48-E-m8JxpLdLchhCEQGD5eHAjY",
+      "excerpt": "It marks the second price hike in Apple Music&#039;s 11-year history Continue reading..."
     },
     {
       "id": "01b9801c2134c46ded95d8e08cbde0cef1f34e4d",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clive-davis-credit-Christopher-Peterson.jpg?fit=cover&width=660&s=jV6F5wvfBjQQH1Fr3uRl2QPU9XkxfcqMjInzPV_m-uU",
       "excerpt": "He’s credited with &quot;changing the lives&quot; of musicians including Bruce Springsteen, Alicia Keys and many more Continue reading..."
-    },
-    {
-      "id": "2696b2d3d03e95f4f3717d7bf270a561c8358c89",
-      "title": "New East London warehouse venue Ironworks reveals opening line-ups",
-      "link": "https://mixmag.net/read/new-east-london-warehouse-venue-ironworks-reveals-opening-line-ups-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-grant-walker.jpg?fit=cover&width=660&s=Op3N9Xhx4vHZeXxG6fQMG_lAvcKJqw_omhN_-jVoDuY",
-      "excerpt": "An initial run of events will kick off on October 3, boasting some day-to-night artist takeovers Continue reading..."
     }
   ]
 }
