@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T05:49:16.255Z",
+  "generatedAt": "2026-07-22T08:27:23.653Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "3c2477af9fc3c9a132542f1fdde138398a2aa09f",
+      "title": "Crítica de 'Caribenya', el nuevo trabajo de Lido Pimienta",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lido-pimienta-caribenya/",
+      "published": "2026-07-22T03:13:26.000Z",
+      "publishedTs": 1784690006000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/LIDO-PIMIENTA-Caribenya.jpg",
+      "excerpt": "Existe una tendencia a identificar la ambición musical con la complejidad. Como si un artista solo pudiera avanzar añadiendo nuevas... La entrada Crítica de &#039;Caribenya&#039;, el nuevo trabajo de Lido Pimienta se publicó primero en M…"
+    },
     {
       "id": "4ad268d20e6bfdcee3590e166de0b39eb1604d55",
       "title": "Ses Dones D´Aigua",
@@ -85,7 +99,7 @@
     },
     {
       "id": "115003a8cc7c0d085d38af07878946672476629a",
-      "title": "Crítica de 'Oh yeah?', el nuevo trabajo de Steve Lacy",
+      "title": "Oh yeah?",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/steve-lacy-oh-yeah/",
       "published": "2026-07-20T08:30:51.000Z",
       "publishedTs": 1784536251000,
@@ -95,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Steve-Lacy-oh-yeah.jpg",
-      "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Crítica de &#039;Oh yeah?&#039;, el nuevo trabajo de Steve Lacy se publicó primero en MondoSonoro ."
+      "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Oh yeah? se publicó primero en MondoSonoro ."
     },
     {
       "id": "5f1216ddc04994acb652196aa6b22dda14c9c791",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Kelela-new-avatar.jpg",
       "excerpt": "En una reciente entrevista con un medio británico Kelela aseguraba que el RnB es uno de los géneros más expansivos... La entrada new avatar se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8f4af2addc437253c48334f3fbd1a9dcb2bfaa9f",
-      "title": "Foreign Tongues",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-rolling-stones-foreign-tongues/",
-      "published": "2026-07-14T15:47:39.000Z",
-      "publishedTs": 1784044059000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Rolling-Stones-Foreign-Tongues.jpg",
-      "excerpt": "Que The Rolling Stones comiencen \"Foreign Tongues\", su vigesimoquinto disco, con una canción que se llama \"Rough And Twisted\", llena... La entrada Foreign Tongues se publicó primero en MondoSonoro ."
     },
     {
       "id": "c5dbecf7ed258aa924bb5558486530cf89e9d1cb",
