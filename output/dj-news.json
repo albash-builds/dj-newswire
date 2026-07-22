@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T08:27:23.653Z",
+  "generatedAt": "2026-07-22T11:08:46.091Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "a7f0289fe65e611797dc9f2d0fd9c491f351f775",
+      "title": "Hypersensible",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/yasminna-hypersensible/",
+      "published": "2026-07-22T08:47:20.000Z",
+      "publishedTs": 1784710040000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/YASMiNNA-Hypersensible.jpg",
+      "excerpt": "Hasta ahora YASMiNNA se la identificaba, sobre todo, por su faceta de actriz (bajo el apelativo de Jenna Yasmina Thiam,... La entrada Hypersensible se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "06b288a9331db0617171d447466b936d8efd4c8e",
+      "title": "Reseñamos 'Daughter from hell' el esperado trabajo de Gracie Abrams",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/gracie-abrams-daughter-from-hell/",
+      "published": "2026-07-22T05:29:21.000Z",
+      "publishedTs": 1784698161000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/GRACIE-ABRAMS-Daughter-from-hell.jpg",
+      "excerpt": "Hay artistas que parecen condenados a tener que demostrar algo cada vez que abren la boca. Que si el apellido,... La entrada Reseñamos &#039;Daughter from hell&#039; el esperado trabajo de Gracie Abrams se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3c2477af9fc3c9a132542f1fdde138398a2aa09f",
       "title": "Crítica de 'Caribenya', el nuevo trabajo de Lido Pimienta",
@@ -85,7 +113,7 @@
     },
     {
       "id": "82f7e1d29ceaf7c1edb19d55ec626a2d86dfc4c6",
-      "title": "Crítica de 'You're Gonna Need A Little Music', lo nuevo de Yard Act",
+      "title": "You're Gonna Need A Little Music",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/yard-act-youre-gonna-need-a-little-music/",
       "published": "2026-07-21T08:47:48.000Z",
       "publishedTs": 1784623668000,
@@ -95,7 +123,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Yard-Act-You-re-Gonna-Need-A-Little-Music.jpg",
-      "excerpt": "Con su segundo álbum, los de Leeds apostaron por un trabajo intensivo de producción para conseguir un sonido más sofisticado... La entrada Crítica de &#039;You&#039;re Gonna Need A Little Music&#039;, lo nuevo de Yard Act se publicó prim…"
+      "excerpt": "Con su segundo álbum, los de Leeds apostaron por un trabajo intensivo de producción para conseguir un sonido más sofisticado... La entrada You&#039;re Gonna Need A Little Music se publicó primero en MondoSonoro ."
     },
     {
       "id": "115003a8cc7c0d085d38af07878946672476629a",
@@ -140,32 +168,16 @@
       "excerpt": "Hay proyectos que nacen de la necesidad y proyectos que nacen de la conversación. Vuelve Ferralla pertenece a la segunda... La entrada Txirenadas Vol.I se publicó primero en MondoSonoro ."
     },
     {
-      "id": "dfa837eb91a034e99aacf55b1861fde385e75afe",
-      "title": "Biziraun",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ziraun-biziraun/",
-      "published": "2026-07-16T22:34:00.000Z",
-      "publishedTs": 1784241240000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Ziraun.jpg",
-      "excerpt": "Ziraun taldearen “Biziraun” diskoa ez da soilik bigarren lan baten baieztapena; taldearen eboluzioaren eta bizitako prozesuaren isla zuzena ere bada.... La entrada Biziraun se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4a21fa84528afd75cc700416a4a45dccb400f2ad",
-      "title": "new avatar",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kelela-new-avatar/",
-      "published": "2026-07-15T07:40:23.000Z",
-      "publishedTs": 1784101223000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Kelela-new-avatar.jpg",
-      "excerpt": "En una reciente entrevista con un medio británico Kelela aseguraba que el RnB es uno de los géneros más expansivos... La entrada new avatar se publicó primero en MondoSonoro ."
+      "id": "80472917ed3dd0fae097a6af36ab4184e3e2b7e5",
+      "title": "30 is the age people stop standing at gigs, new study claims",
+      "link": "https://mixmag.net/read/30-age-people-stop-standing-gigs-study-concerts-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/concert-standing.jpg?fit=cover&width=660&s=UTq_TVPcn9qRzRlDLPkAm_B2Z3LQRE-fwhXACMzrvd4",
+      "excerpt": "The study found that men often prefer the comfort of seating from an earlier age than women Continue reading..."
     },
     {
       "id": "c5dbecf7ed258aa924bb5558486530cf89e9d1cb",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-WEB-001.1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JhqnMcddbWRPX9l0iBw5RuAESJ-lPMS1kCQpO-wUMnM",
       "excerpt": "On their second album &#039;Harmony&#039;, Brutalismus 3000 stretch their ferocious sound even further, expanding from gabber-techno-punk hybrids to experiment with styles like hyperpop, nu-metal and trap. From this turbulent mix, they’v…"
-    },
-    {
-      "id": "7fb3c5593a8353344bdab8098c2e66fa0e143ed3",
-      "title": "The Cover Mix: Brutalismus 3000",
-      "link": "https://mixmag.net/feature/brutalismus-3000-the-cover-mix-harmony",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-CVRMIX-WEB-002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=HwJpDQ4ziuSR6LoDFYRlbMmt3rbqOGzn9ylW1wT0bao",
-      "excerpt": "Brutalismus 3000 mix their new album &#039;Harmony&#039; into a punchy half-hour set, with a bonus track inside. Continue reading..."
     }
   ]
 }
