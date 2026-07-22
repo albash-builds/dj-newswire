@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:08:46.091Z",
+  "generatedAt": "2026-07-22T13:50:48.388Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Vuelve-ferralla.jpg",
       "excerpt": "Hay proyectos que nacen de la necesidad y proyectos que nacen de la conversación. Vuelve Ferralla pertenece a la segunda... La entrada Txirenadas Vol.I se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "24b0bc28a98c98d1154b27b1b527b5cb54f7f33c",
+      "title": "Watch Novelist, Becky Hill and Niko B offer up their Cornershop Confessions with ZYN",
+      "link": "https://mixmag.net/feature/watch-novelist-offer-up-his-cornershop-confessions-with-zyn",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/zyn-final.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=SDJz36edZUajMv927JjTp2buS7S4SDZj3-PXUF_5rpg",
+      "excerpt": "The UK musicians gave some an unexpected confessionals over the counter at ZYN’s newly fashioned cornershop, where People Just Do Nothing’s Asim Chaudhry plays bossman Continue reading..."
+    },
+    {
+      "id": "0f7194280bbc606016b32f5190a1809178910376",
+      "title": "Grassroots venues, promoters and artists in the UK can now apply for the Liveline Fund",
+      "link": "https://mixmag.net/read/grassroots-venues-promoters-artists-uk-apply-liveline-fund-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-credit-neosiam.jpg?fit=cover&width=660&s=TTR914QSHOh3dN4CisfX40oXFm1SsNL5dK6olrCtUfY",
+      "excerpt": "Launched by organisations MVT, SOS and AIP, the new initiative will support live shows, touring musicians, regular venue programmes and more Continue reading..."
+    },
+    {
+      "id": "bda0bdda52cf3c1e1908d79fca0adcd7e865f405",
+      "title": "Britain's \"oldest nightclub\" launches blue plaque campaign",
+      "link": "https://mixmag.net/read/britains-oldest-nightclub-launches-blue-plaque-campaign-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/acapulco.jpg?fit=cover&width=660&s=UO02sgGbgy9TLaduspMtLC1iwkP6J5nHdtRTj7ridFE",
+      "excerpt": "Halifax&#039;s Acapulco, known locally as &quot;The Mighty Acca&quot;, has operated as a nightclub for some 65 years Continue reading..."
     },
     {
       "id": "80472917ed3dd0fae097a6af36ab4184e3e2b7e5",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boardmasters-credit-will-bailey.jpg?fit=cover&width=660&s=Ve11kxD5c-wljokSgFOe3ihQqHMQwJexXyAshxv2Nuw",
       "excerpt": "The festival’s director spoke about issues faced over the years, including a crowd crush and local disturbances Continue reading..."
-    },
-    {
-      "id": "2b51290bdaf184bb1ae7344acdcea18b4809b497",
-      "title": "Murder investigation launched after 26-year-old dies at Derbyshire free party",
-      "link": "https://mixmag.net/read/murder-investigation-launched-after-26-year-old-dies-at-derbyshire-free-party-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/free-party-murder.jpg?fit=cover&width=660&s=dAJmxh7Z0IDGqlHG-zpLoGkfms9VSHV8BkZnhRxHQiA",
-      "excerpt": "The Nottingham man was discovered at the site of a summer solstice event on Monday Continue reading..."
-    },
-    {
-      "id": "4c8dd6e7590008d1d8bc9d52e4a05cc6888d908e",
-      "title": "DJ livestream platform Cercle cancels Mexico festival, calls for financial support",
-      "link": "https://mixmag.net/read/dj-livestream-platform-cercle-cancels-mexico-festival-calls-for-financial-support-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cercle-festival.jpg?fit=cover&width=660&s=emlajKYugxilpQ28i8P8jm_bENK45Z-QGsqVl-AQwzU",
-      "excerpt": "Cercle revealed that it’s currently “in danger”, 10 years after it first launched Continue reading..."
-    },
-    {
-      "id": "ea8161079d9931eb662543ca5857cd4275fd8a9c",
-      "title": "How Brutalismus 3000 found harmony in chaos",
-      "link": "https://mixmag.net/feature/brutalismus-3000-interview-cover-feature-harmony",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM-BK3-WEB-001.1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JhqnMcddbWRPX9l0iBw5RuAESJ-lPMS1kCQpO-wUMnM",
-      "excerpt": "On their second album &#039;Harmony&#039;, Brutalismus 3000 stretch their ferocious sound even further, expanding from gabber-techno-punk hybrids to experiment with styles like hyperpop, nu-metal and trap. From this turbulent mix, they’v…"
     }
   ]
 }
