@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T13:50:48.388Z",
+  "generatedAt": "2026-07-22T15:41:19.249Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Vuelve-ferralla.jpg",
       "excerpt": "Hay proyectos que nacen de la necesidad y proyectos que nacen de la conversación. Vuelve Ferralla pertenece a la segunda... La entrada Txirenadas Vol.I se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "cc01d65e3bf8eab56b74f84c9bfeae8297c9d1aa",
+      "title": "The Mix 116: Marsolo",
+      "link": "https://mixmag.net/feature/the-mix-116-marsolo-dj-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Marsolo2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sdtp_xyuMUqyKZfBG6eCRLFUJncY7L8vuPqt2UjO9IM",
+      "excerpt": "Marsolo shares a deep and driving mix and speaks to Chris Cahillane about his entry into electronic music, the “surreal” crowd reactions he’s quickly earned, and maturing as a producer Continue reading..."
+    },
+    {
+      "id": "e76789e693ce6d2f7951c3be48dd7451f0f34f96",
+      "title": "Biopic charting Snoop Dogg's life to hit cinemas next summer",
+      "link": "https://mixmag.net/read/biopic-snoop-dogg-life-cineams-summer-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Snoop-dogg_2026-07-22-142420_rafm.jpg?fit=cover&width=660&s=pE2Dl5dgloij_rTynXeNiZsbE7-5SCKQvFqUGY8wCjg",
+      "excerpt": "&#039;Snoop&#039; will follow the rise of the &quot;artist, mogul and gangsta rap icon that we know as Snoop Dogg&quot; Continue reading..."
     },
     {
       "id": "24b0bc28a98c98d1154b27b1b527b5cb54f7f33c",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/houghton-credit-jake-davis.jpg?fit=cover&width=660&s=Pywe0HqDlz29yrCuF5k0BdZN6oTZs21619MW05AlRR0",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "01cbd2857fe2a624b333bac8ebef4a2bb7f77937",
-      "title": "Glastonbury's San Remo and Block9 share set recordings on fallow year weekend",
-      "link": "https://mixmag.net/read/glastonbury-san-remo-block9-2025-set-recordings-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Block-9-9.jpg?fit=cover&width=660&s=oLM3s1y2OYRJl9hPGtfUhnKw7ZbsQC_pGmmmJBDpZlE",
-      "excerpt": "The Somerset festival is taking a break for 2026 to help Worthy Farm recover Continue reading..."
-    },
-    {
-      "id": "fa3d8e23c2c8efe812e93e747333fa09f1d372a1",
-      "title": "Boardmasters pledges to be a “better neighbour” following local disputes",
-      "link": "https://mixmag.net/read/boardmasters-pledges-better-neighbour-local-disputes-issues-cornwall-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boardmasters-credit-will-bailey.jpg?fit=cover&width=660&s=Ve11kxD5c-wljokSgFOe3ihQqHMQwJexXyAshxv2Nuw",
-      "excerpt": "The festival’s director spoke about issues faced over the years, including a crowd crush and local disturbances Continue reading..."
     }
   ]
 }
