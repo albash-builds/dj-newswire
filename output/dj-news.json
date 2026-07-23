@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T13:55:48.207Z",
+  "generatedAt": "2026-07-23T15:55:14.063Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "6c01cf9c6730e3d54de14c36a86973d8a6729f53",
+      "title": "Sungazer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-temper-trap-sungazer/",
+      "published": "2026-07-23T14:43:20.000Z",
+      "publishedTs": 1784817800000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Temper-Trap-Sungazer-.jpg",
+      "excerpt": "Que The Temper Trap han sido siempre una banda justita de recorrido es más una evidencia que un reproche. Por... La entrada Sungazer se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a0fe66d47e699a3b4e0e830db66866f2a6417f6a",
       "title": "The Ground Above",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Yard-Act-You-re-Gonna-Need-A-Little-Music.jpg",
       "excerpt": "Con su segundo álbum, los de Leeds apostaron por un trabajo intensivo de producción para conseguir un sonido más sofisticado... La entrada You&#039;re Gonna Need A Little Music se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "115003a8cc7c0d085d38af07878946672476629a",
-      "title": "Oh yeah?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/steve-lacy-oh-yeah/",
-      "published": "2026-07-20T08:30:51.000Z",
-      "publishedTs": 1784536251000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Steve-Lacy-oh-yeah.jpg",
-      "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Oh yeah? se publicó primero en MondoSonoro ."
     },
     {
       "id": "1624f586a34515274ede2b6748ee3cd3537794d3",
