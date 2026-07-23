@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:28:20.404Z",
+  "generatedAt": "2026-07-23T11:08:34.431Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "a0fe66d47e699a3b4e0e830db66866f2a6417f6a",
+      "title": "The Ground Above",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/beth-orton-the-ground-above/",
+      "published": "2026-07-23T08:41:50.000Z",
+      "publishedTs": 1784796110000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
+      "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c7d92631127790139c3061d42cfb4ae21b17d595",
       "title": "The Story of Michael and Tanya",
@@ -154,18 +168,28 @@
       "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Oh yeah? se publicó primero en MondoSonoro ."
     },
     {
-      "id": "5f1216ddc04994acb652196aa6b22dda14c9c791",
-      "title": "Optimism",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/digitalism-optimism/",
-      "published": "2026-07-17T10:28:23.000Z",
-      "publishedTs": 1784284103000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Digitalism-Optimism.jpg",
-      "excerpt": "Convertirte casi al instante en símbolo de modernidad conlleva unos riesgos tan evidentes como inevitables. Digitalism consensuaron el logro en... La entrada Optimism se publicó primero en MondoSonoro ."
+      "id": "62f4d04bfb964da12f1d33b36efc4e1ccf16ff62",
+      "title": "Andy Burnham cuts business rates for nightclubs and music venues in England",
+      "link": "https://mixmag.net/read/andy-burnham-cuts-business-rates-nightclubs-music-venues-pubs-england-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightlife-england.jpg?fit=cover&width=660&s=lXWQe0kaBnqTqLReGq-2i21I169D4rnjFgSO8ceOlSk",
+      "excerpt": "Nightlife venues and pubs across the country will receive a 20% cut to their rates next year Continue reading..."
+    },
+    {
+      "id": "a5b1a92377ac44aecdb310cf2abfba02869a51dc",
+      "title": "What went down at Afro Nation’s spirited 2026 edition with Havana Club",
+      "link": "https://mixmag.net/feature/what-went-down-afro-nation-2026-spirited-2026-edition-havana-club",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/havana-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cyBp5SBylJqqud2cNZI6zczamGmjCKr5QeJLaRy1Khs",
+      "excerpt": "We joined the party at Barrio Havana Club, an immersive festival experience bringing the flavours and sounds of Cuba to Portugal’s Afro Nation Continue reading..."
     },
     {
       "id": "cc01d65e3bf8eab56b74f84c9bfeae8297c9d1aa",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest.jpg?fit=cover&width=660&s=7hisfrqvBd3dvPfPxOUSfHa_Ck6E6-HQU_JtnvQrMuU",
       "excerpt": "A police investigation is currently underway, the Michigan festival has confirmed Continue reading..."
-    },
-    {
-      "id": "221f7700d7d24a73b46594faec5c57673857cb2c",
-      "title": "New music on our radar this week: Frost Children, Chloé Caillet, Iglooghost & daisy*",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-frost-children-chlo%C3%A8-caillet-iglooghost-daisy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-radar-june-27-28.jpg?fit=cover&width=660&s=RGyW4ETgjoXqDV7Gv-gP2x8Tl2nWbAMEv7K_H_Ak3d4",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "6305b47ebde2f7fb656be8963907090a268e2fe6",
-      "title": "Festival line-ups you might have missed: Houghton, Green Man, Terminal V Croatia",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-houghton-green-man-terminal-v-croatia-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/houghton-credit-jake-davis.jpg?fit=cover&width=660&s=Pywe0HqDlz29yrCuF5k0BdZN6oTZs21619MW05AlRR0",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
