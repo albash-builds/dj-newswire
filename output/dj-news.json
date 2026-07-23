@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:52:53.899Z",
+  "generatedAt": "2026-07-23T08:28:20.404Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c7d92631127790139c3061d42cfb4ae21b17d595",
+      "title": "The Story of Michael and Tanya",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-war-and-treaty-the-story-of-michael-and-tanya/",
+      "published": "2026-07-23T07:48:35.000Z",
+      "publishedTs": 1784792915000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-War-and-Treaty-The-Story-of-Michael-and-Tanya.jpg",
+      "excerpt": "Como si de un latido persistente se tratase, este proyecto, ya desde su propio nombre, revela una dualidad en su... La entrada The Story of Michael and Tanya se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a7f0289fe65e611797dc9f2d0fd9c491f351f775",
       "title": "Hypersensible",
@@ -57,7 +71,7 @@
     },
     {
       "id": "3c2477af9fc3c9a132542f1fdde138398a2aa09f",
-      "title": "Crítica de 'Caribenya', el nuevo trabajo de Lido Pimienta",
+      "title": "Caribenya",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/lido-pimienta-caribenya/",
       "published": "2026-07-22T03:13:26.000Z",
       "publishedTs": 1784690006000,
@@ -67,11 +81,11 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/LIDO-PIMIENTA-Caribenya.jpg",
-      "excerpt": "Existe una tendencia a identificar la ambición musical con la complejidad. Como si un artista solo pudiera avanzar añadiendo nuevas... La entrada Crítica de &#039;Caribenya&#039;, el nuevo trabajo de Lido Pimienta se publicó primero en M…"
+      "excerpt": "Existe una tendencia a identificar la ambición musical con la complejidad. Como si un artista solo pudiera avanzar añadiendo nuevas... La entrada Caribenya se publicó primero en MondoSonoro ."
     },
     {
       "id": "4ad268d20e6bfdcee3590e166de0b39eb1604d55",
-      "title": "Ses Dones D´Aigua",
+      "title": "Ses dones d´Aigua",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jose-domingo-ses-dones-daigua/",
       "published": "2026-07-21T11:09:10.000Z",
       "publishedTs": 1784632150000,
@@ -81,7 +95,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Jose-Domingo-Ses-Dones-D-Aigua.jpg",
-      "excerpt": "Desde que inició su carrera en solitario los adjetivos elogiosos han seguido al ex miembro de la banda gerundense de... La entrada Ses Dones D´Aigua se publicó primero en MondoSonoro ."
+      "excerpt": "Desde que inició su carrera en solitario los adjetivos elogiosos han seguido al ex miembro de la banda gerundense de... La entrada Ses dones d´Aigua se publicó primero en MondoSonoro ."
     },
     {
       "id": "7ffa1c8ddc3d52129715d3a8028de8b6eb0d9bbe",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Digitalism-Optimism.jpg",
       "excerpt": "Convertirte casi al instante en símbolo de modernidad conlleva unos riesgos tan evidentes como inevitables. Digitalism consensuaron el logro en... La entrada Optimism se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a87d74039416f74f06c47116679deaf555eafb5b",
-      "title": "Txirenadas Vol.I",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/vuelve-ferralla-txirenadas-vol-i/",
-      "published": "2026-07-16T22:42:13.000Z",
-      "publishedTs": 1784241733000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Vuelve-ferralla.jpg",
-      "excerpt": "Hay proyectos que nacen de la necesidad y proyectos que nacen de la conversación. Vuelve Ferralla pertenece a la segunda... La entrada Txirenadas Vol.I se publicó primero en MondoSonoro ."
     },
     {
       "id": "cc01d65e3bf8eab56b74f84c9bfeae8297c9d1aa",
