@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:08:34.431Z",
+  "generatedAt": "2026-07-23T13:55:48.207Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Steve-Lacy-oh-yeah.jpg",
       "excerpt": "Es imposible hablar de \"Oh yeah?\" sin hablar antes de \"Gemini Rights\". Igualar o superar el listón del álbum previo... La entrada Oh yeah? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1624f586a34515274ede2b6748ee3cd3537794d3",
+      "title": "Fatboy Slim invests in Brighton music venue as part of grassroots preservation scheme",
+      "link": "https://mixmag.net/read/fatboy-slim-invests-brighton-music-venue-grassroots-preservation-scheme-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-pipeline.jpg?fit=cover&width=660&s=MDP_iV8HtF1wiIkYcXaZ0OWAAB04KfwKjRNndUGDGps",
+      "excerpt": "The Pipeline has been brought under community ownership as part of the Music Venue Trust&#039;s Own Our Venues scheme Continue reading..."
+    },
+    {
+      "id": "4f1710a9281c59a3561c75e0ba2f1ecb420dc2e8",
+      "title": "Sony Music sues Udio again, claiming infringement of 30,000 tracks to train AI",
+      "link": "https://mixmag.net/read/sony-music-sues-udio-claiming-infringement-30000-tracks-train-ai-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/udio-sony.jpg?fit=cover&width=660&s=matMKB2e6LNrXNC_MBlXfkOKWKF-0PJoS1b9-m1y7KE",
+      "excerpt": "Sony alleges that the AI start-up copied thousands of songs without its permission Continue reading..."
+    },
+    {
+      "id": "a46a2275e51e32f6d664469d3d0628e4af4b9f4e",
+      "title": "SoundCloud acquires independent music platform Nina Protocol",
+      "link": "https://mixmag.net/read/soundcloud-acquires-independent-music-platform-nina-protocol-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundcloud-Nina.jpg?fit=cover&width=660&s=F9cSz4R7FCrSZBpgxrb9vTbLIMlq5A3V2zdOtN4nd9w",
+      "excerpt": "Nina Protocol will now migrate to the streaming service, allowing artists to carry over their followers, music, content, and creative work to the platform Continue reading..."
     },
     {
       "id": "62f4d04bfb964da12f1d33b36efc4e1ccf16ff62",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/defqon-1-netherlands.jpg?fit=cover&width=660&s=jH2RZPqglg9yoLRALHZp9IFNsEpza88pF_ZpAcPXfkI",
       "excerpt": "Both dance music events cited intense 40-degree spells and the Netherlands’ first-ever code red weather alert as reasons for their cancellations Continue reading..."
-    },
-    {
-      "id": "31e772a5b9ef06116ef3ae7666b01f9fbabda60a",
-      "title": "Madonna hints at headlining Glastonbury in 2027",
-      "link": "https://mixmag.net/read/madonna-hints-headlining-glastonbury-festival-2027-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/madonna-glasto.jpg?fit=cover&width=660&s=tXRyG9XHUnmp0Ld1Pe_YEu9LkIJuKDi5pH6ANanlqkw",
-      "excerpt": "In an interview with Graham Norton, she teased something “big” next year Continue reading..."
-    },
-    {
-      "id": "393b209bbc4d2e59d4e995eacbc73b4c1a2313a9",
-      "title": "Immersive Gorillaz exhibition to open in New York this September",
-      "link": "https://mixmag.net/read/immersive-gorillaz-exhibition-open-new-york-house-of-kong-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gorillaz-nyc.jpg?fit=cover&width=660&s=4oizIqHesa5_9grq6-b5qsbmb5Nzo-MyyM-N_I1lbAo",
-      "excerpt": "House Of Kong first debuted in London last year to celebrate the virtual band’s 25th anniversary Continue reading..."
-    },
-    {
-      "id": "c1d5e75b8c7eb37ae373ca224e49349f42b41cf2",
-      "title": "Body of newborn baby found in portaloo at Electric Forest Festival",
-      "link": "https://mixmag.net/read/body-newborn-baby-found-portable-toilet-electric-forest-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/electric-forest.jpg?fit=cover&width=660&s=7hisfrqvBd3dvPfPxOUSfHa_Ck6E6-HQU_JtnvQrMuU",
-      "excerpt": "A police investigation is currently underway, the Michigan festival has confirmed Continue reading..."
     }
   ]
 }
