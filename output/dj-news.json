@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:25:07.606Z",
+  "generatedAt": "2026-07-24T09:20:57.353Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "3fee720daa11e807e0a32f0c7f6898dc68b6ecf1",
+      "title": "Paciencia infinita",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/sandre-paciencia-infinita/",
+      "published": "2026-07-24T07:09:42.000Z",
+      "publishedTs": 1784876982000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Sandre-Paciencia-infinita.jpg",
+      "excerpt": "¡Pim! ¡Pam! ¡Pum! ¿Alguna vez os han pegado una buena hostia sin que os la esperarais? Una bofetada de esas... La entrada Paciencia infinita se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ef7708450b8bd0efac5a2af10fe57b9dc14becda",
+      "title": "Body Transmission",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/maquina-body-transmission/",
+      "published": "2026-07-24T06:49:17.000Z",
+      "publishedTs": 1784875757000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/MAQUINA.-BODY-TRANSMISSION.jpg",
+      "excerpt": "En honor a la verdad, la electrónica lleva décadas haciéndole ojitos al rock (y viceversa). Desde los sesenteros ritmos de... La entrada Body Transmission se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6c01cf9c6730e3d54de14c36a86973d8a6729f53",
       "title": "Sungazer",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Tricky-Different-When-Its-Silent.jpg",
       "excerpt": "La imagen artística de Tricky ha ido mutando con el paso de los años (y las décadas), pasando de icono... La entrada Different When It’s Silent se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1534b3d1dd7c739b08aa64f26d4122a6fe3a9093",
-      "title": "lgs",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/vinuetto-lgs/",
-      "published": "2026-07-21T10:22:35.000Z",
-      "publishedTs": 1784629355000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/vinuetto-lgs-1.jpg",
-      "excerpt": "vinuetto –con la v en minúscula– es el alias del músico Pablo Vinuesa (TENTUDÍA, Sr. Chinarro), también un habitual del... La entrada lgs se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "82f7e1d29ceaf7c1edb19d55ec626a2d86dfc4c6",
-      "title": "You're Gonna Need A Little Music",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/yard-act-youre-gonna-need-a-little-music/",
-      "published": "2026-07-21T08:47:48.000Z",
-      "publishedTs": 1784623668000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Yard-Act-You-re-Gonna-Need-A-Little-Music.jpg",
-      "excerpt": "Con su segundo álbum, los de Leeds apostaron por un trabajo intensivo de producción para conseguir un sonido más sofisticado... La entrada You&#039;re Gonna Need A Little Music se publicó primero en MondoSonoro ."
     },
     {
       "id": "e218076fe85381d0776fb98f61a312c26884c2d6",
