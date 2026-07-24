@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:41:13.932Z",
+  "generatedAt": "2026-07-24T13:43:21.178Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "89f1af6e47e80a5945baebd6d17ded73960abfaa",
+      "title": "Crítica de 'Music, Fashion, Film', el nuevo álbum de Charli xcx",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-music-fashion-film/",
+      "published": "2026-07-24T12:10:39.000Z",
+      "publishedTs": 1784895039000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/charli-xcx-Music-Fashion-Film.jpg",
+      "excerpt": "Hace poco más de dos años el verde inundó nuestras vidas. Un verde intenso, puede que incluso molesto. Un verde... La entrada Crítica de &#039;Music, Fashion, Film&#039;, el nuevo álbum de Charli xcx se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8be8400e6c74b93026ee17052aecf8bf251e79b4",
+      "title": "Hara eta Hemen",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nuzz-hara-eta-hemen/",
+      "published": "2026-07-24T11:43:17.000Z",
+      "publishedTs": 1784893397000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/nuzz.jpg",
+      "excerpt": "Maite dut power trio formatua. Ez dago non ezkutatu, akats bakoitza berehala antzematen da, baita ondo egindako guztia ere. Hiru... La entrada Hara eta Hemen se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7c3c215d6e0c6dc94992496ac971c846ec9dfce9",
       "title": "Nun ibili haz??",
@@ -40,20 +68,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Aterkings.jpg",
       "excerpt": "“Rock’n’Roll” lo sacaron en 2005 y un año después, en 2006, repitieron con “Aterqueens”. Los dos salieron con Gaztelupeko Hotsak.... La entrada Nun ibili haz?? se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aab230c7211a1f13ed919728f2f99bfdee147df1",
-      "title": "Crítica de 'Reality Awaits', el nuevo disco de The Strokes",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-strokes-reality-awaits/",
-      "published": "2026-07-24T10:09:12.000Z",
-      "publishedTs": 1784887752000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Strokes-Reality-Awaits.jpg",
-      "excerpt": "El séptimo disco de los Strokes, \"Reality Awaits\", no es un disco más, aunque pocas veces sus discos lo han... La entrada Crítica de &#039;Reality Awaits&#039;, el nuevo disco de The Strokes se publicó primero en MondoSonoro ."
     },
     {
       "id": "3fee720daa11e807e0a32f0c7f6898dc68b6ecf1",
@@ -82,6 +96,20 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/MAQUINA.-BODY-TRANSMISSION.jpg",
       "excerpt": "En honor a la verdad, la electrónica lleva décadas haciéndole ojitos al rock (y viceversa). Desde los sesenteros ritmos de... La entrada Body Transmission se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "aab230c7211a1f13ed919728f2f99bfdee147df1",
+      "title": "Crítica de 'Reality Awaits', el nuevo disco de The Strokes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-strokes-reality-awaits/",
+      "published": "2026-07-24T05:09:12.000Z",
+      "publishedTs": 1784869752000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Strokes-Reality-Awaits.jpg",
+      "excerpt": "El séptimo disco de los Strokes, \"Reality Awaits\", no es un disco más, aunque pocas veces sus discos lo han... La entrada Crítica de &#039;Reality Awaits&#039;, el nuevo disco de The Strokes se publicó primero en MondoSonoro ."
     },
     {
       "id": "6c01cf9c6730e3d54de14c36a86973d8a6729f53",
@@ -140,32 +168,28 @@
       "excerpt": "Hasta ahora YASMiNNA se la identificaba, sobre todo, por su faceta de actriz (bajo el apelativo de Jenna Yasmina Thiam,... La entrada Hypersensible se publicó primero en MondoSonoro ."
     },
     {
-      "id": "06b288a9331db0617171d447466b936d8efd4c8e",
-      "title": "Daughter from hell",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gracie-abrams-daughter-from-hell/",
-      "published": "2026-07-22T05:29:21.000Z",
-      "publishedTs": 1784698161000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/GRACIE-ABRAMS-Daughter-from-hell.jpg",
-      "excerpt": "Hay artistas que parecen condenados a tener que demostrar algo cada vez que abren la boca. Que si el apellido,... La entrada Daughter from hell se publicó primero en MondoSonoro ."
+      "id": "db50bc1d6968de8d422e97c71762b07887858996",
+      "title": "Moscow’s Outline Festival cancelled, cites threat of Ukrainian drone strikes",
+      "link": "https://mixmag.net/read/moscow-outline-festival-cancelled-cites-threat-drone-strikes-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/outline-festival-moscow.jpg?fit=cover&width=660&s=KXVWbYDhUsjz3tWxa9vFB5P4CmWosOJaoouAwogmADc",
+      "excerpt": "Organisers confirmed the festival&#039;s cancellation the same day its gates opened earlier this week Continue reading..."
     },
     {
-      "id": "3c2477af9fc3c9a132542f1fdde138398a2aa09f",
-      "title": "Caribenya",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lido-pimienta-caribenya/",
-      "published": "2026-07-22T03:13:26.000Z",
-      "publishedTs": 1784690006000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/LIDO-PIMIENTA-Caribenya.jpg",
-      "excerpt": "Existe una tendencia a identificar la ambición musical con la complejidad. Como si un artista solo pudiera avanzar añadiendo nuevas... La entrada Caribenya se publicó primero en MondoSonoro ."
+      "id": "12e9a4ca030a652ad180770a854c550eb68189c7",
+      "title": "Tomorrowland must limit pyrotechnics and fireworks for weekend two",
+      "link": "https://mixmag.net/read/tomorrowland-limitations-pyrotechnics-fireworks-weekend-two-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tomorrowland_2026-07-24-115350_agcx.jpg?fit=cover&width=660&s=Out9Erseomg9TGB2Q7Eq0yofEth6YUo5_3h2YCDFRzg",
+      "excerpt": "The limitations follow an outright ban on the devices for the festival&#039;s first weekend amid wildfire warnings close to its site in Boom, Belgium Continue reading..."
     },
     {
       "id": "a052e7f57c2527e85255bebf806ff2f5f3a65725",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warehouse-project-26.jpg?fit=cover&width=660&s=jOvi3anLYxmc8mH1cFBrNr7ivDtJqoYYzFTZKrBn7jI",
       "excerpt": "WHP26 kicks off in September, celebrating two decades of quality electronic music in Manchester Continue reading..."
-    },
-    {
-      "id": "f1a9b516d8a194e1b4e50bf790269d60b4d44528",
-      "title": "Being a DJ is the number one dream job in New Zealand, study finds",
-      "link": "https://mixmag.net/read/dj-number-one-dream-job-new-zealand-study-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-new-zealand.jpg?fit=cover&width=660&s=sOwA6UaVQQkiUIbM_V5jFQBrD1TIyBmTEvWbiGbn_0Y",
-      "excerpt": "It ranks above jobs like acting, writing, or becoming a CEO, according to new research Continue reading..."
-    },
-    {
-      "id": "9361332ed46998b76fab906d7b50693a56ca0cc7",
-      "title": "The Mix 113: Debit",
-      "link": "https://mixmag.net/feature/the-mix-113-dj-debit-interview-potpourri-naafi",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Debit2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AO6nJFImZMb87n3jpxBPG51XWTEFB0WjG0kztOs7hqU",
-      "excerpt": "Debit shares an energetic mix she&#039;s titling &#039;Handling Polyrhythms Without a Jog Wheel: Time Doesn’t Exist&#039; and speaks to Martyn Pepperell about how much the creative landscape has shifted through her career, learning to ac…"
     }
   ]
 }
