@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T21:58:26.814Z",
+  "generatedAt": "2026-07-26T23:03:32.476Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/YASMiNNA-Hypersensible.jpg",
       "excerpt": "Hasta ahora YASMiNNA se la identificaba, sobre todo, por su faceta de actriz (bajo el apelativo de Jenna Yasmina Thiam,... La entrada Hypersensible se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "aa36e2b7af32393b82fb635d95310ad6e63011d0",
+      "title": "Festival line-ups you might have missed: MIRROR WORLD, Fort X, Snowbombing",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-mirror-world-fort-x-snowbombing-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/20240411151345_THURSDAY_RUDIMENTAL_MOUNTAINTOP-BRUNCH_CF_SB24_CF1_5826-1.jpg?fit=cover&width=660&s=y9UCwV-GZUa9frfVbaK6vx_W0B_Fxo14mHJv2dVG9g4",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "e98f82a70dcebf13995d468b8c917172e46d91ee",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wigflex-peep.jpg?fit=cover&width=660&s=FfAWYw6fraytWrmrZ7VIFKYdLA2hI9XZSNJwEFFJGxk",
       "excerpt": "An article was published online at the weekend with alleged details of &quot;psychological abuse, coercive and controlling behaviour, physical abuse, intimidation and threats&quot; Continue reading..."
-    },
-    {
-      "id": "eea9f44afda70a2ef1a9e75cb823dd8d8deb5a9b",
-      "title": "Inside the new 8,500-capacity Berlin club and music venue, FOUND",
-      "link": "https://mixmag.net/feature/found-berlin-inside-photos-nightclub-berlin-venue",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FOUND-BERLIN.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=zVufwHFJM5qwB22Wzi-CkWomvgMxndRgRCNfnonigrI",
-      "excerpt": "The Tempelhof-Schöneberg venue, which was occupied by KitKatClub from 2001 to 2004, opened last weekend with a marathon party from Watergate Continue reading..."
     }
   ]
 }
