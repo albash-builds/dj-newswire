@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:52:09.564Z",
+  "generatedAt": "2026-07-28T15:20:02.629Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-War-and-Treaty-The-Story-of-Michael-and-Tanya.jpg",
       "excerpt": "Como si de un latido persistente se tratase, este proyecto, ya desde su propio nombre, revela una dualidad en su... La entrada The Story of Michael and Tanya se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f8a12db4117527b3585f372544ac049976ac4ca1",
+      "title": "Pioneering US synthesist Patrick Gleeson has died aged 91",
+      "link": "https://mixmag.net/read/pioneering-synthesist-patrick-gleeson-died-aged-91-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Patrick-Gleeson.jpg?fit=cover&width=660&s=n_eULHjyd8va2sit-8-u1wVEliBNoo4OCnDLLU5e6Hw",
+      "excerpt": "The GRAMMY-nominated musician is known for his collaborations with Herbie Hancock, Brian Eno and David Byrne, and helped to produce the score for Apocalypse Now Continue reading..."
+    },
+    {
+      "id": "8f8d113c10bd89638d38ce3a54c9894aa7de9839",
+      "title": "The London Museum is searching for DJs to soundtrack new late-night event series",
+      "link": "https://mixmag.net/read/london-museum-searching-djs-soundtrack-new-late-night-event-series-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/London-Museum.jpg?fit=cover&width=660&s=ATLnLsC0O-6GJZs6h7pHlUV0PkuzNA7ow4GvMIMG7Dk",
+      "excerpt": "12 burgeoning selectors will be chosen to join the museums&#039;s Sound of London collective at its new space in Smithfield, Farringdon Continue reading..."
     },
     {
       "id": "65555cfb06624169170efe71f909391b894f8a00",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-tech.jpg?fit=cover&width=660&s=ktQ3h3y0PYEmYP0MLmNwXjcHCcbe3HSvtAy8IogKXlk",
       "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
-    },
-    {
-      "id": "aea6ea30d065b4e78632b6cab678807487bbfc3a",
-      "title": "Watch the first trailer for HBO's Burning Man documentary series",
-      "link": "https://mixmag.net/read/watch-the-first-trailer-for-hbos-burning-man-documentary-series-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burning-Man_2026-07-03-125502_gamu.jpg?fit=cover&width=660&s=KtUu2TWYBSnQwZuMSc2B-w7vaEMSqFlr-HBfH0sPiLc",
-      "excerpt": "The Man Will Burn promises to offer an &quot;intimate&quot; look at the yearly Black Rock Desert event Continue reading..."
-    },
-    {
-      "id": "19d635745a4be18db7f8a4330defd82a57ce44d3",
-      "title": "Village People frontman Victor Willis has died aged 74",
-      "link": "https://mixmag.net/read/village-people-frontman-victor-willis-died-aged-74-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/victor-willis.jpg?fit=cover&width=660&s=bLNc-XDBBd9STOpamDmg9oaue6zzb2M6rI-qsTqnXqE",
-      "excerpt": "The disco group confirmed that he suffered an “aggressive illness” before his passing Continue reading..."
     }
   ]
 }
