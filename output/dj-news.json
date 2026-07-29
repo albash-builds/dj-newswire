@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T16:21:10.988Z",
+  "generatedAt": "2026-07-29T18:06:44.944Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
       "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b1e431c24777a0b602caaaa850ce45f2aad3cdda",
+      "title": "Major and independent record labels set out chart principles for AI music",
+      "link": "https://mixmag.net/read/major-independent-labels-set-out-chart-principles-ai-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ai-music_2026-07-29-160732_kcqh.jpg?fit=cover&width=660&s=b9BfMJMhT5U0vk7BTvY8pIS158XFrjIhgqVF21U6AJY",
+      "excerpt": "Suggested stipulations for inclusion in global charts include a requirement that tracks should be &quot;substantially human-made&quot; Continue reading..."
     },
     {
       "id": "c2877f44ba54ae41adf3f80695f888d26b6e10e0",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/giggs-rio-romaine.jpg?fit=cover&width=660&s=eza944gLk_YJOwllgHjAdQGR5AQxApzI78orF-sL30g",
       "excerpt": "St James House will feature both a school and an assessment centre for young people aged 11 to 18 Continue reading..."
-    },
-    {
-      "id": "327504c0d2b9840e21d37f3800ebf209b1d1b0d0",
-      "title": "Beloved Glasgow nightclub The Garage has gone up for sale",
-      "link": "https://mixmag.net/read/beloved-glasgow-nightclub-the-garage-gone-up-sale-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-garage-glasgow.jpg?fit=cover&width=660&s=eJDu8CjHrAIHkflHOhieMl0Br5Xz44moOE6su8v2sfg",
-      "excerpt": "Operators of the 1994-opened venue said they hope the next owners will continue its &quot;incredible legacy&quot; Continue reading..."
     }
   ]
 }
