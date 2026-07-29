@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T12:00:08.075Z",
+  "generatedAt": "2026-07-29T14:26:59.556Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
       "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c2877f44ba54ae41adf3f80695f888d26b6e10e0",
+      "title": "The Mix 117: FAUZIA",
+      "link": "https://mixmag.net/feature/the-mix-117-fauzia-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_FAUZIA2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=59HLq20C5DzP6Lp-UJNph3iRBSCfNtSKLPnU4qZSOsI",
+      "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
+    },
+    {
+      "id": "04dcee25206a88c3c85881708f613cc424e4a5e6",
+      "title": "Jean-Michel Jarre announces new book, Machines: A History of Electronic Music",
+      "link": "https://mixmag.net/read/jean-michel-jarre-announces-new-book-machines-history-of-electronic-music-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/historyofelectronic.jpg?fit=cover&width=660&s=UYa2RUQy_qewIhUt118PIx61WG5j23dUIHOJivPeiIM",
+      "excerpt": "The forthcoming book will feature contributions from Armin van Buuren, Richie Hawtin, Hans Zimmer and Duran Duran&#039;s Nick Rhodes Continue reading..."
     },
     {
       "id": "5a3679c767f153af6c91ac90341ce401e62aba98",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/the-garage-glasgow.jpg?fit=cover&width=660&s=eJDu8CjHrAIHkflHOhieMl0Br5Xz44moOE6su8v2sfg",
       "excerpt": "Operators of the 1994-opened venue said they hope the next owners will continue its &quot;incredible legacy&quot; Continue reading..."
-    },
-    {
-      "id": "d55dfd94fe56632eb701d480647351066c26b80c",
-      "title": "20,000-capacity stage at Silverworks Island to show England World Cup match",
-      "link": "https://mixmag.net/read/silverworks-island-show-england-world-cup-match-fisher-headline-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Silverworks-0-1.jpg?fit=cover&width=660&s=55GDyJsv2NXSU2Ar1SrfC3qJ6PRYL0uHUQqJUhF8ROc",
-      "excerpt": "It will be London&#039;s &quot;biggest&quot; screening of England&#039;s quarter-final game following a headline set from FISHER on Saturday Continue reading..."
-    },
-    {
-      "id": "22e354eea62f635bf5041d3322ea58a74be7f3d9",
-      "title": "Main stage collapses at Naples' Alien Sound Festival",
-      "link": "https://mixmag.net/read/main-stage-collapses-naples-alien-sound-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alien-sound-stage.jpg?fit=cover&width=660&s=7O-F1F-dRKPy8YBmVoSEeikPYIStaNjMbFHbFAm2Jhs",
-      "excerpt": "The festival was called off as its &quot;necessary authorisation&quot; was withdrawn, though a rescheduled July date has since been set Continue reading..."
     }
   ]
 }
