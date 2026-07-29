@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T09:36:39.742Z",
+  "generatedAt": "2026-07-29T12:00:08.075Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
       "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5a3679c767f153af6c91ac90341ce401e62aba98",
+      "title": "UK producer Bizzy B awarded honorary doctorate for pioneering work in hardcore",
+      "link": "https://mixmag.net/read/uk-producer-bizzy-b-awarded-honorary-doctorate-pioneering-work-hardcore-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bizzyb.jpg?fit=cover&width=660&s=ZtjwA8A63HU88RvLx4frtX9yuRm24tTsU7LCL_n3knM",
+      "excerpt": "The University of Greenwich honoured the Brain Records founder last week Continue reading..."
+    },
+    {
+      "id": "7b77c433819cbdd0f81073f4207f24bafee2795f",
+      "title": "Kavinsky found dead at home in Paris, aged 50",
+      "link": "https://mixmag.net/read/kavinsky-found-dead-home-paris-aged-50-france-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kavinskylead.jpg?fit=cover&width=660&s=2pqLeuyxwZNGW7hUwmT04P1Ea3LBkEE121bEMJuLxN0",
+      "excerpt": "Police confirmed that an inquiry into ​the cause of his death has been opened Continue reading..."
     },
     {
       "id": "f8a12db4117527b3585f372544ac049976ac4ca1",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alien-sound-stage.jpg?fit=cover&width=660&s=7O-F1F-dRKPy8YBmVoSEeikPYIStaNjMbFHbFAm2Jhs",
       "excerpt": "The festival was called off as its &quot;necessary authorisation&quot; was withdrawn, though a rescheduled July date has since been set Continue reading..."
-    },
-    {
-      "id": "5923acc7e4cdeb189ba1cf361db7bd2c992e15aa",
-      "title": "New music on our radar this week: Ineffekt, Bullion, Cobrah and Grimes",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-ineffekt-bullion-cobrah-grimes-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Releases_2026-07-05-160611_crqn.jpg?fit=cover&width=660&s=iSVx7kDzVDQqgF69nUvPDwX0tDde6ogivnkrQOY66Ls",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "dede835dd30721d4ef7200c02863ce778d0ce0da",
-      "title": "Music tech you might have missed: AlphaTheta CJD-1500X, Arturia Rev OCEAN, Sennheiser MOMENTUM 5",
-      "link": "https://mixmag.net/read/music-tech-you-might-have-missed--alphatheta-cjd-1500x-arturia-rev-ocean-sennheiser-momentum-5-tech",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-tech.jpg?fit=cover&width=660&s=ktQ3h3y0PYEmYP0MLmNwXjcHCcbe3HSvtAy8IogKXlk",
-      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     }
   ]
 }
