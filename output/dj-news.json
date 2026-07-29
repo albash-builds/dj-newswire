@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T03:28:16.943Z",
+  "generatedAt": "2026-07-29T06:29:55.390Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "9efea54b8b3dabf4610eed3e17747ed0a4e04155",
+      "title": "Amb la fi al davant",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/power-burkas-amb-la-fi-al-davant/",
+      "published": "2026-07-29T06:11:24.000Z",
+      "publishedTs": 1785305484000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/POWER-BURKAS-Amb-la-fi-al-davant.jpg",
+      "excerpt": "Ya tenemos el disco del año en Catalunya. Se titula “Amb la fi al davant” y lo han perpetrado Power... La entrada Amb la fi al davant se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a7b3436da0459a406f28b1f56b6db0ae8384563e",
       "title": "Crítica de 'Public Luxury', el nuevo disco de Downtown Boys tras casi una década",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
       "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c7d92631127790139c3061d42cfb4ae21b17d595",
-      "title": "The Story of Michael and Tanya",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-war-and-treaty-the-story-of-michael-and-tanya/",
-      "published": "2026-07-23T07:48:35.000Z",
-      "publishedTs": 1784792915000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-War-and-Treaty-The-Story-of-Michael-and-Tanya.jpg",
-      "excerpt": "Como si de un latido persistente se tratase, este proyecto, ya desde su propio nombre, revela una dualidad en su... La entrada The Story of Michael and Tanya se publicó primero en MondoSonoro ."
     },
     {
       "id": "f8a12db4117527b3585f372544ac049976ac4ca1",
