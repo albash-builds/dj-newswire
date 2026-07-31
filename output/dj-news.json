@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T06:12:24.416Z",
+  "generatedAt": "2026-07-31T09:44:00.747Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "577b9c8a2cde8130fd4c64e2927d4a4a740d76d5",
+      "title": "Emotional Junglist",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nia-archives-emotional-junglist/",
+      "published": "2026-07-31T08:20:15.000Z",
+      "publishedTs": 1785486015000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nia-Archives-Emotional-Junglist.jpg",
+      "excerpt": "Nia Archives confirma, si aún cabían dudas, el gran momento en el que se encuentra la música británica hoy en... La entrada Emotional Junglist se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9efea54b8b3dabf4610eed3e17747ed0a4e04155",
       "title": "Amb la fi al davant",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Temper-Trap-Sungazer-.jpg",
       "excerpt": "Que The Temper Trap han sido siempre una banda justita de recorrido es más una evidencia que un reproche. Por... La entrada Sungazer se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a0fe66d47e699a3b4e0e830db66866f2a6417f6a",
-      "title": "The Ground Above",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/beth-orton-the-ground-above/",
-      "published": "2026-07-23T08:41:50.000Z",
-      "publishedTs": 1784796110000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Beth-Orton-The-Ground-Above.jpg",
-      "excerpt": "Tres décadas dan para mucho. Para tanto que cuesta mucho reconocer a la Beth Orton de “Stolen Car” en la... La entrada The Ground Above se publicó primero en MondoSonoro ."
     },
     {
       "id": "821bcef3d97f23856784ead775fd41439a09fff3",
