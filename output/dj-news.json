@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T07:23:41.780Z",
+  "generatedAt": "2026-08-03T11:20:56.972Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "aedae713bc134b88d39d57eb8a5af4d90e5bcda7",
+      "title": "The Confuser",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/robyn-hitchcock-the-confuser/",
+      "published": "2026-08-03T07:26:08.000Z",
+      "publishedTs": 1785741968000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Robyn-Hitchcock-The-Confuser-.jpg",
+      "excerpt": "Pasan los años y ahí sigue Robyn Hitchcock, incansable cuando se trata de lanzar canciones desde esa posición que ostenta... La entrada The Confuser se publicó primero en MondoSonoro ."
+    },
     {
       "id": "577b9c8a2cde8130fd4c64e2927d4a4a740d76d5",
       "title": "Emotional Junglist",
@@ -154,18 +168,16 @@
       "excerpt": "El séptimo disco de los Strokes, \"Reality Awaits\", no es un disco más, aunque pocas veces sus discos lo han... La entrada Reality Awaits se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6c01cf9c6730e3d54de14c36a86973d8a6729f53",
-      "title": "Sungazer",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-temper-trap-sungazer/",
-      "published": "2026-07-23T14:43:20.000Z",
-      "publishedTs": 1784817800000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Temper-Trap-Sungazer-.jpg",
-      "excerpt": "Que The Temper Trap han sido siempre una banda justita de recorrido es más una evidencia que un reproche. Por... La entrada Sungazer se publicó primero en MondoSonoro ."
+      "id": "bc497202f234eb2ea2a099e9846ac7fcd0289eaa",
+      "title": "15 recent dance music books you should read this summer",
+      "link": "https://mixmag.net/feature/15-recent-dance-music-books-you-should-read-this-summer",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/test2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KXXXlw-tBqVQBsz0FzzY_1_UhCUwcmzekkRYb94seas",
+      "excerpt": "The last five years have been fruitful for literature around electronic music’s global expanse of scenes, ideas, and movements. We’ve compiled some of the best recently-released books you should check out this summer Continue reading..."
     },
     {
       "id": "c9869dc4946f1b275a325972e974031746789235",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rezniro.jpg?fit=cover&width=660&s=wMy1VQ0lAkZ5LVY-O6ldDfQIhK6kuQTGLztjX6BqVfU",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "1ee2f72d953abf8144ad724f6c4d99a35fbd6e2b",
-      "title": "Festival line-ups you might have missed: Unsound, Field Maneuvers, Yard Portugal",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-unsound-field-maneuvers-yard-portugal-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FN.jpg?fit=cover&width=660&s=NAKWm7a5teCVtMv0mjeDCtNdCGI1f4n-qNTnuEhoXg8",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
