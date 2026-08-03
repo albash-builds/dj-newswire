@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:20:56.972Z",
+  "generatedAt": "2026-08-03T14:36:21.680Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/The-Strokes-Reality-Awaits.jpg",
       "excerpt": "El séptimo disco de los Strokes, \"Reality Awaits\", no es un disco más, aunque pocas veces sus discos lo han... La entrada Reality Awaits se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f1be6d4e725fd33bc33034960f6b62b8a981865a",
+      "title": "Massive Attack banned from Singapore following Palestine flag display",
+      "link": "https://mixmag.net/read/massive-attack-banned-from-singapore-following-palestine-flag-display-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MA_2026-07-31-124415_eczx.jpg?fit=cover&width=660&s=0c3q_LqEGNlbHl1oFM_Sn3ABXAp1u-YUDc9w75L1WNw",
+      "excerpt": "The band claim that Singapore police forces detained its two members and confiscated their passports following their show in the city-state last week Continue reading..."
+    },
+    {
+      "id": "dc32d00d2a0f825d1afee16cd026701e3420348c",
+      "title": "23 people injured at London festival following crowd crush",
+      "link": "https://mixmag.net/read/23-people-injured-london-festival-crowd-crush-fire-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/crowd-crush-london-festival.jpg?fit=cover&width=660&s=uEmopasOv0V8KFj_5TCL4U-Pp3ktTWGIqSXkI6rM3LU",
+      "excerpt": "Three people were hospitalised after the crush, which occurred at Ghana Party in the Park on Saturday Continue reading..."
     },
     {
       "id": "bc497202f234eb2ea2a099e9846ac7fcd0289eaa",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lenzman-press.jpg?fit=cover&width=660&s=wmSprkxkENmrpH41XFpek0C5bSMatBNxh4jt4MDnGKQ",
       "excerpt": "The North Quarter founder and Metalheadz signee passed away over the weekend, his family confirmed Continue reading..."
-    },
-    {
-      "id": "218d3f40ab50603048ef36cb53b744608d349b5d",
-      "title": "Pete Tong responds to John Summit remix controversy, claims allegations \"aren't supported by the facts\"",
-      "link": "https://mixmag.net/read/pete-tong-responds-to-john-summit-remix-controversy-says-allegations-are-simply-not-supported-by-the-facts-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Pete-Tong-10.jpg?fit=cover&width=660&s=aOdUx-dB6lk3tkKua3hC4nPjTeY0OKgTc0AIMx18dio",
-      "excerpt": "Summit accused the BBC Radio 1 broadcaster of &quot;jacking&quot; his rework of Everything But The Girl&#039;s &#039;Missing&#039; Continue reading..."
-    },
-    {
-      "id": "5f57ec892078dc8ff1cdd3c99e2b4ad9e38c4e74",
-      "title": "New music on our radar this week: Jnr SA, Confidence Man, RenzNiro",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-kabza-de-small-confidence-man-renzniro-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rezniro.jpg?fit=cover&width=660&s=wMy1VQ0lAkZ5LVY-O6ldDfQIhK6kuQTGLztjX6BqVfU",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
