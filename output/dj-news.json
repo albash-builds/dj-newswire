@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:01:32.156Z",
+  "generatedAt": "2026-08-04T16:10:47.238Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/MAQUINA.-BODY-TRANSMISSION.jpg",
       "excerpt": "En honor a la verdad, la electrónica lleva décadas haciéndole ojitos al rock (y viceversa). Desde los sesenteros ritmos de... La entrada Body Transmission se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "cc90332cbc9390661f7470e9c4c1d8159bd699e1",
+      "title": "Dance music-focused record store launches in Birmingham",
+      "link": "https://mixmag.net/read/dance-music-focused-record-store-launches-birmingham-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/3-phase-Records.jpg?fit=cover&width=660&s=dfBRBnpd1OIcqT9hYX6i-iZ7DZYG6g3eKO1Rh3SP8lo",
+      "excerpt": "3 Phase Records has opened within a Grade II-listed building in Birmingham&#039;s Gun Quarter Continue reading..."
     },
     {
       "id": "fc5f07d5cf5c1c7ece0341000dae17b4676926a9",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/festival-crowd-credit-Andrius-S%CC%8Cimkus.jpg?fit=cover&width=660&s=aJDSfF6U3fo1xP1l8dm5QZgfdxr_PlHvZGy_s3uCtss",
       "excerpt": "As part of a new long-term plan to support artists, venues and events, the government has injected £15 million into the sector Continue reading..."
-    },
-    {
-      "id": "7db793546f632af4a7abccb9ef801b589520450c",
-      "title": "18-year-old dies following medical emergency at North Wales' Tonnau Festival",
-      "link": "https://mixmag.net/read/18-year-old-dies-medical-emergency-wales-tonnau-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Festival_2026-07-14-102523_hlmv.jpg?fit=cover&width=660&s=mr4BreV2Caq1XeUdv00n50HtKIRJRPxYGsuZ3W53s0w",
-      "excerpt": "Organisers ended the event after the tragedy in the early hours of Saturday morning Continue reading..."
     }
   ]
 }
