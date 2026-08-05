@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T15:12:19.497Z",
+  "generatedAt": "2026-08-05T17:27:56.200Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -168,6 +168,18 @@
       "excerpt": "En honor a la verdad, la electrónica lleva décadas haciéndole ojitos al rock (y viceversa). Desde los sesenteros ritmos de... La entrada Body Transmission se publicó primero en MondoSonoro ."
     },
     {
+      "id": "15a92f4e19e2773f95e8c0058c9fe68940808a5f",
+      "title": "The Mix 118: deBasement",
+      "link": "https://mixmag.net/feature/the-mix-118-debasement-punk-bass-los-angeles-hardbody",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_deBasement2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PjNRm9asJvQMNqvyBbwXL0XK8Nz-9K4tnvXBXeQpuHI",
+      "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
+    },
+    {
       "id": "201138b49887afe328d1c90c7ad0b8fe47cf7f7a",
       "title": "Several Birmingham nightclubs under threat due to railway expansion plans",
       "link": "https://mixmag.net/read/several-birmingham-nightclubs-under-threat-due-to-railway-expansion-plans-news",
@@ -177,7 +189,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/clubcolette.png?fit=cover&width=660&s=Nk7WvEK7qpwWiL17FuVnDYh9vflPeF_4_11JdbJT00o",
-      "excerpt": "Beloved venues including Club Collette, XOYO and Mama Roux&#039;s would be demolished as part of newly-announced proposals from the Midlands Rail Hub Alliance Continue reading..."
+      "excerpt": "Beloved venues including Club Colette, XOYO and Mama Roux&#039;s would be demolished as part of newly-announced proposals from the Midlands Rail Hub Alliance Continue reading..."
     },
     {
       "id": "914251cb9c2062448849623f5b62978dfe5aebed",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Loukeman2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=hmhnj9Nv5Lnfl7jA4G78grf7iS3nBl1bkssageBW6k8",
       "excerpt": "Loukeman shares a mix of varying moods, including some exclusive new material, and speaks to Patrick Hinton about finding a balance between &quot;producer brain&quot; and DJing, following what feels good in the studio, and why working wi…"
-    },
-    {
-      "id": "1a407348f6307be70ae625cf778b4812c518f040",
-      "title": "Warner Music asks court to throw out musicians' union lawsuit over AI deal",
-      "link": "https://mixmag.net/read/warner-music-asks-court-throw-out-musicians-union-lawsuit-ai-deal-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/warner-music.jpg?fit=cover&width=660&s=Or7LsRlf7-UFmjxuaQ61pQi_P1W7w05e21ZaIMQeQNI",
-      "excerpt": "The American Federation of Musicians argues that artists have not been offered &quot;compensation or credit&quot; for their music to be used to train AI models Continue reading..."
     }
   ]
 }
