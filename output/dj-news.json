@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:54:49.910Z",
+  "generatedAt": "2026-08-06T15:12:21.481Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Sandre-Paciencia-infinita.jpg",
       "excerpt": "¡Pim! ¡Pam! ¡Pum! ¿Alguna vez os han pegado una buena hostia sin que os la esperarais? Una bofetada de esas... La entrada Paciencia infinita se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c771ebe67e87e8493138ee4605b279ec58d9a5ee",
+      "title": "Westminster Council shares plans to prevent new venues \"offering music, dancing and similar entertainment” in Soho",
+      "link": "https://mixmag.net/read/westminster-council-deny-licenses-venues-music-dancing-entertainment-soho-plans-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Bar-Italia_2026-08-06-130515_ixuz.jpg?fit=cover&width=660&s=GbNHJJftAIOXVqAV3AXRYMYVBqssKVJJQCgEZFqqbgw",
+      "excerpt": "Mayor of London Sadiq Khan has criticised the plans, which are currently under public consultation Continue reading..."
+    },
+    {
+      "id": "80419afa6a0f2b7eda4d0637c91f1ed86101aad9",
+      "title": "Police are using facial recognition technology near Boardmasters Festival",
+      "link": "https://mixmag.net/read/police-are-using-facial-recognition-technology-near-boardmasters-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Boardmasters_2026-08-06-120804_suve.jpg?fit=cover&width=660&s=0kbRSSpQFCzNVJf7EJzAPySeMua9s90TIrqDn4tCmxo",
+      "excerpt": "While the technology will not be used at this week&#039;s festival, officers are implementing the tools in the nearby town of Newquay Continue reading..."
+    },
+    {
+      "id": "4f1c6709e21dbea275eb457dc0599166d6ea048b",
+      "title": "Leeds venue TESTBED unveils major renovations for September relaunch",
+      "link": "https://mixmag.net/read/leeds-testbed-unveils-major-renovations-for-september-relaunch-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/TESTBED-1.jpg?fit=cover&width=660&s=0Q92-XLJcAcLM63MN-kVmu4vNfQ7t4Q9uFAzycAwGjY",
+      "excerpt": "The 2,500-capacity venue will reopen with a new 5,000 sq ft mezzanine, a custom-built stage and an L-Acoustics L2 system Continue reading..."
     },
     {
       "id": "c50e11ce08b9f7ac2c6345c18e8ac757fba89356",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Sub-Club_2026-07-16-141506_xceq.jpg?fit=cover&width=660&s=d1kwbrryyOgJuSMEA7WaSWdGStPEWZyafxQgPn13ano",
       "excerpt": "The City Centre Task Force has been launched with the aim of supporting the nightlife industry Continue reading..."
-    },
-    {
-      "id": "3023b72f3ce2b2748b94e69839585d79189ea96e",
-      "title": "41% of people in the UK haven't listened to a full album in a year, according to new poll",
-      "link": "https://mixmag.net/read/40-percent-people-uk-have-not-listened-to-full-album-year-according-to-new-poll-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/headphones_2026-07-16-111522_zizg.jpg?fit=cover&width=660&s=o-tJCZr5QVxqyJnjGeYc1x6FM1trSpeTFfwUZDT6YNE",
-      "excerpt": "A survey of 2,000 UK adults found that a further 8% admitted to having &quot;never&quot; listened to an album from start-to-finish Continue reading..."
-    },
-    {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JUNE_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=bmAmDueJlJygIL9NH5dRYzwAFRGZQis1uUY_hkEU2Yc",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
-      "id": "e4748c1a2935eb2dad2b7b7e7500d127160036f5",
-      "title": "AI music generator Suno scraped “millions of songs” from YouTube and Deezer",
-      "link": "https://mixmag.net/read/ai-music-generator-suno-scraped-millions-songs-youtube-deezer-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/suno-music-making.jpg?fit=cover&width=660&s=9GyVir_f0S01wi6zGWE3F-NqLMvAevqqyQPUwcKPp8E",
-      "excerpt": "A data leak revealed that over two million music clips were used to train Suno’s AI models Continue reading..."
     }
   ]
 }
