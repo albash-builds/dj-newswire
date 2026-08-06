@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:11:16.661Z",
+  "generatedAt": "2026-08-06T07:38:08.298Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "65d2608bdc27606a84bdb8f191ce89d0d19b4422",
+      "title": "Crítica de 'XXXXX', el nuevo trabajo de Arca",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/arca-xxxxx/",
+      "published": "2026-08-06T06:30:58.000Z",
+      "publishedTs": 1785997858000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Arca-XXXXX.jpg",
+      "excerpt": "Cinco años después, vuelve la versión más oscura, experimental y hasta cierto punto desafiante de Arca. Nada que ver –... La entrada Crítica de &#039;XXXXX&#039;, el nuevo trabajo de Arca se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f4eae8d9c9c47307d0978efb2bd7e42241c7bb86",
       "title": "Hoopla",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Sandre-Paciencia-infinita.jpg",
       "excerpt": "¡Pim! ¡Pam! ¡Pum! ¿Alguna vez os han pegado una buena hostia sin que os la esperarais? Una bofetada de esas... La entrada Paciencia infinita se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ef7708450b8bd0efac5a2af10fe57b9dc14becda",
-      "title": "Body Transmission",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/maquina-body-transmission/",
-      "published": "2026-07-24T06:49:17.000Z",
-      "publishedTs": 1784875757000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/MAQUINA.-BODY-TRANSMISSION.jpg",
-      "excerpt": "En honor a la verdad, la electrónica lleva décadas haciéndole ojitos al rock (y viceversa). Desde los sesenteros ritmos de... La entrada Body Transmission se publicó primero en MondoSonoro ."
     },
     {
       "id": "15a92f4e19e2773f95e8c0058c9fe68940808a5f",
