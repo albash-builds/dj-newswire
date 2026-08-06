@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:12:21.481Z",
+  "generatedAt": "2026-08-06T23:57:20.353Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Sandre-Paciencia-infinita.jpg",
       "excerpt": "¡Pim! ¡Pam! ¡Pum! ¿Alguna vez os han pegado una buena hostia sin que os la esperarais? Una bofetada de esas... La entrada Paciencia infinita se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wAxFZp61oOGo2PQ9RrRLoVmQWWMsGoUUxU4m-KzURXc",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
       "id": "c771ebe67e87e8493138ee4605b279ec58d9a5ee",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DHB-Portugal.jpg?fit=cover&width=660&s=zxeg0ygpOLwkgTGCshIahfxNZSIrlSvDtivP_YHpEo0",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "56ce49948f6597d1bc3a517ea910d8fce6fba7b6",
-      "title": "Sub Club manager Mike Grieve to lead new Glasgow nightlife commission",
-      "link": "https://mixmag.net/read/sub-club-manager-mike-grieve-to-lead-new-glasgow-nightlife-taskforce-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Sub-Club_2026-07-16-141506_xceq.jpg?fit=cover&width=660&s=d1kwbrryyOgJuSMEA7WaSWdGStPEWZyafxQgPn13ano",
-      "excerpt": "The City Centre Task Force has been launched with the aim of supporting the nightlife industry Continue reading..."
     }
   ]
 }
