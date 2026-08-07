@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:08:33.438Z",
+  "generatedAt": "2026-08-07T08:12:27.025Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "64358847bca9cf4b626f74719cc4f9a779a43bae",
+      "title": "Triple arranque",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/kromo-y-el-hombre-viento-triple-arranque/",
+      "published": "2026-08-07T06:27:52.000Z",
+      "publishedTs": 1786084072000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Kromo-y-El-Hombre-Viento-Triple-arranque.jpg",
+      "excerpt": "Tras el lanzamiento de su álbum en 2023 “La Reserva”, que contaba con una producción más ambiental acompañada de texturas... La entrada Triple arranque se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "b20a5bfbc1e556fd357d66b2b6528f99232e6785",
+      "title": "Renascent",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-durutti-column-renascent/",
+      "published": "2026-08-07T06:08:11.000Z",
+      "publishedTs": 1786082891000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Durutti-Column-Renascent.jpg",
+      "excerpt": "Todo en The Durutti Column es insólito. Anómalo. Extremadamente singular. Su propio nombre nace de un apellido mal escrito: el... La entrada Renascent se publicó primero en MondoSonoro ."
+    },
     {
       "id": "65d2608bdc27606a84bdb8f191ce89d0d19b4422",
       "title": "Crítica de 'XXXXX', el nuevo trabajo de Arca",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/nuzz.jpg",
       "excerpt": "Maite dut power trio formatua. Ez dago non ezkutatu, akats bakoitza berehala antzematen da, baita ondo egindako guztia ere. Hiru... La entrada Hara eta Hemen se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7c3c215d6e0c6dc94992496ac971c846ec9dfce9",
-      "title": "Nun ibili haz??",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/aterkings-nun-ibili-haz/",
-      "published": "2026-07-24T11:32:09.000Z",
-      "publishedTs": 1784892729000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Aterkings.jpg",
-      "excerpt": "“Rock’n’Roll” lo sacaron en 2005 y un año después, en 2006, repitieron con “Aterqueens”. Los dos salieron con Gaztelupeko Hotsak.... La entrada Nun ibili haz?? se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3fee720daa11e807e0a32f0c7f6898dc68b6ecf1",
-      "title": "Paciencia infinita",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sandre-paciencia-infinita/",
-      "published": "2026-07-24T07:09:42.000Z",
-      "publishedTs": 1784876982000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Sandre-Paciencia-infinita.jpg",
-      "excerpt": "¡Pim! ¡Pam! ¡Pum! ¿Alguna vez os han pegado una buena hostia sin que os la esperarais? Una bofetada de esas... La entrada Paciencia infinita se publicó primero en MondoSonoro ."
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
