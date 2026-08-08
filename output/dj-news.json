@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:51:03.071Z",
+  "generatedAt": "2026-08-08T07:48:36.498Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "26ecebf47192df0d529833d90f1b89347d881730",
+      "title": "A ? of When",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/panda-bear-sonic-boom-a-of-when/",
+      "published": "2026-08-08T07:38:35.000Z",
+      "publishedTs": 1786174715000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Panda-Bear-Sonic-Boom-A-of-When.jpg",
+      "excerpt": "La media hora en coche que separa Sintra de Lisboa queda reducida (de nuevo) a la nada en manos de... La entrada A ? of When se publicó primero en MondoSonoro ."
+    },
     {
       "id": "64358847bca9cf4b626f74719cc4f9a779a43bae",
       "title": "Triple arranque",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/charli-xcx-Music-Fashion-Film.jpg",
       "excerpt": "Hace poco más de dos años el verde inundó nuestras vidas. Un verde intenso, puede que incluso molesto. Un verde... La entrada Music, Fashion, Film se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8be8400e6c74b93026ee17052aecf8bf251e79b4",
-      "title": "Hara eta Hemen",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nuzz-hara-eta-hemen/",
-      "published": "2026-07-24T11:43:17.000Z",
-      "publishedTs": 1784893397000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/nuzz.jpg",
-      "excerpt": "Maite dut power trio formatua. Ez dago non ezkutatu, akats bakoitza berehala antzematen da, baita ondo egindako guztia ere. Hiru... La entrada Hara eta Hemen se publicó primero en MondoSonoro ."
     },
     {
       "id": "aff80f35c9a16bba9cb4fb19a7de914f834e11ea",
