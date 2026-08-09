@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T06:54:33.295Z",
+  "generatedAt": "2026-08-09T07:53:11.518Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -40,6 +40,20 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Panda-Bear-Sonic-Boom-A-of-When.jpg",
       "excerpt": "La media hora en coche que separa Sintra de Lisboa queda reducida (de nuevo) a la nada en manos de... La entrada A ? of When se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bb0f741bf836395bfcb2ccf7f0420d4f233e34ef",
+      "title": "Doble negación",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/veta-doble-negacion/",
+      "published": "2026-08-07T07:16:14.000Z",
+      "publishedTs": 1786086974000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/veta-doble-negacion.jpg",
+      "excerpt": "De parte de las cenizas de los siempre añorados y reivindicables PAL (quienes hace poco volvieron momentáneamente a la palestra... La entrada Doble negación se publicó primero en MondoSonoro ."
     },
     {
       "id": "64358847bca9cf4b626f74719cc4f9a779a43bae",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Downtown-Boys-Public-Luxury.jpg",
       "excerpt": "Casi una década les ha llevado a Downtown Boys regresar con un nuevo álbum. Cierto que en estos casi dos... La entrada Public Luxury se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "89f1af6e47e80a5945baebd6d17ded73960abfaa",
-      "title": "Music, Fashion, Film",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/charli-xcx-music-fashion-film/",
-      "published": "2026-07-24T12:10:39.000Z",
-      "publishedTs": 1784895039000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/charli-xcx-Music-Fashion-Film.jpg",
-      "excerpt": "Hace poco más de dos años el verde inundó nuestras vidas. Un verde intenso, puede que incluso molesto. Un verde... La entrada Music, Fashion, Film se publicó primero en MondoSonoro ."
     },
     {
       "id": "61a5e618ecf836e8ebd9cb7789ed74cb7349b1a0",
