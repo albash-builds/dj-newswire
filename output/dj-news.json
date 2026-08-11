@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T13:01:36.816Z",
+  "generatedAt": "2026-08-11T14:56:08.226Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/POWER-BURKAS-Amb-la-fi-al-davant.jpg",
       "excerpt": "Ya tenemos el disco del año en Catalunya. Se titula “Amb la fi al davant” y lo han perpetrado Power... La entrada Amb la fi al davant se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4cedac45c8b0047e2a3f4cb4fe0f01356645f893",
+      "title": "Suno launches service to press AI music onto vinyl",
+      "link": "https://mixmag.net/read/suno-launches-service-to-press-ai-music-onto-vinyl-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vinyl-101.jpg?fit=cover&width=660&s=6DyoU5jTO7J9y0YTr6z5fO-3ZDlpoWjye9oB0SpkfKU",
+      "excerpt": "The waitlist for Suno Vinyl has opened, with prices starting at $45 plus shipping per record Continue reading..."
+    },
+    {
+      "id": "b764d94ed906efd57237ae632fcd48ba8a45f09a",
+      "title": "Houghton Festival “deeply saddened” by death of attendee at this year's event",
+      "link": "https://mixmag.net/read/houghton-festival-death-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/xx.jpg?fit=cover&width=660&s=lz4-d5GCRMkrJRBSfwaQJC-iuXs3sP3sxUcXiZOCE2g",
+      "excerpt": "The festival has released a statement after a woman was pronounced dead on-site Continue reading..."
     },
     {
       "id": "9564016945997f4bf306925fa8a5e41fc036d9ab",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-Mallorca.jpg?fit=cover&width=660&s=XsXUTy1GO8jq9e96uav-5QhwNUSZWJR6ohzFEkcRkqI",
       "excerpt": "FITZ Mallorca takes over the former home of Tito’s, a famed venue once visited by Frank Sinatra, Grace Kelly and Ray Charles Continue reading..."
-    },
-    {
-      "id": "e7f8318d3442bd4c1355c4a99e72f0acc36ce74a",
-      "title": "Rusko \"calls it a day\" on music, citing mental health issues",
-      "link": "https://mixmag.net/read/rusko-announces-indefinite-hiatus-music-mental-health-issues-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rusko-1_2026-07-21-100137_yeuc.jpg?fit=cover&width=660&s=RxBqXkTq98atN9axjZbynp5XA416BnZxc1Dj3qy6irs",
-      "excerpt": "The Leeds-hailing dubstep pioneer said that he has reached &quot;breakdown point&quot; and must now look for &quot;healing and recovery&quot; Continue reading..."
-    },
-    {
-      "id": "23927040c265cabbe4e4f12ffb977ab51aa847d5",
-      "title": "Apple Music hikes subscription fees following “rising licence costs”",
-      "link": "https://mixmag.net/read/apple-music-hikes-subscription-fees-rising-licence-costs-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music_2026-07-21-103840_pxen.jpg?fit=cover&width=660&s=3KitjlPP-BKK7T5o48-E-m8JxpLdLchhCEQGD5eHAjY",
-      "excerpt": "It marks the second price hike in Apple Music&#039;s 11-year history Continue reading..."
     }
   ]
 }
