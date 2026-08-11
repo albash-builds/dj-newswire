@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:05:10.678Z",
+  "generatedAt": "2026-08-11T08:54:03.344Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "d520b5d76c3694fa751502c80c8054793661a179",
+      "title": "Reseñamos “Bring On The Psychics”, quinto álbum de Quicksand",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bring-on-the-psychics-quicksand/",
+      "published": "2026-08-11T06:38:10.000Z",
+      "publishedTs": 1786430290000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/QuicksandCD.jpg",
+      "excerpt": "Deberían sobrar las presentaciones, pero sospecho que Quicksand no son tan conocidos como otras bandas afines y coetáneas como Deftones.... La entrada Reseñamos “Bring On The Psychics”, quinto álbum de Quicksand se publicó primero en Mon…"
+    },
     {
       "id": "26ecebf47192df0d529833d90f1b89347d881730",
       "title": "A ? of When",
@@ -85,7 +99,7 @@
     },
     {
       "id": "65d2608bdc27606a84bdb8f191ce89d0d19b4422",
-      "title": "Crítica de 'XXXXX', el nuevo trabajo de Arca",
+      "title": "XXXXX",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/arca-xxxxx/",
       "published": "2026-08-06T06:30:58.000Z",
       "publishedTs": 1785997858000,
@@ -95,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Arca-XXXXX.jpg",
-      "excerpt": "Cinco años después, vuelve la versión más oscura, experimental y hasta cierto punto desafiante de Arca. Nada que ver –... La entrada Crítica de &#039;XXXXX&#039;, el nuevo trabajo de Arca se publicó primero en MondoSonoro ."
+      "excerpt": "Cinco años después, vuelve la versión más oscura, experimental y hasta cierto punto desafiante de Arca. Nada que ver –... La entrada XXXXX se publicó primero en MondoSonoro ."
     },
     {
       "id": "f4eae8d9c9c47307d0978efb2bd7e42241c7bb86",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/POWER-BURKAS-Amb-la-fi-al-davant.jpg",
       "excerpt": "Ya tenemos el disco del año en Catalunya. Se titula “Amb la fi al davant” y lo han perpetrado Power... La entrada Amb la fi al davant se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a7b3436da0459a406f28b1f56b6db0ae8384563e",
-      "title": "Public Luxury",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/downtown-boys-public-luxury/",
-      "published": "2026-07-27T03:22:05.000Z",
-      "publishedTs": 1785122525000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Downtown-Boys-Public-Luxury.jpg",
-      "excerpt": "Casi una década les ha llevado a Downtown Boys regresar con un nuevo álbum. Cierto que en estos casi dos... La entrada Public Luxury se publicó primero en MondoSonoro ."
     },
     {
       "id": "b4f0631478b481b6a82f0a9c94f65628b2029608",
