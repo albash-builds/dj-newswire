@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T15:58:18.069Z",
+  "generatedAt": "2026-08-12T17:02:53.767Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Ffeed%2F&y=ipr:52.161.51.150:1786554150.845\"></meta"
     }
   ],
   "items": [
