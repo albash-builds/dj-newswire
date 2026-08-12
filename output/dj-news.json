@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:06:16.908Z",
+  "generatedAt": "2026-08-12T14:56:07.882Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <html><head><link rel=\"icon\" href=\"data:;\"><meta http-equiv=\"refresh\" content=\"0;/.well-known/sgcaptcha/?r=%2Ffeed%2F&y=ipr:52.159.247.231:1786539950.838\"></met"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nia-Archives-Emotional-Junglist.jpg",
       "excerpt": "Nia Archives confirma, si aún cabían dudas, el gran momento en el que se encuentra la música británica hoy en... La entrada Emotional Junglist se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9431b88a0a6ccbfbcdf77a4752a4872c54140a13",
+      "title": "Wibbly Woods Festival cancels 2026 edition citing issues with Loughborough site",
+      "link": "https://mixmag.net/read/wibbly-woods-festival-cancels-2026-edition-citing-issues-with-loughborough-site-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Wibbly-woods.jpg?fit=cover&width=660&s=drwaPuz52KpxM90W8jFFO11iwd5L1t1ozfltjB1QAGU",
+      "excerpt": "The boutique festival had been due to take place from September 3-7 Continue reading..."
+    },
+    {
+      "id": "3b9fe748ecac9bf6248e0cd99aa0e9673cedb06f",
+      "title": "The Mix 119: Bok Bok",
+      "link": "https://mixmag.net/feature/the-mix-119-dj-bok-bok-night-slugs-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BokBok2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Emk5x0YuVts9oBkvY7dF27w0wqnE9QhYfR_ZSsFhAp4",
+      "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
       "id": "4cedac45c8b0047e2a3f4cb4fe0f01356645f893",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/acapulco.jpg?fit=cover&width=660&s=UO02sgGbgy9TLaduspMtLC1iwkP6J5nHdtRTj7ridFE",
       "excerpt": "Halifax&#039;s Acapulco, known locally as &quot;The Mighty Acca&quot;, has operated as a nightclub for some 65 years Continue reading..."
-    },
-    {
-      "id": "80472917ed3dd0fae097a6af36ab4184e3e2b7e5",
-      "title": "30 is the age people stop standing at gigs, new study claims",
-      "link": "https://mixmag.net/read/30-age-people-stop-standing-gigs-study-concerts-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/concert-standing.jpg?fit=cover&width=660&s=UTq_TVPcn9qRzRlDLPkAm_B2Z3LQRE-fwhXACMzrvd4",
-      "excerpt": "The study found that men often prefer the comfort of seating from an earlier age than women Continue reading..."
-    },
-    {
-      "id": "c5dbecf7ed258aa924bb5558486530cf89e9d1cb",
-      "title": "New 1,300-capacity nightclub launches in Palma, Mallorca",
-      "link": "https://mixmag.net/read/new-1300-capacity-nightclub-launched-palma-mallorca-fitz-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-Mallorca.jpg?fit=cover&width=660&s=XsXUTy1GO8jq9e96uav-5QhwNUSZWJR6ohzFEkcRkqI",
-      "excerpt": "FITZ Mallorca takes over the former home of Tito’s, a famed venue once visited by Frank Sinatra, Grace Kelly and Ray Charles Continue reading..."
     }
   ]
 }
