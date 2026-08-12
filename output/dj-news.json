@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:13:05.673Z",
+  "generatedAt": "2026-08-12T08:15:59.876Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c88e9d27cf1672d8c3b38b558eadbaef251eced7",
+      "title": "Química coral",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/quimica-coral-senalada/",
+      "published": "2026-08-12T07:35:36.000Z",
+      "publishedTs": 1786520136000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/SenaladaCD.jpg",
+      "excerpt": "Mientras que el estío insiste en vendernos una impostada felicidad a golpe de hedonismo escultural, triunfos deportivos, carreteras secundarias y... La entrada Química coral se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d520b5d76c3694fa751502c80c8054793661a179",
       "title": "Reseñamos “Bring On The Psychics”, quinto álbum de Quicksand",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nia-Archives-Emotional-Junglist.jpg",
       "excerpt": "Nia Archives confirma, si aún cabían dudas, el gran momento en el que se encuentra la música británica hoy en... La entrada Emotional Junglist se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9efea54b8b3dabf4610eed3e17747ed0a4e04155",
-      "title": "Amb la fi al davant",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/power-burkas-amb-la-fi-al-davant/",
-      "published": "2026-07-29T06:11:24.000Z",
-      "publishedTs": 1785305484000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/POWER-BURKAS-Amb-la-fi-al-davant.jpg",
-      "excerpt": "Ya tenemos el disco del año en Catalunya. Se titula “Amb la fi al davant” y lo han perpetrado Power... La entrada Amb la fi al davant se publicó primero en MondoSonoro ."
     },
     {
       "id": "4cedac45c8b0047e2a3f4cb4fe0f01356645f893",
