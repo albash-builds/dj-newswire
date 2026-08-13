@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T08:19:44.152Z",
+  "generatedAt": "2026-08-13T10:03:56.400Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Robyn-Hitchcock-The-Confuser-.jpg",
       "excerpt": "Pasan los años y ahí sigue Robyn Hitchcock, incansable cuando se trata de lanzar canciones desde esa posición que ostenta... La entrada The Confuser se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0743922a17ac9e16e38790fd922b5d6ab02b8b6d",
+      "title": "Cathartic chaos: Cuddles is countering Berlin’s status-driven scene one queer party at a time",
+      "link": "https://mixmag.net/feature/cathartic-chaos-cuddles-is-countering-berlins-status-driven-scene-one-queer-party-at-a-time",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
+      "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
       "id": "3b9fe748ecac9bf6248e0cd99aa0e9673cedb06f",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-credit-neosiam.jpg?fit=cover&width=660&s=TTR914QSHOh3dN4CisfX40oXFm1SsNL5dK6olrCtUfY",
       "excerpt": "Launched by organisations MVT, SOS and AIP, the new initiative will support live shows, touring musicians, regular venue programmes and more Continue reading..."
-    },
-    {
-      "id": "bda0bdda52cf3c1e1908d79fca0adcd7e865f405",
-      "title": "Britain's \"oldest nightclub\" launches blue plaque campaign",
-      "link": "https://mixmag.net/read/britains-oldest-nightclub-launches-blue-plaque-campaign-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/acapulco.jpg?fit=cover&width=660&s=UO02sgGbgy9TLaduspMtLC1iwkP6J5nHdtRTj7ridFE",
-      "excerpt": "Halifax&#039;s Acapulco, known locally as &quot;The Mighty Acca&quot;, has operated as a nightclub for some 65 years Continue reading..."
     }
   ]
 }
