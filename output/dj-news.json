@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T06:15:27.491Z",
+  "generatedAt": "2026-08-13T08:19:44.152Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "7a5298191ca6c254fc43d07891e55acdcd83a7e7",
+      "title": "Umbral",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/umbral-como-asesinar/",
+      "published": "2026-08-13T07:11:36.000Z",
+      "publishedTs": 1786605096000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/ComoAsesinarCD.jpg",
+      "excerpt": "La historia de Como Asesinar a Felipes se sigue escribiendo de modo emocionante. Los chilenos realmente encontraron su propio tesoro... La entrada Umbral se publicó primero en MondoSonoro ."
+    },
     {
       "id": "c88e9d27cf1672d8c3b38b558eadbaef251eced7",
       "title": "Química coral",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Robyn-Hitchcock-The-Confuser-.jpg",
       "excerpt": "Pasan los años y ahí sigue Robyn Hitchcock, incansable cuando se trata de lanzar canciones desde esa posición que ostenta... La entrada The Confuser se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "577b9c8a2cde8130fd4c64e2927d4a4a740d76d5",
-      "title": "Emotional Junglist",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nia-archives-emotional-junglist/",
-      "published": "2026-07-31T08:20:15.000Z",
-      "publishedTs": 1785486015000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/07/Nia-Archives-Emotional-Junglist.jpg",
-      "excerpt": "Nia Archives confirma, si aún cabían dudas, el gran momento en el que se encuentra la música británica hoy en... La entrada Emotional Junglist se publicó primero en MondoSonoro ."
     },
     {
       "id": "3b9fe748ecac9bf6248e0cd99aa0e9673cedb06f",
