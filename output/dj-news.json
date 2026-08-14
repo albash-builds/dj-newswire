@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:50:26.075Z",
+  "generatedAt": "2026-08-14T16:50:45.302Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "7a1ba2705dc4408629635526c22e2f1292925935",
+      "title": "Aprendices",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bringas-aprendices/",
+      "published": "2026-08-14T16:14:59.000Z",
+      "publishedTs": 1786724099000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/bringas.jpg",
+      "excerpt": "La ausencia, ese gran puñado de vida y fuente de pena, como quedó bautizada por el escritor Octavio Paz, se... La entrada Aprendices se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8a8b4af63962f7a780a585f63b7f04340bba8a11",
       "title": "Give Me Dirt",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Durutti-Column-Renascent.jpg",
       "excerpt": "Todo en The Durutti Column es insólito. Anómalo. Extremadamente singular. Su propio nombre nace de un apellido mal escrito: el... La entrada Renascent se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "65d2608bdc27606a84bdb8f191ce89d0d19b4422",
-      "title": "XXXXX",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/arca-xxxxx/",
-      "published": "2026-08-06T06:30:58.000Z",
-      "publishedTs": 1785997858000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Arca-XXXXX.jpg",
-      "excerpt": "Cinco años después, vuelve la versión más oscura, experimental y hasta cierto punto desafiante de Arca. Nada que ver –... La entrada XXXXX se publicó primero en MondoSonoro ."
     },
     {
       "id": "0743922a17ac9e16e38790fd922b5d6ab02b8b6d",
