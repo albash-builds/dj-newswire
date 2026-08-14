@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T08:14:36.480Z",
+  "generatedAt": "2026-08-14T09:59:47.641Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "0059a2ac89ffb28e2e1e06648cdc2a66c113fe9b",
+      "title": "Crítica de “Lost Weekend”, el nuevo gran disco de Phoebe Bridgers",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lost-weekend-phoebe-bridgers/",
+      "published": "2026-08-14T08:39:40.000Z",
+      "publishedTs": 1786696780000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/PhoebeBridgersLostWeekend.jpg",
+      "excerpt": "La carrera de Phoebe Bridgers la ha llevado de ser una cantautora indie favorita de la crítica a una extraña... La entrada Crítica de “Lost Weekend”, el nuevo gran disco de Phoebe Bridgers se publicó primero en MondoSonoro ."
+    },
     {
       "id": "7a5298191ca6c254fc43d07891e55acdcd83a7e7",
       "title": "Umbral",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Weird-Nightmare-Hoopla.jpg",
       "excerpt": "Viajar con éxito de la presión sonora implacable y oscura al power pop soleado y melódico que te alegra el... La entrada Hoopla se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aedae713bc134b88d39d57eb8a5af4d90e5bcda7",
-      "title": "The Confuser",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/robyn-hitchcock-the-confuser/",
-      "published": "2026-08-03T07:26:08.000Z",
-      "publishedTs": 1785741968000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Robyn-Hitchcock-The-Confuser-.jpg",
-      "excerpt": "Pasan los años y ahí sigue Robyn Hitchcock, incansable cuando se trata de lanzar canciones desde esa posición que ostenta... La entrada The Confuser se publicó primero en MondoSonoro ."
     },
     {
       "id": "0743922a17ac9e16e38790fd922b5d6ab02b8b6d",
@@ -1088,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Marsolo2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sdtp_xyuMUqyKZfBG6eCRLFUJncY7L8vuPqt2UjO9IM",
+      "image": "",
       "excerpt": "Marsolo shares a deep and driving mix and speaks to Chris Cahillane about his entry into electronic music, the “surreal” crowd reactions he’s quickly earned, and maturing as a producer Continue reading..."
     },
     {
