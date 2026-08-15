@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:18:39.414Z",
+  "generatedAt": "2026-08-15T16:22:09.823Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wAxFZp61oOGo2PQ9RrRLoVmQWWMsGoUUxU4m-KzURXc",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0EXlnSZjkuIBw5w8_JvomGla4nihiM4-ZQimMfCB6ew",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/test2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KXXXlw-tBqVQBsz0FzzY_1_UhCUwcmzekkRYb94seas",
       "excerpt": "The last five years have been fruitful for literature around electronic music’s global expanse of scenes, ideas, and movements. We’ve compiled some of the best recently-released books you should check out this summer Continue reading..."
     },
     {
@@ -848,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/250919_Community-Sauna-Walthamstow-Opening_Brenna-Duncan_BRD4570.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Bh09YcSQTCm66DIZq9-1Uy-AMCL__pmmlUXz7QuCUlU",
+      "image": "",
       "excerpt": "Sweating out to dance music in a dark room is nothing new, but the pairing of electronic sounds with stifling saunas is a wellness trend on the rise, aiming to tap into the mental benefits of clubbing in a setting that also prioritises p…"
     },
     {
@@ -884,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alandria-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rw8nOjf9SG_oHwfICkbxBWb5kzC_3dWFHqSi--6GKJQ",
+      "image": "",
       "excerpt": "We get to know the Los Angeles-based duo, who tell us about their “creative language” when producing together and stirring emotions with their lusicous, vocal-led house music Continue reading..."
     },
     {
