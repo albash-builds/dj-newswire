@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T22:19:16.411Z",
+  "generatedAt": "2026-08-16T23:18:20.553Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -52,7 +52,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/TheMountainGoatsCD.jpg",
       "excerpt": "Aparte del hecho irrefutable de que The Mountain Goats hayan sido siempre (y desde que hicieran su aparición a mediados... La entrada Reseñamos “Days”, nuevo álbum de The Mountain Goats se publicó primero en MondoSonoro ."
     },
     {
@@ -66,7 +66,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/bringas.jpg",
       "excerpt": "La ausencia, ese gran puñado de vida y fuente de pena, como quedó bautizada por el escritor Octavio Paz, se... La entrada Aprendices se publicó primero en MondoSonoro ."
     },
     {
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0EXlnSZjkuIBw5w8_JvomGla4nihiM4-ZQimMfCB6ew",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
