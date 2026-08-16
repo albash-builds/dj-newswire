@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:20:47.171Z",
+  "generatedAt": "2026-08-16T15:19:57.114Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sX09Hp5KRzThzMWqNb8VqzKhEqm1iyp4kBlkMSfUkvY",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -464,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kavinsky-obituary-header-WEB-01.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=liqnGGk8l7d1expkdwnTgjYj1d5pMN_HoosuIrdI9ao",
       "excerpt": "The Parisian producer, who has passed away at the age of 50, will forever be remembered as a hero of the French house scene, deeply respected by its pioneers. Gemma Ross pays tribute Continue reading..."
     },
     {
@@ -500,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/test2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KXXXlw-tBqVQBsz0FzzY_1_UhCUwcmzekkRYb94seas",
       "excerpt": "The last five years have been fruitful for literature around electronic music’s global expanse of scenes, ideas, and movements. We’ve compiled some of the best recently-released books you should check out this summer Continue reading..."
     },
     {
