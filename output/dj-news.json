@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:41:07.094Z",
+  "generatedAt": "2026-08-17T13:38:06.170Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "",
       "excerpt": "De parte de las cenizas de los siempre añorados y reivindicables PAL (quienes hace poco volvieron momentáneamente a la palestra... La entrada Doble negación se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7e93fbcb2ea0bbb36ab59fd8af71c61b4f31adc6",
+      "title": "Beloved electronic musician Sofus Forsberg has died aged 56",
+      "link": "https://mixmag.net/read/beloved-electronic-musician-sofus-forsberg-died-aged-56-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/forsberg.jpg?fit=cover&width=660&s=7AKUfBoU9bsPDTHMkypAN066w2_xhAiLfqTP1u1nAig",
+      "excerpt": "The experimental producer has been described as a “vital force” in Denmark’s dance music scene Continue reading..."
     },
     {
       "id": "59730d1476d6d7a6296288c523ec236f36d2320c",
@@ -728,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Fugees_LEAD.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=BtHtcTxHB63i5-iis2FwetNZTeBDhA-pv56z8yp96oo",
       "excerpt": "30 years ago, the Fugees starred on the cover of Mixmag. Published during the peak of gangsta rap’s dominant golden age, Lauryn Hill, Wyclef Jean and Pras Michel were intent on taking the music in a more conscious direction, aligned with…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "Marsolo shares a deep and driving mix and speaks to Chris Cahillane about his entry into electronic music, the “surreal” crowd reactions he’s quickly earned, and maturing as a producer Continue reading..."
-    },
-    {
-      "id": "e76789e693ce6d2f7951c3be48dd7451f0f34f96",
-      "title": "Biopic charting Snoop Dogg's life to hit cinemas next summer",
-      "link": "https://mixmag.net/read/biopic-snoop-dogg-life-cineams-summer-2027-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Snoop-dogg_2026-07-22-142420_rafm.jpg?fit=cover&width=660&s=pE2Dl5dgloij_rTynXeNiZsbE7-5SCKQvFqUGY8wCjg",
-      "excerpt": "&#039;Snoop&#039; will follow the rise of the &quot;artist, mogul and gangsta rap icon that we know as Snoop Dogg&quot; Continue reading..."
     }
   ]
 }
