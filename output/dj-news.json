@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:23:58.238Z",
+  "generatedAt": "2026-08-17T12:41:07.094Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -66,7 +66,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/bringas.jpg",
+      "image": "",
       "excerpt": "La ausencia, ese gran puñado de vida y fuente de pena, como quedó bautizada por el escritor Octavio Paz, se... La entrada Aprendices se publicó primero en MondoSonoro ."
     },
     {
@@ -94,7 +94,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/PhoebeBridgersLostWeekend.jpg",
+      "image": "",
       "excerpt": "La carrera de Phoebe Bridgers la ha llevado de ser una cantautora indie favorita de la crítica a una extraña... La entrada Crítica de “Lost Weekend”, el nuevo gran disco de Phoebe Bridgers se publicó primero en MondoSonoro ."
     },
     {
@@ -108,7 +108,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/ComoAsesinarCD.jpg",
+      "image": "",
       "excerpt": "La historia de Como Asesinar a Felipes se sigue escribiendo de modo emocionante. Los chilenos realmente encontraron su propio tesoro... La entrada Umbral se publicó primero en MondoSonoro ."
     },
     {
@@ -122,7 +122,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/SenaladaCD.jpg",
+      "image": "",
       "excerpt": "Mientras que el estío insiste en vendernos una impostada felicidad a golpe de hedonismo escultural, triunfos deportivos, carreteras secundarias y... La entrada Química coral se publicó primero en MondoSonoro ."
     },
     {
@@ -136,7 +136,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/QuicksandCD.jpg",
+      "image": "",
       "excerpt": "Deberían sobrar las presentaciones, pero sospecho que Quicksand no son tan conocidos como otras bandas afines y coetáneas como Deftones.... La entrada Bring On The Psychics se publicó primero en MondoSonoro ."
     },
     {
@@ -150,7 +150,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Panda-Bear-Sonic-Boom-A-of-When.jpg",
+      "image": "",
       "excerpt": "La media hora en coche que separa Sintra de Lisboa queda reducida (de nuevo) a la nada en manos de... La entrada A ? of When se publicó primero en MondoSonoro ."
     },
     {
@@ -164,8 +164,20 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/veta-doble-negacion.jpg",
+      "image": "",
       "excerpt": "De parte de las cenizas de los siempre añorados y reivindicables PAL (quienes hace poco volvieron momentáneamente a la palestra... La entrada Doble negación se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "59730d1476d6d7a6296288c523ec236f36d2320c",
+      "title": "Madonna will not headline Glastonbury 2027, Emily Eavis says",
+      "link": "https://mixmag.net/read/madonna-will-not-headline-glastonbury-2027-emily-eavis-says-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Madonna-headliner.jpg?fit=cover&width=660&s=GMAf2JF6qMXiIU1JpEIS56woZiZISy4fgROF0zSjjrE",
+      "excerpt": "The Glastonbury organiser confirmed that all three headliners have been booked for the next edition of the Somerset-based festival Continue reading..."
     },
     {
       "id": "0c4a0c15f20b54fe917338959a396155552052b7",
@@ -332,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sX09Hp5KRzThzMWqNb8VqzKhEqm1iyp4kBlkMSfUkvY",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Snoop-dogg_2026-07-22-142420_rafm.jpg?fit=cover&width=660&s=pE2Dl5dgloij_rTynXeNiZsbE7-5SCKQvFqUGY8wCjg",
       "excerpt": "&#039;Snoop&#039; will follow the rise of the &quot;artist, mogul and gangsta rap icon that we know as Snoop Dogg&quot; Continue reading..."
-    },
-    {
-      "id": "24b0bc28a98c98d1154b27b1b527b5cb54f7f33c",
-      "title": "Watch Novelist, Becky Hill and Niko B offer up their Cornershop Confessions with ZYN",
-      "link": "https://mixmag.net/feature/watch-novelist-offer-up-his-cornershop-confessions-with-zyn",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "The UK musicians gave some an unexpected confessionals over the counter at ZYN’s newly fashioned cornershop, where People Just Do Nothing’s Asim Chaudhry plays bossman Continue reading..."
     }
   ]
 }
