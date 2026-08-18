@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:40:50.121Z",
+  "generatedAt": "2026-08-18T14:31:33.962Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -189,7 +189,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/UNVRS-closing.jpg?fit=cover&width=660&s=r-ifvSc-rR_olyn1yddv-AL3csPXQHvcd-fjto8IpYo",
-      "excerpt": "The White Isle &quot;hyperclub&quot; will wrap up its second season with performances from East End Dubs, The Martinez Brothers, Mochakk, Mella D and more Continue reading..."
+      "excerpt": "The White Isle &quot;hyperclub&quot; will wrap up its second season with performances from East End Dubs, The Martinez Brothers, Mochakk, Mella Dee and more Continue reading..."
     },
     {
       "id": "e1ec182a35a2b4031447e7a838ca909590821906",
@@ -404,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sX09Hp5KRzThzMWqNb8VqzKhEqm1iyp4kBlkMSfUkvY",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wAxFZp61oOGo2PQ9RrRLoVmQWWMsGoUUxU4m-KzURXc",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
