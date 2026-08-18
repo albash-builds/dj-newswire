@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:23:33.013Z",
+  "generatedAt": "2026-08-18T12:42:08.811Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/veta-doble-negacion.jpg",
       "excerpt": "De parte de las cenizas de los siempre añorados y reivindicables PAL (quienes hace poco volvieron momentáneamente a la palestra... La entrada Doble negación se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5a0198fb1ce1a03ddeb29a2f88ea3100394b481d",
+      "title": "AI detected in 40% of music released in July, study reveals",
+      "link": "https://mixmag.net/read/40-percent-music-released-july-show-signs-ai-involvement-study-submithub-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/submithub-ai-credit-cottonbro-studio.jpg?fit=cover&width=660&s=Z4-UbIhJlCWVp1Y4WwWEIpZVBPyFb55rf67pYMYwVXU",
+      "excerpt": "By analysing over a million releases, SubmitHub’s AI music detector found that the use of AI in production is prevalent Continue reading..."
+    },
+    {
+      "id": "54fee99779f8783b74753413c3eafc3420efdbc8",
+      "title": "[UNVRS] shares details of Ibiza 2026 season closing party",
+      "link": "https://mixmag.net/read/ibizas-unvrs-shares-details-2026-season-closing-party-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/UNVRS-closing.jpg?fit=cover&width=660&s=r-ifvSc-rR_olyn1yddv-AL3csPXQHvcd-fjto8IpYo",
+      "excerpt": "The White Isle &quot;hyperclub&quot; will wrap up its second season with performances from East End Dubs, The Martinez Brothers, Mochakk, Mella D and more Continue reading..."
     },
     {
       "id": "e1ec182a35a2b4031447e7a838ca909590821906",
@@ -836,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FAUZIA-WEB-PINK-PIC-UPDATE.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ta8bzHKfQ_vrM1n35i78wUeAVCzN_Qq0ZCL-YPfX_UE",
+      "image": "",
       "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/udio-sony.jpg?fit=cover&width=660&s=matMKB2e6LNrXNC_MBlXfkOKWKF-0PJoS1b9-m1y7KE",
       "excerpt": "Sony alleges that the AI start-up copied thousands of songs without its permission Continue reading..."
-    },
-    {
-      "id": "a46a2275e51e32f6d664469d3d0628e4af4b9f4e",
-      "title": "SoundCloud acquires independent music platform Nina Protocol",
-      "link": "https://mixmag.net/read/soundcloud-acquires-independent-music-platform-nina-protocol-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundcloud-Nina.jpg?fit=cover&width=660&s=F9cSz4R7FCrSZBpgxrb9vTbLIMlq5A3V2zdOtN4nd9w",
-      "excerpt": "Nina Protocol will now migrate to the streaming service, allowing artists to carry over their followers, music, content, and creative work to the platform Continue reading..."
-    },
-    {
-      "id": "62f4d04bfb964da12f1d33b36efc4e1ccf16ff62",
-      "title": "Andy Burnham cuts business rates for nightclubs and music venues in England",
-      "link": "https://mixmag.net/read/andy-burnham-cuts-business-rates-nightclubs-music-venues-pubs-england-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightlife-england.jpg?fit=cover&width=660&s=lXWQe0kaBnqTqLReGq-2i21I169D4rnjFgSO8ceOlSk",
-      "excerpt": "Nightlife venues and pubs across the country will receive a 20% cut to their rates next year Continue reading..."
     }
   ]
 }
