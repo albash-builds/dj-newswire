@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:31:33.962Z",
+  "generatedAt": "2026-08-18T15:30:03.802Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c7d000f8fe8a8307ac9cb3e3c1c19a7524e36ee0",
+      "title": "Crítica de 'La Nueva Violencia', el recién estrenado álbum de Dillom",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dillom-la-nueva-violencia/",
+      "published": "2026-08-18T15:28:14.000Z",
+      "publishedTs": 1787066894000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Dillom-La-Nueva-Violencia.jpg",
+      "excerpt": "Hay artistas que parecen vivir toda su carrera atados a algo. Un estilo, un género, un disco, algo que los... La entrada Crítica de &#039;La Nueva Violencia&#039;, el recién estrenado álbum de Dillom se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5af200d152fdbd005bdc2531b11c6c94b2309814",
       "title": "Offering",
@@ -85,7 +99,7 @@
     },
     {
       "id": "0059a2ac89ffb28e2e1e06648cdc2a66c113fe9b",
-      "title": "Crítica de “Lost Weekend”, el nuevo gran disco de Phoebe Bridgers",
+      "title": "Lost Weekend",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/lost-weekend-phoebe-bridgers/",
       "published": "2026-08-14T08:39:40.000Z",
       "publishedTs": 1786696780000,
@@ -95,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/PhoebeBridgersLostWeekend.jpg",
-      "excerpt": "La carrera de Phoebe Bridgers la ha llevado de ser una cantautora indie favorita de la crítica a una extraña... La entrada Crítica de “Lost Weekend”, el nuevo gran disco de Phoebe Bridgers se publicó primero en MondoSonoro ."
+      "excerpt": "La carrera de Phoebe Bridgers la ha llevado de ser una cantautora indie favorita de la crítica a una extraña... La entrada Lost Weekend se publicó primero en MondoSonoro ."
     },
     {
       "id": "7a5298191ca6c254fc43d07891e55acdcd83a7e7",
@@ -154,18 +168,16 @@
       "excerpt": "La media hora en coche que separa Sintra de Lisboa queda reducida (de nuevo) a la nada en manos de... La entrada A ? of When se publicó primero en MondoSonoro ."
     },
     {
-      "id": "bb0f741bf836395bfcb2ccf7f0420d4f233e34ef",
-      "title": "Doble negación",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/veta-doble-negacion/",
-      "published": "2026-08-07T07:16:14.000Z",
-      "publishedTs": 1786086974000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/veta-doble-negacion.jpg",
-      "excerpt": "De parte de las cenizas de los siempre añorados y reivindicables PAL (quienes hace poco volvieron momentáneamente a la palestra... La entrada Doble negación se publicó primero en MondoSonoro ."
+      "id": "8307c94a13d78006b70e20d8993d6a4febfb7466",
+      "title": "Black Coffee, Skepta and more confirmed for Hï Ibiza's 2026 closing party",
+      "link": "https://mixmag.net/read/h%C3%AF-ibiza-confirms-line-up-2026-closing-party-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hi-Black-Coffee-ibiza.jpg?fit=cover&width=660&s=eKH2eBiMHQBq9y-pGsuYINdu4uM9i-bPFCjSZty1PBQ",
+      "excerpt": "The Playa d&#039;en Bossa nightclub will host its last party of the year on October 9 Continue reading..."
     },
     {
       "id": "5a0198fb1ce1a03ddeb29a2f88ea3100394b481d",
@@ -416,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=wAxFZp61oOGo2PQ9RrRLoVmQWWMsGoUUxU4m-KzURXc",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -512,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0EXlnSZjkuIBw5w8_JvomGla4nihiM4-ZQimMfCB6ew",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -860,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FAUZIA-WEB-PINK-PIC-UPDATE.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ta8bzHKfQ_vrM1n35i78wUeAVCzN_Qq0ZCL-YPfX_UE",
       "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-pipeline.jpg?fit=cover&width=660&s=MDP_iV8HtF1wiIkYcXaZ0OWAAB04KfwKjRNndUGDGps",
       "excerpt": "The Pipeline has been brought under community ownership as part of the Music Venue Trust&#039;s Own Our Venues scheme Continue reading..."
-    },
-    {
-      "id": "4f1710a9281c59a3561c75e0ba2f1ecb420dc2e8",
-      "title": "Sony Music sues Udio again, claiming infringement of 30,000 tracks to train AI",
-      "link": "https://mixmag.net/read/sony-music-sues-udio-claiming-infringement-30000-tracks-train-ai-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/udio-sony.jpg?fit=cover&width=660&s=matMKB2e6LNrXNC_MBlXfkOKWKF-0PJoS1b9-m1y7KE",
-      "excerpt": "Sony alleges that the AI start-up copied thousands of songs without its permission Continue reading..."
     }
   ]
 }
