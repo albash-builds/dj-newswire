@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:27:00.452Z",
+  "generatedAt": "2026-08-19T11:23:06.484Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/QuicksandCD.jpg",
       "excerpt": "Deberían sobrar las presentaciones, pero sospecho que Quicksand no son tan conocidos como otras bandas afines y coetáneas como Deftones.... La entrada Bring On The Psychics se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0e12cac898193ec949cd4e43a5e679f1527ebfd7",
+      "title": "Woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush",
+      "link": "https://mixmag.net/read/woman-found-dead-houghton-festival-named-ibiza-dj-santanna-oush-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/santanna-oush-houghton.jpg?fit=cover&width=660&s=O-h6NWm6iHSS2CeQL4v6W5w0TfG1ngVvSIo1RzhK4Io",
+      "excerpt": "The 38-year-old artist founded OuShe parties at Pikes, celebrating women and emerging talent Continue reading..."
     },
     {
       "id": "8307c94a13d78006b70e20d8993d6a4febfb7466",
@@ -344,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ORBIT-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gf3_xns5SbNosaFYbaEujtUSYTSONWRPjzAc8XMVXDM",
+      "image": "",
       "excerpt": "William Orbit was a titan of electronic music, reshaping the sound of the &#039;90s with an innovative, hybrid approach, and producing and co-writing some of the best tracks of all time. Here are 10 of the best Continue reading..."
     },
     {
@@ -500,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_deBasement2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PjNRm9asJvQMNqvyBbwXL0XK8Nz-9K4tnvXBXeQpuHI",
       "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
     },
     {
@@ -560,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kavinsky-obituary-header-WEB-01.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=liqnGGk8l7d1expkdwnTgjYj1d5pMN_HoosuIrdI9ao",
+      "image": "",
       "excerpt": "The Parisian producer, who has passed away at the age of 50, will forever be remembered as a hero of the French house scene, deeply respected by its pioneers. Gemma Ross pays tribute Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "The debut festival from the team behind Salford&#039;s beloved The White Hotel could not have been held anywhere but this iconic slice of the Irish Sea coastline. Megan Townsend reports on why Continue reading..."
-    },
-    {
-      "id": "1624f586a34515274ede2b6748ee3cd3537794d3",
-      "title": "Fatboy Slim invests in Brighton music venue as part of grassroots preservation scheme",
-      "link": "https://mixmag.net/read/fatboy-slim-invests-brighton-music-venue-grassroots-preservation-scheme-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-pipeline.jpg?fit=cover&width=660&s=MDP_iV8HtF1wiIkYcXaZ0OWAAB04KfwKjRNndUGDGps",
-      "excerpt": "The Pipeline has been brought under community ownership as part of the Music Venue Trust&#039;s Own Our Venues scheme Continue reading..."
     }
   ]
 }
