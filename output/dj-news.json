@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:36:09.012Z",
+  "generatedAt": "2026-08-20T09:32:54.097Z",
   "total": 90,
   "sources": [
     {
@@ -28,6 +28,34 @@
   ],
   "items": [
     {
+      "id": "8e8a4a8723d82bbc790c7529131f97f53a5817df",
+      "title": "A Love Letter To A Broken Town",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-reytons-a-love-letter-to-a-broken-town/",
+      "published": "2026-08-20T09:00:43.000Z",
+      "publishedTs": 1787216443000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Reytons-A-Love-Letter-To-A-Broken-Town.jpg",
+      "excerpt": "The Reytons evidencian, con el que ya es su cuarto álbum de estudio y tras títulos previos como “Kids Off... La entrada A Love Letter To A Broken Town se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "cfcd2c79f72c3fd6c6626f778b78bf97dbb729cc",
+      "title": "Live On The Moon",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/live-on-the-moon/",
+      "published": "2026-08-20T08:50:50.000Z",
+      "publishedTs": 1787215850000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Sparks-Live-On-The-Moon.jpg",
+      "excerpt": "Sparks se han ganado el derecho a vacilarnos diciendo que han grabado en la Luna. En el cráter Taruntius, por... La entrada Live On The Moon se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "8504adfb9b3342b1d4d633877490c58d936e2566",
       "title": "Jungle apuestan por lo clásico en \"Sunshine\"",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/jungle-sunshine/",
@@ -43,7 +71,7 @@
     },
     {
       "id": "c7d000f8fe8a8307ac9cb3e3c1c19a7524e36ee0",
-      "title": "Crítica de 'La Nueva Violencia', el recién estrenado álbum de Dillom",
+      "title": "La Nueva Violencia",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dillom-la-nueva-violencia/",
       "published": "2026-08-18T15:28:14.000Z",
       "publishedTs": 1787066894000,
@@ -53,7 +81,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Dillom-La-Nueva-Violencia.jpg",
-      "excerpt": "Hay artistas que parecen vivir toda su carrera atados a algo. Un estilo, un género, un disco, algo que los... La entrada Crítica de &#039;La Nueva Violencia&#039;, el recién estrenado álbum de Dillom se publicó primero en MondoSonoro ."
+      "excerpt": "Hay artistas que parecen vivir toda su carrera atados a algo. Un estilo, un género, un disco, algo que los... La entrada La Nueva Violencia se publicó primero en MondoSonoro ."
     },
     {
       "id": "5af200d152fdbd005bdc2531b11c6c94b2309814",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/ComoAsesinarCD.jpg",
       "excerpt": "La historia de Como Asesinar a Felipes se sigue escribiendo de modo emocionante. Los chilenos realmente encontraron su propio tesoro... La entrada Umbral se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "c88e9d27cf1672d8c3b38b558eadbaef251eced7",
-      "title": "Química coral",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/quimica-coral-senalada/",
-      "published": "2026-08-12T07:35:36.000Z",
-      "publishedTs": 1786520136000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/SenaladaCD.jpg",
-      "excerpt": "Mientras que el estío insiste en vendernos una impostada felicidad a golpe de hedonismo escultural, triunfos deportivos, carreteras secundarias y... La entrada Química coral se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "d520b5d76c3694fa751502c80c8054793661a179",
-      "title": "Bring On The Psychics",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bring-on-the-psychics-quicksand/",
-      "published": "2026-08-11T06:38:10.000Z",
-      "publishedTs": 1786430290000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/QuicksandCD.jpg",
-      "excerpt": "Deberían sobrar las presentaciones, pero sospecho que Quicksand no son tan conocidos como otras bandas afines y coetáneas como Deftones.... La entrada Bring On The Psychics se publicó primero en MondoSonoro ."
     },
     {
       "id": "8d0ffc168c27eda7c74ecd3c06a150a18ae44753",
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BokBok2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Emk5x0YuVts9oBkvY7dF27w0wqnE9QhYfR_ZSsFhAp4",
       "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
@@ -392,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ORBIT-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gf3_xns5SbNosaFYbaEujtUSYTSONWRPjzAc8XMVXDM",
+      "image": "",
       "excerpt": "William Orbit was a titan of electronic music, reshaping the sound of the &#039;90s with an innovative, hybrid approach, and producing and co-writing some of the best tracks of all time. Here are 10 of the best Continue reading..."
     },
     {
@@ -464,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sX09Hp5KRzThzMWqNb8VqzKhEqm1iyp4kBlkMSfUkvY",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1028,7 +1028,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/alandria-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rw8nOjf9SG_oHwfICkbxBWb5kzC_3dWFHqSi--6GKJQ",
+      "image": "",
       "excerpt": "We get to know the Los Angeles-based duo, who tell us about their “creative language” when producing together and stirring emotions with their lusicous, vocal-led house music Continue reading..."
     },
     {
