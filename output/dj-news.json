@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:28:17.035Z",
+  "generatedAt": "2026-08-20T11:24:49.637Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,18 @@
       "excerpt": "La historia de Como Asesinar a Felipes se sigue escribiendo de modo emocionante. Los chilenos realmente encontraron su propio tesoro... La entrada Umbral se publicó primero en MondoSonoro ."
     },
     {
+      "id": "8a49a63a8e438b0fa6cd8651b98c21f801bea769",
+      "title": "Petition launched as Rotterdam festivals threatened with funding cuts",
+      "link": "https://mixmag.net/read/petition-launched-rotterdam-festivals-threatened-funding-cuts-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/rotterdam-night-petition.jpg?fit=cover&width=660&s=cIcLY4ZIz0GsZASTIdjm1rPAZO7ZFA_NKO6Yyelcz1E",
+      "excerpt": "The city council has proposed a €656,000 annual cut to its budget for cultural events Continue reading..."
+    },
+    {
       "id": "8d0ffc168c27eda7c74ecd3c06a150a18ae44753",
       "title": "The Mix 120: DJ Travella",
       "link": "https://mixmag.net/feature/the-mix-120-dj-travella-singeli-kuduro-tanzania-interview-set",
@@ -176,7 +188,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Travella_Web2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0Q-auxIk3swv_lROi3ZyKeAEBcTH8w2sgVeODFhIgro",
+      "image": "",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
@@ -193,7 +205,7 @@
     },
     {
       "id": "15ed3a59a9d4c0ac574d221c95d66be936ba95f0",
-      "title": "Chris Stussy to enter “next chapter” with first release under new alias Chris Stassy",
+      "title": "Chris Stussy to enter “next chapter” with first release under new alias CHRIS STASSY",
       "link": "https://mixmag.net/read/chris-stussy-enter-next-chapter-first-release-new-alias-stassy-u-know-me-news",
       "published": "",
       "publishedTs": 0,
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Animal-Farm.jpg?fit=cover&width=660&s=KcCNojJw8k2V7yZGIh21fyJG8LXiVygVgVJt9SOUjB0",
       "excerpt": "Cox has worked with director Andy Serkis in the past, previously on 2021&#039;s Venom: Let There Be Carnage Continue reading..."
-    },
-    {
-      "id": "db50bc1d6968de8d422e97c71762b07887858996",
-      "title": "Moscow’s Outline Festival cancelled, cites threat of Ukrainian drone strikes",
-      "link": "https://mixmag.net/read/moscow-outline-festival-cancelled-cites-threat-drone-strikes-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/outline-festival-moscow.jpg?fit=cover&width=660&s=KXVWbYDhUsjz3tWxa9vFB5P4CmWosOJaoouAwogmADc",
-      "excerpt": "Organisers confirmed the festival&#039;s cancellation the same day its gates opened earlier this week Continue reading..."
     }
   ]
 }
