@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T03:00:57.825Z",
+  "generatedAt": "2026-08-21T04:36:25.333Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
       "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
@@ -812,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/test2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KXXXlw-tBqVQBsz0FzzY_1_UhCUwcmzekkRYb94seas",
       "excerpt": "The last five years have been fruitful for literature around electronic music’s global expanse of scenes, ideas, and movements. We’ve compiled some of the best recently-released books you should check out this summer Continue reading..."
     },
     {
