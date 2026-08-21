@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:33:04.036Z",
+  "generatedAt": "2026-08-21T15:31:47.162Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "fetch failed"
     }
   ],
   "items": [
+    {
+      "id": "461838f139090d813fed53ed7046608ccd77cb01",
+      "title": "Reseñamos 'Soft Control', el décimo disco de The Afghan Whigs",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-afghan-whigs-soft-control/",
+      "published": "2026-08-21T15:13:28.000Z",
+      "publishedTs": 1787325208000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Afghan-Whigs-Soft-Control.jpg",
+      "excerpt": "El décimo trabajo de estudio de The Afghan Whigs llega después de una etapa especialmente fértil, con el grupo avanzando... La entrada Reseñamos &#039;Soft Control&#039;, el décimo disco de The Afghan Whigs se publicó primero en MondoSon…"
+    },
     {
       "id": "27f548e93a84ca5e052f8dafbe6f58df063c48e4",
       "title": "Crítica de 'What Are The Odds', el nuevo álbum de Jorja Smith",
@@ -154,18 +168,16 @@
       "excerpt": "Aparte del hecho irrefutable de que The Mountain Goats hayan sido siempre (y desde que hicieran su aparición a mediados... La entrada Days se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7a1ba2705dc4408629635526c22e2f1292925935",
-      "title": "Aprendices",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bringas-aprendices/",
-      "published": "2026-08-14T16:14:59.000Z",
-      "publishedTs": 1786724099000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/bringas.jpg",
-      "excerpt": "La ausencia, ese gran puñado de vida y fuente de pena, como quedó bautizada por el escritor Octavio Paz, se... La entrada Aprendices se publicó primero en MondoSonoro ."
+      "id": "6e6c4e417db571ccdaea315a3d9cf380a49e61a1",
+      "title": "Long-running Scottish venue Club 69 to close this autumn",
+      "link": "https://mixmag.net/read/long-running-scottish-venue-club-69-close-this-autumn-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/club-69-paisley.jpg?fit=cover&width=660&s=EaG_IPHyfwcvl6Oyv7FADcJmrX9Pep8iA53qzzIXmfY",
+      "excerpt": "The Paisley nightclub will shutter on October 10 following a string of final parties Continue reading..."
     },
     {
       "id": "3ce97c71a4b7f41ecd1efc0cf511c62bf9cd0e72",
@@ -392,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
+      "image": "",
       "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
@@ -620,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_deBasement2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PjNRm9asJvQMNqvyBbwXL0XK8Nz-9K4tnvXBXeQpuHI",
       "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ODB-by-Orstzeit.png?fit=cover&width=660&s=ebI4BmmUfFmwtE4NNGloAK4fvpMHIFJdm-dnCgGX3SM",
       "excerpt": "Putnam Avenue in Bed-Stuy has been co-named &#039;ODB Jones Way&#039; following a ceremony on Sunday Continue reading..."
-    },
-    {
-      "id": "6e1368b94510dc0c6243a549915e5f504d9f51d1",
-      "title": "Delta Festival \"bans\" co-founder Olivier Ledot amid sexual violence allegations",
-      "link": "https://mixmag.net/read/delta-festival-co-founder-olivier-ledot-sexual-violence-allegations-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/delta-festival.jpg?fit=cover&width=660&s=00QtZLo9M2ltnSDwNuJT0Xp3qbwFc80vrAYeIanWGvo",
-      "excerpt": "The Marseille-based electronic festival took place as usual over the weekend, despite several artist drop-outs Continue reading..."
     }
   ]
 }
