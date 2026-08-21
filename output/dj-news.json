@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T09:34:56.005Z",
+  "generatedAt": "2026-08-21T10:28:25.861Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "27f548e93a84ca5e052f8dafbe6f58df063c48e4",
+      "title": "Crítica de 'What Are The Odds', el nuevo álbum de Jorja Smith",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jorja-smith-what-are-the-odds/",
+      "published": "2026-08-21T10:10:01.000Z",
+      "publishedTs": 1787307001000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Jorja-Smith-What-Are-The-Odds.jpg",
+      "excerpt": "Jorja Smith recupera toda su chulería con este “What Are The Odds”, su tercer disco de estudio, nuevo peldaño en... La entrada Crítica de &#039;What Are The Odds&#039;, el nuevo álbum de Jorja Smith se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "d3599a4f43510aa0e1749c4acff842e2683d03af",
+      "title": "Jazzthetics",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/divorce-from-new-york-jazzthetics/",
+      "published": "2026-08-21T09:40:25.000Z",
+      "publishedTs": 1787305225000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Divorce-from-new-york.jpg",
+      "excerpt": "Álvaro Granda, quien formó parte del proyecto Reykjavik606, vuelve a sorprender con un elegante E.P. de canciones construidas a base... La entrada Jazzthetics se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5ce02b4fc77f3a19d48a0b899f4e6cb83ca4cbde",
       "title": "Pure Devotion",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/bringas.jpg",
       "excerpt": "La ausencia, ese gran puñado de vida y fuente de pena, como quedó bautizada por el escritor Octavio Paz, se... La entrada Aprendices se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8a8b4af63962f7a780a585f63b7f04340bba8a11",
-      "title": "Give Me Dirt",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/give-me-dirt-cancer-bats/",
-      "published": "2026-08-14T12:39:51.000Z",
-      "publishedTs": 1786711191000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/CancerBatsCD.jpg",
-      "excerpt": "¿En serio han pasado veinte años desde que esta banda sacó su primer disco? “Give Me Dirt”, el nuevo disco... La entrada Give Me Dirt se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0059a2ac89ffb28e2e1e06648cdc2a66c113fe9b",
-      "title": "Lost Weekend",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lost-weekend-phoebe-bridgers/",
-      "published": "2026-08-14T08:39:40.000Z",
-      "publishedTs": 1786696780000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/PhoebeBridgersLostWeekend.jpg",
-      "excerpt": "La carrera de Phoebe Bridgers la ha llevado de ser una cantautora indie favorita de la crítica a una extraña... La entrada Lost Weekend se publicó primero en MondoSonoro ."
     },
     {
       "id": "7e703a28c76864cf06bc720912ada704921ed3be",
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
+      "image": "",
       "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
