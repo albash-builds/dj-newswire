@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T19:21:01.311Z",
+  "generatedAt": "2026-08-22T20:20:48.781Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -236,7 +236,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SOUND-IT-LEAD.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=aEKHTL9okBg-mTnQNlTRZQQuu61ctOBvawV3lFh5UP0",
+      "image": "",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Travella_Web2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0Q-auxIk3swv_lROi3ZyKeAEBcTH8w2sgVeODFhIgro",
+      "image": "",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
