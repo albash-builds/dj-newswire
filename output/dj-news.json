@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:32:08.885Z",
+  "generatedAt": "2026-08-23T08:27:48.949Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "7477f80b4469763e2538b059a6cd9cda496983d7",
+      "title": "BITCH",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lizzo-bitch/",
+      "published": "2026-08-23T08:02:25.000Z",
+      "publishedTs": 1787472145000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Lizzo-BITCH-.jpg",
+      "excerpt": "El nuevo disco de Lizzo es una huida hacia adelante. Un claro retrato del complejo estatus que atraviesa como artista... La entrada BITCH se publicó primero en MondoSonoro ."
+    },
     {
       "id": "461838f139090d813fed53ed7046608ccd77cb01",
       "title": "Reseñamos 'Soft Control', el décimo disco de The Afghan Whigs",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/IbeyiCDWEB.jpg",
       "excerpt": "Quien haya podido presenciar un directo de las hermanas franco-cubanas Díaz, Ibeyi, estará seguramente esperando cualquier tipo de nuevas noticias... La entrada Offering se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cd4516de65e919e64ba9e2afc954ab8145c0409b",
-      "title": "Days",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/days-mountain-goats/",
-      "published": "2026-08-15T06:11:45.000Z",
-      "publishedTs": 1786774305000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/TheMountainGoatsCD.jpg",
-      "excerpt": "Aparte del hecho irrefutable de que The Mountain Goats hayan sido siempre (y desde que hicieran su aparición a mediados... La entrada Days se publicó primero en MondoSonoro ."
     },
     {
       "id": "425cc44dfe59c24b6f6b8d1faaf68cef5e5ff3b9",
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
+      "image": "",
       "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
@@ -560,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=sX09Hp5KRzThzMWqNb8VqzKhEqm1iyp4kBlkMSfUkvY",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
