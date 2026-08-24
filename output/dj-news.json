@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T14:39:46.074Z",
+  "generatedAt": "2026-08-24T15:37:41.138Z",
   "total": 90,
   "sources": [
     {
@@ -28,9 +28,23 @@
   ],
   "items": [
     {
-      "id": "1d7e655101a8254246b1418c400b1e8a41578363",
+      "id": "16353c33f5f641494dd985ae8a29aedee6fb7a38",
+      "title": "The Dark",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/chelsea-wolfe-the-dark/",
+      "published": "2026-08-24T15:05:35.000Z",
+      "publishedTs": 1787583935000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Chelsea-Wolfe-The-Dark.jpg",
+      "excerpt": "En este mundo hiper intercomunicado es cada vez más difícil encontrar artistas que se salgan de la norma o que... La entrada The Dark se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "373ca808a87e4ac177471c4e22a07bd45efd4ceb",
       "title": "Reseñamos 'Weezer (The Gold Album)', el nuevo trabajo de la banda de Rivers Cuomo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/resenamos-weezer-the-gold-album-el-nuevo-trabajo-de-la-banda-de-rivers-cuomo/",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/weezer-the-gold-album/",
       "published": "2026-08-24T14:29:30.000Z",
       "publishedTs": 1787581770000,
       "sourceId": "mondosonoro",
@@ -52,7 +66,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/James-Ellis-Ford-Lost-In-Another-World-.jpg",
+      "image": "",
       "excerpt": "Acostumbrado a dar nuevas vidas a otros, no podía sonar agonizante ni mortecino. El hombre que resultó fundamental – como... La entrada Lost In Another World se publicó primero en MondoSonoro ."
     },
     {
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Sparks-Live-On-The-Moon.jpg",
       "excerpt": "Sparks se han ganado el derecho a vacilarnos diciendo que han grabado en la Luna. En el cráter Taruntius, por... La entrada Live On The Moon se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8504adfb9b3342b1d4d633877490c58d936e2566",
-      "title": "Sunshine",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/jungle-sunshine/",
-      "published": "2026-08-18T17:27:41.000Z",
-      "publishedTs": 1787074061000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Jungle-Sunshine.jpg",
-      "excerpt": "En una sociedad en la que se prioriza la inmediatez y se aplaude el fácil consumo por encima de la... La entrada Sunshine se publicó primero en MondoSonoro ."
     },
     {
       "id": "319376151850fbd84b45d05d99e96bed4a5af0f0",
@@ -356,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Travella_Web2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0Q-auxIk3swv_lROi3ZyKeAEBcTH8w2sgVeODFhIgro",
+      "image": "",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
@@ -1100,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FAUZIA-WEB-PINK-PIC-UPDATE.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ta8bzHKfQ_vrM1n35i78wUeAVCzN_Qq0ZCL-YPfX_UE",
       "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
     },
     {
