@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:57:06.442Z",
+  "generatedAt": "2026-08-24T08:51:44.259Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -168,6 +168,18 @@
       "excerpt": "Hay artistas que parecen vivir toda su carrera atados a algo. Un estilo, un género, un disco, algo que los... La entrada La Nueva Violencia se publicó primero en MondoSonoro ."
     },
     {
+      "id": "af8fe3a3799148e280d092bb7c348538f77b6c1b",
+      "title": "Forging movements: Inside Stone Techno's groundshaking 2026 edition",
+      "link": "https://mixmag.net/feature/stone-techno-2026-festival-zollverein-essen-germany",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/stone-techno-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6bSyV6fTKGPaaRJaovgKJmP2F4rKrv9ZcXS97Bk68gw",
+      "excerpt": "Even with an expanded site at its UNESCO World Heritage home, Stone Techno maintained its immersive ethos for its latest edition Continue reading..."
+    },
+    {
       "id": "57e2b0b6ee93bdef22a10fb629bdc5146a1505f9",
       "title": "New music on our radar this week: Ahadadream, Eris Drew & Octo Octa, Leonce",
       "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-ahadadream-gyrofield-leonce-news",
@@ -284,7 +296,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Travella_Web2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0Q-auxIk3swv_lROi3ZyKeAEBcTH8w2sgVeODFhIgro",
+      "image": "",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
@@ -440,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BokBok2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Emk5x0YuVts9oBkvY7dF27w0wqnE9QhYfR_ZSsFhAp4",
       "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
@@ -500,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ORBIT-111.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gf3_xns5SbNosaFYbaEujtUSYTSONWRPjzAc8XMVXDM",
+      "image": "",
       "excerpt": "William Orbit was a titan of electronic music, reshaping the sound of the &#039;90s with an innovative, hybrid approach, and producing and co-writing some of the best tracks of all time. Here are 10 of the best Continue reading..."
     },
     {
@@ -656,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_deBasement2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PjNRm9asJvQMNqvyBbwXL0XK8Nz-9K4tnvXBXeQpuHI",
       "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
     },
     {
@@ -716,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kavinsky-obituary-header-WEB-01.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=liqnGGk8l7d1expkdwnTgjYj1d5pMN_HoosuIrdI9ao",
+      "image": "",
       "excerpt": "The Parisian producer, who has passed away at the age of 50, will forever be remembered as a hero of the French house scene, deeply respected by its pioneers. Gemma Ross pays tribute Continue reading..."
     },
     {
@@ -872,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/test2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KXXXlw-tBqVQBsz0FzzY_1_UhCUwcmzekkRYb94seas",
       "excerpt": "The last five years have been fruitful for literature around electronic music’s global expanse of scenes, ideas, and movements. We’ve compiled some of the best recently-released books you should check out this summer Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/misfits-melbourne.jpg?fit=cover&width=660&s=XVEHZt92jyrKjZ0TKpbNwAuGyIUWJ6MnToGo9ILJJpA",
       "excerpt": "The bar and live music space said that the &quot;exact closing date is still to come&quot; Continue reading..."
-    },
-    {
-      "id": "2398e7544caac0fe29fd5440a6a1055fc8fb793d",
-      "title": "10 people arrested at 300-strong illegal rave in Suffolk forest",
-      "link": "https://mixmag.net/read/10-people-arrested-300-strong-illegal-rave-suffolk-forest-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/illegal-forest-rave.jpg?fit=cover&width=660&s=WdmSo50qtyLHVU1QclEe8GYt6mt7z1cmZDyzHOQBhtg",
-      "excerpt": "Soundsystems were also seized at the unlicensed event, which took place near Capel St Andrew over the weekend Continue reading..."
     }
   ]
 }
