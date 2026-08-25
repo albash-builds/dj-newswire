@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:43:30.412Z",
+  "generatedAt": "2026-08-25T13:48:46.809Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Overmono-Pure-Devotion.jpg",
       "excerpt": "Overmono se confirman, en base a su segundo disco, como uno de los representantes destacados de la actual escena electrónica.... La entrada Pure Devotion se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "28aa0900a4fcffea194d0e06f5517a358f19a165",
+      "title": "Apple Music to introduce tag for AI-generated tracks",
+      "link": "https://mixmag.net/read/apple-music-begin-tagging-ai-generated-tracks-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music-ai-tag.jpg?fit=cover&width=660&s=peuP3EzQbUantm8jRXKJnSb_W6tARsTppwQFgYXNiag",
+      "excerpt": "The platform said it demonetised two billion “fraudulent” music streams last year Continue reading..."
     },
     {
       "id": "4a03bf9f96e940bcdaff1eb937d969f52a32f221",
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ai-music_2026-07-29-160732_kcqh.jpg?fit=cover&width=660&s=b9BfMJMhT5U0vk7BTvY8pIS158XFrjIhgqVF21U6AJY",
       "excerpt": "Suggested stipulations for inclusion in global charts include a requirement that tracks should be &quot;substantially human-made&quot; Continue reading..."
-    },
-    {
-      "id": "c2877f44ba54ae41adf3f80695f888d26b6e10e0",
-      "title": "The Mix 117: FAUZIA",
-      "link": "https://mixmag.net/feature/the-mix-117-fauzia-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
     }
   ]
 }
