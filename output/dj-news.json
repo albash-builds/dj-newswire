@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:33:27.380Z",
+  "generatedAt": "2026-08-25T10:30:55.394Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,18 @@
       "excerpt": "The Reytons evidencian, con el que ya es su cuarto álbum de estudio y tras títulos previos como “Kids Off... La entrada A Love Letter To A Broken Town se publicó primero en MondoSonoro ."
     },
     {
+      "id": "38ad7a48b74726668d497eb7de8060a2dbf5930b",
+      "title": "Cheshire Police dig up hoard of drugs at site of Creamfields Festival",
+      "link": "https://mixmag.net/read/cheshire-police-dig-up-hoard-drugs-creamfields-festival-site-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pills-nos.jpg?fit=cover&width=660&s=UUXbu5sPwdgjarR59XZaJ5b6y7Re2wTH5719jvnKm1s",
+      "excerpt": "The stash included pills featuring &quot;Cornetto&quot;, &quot;Nike T90&quot; and &quot;It&#039;s Coming Home&quot; presses Continue reading..."
+    },
+    {
       "id": "319376151850fbd84b45d05d99e96bed4a5af0f0",
       "title": "Sub Focus announces £1 grassroots ticket levy for 2027 UK arena shows",
       "link": "https://mixmag.net/read/sub-focus-announces-1-pound-grassroots-ticket-levy-2027-uk-arena-shows-news",
@@ -320,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SOUND-IT-LEAD.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=aEKHTL9okBg-mTnQNlTRZQQuu61ctOBvawV3lFh5UP0",
+      "image": "",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -752,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0EXlnSZjkuIBw5w8_JvomGla4nihiM4-ZQimMfCB6ew",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/historyofelectronic.jpg?fit=cover&width=660&s=UYa2RUQy_qewIhUt118PIx61WG5j23dUIHOJivPeiIM",
       "excerpt": "The forthcoming book will feature contributions from Armin van Buuren, Richie Hawtin, Hans Zimmer and Duran Duran&#039;s Nick Rhodes Continue reading..."
-    },
-    {
-      "id": "5a3679c767f153af6c91ac90341ce401e62aba98",
-      "title": "UK producer Bizzy B awarded honorary doctorate for pioneering work in hardcore",
-      "link": "https://mixmag.net/read/uk-producer-bizzy-b-awarded-honorary-doctorate-pioneering-work-hardcore-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bizzyb.jpg?fit=cover&width=660&s=ZtjwA8A63HU88RvLx4frtX9yuRm24tTsU7LCL_n3knM",
-      "excerpt": "The University of Greenwich honoured the Brain Records founder last week Continue reading..."
     }
   ]
 }
