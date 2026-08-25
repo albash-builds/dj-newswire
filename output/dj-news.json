@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:30:55.394Z",
+  "generatedAt": "2026-08-25T11:25:35.020Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "7a214486d9faa6136dfeb46aa05097043eaca781",
+      "title": "THRASHER",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/brandon-flowers-thrasher/",
+      "published": "2026-08-25T10:31:20.000Z",
+      "publishedTs": 1787653880000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Brandon-Flowers-Thrasher.jpg",
+      "excerpt": "Aunque se ha hablado mucho de cómo el country ha terminado convirtiéndose en la tendencia pop del momento (“Cowboy Carter”... La entrada THRASHER se publicó primero en MondoSonoro ."
+    },
     {
       "id": "519aff2d13bce327027ddfddba7827a4caf86004",
       "title": "Materia",
@@ -154,18 +168,16 @@
       "excerpt": "Overmono se confirman, en base a su segundo disco, como uno de los representantes destacados de la actual escena electrónica.... La entrada Pure Devotion se publicó primero en MondoSonoro ."
     },
     {
-      "id": "8e8a4a8723d82bbc790c7529131f97f53a5817df",
-      "title": "A Love Letter To A Broken Town",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-reytons-a-love-letter-to-a-broken-town/",
-      "published": "2026-08-20T09:00:43.000Z",
-      "publishedTs": 1787216443000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Reytons-A-Love-Letter-To-A-Broken-Town.jpg",
-      "excerpt": "The Reytons evidencian, con el que ya es su cuarto álbum de estudio y tras títulos previos como “Kids Off... La entrada A Love Letter To A Broken Town se publicó primero en MondoSonoro ."
+      "id": "4a03bf9f96e940bcdaff1eb937d969f52a32f221",
+      "title": "Seven arrested at illegal rave in sleepy Norfolk village Little Snoring",
+      "link": "https://mixmag.net/read/seven-arrested-illegal-rave-sleepy-norfolk-village-little-snoring-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/norfolk-constabulary-rave.jpg?fit=cover&width=660&s=Vp9seGpzyYrjWmAJyqPzfWqfH74xPSxumAh0-4Iitno",
+      "excerpt": "The loud music is reported to have been heard over a mile away by residents of the nearby village Great Snoring Continue reading..."
     },
     {
       "id": "38ad7a48b74726668d497eb7de8060a2dbf5930b",
@@ -332,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SOUND-IT-LEAD.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=aEKHTL9okBg-mTnQNlTRZQQuu61ctOBvawV3lFh5UP0",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -368,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Travella_Web2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0Q-auxIk3swv_lROi3ZyKeAEBcTH8w2sgVeODFhIgro",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "FAUZIA takes things back to the club with a UK-heavy mix and speaks to Z. Raza-Sheikh about not fitting into a box as an artist, learning to let things go, and the variety explored on her first EP in five years Continue reading..."
-    },
-    {
-      "id": "04dcee25206a88c3c85881708f613cc424e4a5e6",
-      "title": "Jean-Michel Jarre announces new book, Machines: A History of Electronic Music",
-      "link": "https://mixmag.net/read/jean-michel-jarre-announces-new-book-machines-history-of-electronic-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/historyofelectronic.jpg?fit=cover&width=660&s=UYa2RUQy_qewIhUt118PIx61WG5j23dUIHOJivPeiIM",
-      "excerpt": "The forthcoming book will feature contributions from Armin van Buuren, Richie Hawtin, Hans Zimmer and Duran Duran&#039;s Nick Rhodes Continue reading..."
     }
   ]
 }
