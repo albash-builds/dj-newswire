@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:16:16.363Z",
+  "generatedAt": "2026-08-26T19:00:36.389Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Divorce-from-new-york.jpg",
       "excerpt": "Álvaro Granda, quien formó parte del proyecto Reykjavik606, vuelve a sorprender con un elegante E.P. de canciones construidas a base... La entrada Jazzthetics se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "807ade8ca89569b202cef3ef1975d51a77c9a114",
+      "title": "Maribou State announce hiatus: “We want proper time to reset physically and mentally”",
+      "link": "https://mixmag.net/read/maribou-state-announce-hiatus-reset-lido-london-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MaribouState-PressShot-003-1.jpg?fit=cover&width=660&s=Eta6CD1TeErHjQ1YWJx6UvQANPoNhGRwghTONvyJVo0",
+      "excerpt": "The duo shared the news in an exclusive interview with Mixmag Continue reading..."
     },
     {
       "id": "91e5ee8be1bb3a3bae8881efc933902efb867808",
@@ -584,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cuddles-berlin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-n37ERODgjsLv3aaT0XYJ6Ik8SJMyZxTkBIGl7W0lfg",
       "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
     },
     {
@@ -596,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BokBok2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Emk5x0YuVts9oBkvY7dF27w0wqnE9QhYfR_ZSsFhAp4",
       "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
@@ -836,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JULY_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=0EXlnSZjkuIBw5w8_JvomGla4nihiM4-ZQimMfCB6ew",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "30 years ago, the Fugees starred on the cover of Mixmag. Published during the peak of gangsta rap’s dominant golden age, Lauryn Hill, Wyclef Jean and Pras Michel were intent on taking the music in a more conscious direction, aligned with…"
-    },
-    {
-      "id": "664cf38ffa0cc295d0c46166bf5518dd00a7d836",
-      "title": "New documentary charts the legacy of Berlin's Love Parade",
-      "link": "https://mixmag.net/read/new-documentary-charting-legacy-berlin-love-parade-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Love_Parade_Berlin_1996_2.jpg?fit=cover&width=660&s=JAJ02uR38UhxbcOoBQKMWsSqjKWyZ683c62doxofjMs",
-      "excerpt": "Marking two decades since the last Love Parade in Berlin, the new film follows a journey to revive it in the form of Rave The Planet Continue reading..."
     }
   ]
 }
