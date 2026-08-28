@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:48:43.172Z",
+  "generatedAt": "2026-08-28T23:24:05.372Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -168,6 +168,42 @@
       "excerpt": "En este mundo hiper intercomunicado es cada vez más difícil encontrar artistas que se salgan de la norma o que... La entrada The Dark se publicó primero en MondoSonoro ."
     },
     {
+      "id": "59672ff375dfd099f2f461e1691ffa92a10e2c31",
+      "title": "BLACMEX is calling on musicians to help create new Black live music archive",
+      "link": "https://mixmag.net/read/blacmex-is-calling-on-musicians-to-help-create-new-black-live-music-archive-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBlacmex.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=87b9ac4c",
+      "excerpt": "The UK&#039;s first Black music export service is asking artists to submit their performances in the hopes of establishing a verified record of live performances from the Black music sector Continue reading..."
+    },
+    {
+      "id": "e530f74a1c754f581a4015b77b47c6eaf11a747c",
+      "title": "Music initiative launched taking Thai artists to global stages in 2026",
+      "link": "https://mixmag.net/read/music-initiative-launched-taking-thai-artists-global-stages-2026-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fcea-thai-artists.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=908bec56",
+      "excerpt": "The project from CEA will support 33 Thai artists with funding and festival opportunities this year Continue reading..."
+    },
+    {
+      "id": "c641a9016b2a3c8e09ef3e39c06187e373e7dc00",
+      "title": "New documentary series to chart three decades of Jay-Z’s career",
+      "link": "https://mixmag.net/read/new-documentary-release-charting-three-decades-jay-z-career-rick-rubin-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fjay-z-rick-rubin.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=481672c7",
+      "excerpt": "Marking Rick Rubin’s directorial debut, the eight-part series is set to land next month Continue reading..."
+    },
+    {
       "id": "4598feff3313012692f40c35734870c7c5f902fe",
       "title": "Wu-Tang Clan car wheel rim goes up for auction at $50,000",
       "link": "https://mixmag.net/read/wu-tang-clan-bmw-rim-currently-auction-50000-dollars-news",
@@ -213,7 +249,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fiklectik-reopen-peckham.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=85ce3ce0",
-      "excerpt": "The South London venue said it sought relief rates as as a “cultural not-for-profit”, but was denied Continue reading..."
+      "excerpt": "The South London venue said it sought relief rates as a “cultural not-for-profit”, but was denied Continue reading..."
     },
     {
       "id": "7024caf1e3777263eef92e96fb9959f04fc3f27d",
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Flollapalooza-pee.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=cdf52bd3",
       "excerpt": "The crowdsurfing pee bag was spotted at the Chicago festival over the weekend Continue reading..."
-    },
-    {
-      "id": "9b775611c2e3507e75d00f11779f444c32310e7b",
-      "title": "North Shields' Are You Affiliated launches promoter support scheme",
-      "link": "https://mixmag.net/read/north-shields-are-you-affiliated-launches-promoter-support-programme-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FKing-st.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=b4d9a042",
-      "excerpt": "The grassroots project is offering free venue hire for King Street Social Club along with a mentorship scheme Continue reading..."
-    },
-    {
-      "id": "76dd78630467598de20894f410124a987da310f8",
-      "title": "AI music generator Suno loses copyright infringement court battle",
-      "link": "https://mixmag.net/read/ai-music-generator-suno-loses-copyright-infringement-court-battle-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fsuno-court_2026-08-03-163110_kglc.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=f073dd42",
-      "excerpt": "The landmark ruling was made by a German court last week in favour of performance rights organisation GEMA Continue reading..."
-    },
-    {
-      "id": "f1be6d4e725fd33bc33034960f6b62b8a981865a",
-      "title": "Massive Attack banned from Singapore following Palestine flag display",
-      "link": "https://mixmag.net/read/massive-attack-banned-from-singapore-following-palestine-flag-display-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMA_2026-07-31-124415_eczx.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=dfa46cc2",
-      "excerpt": "The band claim that Singapore police forces detained its two members and confiscated their passports following their show in the city-state last week Continue reading..."
     }
   ]
 }
