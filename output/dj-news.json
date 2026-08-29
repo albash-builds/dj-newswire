@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T19:39:17.052Z",
+  "generatedAt": "2026-08-29T22:22:44.957Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -572,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSOUND-IT-LEAD.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=e603a972",
+      "image": "",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -980,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_deBasement2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=747c084f",
       "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
     },
     {
