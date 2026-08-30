@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:54:36.468Z",
+  "generatedAt": "2026-08-30T13:34:37.963Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "4db8923f97d958a6f2b8d225f85bbd2f2be9da99",
+      "title": "Chrome",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ty-segall-chrome/",
+      "published": "2026-08-30T10:03:38.000Z",
+      "publishedTs": 1788084218000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Ty-Segall-Chrome.jpg",
+      "excerpt": "Entre su etapa acústica, proyectos irregulares en los que subrayaba su amor por la percusión (“Love Rudiments”) y algún viejo... La entrada Chrome se publicó primero en MondoSonoro ."
+    },
     {
       "id": "5ee73fe8ad62e52d866d037d65a6221699e55799",
       "title": "Live!",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Julia-Holter-Materia.jpg",
       "excerpt": "Anunciado como una especie de complemento menor de su majestuoso anterior “Something In The Room She Moves” (24), en realidad,... La entrada Materia se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "16353c33f5f641494dd985ae8a29aedee6fb7a38",
-      "title": "The Dark",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/chelsea-wolfe-the-dark/",
-      "published": "2026-08-24T15:05:35.000Z",
-      "publishedTs": 1787583935000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Chelsea-Wolfe-The-Dark.jpg",
-      "excerpt": "En este mundo hiper intercomunicado es cada vez más difícil encontrar artistas que se salgan de la norma o que... La entrada The Dark se publicó primero en MondoSonoro ."
     },
     {
       "id": "11aae50ac865920acebefbc3eb256fed4ee0634d",
@@ -440,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAmnesia-1.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=745e1084",
       "excerpt": "Amnesia marks its 50th anniversary this season, and to celebrate, we&#039;ve compiled some of the legendary DJ sets that have taken place in the White Isle institution Continue reading..."
     },
     {
