@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T22:22:44.957Z",
+  "generatedAt": "2026-08-30T01:04:54.970Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FLead-NTc.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=5ef216ef",
+      "image": "",
       "excerpt": "As Notting Hill Carnival gears up for its 60th anniversary edition, music industry veteran and Caribbean culture specialist Ray Paul pens an op-ed about celebrating the region&#039;s impactful music all year round Continue reading..."
     },
     {
@@ -908,7 +908,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FJULY_Best_Of_Albums2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=b0811ba0",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -980,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_deBasement2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=747c084f",
+      "image": "",
       "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
     },
     {
