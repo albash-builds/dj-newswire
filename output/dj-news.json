@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T03:52:28.145Z",
+  "generatedAt": "2026-08-31T10:34:58.479Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "5b30f32bb088c8c53eb904bd7da0b7ce8930e812",
+      "title": "It Goes On",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/westside-cowboy-it-goes-on/",
+      "published": "2026-08-31T06:51:19.000Z",
+      "publishedTs": 1788159079000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Westside-Cowboy-It-Goes-On-Island-Records.jpg",
+      "excerpt": "Encumbrados como acontecimiento antes de haber tenido siquiera tiempo de digerir lo que supone ser una banda, Westside Cowboy son... La entrada It Goes On se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f372f36148a95d0354f57e3b8dcd1dbaba7b5f15",
+      "title": "Crítica de 'There Near', el decimotercer disco de Dinosaur Jr.",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dinosaur-jr-there-near/",
+      "published": "2026-08-31T05:24:38.000Z",
+      "publishedTs": 1788153878000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Dinosaur-Jr-There-Near.jpg",
+      "excerpt": "No news, good news. Todo en el nuevo álbum de J Mascis, Lou Barlow y Murph suena rotundamente familiar. Y... La entrada Crítica de &#039;There Near&#039;, el decimotercer disco de Dinosaur Jr. se publicó primero en MondoSonoro ."
+    },
     {
       "id": "4db8923f97d958a6f2b8d225f85bbd2f2be9da99",
       "title": "Chrome",
@@ -140,34 +168,6 @@
       "excerpt": "Reuniones como la de The Blood Brothers en 2024 sirven muchas veces para volver a poner las cosas en movimiento, aunque... La entrada Terraform The Afterlife se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7a214486d9faa6136dfeb46aa05097043eaca781",
-      "title": "THRASHER",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/brandon-flowers-thrasher/",
-      "published": "2026-08-25T10:31:20.000Z",
-      "publishedTs": 1787653880000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Brandon-Flowers-Thrasher.jpg",
-      "excerpt": "Aunque se ha hablado mucho de cómo el country ha terminado convirtiéndose en la tendencia pop del momento (“Cowboy Carter”... La entrada THRASHER se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "519aff2d13bce327027ddfddba7827a4caf86004",
-      "title": "Materia",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/julia-holter-materia/",
-      "published": "2026-08-25T07:39:32.000Z",
-      "publishedTs": 1787643572000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Julia-Holter-Materia.jpg",
-      "excerpt": "Anunciado como una especie de complemento menor de su majestuoso anterior “Something In The Room She Moves” (24), en realidad,... La entrada Materia se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "11aae50ac865920acebefbc3eb256fed4ee0634d",
       "title": "Festival line-ups you might have missed: No Bounds, Beyond The Music, AVA London",
       "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-no-bounds-beyond-the-music-ava-london-news",
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FLead-NTc.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=5ef216ef",
       "excerpt": "As Notting Hill Carnival gears up for its 60th anniversary edition, music industry veteran and Caribbean culture specialist Ray Paul pens an op-ed about celebrating the region&#039;s impactful music all year round Continue reading..."
     },
     {
@@ -1004,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FJULY_Best_Of_Tracks2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=ff4dadf3",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
