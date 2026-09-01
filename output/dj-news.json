@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:18:18.348Z",
+  "generatedAt": "2026-09-01T13:07:38.327Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "18a240e1f69dc2c93b17a401b1ce7633b9eab247",
+      "title": "Blue Island",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ravyn-lenae-blue-island/",
+      "published": "2026-09-01T12:30:20.000Z",
+      "publishedTs": 1788265820000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Ravyn-Lenae-Blue-Island.jpg",
+      "excerpt": "Ravyn Lenae relata con su nuevo álbum un proceso de reconexión en todos los sentidos. Por un lado, mira hacia... La entrada Blue Island se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "1a1581c296d0fd77fa98081ed83e15d003b1f83d",
+      "title": "I Must Be Dreaming",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/alabama-shakes-i-must-be-dreaming/",
+      "published": "2026-09-01T11:23:53.000Z",
+      "publishedTs": 1788261833000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Alabama-Shakes-I-Must-Be-Dreaming.jpg",
+      "excerpt": "Once años han pasado desde la última entrega del trío Alabama Shakes que ahora mismo forman Brittany Howard, Heath Fogg... La entrada I Must Be Dreaming se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9a05d3858d0d550ceb2348bfa9fa1287691f1df2",
       "title": "The Womack Sisters",
@@ -140,32 +168,28 @@
       "excerpt": "La sombra del góspel marcó para siempre una de las cimas de Lambchop: la canción más conocida de su carrera,... La entrada Punching The Clown se publicó primero en MondoSonoro ."
     },
     {
-      "id": "da6c047dc7c6fa518037ea03185fc42207e43552",
-      "title": "This Mirror Weighs A Ton",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/interpol-this-mirror-weighs-a-ton/",
-      "published": "2026-08-27T13:29:34.000Z",
-      "publishedTs": 1787837374000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/interpol-this-mirror-weighs-a-ton.jpg",
-      "excerpt": "“This Mirror Weighs A Ton” es ya el octavo disco de estudio en el casillero de Interpol, y sirve para... La entrada This Mirror Weighs A Ton se publicó primero en MondoSonoro ."
+      "id": "343eec7f110313ffd18eccc6115f25e1fe70c516",
+      "title": "Former gang leader found guilty of orchestrating Tupac’s murder after three decades",
+      "link": "https://mixmag.net/read/former-gang-leader-found-guilty-orchestrating-tupac-murder-three-decades-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2F2pac-hits.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=75ddff89",
+      "excerpt": "63-year-old Duane &quot;Keffe D&quot; Davis was accused of instigating, but not conducting, the murder Continue reading..."
     },
     {
-      "id": "7a00ea9e15a7cb860b8209bfb4449941ad47c8c4",
-      "title": "Amnesia",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/chico-blanco-amnesia/",
-      "published": "2026-08-27T08:38:00.000Z",
-      "publishedTs": 1787819880000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Chico-Blanco-Amnesia.jpg",
-      "excerpt": "Golpear el timón de tu carrera para redirigir el rumbo hacia un nuevo destino es un gesto tan revitalizante como... La entrada Amnesia se publicó primero en MondoSonoro ."
+      "id": "3c2a09c50f8bcc88057d9573f9d21bc9a9026eca",
+      "title": "\"Red alert\" issued over Donald Trump pills in the Netherlands",
+      "link": "https://mixmag.net/read/red-alert-issued-donald-trump-pills-netherlands-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fdrugs-trump.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=8d61235d",
+      "excerpt": "Utrecht-based research centre Trimbos Institute detected &quot;high volumes&quot; of PMMA in the batch, which are pressed in the shape of the US President Continue reading..."
     },
     {
       "id": "74391add9aa5060f7e417e312eb9f25c9f30d396",
@@ -188,7 +212,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fno-bounds-festival.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=b147dc3a",
       "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
@@ -284,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FLead-NTc.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=5ef216ef",
+      "image": "",
       "excerpt": "As Notting Hill Carnival gears up for its 60th anniversary edition, music industry veteran and Caribbean culture specialist Ray Paul pens an op-ed about celebrating the region&#039;s impactful music all year round Continue reading..."
     },
     {
@@ -452,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAmnesia-1.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=745e1084",
+      "image": "",
       "excerpt": "Amnesia marks its 50th anniversary this season, and to celebrate, we&#039;ve compiled some of the legendary DJ sets that have taken place in the White Isle institution Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "Batu and Donato Dozzy were drawn to each other&#039;s music years before they met in person. Since connecting in real life, they&#039;ve become friends and collaborators, first playing B2B DJ sets and now releasing a debut joint album. I…"
-    },
-    {
-      "id": "cc90332cbc9390661f7470e9c4c1d8159bd699e1",
-      "title": "Dance music-focused record store launches in Birmingham",
-      "link": "https://mixmag.net/read/dance-music-focused-record-store-launches-birmingham-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2F3-phase-Records.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=8e8f6fe6",
-      "excerpt": "3 Phase Records has opened within a Grade II-listed building in Birmingham&#039;s Gun Quarter Continue reading..."
-    },
-    {
-      "id": "fc5f07d5cf5c1c7ece0341000dae17b4676926a9",
-      "title": "The Lot Radio launches fundraiser for team member undergoing cancer treatment",
-      "link": "https://mixmag.net/read/the-lot-radio-launches-fundraiser-team-member-undergoing-cancer-treatment-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fthe-lot-fundraiser.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=3c075de7",
-      "excerpt": "The station is raising funds toward Lola Evans’ medical bills as she steps away from work Continue reading..."
     }
   ]
 }
