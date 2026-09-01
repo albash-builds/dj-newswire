@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T13:07:38.327Z",
+  "generatedAt": "2026-09-01T17:37:13.920Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "27ac811993506bd1c1641f0a2b96e06751b39119",
+      "title": "A sip of joy",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/silkat-a-sip-of-joy/",
+      "published": "2026-09-01T16:35:38.000Z",
+      "publishedTs": 1788280538000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Silkat.jpg",
+      "excerpt": "Tras sacar un par de singles en 2024, este joven trío bilbaíno, nacido en 2023, publica ahora su primer EP.... La entrada A sip of joy se publicó primero en MondoSonoro ."
+    },
     {
       "id": "18a240e1f69dc2c93b17a401b1ce7633b9eab247",
       "title": "Blue Island",
@@ -154,18 +168,64 @@
       "excerpt": "El post Beastie Boys, post muerte de MCA, es un marrón. Es complicado no pensar en el trío de eternos... La entrada Thank You se publicó primero en MondoSonoro ."
     },
     {
-      "id": "a3355e97aac92ba71485a0109f80956ece5beade",
-      "title": "Punching The Clown",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lambchop-punching-the-clown/",
-      "published": "2026-08-27T14:28:12.000Z",
-      "publishedTs": 1787840892000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Lambchop-Punching-The-Clown.jpg",
-      "excerpt": "La sombra del góspel marcó para siempre una de las cimas de Lambchop: la canción más conocida de su carrera,... La entrada Punching The Clown se publicó primero en MondoSonoro ."
+      "id": "567e18ec2b329af11b08b3159797524ae5d8433c",
+      "title": "Breaking the cycle: Bonobo’s evolution is entering a new phase",
+      "link": "https://mixmag.net/feature/bonobo-distance-in-static-interview-cover-feature-dj",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM__BONOBO_WEB_2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3d6aa4c8",
+      "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
+    },
+    {
+      "id": "e89da25022dcd22382b5e7fb5588cbd5927e0a70",
+      "title": "The Cover Mix: Bonobo",
+      "link": "https://mixmag.net/feature/the-cover-mix-bonobo-dj-mixmag-lab-london",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM_COVERMIX_bonobo_WEB2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=d8003866",
+      "excerpt": "Bonobo serves up a mix packed full of organic house and high-energy percussive rhythms Continue reading..."
+    },
+    {
+      "id": "f02a68e3e76668d2bced186efa5c8e0cdcd5486c",
+      "title": "Leeds Festival attendees get Uber to Creamfields because there was “no house music”",
+      "link": "https://mixmag.net/read/leeds-festival-attendees-uber-creamfields-no-house-music-sets-cancelled-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fcreamfields-credit-Anthony-Mooney.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=648eddd1",
+      "excerpt": "The couple paid almost £1,000 to get to the festival, saying they needed “some oonts oonts” Continue reading..."
+    },
+    {
+      "id": "5e046e21e1e0d63580e7d15c85a0f8a33e135a51",
+      "title": "New York nightclub BASEMENT bans smart glasses from venue",
+      "link": "https://mixmag.net/read/new-york-nightclub-basement-bans-smart-glasses-from-venue-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fbasement-ny.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=a364ca60",
+      "excerpt": "The Queens venue says any device that can record discreetly is not compatible with its no-photo policy Continue reading..."
+    },
+    {
+      "id": "3295fc0a4aa81656cd7b98f08c7f2ce5205f84b4",
+      "title": "One dead and five injured following shooting at Swiss rave",
+      "link": "https://mixmag.net/read/one-dead-five-injured-following-shooting-swiss-rave-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FPolice_2026-09-01-120600_dcen.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=1c195f32",
+      "excerpt": "A 43-year-old Swiss national has been arrested following the shooting in Aarau on Sunday Continue reading..."
     },
     {
       "id": "343eec7f110313ffd18eccc6115f25e1fe70c516",
@@ -608,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSOUND-IT-LEAD.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=e603a972",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -1066,66 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fmanchester-airport.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=a6bacc86",
       "excerpt": "It marks the second time the ambient album will be performed at an airport following a performance at Liverpool John Lennon in 2006 Continue reading..."
-    },
-    {
-      "id": "91b15ce1b264d71ad22cce3ecb588e26135a6515",
-      "title": "RIP Kavinsky: The world-building producer who gave colour to the brooding sound of synthwave",
-      "link": "https://mixmag.net/feature/rip-kavinsky-world-building-producer-gave-colour-synthwave-electro-paris-obituary-tribute",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "The Parisian producer, who has passed away at the age of 50, will forever be remembered as a hero of the French house scene, deeply respected by its pioneers. Gemma Ross pays tribute Continue reading..."
-    },
-    {
-      "id": "b84cd7e8a6d7e4ba9efbb6e43b19ff70922aba49",
-      "title": "Spybar co-owner sentenced to jail after smuggling six kilos of ketamine in luggage",
-      "link": "https://mixmag.net/read/spybar-co-owner-sentenced-jail-smuggling-six-kilos-ketamine-luggage-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fspybar-co-owner.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=fa2f41c1",
-      "excerpt": "Dino Gardiakos has been jailed for six years following his 2024 arrest Continue reading..."
-    },
-    {
-      "id": "0cdbdc1a48815ae9949139d244fa3da27439a37e",
-      "title": "MPH in The Mixmag Lab",
-      "link": "https://mixmag.net/read/mph-in-the-mixmag-lab-dj-lab",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMPH-lab.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=140d6004",
-      "excerpt": "The UK garage and bassline specialist steps up to make his Mixmag Lab debut Continue reading..."
-    },
-    {
-      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
-      "title": "Who's playing The Mixmag Lab?",
-      "link": "https://mixmag.net/feature/lab-ldn",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
-    },
-    {
-      "id": "88eec8677d7954430f36879fc393b1b3a4676738",
-      "title": "Batu and Donato Dozzy in conversation",
-      "link": "https://mixmag.net/feature/batu-donato-dozzy-in-conversation-interview-exhale",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Batu and Donato Dozzy were drawn to each other&#039;s music years before they met in person. Since connecting in real life, they&#039;ve become friends and collaborators, first playing B2B DJ sets and now releasing a debut joint album. I…"
     }
   ]
 }
