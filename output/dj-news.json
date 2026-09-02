@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:15:08.460Z",
+  "generatedAt": "2026-09-02T17:36:46.806Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Ty-Segall-Chrome.jpg",
       "excerpt": "Entre su etapa acústica, proyectos irregulares en los que subrayaba su amor por la percusión (“Love Rudiments”) y algún viejo... La entrada Chrome se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0b4b9846902148b5b9ea87da0d94e5694c6121fc",
+      "title": "The Mix 121: Surusinghe",
+      "link": "https://mixmag.net/feature/the-mix-121-surusinghe-dj-mix-london-club-bass-australia-cutting-thread",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Surusinghe2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3fd41d4f",
+      "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
+    },
+    {
+      "id": "324e6dabe0fa91c43289e35ae7d3be6a6a855475",
+      "title": "Arts Council England launches new Music Creators Growth Fund",
+      "link": "https://mixmag.net/read/arts-council-england-launches-new-music-creators-growth-fund-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fmusic-support.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=1f10fe19",
+      "excerpt": "Established DJs, producers, artist collectives and more can apply for grants between £10,000 and £20,000 Continue reading..."
     },
     {
       "id": "a06f8262cee11914d959bd7aa81c0647ed46c686",
@@ -404,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FLead-NTc.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=5ef216ef",
+      "image": "",
       "excerpt": "As Notting Hill Carnival gears up for its 60th anniversary edition, music industry veteran and Caribbean culture specialist Ray Paul pens an op-ed about celebrating the region&#039;s impactful music all year round Continue reading..."
     },
     {
@@ -704,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSOUND-IT-LEAD.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=e603a972",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -896,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_BokBok2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=262816cb",
+      "image": "",
       "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fthomas-bangalter_2026-06-23-104219_qkdu.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=e7cec844",
       "excerpt": "The former robot made the comments during an interview with Chanel&#039;s Yana Peel at Art Basel, Switzerland Continue reading..."
-    },
-    {
-      "id": "15a92f4e19e2773f95e8c0058c9fe68940808a5f",
-      "title": "The Mix 118: deBasement",
-      "link": "https://mixmag.net/feature/the-mix-118-debasement-punk-bass-los-angeles-hardbody",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "LA duo deBasement, made up of DJ-producer Margo XS and punk provocateur Alli Logout, are emerging through a saturated ecosystem of hard-and-fast dance music at a pivotal moment. They deliver a mix made up almost entirely of their own pro…"
-    },
-    {
-      "id": "201138b49887afe328d1c90c7ad0b8fe47cf7f7a",
-      "title": "Several Birmingham nightclubs under threat due to railway expansion plans",
-      "link": "https://mixmag.net/read/several-birmingham-nightclubs-under-threat-due-to-railway-expansion-plans-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fclubcolette.png&width=660&focalX=0.5&focalY=0.5&quality=80&cb=cd949f5a",
-      "excerpt": "Beloved venues including Club Colette, XOYO and Mama Roux&#039;s would be demolished as part of newly-announced proposals from the Midlands Rail Hub Alliance Continue reading..."
     }
   ]
 }
