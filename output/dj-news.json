@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T01:03:24.915Z",
+  "generatedAt": "2026-09-03T06:52:48.298Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "a35d5d2dc6a136fcd5c15ffdffe62f232d76b568",
+      "title": "Nine",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/russian-circles-nine/",
+      "published": "2026-09-03T06:32:10.000Z",
+      "publishedTs": 1788417130000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Russian-Circles-nine.jpg",
+      "excerpt": "El trío de Chicago regresa con “Nine”, noveno disco de estudio y sexto con la discográfica Sargent House. Repiten con... La entrada Nine se publicó primero en MondoSonoro ."
+    },
     {
       "id": "27df7bc16a6758c51f04a079933731e693aaa490",
       "title": "Everything’s Falling",
@@ -141,7 +155,7 @@
     },
     {
       "id": "f372f36148a95d0354f57e3b8dcd1dbaba7b5f15",
-      "title": "Crítica de 'There Near', el decimotercer disco de Dinosaur Jr.",
+      "title": "There Near",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/dinosaur-jr-there-near/",
       "published": "2026-08-31T05:24:38.000Z",
       "publishedTs": 1788153878000,
@@ -151,21 +165,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Dinosaur-Jr-There-Near.jpg",
-      "excerpt": "No news, good news. Todo en el nuevo álbum de J Mascis, Lou Barlow y Murph suena rotundamente familiar. Y... La entrada Crítica de &#039;There Near&#039;, el decimotercer disco de Dinosaur Jr. se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4db8923f97d958a6f2b8d225f85bbd2f2be9da99",
-      "title": "Chrome",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/ty-segall-chrome/",
-      "published": "2026-08-30T10:03:38.000Z",
-      "publishedTs": 1788084218000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Ty-Segall-Chrome.jpg",
-      "excerpt": "Entre su etapa acústica, proyectos irregulares en los que subrayaba su amor por la percusión (“Love Rudiments”) y algún viejo... La entrada Chrome se publicó primero en MondoSonoro ."
+      "excerpt": "No news, good news. Todo en el nuevo álbum de J Mascis, Lou Barlow y Murph suena rotundamente familiar. Y... La entrada There Near se publicó primero en MondoSonoro ."
     },
     {
       "id": "0b4b9846902148b5b9ea87da0d94e5694c6121fc",
@@ -920,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_BokBok2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=262816cb",
       "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     },
     {
