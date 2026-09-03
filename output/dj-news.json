@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:56:17.401Z",
+  "generatedAt": "2026-09-03T15:57:52.816Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "c698a9d270fa43efa185154927bcb2ce4e3b5d5a",
+      "title": "Gentlewoman",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/cleo-sol-gentlewoman/",
+      "published": "2026-09-03T12:05:26.000Z",
+      "publishedTs": 1788437126000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Cleo-Sol-Gentlewoman.jpg",
+      "excerpt": "En una industria obcecada con la “frescura” (es decir, juventud) de las voces, en especial, y por sorpresa de nadie,... La entrada Gentlewoman se publicó primero en MondoSonoro ."
+    },
     {
       "id": "ee8dee09c18be7b775941089a03e12c0e5d07daa",
       "title": "Untitled",
@@ -154,18 +168,28 @@
       "excerpt": "Al igual que los personajes que habitan el nuevo disco de la banda de Mineápolis, decididos a mantener intacta su... La entrada Sanctuary Park se publicó primero en MondoSonoro ."
     },
     {
-      "id": "5b30f32bb088c8c53eb904bd7da0b7ce8930e812",
-      "title": "It Goes On",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/westside-cowboy-it-goes-on/",
-      "published": "2026-08-31T06:51:19.000Z",
-      "publishedTs": 1788159079000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/Westside-Cowboy-It-Goes-On-Island-Records.jpg",
-      "excerpt": "Encumbrados como acontecimiento antes de haber tenido siquiera tiempo de digerir lo que supone ser una banda, Westside Cowboy son... La entrada It Goes On se publicó primero en MondoSonoro ."
+      "id": "46e031020eb6d3dccd794ded8e406ffc8daada51",
+      "title": "Birkenhead's Future Yard shares inaugural programme ahead of Autumn launch",
+      "link": "https://mixmag.net/read/birkenhead-future-yard-inaugural-programme-autumn-launch-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Ffuture-yard.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=73d6f306",
+      "excerpt": "The 600-capacity venue, which is part-funded by crowdfunding donations, is &quot;nearing completion&quot; Continue reading..."
+    },
+    {
+      "id": "48b979c73cb2f7ccc431c3124dc75c5de1766177",
+      "title": "Jay-Z celebrates 30 years of music with “immersive” London installation",
+      "link": "https://mixmag.net/read/jay-z-celebrates-30-years-music-immersive-london-installation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fjay-z-installation.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=4ebf37a8",
+      "excerpt": "The pop-up is open until Saturday in Trafalgar Square Continue reading..."
     },
     {
       "id": "20257423f85b3ff0b3018691ec9a2cc8ebd80469",
@@ -260,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM__BONOBO_WEB_2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3d6aa4c8",
       "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     },
     {
@@ -620,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAmnesia-1.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=745e1084",
+      "image": "",
       "excerpt": "Amnesia marks its 50th anniversary this season, and to celebrate, we&#039;ve compiled some of the legendary DJ sets that have taken place in the White Isle institution Continue reading..."
     },
     {
@@ -752,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSOUND-IT-LEAD.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=e603a972",
+      "image": "",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBar-Italia_2026-08-06-130515_ixuz.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=27c9d811",
       "excerpt": "Mayor of London Sadiq Khan has criticised the plans, which are currently under public consultation Continue reading..."
-    },
-    {
-      "id": "80419afa6a0f2b7eda4d0637c91f1ed86101aad9",
-      "title": "Police are using facial recognition technology near Boardmasters Festival",
-      "link": "https://mixmag.net/read/police-are-using-facial-recognition-technology-near-boardmasters-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBoardmasters_2026-08-06-120804_suve.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=79176d9b",
-      "excerpt": "While the technology will not be used at this week&#039;s festival, officers are implementing the tools in the nearby town of Newquay Continue reading..."
-    },
-    {
-      "id": "4f1c6709e21dbea275eb457dc0599166d6ea048b",
-      "title": "Leeds venue TESTBED unveils major renovations for September relaunch",
-      "link": "https://mixmag.net/read/leeds-testbed-unveils-major-renovations-for-september-relaunch-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTESTBED-1.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=71fa75f7",
-      "excerpt": "The 2,500-capacity venue will reopen with a new 5,000 sq ft mezzanine, a custom-built stage and an L-Acoustics L2 system Continue reading..."
     }
   ]
 }
