@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T15:57:52.816Z",
+  "generatedAt": "2026-09-03T19:12:47.020Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/08/The-Jayhawks-Sanctuary-Park.jpg",
       "excerpt": "Al igual que los personajes que habitan el nuevo disco de la banda de Mineápolis, decididos a mantener intacta su... La entrada Sanctuary Park se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "8a6bf18037bc8b9b41b8040bbcad5a08384f0c89",
+      "title": "Boomtown promised a “bold new era”, and nailed it",
+      "link": "https://mixmag.net/feature/boomtown-fair-festival-2026-review-radical-redesign-bold-new-era",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBoomtown2026_%40Leora_Bermeister_Sunday__A7R5622.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=73b7cc2f",
+      "excerpt": "Opting for the theme of Radical Redesign for its 2026 edition, Boomtown Fair ramped up its offering in scale and scope, while still keeping its ethos of freedom and unpredictability at the core Continue reading..."
+    },
+    {
+      "id": "ce4b497b403b73c7db511e7169c209dd0b59c413",
+      "title": "Industry Insider: An interview with Amsterdam Dance Event’s Managing Director, Jan-Willem van de Ven",
+      "link": "https://mixmag.net/feature/industry-insider-interview-amsterdam-dance-event-managing-director-jan-willem-van-de-ven",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
+      "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
       "id": "46e031020eb6d3dccd794ded8e406ffc8daada51",
@@ -812,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Travella_Web2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=6ab6e375",
       "excerpt": "The cyber-singeli pioneer tells us about his futuristic take on the Tanzanian dance sound and teases the direction of his next album with a mix that pulls from global underground dance music Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
-      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
-      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
-    },
-    {
-      "id": "c771ebe67e87e8493138ee4605b279ec58d9a5ee",
-      "title": "Westminster Council shares plans to prevent new venues \"offering music, dancing and similar entertainment” in Soho",
-      "link": "https://mixmag.net/read/westminster-council-deny-licenses-venues-music-dancing-entertainment-soho-plans-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBar-Italia_2026-08-06-130515_ixuz.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=27c9d811",
-      "excerpt": "Mayor of London Sadiq Khan has criticised the plans, which are currently under public consultation Continue reading..."
     }
   ]
 }
