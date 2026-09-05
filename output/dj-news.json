@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T03:06:25.474Z",
+  "generatedAt": "2026-09-05T08:04:11.086Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -308,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Surusinghe2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3fd41d4f",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM__BONOBO_WEB_2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3d6aa4c8",
+      "image": "",
       "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     },
     {
