@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:54:05.371Z",
+  "generatedAt": "2026-09-08T18:19:41.016Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -168,6 +168,30 @@
       "excerpt": "The Warning han llegado a un punto delicado de su carrera. Ya no necesitan demostrar que son tres músicas competentes,... La entrada Everything’s Falling se publicó primero en MondoSonoro ."
     },
     {
+      "id": "4c508349eefd260e482f594f6d3aa32c6fec352f",
+      "title": "Hot Since 82: \"Emotional connection is more important than trends\"",
+      "link": "https://mixmag.net/feature/hot-since-82-interview-obsessions-new-album",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FHot-Since-82-1.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=14b6bf96",
+      "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
+    },
+    {
+      "id": "91d6dac175daa2e26fe7d6c12f9d66d272aad292",
+      "title": "New book tracing Laurent Garnier’s life and career has been published",
+      "link": "https://mixmag.net/read/new-book-documenting-laurent-garnier-decades-long-career-published-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Flaurent-garnier-press.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=bb281bed",
+      "excerpt": "&#039;Garnier&#039; is described as a &quot;portrait of a pioneer and a manifesto for dance, celebration, and the night&quot; Continue reading..."
+    },
+    {
       "id": "a1fd35445a12d005770cc0bb458f676abc1dcc55",
       "title": "16% of British adults have listened to more music in the last 12 months",
       "link": "https://mixmag.net/read/16-percent-british-adults-listened-more-music-last-12-months-news",
@@ -248,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fnew-pic.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=ba770d77",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -308,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBoomtown2026_%40Leora_Bermeister_Sunday__A7R5622.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=73b7cc2f",
+      "image": "",
       "excerpt": "Opting for the theme of Radical Redesign for its 2026 edition, Boomtown Fair ramped up its offering in scale and scope, while still keeping its ethos of freedom and unpredictability at the core Continue reading..."
     },
     {
@@ -320,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
+      "image": "",
       "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
@@ -380,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Surusinghe2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3fd41d4f",
+      "image": "",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -800,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAmnesia-1.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=745e1084",
+      "image": "",
       "excerpt": "Amnesia marks its 50th anniversary this season, and to celebrate, we&#039;ve compiled some of the legendary DJ sets that have taken place in the White Isle institution Continue reading..."
     },
     {
@@ -932,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSOUND-IT-LEAD.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=e603a972",
       "excerpt": "Spanning two days in July, SOUNDIT&#039;s second edition paired up an unmissable line-up with fresh DIY spirit Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fxtc-bushwick.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=2eba7232",
       "excerpt": "The venue features both indoor spaces and an outdoor rooftop, fitting up to 74 people Continue reading..."
-    },
-    {
-      "id": "0743922a17ac9e16e38790fd922b5d6ab02b8b6d",
-      "title": "Cathartic chaos: Cuddles is countering Berlin’s status-driven scene one queer party at a time",
-      "link": "https://mixmag.net/feature/cathartic-chaos-cuddles-is-countering-berlins-status-driven-scene-one-queer-party-at-a-time",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "With an aim to “protect, uplift, and celebrate” its queer community, Cuddles has become Berlin’s answer to non-exclusive, anything-goes clubbing where ticket prices are accessible and chaos is encouraged. We find out more about the commu…"
-    },
-    {
-      "id": "3b9fe748ecac9bf6248e0cd99aa0e9673cedb06f",
-      "title": "The Mix 119: Bok Bok",
-      "link": "https://mixmag.net/feature/the-mix-119-dj-bok-bok-night-slugs-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Bok Bok shares a mix of 100% their own productions, showcasing a new sound the London-based artist has been cultivating, and speaks to Patrick Hinton about feeling focused, the importance of radio, and reasons to feel cheerful about the …"
     }
   ]
 }
