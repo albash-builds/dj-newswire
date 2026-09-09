@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:39:44.742Z",
+  "generatedAt": "2026-09-09T13:25:49.352Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -168,6 +168,30 @@
       "excerpt": "The Warning han llegado a un punto delicado de su carrera. Ya no necesitan demostrar que son tres músicas competentes,... La entrada Everything’s Falling se publicó primero en MondoSonoro ."
     },
     {
+      "id": "9cc3c58c8369361972856e1fc1a5136ed33623cf",
+      "title": "Sadiq Khan weighs in on fabric and St Paul's event series amid religious outcry",
+      "link": "https://mixmag.net/read/sadiq-khan-row-fabric-st-pauls-cathedral-events-series-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Ffabric-events.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=f43fec53",
+      "excerpt": "The Mayor of London called the partnership an &quot;iconic duo&quot;, despite backlash over the Farringdon nightclub&#039;s forthcoming programme at the cathedral Continue reading..."
+    },
+    {
+      "id": "e0803ac4d8ddb5fafaba0622dbc2468f8f9b6fa9",
+      "title": "Glastonbury ticket price to increase by nearly 10% for 2027 return",
+      "link": "https://mixmag.net/read/glastonbury-ticket-price-increase-2027-edition-sale-date-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fglasto-2027-tickets.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=4d2e6204",
+      "excerpt": "Passes for next year&#039;s edition of the Worthy Farm festival will go on sale in just a few weeks time Continue reading..."
+    },
+    {
       "id": "ebd8d46b39de36755943c3cc3f738e99ca2556f7",
       "title": "The Warehouse Project shares details of flagship 20th anniversary show",
       "link": "https://mixmag.net/read/the-warehouse-project-shares-details-flagship-20th-anniversary-show-news",
@@ -284,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fnew-pic.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=ba770d77",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
+      "image": "",
       "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
@@ -416,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Surusinghe2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3fd41d4f",
+      "image": "",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBeatport-AI.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=fd767c21",
       "excerpt": "The music marketplace said it has prohibited tracks made entirely or mostly made using AI Continue reading..."
-    },
-    {
-      "id": "7e93fbcb2ea0bbb36ab59fd8af71c61b4f31adc6",
-      "title": "Beloved electronic musician Sofus Forsberg has died aged 56",
-      "link": "https://mixmag.net/read/beloved-electronic-musician-sofus-forsberg-died-aged-56-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fforsberg.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=4192a51d",
-      "excerpt": "The experimental producer has been described as a “vital force” in Denmark’s dance music scene Continue reading..."
-    },
-    {
-      "id": "59730d1476d6d7a6296288c523ec236f36d2320c",
-      "title": "Madonna will not headline Glastonbury 2027, Emily Eavis says",
-      "link": "https://mixmag.net/read/madonna-will-not-headline-glastonbury-2027-emily-eavis-says-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMadonna-headliner.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=1a75af8e",
-      "excerpt": "The Glastonbury organiser confirmed that all three headliners have been booked for the next edition of the Somerset-based festival Continue reading..."
     }
   ]
 }
