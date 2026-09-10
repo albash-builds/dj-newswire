@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:41:36.643Z",
+  "generatedAt": "2026-09-10T14:50:26.246Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -166,6 +166,54 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Kakkmaddafakka-Untitled.jpg",
       "excerpt": "Kakkmaddafakka cayeron en gracia en nuestro país, sobre todo a partir de la publicación de ese “Hest” (11) aún insuperado... La entrada Untitled se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "797c73b814d7761dc86b890111949e5d9bd822f6",
+      "title": "Sadiq Khan criticises \"arrogant\" Westminster Council as it bans new nightlife venues and 'vertical drinking' in Soho",
+      "link": "https://mixmag.net/read/sadiq-khan-criticises-arrogant-westminster-council-bans-new-nightlife-venues-vertical-drinking-soho-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fsoho_2026-09-10-142238_osqe.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=451e02e4",
+      "excerpt": "The council plans to move ahead with changes in its draft licensing policy, despite an 81% disapproval rate from a public consultation Continue reading..."
+    },
+    {
+      "id": "3da715face81c1d61ea63154a9fa9e15935868ab",
+      "title": "Detroit DJ Rick Wade shares health update following heart attack",
+      "link": "https://mixmag.net/read/detroit-dj-rick-wade-shares-health-update-following-heart-attack-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Frick-wade-health.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=c5036b21",
+      "excerpt": "Despite remaining at home to recover, he&#039;s scheduled to perform a set in Miami tonight Continue reading..."
+    },
+    {
+      "id": "b8d189fea610d81375e78ab3de74adc4a549e8c9",
+      "title": "UK promoter La Discothèque lands eight-figure investment fund",
+      "link": "https://mixmag.net/read/la-discotheque-lands-eight-figure-investment-fund-promoter-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fla-disco.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=c01f39e8",
+      "excerpt": "The cash injection will support the disco promoter in expanding into North America, Europe and Asia Continue reading..."
+    },
+    {
+      "id": "3333d630c21c48f012898f2002c6bf60bb3898a7",
+      "title": "O2 Academy Sheffield will reopen in 2027 following major refurbishment",
+      "link": "https://mixmag.net/read/o2-academy-sheffield-reopen-following-major-refurbishment-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fo2-academy-sheffield.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=c0bace87",
+      "excerpt": "The Arundel Gate venue, which closed four years ago, will relaunch with a new L-Acoustics soundsystem Continue reading..."
     },
     {
       "id": "0888427f93312a2ae2e9c238113eaf5dc270e310",
@@ -344,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fnew-pic.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=ba770d77",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -404,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBoomtown2026_%40Leora_Bermeister_Sunday__A7R5622.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=73b7cc2f",
+      "image": "",
       "excerpt": "Opting for the theme of Radical Redesign for its 2026 edition, Boomtown Fair ramped up its offering in scale and scope, while still keeping its ethos of freedom and unpredictability at the core Continue reading..."
     },
     {
@@ -416,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
       "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
@@ -476,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_Surusinghe2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3fd41d4f",
+      "image": "",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -536,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM__BONOBO_WEB_2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3d6aa4c8",
       "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     },
     {
@@ -548,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM_COVERMIX_bonobo_WEB2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=d8003866",
       "excerpt": "Bonobo serves up a mix packed full of organic house and high-energy percussive rhythms Continue reading..."
     },
     {
@@ -944,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fstone-techno-lead.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=7cb2ce9e",
+      "image": "",
       "excerpt": "Even with an expanded site at its UNESCO World Heritage home, Stone Techno maintained its immersive ethos for its latest edition Continue reading..."
     },
     {
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fselva-club-natura.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=53f30593",
       "excerpt": "SELVA is the first club in the Iblean territory with a year-round dance music programme Continue reading..."
-    },
-    {
-      "id": "15ed3a59a9d4c0ac574d221c95d66be936ba95f0",
-      "title": "Chris Stussy to enter “next chapter” with first release under new alias CHRIS STASSY",
-      "link": "https://mixmag.net/read/chris-stussy-enter-next-chapter-first-release-new-alias-stassy-u-know-me-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fchris-stassy.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=7c603fc1",
-      "excerpt": "The Dutch artist has officially changed his DJ name Continue reading..."
-    },
-    {
-      "id": "0e12cac898193ec949cd4e43a5e679f1527ebfd7",
-      "title": "Woman found dead at Houghton Festival named as Ibiza DJ Santanna Oush",
-      "link": "https://mixmag.net/read/woman-found-dead-houghton-festival-named-ibiza-dj-santanna-oush-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fsantanna-oush-houghton.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=e574f06c",
-      "excerpt": "The 38-year-old artist founded OuShe parties at Pikes, celebrating women and emerging talent Continue reading..."
-    },
-    {
-      "id": "8307c94a13d78006b70e20d8993d6a4febfb7466",
-      "title": "Black Coffee, Skepta and more confirmed for Hï Ibiza's 2026 closing party",
-      "link": "https://mixmag.net/read/h%C3%AF-ibiza-confirms-line-up-2026-closing-party-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FHi-Black-Coffee-ibiza.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=50203533",
-      "excerpt": "The Playa d&#039;en Bossa nightclub will host its last party of the year on October 9 Continue reading..."
-    },
-    {
-      "id": "5a0198fb1ce1a03ddeb29a2f88ea3100394b481d",
-      "title": "AI detected in 40% of music released in July, study reveals",
-      "link": "https://mixmag.net/read/40-percent-music-released-july-show-signs-ai-involvement-study-submithub-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fsubmithub-ai-credit-cottonbro-studio.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=c060a502",
-      "excerpt": "By analysing over a million releases, SubmitHub’s AI music detector found that the use of AI in production is prevalent Continue reading..."
     }
   ]
 }
