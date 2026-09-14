@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:49:20.069Z",
+  "generatedAt": "2026-09-14T11:53:57.707Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -43,7 +43,7 @@
     },
     {
       "id": "52c5cc7173768b94c197f8836bc5e2ff7eb66f14",
-      "title": "Reseñamos “The Singer in My Band” de This Is Lorelei",
+      "title": "The Singer in My Band",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/singer-in-my-band-this-is-lorelei/",
       "published": "2026-09-11T06:00:20.000Z",
       "publishedTs": 1789106420000,
@@ -53,7 +53,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/ThisIsLoreleiCD.jpg",
-      "excerpt": "Nate Amos lleva más de diez años dejándonos claro con This Is Lorelei que pertenece a esa rara estirpe de... La entrada Reseñamos “The Singer in My Band” de This Is Lorelei se publicó primero en MondoSonoro ."
+      "excerpt": "Nate Amos lleva más de diez años dejándonos claro con This Is Lorelei que pertenece a esa rara estirpe de... La entrada The Singer in My Band se publicó primero en MondoSonoro ."
     },
     {
       "id": "31c11577aeb5e2b2dff97f5eb272e25382e2e810",
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bertzesfer.jpg",
       "excerpt": "Riff astunak eta melodiak bateragarriak ez direnaren ideia gezurtatzeko sortu dela Bertzesfer dirudi. Bai, soinu trantsizioz josita dago lana eta... La entrada Bertzesfer se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "2da0b411f947a92573ed302809bffba3e495fd7f",
+      "title": "Santa Monica's Ocean Way Festival cancelled after hurricane erodes beach",
+      "link": "https://mixmag.net/read/santa-monica-ocean-way-festival-cancelled-hurricane-erodes-beach-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FSM.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=6dfb1378",
+      "excerpt": "The Category 2 Hurricane Marie wreaked havoc across the Californian coastline last week, causing coastal flooding, property damage and beach erosion Continue reading..."
+    },
+    {
+      "id": "278f4a3ffa1253b40ed61ecbf6bd902d07d4a5a6",
+      "title": "Yves Tumor removed tour with Turnstile following allegations of abuse",
+      "link": "https://mixmag.net/read/yves-tumor-removed-tour-turnstile-following-allegations-abuse-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FYves-Tumor-credit-Isabella-Corderas.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=d3b21d21",
+      "excerpt": "The experimental musician has strongly denied allegations of abusive behaviour and sexual assault Continue reading..."
+    },
+    {
+      "id": "433836241248e3f7cfa01bd563221ec78cc9ba45",
+      "title": "New music on our radar this week: Brian Eno, Shygirl, Blawan",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-7-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FEno-Shygirl-Blawan.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=657b260f",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "9d0e2020a4e621077fae6fd761a195e5c1ab57ed",
@@ -332,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTHE_MIX_THE_MIX_dj-g2g2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=81401ed1",
       "excerpt": "dj g2g locks in to her expansive, “neurospicy” style with a peak-time energy mix, and discusses the role of femme friendship in her creative practice and learning to lead with her heart Continue reading..."
     },
     {
@@ -500,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fnew-pic.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=ba770d77",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fclub-kid-film-nyc.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=305a8cbb",
       "excerpt": "The comedy-drama features cameos from musicians including Shygirl and River Moon Continue reading..."
-    },
-    {
-      "id": "af8fe3a3799148e280d092bb7c348538f77b6c1b",
-      "title": "Forging movements: Inside Stone Techno's groundshaking 2026 edition",
-      "link": "https://mixmag.net/feature/stone-techno-2026-festival-zollverein-essen-germany",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Even with an expanded site at its UNESCO World Heritage home, Stone Techno maintained its immersive ethos for its latest edition Continue reading..."
-    },
-    {
-      "id": "57e2b0b6ee93bdef22a10fb629bdc5146a1505f9",
-      "title": "New music on our radar this week: Ahadadream, Eris Drew & Octo Octa, Leonce",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-ahadadream-gyrofield-leonce-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Freleases-ahadadream-alchemical-sisters-leonce.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=d76efa44",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "425cc44dfe59c24b6f6b8d1faaf68cef5e5ff3b9",
-      "title": "Festival line-ups you might have missed: Time Warp NYC, FuturFestival, Book Club Radio",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-time-warp-ny-futurfestival-book-club-radio-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Ftime-warp-nyc.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=bc5b70e2",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
