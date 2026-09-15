@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T05:51:24.262Z",
+  "generatedAt": "2026-09-15T11:09:34.146Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "8845543503e7d79886664db0e22b737f21fb6552",
+      "title": "Reseñamos “Distance in Static”, el nuevo álbum de Bonobo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/distance-in-static/",
+      "published": "2026-09-15T09:00:43.000Z",
+      "publishedTs": 1789462843000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/BonoboCDDistance.jpg",
+      "excerpt": "La transformación musical de Bonobo –lleva ya algo más de veintiséis años sacando pecho y reinventándose a sí mismo– pasa... La entrada Reseñamos “Distance in Static”, el nuevo álbum de Bonobo se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bdf015d46cdbe84dcae3c02eb0f4a0f0357fd8d5",
+      "title": "Raw",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/noa-the-hell-drinkers-raw/",
+      "published": "2026-09-15T07:16:51.000Z",
+      "publishedTs": 1789456611000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/noa-hell-drinkers.jpg",
+      "excerpt": "Este cuarto disco de la banda gipuzkoarra se presenta como un amplísimo catálogo de sonidos cercanos a ese blues pantanoso... La entrada Raw se publicó primero en MondoSonoro ."
+    },
     {
       "id": "bb30ee5a82f95f348c1fb84d254b9555dfcf78ec",
       "title": "Czarface Meets Frankie Pulitzer",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Dexys-Midnight-Runners-Love-.jpg",
       "excerpt": "Dice Kevin Rowland que este podría ser el último disco de sus Dexys Midnight Runners. De hecho, tiene sentido: es... La entrada Love se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "83f736c39eb9d426bc38128c610ad80034b788b9",
-      "title": "Before the World Blows",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/erykah-badu-the-alchemist-before-the-world-blows/",
-      "published": "2026-09-04T05:32:34.000Z",
-      "publishedTs": 1788499954000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Erykah-Badu-The-Alchemist-Before-the-World-Blows.jpg",
-      "excerpt": "Cuando el año pasado se canceló el lanzamiento de este disco, hubo la sensación de que nunca vería la luz.... La entrada Before the World Blows se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e6949e045521144545a16833f1a612b69d953026",
-      "title": "Bertzesfer",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bertzesfer/",
-      "published": "2026-09-03T19:18:28.000Z",
-      "publishedTs": 1788463108000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bertzesfer.jpg",
-      "excerpt": "Riff astunak eta melodiak bateragarriak ez direnaren ideia gezurtatzeko sortu dela Bertzesfer dirudi. Bai, soinu trantsizioz josita dago lana eta... La entrada Bertzesfer se publicó primero en MondoSonoro ."
     },
     {
       "id": "80378286032120029893789a3fc358c54529af50",
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAUGUST_Best_Of_Tracks2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=b62f5b85",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -644,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
+      "image": "",
       "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
@@ -764,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM__BONOBO_WEB_2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=3d6aa4c8",
       "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     },
     {
