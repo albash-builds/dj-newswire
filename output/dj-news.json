@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:30:14.407Z",
+  "generatedAt": "2026-09-16T09:05:35.536Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "97d5d4a2e45af82bdd6c9be2aa69184090b110fa",
+      "title": "Crítica de 'Anatomy Of A Brief Romance', lo nuevo de Bloc Party",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bloc-party-anatomy-of-a-brief-romance/",
+      "published": "2026-09-16T08:16:46.000Z",
+      "publishedTs": 1789546606000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bloc-Party-Anatomy-Of-A-Brief-Romance.jpg",
+      "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Crítica de &#039;Anatomy Of A Brief Romance&#039;, lo nuevo de Bloc Party se publicó primero en MondoSonoro ."
+    },
     {
       "id": "8845543503e7d79886664db0e22b737f21fb6552",
       "title": "Reseñamos “Distance in Static”, el nuevo álbum de Bonobo",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Turnstile-Never-Enough-Versions.jpg",
       "excerpt": "Solo catorce meses después del lanzamiento de “NEVER ENOUGH”, el disco con el que Turnstile dio un pasito más hacia... La entrada Never Enough: Versions se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bd45dcccd55799b9b5595ceb142c3bbaec2eb54d",
-      "title": "Love",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dexys-midnight-runners-love/",
-      "published": "2026-09-04T06:56:04.000Z",
-      "publishedTs": 1788504964000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Dexys-Midnight-Runners-Love-.jpg",
-      "excerpt": "Dice Kevin Rowland que este podría ser el último disco de sus Dexys Midnight Runners. De hecho, tiene sentido: es... La entrada Love se publicó primero en MondoSonoro ."
     },
     {
       "id": "09ea83460b46ace1adf43f76c7d5c8f301104e69",
@@ -380,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FAUGUST_Best_Of_Tracks2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=b62f5b85",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -680,7 +680,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FBoomtown2026_%40Leora_Bermeister_Sunday__A7R5622.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=73b7cc2f",
+      "image": "",
       "excerpt": "Opting for the theme of Radical Redesign for its 2026 edition, Boomtown Fair ramped up its offering in scale and scope, while still keeping its ethos of freedom and unpredictability at the core Continue reading..."
     },
     {
@@ -692,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Findustry-insider-jan-willem.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=0d675698",
+      "image": "",
       "excerpt": "In the latest edition of our interview series talking to dance music’s most influential people, Mixmag sits down with ADE’s Jan-Willem van de Ven Continue reading..."
     },
     {
@@ -824,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FMM_COVERMIX_bonobo_WEB2.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=d8003866",
+      "image": "",
       "excerpt": "Bonobo serves up a mix packed full of organic house and high-energy percussive rhythms Continue reading..."
     },
     {
