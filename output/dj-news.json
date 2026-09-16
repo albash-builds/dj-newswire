@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:05:35.536Z",
+  "generatedAt": "2026-09-16T14:36:31.547Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "43d02e0d888cbe0557e5daa63679fe91b7fb5d72",
+      "title": "Reckless Strangers, Worn-Out Lovers",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/thee-eliam-reckless-strangers-worn-out-lovers/",
+      "published": "2026-09-16T13:51:31.000Z",
+      "publishedTs": 1789566691000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/thee-eliam.jpg",
+      "excerpt": "Es gratificante observar la evolución a mejor de este grupo donostiarra, desde su vacilante EP debut “The future in the... La entrada Reckless Strangers, Worn-Out Lovers se publicó primero en MondoSonoro ."
+    },
     {
       "id": "97d5d4a2e45af82bdd6c9be2aa69184090b110fa",
       "title": "Crítica de 'Anatomy Of A Brief Romance', lo nuevo de Bloc Party",
@@ -154,18 +168,52 @@
       "excerpt": "Más de quince años de trayectoria dan para mucho, sobre todo si los protagonizan una banda tan prolífica como Pond.... La entrada Terrestrials se publicó primero en MondoSonoro ."
     },
     {
-      "id": "440a0896ad1e9fa9c6a74061985284182f1319e1",
-      "title": "Never Enough: Versions",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/never-enough-versions/",
-      "published": "2026-09-04T10:43:15.000Z",
-      "publishedTs": 1788518595000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Turnstile-Never-Enough-Versions.jpg",
-      "excerpt": "Solo catorce meses después del lanzamiento de “NEVER ENOUGH”, el disco con el que Turnstile dio un pasito más hacia... La entrada Never Enough: Versions se publicó primero en MondoSonoro ."
+      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
+      "title": "Who's playing The Mixmag Lab?",
+      "link": "https://mixmag.net/feature/lab-ldn",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FLabLondon_Whosplaying_08.jpg&width=1200&height=630&focalX=0.5&focalY=0.5&quality=60&cb=9ffb4e4d",
+      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
+    },
+    {
+      "id": "d44e42f223d7a403d310e00dadd1d1e19c7e81a3",
+      "title": "EU \"concerned\" over LGBTQIA+ nightlife raids in Turkey",
+      "link": "https://mixmag.net/read/eu-concerned-over-lgbtqia-nightlife-raids-in-turkey-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FTurkey.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=17645a9d",
+      "excerpt": "Turkish police raided dozens of homes and venues connected with the LGBTQIA+ community on Sunday Continue reading..."
+    },
+    {
+      "id": "dd51dac19e50db3d448ea646fcb25e86e301ae95",
+      "title": "John Summit responds to backlash and alleged harassment after Argentina show",
+      "link": "https://mixmag.net/read/john-summit-responds-backlash-alleged-harassment-argentina-show-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fjohn-summit-argentina.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=73c19567",
+      "excerpt": "The US DJ appeared to cut his set short by 40 minutes over the weekend Continue reading..."
+    },
+    {
+      "id": "5f9184d1642d37b09625420e5734e1fea363a2d9",
+      "title": "Fred again.., PinkPantheress and more teased for GTA 6 soundtrack",
+      "link": "https://mixmag.net/read/fred-again-pinkpantheress-teased-gta-6-soundtrack-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Ffred-again-pinkpantheress-gta6.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=63b8f142",
+      "excerpt": "Mysterious Instagram posts featuring GTA&#039;s signature art style were shared by a slew of major artists yesterday Continue reading..."
     },
     {
       "id": "09ea83460b46ace1adf43f76c7d5c8f301104e69",
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fdj-tour-fund.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=7a1c2601",
       "excerpt": "LIVE Trust has doubled its funding through the £1 ticket levy scheme introduced in 2025 Continue reading..."
-    },
-    {
-      "id": "4c081009d45a53436e68a4a2d9a99324117753c7",
-      "title": "The White Hotel’s current home to reopen and rebrand under new ownership in 2027",
-      "link": "https://mixmag.net/read/the-white-hotel-current-home-reopen-rebrand-under-new-ownership-2027-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FThe-White-Hotel.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=e55451b4",
-      "excerpt": "BASTION will come from the team behind nearby studio and events space The Bag Factory Continue reading..."
-    },
-    {
-      "id": "e6640d229a3259d99ce2a09c705d65b70a4e6ec0",
-      "title": "Over 80% of Gen Z music fans report hearing issues after a night out, report finds",
-      "link": "https://mixmag.net/read/over-80-percent-gen-z-music-fans-report-hearing-issues-night-out-report-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fgen-z-clubbing.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=eb527c9c",
-      "excerpt": "Just a small percentage of those surveyed said they wear earplugs at loud music events Continue reading..."
-    },
-    {
-      "id": "df090a8e0bec7d405db6797963605512bfb2262b",
-      "title": "AI-generated tracks banned from Australia's official music charts",
-      "link": "https://mixmag.net/read/ai-generated-tracks-banned-australias-official-music-charts-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2FARIA-Charts.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=d3901767",
-      "excerpt": "Tracks with &quot;assistance&quot; from AI will still be eligible, though only if they are &quot;substantially human-made&quot; Continue reading..."
-    },
-    {
-      "id": "28aa0900a4fcffea194d0e06f5517a358f19a165",
-      "title": "Apple Music to introduce tag for AI-generated tracks",
-      "link": "https://mixmag.net/read/apple-music-begin-tagging-ai-generated-tracks-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://images.mutualone.co.uk/?url=https%3A%2F%2Fcdn.craft.cloud%2F0bfe5635-ac77-4d17-9f4e-811b54bed2f3%2Fassets%2Fimages%2Fapple-music-ai-tag.jpg&width=660&focalX=0.5&focalY=0.5&quality=80&cb=bd04e948",
-      "excerpt": "The platform said it demonetised two billion “fraudulent” music streams last year Continue reading..."
     }
   ]
 }
