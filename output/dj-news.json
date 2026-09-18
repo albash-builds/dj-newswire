@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T03:21:35.150Z",
+  "generatedAt": "2026-09-18T08:46:47.891Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "97d5d4a2e45af82bdd6c9be2aa69184090b110fa",
-      "title": "Crítica de 'Anatomy Of A Brief Romance', lo nuevo de Bloc Party",
+      "title": "Anatomy Of A Brief Romance",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/bloc-party-anatomy-of-a-brief-romance/",
       "published": "2026-09-16T08:16:46.000Z",
       "publishedTs": 1789546606000,
@@ -67,11 +67,11 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bloc-Party-Anatomy-Of-A-Brief-Romance.jpg",
-      "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Crítica de &#039;Anatomy Of A Brief Romance&#039;, lo nuevo de Bloc Party se publicó primero en MondoSonoro ."
+      "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Anatomy Of A Brief Romance se publicó primero en MondoSonoro ."
     },
     {
       "id": "8845543503e7d79886664db0e22b737f21fb6552",
-      "title": "Reseñamos “Distance in Static”, el nuevo álbum de Bonobo",
+      "title": "Distance in Static",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/distance-in-static/",
       "published": "2026-09-15T09:00:43.000Z",
       "publishedTs": 1789462843000,
@@ -81,7 +81,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/BonoboCDDistance.jpg",
-      "excerpt": "La transformación musical de Bonobo –lleva ya algo más de veintiséis años sacando pecho y reinventándose a sí mismo– pasa... La entrada Reseñamos “Distance in Static”, el nuevo álbum de Bonobo se publicó primero en MondoSonoro ."
+      "excerpt": "La transformación musical de Bonobo –lleva ya algo más de veintiséis años sacando pecho y reinventándose a sí mismo– pasa... La entrada Distance in Static se publicó primero en MondoSonoro ."
     },
     {
       "id": "bdf015d46cdbe84dcae3c02eb0f4a0f0357fd8d5",
@@ -632,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=uoXfz55yRQ_6zCRCeKggCZpCFWhW1D7Jpx_8Qx-9lyo",
       "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
     },
     {
@@ -668,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/galactica.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=a8r7ynNRKMGSSMprVICaonBGiTptKnl7FAJE-R78TnU",
       "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-pic.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ScT15mgx2_GPysV7IaGIaIpg2SkesujwGD8Q8w_Ugv0",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -860,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Surusinghe2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=hxQ4myu9eG_DgkI7ORkQcyHBJ0AlLzTtwOhov5IekoE",
+      "image": "",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -1112,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Lead-NTc.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=kMeUQt0cU9mRh8irw005ZhPDGkzsVOlHPAEZF3xKPMo",
       "excerpt": "As Notting Hill Carnival gears up for its 60th anniversary edition, music industry veteran and Caribbean culture specialist Ray Paul pens an op-ed about celebrating the region&#039;s impactful music all year round Continue reading..."
     },
     {
