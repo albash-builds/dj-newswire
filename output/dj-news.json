@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T08:33:07.161Z",
+  "generatedAt": "2026-09-19T12:52:55.230Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "38d44c99bf185abbe675af8be480ab32f080ff99",
+      "title": "Crítica de 'Hard Life', el esperado tercer largo de The Tubs",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-tubs-hard-life/",
+      "published": "2026-09-19T09:06:51.000Z",
+      "publishedTs": 1789808811000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/The-Tubs-Hard-Life.jpg",
+      "excerpt": "Pues sí, sólo un año después del sobresaliente “Cotton Crown”, The Tubs retornan con una nueva ración de exaltaciones de... La entrada Crítica de &#039;Hard Life&#039;, el esperado tercer largo de The Tubs se publicó primero en MondoSono…"
+    },
     {
       "id": "fc16afd2de1eac7bb84e638737a2c2992ac6ce49",
       "title": "Hemispheres",
@@ -43,7 +57,7 @@
     },
     {
       "id": "9dacf0235ea46d4fd15f47561b473f7d62a2ea20",
-      "title": "Reseñamos 'Ride Lonesome', lo nuevo de Beck que se estrena este viernes",
+      "title": "Reseñamos 'Ride Lonesome', el nuevo trabajo de Beck",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/beck-ride-lonesome-disco/",
       "published": "2026-09-17T10:47:52.000Z",
       "publishedTs": 1789642072000,
@@ -53,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Beck-Ride-Lonesome-.jpg",
-      "excerpt": "El único hándicap con el que puede toparse este disco es que ya no sorprenderá a nadie que esté familiarizado... La entrada Reseñamos &#039;Ride Lonesome&#039;, lo nuevo de Beck que se estrena este viernes se publicó primero en MondoSono…"
+      "excerpt": "El único hándicap con el que puede toparse este disco es que ya no sorprenderá a nadie que esté familiarizado... La entrada Reseñamos &#039;Ride Lonesome&#039;, el nuevo trabajo de Beck se publicó primero en MondoSonoro ."
     },
     {
       "id": "43d02e0d888cbe0557e5daa63679fe91b7fb5d72",
@@ -154,20 +168,6 @@
       "excerpt": "Pues llegamos al tercer álbum de Chat Pile, el que, probablemente, hoy en día sea la gran esperanza (y realidad)... La entrada Who Loves The Sun se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4c5608762dcbd80346888f36bafceec756cc4ea9",
-      "title": "Back in Business",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/travellin-brothers-back-in-business/",
-      "published": "2026-09-09T23:38:52.000Z",
-      "publishedTs": 1788997132000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Travellin-brothers.jpg",
-      "excerpt": "El grupo más elegante de Bizkaia vuelve con un nuevo trabajo en el que recuperan viejos temas de la banda,... La entrada Back in Business se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "cfc431e08eb09cf472dc8b90235a89bb72add647",
       "title": "Shoreditch club night to mark 90 years since Battle of Cable Street next month",
       "link": "https://mixmag.net/read/sports-banger-king-alpha-sound-system-host-event-commemorating-90-years-battle-of-cable-street-news",
@@ -260,7 +260,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     },
     {
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/white-claw-defected-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=kcWCSqxqlfpKV4HlfR_5VgcO8-hn7nua74qSEhCU02Q",
+      "image": "",
       "excerpt": "White Claw and Defected flew 10 strangers to Ibiza for 24 hours as part of their ‘Find Your People’ experiment, pairing like-minded dance music fans to see if they can become lifelong friends Continue reading..."
     },
     {
@@ -512,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Viijij_0d15YwjveHmuucqZylCGP-Ct01T5sXGeXK-8",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -548,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=JFZvsUxgSAnsllyb_ae2iYjLrykYxqb00AWtOmy-tsA",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_dj-g2g2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=E_uQjppRWoijbrpznnTuTt77sqiWUL20SqJX0vhvDWM",
+      "image": "",
       "excerpt": "dj g2g locks in to her expansive, “neurospicy” style with a peak-time energy mix, and discusses the role of femme friendship in her creative practice and learning to lead with her heart Continue reading..."
     },
     {
@@ -692,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=uoXfz55yRQ_6zCRCeKggCZpCFWhW1D7Jpx_8Qx-9lyo",
+      "image": "",
       "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/galactica.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=a8r7ynNRKMGSSMprVICaonBGiTptKnl7FAJE-R78TnU",
+      "image": "",
       "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
     },
     {
@@ -788,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-pic.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ScT15mgx2_GPysV7IaGIaIpg2SkesujwGD8Q8w_Ugv0",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -920,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_Surusinghe2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=hxQ4myu9eG_DgkI7ORkQcyHBJ0AlLzTtwOhov5IekoE",
+      "image": "",
       "excerpt": "Surusinghe showcases her post-club personality in a new mix, and talks about how a move from Melbourne to London helped develop her UK bass-leaning sound, balancing the party-work lifestyle, and not caring about club shamers Continue rea…"
     },
     {
@@ -980,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM__BONOBO_WEB_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=XhsdabCFdOMapd07wrLVtroJu-OChCZwo6LQCIw_D_o",
+      "image": "",
       "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     },
     {
@@ -992,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_bonobo_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dNsl0w7y8ATrVwo6X1l2kLPnbDPcUtv4xwsE5xpZgQk",
+      "image": "",
       "excerpt": "Bonobo serves up a mix packed full of organic house and high-energy percussive rhythms Continue reading..."
     },
     {
