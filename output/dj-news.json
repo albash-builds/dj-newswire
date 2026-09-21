@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:09:27.329Z",
+  "generatedAt": "2026-09-21T13:38:54.857Z",
   "total": 90,
   "sources": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "id": "9dacf0235ea46d4fd15f47561b473f7d62a2ea20",
-      "title": "Reseñamos 'Ride Lonesome', el nuevo trabajo de Beck",
+      "title": "Ride Lonesome",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/beck-ride-lonesome-disco/",
       "published": "2026-09-17T10:47:52.000Z",
       "publishedTs": 1789642072000,
@@ -67,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Beck-Ride-Lonesome-.jpg",
-      "excerpt": "El único hándicap con el que puede toparse este disco es que ya no sorprenderá a nadie que esté familiarizado... La entrada Reseñamos &#039;Ride Lonesome&#039;, el nuevo trabajo de Beck se publicó primero en MondoSonoro ."
+      "excerpt": "El único hándicap con el que puede toparse este disco es que ya no sorprenderá a nadie que esté familiarizado... La entrada Ride Lonesome se publicó primero en MondoSonoro ."
     },
     {
       "id": "43d02e0d888cbe0557e5daa63679fe91b7fb5d72",
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/ChatPileCDWEB.jpg",
       "excerpt": "Pues llegamos al tercer álbum de Chat Pile, el que, probablemente, hoy en día sea la gran esperanza (y realidad)... La entrada Who Loves The Sun se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4acc5750b80adf80add462e5aab4436d3badc7b3",
+      "title": "Long-running Budapest nightclub Aether to close, citing financial strain",
+      "link": "https://mixmag.net/read/long-running-budapest-nightclub-aether-close-citing-financial-strain-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/aether-club.jpg?fit=cover&width=660&s=v4zQGyiE_D6m5bg0R5sTzt4or-GTqANODdA1xy9zUFk",
+      "excerpt": "The venue, which will close this weekend after 11 years, has hinted that it could return if things become &quot;favourable&quot; in the future Continue reading..."
+    },
+    {
+      "id": "81045fb4934e661ee2cc278fdc4acdca699c2425",
+      "title": "Calvin Harris sets Guinness World Record for biggest-ever crowd at a DJ set",
+      "link": "https://mixmag.net/read/calvin-harris-guinness-world-record-dj-set-sao-paulo-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Calvin-Harris_2026-09-21-115748_arso.jpg?fit=cover&width=660&s=c404h1AiNJu5f6wmmRuP5PbC2pFws6r3UDmdxXIAPmk",
+      "excerpt": "The Scottish DJ and producer played in front of 1.6 million people in São Paulo earlier this year Continue reading..."
+    },
+    {
+      "id": "3e0a38bde52bad73d397d7c79304935df579ccdf",
+      "title": "10 lost David Bowie tracks released on streaming for the first time",
+      "link": "https://mixmag.net/read/ten-10-lost-david-bowie-tracks-released-streaming-first-time-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/david-bowie-lost-musicc.jpg?fit=cover&width=660&s=58acdjjDp3_vKEy-2lgUJWQWBkZ--Ia-1rYZO_EEg5I",
+      "excerpt": "The tracks were filed under his birth name, David Jones, in the ‘60s and are said to be his most “visceral and raw” creations Continue reading..."
     },
     {
       "id": "a6b3bc7c79a08a64dc9bc646f1e75e55a5b6ad40",
@@ -296,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
+      "image": "",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
@@ -320,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -500,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ZfkVg6Kiqy7ke4wfncYpOdbekSo9t-QtxLaX_FJkyyM",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -812,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-pic.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ScT15mgx2_GPysV7IaGIaIpg2SkesujwGD8Q8w_Ugv0",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mike-D.jpg?fit=cover&width=660&s=lzJKhcntocpjaZgp1ckcbZzKJxqe1NYbJhSpyVCoa-Q",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "11aae50ac865920acebefbc3eb256fed4ee0634d",
-      "title": "Festival line-ups you might have missed: No Bounds, Beyond The Music, AVA London",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-no-bounds-beyond-the-music-ava-london-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/no-bounds-festival.jpg?fit=cover&width=660&s=xH8IRkNQE-GlXohWLQJwqRoAHAjlj-EDJar2hUU8lUc",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "59672ff375dfd099f2f461e1691ffa92a10e2c31",
-      "title": "BLACMEX is calling on musicians to help create new Black live music archive",
-      "link": "https://mixmag.net/read/blacmex-is-calling-on-musicians-to-help-create-new-black-live-music-archive-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Blacmex.jpg?fit=cover&width=660&s=82LOci97c3lLHcjfhrRFUYBOep2lAA_emB-WcelVFb0",
-      "excerpt": "The UK&#039;s first Black music export service is asking artists to submit their performances in the hopes of establishing a verified record of live performances from the Black music sector Continue reading..."
-    },
-    {
-      "id": "e530f74a1c754f581a4015b77b47c6eaf11a747c",
-      "title": "Music initiative launched taking Thai artists to global stages in 2026",
-      "link": "https://mixmag.net/read/music-initiative-launched-taking-thai-artists-global-stages-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/cea-thai-artists.jpg?fit=cover&width=660&s=LV1XwXkwUXC-3USJ0WBMbGg3V3vLNBB6wEf1ius7aR4",
-      "excerpt": "The project from CEA will support 33 Thai artists with funding and festival opportunities this year Continue reading..."
     }
   ]
 }
