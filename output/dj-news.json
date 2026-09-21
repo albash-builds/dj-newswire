@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T13:38:54.857Z",
+  "generatedAt": "2026-09-21T19:04:24.321Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,62 @@
     }
   ],
   "items": [
+    {
+      "id": "3c0f9597176998ac9f4b3822bd56e4bb02f3281c",
+      "title": "El Último Disparo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/buenos-vampiros-el-ultimo-disparo/",
+      "published": "2026-09-21T14:51:50.000Z",
+      "publishedTs": 1790002310000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Buenos-Vampiros-El-ultimo-Disparo.jpg",
+      "excerpt": "Cuando escribo estas líneas, la banda argentina Buenos Vampiros está de gira por el viejo continente para presentar su nuevo... La entrada El Último Disparo se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5f11c468984490379b9b4fc07aba98ce9e7329b7",
+      "title": "Here Because Of Hope",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/here-because-of-hope/",
+      "published": "2026-09-21T14:19:25.000Z",
+      "publishedTs": 1790000365000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Ezra-Collective-Here-Because-Of-Hope.jpg",
+      "excerpt": "La música de Ezra Collective siempre dio nociones de disfrute y armonía. Con haber asistido a una de sus ceremonias... La entrada Here Because Of Hope se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7b964c7211a8946aff670afd919d6df434eb3592",
+      "title": "Mule",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/orville-peck-mule/",
+      "published": "2026-09-21T13:58:14.000Z",
+      "publishedTs": 1789999094000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Orville-Peck-Mule.jpg",
+      "excerpt": "El tercer disco de Orville Peck, \"Mule\", es el más interesante líricamente, transmietiendo una cohesión temática de la que padecían... La entrada Mule se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4d3c41fff43e2b7f8d81e38fe167bdc97b806457",
+      "title": "Massive Champion",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/getdown-services-massive-champion/",
+      "published": "2026-09-21T13:39:39.000Z",
+      "publishedTs": 1789997979000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Getdown-Services-Massive-Champion.jpg",
+      "excerpt": "El dúo británico Getdown Services, formado por Ben Sadler y Josh Law, se ha ganado una sólida reputación en estos... La entrada Massive Champion se publicó primero en MondoSonoro ."
+    },
     {
       "id": "38d44c99bf185abbe675af8be480ab32f080ff99",
       "title": "Crítica de 'Hard Life', el esperado tercer largo de The Tubs",
@@ -112,60 +168,40 @@
       "excerpt": "La transformación musical de Bonobo –lleva ya algo más de veintiséis años sacando pecho y reinventándose a sí mismo– pasa... La entrada Distance in Static se publicó primero en MondoSonoro ."
     },
     {
-      "id": "bdf015d46cdbe84dcae3c02eb0f4a0f0357fd8d5",
-      "title": "Raw",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/noa-the-hell-drinkers-raw/",
-      "published": "2026-09-15T07:16:51.000Z",
-      "publishedTs": 1789456611000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/noa-hell-drinkers.jpg",
-      "excerpt": "Este cuarto disco de la banda gipuzkoarra se presenta como un amplísimo catálogo de sonidos cercanos a ese blues pantanoso... La entrada Raw se publicó primero en MondoSonoro ."
+      "id": "98ed489d7a89054efde0378fbd94930a024cfb10",
+      "title": "On debut album ‘P ★ K I’, Ahadadream makes a bold statement of self-love",
+      "link": "https://mixmag.net/feature/ahadadream-dj-cover-feature-interview-p-ki-album",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
+      "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
-      "id": "bb30ee5a82f95f348c1fb84d254b9555dfcf78ec",
-      "title": "Czarface Meets Frankie Pulitzer",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/czarface-meets-frankie-pulitzer/",
-      "published": "2026-09-11T13:52:45.000Z",
-      "publishedTs": 1789134765000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/CzarfaceCD.jpg",
-      "excerpt": "Detrás de Czarface se encuentra el grupo que aúna al dúo de Boston 7L &#38; Esoteric y al MC miembro... La entrada Czarface Meets Frankie Pulitzer se publicó primero en MondoSonoro ."
+      "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
+      "title": "The Cover Mix: Ahadadream",
+      "link": "https://mixmag.net/feature/ahadadream-dj-cover-mix-mixmag-lab-london",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
-      "id": "52c5cc7173768b94c197f8836bc5e2ff7eb66f14",
-      "title": "The Singer in My Band",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/singer-in-my-band-this-is-lorelei/",
-      "published": "2026-09-11T06:00:20.000Z",
-      "publishedTs": 1789106420000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/ThisIsLoreleiCD.jpg",
-      "excerpt": "Nate Amos lleva más de diez años dejándonos claro con This Is Lorelei que pertenece a esa rara estirpe de... La entrada The Singer in My Band se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "31c11577aeb5e2b2dff97f5eb272e25382e2e810",
-      "title": "Who Loves The Sun",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/who-loves-the-sun-chat-pile/",
-      "published": "2026-09-10T07:37:47.000Z",
-      "publishedTs": 1789025867000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/ChatPileCDWEB.jpg",
-      "excerpt": "Pues llegamos al tercer álbum de Chat Pile, el que, probablemente, hoy en día sea la gran esperanza (y realidad)... La entrada Who Loves The Sun se publicó primero en MondoSonoro ."
+      "id": "8240199c49408d40a571089367d575898b34fb14",
+      "title": "Mastermind behind UK's biggest-ever vinyl counterfeit operation sentenced to prison",
+      "link": "https://mixmag.net/read/mastermind-uk-biggest-ever-vinyl-counterfeit-operation-sentenced-to-three-years-in-prison-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Vinyl_2026-09-21-140103_wmjq.jpg?fit=cover&width=660&s=aHUxsLvihlACMeaW4-_3ggs3v4rOQzeIz6MzmzVwHGY",
+      "excerpt": "Rehan Ahmed was found to have earned £2.4 million from the sale of fake vinyl releases from artists such as The Beatles, Taylor Swift and Ed Sheeran Continue reading..."
     },
     {
       "id": "4acc5750b80adf80add462e5aab4436d3badc7b3",
@@ -332,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
@@ -356,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -404,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/making-time-web.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PJWM7MdOeCuOEP_u9DiN9sedBJRAqcZakbUL47aTVNk",
       "excerpt": "For the last 26 years, Philadelphia party Making Time has rewritten the traditional club night script. Fusing DJs with live acts, the beloved night has brought The Strokes, Interpol, Charli xcx and many more together with global DJs Cont…"
     },
     {
@@ -752,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=uoXfz55yRQ_6zCRCeKggCZpCFWhW1D7Jpx_8Qx-9lyo",
       "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Police_2026-09-01-120600_dcen.jpg?fit=cover&width=660&s=BU-alsmQ5i7EZrRCc6ELEh62otbRdIvRHqf8TtqMOCc",
       "excerpt": "A 43-year-old Swiss national has been arrested following the shooting in Aarau on Sunday Continue reading..."
-    },
-    {
-      "id": "343eec7f110313ffd18eccc6115f25e1fe70c516",
-      "title": "Former gang leader found guilty of orchestrating Tupac’s murder after three decades",
-      "link": "https://mixmag.net/read/former-gang-leader-found-guilty-orchestrating-tupac-murder-three-decades-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/2pac-hits.jpg?fit=cover&width=660&s=sF0KOY20ibpor0kIx7a-7xRwzIr0mvpQ0rEBzWanHCo",
-      "excerpt": "63-year-old Duane &quot;Keffe D&quot; Davis was accused of instigating, but not conducting, the murder Continue reading..."
-    },
-    {
-      "id": "3c2a09c50f8bcc88057d9573f9d21bc9a9026eca",
-      "title": "\"Red alert\" issued over Donald Trump pills in the Netherlands",
-      "link": "https://mixmag.net/read/red-alert-issued-donald-trump-pills-netherlands-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drugs-trump.jpg?fit=cover&width=660&s=E8n2za9CJ_WehV4RHf7oJL_SdHEg2KxiBe90r8bEhEA",
-      "excerpt": "Utrecht-based research centre Trimbos Institute detected &quot;high volumes&quot; of PMMA in the batch, which are pressed in the shape of the US President Continue reading..."
-    },
-    {
-      "id": "74391add9aa5060f7e417e312eb9f25c9f30d396",
-      "title": "New music on our radar this week: Lady Shaka, Josh Baker, Mike D",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-lady-shaka-josh-baker-erykah-badu-and-the-alchemist-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mike-D.jpg?fit=cover&width=660&s=lzJKhcntocpjaZgp1ckcbZzKJxqe1NYbJhSpyVCoa-Q",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
