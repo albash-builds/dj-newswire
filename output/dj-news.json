@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:28:50.504Z",
+  "generatedAt": "2026-09-22T09:02:17.149Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "20947a634d21e6de4c60f1e32d56492b6b6dbb17",
+      "title": "Cursum Perficio",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/anthrax-cursum-perficio/",
+      "published": "2026-09-22T07:26:19.000Z",
+      "publishedTs": 1790061979000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Anthrax-Cursum-Perficio.jpg",
+      "excerpt": "El tiempo parece no pasar para Anthrax. ¿Es esto un milagro, una bendición monumental? No exactamente. “Cursum Perficio” (latín para... La entrada Cursum Perficio se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3c0f9597176998ac9f4b3822bd56e4bb02f3281c",
       "title": "El Último Disparo",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bloc-Party-Anatomy-Of-A-Brief-Romance.jpg",
       "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Anatomy Of A Brief Romance se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8845543503e7d79886664db0e22b737f21fb6552",
-      "title": "Distance in Static",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/distance-in-static/",
-      "published": "2026-09-15T09:00:43.000Z",
-      "publishedTs": 1789462843000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/BonoboCDDistance.jpg",
-      "excerpt": "La transformación musical de Bonobo –lleva ya algo más de veintiséis años sacando pecho y reinventándose a sí mismo– pasa... La entrada Distance in Static se publicó primero en MondoSonoro ."
     },
     {
       "id": "98ed489d7a89054efde0378fbd94930a024cfb10",
@@ -356,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     },
     {
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
+      "image": "",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
@@ -512,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/white-claw-defected-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=kcWCSqxqlfpKV4HlfR_5VgcO8-hn7nua74qSEhCU02Q",
       "excerpt": "White Claw and Defected flew 10 strangers to Ibiza for 24 hours as part of their ‘Find Your People’ experiment, pairing like-minded dance music fans to see if they can become lifelong friends Continue reading..."
     },
     {
@@ -824,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/galactica.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=a8r7ynNRKMGSSMprVICaonBGiTptKnl7FAJE-R78TnU",
+      "image": "",
       "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
     },
     {
