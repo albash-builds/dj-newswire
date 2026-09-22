@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:21:13.012Z",
+  "generatedAt": "2026-09-22T18:30:46.375Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,30 @@
       "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Anatomy Of A Brief Romance se publicó primero en MondoSonoro ."
     },
     {
+      "id": "85e137b40b3b7b29fe2e43a612e3533ef82aed1c",
+      "title": "Celebrated IDM and electro artist Vector Lovers has died",
+      "link": "https://mixmag.net/read/celebrated-idm-electro-artist-vector-lovers-died-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vector-lovers.jpg?fit=cover&width=660&s=EydCc8QrPC4lRGdvfM3Su9p5zdtoGy2FY1fBOSI6TVc",
+      "excerpt": "His affiliate label Soma Records remember Vector Lovers as a “very talented producer” Continue reading..."
+    },
+    {
+      "id": "36b77dad38d91569b8478c9a3a670b0b2c5f9d7a",
+      "title": "UK nightlife venues still 29% down on pre-COVID numbers",
+      "link": "https://mixmag.net/read/number-uk-nightlife-venues-increases-despite-still-being-down-29-compared-to-pre-covid-figures-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightclub_2026-09-22-141907_lnbd.jpg?fit=cover&width=660&s=nFIPkUd4D0ilM2p4C86MPXWq8veHPS6en4PzcTUSWE0",
+      "excerpt": "The amount of late-night venues and nightclubs rose by 0.4% between March and June 2026, though the NTIA warn that rising costs could &quot;extinguish&quot; this small recovery Continue reading..."
+    },
+    {
       "id": "8f79817745615447a0af363492d0a17223bdb424",
       "title": "Free app lets you avoid smart glasses-wearers in the club",
       "link": "https://mixmag.net/read/new-app-detects-people-using-meta-glasses-club-news",
@@ -236,7 +260,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fabric_2026-09-02-111950_cbbc.jpg?fit=cover&width=660&s=JtZ5y2DoEMZ-FZCSRL17kjZF1HHolEPbVDR4fcJSZDo",
       "excerpt": "The London landmark has joined forces with the Farringdon nightclub on a series of &quot;contemporary music&quot; events, running until 2030 Continue reading..."
-    },
-    {
-      "id": "55012bddf312dc4285282f18a3357d7041170aac",
-      "title": "Tyler, The Creator labels All Points East night one crowd “fucking dead”",
-      "link": "https://mixmag.net/read/tyler-the-creator-says-all-points-east-crowds-were-fucking-dead-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tyler-the-creator-all-points-east.jpg?fit=cover&width=660&s=AWMBBQdL3bt9q3utF2z1bId2FC3LgPj3jjO4_9UsdVo",
-      "excerpt": "The US musician curated two days at the East London festival over the weekend Continue reading..."
-    },
-    {
-      "id": "567e18ec2b329af11b08b3159797524ae5d8433c",
-      "title": "Breaking the cycle: Bonobo’s evolution is entering a new phase",
-      "link": "https://mixmag.net/feature/bonobo-distance-in-static-interview-cover-feature-dj",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Bonobo has never stayed still as a musician, constantly evolving his approach to sound and performance across 26 years of acclaimed album cycles and tours. Now with his eighth album ‘Distance In Static’ being billed as “perhaps his last …"
     }
   ]
 }
