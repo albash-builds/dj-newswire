@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T05:30:32.627Z",
+  "generatedAt": "2026-09-23T10:49:57.905Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "e39d9d73f2e1865ac220d997d8dcb852164dbb4f",
+      "title": "Reseñamos 'Pylon', el nuevo trabajo de Beabadoobee",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/beabadoobee-pylon/",
+      "published": "2026-09-23T10:34:44.000Z",
+      "publishedTs": 1790159684000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Beabadoobee-Pylon.jpg",
+      "excerpt": "Pues qué queréis que os diga: yo no veo el giro por ningún lado. O no lo veo para tanto.... La entrada Reseñamos &#039;Pylon&#039;, el nuevo trabajo de Beabadoobee se publicó primero en MondoSonoro ."
+    },
     {
       "id": "20947a634d21e6de4c60f1e32d56492b6b6dbb17",
       "title": "Cursum Perficio",
@@ -99,7 +113,7 @@
     },
     {
       "id": "38d44c99bf185abbe675af8be480ab32f080ff99",
-      "title": "Crítica de 'Hard Life', el esperado tercer largo de The Tubs",
+      "title": "Hard Life",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/the-tubs-hard-life/",
       "published": "2026-09-19T09:06:51.000Z",
       "publishedTs": 1789808811000,
@@ -109,7 +123,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/The-Tubs-Hard-Life.jpg",
-      "excerpt": "Pues sí, sólo un año después del sobresaliente “Cotton Crown”, The Tubs retornan con una nueva ración de exaltaciones de... La entrada Crítica de &#039;Hard Life&#039;, el esperado tercer largo de The Tubs se publicó primero en MondoSono…"
+      "excerpt": "Pues sí, sólo un año después del sobresaliente “Cotton Crown”, The Tubs retornan con una nueva ración de exaltaciones de... La entrada Hard Life se publicó primero en MondoSonoro ."
     },
     {
       "id": "fc16afd2de1eac7bb84e638737a2c2992ac6ce49",
@@ -154,18 +168,16 @@
       "excerpt": "Es gratificante observar la evolución a mejor de este grupo donostiarra, desde su vacilante EP debut “The future in the... La entrada Reckless Strangers, Worn-Out Lovers se publicó primero en MondoSonoro ."
     },
     {
-      "id": "97d5d4a2e45af82bdd6c9be2aa69184090b110fa",
-      "title": "Anatomy Of A Brief Romance",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bloc-party-anatomy-of-a-brief-romance/",
-      "published": "2026-09-16T08:16:46.000Z",
-      "publishedTs": 1789546606000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Bloc-Party-Anatomy-Of-A-Brief-Romance.jpg",
-      "excerpt": "Hubo una época en la que Bloc Party llegaron a insinuar candidatura de cara a convertirse en una de las... La entrada Anatomy Of A Brief Romance se publicó primero en MondoSonoro ."
+      "id": "2026f66494db47219c71a2f3a9886589f186d7e5",
+      "title": "Disgraced DJ Tim Westwood charged with two additional sexual offences",
+      "link": "https://mixmag.net/read/disgraced-dj-tim-westwood-charged-two-additional-sexual-offences-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tim-westwood.jpg?fit=cover&width=660&s=gZ2gCdBrEcj6CJCYnGQzYeFUgJ_5W9HcbDkNcW7Joog",
+      "excerpt": "The former BBC Radio 1 presenter is now facing a total of 17 charges Continue reading..."
     },
     {
       "id": "85e137b40b3b7b29fe2e43a612e3533ef82aed1c",
@@ -240,6 +252,18 @@
       "excerpt": "Apple Music Hall will open within Battersea Power Station in “the coming weeks” Continue reading..."
     },
     {
+      "id": "1299b744bf2ad8b04b10e5ee6f9e53a44d5870b4",
+      "title": "Armin van Buuren dives into the psychology of the [UNVRS] dancefloor in new documentary",
+      "link": "https://mixmag.net/feature/armin-van-buuren-psychology-state-of-trance-unvrs-ibiza",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
+      "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
+    },
+    {
       "id": "98ed489d7a89054efde0378fbd94930a024cfb10",
       "title": "On debut album ‘P ★ K I’, Ahadadream makes a bold statement of self-love",
       "link": "https://mixmag.net/feature/ahadadream-dj-cover-feature-interview-p-ki-album",
@@ -260,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -440,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
@@ -512,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/making-time-web.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PJWM7MdOeCuOEP_u9DiN9sedBJRAqcZakbUL47aTVNk",
       "excerpt": "For the last 26 years, Philadelphia party Making Time has rewritten the traditional club night script. Fusing DJs with live acts, the beloved night has brought The Strokes, Interpol, Charli xcx and many more together with global DJs Cont…"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-support.jpg?fit=cover&width=660&s=an_A3gwvxtlxJ6uv7hzZrBsWZL0tGfV9lfOZX04E-Vc",
       "excerpt": "Established DJs, producers, artist collectives and more can apply for grants between £10,000 and £20,000 Continue reading..."
-    },
-    {
-      "id": "a06f8262cee11914d959bd7aa81c0647ed46c686",
-      "title": "Electric Picnic director defends festival safety following crowd collapse",
-      "link": "https://mixmag.net/read/electric-picnic-director-defends-festival-safety-following-crowd-collapse-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/epfestival.jpg?fit=cover&width=660&s=65fNyx2Oz5HMowxCQGQ18YG4ZlGJZx95YEaZKWgVsPk",
-      "excerpt": "Crowds surged to a set from Armand Van Helden, causing a “terrifying” collapse Continue reading..."
-    },
-    {
-      "id": "e6823165f2971a888c36acab44d3a76931d63cfc",
-      "title": "fabric announces four-year event series at St Paul's Cathedral",
-      "link": "https://mixmag.net/read/fabric-host-nighttime-events-st-pauls-cathedral-four-years-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fabric_2026-09-02-111950_cbbc.jpg?fit=cover&width=660&s=JtZ5y2DoEMZ-FZCSRL17kjZF1HHolEPbVDR4fcJSZDo",
-      "excerpt": "The London landmark has joined forces with the Farringdon nightclub on a series of &quot;contemporary music&quot; events, running until 2030 Continue reading..."
     }
   ]
 }
