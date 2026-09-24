@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T07:14:18.790Z",
+  "generatedAt": "2026-09-24T13:14:45.123Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "1df1d0bb1023960c8c60d16044e0a272ea0465b7",
+      "title": "Crítica de 'Decay', el nuevo disco de Godflesh que se estrena este viernes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/godflesh-decay/",
+      "published": "2026-09-24T09:50:02.000Z",
+      "publishedTs": 1790243402000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/godflesh-decay.jpg",
+      "excerpt": "El peso del tiempo, el castigo físico y la alienación se manifiestan con una crudeza sin precedentes en “Decay”, décimo... La entrada Crítica de &#039;Decay&#039;, el nuevo disco de Godflesh que se estrena este viernes se publicó primero…"
+    },
     {
       "id": "0d0c391be3dc02665a9ec7d34812d7063e863d52",
       "title": "Equis",
@@ -154,18 +168,16 @@
       "excerpt": "Pues sí, sólo un año después del sobresaliente “Cotton Crown”, The Tubs retornan con una nueva ración de exaltaciones de... La entrada Hard Life se publicó primero en MondoSonoro ."
     },
     {
-      "id": "fc16afd2de1eac7bb84e638737a2c2992ac6ce49",
-      "title": "Hemispheres",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sleep-hemispheres/",
-      "published": "2026-09-18T13:34:27.000Z",
-      "publishedTs": 1789738467000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/SleepHemispheresCD.jpg",
-      "excerpt": "La expectativa sobre este nuevo álbum de Sleep se sustenta básicamente en ver como el miembro fundador Al Cisneros logra... La entrada Hemispheres se publicó primero en MondoSonoro ."
+      "id": "57ccebe4f366bfc7bed243831d14281a2d3f1239",
+      "title": "Rare tapes from Moby, Eminem and Depeche Mode go up for auction",
+      "link": "https://mixmag.net/read/rare-tapes-moby-eminem-depeche-mode-auction-wax-poetics-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/moby-credit-Lindsay-Hicks.jpg?fit=cover&width=660&s=dcbmCVJfBs3V1MoyNdi1ewLq10x5ldPcK-GMCz1ai6w",
+      "excerpt": "Moby’s hand-drawn DJ demo cassette from 1987-88 has a current bid of $700 Continue reading..."
     },
     {
       "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
@@ -476,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     },
     {
@@ -908,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hot-Since-82-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=uoXfz55yRQ_6zCRCeKggCZpCFWhW1D7Jpx_8Qx-9lyo",
       "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/chataeu-denmark.jpg?fit=cover&width=660&s=0KseSGYKAzOMCyPUhnwDYY18RhLgWh9UpovQkBxMOJw",
       "excerpt": "UMusic Hotel London, located within the Outernet complex, will pair &quot;nightlife, hospitality and immersive entertainment&quot; Continue reading..."
-    },
-    {
-      "id": "67d2dd55ebcf0700de8e7057304e4ed8dc3dcffb",
-      "title": "Burning Man co-founder says festival has become a “commercialised escape hatch”",
-      "link": "https://mixmag.net/read/burning-man-co-founder-says-festival-become-commercialised-escape-hatch-elite-wealthy-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/burning-man-credit-Bob-Wick.jpg?fit=cover&width=660&s=fHMbYHTbWHp3OKlzxi4CYEJ5ZJYSShZVRjTFpBcySuE",
-      "excerpt": "He condemned the loss of its “anarchist soul”, saying that the festival has become a place for middle class creatives Continue reading..."
     }
   ]
 }
