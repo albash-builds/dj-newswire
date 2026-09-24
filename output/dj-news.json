@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:06:26.695Z",
+  "generatedAt": "2026-09-24T07:14:18.790Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "0d0c391be3dc02665a9ec7d34812d7063e863d52",
+      "title": "Equis",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-ciudadano-x-equis/",
+      "published": "2026-09-24T06:56:56.000Z",
+      "publishedTs": 1790233016000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/el-Ciudadano-X.jpg",
+      "excerpt": "No se prodiga demasiado este veterano grupo de Vitoria-Gasteiz, ni sobre los escenarios ni en los estudios de grabación. Nacido... La entrada Equis se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "652befd17fdfb28851c34217b190c7087f433e52",
+      "title": "Todo y nada",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/arraibi-todo-y-nada/",
+      "published": "2026-09-24T06:45:49.000Z",
+      "publishedTs": 1790232349000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/arraibi.jpg",
+      "excerpt": "Ni todas las modas o tendencias que el presente esté dispuesto a descubrir, serán capaces de enterrar esa vernácula necesidad... La entrada Todo y nada se publicó primero en MondoSonoro ."
+    },
     {
       "id": "e39d9d73f2e1865ac220d997d8dcb852164dbb4f",
       "title": "Reseñamos 'Pylon', el nuevo trabajo de Beabadoobee",
@@ -140,34 +168,6 @@
       "excerpt": "La expectativa sobre este nuevo álbum de Sleep se sustenta básicamente en ver como el miembro fundador Al Cisneros logra... La entrada Hemispheres se publicó primero en MondoSonoro ."
     },
     {
-      "id": "9dacf0235ea46d4fd15f47561b473f7d62a2ea20",
-      "title": "Ride Lonesome",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/beck-ride-lonesome-disco/",
-      "published": "2026-09-17T10:47:52.000Z",
-      "publishedTs": 1789642072000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Beck-Ride-Lonesome-.jpg",
-      "excerpt": "El único hándicap con el que puede toparse este disco es que ya no sorprenderá a nadie que esté familiarizado... La entrada Ride Lonesome se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "43d02e0d888cbe0557e5daa63679fe91b7fb5d72",
-      "title": "Reckless Strangers, Worn-Out Lovers",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/thee-eliam-reckless-strangers-worn-out-lovers/",
-      "published": "2026-09-16T13:51:31.000Z",
-      "publishedTs": 1789566691000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/thee-eliam.jpg",
-      "excerpt": "Es gratificante observar la evolución a mejor de este grupo donostiarra, desde su vacilante EP debut “The future in the... La entrada Reckless Strangers, Worn-Out Lovers se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
       "title": "The Cover Mix: Ahadadream",
       "link": "https://mixmag.net/feature/ahadadream-dj-cover-mix-mixmag-lab-london",
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
+      "image": "",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -284,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Viijij_0d15YwjveHmuucqZylCGP-Ct01T5sXGeXK-8",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
