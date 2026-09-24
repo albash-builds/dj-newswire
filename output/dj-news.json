@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T22:41:48.746Z",
+  "generatedAt": "2026-09-24T01:06:26.695Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,18 @@
       "excerpt": "Es gratificante observar la evolución a mejor de este grupo donostiarra, desde su vacilante EP debut “The future in the... La entrada Reckless Strangers, Worn-Out Lovers se publicó primero en MondoSonoro ."
     },
     {
+      "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
+      "title": "The Cover Mix: Ahadadream",
+      "link": "https://mixmag.net/feature/ahadadream-dj-cover-mix-mixmag-lab-london",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
+    },
+    {
       "id": "ce07d095cd692ad817409be53b54c77eb106fff5",
       "title": "UK startup offering \"avatar\" music performances lands multi-million investment",
       "link": "https://mixmag.net/read/uk-startup-offering-avatar-musicians-lands-multi-million-investment-to-news",
@@ -272,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
+      "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -298,18 +310,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
-    },
-    {
-      "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
-      "title": "The Cover Mix: Ahadadream",
-      "link": "https://mixmag.net/feature/ahadadream-dj-cover-mix-mixmag-lab-london",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
       "id": "8240199c49408d40a571089367d575898b34fb14",
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Viijij_0d15YwjveHmuucqZylCGP-Ct01T5sXGeXK-8",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1004,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/new-pic.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ScT15mgx2_GPysV7IaGIaIpg2SkesujwGD8Q8w_Ugv0",
+      "image": "",
       "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
     },
     {
