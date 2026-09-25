@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:14:16.431Z",
+  "generatedAt": "2026-09-25T16:37:41.971Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -168,16 +168,28 @@
       "excerpt": "La música de Ezra Collective siempre dio nociones de disfrute y armonía. Con haber asistido a una de sus ceremonias... La entrada Here Because Of Hope se publicó primero en MondoSonoro ."
     },
     {
-      "id": "fb1b0edff941e377246f6d2c00ee91237b0dc6af",
-      "title": "Boxout Fest founder DJ Buxley has died aged 34",
-      "link": "https://mixmag.net/read/boxout-fest-founder-dj-buxley-died-aged-34-news",
+      "id": "041e9a95a1cc10045238d1a48ea08130118be681",
+      "title": "Liverpool's GBar ordered to close following triple stabbing",
+      "link": "https://mixmag.net/read/liverpools-gbar-ordered-to-close-following-triple-stabbing-news",
       "published": "",
       "publishedTs": 0,
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/buxley.jpg?fit=cover&width=660&s=Oy_HB_ddXcgCnhxHe8ujempLBdSS1GhGbsPp6BAPqAE",
-      "excerpt": "The artist is remembered as a “charitable” and “humble” person who made a significant impact on the Birmingham music scene Continue reading..."
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gbar.jpg?fit=cover&width=660&s=vtyzmtjShJjPvrxTx-cw_FBG2ogDy2WT0vfqNDU4aGA",
+      "excerpt": "Liverpool Council has revoked the LGBTQIA+ venue&#039;s licence following a violent altercation between two groups of men last weekend Continue reading..."
+    },
+    {
+      "id": "cf52d959e04f5bcea2327c26a081f744ae25f82d",
+      "title": "Interactive bus tour visiting Dublin’s “vanished” music venues to begin this autumn",
+      "link": "https://mixmag.net/read/interactive-bus-tour-visiting-dublin-vanished-venues-begin-autumn-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dublin-night.jpg?fit=cover&width=660&s=LBLKCXz5Q08AMLiY9vIrboW66D6wT7XRLyq-fa6mYT4",
+      "excerpt": "The tour will track “Dublin’s dancefloors, past, present and future”, hosted by historians, DJs and promoters Continue reading..."
     },
     {
       "id": "c246f0b7957500d252feb4306fce4921a049262d",
@@ -190,6 +202,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Pevan.jpg?fit=cover&width=660&s=2paOtaqHlBFBdOFbzowGb7p_HKumEjMnMJPivh_shVE",
       "excerpt": "Documenting the life of the Chicago house vocalist, Peven Everett: Voice of a Generation features interviews with Damon Albarn, DJ Rashida, Moodymann and Bootie Brown Continue reading..."
+    },
+    {
+      "id": "fb1b0edff941e377246f6d2c00ee91237b0dc6af",
+      "title": "Boxout Fest founder DJ Buxley has died aged 34",
+      "link": "https://mixmag.net/read/boxout-fest-founder-dj-buxley-died-aged-34-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/buxley.jpg?fit=cover&width=660&s=Oy_HB_ddXcgCnhxHe8ujempLBdSS1GhGbsPp6BAPqAE",
+      "excerpt": "The artist is remembered as a “charitable” and “humble” person who made a significant impact on the Birmingham music scene Continue reading..."
     },
     {
       "id": "80ef5f65257f5563c59eb58f8d87693315132f1b",
@@ -344,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
+      "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -380,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
+      "image": "",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CDs_2026-09-04-124128_ilhs.jpg?fit=cover&width=660&s=yZ4RvKj1LJU9-kMpJzCORukzt62DiaoDTEr3Vw0g2vE",
       "excerpt": "Compact discs have helped boost physical music revenues, which are estimated to be valued at around $731.5 million Continue reading..."
-    },
-    {
-      "id": "0d326c1ff3a9549a9c6c16673f6edc30484873ad",
-      "title": "Disco Pogo to release “deep dive” book into Boards of Canada’s music",
-      "link": "https://mixmag.net/read/disco-pogo-release-deep-dive-book-boards-of-canada-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/boc-inferno.jpg?fit=cover&width=660&s=ksl74IMSxbI0V4GUlEF2RLX_latDfe33UvPmGklBcdk",
-      "excerpt": "It features a musical timeline, thinkpieces, album essays and much more Continue reading..."
-    },
-    {
-      "id": "2c2e8aefc81f7ce7337182079587a1ec28ea1fde",
-      "title": "New 450-capacity club space to open in Manchester, Locker",
-      "link": "https://mixmag.net/read/new-450-capacity-club-space-open-manchester-locker-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/locker-manchester.jpg?fit=cover&width=660&s=fe6o3ZxgApa7RFgd8SXdeDXi0-z3Sn50YIewCujGMAU",
-      "excerpt": "Locker takes over a room within live music venue New Century Manchester Continue reading..."
     }
   ]
 }
