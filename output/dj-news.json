@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T10:37:07.129Z",
+  "generatedAt": "2026-09-28T18:28:27.438Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "9ce9f9c497ea06c91ca69360d94a964956c5a28d",
+      "title": "Apples For Isaac",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/echo-the-bunnymen-apples-for-isaac/",
+      "published": "2026-09-28T11:39:01.000Z",
+      "publishedTs": 1790595541000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Echo-The-Bunnymen-Apples-For-Isaac.jpg",
+      "excerpt": "Es una máxima evidente y aceptada que Echo &#38; The Bunnymen sellaron el que sería su legado eterno en la... La entrada Apples For Isaac se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "9083e845a8f400908d6223082859810532133701",
+      "title": "Órdago",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/ordago/",
+      "published": "2026-09-28T11:17:38.000Z",
+      "publishedTs": 1790594258000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Corizonas-ordago.jpg",
+      "excerpt": "Un puzle hecho de piezas identificativas individualmente pero que unidas dan como resultado una imagen inédita. Así se podría definir... La entrada Órdago se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f61d5009e713d0150d07ffec449e302bc2cfc478",
       "title": "Crítica de 'Historia de Ángeles', disco del trío madrileño 1111",
@@ -140,32 +168,64 @@
       "excerpt": "Pues qué queréis que os diga: yo no veo el giro por ningún lado. O no lo veo para tanto.... La entrada Pylon se publicó primero en MondoSonoro ."
     },
     {
-      "id": "20947a634d21e6de4c60f1e32d56492b6b6dbb17",
-      "title": "Cursum Perficio",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/anthrax-cursum-perficio/",
-      "published": "2026-09-22T07:26:19.000Z",
-      "publishedTs": 1790061979000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Anthrax-Cursum-Perficio.jpg",
-      "excerpt": "El tiempo parece no pasar para Anthrax. ¿Es esto un milagro, una bendición monumental? No exactamente. “Cursum Perficio” (latín para... La entrada Cursum Perficio se publicó primero en MondoSonoro ."
+      "id": "1452c8a5f103ee062aaf2bba3a1737c5ce69b678",
+      "title": "Apple Music to livestream sets from California's Head Trip Festival",
+      "link": "https://mixmag.net/read/apple-music-livestream-sets-california-head-trip-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/head-trip.jpg?fit=cover&width=660&s=M678Dq75I6nG2K0et8daunoxoyQHH8sWX3MrquEVELQ",
+      "excerpt": "Subscribers will be able to hear sets from Skrillex, Four Tet and more across the festival&#039;s two-day run via Apple Music Club Radio next month Continue reading..."
     },
     {
-      "id": "3c0f9597176998ac9f4b3822bd56e4bb02f3281c",
-      "title": "El Último Disparo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/buenos-vampiros-el-ultimo-disparo/",
-      "published": "2026-09-21T14:51:50.000Z",
-      "publishedTs": 1790002310000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Buenos-Vampiros-El-ultimo-Disparo.jpg",
-      "excerpt": "Cuando escribo estas líneas, la banda argentina Buenos Vampiros está de gira por el viejo continente para presentar su nuevo... La entrada El Último Disparo se publicó primero en MondoSonoro ."
+      "id": "52dfb8ec7b281454bf9e2c7667dabfe12d399ac4",
+      "title": "Free like Fiorito: Alfredo's son Jaime reflects on the changing face of Ibiza",
+      "link": "https://mixmag.net/feature/jaime-fiorito-alfredo-ibiza-amnesia-interview-balearic-beat",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
+    },
+    {
+      "id": "d8c942ad37c20891b31f644d4df90ddda31d1bc3",
+      "title": "Fred again.. on AI-generated music: “I’m not worried about the threat of AI”",
+      "link": "https://mixmag.net/read/fred-again-ai-generated-music-not-worried-about-threat-ai-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-press-shot.jpg?fit=cover&width=660&s=VgdMOvw0D5ykao74Y9C_e3Ibc6E0wFvcdqHvhj1dYIk",
+      "excerpt": "He slammed artificially-made music, saying he’s felt “no pull whatsoever” to try using AI tech Continue reading..."
+    },
+    {
+      "id": "4cf207e4e3498eb28fb089a43a25809e8e705d1f",
+      "title": "Prime Minister Andy Burnham says he \"does not support\" personal use drug decriminalisation",
+      "link": "https://mixmag.net/read/prime-minister-andy-burnham-says-he-does-not-support-drug-decriminalisation-for-personal-use-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drugs.jpg?fit=cover&width=660&s=RvAs0dnP39Ujep2wBF8TscbJ1xzJFhbEg7lSGPBuVVA",
+      "excerpt": "The PM has insisted that he does not agree with the policy, which is supported by the SNP in efforts to reduce drug-related deaths in Scotland Continue reading..."
+    },
+    {
+      "id": "a4cab5494c629142dc1dd7bf1ef8a97ca3ec868a",
+      "title": "Massive Attack’s Robert Del Naja arrested again for supporting Palestine Action",
+      "link": "https://mixmag.net/read/massive-attack-robert-del-naja-arrested-again-supporting-palestine-action-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/del-naja-palestine-arrest.jpg?fit=cover&width=660&s=CjkvpJ_2RtuYmWVwxIV356is0gnh7u7l9Ympn1i__KE",
+      "excerpt": "The musician was arrested during a pro-Palestine protest outside the Labour Party&#039;s annual conference in Liverpool over the weekend Continue reading..."
     },
     {
       "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
@@ -260,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -416,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -440,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
+      "image": "",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
@@ -812,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ZfkVg6Kiqy7ke4wfncYpOdbekSo9t-QtxLaX_FJkyyM",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1064,68 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/galactica.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=a8r7ynNRKMGSSMprVICaonBGiTptKnl7FAJE-R78TnU",
-      "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
-    },
-    {
-      "id": "1bc2954fdc8a4e00ce5fa1b5ea28defb7c851c65",
-      "title": "Burning Man confirms three people died during 2026 festival",
-      "link": "https://mixmag.net/read/burning-man-confirms-two-people-died-during-2026-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Burning-Man_2026-09-07-143557_zrkf.jpg?fit=cover&width=660&s=uJraZKLxsbb1sU_6Ey_20WZVMSFaeg91EYwiv0vkFus",
-      "excerpt": "Three men, two in their 50s and one in his 60s, are confirmed to have died while attending last week&#039;s festival in Black Rock Desert, Nevada Continue reading..."
-    },
-    {
-      "id": "705a486a182322efbe7375277d4e1a8beb20d63e",
-      "title": "fabric partnership with St Paul's Cathedral labelled \"insult to Nelson's memory\" by relative",
-      "link": "https://mixmag.net/read/fabric-partnership-st-pauls-cathedral-labelled-insult-nelsons-memory-descendant-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/stpauls.jpg?fit=cover&width=660&s=WIT8HY6bd2D9FHzDk6e4dMb4TDycugWvpsDSi_KHGZU",
-      "excerpt": "The Farringdon nightclub will hold the first event in its new four-year deal with the cathedral on October 29 Continue reading..."
-    },
-    {
-      "id": "f9d63cd7212376e02bd5ec3b02e2f88304a2fe93",
-      "title": "New music on our radar this week: Saoirse, UNIIQU3, Folamour",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-8-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music-releases-sep-6.jpg?fit=cover&width=660&s=YjkgEbVt0mMA9whp_xd57Nu2qlGy4y8TssVs10-UuoQ",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "8fd9ebbc395615d3c26809232a546e182023cc84",
-      "title": "Festival line-ups you might have missed: Seismic Dance Event, ADE, Fabrika",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-seismic-dance-event-ade-fabrika-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sde-round-ups.jpg?fit=cover&width=660&s=olZqoDs6Hz3tqZn7bizWlojP5UpZWsav7rEEIo3KaQ8",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "173e3c8f2a9c31f282b378e0d5cf5efada571da3",
-      "title": "10 perfect b2b records selected by dj sweet6teen & Gene On Earth",
-      "link": "https://mixmag.net/feature/10-perfect-b2b-records-selected-dj-sweet6teen-gene-on-earth",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
       "image": "",
-      "excerpt": "In preparation for their upcoming appearance at London&#039;s Waterworks, dj sweet6teen &amp; Gene On Earth put their heads together to pick out their favourite tracks for a b2b DJ set Continue reading..."
+      "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
     }
   ]
 }
