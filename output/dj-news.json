@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:25:53.399Z",
+  "generatedAt": "2026-09-29T11:07:30.217Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,48 @@
     }
   ],
   "items": [
+    {
+      "id": "2fb70ec8107dafbe6d1aa06350dfd4bee59c832d",
+      "title": "Crítica de 'Magma', el disco de Nita más allá de Fuel Fandango",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nita-magma/",
+      "published": "2026-09-29T08:48:47.000Z",
+      "publishedTs": 1790671727000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Nita-Magma.jpg",
+      "excerpt": "Parafraseando uno de los hits de Fuel Fandango, la música, como la vida, ha ido brotando, abriendo camino y trepando... La entrada Crítica de &#039;Magma&#039;, el disco de Nita más allá de Fuel Fandango se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bc6dd4e9a870a7bcc0ff913cc11e96a2fa2d5b91",
+      "title": "hijss",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hijss/",
+      "published": "2026-09-29T08:00:42.000Z",
+      "publishedTs": 1790668842000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/hijss-hijss.jpg",
+      "excerpt": "En su segunda referencia de estudio para el laborioso sello indie romano Heavy Psych Sounds, hijss dispensa una avalancha de... La entrada hijss se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "947eac7129f0c58b2f3324f197f430a213476152",
+      "title": "Crítica de 'Homo Lamentáblis', el debut en largo de Hostia Pedagógica",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hostia-pedagogica-homo-lamentablis/",
+      "published": "2026-09-29T06:57:14.000Z",
+      "publishedTs": 1790665034000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Hostia-pedagogica-Homo-Lamentablis.jpg",
+      "excerpt": "Es sin duda un recurso esperable, pero resulta complicado no señalar que el nombre de esta banda barcelonesa luce de... La entrada Crítica de &#039;Homo Lamentáblis&#039;, el debut en largo de Hostia Pedagógica se publicó primero en Mond…"
+    },
     {
       "id": "9ce9f9c497ea06c91ca69360d94a964956c5a28d",
       "title": "Apples For Isaac",
@@ -126,46 +168,16 @@
       "excerpt": "El peso del tiempo, el castigo físico y la alienación se manifiestan con una crudeza sin precedentes en “Decay”, décimo... La entrada Decay se publicó primero en MondoSonoro ."
     },
     {
-      "id": "0d0c391be3dc02665a9ec7d34812d7063e863d52",
-      "title": "Equis",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-ciudadano-x-equis/",
-      "published": "2026-09-24T06:56:56.000Z",
-      "publishedTs": 1790233016000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/el-Ciudadano-X.jpg",
-      "excerpt": "No se prodiga demasiado este veterano grupo de Vitoria-Gasteiz, ni sobre los escenarios ni en los estudios de grabación. Nacido... La entrada Equis se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "652befd17fdfb28851c34217b190c7087f433e52",
-      "title": "Todo y nada",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/arraibi-todo-y-nada/",
-      "published": "2026-09-24T06:45:49.000Z",
-      "publishedTs": 1790232349000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/arraibi.jpg",
-      "excerpt": "Ni todas las modas o tendencias que el presente esté dispuesto a descubrir, serán capaces de enterrar esa vernácula necesidad... La entrada Todo y nada se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e39d9d73f2e1865ac220d997d8dcb852164dbb4f",
-      "title": "Pylon",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/beabadoobee-pylon/",
-      "published": "2026-09-23T10:34:44.000Z",
-      "publishedTs": 1790159684000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Beabadoobee-Pylon.jpg",
-      "excerpt": "Pues qué queréis que os diga: yo no veo el giro por ningún lado. O no lo veo para tanto.... La entrada Pylon se publicó primero en MondoSonoro ."
+      "id": "b6dea2c520d113719df0b5244ff2c91298d4d2d6",
+      "title": "Westminster Council pledges to “explore options” for future of Banksy statue",
+      "link": "https://mixmag.net/read/westminster-council-pledges-explore-options-future-banksy-statue-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/banksy-statue_2026-09-29-105111_aycg.jpg?fit=cover&width=660&s=P2NfHnpEbK7pWZQcu5--2VGzCO4RDydJ31IGQ437-ZY",
+      "excerpt": "The council said it has spent £60,000 safeguarding the statue, which appeared in Central London earlier this year Continue reading..."
     },
     {
       "id": "1452c8a5f103ee062aaf2bba3a1737c5ce69b678",
@@ -416,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -872,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AUGUST_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ZfkVg6Kiqy7ke4wfncYpOdbekSo9t-QtxLaX_FJkyyM",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music_2026-09-08-113542_mbon.jpg?fit=cover&width=660&s=eLkuhiP2JOkY0kiHhjeq_Wykwe3x1UEH0q0JYcJ7zhY",
       "excerpt": "New data from YouGov suggests that Gen Z listeners make up the lion&#039;s share of increased music consumption in British adults Continue reading..."
-    },
-    {
-      "id": "2adc532aa9ae8b35f6fbe286c839e796d8efea7c",
-      "title": "Inside Galactica's first-ever Ibiza residency at Eden",
-      "link": "https://mixmag.net/feature/inside-galacticas-first-ever-ibiza-residency-at-eden",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "The Italian hard techno brand has welcomed slam experts including 999999999, Cera Khin, Holy Priest and NIKOLINA across its 15-date run on the White Isle this summer Continue reading..."
     }
   ]
 }
