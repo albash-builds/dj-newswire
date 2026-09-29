@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T11:07:30.217Z",
+  "generatedAt": "2026-09-29T17:41:54.172Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "e6e186914688e575edc8f619c1bc4a633365cdc8",
+      "title": "'Señales Brutales' es el nuevo álbum de Aiko el grupo",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/aiko-el-grupo-senales-brutales/",
+      "published": "2026-09-29T15:07:30.000Z",
+      "publishedTs": 1790694450000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Aiko-el-grupo-Senales-Brutales-.jpg",
+      "excerpt": "De alguna manera, sentimos como si hubiésemos visto crecer emocional y musicalmente a Aiko el grupo desde aquellos primeros compases... La entrada &#039;Señales Brutales&#039; es el nuevo álbum de Aiko el grupo se publicó primero en Mond…"
+    },
     {
       "id": "2fb70ec8107dafbe6d1aa06350dfd4bee59c832d",
       "title": "Crítica de 'Magma', el disco de Nita más allá de Fuel Fandango",
@@ -99,7 +113,7 @@
     },
     {
       "id": "f61d5009e713d0150d07ffec449e302bc2cfc478",
-      "title": "Crítica de 'Historia de Ángeles', disco del trío madrileño 1111",
+      "title": "Historia de Ángeles",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/1111-historia-de-angeles/",
       "published": "2026-09-27T08:11:41.000Z",
       "publishedTs": 1790496701000,
@@ -109,7 +123,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/1111-historias-angeles.jpg",
-      "excerpt": "Negar que vivimos en un momento de violencia imperante sería absurdo, pero aún más sería negar que de entre esta... La entrada Crítica de &#039;Historia de Ángeles&#039;, disco del trío madrileño 1111 se publicó primero en MondoSonoro ."
+      "excerpt": "Negar que vivimos en un momento de violencia imperante sería absurdo, pero aún más sería negar que de entre esta... La entrada Historia de Ángeles se publicó primero en MondoSonoro ."
     },
     {
       "id": "f75c952b951cccb1bd37889029295121b2698647",
@@ -154,18 +168,40 @@
       "excerpt": "El tercer álbum de Anabel Lee saca a relucir una banda que, sin olvidar su identidad de origen, parece ser... La entrada Todas las vidas se publicó primero en MondoSonoro ."
     },
     {
-      "id": "1df1d0bb1023960c8c60d16044e0a272ea0465b7",
-      "title": "Decay",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/godflesh-decay/",
-      "published": "2026-09-24T09:50:02.000Z",
-      "publishedTs": 1790243402000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/godflesh-decay.jpg",
-      "excerpt": "El peso del tiempo, el castigo físico y la alienación se manifiestan con una crudeza sin precedentes en “Decay”, décimo... La entrada Decay se publicó primero en MondoSonoro ."
+      "id": "9750a5308a2314e75a578d3e646fe2174eb24166",
+      "title": "Police in Ibiza are using drones to find illegal villa parties",
+      "link": "https://mixmag.net/read/police-ibiza-using-drones-find-illegal-villa-parties-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/police-ibiza.jpg?fit=cover&width=660&s=6jzUTV_vrrLUo7dphicNTgXCzB4SlKVGN6v7SwEQpj0",
+      "excerpt": "Local police are reportedly using drones fitted with infrared cameras to detect private events Continue reading..."
+    },
+    {
+      "id": "facd5679a16c5c8e59e0d3a44795d066786dd5f7",
+      "title": "35 years of Liverpool club culture honoured with Royal Albert Dock projections",
+      "link": "https://mixmag.net/read/liverpool-club-culture-honoured-with-royal-albert-dock-projections-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/photos.jpg?fit=cover&width=660&s=0ZaBnIqH4U8hgQPWesAZZIg6pFV-A6oQwsj3T8NYvh0",
+      "excerpt": "Featuring club imagery taken by Mark McNulty as part of his new book, In Clubland: 35 Summers of Love, the projections will be available to view until October 2 Continue reading..."
+    },
+    {
+      "id": "85426b5a96a7ad908ae3d503d16dcab5d36ae311",
+      "title": "California nightclubs must provide drug testing strips and lids for drinks under new legislation",
+      "link": "https://mixmag.net/read/california-nightclubs-must-provide-drug-testing-strips-and-drink-lids-under-new-legislation-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drug-testing_2026-09-29-113654_zpfc.jpg?fit=cover&width=660&s=Q8NNGUHyibxVtKJgPLhGdskhIqss4HcvdA1emcy7BTY",
+      "excerpt": "Venues must also ensure that staff members have overdose training amid a rising number of fentanyl-linked fatalities in the state Continue reading..."
     },
     {
       "id": "b6dea2c520d113719df0b5244ff2c91298d4d2d6",
@@ -332,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
+      "image": "",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -380,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -428,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
+      "image": "",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/WHP_2026-09-08-121454_jubx.jpg?fit=cover&width=660&s=WtEAZ1L-WaAo5eINKBf4eZUfqJ8gBoq7mieDK5AN8DU",
       "excerpt": "The Manchester event series will mark two decades with a party featuring sets from Rossi., Saoirse, Bullet Tooth and Enzo Siragusa in November Continue reading..."
-    },
-    {
-      "id": "4c508349eefd260e482f594f6d3aa32c6fec352f",
-      "title": "Hot Since 82: \"Emotional connection is more important than trends\"",
-      "link": "https://mixmag.net/feature/hot-since-82-interview-obsessions-new-album",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Inspired by a &quot;period of introspection and movement&quot;, the Barnsley-raised producer&#039;s latest LP &#039;Obsessions&#039; sees him reflect on his decades-long journey through music Continue reading..."
-    },
-    {
-      "id": "91d6dac175daa2e26fe7d6c12f9d66d272aad292",
-      "title": "New book tracing Laurent Garnier’s life and career has been published",
-      "link": "https://mixmag.net/read/new-book-documenting-laurent-garnier-decades-long-career-published-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/laurent-garnier-press.jpg?fit=cover&width=660&s=mcb8rsqdzArROM0JTg53boKLcLfbLrb2ex4RqUb-6qM",
-      "excerpt": "&#039;Garnier&#039; is described as a &quot;portrait of a pioneer and a manifesto for dance, celebration, and the night&quot; Continue reading..."
-    },
-    {
-      "id": "a1fd35445a12d005770cc0bb458f676abc1dcc55",
-      "title": "16% of British adults have listened to more music in the last 12 months",
-      "link": "https://mixmag.net/read/16-percent-british-adults-listened-more-music-last-12-months-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/music_2026-09-08-113542_mbon.jpg?fit=cover&width=660&s=eLkuhiP2JOkY0kiHhjeq_Wykwe3x1UEH0q0JYcJ7zhY",
-      "excerpt": "New data from YouGov suggests that Gen Z listeners make up the lion&#039;s share of increased music consumption in British adults Continue reading..."
     }
   ]
 }
