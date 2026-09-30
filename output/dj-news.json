@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:38:56.957Z",
+  "generatedAt": "2026-09-30T20:33:37.367Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Gilla-Band-Pugnello.jpg",
       "excerpt": "Con matices, la mayoría de las bandas se mantienen en una zona de confort desde la que van sacando nuevos... La entrada Pugnello se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "500fa18761533e9ea7018c5f59495a1b2045c296",
+      "title": "The Mix 125: Sam Girling",
+      "link": "https://mixmag.net/feature/the-mix-125-sam-girling-interview-dj-hessle-audio",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
+    },
+    {
+      "id": "3d0c83f00f525d08287c7b4ed39a81e74e742e8b",
+      "title": "Mixmag and image enhancement app Wink team up on #WinkTheNightBack campaign",
+      "link": "https://mixmag.net/feature/mixmag-image-enhancement-app-wink-team-up-winkthenightback-campaign",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
+      "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
       "id": "a8e028013ff0e0b3fc05148b482cd27ea40c5525",
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/o2-academy-sheffield.jpg?fit=cover&width=660&s=fJSTVhfpuBssSg8lJV25hhnf-ysX2gj-gFG2mqLasqA",
       "excerpt": "The Arundel Gate venue, which closed four years ago, will relaunch with a new L-Acoustics soundsystem Continue reading..."
-    },
-    {
-      "id": "0888427f93312a2ae2e9c238113eaf5dc270e310",
-      "title": "The Mix 122: dj g2g",
-      "link": "https://mixmag.net/feature/the-mix-122-dj-g2g-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "dj g2g locks in to her expansive, “neurospicy” style with a peak-time energy mix, and discusses the role of femme friendship in her creative practice and learning to lead with her heart Continue reading..."
-    },
-    {
-      "id": "9f3ef119f0d75fdb79387359d1b9ba1f696f2463",
-      "title": "FKA twigs joins forces with UK non-profit Saffron to support diversity in music tech",
-      "link": "https://mixmag.net/read/fka-twigs-joins-forces-uk-non-profit-saffron-support-diversity-music-tech-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FKA-twigs-credit-Jordan-Hemingway.jpg?fit=cover&width=660&s=t1KOS_a78VXPd3pV4iC3VNPpqs5PwRCW3h8_gK2WBDY",
-      "excerpt": "The musician previously shared her fears over a lack of inclusivity in music production and engineering Continue reading..."
     }
   ]
 }
