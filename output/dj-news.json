@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:02:14.852Z",
+  "generatedAt": "2026-09-30T15:38:56.957Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "18a5f2f1f3a6a5c98fd6f60b70cafbad03a7efae",
+      "title": "Construimos Escaleras",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/construimos-escaleras-disco/",
+      "published": "2026-09-30T09:48:54.000Z",
+      "publishedTs": 1790761734000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Construimos-Escaleras-disco.jpg",
+      "excerpt": "Parece que Nilsson, Samu, Fausto, Paul e Iván sabían que estaban postulándose para las alturas cuando decidieron bautizar así a... La entrada Construimos Escaleras se publicó primero en MondoSonoro ."
+    },
     {
       "id": "e3100116e816729e69f5b9416acbf3d147a1bedc",
       "title": "Crítica de 'Everyone Gets Everything They Want' el nuevo disco de Tom Morello",
@@ -85,7 +99,7 @@
     },
     {
       "id": "947eac7129f0c58b2f3324f197f430a213476152",
-      "title": "Crítica de 'Homo Lamentáblis', el debut en largo de Hostia Pedagógica",
+      "title": "Homo Lamentáblis",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/hostia-pedagogica-homo-lamentablis/",
       "published": "2026-09-29T06:57:14.000Z",
       "publishedTs": 1790665034000,
@@ -95,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Hostia-pedagogica-Homo-Lamentablis.jpg",
-      "excerpt": "Es sin duda un recurso esperable, pero resulta complicado no señalar que el nombre de esta banda barcelonesa luce de... La entrada Crítica de &#039;Homo Lamentáblis&#039;, el debut en largo de Hostia Pedagógica se publicó primero en Mond…"
+      "excerpt": "Es sin duda un recurso esperable, pero resulta complicado no señalar que el nombre de esta banda barcelonesa luce de... La entrada Homo Lamentáblis se publicó primero en MondoSonoro ."
     },
     {
       "id": "9ce9f9c497ea06c91ca69360d94a964956c5a28d",
@@ -154,18 +168,52 @@
       "excerpt": "Con matices, la mayoría de las bandas se mantienen en una zona de confort desde la que van sacando nuevos... La entrada Pugnello se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7e7ad3341d1a284d669819a82d52b363da1b6074",
-      "title": "Nobody’s Coming To Save You",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gurriers-nobodys-coming-to-save-you/",
-      "published": "2026-09-25T06:03:41.000Z",
-      "publishedTs": 1790316221000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Gurriers-Nobodys-Coming-To-Save-You.jpg",
-      "excerpt": "La república de Irlanda, un país pequeño de menos de cinco millones y medio de habitantes, se ha convertido de... La entrada Nobody’s Coming To Save You se publicó primero en MondoSonoro ."
+      "id": "a8e028013ff0e0b3fc05148b482cd27ea40c5525",
+      "title": "UK culture minister promises \"quick\" introduction of ticket touting ban",
+      "link": "https://mixmag.net/read/uk-culture-minister-promises-quick-introduction-of-proposed-ticket-touting-ban-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ticket-tout.jpg?fit=cover&width=660&s=Uig1FZhWtxArBMD8ZKrfhW30vyCXUGZaUy7ZAgCXiBU",
+      "excerpt": "Creative Industries Minister Ian Murray made the pledge to delegates at the Labour conference in Manchester, despite the policy being &quot;deprioritised&quot; in the 2026 King&#039;s Speech Continue reading..."
+    },
+    {
+      "id": "efe1e01e84bfe449c2fe49fcc9f88df61bb78b64",
+      "title": "New South Wales government passes historic bill to protect live music venues",
+      "link": "https://mixmag.net/read/new-south-wales-government-passes-historic-bill-to-protect-live-music-venues-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sydney-night_2026-09-30-115643_yoji.jpg?fit=cover&width=660&s=8E8cTmrJobbNfwHu7Yck35rNor39eIfybdDAEhbz9Lk",
+      "excerpt": "The “world-first” legislation will protect venues, events and festivals in the Australian state Continue reading..."
+    },
+    {
+      "id": "0198f841f84f8cb4c7502b29e0985834b6c3dd21",
+      "title": "London's Heaven will be protected from redevelopment for five years",
+      "link": "https://mixmag.net/read/london-heaven-granted-protected-status-amidst-redevelopment-plans-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dsfdg.jpg?fit=cover&width=660&s=WhFkjL1vZi-zBaFNYpKLsaKs2WRIQujSdzHqmPgt3RQ",
+      "excerpt": "The long-running LGBTQIA+ nightclub will be protected as an Asset of Community Value Continue reading..."
+    },
+    {
+      "id": "3265c0451dddcab889798d8fc76af485ecc314f2",
+      "title": "Fatboy Slim says he’s never been paid to play at Glastonbury Festival",
+      "link": "https://mixmag.net/read/fatboy-slim-never-been-paid-play-glastonbury-festival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fatboy-slim-glasto.jpg?fit=cover&width=660&s=bEzyDTVxoMguB88lnzX7KdmawJetdWldWOMlQ5Ykd_k",
+      "excerpt": "While the Brighton-based DJ has performed at the Worthy Farm Festival more than 100 times, he also claims he has &quot;never paid to go there&quot; Continue reading..."
     },
     {
       "id": "9750a5308a2314e75a578d3e646fe2174eb24166",
@@ -368,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -512,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
+      "image": "",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -548,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
+      "image": "",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
@@ -788,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/making-time-web.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PJWM7MdOeCuOEP_u9DiN9sedBJRAqcZakbUL47aTVNk",
+      "image": "",
       "excerpt": "For the last 26 years, Philadelphia party Making Time has rewritten the traditional club night script. Fusing DJs with live acts, the beloved night has brought The Strokes, Interpol, Charli xcx and many more together with global DJs Cont…"
     },
     {
@@ -1064,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_dj-g2g2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=E_uQjppRWoijbrpznnTuTt77sqiWUL20SqJX0vhvDWM",
+      "image": "",
       "excerpt": "dj g2g locks in to her expansive, “neurospicy” style with a peak-time energy mix, and discusses the role of femme friendship in her creative practice and learning to lead with her heart Continue reading..."
     },
     {
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FKA-twigs-credit-Jordan-Hemingway.jpg?fit=cover&width=660&s=t1KOS_a78VXPd3pV4iC3VNPpqs5PwRCW3h8_gK2WBDY",
       "excerpt": "The musician previously shared her fears over a lack of inclusivity in music production and engineering Continue reading..."
-    },
-    {
-      "id": "a14d81660b0a56b7e2d26892721b8cb0a4170c1c",
-      "title": "D'Angelo's son to play Notorious B.I.G. in Snoop Dogg biopic",
-      "link": "https://mixmag.net/read/dangelo-son-play-notorious-big-snoop-dogg-biopic-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dangelo.jpg?fit=cover&width=660&s=HZlGp4aQSkY_u7-qrLiWQCqedKDeB15K7zlWxWBh-nw",
-      "excerpt": "Swayvo Twain will play the New York hip hop icon in Snoop, which is due to land in cinemas in August 2027 Continue reading..."
-    },
-    {
-      "id": "9cc3c58c8369361972856e1fc1a5136ed33623cf",
-      "title": "Sadiq Khan weighs in on fabric and St Paul's event series amid religious outcry",
-      "link": "https://mixmag.net/read/sadiq-khan-row-fabric-st-pauls-cathedral-events-series-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fabric-events.jpg?fit=cover&width=660&s=LefreFFA7fEJTSmeoOnsUoLaqfDdBplo97X9ydSYHCg",
-      "excerpt": "The Mayor of London called the partnership an &quot;iconic duo&quot;, despite backlash over the Farringdon nightclub&#039;s forthcoming programme at the cathedral Continue reading..."
-    },
-    {
-      "id": "e0803ac4d8ddb5fafaba0622dbc2468f8f9b6fa9",
-      "title": "Glastonbury ticket price to increase by nearly 10% for 2027 return",
-      "link": "https://mixmag.net/read/glastonbury-ticket-price-increase-2027-edition-sale-date-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/glasto-2027-tickets.jpg?fit=cover&width=660&s=oVsmgYIzdnYExhOUOOCg5Jcz_Sm-6Znd_4F_U-Vgq2o",
-      "excerpt": "Passes for next year&#039;s edition of the Worthy Farm festival will go on sale in just a few weeks time Continue reading..."
-    },
-    {
-      "id": "ebd8d46b39de36755943c3cc3f738e99ca2556f7",
-      "title": "The Warehouse Project shares details of flagship 20th anniversary show",
-      "link": "https://mixmag.net/read/the-warehouse-project-shares-details-flagship-20th-anniversary-show-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/WHP_2026-09-08-121454_jubx.jpg?fit=cover&width=660&s=WtEAZ1L-WaAo5eINKBf4eZUfqJ8gBoq7mieDK5AN8DU",
-      "excerpt": "The Manchester event series will mark two decades with a party featuring sets from Rossi., Saoirse, Bullet Tooth and Enzo Siragusa in November Continue reading..."
     }
   ]
 }
