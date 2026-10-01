@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:12:14.214Z",
+  "generatedAt": "2026-10-01T20:07:23.036Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "a40f9a9e05cddc49d331a8b9e256aa1c4a756431",
+      "title": "Ez da Hemen",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/soka-ez-da-hemen/",
+      "published": "2026-10-01T18:38:29.000Z",
+      "publishedTs": 1790879909000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Soka.jpg",
+      "excerpt": "Kritika hau egiteko proposamena jaso nuen arte ez nuen taldearen berririk. Behin EPari hamaika buelta eman ondoren, galdera bakarra darabilkit... La entrada Ez da Hemen se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "833b543bd9690f0228553f0286d35cf4f349fb2e",
+      "title": "Vilvao",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/vilvao/",
+      "published": "2026-10-01T18:28:52.000Z",
+      "publishedTs": 1790879332000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Vilvao.jpg",
+      "excerpt": "Vilvao es una nueva banda que acaba de publicar su debut homónimo el pasado uno de julio. Un redondo de... La entrada Vilvao se publicó primero en MondoSonoro ."
+    },
     {
       "id": "381736e81f3df0959249a20f12e26f79a2addce7",
       "title": "¿Qué arderá mañana?",
@@ -140,36 +168,8 @@
       "excerpt": "En su segunda referencia de estudio para el laborioso sello indie romano Heavy Psych Sounds, hijss dispensa una avalancha de... La entrada hijss se publicó primero en MondoSonoro ."
     },
     {
-      "id": "947eac7129f0c58b2f3324f197f430a213476152",
-      "title": "Homo Lamentáblis",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hostia-pedagogica-homo-lamentablis/",
-      "published": "2026-09-29T06:57:14.000Z",
-      "publishedTs": 1790665034000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Hostia-pedagogica-Homo-Lamentablis.jpg",
-      "excerpt": "Es sin duda un recurso esperable, pero resulta complicado no señalar que el nombre de esta banda barcelonesa luce de... La entrada Homo Lamentáblis se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "9ce9f9c497ea06c91ca69360d94a964956c5a28d",
-      "title": "Apples For Isaac",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/echo-the-bunnymen-apples-for-isaac/",
-      "published": "2026-09-28T11:39:01.000Z",
-      "publishedTs": 1790595541000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Echo-The-Bunnymen-Apples-For-Isaac.jpg",
-      "excerpt": "Es una máxima evidente y aceptada que Echo &#38; The Bunnymen sellaron el que sería su legado eterno en la... La entrada Apples For Isaac se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "f2dc0fd37a1ad7a81b7035b5b0170567f5ea8b18",
-      "title": "London club night Lost hints at return with 24-hour events",
+      "title": "London club night and venue Lost hints at return with 24-hour events",
       "link": "https://mixmag.net/read/london-nightclub-lost-hints-return-24-hour-events-news",
       "published": "",
       "publishedTs": 0,
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
+      "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
