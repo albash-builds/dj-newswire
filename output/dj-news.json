@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:32:00.033Z",
+  "generatedAt": "2026-10-02T06:42:47.728Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "928da93418c69ed93837eb5a9c547168eff990c8",
+      "title": "The Family Business LTD",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-family-business-ltd/",
+      "published": "2026-10-02T06:11:45.000Z",
+      "publishedTs": 1790921505000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/The-Family-Business-LTD.jpg",
+      "excerpt": "Qué bonito sería ver jugar a esos equipos de fútbol imposibles que salen en posteos de redes que reúnen al... La entrada The Family Business LTD se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "5940d5e6c09f3f4fcdddf96376b524e7aa641d7d",
+      "title": "Crítica de 'Canciones Chulas', el incombustible largo de Los Enemigos",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-enemigos-canciones-chulas-disco/",
+      "published": "2026-10-02T06:08:18.000Z",
+      "publishedTs": 1790921298000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Los-Enemigos-Canciones-Chulas.jpg",
+      "excerpt": "No quieren ni oír hablar de nostalgia. Cuatro décadas después de su nacimiento, Josele Santiago, Fino Oyonarte, Chema “Animal” Pérez... La entrada Crítica de &#039;Canciones Chulas&#039;, el incombustible largo de Los Enemigos se publicó…"
+    },
     {
       "id": "a40f9a9e05cddc49d331a8b9e256aa1c4a756431",
       "title": "Ez da Hemen",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Aiko-el-grupo-Senales-Brutales-.jpg",
       "excerpt": "De alguna manera, sentimos como si hubiésemos visto crecer emocional y musicalmente a Aiko el grupo desde aquellos primeros compases... La entrada Señales Brutales se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2fb70ec8107dafbe6d1aa06350dfd4bee59c832d",
-      "title": "Magma",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nita-magma/",
-      "published": "2026-09-29T08:48:47.000Z",
-      "publishedTs": 1790671727000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Nita-Magma.jpg",
-      "excerpt": "Parafraseando uno de los hits de Fuel Fandango, la música, como la vida, ha ido brotando, abriendo camino y trepando... La entrada Magma se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bc6dd4e9a870a7bcc0ff913cc11e96a2fa2d5b91",
-      "title": "hijss",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hijss/",
-      "published": "2026-09-29T08:00:42.000Z",
-      "publishedTs": 1790668842000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/hijss-hijss.jpg",
-      "excerpt": "En su segunda referencia de estudio para el laborioso sello indie romano Heavy Psych Sounds, hijss dispensa una avalancha de... La entrada hijss se publicó primero en MondoSonoro ."
     },
     {
       "id": "f2dc0fd37a1ad7a81b7035b5b0170567f5ea8b18",
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -380,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -644,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
