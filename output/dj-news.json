@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:03:08.712Z",
+  "generatedAt": "2026-10-06T12:48:39.213Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "cff73694278a062262b681bd186091ab5118231d",
+      "title": "Adult DVD",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/adult-dvd-disco/",
+      "published": "2026-10-06T08:22:37.000Z",
+      "publishedTs": 1791274957000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/adult-dvd-disco.jpg",
+      "excerpt": "Procedentes de la ciudad inglesa de Leeds, como sus contemporáneos Yard Act o English Teacher –Leeds es la casa de... La entrada Adult DVD se publicó primero en MondoSonoro ."
+    },
     {
       "id": "eac5769d74d1d834ee8c5755ed2812a0a97b3c4b",
       "title": "Crítica de “Manufacturas del Club de la Gente Sola”, tercer álbum de Arde Bogotá",
@@ -154,18 +168,40 @@
       "excerpt": "Parece que Nilsson, Samu, Fausto, Paul e Iván sabían que estaban postulándose para las alturas cuando decidieron bautizar así a... La entrada Construimos Escaleras se publicó primero en MondoSonoro ."
     },
     {
-      "id": "e3100116e816729e69f5b9416acbf3d147a1bedc",
-      "title": "Everyone Gets Everything They Want",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-everyone-gets-everything-they-want-el-nuevo-disco-de-tom-morello/",
-      "published": "2026-09-30T06:39:12.000Z",
-      "publishedTs": 1790750352000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/09/Tom-Morello-Everyone-Gets-Everything-They-Want.jpg",
-      "excerpt": "Nuevo disco solista de Tom Morello que otra vez, por cierta incoherencia e inocencia, parece un disco debut, con todo... La entrada Everyone Gets Everything They Want se publicó primero en MondoSonoro ."
+      "id": "3ece5a3ed53816941dc33810b7fa3e459629f221",
+      "title": "Roni Size to host “world’s deepest rave” in abandoned Welsh mine",
+      "link": "https://mixmag.net/read/roni-size-host-world-deepest-rave-abandoned-welsh-mine-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/roni-size-welsh-mine-rave.jpg?fit=cover&width=660&s=ytO0OMiRQV78ShgKv9701Rw3dWt7fJK9vP3NQqDmGPE",
+      "excerpt": "In a world record attempt, the Bristol DJ will perform 1,375 feet underground Continue reading..."
+    },
+    {
+      "id": "561020e0d56aa00ed88830b1622c361fc4761c9e",
+      "title": "Birmingham protest party organised to save Digbeth clubs from demolition",
+      "link": "https://mixmag.net/read/birmingham-block-party-organised-save-digbeth-clubs-demolition-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/save-our-scene-birmingham.jpg?fit=cover&width=660&s=NzYtj3NXKGwxyOMcp0XLtXlLrtQYuJrOL4BgNfjel8U",
+      "excerpt": "A proposed railway expansion threatens clubs including XOYO Birmingham, Mama Roux&#039;s and Club Colette Continue reading..."
+    },
+    {
+      "id": "e16f81bd13f906d12e8cdce20c6c1423558b9398",
+      "title": "Silva Bumpa in the Mixmag Lab",
+      "link": "https://mixmag.net/feature/silva-bumpa-mixmag-lab-cover-mix-dj-set",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
       "id": "2826216b9ab6a547df8cead12256305850b2e2e1",
@@ -193,7 +229,7 @@
     },
     {
       "id": "3866be8f61c0c3b5670df6673bccc19cd00aee09",
-      "title": "Olympia London's Grand Hall reportedly cancels all remaining 2026 events, citing planning issues",
+      "title": "Olympia London's Grand Hall reportedly cancels all December events, citing planning issues",
       "link": "https://mixmag.net/read/olympia-london-cancels-all-december-music-events-citing-planning-issues-news",
       "published": "",
       "publishedTs": 0,
@@ -440,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -560,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -608,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -740,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
+      "image": "",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
@@ -908,7 +944,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     },
     {
@@ -1052,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/white-claw-defected-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=kcWCSqxqlfpKV4HlfR_5VgcO8-hn7nua74qSEhCU02Q",
       "excerpt": "White Claw and Defected flew 10 strangers to Ibiza for 24 hours as part of their ‘Find Your People’ experiment, pairing like-minded dance music fans to see if they can become lifelong friends Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Eno-Shygirl-Blawan.jpg?fit=cover&width=660&s=xowWMc194oGWQPhLL4DtRlPwxPcWBJ1bjb6gc159248",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "9d0e2020a4e621077fae6fd761a195e5c1ab57ed",
-      "title": "Festival line-ups you might have missed: Creamfields, Listen Festival, Chronosphere",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-7-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/creamfields-2026-pr.jpg?fit=cover&width=660&s=ahmIDpq9nIs3IRa2MSqTtczgtNeUAkKuJp-SAYmmWH8",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
-    },
-    {
-      "id": "a1355ea34f4dd55dd183876fc0ea9b851263b957",
-      "title": "Universal Music to launch new AI music creation platform",
-      "link": "https://mixmag.net/read/universal-music-launch-new-ai-music-creation-platform-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/UMG.jpg?fit=cover&width=660&s=pxxYUGJMmWFTVdB6qCIYTNCfznLYGlb3M-VMVUV4IY4",
-      "excerpt": "UMG has teamed up with a firm specialising in AI speech and &quot;voice cloning&quot; software as part of the project Continue reading..."
     }
   ]
 }
