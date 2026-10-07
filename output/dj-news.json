@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:51:47.194Z",
+  "generatedAt": "2026-10-07T17:16:45.617Z",
   "total": 90,
   "sources": [
     {
@@ -28,9 +28,9 @@
   ],
   "items": [
     {
-      "id": "e44f692007cd08b61936bc3b468b29afc26e4f22",
-      "title": "VOLVER A CASA",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/volver-a-casa-nadie-patin/",
+      "id": "e20cd1a0e04700101948a13f6f7f4092ce86dff4",
+      "title": "Volver a casa",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/nadie-patin-volver-a-casa/",
       "published": "2026-10-07T08:55:31.000Z",
       "publishedTs": 1791363331000,
       "sourceId": "mondosonoro",
@@ -39,7 +39,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/NadiePatinCD.jpg",
-      "excerpt": "Entre “Nadie Patín” (23) y “VOLVER A CASA” (26) parecen haber transcurrido diez años en lugar de tan solo tres.... La entrada VOLVER A CASA se publicó primero en MondoSonoro ."
+      "excerpt": "Entre “Nadie Patín” (23) y “Volver a casa” (26) parecen haber transcurrido diez años en lugar de tan solo tres.... La entrada Volver a casa se publicó primero en MondoSonoro ."
     },
     {
       "id": "cff73694278a062262b681bd186091ab5118231d",
@@ -57,7 +57,7 @@
     },
     {
       "id": "eac5769d74d1d834ee8c5755ed2812a0a97b3c4b",
-      "title": "Crítica de “Manufacturas del Club de la Gente Sola”, tercer álbum de Arde Bogotá",
+      "title": "Manufacturas del Club de la Gente Sola",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/critica-de-manufacturas-arde-bogota/",
       "published": "2026-10-05T08:10:13.000Z",
       "publishedTs": 1791187813000,
@@ -67,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/ArdeBogotaCDWEB.jpg",
-      "excerpt": "La soledad, la sensación de aislamiento, separación y vacío afectivo en el mundo hiperconectado por multipantallas y redes sociales como... La entrada Crítica de “Manufacturas del Club de la Gente Sola”, tercer álbum de Arde Bogotá se pu…"
+      "excerpt": "La soledad, la sensación de aislamiento, separación y vacío afectivo en el mundo hiperconectado por multipantallas y redes sociales como... La entrada Manufacturas del Club de la Gente Sola se publicó primero en MondoSonoro ."
     },
     {
       "id": "928da93418c69ed93837eb5a9c547168eff990c8",
@@ -168,6 +168,66 @@
       "excerpt": "\"She’s a thunder!\". Con este entusiasmo, el mismísimo Dave Grohl, líder de Foo Fighters, se refirió a la cantante y... La entrada Rock Diet (Raquel Pascual - A Celebration) se publicó primero en MondoSonoro ."
     },
     {
+      "id": "4f8e5a6e50752a3aa5371bf1dd937d1f1cac5d9e",
+      "title": "US musician given 18-month prison sentence for $8 million AI streaming fraud",
+      "link": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo",
+      "excerpt": "Micheal Smith was found to have used bot accounts to generate &quot;billions&quot; of fake streams of AI music on platforms such as Spotify and Apple Music Continue reading..."
+    },
+    {
+      "id": "21833c5d01b58e20396d64d0bdcc0e5d3ce61ef3",
+      "title": "London listening bar Spiritland to open new site inside the Barbican",
+      "link": "https://mixmag.net/read/london-listening-bar-spiritland-open-new-site-inside-barbican-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spiritland-barbican.jpg?fit=cover&width=660&s=b4xJYc8NpVvn0Iqs6mk9Y2MpO5_3pfkl5kLH3QDdthU",
+      "excerpt": "The new hi-fi bar will be a temporary fixture, opening this month until July 2027 Continue reading..."
+    },
+    {
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
+    },
+    {
+      "id": "7756e4c7f8c000e3d6c0142eb544fb4736b02bca",
+      "title": "The Mix 126: Only Fire",
+      "link": "https://mixmag.net/feature/the-mix-126-only-fire-dj-interview-hoe-weekend",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
+      "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
+    },
+    {
+      "id": "66086eeadac9c50cf11c9adb9ec3b2371ee88197",
+      "title": "Home of Miami music festival III Points to be turned into college campus",
+      "link": "https://mixmag.net/read/home-miami-music-week-festival-iii-points-turned-into-college-campus-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mana-wynwood-iii-points.jpg?fit=cover&width=660&s=GNNo8E_kOFTHEvYaM4Q6bYCTgj6VR0O0u3mHv-lfh1U",
+      "excerpt": "Mana Wynwood, which has been purchased for $1.1 billion, also plays host to parties during Miami Music Week Continue reading..."
+    },
+    {
       "id": "3ece5a3ed53816941dc33810b7fa3e459629f221",
       "title": "Roni Size to host “world’s deepest rave” in abandoned Welsh mine",
       "link": "https://mixmag.net/read/roni-size-host-world-deepest-rave-abandoned-welsh-mine-news",
@@ -200,7 +260,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "image": "",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -212,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
+      "image": "",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -248,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -296,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -344,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -740,7 +800,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -752,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -956,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
+      "image": "",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
@@ -1066,66 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/suno-ai.jpg?fit=cover&width=660&s=4X1h0ibbavp7_J0sK7B7BhSnEYNXlXTiVFLaI7HGn48",
       "excerpt": "The AI music creation firm has admitted to using audio data from the platform in a new court filing Continue reading..."
-    },
-    {
-      "id": "f1cd3aa6c2d785723177db54efffef2094afcea2",
-      "title": "Manchester venue renae offers funding for up-and-coming promoters",
-      "link": "https://mixmag.net/read/manchester-venue-renae-offers-funding-up-coming-promoters-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/renae-manchester.jpg?fit=cover&width=660&s=weFyL2CaNTdRvEK2-t_ZCIrxwk8yofkUJ5yQ7aHVasM",
-      "excerpt": "Three successful applicants to the Promoter Promise initiative will be granted bursaries Continue reading..."
-    },
-    {
-      "id": "03e13431d7db1bb13779184ed9c02c51416191d5",
-      "title": "“Came as strangers, left as friends”: Inside the Ibiza experiment bringing house music lovers together",
-      "link": "https://mixmag.net/feature/strangers-to-friends-inside-ibiza-experiment-house-music-lovers-defected-white-claw",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "White Claw and Defected flew 10 strangers to Ibiza for 24 hours as part of their ‘Find Your People’ experiment, pairing like-minded dance music fans to see if they can become lifelong friends Continue reading..."
-    },
-    {
-      "id": "2da0b411f947a92573ed302809bffba3e495fd7f",
-      "title": "Santa Monica's Ocean Way Festival cancelled after hurricane erodes beach",
-      "link": "https://mixmag.net/read/santa-monica-ocean-way-festival-cancelled-hurricane-erodes-beach-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SM.jpg?fit=cover&width=660&s=bVSW-AYYFBiaK8uv9JWrfC5p4dQOoN_pxYGtkQvmPCM",
-      "excerpt": "The Category 2 Hurricane Marie wreaked havoc across the Californian coastline last week, causing coastal flooding, property damage and beach erosion Continue reading..."
-    },
-    {
-      "id": "278f4a3ffa1253b40ed61ecbf6bd902d07d4a5a6",
-      "title": "Yves Tumor removed from tour with Turnstile following allegations of abuse",
-      "link": "https://mixmag.net/read/yves-tumor-removed-tour-turnstile-following-allegations-abuse-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Yves-Tumor-credit-Isabella-Corderas.jpg?fit=cover&width=660&s=PWKNnqg_ReuZ4PNCBdWyROOzMy3zAZCB7W9FZVbZpY0",
-      "excerpt": "The experimental musician has strongly denied allegations of abusive behaviour and sexual assault Continue reading..."
-    },
-    {
-      "id": "433836241248e3f7cfa01bd563221ec78cc9ba45",
-      "title": "New music on our radar this week: Brian Eno, Shygirl, Blawan",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-7-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Eno-Shygirl-Blawan.jpg?fit=cover&width=660&s=xowWMc194oGWQPhLL4DtRlPwxPcWBJ1bjb6gc159248",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
