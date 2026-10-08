@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:32:35.562Z",
+  "generatedAt": "2026-10-08T10:03:11.234Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "8ef8389c2302cff7348b8c193c29fac85257b2bf",
+      "title": "'Necesito estímulos' es el nuevo álbum de La Milagrosa que se publica mañana",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-milagrosa-necesito-estimulos/",
+      "published": "2026-10-08T07:29:44.000Z",
+      "publishedTs": 1791444584000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Milagrosa-Necesito-estimulos.jpg",
+      "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada &#039;Necesito estímulos&#039; es el nuevo álbum de La Milagrosa que se publica mañana se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "aca0235d793929e11e8e5efc4e90029c2db8f8f7",
+      "title": "Reseñamos 'The Age Of Everything', el nuevo disco de Johnny Marr",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/johnny-marr-the-age-of-everything/",
+      "published": "2026-10-08T06:48:02.000Z",
+      "publishedTs": 1791442082000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Johnny-Marr-The-Age-Of-Everything.jpg",
+      "excerpt": "Johnny Marr quedará para la historia como el inspirado guitarrista y mitad compositiva (junto con Morrissey) de The Smiths, a... La entrada Reseñamos &#039;The Age Of Everything&#039;, el nuevo disco de Johnny Marr se publicó primero en …"
+    },
     {
       "id": "e20cd1a0e04700101948a13f6f7f4092ce86dff4",
       "title": "Volver a casa",
@@ -140,32 +168,28 @@
       "excerpt": "Si de algo no se puede acusar a Levitants es de ser un proyecto continuista o conformista. Tampoco de rendirse... La entrada ¿Qué arderá mañana? se publicó primero en MondoSonoro ."
     },
     {
-      "id": "025a9ccd79425ac29554f0784a0c71e3efdce407",
-      "title": "Cancel Me, I’m Tired",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/fat-dog-cancel-me-im-tired/",
-      "published": "2026-10-01T13:19:20.000Z",
-      "publishedTs": 1790860760000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Fat-Dog-Cancel-Me-I-m-Tired.jpg",
-      "excerpt": "No es fácil definir qué es lo que hace especial a una colección de canciones agrupadas en un álbum. Es... La entrada Cancel Me, I’m Tired se publicó primero en MondoSonoro ."
+      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
+      "title": "The Best DJ Mixes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
-      "id": "bc324408b93601bb6d8835ad86abaee8e6401331",
-      "title": "Rock Diet (Raquel Pascual - A Celebration)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/rock-diet-raquel-pascual-a-celebration/",
-      "published": "2026-10-01T07:47:05.000Z",
-      "publishedTs": 1790840825000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/COLLISION-Rock-Diet.jpg",
-      "excerpt": "\"She’s a thunder!\". Con este entusiasmo, el mismísimo Dave Grohl, líder de Foo Fighters, se refirió a la cantante y... La entrada Rock Diet (Raquel Pascual - A Celebration) se publicó primero en MondoSonoro ."
+      "id": "327084eb9f4d0e1e2a098b360c7a4a8e9ad0f4bd",
+      "title": "The Best Albums, EPs And Mixtapes Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-rap-albums-eps-mixtapes-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
       "id": "4f8e5a6e50752a3aa5371bf1dd937d1f1cac5d9e",
@@ -260,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "image": "",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -272,7 +296,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
+      "image": "",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -308,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -404,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -536,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FLY-Festival.jpg?fit=cover&width=660&s=A0SMqMRY8F0tcl8t9_v4xkDFWJeXAKfhKU_M9nCWe9c",
       "excerpt": "A 12-year-old boy was among those apprehended after reportedly trespassing on a railway line in an attempt to gain access to the event Continue reading..."
-    },
-    {
-      "id": "7995646015dace43b9c0723df6cfce74ad33b13c",
-      "title": "ADE severs ties with promoters over \"insensitive\" Shlømo booking",
-      "link": "https://mixmag.net/read/ade-severs-ties-promoters-insensitive-shlomo-booking-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/shlomo-credit-Fany_Bardin.jpg?fit=cover&width=660&s=nnSxRbWAFq7FS18znLrwz7y-vP5SBmPvpVw8es9MBtI",
-      "excerpt": "The French artist, who has been accused of rape and sexual misconduct, was due to perform at an event hosted by Komplott and Overgave during the music summit next month Continue reading..."
-    },
-    {
-      "id": "80378286032120029893789a3fc358c54529af50",
-      "title": "Suno admits to using music from YouTube to train its AI models",
-      "link": "https://mixmag.net/read/ai-music-firm-suno-admits-using-music-from-youtube-to-train-models-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/suno-ai.jpg?fit=cover&width=660&s=4X1h0ibbavp7_J0sK7B7BhSnEYNXlXTiVFLaI7HGn48",
-      "excerpt": "The AI music creation firm has admitted to using audio data from the platform in a new court filing Continue reading..."
     }
   ]
 }
