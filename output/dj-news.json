@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T10:03:11.234Z",
+  "generatedAt": "2026-10-08T17:43:54.112Z",
   "total": 90,
   "sources": [
     {
@@ -168,6 +168,18 @@
       "excerpt": "Si de algo no se puede acusar a Levitants es de ser un proyecto continuista o conformista. Tampoco de rendirse... La entrada ¿Qué arderá mañana? se publicó primero en MondoSonoro ."
     },
     {
+      "id": "a17b0830fa8bb4edfa71b6f0074aafd0e590463c",
+      "title": "DJ Jazzy Jeff and Will Smith’s early career to be subject of new film and TV series",
+      "link": "https://mixmag.net/read/dj-jazzy-jeff-will-smith-early-career-subject-new-film-tv-series-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-jazzy-jeff-will-smith.jpg?fit=cover&width=660&s=nSv_SnZfEyOaobbwKN2HLxOejTCvWIkDloZLEzj07-4",
+      "excerpt": "The scripted series, named 215, comes from Will Smith’s Westbrook Studios Continue reading..."
+    },
+    {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
       "title": "The Best DJ Mixes Of The Year 2026 So Far",
       "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
@@ -296,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin-drag.jpg?fit=cover&width=660&s=tXGiXYAKG6w_FINFtWqAbiknfnycG-sB_Z8EiIk1yBo",
       "excerpt": "The trance legend appeared on drag show Make Up Your Mind as a surprise ‘Mystery Queen’ Continue reading..."
-    },
-    {
-      "id": "52aec474e19875e08199aca13f9c399c1a5527d7",
-      "title": "Eight people arrested after attempt to break into Edinburgh's FLY Festival",
-      "link": "https://mixmag.net/read/eight-people-arrested-attempt-break-into-edinburgh-fly-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/FLY-Festival.jpg?fit=cover&width=660&s=A0SMqMRY8F0tcl8t9_v4xkDFWJeXAKfhKU_M9nCWe9c",
-      "excerpt": "A 12-year-old boy was among those apprehended after reportedly trespassing on a railway line in an attempt to gain access to the event Continue reading..."
     }
   ]
 }
