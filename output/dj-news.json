@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T10:05:50.394Z",
+  "generatedAt": "2026-10-09T17:20:09.418Z",
   "total": 90,
   "sources": [
     {
@@ -85,7 +85,7 @@
     },
     {
       "id": "aca0235d793929e11e8e5efc4e90029c2db8f8f7",
-      "title": "Reseñamos 'The Age Of Everything', el nuevo disco de Johnny Marr",
+      "title": "The Age Of Everything",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/johnny-marr-the-age-of-everything/",
       "published": "2026-10-08T06:48:02.000Z",
       "publishedTs": 1791442082000,
@@ -95,7 +95,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Johnny-Marr-The-Age-Of-Everything.jpg",
-      "excerpt": "Johnny Marr quedará para la historia como el inspirado guitarrista y mitad compositiva (junto con Morrissey) de The Smiths, a... La entrada Reseñamos &#039;The Age Of Everything&#039;, el nuevo disco de Johnny Marr se publicó primero en …"
+      "excerpt": "Johnny Marr quedará para la historia como el inspirado guitarrista y mitad compositiva (junto con Morrissey) de The Smiths, a... La entrada The Age Of Everything se publicó primero en MondoSonoro ."
     },
     {
       "id": "e20cd1a0e04700101948a13f6f7f4092ce86dff4",
@@ -308,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -440,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -452,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
