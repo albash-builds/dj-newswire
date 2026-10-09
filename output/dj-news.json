@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:50:45.814Z",
+  "generatedAt": "2026-10-09T10:05:50.394Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "b78e271de551dd20c9d1e13d4f186076ffcea572",
+      "title": "'Siete' es el nuevo disco de Toundra que se edita hoy viernes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/toundra-siete/",
+      "published": "2026-10-09T05:45:33.000Z",
+      "publishedTs": 1791524733000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Toundra-Siete.jpg",
+      "excerpt": "Como les suele pasar a todas las bandas que tienen cierta longevidad –casi dos décadas en este caso–, los madrileños... La entrada &#039;Siete&#039; es el nuevo disco de Toundra que se edita hoy viernes se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3a0ae9cbb724f80fb754e304ee36851eb1fc4dfb",
       "title": "Txorterriko Jaiak",
@@ -57,7 +71,7 @@
     },
     {
       "id": "8ef8389c2302cff7348b8c193c29fac85257b2bf",
-      "title": "'Necesito estímulos' es el nuevo álbum de La Milagrosa que se publica mañana",
+      "title": "Crítica de 'Necesito estímulos', el nuevo álbum de La Milagrosa",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/la-milagrosa-necesito-estimulos/",
       "published": "2026-10-08T07:29:44.000Z",
       "publishedTs": 1791444584000,
@@ -67,7 +81,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Milagrosa-Necesito-estimulos.jpg",
-      "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada &#039;Necesito estímulos&#039; es el nuevo álbum de La Milagrosa que se publica mañana se publicó primero en MondoSonoro ."
+      "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada Crítica de &#039;Necesito estímulos&#039;, el nuevo álbum de La Milagrosa se publicó primero en MondoSonoro ."
     },
     {
       "id": "aca0235d793929e11e8e5efc4e90029c2db8f8f7",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Los-Enemigos-Canciones-Chulas.jpg",
       "excerpt": "No quieren ni oír hablar de nostalgia. Cuatro décadas después de su nacimiento, Josele Santiago, Fino Oyonarte, Chema “Animal” Pérez... La entrada Canciones Chulas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "a40f9a9e05cddc49d331a8b9e256aa1c4a756431",
-      "title": "Ez da Hemen",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/soka-ez-da-hemen/",
-      "published": "2026-10-01T18:38:29.000Z",
-      "publishedTs": 1790879909000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Soka.jpg",
-      "excerpt": "Kritika hau egiteko proposamena jaso nuen arte ez nuen taldearen berririk. Behin EPari hamaika buelta eman ondoren, galdera bakarra darabilkit... La entrada Ez da Hemen se publicó primero en MondoSonoro ."
     },
     {
       "id": "a17b0830fa8bb4edfa71b6f0074aafd0e590463c",
@@ -344,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -392,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -440,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -788,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
+      "image": "",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
