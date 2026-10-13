@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:06:41.523Z",
+  "generatedAt": "2026-10-13T08:58:56.310Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "27f5e644af3c44a7c7ff8b36387d71cabf584594",
+      "title": "Half – Told Tales",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/arab-strap-half-told-tales/",
+      "published": "2026-10-13T07:54:19.000Z",
+      "publishedTs": 1791878059000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Arab-Strap-Half-Told-Tales-.jpg",
+      "excerpt": "Asumo que \"I'm Totally Fine with It Don't Give a Fuck Anymore\" (2024) me dejó un poco frío, tras el... La entrada Half – Told Tales se publicó primero en MondoSonoro ."
+    },
     {
       "id": "d89b1de01e6837c7cc950e9bd15b680962a3560c",
       "title": "Todos quieren ser los campeones",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/NadiePatinCD.jpg",
       "excerpt": "Entre “Nadie Patín” (23) y “Volver a casa” (26) parecen haber transcurrido diez años en lugar de tan solo tres.... La entrada Volver a casa se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cff73694278a062262b681bd186091ab5118231d",
-      "title": "Adult DVD",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/adult-dvd-disco/",
-      "published": "2026-10-06T08:22:37.000Z",
-      "publishedTs": 1791274957000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/adult-dvd-disco.jpg",
-      "excerpt": "Procedentes de la ciudad inglesa de Leeds, como sus contemporáneos Yard Act o English Teacher –Leeds es la casa de... La entrada Adult DVD se publicó primero en MondoSonoro ."
     },
     {
       "id": "d1b3ee3a11cf5e5270a45ef8be6d0dd8770dcd7d",
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -488,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
+      "image": "",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -608,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -824,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -908,7 +908,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_AHADADREAM_WEB_002.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YclrNUF-wIHqnFZXnLo4weew7q9LOURn3ZFMpnr0U_g",
       "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
     },
     {
@@ -1088,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_THE_MIX_Optimo_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=djjq1WjCKykGMTQWbueoUmly-pqWIrrlhKsi_DvzriY",
       "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
     },
     {
