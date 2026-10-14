@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:15:45.333Z",
+  "generatedAt": "2026-10-14T16:36:39.550Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
@@ -38,7 +38,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Madee-Bury-me-in-the-craters.jpg",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MadeeBuryMeCD.jpg",
       "excerpt": "El presente “Bury me in the craters of the moon” podría pasar por un disco perdido de Madee. Basta con... La entrada Bury me in the craters of the moon se publicó primero en MondoSonoro ."
     },
     {
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Milagrosa-Necesito-estimulos.jpg",
       "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada Necesito estímulos se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "741e028fe86c331ea9e4a441b36887e91d6d19ae",
+      "title": "The Mix 127: Bae Blade",
+      "link": "https://mixmag.net/feature/the-mix-127-bae-blade-berlin-breaks-trance-techno-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
+    },
+    {
+      "id": "89152689991088038a94e3c43bf9af363d6cfe19",
+      "title": "Black music events are more likely to be “cancelled, shut down or restricted” than white-run events",
+      "link": "https://mixmag.net/read/black-music-events-are-more-likely-to-be-cancelled-shut-down-or-restricted-than-white-run-events-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/black-events.png?fit=cover&width=660&s=bXqehXsRNA3ugE_mHiYHBcmao4lGWLezE_WEV2Fx3zA",
+      "excerpt": "Black and South Asian-centred events in London were found to “face deep systematic and institutional barriers” by a new study Continue reading..."
     },
     {
       "id": "15be0a632adb45fa36b71caad3a65e5b754424d1",
@@ -296,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -308,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
+      "image": "",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "image": "",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -404,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -452,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -632,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -848,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -1100,32 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
-      "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
-    },
-    {
-      "id": "4d916b09babdcc3cfd60dce11e160a26e70471d5",
-      "title": "The Mix 123: Optimo",
-      "link": "https://mixmag.net/feature/the-mix-123-optimo-espacio-glasgow-dj-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
       "image": "",
-      "excerpt": "Nearly three decades on from the first party at Sub Club, there&#039;s still nothing quite like Optimo set. JG Wilkes offers up a mix inspired by &quot;melting down&quot; moments in the club, and speaks to Megan Townsend about forgoing f…"
-    },
-    {
-      "id": "a94686b69da6b29fb25441ed5ee6f692cb9f33db",
-      "title": "Youth Music reaches £1 million milestone in young artist investments",
-      "link": "https://mixmag.net/read/youth-music-invested-1-million-directly-aspiring-uk-artists-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/youth-music.jpg?fit=cover&width=660&s=B0Mhp0smdFOwudbbVNhwAlWTuq4T4w64ZoVPynwiPYo",
-      "excerpt": "According to the charity&#039;s data, 54% of its NextGen Fund recipients have already landed careers in music since the programme launched in 2021 Continue reading..."
+      "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     }
   ]
 }
