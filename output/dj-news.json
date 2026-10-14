@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T05:50:38.744Z",
+  "generatedAt": "2026-10-14T11:15:45.333Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "cdf43ec879e9b0fcf847519ba6ec6f5b9bebef5f",
+      "title": "Bury me in the craters of the moon",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/madee-bury-me-in-the-craters-of-the-moon/",
+      "published": "2026-10-14T11:02:11.000Z",
+      "publishedTs": 1791975731000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Madee-Bury-me-in-the-craters.jpg",
+      "excerpt": "El presente “Bury me in the craters of the moon” podría pasar por un disco perdido de Madee. Basta con... La entrada Bury me in the craters of the moon se publicó primero en MondoSonoro ."
+    },
     {
       "id": "9d2768f7c85c4b1f5d2c1368ef978862d60dda9e",
       "title": "Songs From The Wedding Cake",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Milagrosa-Necesito-estimulos.jpg",
       "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada Necesito estímulos se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "aca0235d793929e11e8e5efc4e90029c2db8f8f7",
-      "title": "The Age Of Everything",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/johnny-marr-the-age-of-everything/",
-      "published": "2026-10-08T06:48:02.000Z",
-      "publishedTs": 1791442082000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Johnny-Marr-The-Age-Of-Everything.jpg",
-      "excerpt": "Johnny Marr quedará para la historia como el inspirado guitarrista y mitad compositiva (junto con Morrissey) de The Smiths, a... La entrada The Age Of Everything se publicó primero en MondoSonoro ."
     },
     {
       "id": "15be0a632adb45fa36b71caad3a65e5b754424d1",
@@ -404,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -452,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -500,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -800,7 +800,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -848,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
+      "image": "",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -896,7 +896,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
+      "image": "",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -1100,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     },
     {
