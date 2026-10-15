@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:58:26.537Z",
+  "generatedAt": "2026-10-15T18:09:58.929Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
     }
   ],
   "items": [
@@ -57,7 +57,7 @@
     },
     {
       "id": "cdf43ec879e9b0fcf847519ba6ec6f5b9bebef5f",
-      "title": "Bury me in the craters of the moon",
+      "title": "Bury Me In The Craters Of The Moon",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/madee-bury-me-in-the-craters-of-the-moon/",
       "published": "2026-10-14T11:02:11.000Z",
       "publishedTs": 1791975731000,
@@ -67,7 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MadeeBuryMeCD.jpg",
-      "excerpt": "El presente “Bury me in the craters of the moon” podría pasar por un disco perdido de Madee. Basta con... La entrada Bury me in the craters of the moon se publicó primero en MondoSonoro ."
+      "excerpt": "El presente “Bury Me In The Craters Of The Moon” podría pasar por un disco perdido de Madee. Basta con... La entrada Bury Me In The Craters Of The Moon se publicó primero en MondoSonoro ."
     },
     {
       "id": "9d2768f7c85c4b1f5d2c1368ef978862d60dda9e",
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Aimarz-kiliki.jpg",
       "excerpt": "“Txorterriko Jaiak” izenburuak berak ia dena esaten du. Kilikik eta AimarZ-k ez dute disko serio, dotore edo neurtu bat egin... La entrada Txorterriko Jaiak se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "39823aaea3c7424d04114031ae9ffa2b0f1e4c8d",
+      "title": "New affordable weekly club concept to launch in Hackney, Club Empire",
+      "link": "https://mixmag.net/read/new-affordable-club-concept-launch-hackney-club-empire-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hackney-Club.jpg?fit=cover&width=660&s=TRbPCjzA13f4YCmEN-ShnWlh5uSiNoboXMdv5mI95N8",
+      "excerpt": "Taking over the Empire Tavern on Mare Street, Club Empire will operate as a &quot;speakeasy-style late-night spot&quot; with DJ sets Continue reading..."
+    },
+    {
+      "id": "a9e3f925f1e2963f63b238a49215300d04cacfe6",
+      "title": "Non-infringing music removed from DistroKid amid UMG copyright cull, artists claim",
+      "link": "https://mixmag.net/read/music-removed-distrokid-amid-umg-copyright-cull-artists-claim-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/distrokid.jpg?fit=cover&width=660&s=iQORmr5MOsdGZgmg2E0MPv4icidBwbMrajkRKn6GXkE",
+      "excerpt": "The platform, which is used by artists to release music, says it has been ordered to remove a &quot;small number&quot; of tracks following a lawsuit from the major label Continue reading..."
+    },
+    {
+      "id": "980b4ed156c542df3939f431b12701084ae55e4b",
+      "title": "DJ Love featured in Michael Palin's Channel 5 documentary series on the Philippines",
+      "link": "https://mixmag.net/read/dj-love-featured-michael-palin-channel-5-documentary-series-budots-philippines-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Budots.jpg?fit=cover&width=660&s=9Mqg9Yex8sSgRXlPmItblg1VnEJ9SFyCjihI5X71UfI",
+      "excerpt": "The budots pioneer took the legendary British travel writer to his &quot;lair&quot; in Davao City during filming for Michael Palin in the Philippines Continue reading..."
     },
     {
       "id": "2bf8cfe9b9b365ada5922120994394a67b8e5615",
@@ -313,7 +349,7 @@
     },
     {
       "id": "a17b0830fa8bb4edfa71b6f0074aafd0e590463c",
-      "title": "DJ Jazzy Jeff and Will Smith’s early career to be subject of new film and TV series",
+      "title": "DJ Jazzy Jeff and Will Smith’s early career to be subject of new TV series",
       "link": "https://mixmag.net/read/dj-jazzy-jeff-will-smith-early-career-subject-new-film-tv-series-news",
       "published": "",
       "publishedTs": 0,
@@ -380,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -392,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -488,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -716,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -884,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -932,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
+      "image": "",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Beat-Hotel.jpg?fit=cover&width=660&s=S_iCdzkPzDDR6FFhOro5R1gMbhRGuHMQ_sUEaj68MME",
       "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "cfc431e08eb09cf472dc8b90235a89bb72add647",
-      "title": "Shoreditch club night to mark 90 years since Battle of Cable Street next month",
-      "link": "https://mixmag.net/read/sports-banger-king-alpha-sound-system-host-event-commemorating-90-years-battle-of-cable-street-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Cable-street.jpg?fit=cover&width=660&s=phaN1hAXP6dhsb1jwdh-NL0uh4TJBCc2DAEtbUJzqXY",
-      "excerpt": "Sports Banger and King Alpha Sound System will curate the show, with funds donated to striking workers represented by Unite the Union Continue reading..."
-    },
-    {
-      "id": "e081dd3d92bf776fe1000bd9a08c7ca0c60efb85",
-      "title": "Daft Punk's Guy-Manuel and Travis Scott team up on GTA VI soundtrack",
-      "link": "https://mixmag.net/read/daft-punk-guy-manuel-produced-track-forthcoming-gta-vi-soundtrack-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTAVI.jpg?fit=cover&width=660&s=nyy273jKS3NVRhbQUCfzj-BRKPGML_N53y13WAPZQL8",
-      "excerpt": "&#039;RHYNO&#039; is one of six original tracks shared ahead of the release of &#039;Grand Theft Auto VI: The Album&#039; Continue reading..."
-    },
-    {
-      "id": "e13fc9bc813da17b1de05d3166f3d57dee73347c",
-      "title": "Over €400,000 to be distributed to 32 clubs, radio stations and collectives in Berlin",
-      "link": "https://mixmag.net/read/over-400000-distributed-32-clubs-radio-stations-collectives-berlin-clubcommission-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/berlin-nighttime.jpg?fit=cover&width=660&s=qJYmhVWHxx-jbljntMjZqukCW037ISRysgAGolYbvdE",
-      "excerpt": "Annual festival TAG DE CLUBKULTUR, set up by the Clubcommission, will award grants in October Continue reading..."
     }
   ]
 }
