@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T03:22:07.765Z",
+  "generatedAt": "2026-10-15T08:53:13.862Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "d3f3e1c4ae69b4279e2300754a5a06d5c8b74cec",
+      "title": "All Over You",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/imperial-teen-all-over-you/",
+      "published": "2026-10-15T08:47:13.000Z",
+      "publishedTs": 1792054033000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Imperial-Teen-All-Over-You.jpg",
+      "excerpt": "En su séptimo disco de estudio Imperial Teen, el longevo grupo de indie-pop de San Francisco, juega sus mejores cartas.... La entrada All Over You se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "7cfaaa01831ef5cdefbb5bf72240414df9e2fcbd",
+      "title": "A la catalana",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lluki-valverde-a-la-catalana/",
+      "published": "2026-10-15T07:19:12.000Z",
+      "publishedTs": 1792048752000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Lluki-Valverde-a-la-catalana.jpg",
+      "excerpt": "Hay ciudades que se cuentan desde sus monumentos. Otras, desde sus bares, sus noches y la gente que vuelve a... La entrada A la catalana se publicó primero en MondoSonoro ."
+    },
     {
       "id": "cdf43ec879e9b0fcf847519ba6ec6f5b9bebef5f",
       "title": "Bury me in the craters of the moon",
@@ -140,34 +168,6 @@
       "excerpt": "“Txorterriko Jaiak” izenburuak berak ia dena esaten du. Kilikik eta AimarZ-k ez dute disko serio, dotore edo neurtu bat egin... La entrada Txorterriko Jaiak se publicó primero en MondoSonoro ."
     },
     {
-      "id": "97594a437302815c2b923d41dfd2ec6c94fa4c0a",
-      "title": "Jugando Sucio",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/kinki-boys-jugando-sucio/",
-      "published": "2026-10-08T18:10:40.000Z",
-      "publishedTs": 1791483040000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/kinki-boys.jpg",
-      "excerpt": "En el desarrollo del ejercicio artístico, no siempre aparece delimitada con precisión, ni por parte del creador ni del receptor,... La entrada Jugando Sucio se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "8ef8389c2302cff7348b8c193c29fac85257b2bf",
-      "title": "Necesito estímulos",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-milagrosa-necesito-estimulos/",
-      "published": "2026-10-08T07:29:44.000Z",
-      "publishedTs": 1791444584000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Milagrosa-Necesito-estimulos.jpg",
-      "excerpt": "Tras un debut en formato largo tan sólido y jugoso como fue “Ya no me duele mal” (25), La Milagrosa... La entrada Necesito estímulos se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "741e028fe86c331ea9e4a441b36887e91d6d19ae",
       "title": "The Mix 127: Bae Blade",
       "link": "https://mixmag.net/feature/the-mix-127-bae-blade-berlin-breaks-trance-techno-interview",
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -656,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -776,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -824,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -920,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -932,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
+      "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
@@ -1124,7 +1124,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Soundboks-speaker.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=NhC1JlTa_EVEo5f-JXshcX6LbRTpvAxmORjh9IOkHmA",
+      "image": "",
       "excerpt": "The best nights always start with one person saying yes... here&#039;s why SOUNDBOKS&#039; new speaker is built for that person Continue reading..."
     }
   ]
