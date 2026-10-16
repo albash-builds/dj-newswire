@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:28:33.749Z",
+  "generatedAt": "2026-10-16T10:46:29.234Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,52 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
+    {
+      "id": "f43cedca7399251a6c517853b4f5854e0cc4eba4",
+      "title": "A ver si me despierto",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/amor-liquido-a-ver-si-me-despierto/",
+      "published": "2026-10-16T09:50:30.000Z",
+      "publishedTs": 1792144230000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Amor-Liquido-A-ver-si-me-despiert.jpg",
+      "excerpt": "Cuando en 2024 unos debutantes Amor Líquido decidían devolverle el sentimiento y la consigna colectiva al punk nacional, teníamos claro... La entrada A ver si me despierto se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "0d65304f92acc66b6f38998733e343493033d7d7",
+      "title": "She’s The Best",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/troye-sivan-shes-the-best-critica/",
+      "published": "2026-10-16T09:33:45.000Z",
+      "publishedTs": 1792143225000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Troye-Sivan-She-s-The-Best.jpg",
+      "excerpt": "En la crítica de “Something To Give To Each Other”, hablábamos de que “no es que haya aquí malas canciones,... La entrada She’s The Best se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "15ff86dbdf99476c84daa36b6a87f54091d04160",
+      "title": "Reseñamos \"Dopamine Chamber\", el nuevo disco de Fontaines D.C.",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/fontaines-d-c-dopamine-chamber/",
+      "published": "2026-10-16T07:01:49.000Z",
+      "publishedTs": 1792134109000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Fontaines-D.C.-Dopamine-Chamber.jpg",
+      "excerpt": "Parece mentira, pero “Dogrel”, el debut de Fontaines D.C, se publicó en 2019. Casi antes de ayer. Lo alucinante de... La entrada Reseñamos &quot;Dopamine Chamber&quot;, el nuevo disco de Fontaines D.C. se publicó primero en MondoSonoro ."
+    },
     {
       "id": "2448bca9fd77761018b36c80653c8203d653fd47",
       "title": "Tierra hostil",
@@ -126,48 +168,6 @@
       "excerpt": "Asumo que \"I'm Totally Fine with It Don't Give a Fuck Anymore\" (2024) me dejó un poco frío, tras el... La entrada Half – Told Tales se publicó primero en MondoSonoro ."
     },
     {
-      "id": "d89b1de01e6837c7cc950e9bd15b680962a3560c",
-      "title": "Todos quieren ser los campeones",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/apartamentos-acapulco-todos-quieren-ser-los-campeones/",
-      "published": "2026-10-12T08:11:35.000Z",
-      "publishedTs": 1791792695000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Apartamentos-Acapulco-Todos-quieren-ser-los-campeones.jpg",
-      "excerpt": "Desde su torrebrunístico título hasta lo que su formulación esconde (nada menos que diez años picando piedra en esto del... La entrada Todos quieren ser los campeones se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "036aeebd3963c91c8c3838284d6bbeba7ef695d0",
-      "title": "Do Not Dare To Dream",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/teenage-fanclub-do-not-dare-to-dream/",
-      "published": "2026-10-10T07:37:00.000Z",
-      "publishedTs": 1791617820000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Teenage-Fanclub-Do-Not-Dare-To-Dream.jpg",
-      "excerpt": "Duele. Solo un poco, no vamos a exagerar. Pero escuece que la carrera de Teenage Fanclub se vaya descoloriendo como... La entrada Do Not Dare To Dream se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "0586755b71afbcaa20996623cc9a502f2306caa8",
-      "title": "Dja Dja",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/marina-herlop-dja-dja/",
-      "published": "2026-10-10T07:25:09.000Z",
-      "publishedTs": 1791617109000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Marina-Herlop-Dja-Dja.jpg",
-      "excerpt": "La última vez que volví a pisar los humedales de la Punta del Fangar, en el extremo norte del Delta... La entrada Dja Dja se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "39823aaea3c7424d04114031ae9ffa2b0f1e4c8d",
       "title": "New affordable weekly club concept to launch in Hackney, Club Empire",
       "link": "https://mixmag.net/read/new-affordable-club-concept-launch-hackney-club-empire-news",
@@ -249,7 +249,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
-      "excerpt": "A wave of intimate venues opening in Ibiza are fighting the grip the superclubs have on the island, offering a cosy, locals-friendly and more affordable experience that’s breathing new life into the White Isle’s underground roots. Marcus…"
+      "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
       "id": "0933dca36fcf2e681e71220eb195ee795067fb97",
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -380,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -524,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -632,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -872,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -920,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
