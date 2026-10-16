@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:46:29.234Z",
+  "generatedAt": "2026-10-16T15:13:11.846Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "40a5ec2614240387a935508d786960d297702ffa",
+      "title": "\"Alegría\" es el nuevo álbum de Anni B Sweet",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/anni-b-sweet-alegria/",
+      "published": "2026-10-16T14:34:28.000Z",
+      "publishedTs": 1792161268000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Anni-B-Sweet-Alegria.jpg",
+      "excerpt": "El nuevo disco de Anni B Sweet es un reinicio físico y mental. Un regreso que la artista necesitaba tanto... La entrada &quot;Alegría&quot; es el nuevo álbum de Anni B Sweet se publicó primero en MondoSonoro ."
+    },
     {
       "id": "f43cedca7399251a6c517853b4f5854e0cc4eba4",
       "title": "A ver si me despierto",
@@ -154,18 +168,40 @@
       "excerpt": "\"Songs From The Wedding Cake\" es ya el sexto álbum de Blossoms. Banda británica que ha conseguido que cuatro de... La entrada Songs From The Wedding Cake se publicó primero en MondoSonoro ."
     },
     {
-      "id": "27f5e644af3c44a7c7ff8b36387d71cabf584594",
-      "title": "Half – Told Tales",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/arab-strap-half-told-tales/",
-      "published": "2026-10-13T07:54:19.000Z",
-      "publishedTs": 1791878059000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Arab-Strap-Half-Told-Tales-.jpg",
-      "excerpt": "Asumo que \"I'm Totally Fine with It Don't Give a Fuck Anymore\" (2024) me dejó un poco frío, tras el... La entrada Half – Told Tales se publicó primero en MondoSonoro ."
+      "id": "0807ce508ef965c9a93fb1b0ff81fd50a446c149",
+      "title": "Irish musicians to start receiving €1,400 basic income each month",
+      "link": "https://mixmag.net/read/musicians-ireland-begin-receiving-1400-euros-month-october-income-scheme-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/musicians-ireland.jpg?fit=cover&width=660&s=Q-a0FrTVqc-szxUhX4a8EVOu17_3hbq9BcKVWO71JUY",
+      "excerpt": "Ireland’s government says it will pay over €34 million to 2,000 artists and creative workers in the next three years Continue reading..."
+    },
+    {
+      "id": "5ba9857203030e54fe18d657daa1d5aa830909ab",
+      "title": "“Don’t demolish Digbeth!”: Birmingham nightclubs are protesting developers for their survival",
+      "link": "https://mixmag.net/feature/dont-demolish-digbeth-heres-why-birmingham-nightclubs-are-protesting-for-their-survival",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
+      "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
+    },
+    {
+      "id": "10409a71ecf2f5d1decf7485f50e5f573d103b0f",
+      "title": "Justice are composing the original score for Grand Theft Auto VI",
+      "link": "https://mixmag.net/read/justice-composing-original-score-grand-theft-auto-vi-6-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/justice-gta.jpg?fit=cover&width=660&s=PslrNB_Lt-xETe1ulbrj17gCTQbhmLZAWSziqogAuSo",
+      "excerpt": "A new trailer features a single from the French duo, featuring Tame Impala and more Continue reading..."
     },
     {
       "id": "39823aaea3c7424d04114031ae9ffa2b0f1e4c8d",
@@ -368,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -416,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -488,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -632,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
+      "image": "",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Calvin-Harris_2026-09-21-115748_arso.jpg?fit=cover&width=660&s=c404h1AiNJu5f6wmmRuP5PbC2pFws6r3UDmdxXIAPmk",
       "excerpt": "The Scottish DJ and producer played in front of 1.6 million people in São Paulo earlier this year Continue reading..."
-    },
-    {
-      "id": "3e0a38bde52bad73d397d7c79304935df579ccdf",
-      "title": "10 lost David Bowie tracks released on streaming for the first time",
-      "link": "https://mixmag.net/read/ten-10-lost-david-bowie-tracks-released-streaming-first-time-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/david-bowie-lost-musicc.jpg?fit=cover&width=660&s=58acdjjDp3_vKEy-2lgUJWQWBkZ--Ia-1rYZO_EEg5I",
-      "excerpt": "The tracks were filed under his birth name, David Jones, in the ‘60s and are said to be his most “visceral and raw” creations Continue reading..."
-    },
-    {
-      "id": "a6b3bc7c79a08a64dc9bc646f1e75e55a5b6ad40",
-      "title": "New music on our radar this week: Jennifer Loveless, Eoin DJ, Fatima Al Qadiri",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-jennifer-loveless-eoin-dj-fatima-al-qadiri-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pic-fatima.jpg?fit=cover&width=660&s=gohkw_Mr-XqvZhfsuU17-YNR1zgDuYGK3tK3NrTHhyA",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "5889c84af7a31078549962db3e19e55652ef49af",
-      "title": "Festival line-ups you might have missed: Margins United, Edgelands, Beat Hotel",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-margins-united-edgelands-beat-hotel-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Beat-Hotel.jpg?fit=cover&width=660&s=S_iCdzkPzDDR6FFhOro5R1gMbhRGuHMQ_sUEaj68MME",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     }
   ]
 }
