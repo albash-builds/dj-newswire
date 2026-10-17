@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:04:31.715Z",
+  "generatedAt": "2026-10-17T06:35:38.471Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
@@ -260,7 +260,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -572,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -680,7 +680,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -1016,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
@@ -1076,7 +1076,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/erika-sfcowboy-bay-area-playlist.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=VB8bsVkj2EPj1a8YE2DlE3US7bGh0actfr4zg5v2WUM",
+      "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     },
     {
