@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:26:34.553Z",
+  "generatedAt": "2026-10-18T19:13:54.436Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "60ecd62d563f766c7b9880e58c8392869d497594",
+      "title": "Second Song",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/neil-young-and-the-chrome-hearts-second-song/",
+      "published": "2026-10-18T18:22:03.000Z",
+      "publishedTs": 1792347723000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Neil-Young-and-the-Chrome-Hearts-Second-Song.jpg",
+      "excerpt": "¿Qué se puede decir de \"Second Song\", el 50º disco en solitario de uno de los mayores gigantes de la... La entrada Second Song se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ad87f6cb0053aad6835acc4aafaae1bb7ef1805c",
+      "title": "Jordi Matas - 1",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jordi-matas-1-disco/",
+      "published": "2026-10-18T18:09:25.000Z",
+      "publishedTs": 1792346965000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/jordi-matas-1-disco.jpg",
+      "excerpt": "Desde el semianonimato, Jordi Matas ha sido una de la figuras más influyentes y relevantes de la escena musical catalana,... La entrada Jordi Matas - 1 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "60d6229fbddf82a9c219acb2469b530fcebe297b",
       "title": "Ahora que estamos solos",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Imperial-Teen-All-Over-You.jpg",
       "excerpt": "En su séptimo disco de estudio Imperial Teen, el longevo grupo de indie-pop de San Francisco, juega sus mejores cartas.... La entrada All Over You se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7cfaaa01831ef5cdefbb5bf72240414df9e2fcbd",
-      "title": "A la catalana",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lluki-valverde-a-la-catalana/",
-      "published": "2026-10-15T07:19:12.000Z",
-      "publishedTs": 1792048752000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Lluki-Valverde-a-la-catalana.jpg",
-      "excerpt": "Hay ciudades que se cuentan desde sus monumentos. Otras, desde sus bares, sus noches y la gente que vuelve a... La entrada A la catalana se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "cdf43ec879e9b0fcf847519ba6ec6f5b9bebef5f",
-      "title": "Bury Me In The Craters Of The Moon",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/madee-bury-me-in-the-craters-of-the-moon/",
-      "published": "2026-10-14T11:02:11.000Z",
-      "publishedTs": 1791975731000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MadeeBuryMeCD.jpg",
-      "excerpt": "El presente “Bury Me In The Craters Of The Moon” podría pasar por un disco perdido de Madee. Basta con... La entrada Bury Me In The Craters Of The Moon se publicó primero en MondoSonoro ."
     },
     {
       "id": "7980d0df759e0810f9327473baec52a00a1eb18f",
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -464,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -572,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -800,7 +800,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -920,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
+      "image": "",
       "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     },
     {
@@ -968,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_AHAD_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PFnF-NGczSyT3L3jnHQhapLE2ODEfrhH0Na62lsy1ws",
+      "image": "",
       "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
     },
     {
@@ -1016,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/armin_2026-09-22-153522_njbx.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=j8fLotrM2_N9LURqEZxlxAYY_ICXt4n4g0Xy1R1gpJ8",
       "excerpt": "Filmed during his five-hour set at the launch of 25 Years of A State of Trance at the Ibiza superclub, the mini documentary explores what happens to our brains when we experience club coalescence Continue reading..."
     },
     {
