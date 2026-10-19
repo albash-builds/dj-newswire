@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:13:58.839Z",
+  "generatedAt": "2026-10-19T19:01:30.791Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/beire.jpg",
       "excerpt": "Bihotz hautsi batetik jaio da Beire. Zauriak, ordea, ez dira beti isilik geratzen; batzuetan, abesti bihurtzen dira, barruan korapilatuta dagoena... La entrada Beire se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4d9438dfa4a4c3d426b8db30b63346d8ff445321",
+      "title": "CinCity to headline the Mixmag Lab Amsterdam",
+      "link": "https://mixmag.net/read/cincity-headline-mixmag-lab-amsterdam-partnership-bpm-supreme-ade-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CinCity.png?fit=cover&width=660&s=JQI1S278W9IyKQpoMm6Y01X9sNqU9qBNHQyTS7hSfZM",
+      "excerpt": "The Dutch DJ and producer will be joined by ALANDRIA for the free-to-attend event at Kwartier, Amsterdam on Saturday, October 23 Continue reading..."
+    },
+    {
+      "id": "4b9b7ad0dd3f0724cb9b6016cb871184eb912df1",
+      "title": "Jordan's first-ever vinyl pressing plant to launch in Amman",
+      "link": "https://mixmag.net/read/jordan-first-ever-vinyl-pressing-plant-to-launch-in-amman-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vinyl-record_2026-10-19-124932_aphq.jpg?fit=cover&width=660&s=VITyFcsrvs7NMmVZ5bCj-eTXUUPbDGEudRcqnkcs6rE",
+      "excerpt": "Spearheaded by Makbas Records, the plant will work with MENA-based and international artists to help circumvent rising global shipping costs Continue reading..."
+    },
+    {
+      "id": "3b686f9cd998f90e22281c710a22cada03478926",
+      "title": "Youth Music opens £2.4 million arts fund addressing industry-wide racial inequity",
+      "link": "https://mixmag.net/read/youth-music-opens-2-million-arts-fund-addressing-industry-wide-racial-inequity-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/youth-music-fund.jpg?fit=cover&width=660&s=Jq8WGviVqljdIdVufoRssSVyxy5oyEMC129PCSafXJI",
+      "excerpt": "20 organisations will receive grants of up to £120,000 over the coming years Continue reading..."
     },
     {
       "id": "c8ab0e2909d5895681ca7d14373ec7c061aa936b",
@@ -344,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
+      "image": "",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -368,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -464,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -476,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nightclub_2026-09-22-141907_lnbd.jpg?fit=cover&width=660&s=nFIPkUd4D0ilM2p4C86MPXWq8veHPS6en4PzcTUSWE0",
       "excerpt": "The amount of late-night venues and nightclubs rose by 0.4% between March and June 2026, though the NTIA warn that rising costs could &quot;extinguish&quot; this small recovery Continue reading..."
-    },
-    {
-      "id": "8f79817745615447a0af363492d0a17223bdb424",
-      "title": "Free app lets you avoid smart glasses-wearers in the club",
-      "link": "https://mixmag.net/read/new-app-detects-people-using-meta-glasses-club-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/meta-glasses.jpg?fit=cover&width=660&s=p0pDTysD76D7T8wEfRZ926eBttqwsP6JbWBuO8It_8I",
-      "excerpt": "ZuckOff, which uses Bluetooth to identify if a device is nearby, has already been downloaded by 6,000 people Continue reading..."
-    },
-    {
-      "id": "8a2c36ae904b7ac18ae84125a2ee2f8dd087df04",
-      "title": "As France cracks down on free parties, 350,000 people dance in protest at Paris’ Techno Parade",
-      "link": "https://mixmag.net/feature/paris-techno-parade-ripost-law-protest-free-parties-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
-      "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
-    },
-    {
-      "id": "809f92bc8334634b1995bf40e704e08306cc271c",
-      "title": "10 Bay Area bangers selected by erika and sfcowboy",
-      "link": "https://mixmag.net/feature/10-bay-area-bangers-dance-music-tracks-erika-sfcowboy-san-francisco-oakland",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
     }
   ]
 }
