@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T05:45:02.506Z",
+  "generatedAt": "2026-10-19T12:13:58.839Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "46c1349fb8698645b452a57d689bb6db0791e1b5",
+      "title": "Hope Is A Heavy Thing",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/joy-oladokum-hope-is-a-heavy-thing/",
+      "published": "2026-10-19T07:59:36.000Z",
+      "publishedTs": 1792396776000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Joy-Oladokum-Hope-Is-A-Heavy-Thing.jpg",
+      "excerpt": "A menudo se ha comparado a Joy Oladokum con Tracy Chapman y hay motivos sobrados para ello. No en vano... La entrada Hope Is A Heavy Thing se publicó primero en MondoSonoro ."
+    },
     {
       "id": "60ecd62d563f766c7b9880e58c8392869d497594",
       "title": "Second Song",
@@ -154,18 +168,52 @@
       "excerpt": "Bihotz hautsi batetik jaio da Beire. Zauriak, ordea, ez dira beti isilik geratzen; batzuetan, abesti bihurtzen dira, barruan korapilatuta dagoena... La entrada Beire se publicó primero en MondoSonoro ."
     },
     {
-      "id": "d3f3e1c4ae69b4279e2300754a5a06d5c8b74cec",
-      "title": "All Over You",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/imperial-teen-all-over-you/",
-      "published": "2026-10-15T08:47:13.000Z",
-      "publishedTs": 1792054033000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Imperial-Teen-All-Over-You.jpg",
-      "excerpt": "En su séptimo disco de estudio Imperial Teen, el longevo grupo de indie-pop de San Francisco, juega sus mejores cartas.... La entrada All Over You se publicó primero en MondoSonoro ."
+      "id": "c8ab0e2909d5895681ca7d14373ec7c061aa936b",
+      "title": "Bus passengers in England could be fined £100 for playing loud music",
+      "link": "https://mixmag.net/read/uk-bus-passengers-could-be-fined-100-for-playing-loud-music-new-government-proposals-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bus-Passengers.jpg?fit=cover&width=660&s=B1WJbIlKap3ddVTL99Yb1gfaosrjPgeSTVoPVO0xC7g",
+      "excerpt": "Prime Minister Andy Burnham said that &quot;blasting music or videos&quot; on public transport &quot;gets on your nerves and can quickly spoil your journey&quot; Continue reading..."
+    },
+    {
+      "id": "afb2f2a93beb0c1d83c2e61be0ca80b9c733eb28",
+      "title": "Police shut down 200-strong illegal rave at farm building in Cambridge",
+      "link": "https://mixmag.net/read/police-shut-down-200-strong-illegal-rave-farm-building-cambridge-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/farm-uk.jpg?fit=cover&width=660&s=zU3E8fXxCrnQuIoZHhH7StebvzxOAVjVhJXIBQ7YzJY",
+      "excerpt": "Three people were arrested at the unlicensed event in Litlington, South Cambridge Continue reading..."
+    },
+    {
+      "id": "d67535e5bf494ed33a882f7ef94b435f49fed901",
+      "title": "New music on our radar this week: Sophia Stel, CHRIS STASSY, Nesa Azadikhah",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-sophia-stel-chris-stassy-nesa-azadikhah-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-1.jpg?fit=cover&width=660&s=m5gr_QHKtv4EkQlIFXlq37gSBlYRDrPq77oxaVhKFoY",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "13dda5acab1b2a70ee69344436f8b8ed4957cb1b",
+      "title": "Festival line-ups you might have missed: E-Fest, Primavera Sound, Circles",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-8-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Screenshot-2026-10-19-at-09.58.08.png?fit=cover&width=660&s=FvDtUWrNdoNdU2SazQF1l7-5n-NzuMff5Z5qYDK-nX4",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
     },
     {
       "id": "7980d0df759e0810f9327473baec52a00a1eb18f",
@@ -200,7 +248,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
+      "image": "",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -260,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -320,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -620,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -800,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -1064,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Paris-Techno-Parade-2026-credit-Mateus-Santa-Rita.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AXwTZeC3uYd1ABszRP9IDAV3TdBZIzOxu-A83_8NgJw",
       "excerpt": "Following a two-year hiatus, the return of Paris’ Techno Parade couldn’t be more timely. The French RIPOST law, adopted this summer, threatens organisers of undeclared free parties with eye-watering fines and lengthy prison sentences. On…"
     },
     {
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "Before they set the pace as openers at San Francisco&#039;s Portola festival, local heroes erika and sfcowboy take us on a trip through essential sounds from the Bay Area Continue reading..."
-    },
-    {
-      "id": "1bdf939f8c455a645659cac02ece1659cf5386f1",
-      "title": "New 600-capacity music venue from Apple Music to open in London this autumn",
-      "link": "https://mixmag.net/read/new-600-capacity-music-venue-from-apple-music-to-open-in-london-this-autumn-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/apple-music-hall.jpg?fit=cover&width=660&s=CXeODo0SlPplrRcNW3ajTtuO9QHBxM5DpZZDC4xqvyA",
-      "excerpt": "Apple Music Hall will open within Battersea Power Station in “the coming weeks” Continue reading..."
-    },
-    {
-      "id": "98ed489d7a89054efde0378fbd94930a024cfb10",
-      "title": "On debut album ‘P ★ K I’, Ahadadream makes a bold statement of self-love",
-      "link": "https://mixmag.net/feature/ahadadream-dj-cover-feature-interview-p-ki-album",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Pakistan-born artist Ahadadream has spent more than 15 years immersed in UK dance music, empowered by the dancefloor as a space to embrace all sides of himself and transforming the scene through his own contributions. Upon the release of…"
-    },
-    {
-      "id": "8240199c49408d40a571089367d575898b34fb14",
-      "title": "Mastermind behind UK's biggest-ever vinyl counterfeit operation sentenced to prison",
-      "link": "https://mixmag.net/read/mastermind-uk-biggest-ever-vinyl-counterfeit-operation-sentenced-to-three-years-in-prison-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Vinyl_2026-09-21-140103_wmjq.jpg?fit=cover&width=660&s=aHUxsLvihlACMeaW4-_3ggs3v4rOQzeIz6MzmzVwHGY",
-      "excerpt": "Rehan Ahmed was found to have earned £2.4 million from the sale of fake vinyl releases from artists such as The Beatles, Taylor Swift and Ed Sheeran Continue reading..."
-    },
-    {
-      "id": "4acc5750b80adf80add462e5aab4436d3badc7b3",
-      "title": "Long-running Budapest nightclub Aether to close, citing financial strain",
-      "link": "https://mixmag.net/read/long-running-budapest-nightclub-aether-close-citing-financial-strain-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/aether-club.jpg?fit=cover&width=660&s=v4zQGyiE_D6m5bg0R5sTzt4or-GTqANODdA1xy9zUFk",
-      "excerpt": "The venue, which will close this weekend after 11 years, has hinted that it could return if things become &quot;favourable&quot; in the future Continue reading..."
     }
   ]
 }
