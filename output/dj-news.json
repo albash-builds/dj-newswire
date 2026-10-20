@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:55:17.652Z",
+  "generatedAt": "2026-10-20T22:07:34.930Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,18 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/beire.jpg",
       "excerpt": "Bihotz hautsi batetik jaio da Beire. Zauriak, ordea, ez dira beti isilik geratzen; batzuetan, abesti bihurtzen dira, barruan korapilatuta dagoena... La entrada Beire se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "653bacf1d86e0f4d4c4975468873a0ebb7706ba1",
+      "title": "The history of D-EDGE, Brazil’s most enduring nightclub",
+      "link": "https://mixmag.net/feature/history-of-d-edge-brazil-most-enduring-nightclub-renato-dj-marky-blancah",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
+      "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
       "id": "52e6a9c01cabfeb1a5cac6e9b2fa5766d3acb014",
@@ -428,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
+      "image": "",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -608,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -800,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/avatar.jpg?fit=cover&width=660&s=3p-e7CxOn8YW7OrSTyo0EaYsRk0KKQcX5l_4UuRGYjc",
       "excerpt": "Unit1 wants to offer a &quot;low-cost&quot; live music alternative, with performances from both living and dead artists Continue reading..."
-    },
-    {
-      "id": "cc57726868ef48419ed84cf0f8ebe270a1ab8838",
-      "title": "Bus passengers in Singapore can now be fined up to £300 for playing music out loud",
-      "link": "https://mixmag.net/read/bus-passengers-singapore-now-fined-playing-music-out-loud-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/singapore-phone-music.jpg?fit=cover&width=660&s=Ajklqc7cWSI2eCT5rsflLx8m42SGqMckB1OusHCquZE",
-      "excerpt": "The new rules come into place today and apply to the entirety of the city state&#039;s bus network Continue reading..."
     }
   ]
 }
