@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:27:27.905Z",
+  "generatedAt": "2026-10-21T18:23:41.375Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,54 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/beire.jpg",
       "excerpt": "Bihotz hautsi batetik jaio da Beire. Zauriak, ordea, ez dira beti isilik geratzen; batzuetan, abesti bihurtzen dira, barruan korapilatuta dagoena... La entrada Beire se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "063342687fafe1e2c344b2613cd66ec6225a920f",
+      "title": "How Eris Drew and Octo Octa formed a band from a four-day psychedelic trip",
+      "link": "https://mixmag.net/feature/eris-drew-octo-octa-alchemical-sisters-cover-feature-interview",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
+      "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
+    },
+    {
+      "id": "fbddca58485b912a46b2d489d9903a62505228a6",
+      "title": "The Cover Mix: Eris Drew and Octo Octa as Alchemical Sisters",
+      "link": "https://mixmag.net/feature/eris-drew-octo-octa-alchemical-sisters-mixmag-lab-cover-mix",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
+      "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
+    },
+    {
+      "id": "c0d7e41d5214ae18157fbe9e8a3a1f907e361c86",
+      "title": "Samaʼ Abdulhadi withdraws from ADE citing booking of ex-IDF soldiers",
+      "link": "https://mixmag.net/read/sama-abdulhadi-withdraws-ade-citing-booking-ex-idf-soldiers-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sama-ade.jpg?fit=cover&width=660&s=NbhDQJ9EZaZpTSGUKJOwGtvd75UN6bW2_8mr9YpZ1K0",
+      "excerpt": "The Palestinian DJ claims that “several” artists booked have previously served in the Israeli military Continue reading..."
+    },
+    {
+      "id": "46c123f0462232c47ab49c17fcfd8c3e5902a4af",
+      "title": "Rockstar Games reportedly tried to reunite Daft Punk for GTA 6",
+      "link": "https://mixmag.net/read/rockstar-reportedly-tried-reunite-daft-punk-gta-6-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTA-VI-1.jpg?fit=cover&width=660&s=0NDlDPReD8KO2BvgFBdN3PG4TwYABovnJB2EyBIXP-8",
+      "excerpt": "Reports claim that the former robots were offered an &quot;unlimited budget&quot; to create the video game&#039;s score for a &quot;final comeback&quot; Continue reading..."
     },
     {
       "id": "da2bfafde58869cc941dbea00a743fd7530131d8",
@@ -416,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -476,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -956,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -1076,56 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_CYST2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AsQPnMs5NBLfT991CsbDGohBmsZRlRekwjx69qEbPTU",
-      "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
-    },
-    {
-      "id": "1c403c2ede9fd3178b7d6104ef5e137f995d5c69",
-      "title": "New print publication to launch in the UK celebrating live music venues",
-      "link": "https://mixmag.net/read/new-print-publication-launch-uk-celebrating-live-music-venues-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/live-music-uk.jpg?fit=cover&width=660&s=Los8so-LWriraRqD-iPm5HnYl2Kf3K4i4zP95ynSyxE",
-      "excerpt": "SHOWNOTES comes as a collaborative project from charity Music Venue Trust and webzine Drowned In Sound Continue reading..."
-    },
-    {
-      "id": "8ad71457887842cc15904ea7ae91de01ceb8646e",
-      "title": "Erol Alkan to publish book documenting his legendary London club night Trash",
-      "link": "https://mixmag.net/read/erol-alkan-shares-details-of-new-book-documenting-his-legendary-trash-club-night-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/trash-alkan.jpg?fit=cover&width=660&s=wVW8EMPCznnKe47V7lWJesd_2TNbp7BkHILhdpAtpDY",
-      "excerpt": "News of the book comes following speculation over a possible return of Trash, which held its last edition in 2007 Continue reading..."
-    },
-    {
-      "id": "57ccebe4f366bfc7bed243831d14281a2d3f1239",
-      "title": "Rare tapes from Moby, Eminem and Depeche Mode go up for auction",
-      "link": "https://mixmag.net/read/rare-tapes-moby-eminem-depeche-mode-auction-wax-poetics-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/moby-credit-Lindsay-Hicks.jpg?fit=cover&width=660&s=dcbmCVJfBs3V1MoyNdi1ewLq10x5ldPcK-GMCz1ai6w",
-      "excerpt": "Moby’s hand-drawn DJ demo cassette from 1987-88 has a current bid of $700 Continue reading..."
-    },
-    {
-      "id": "df7f93b2f698effaf58966f75dc8d31b2c86882a",
-      "title": "The Cover Mix: Ahadadream",
-      "link": "https://mixmag.net/feature/ahadadream-dj-cover-mix-mixmag-lab-london",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
       "image": "",
-      "excerpt": "To celebrate the release of his debut album ‘P ★ K I’, Ahadadream hosted rousing launch party in the Mixmag Lab London Continue reading..."
+      "excerpt": "The new duo, a pairing of congenial minds who dabble in the fringes of experimental music, are showboating their dreamed-up take on “outsider hip hop” on their debut album ‘ᲘᲘ’. We ask the pair about their new record, entering parenthood…"
     }
   ]
 }
