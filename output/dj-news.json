@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T01:14:27.198Z",
+  "generatedAt": "2026-10-22T07:08:02.356Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,52 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "d5543b12b8b1b7bf174422ee712b76daa332629a",
+      "title": "Una extraña fuerza",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/airbag-una-extrana-fuerza/",
+      "published": "2026-10-22T06:05:21.000Z",
+      "publishedTs": 1792649121000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Airbag-Una-extrana-fuerza.jpg",
+      "excerpt": "Los malagueños Airbag nos trolearon al publicar como primer adelanto “Gira de despedida”. Más de uno interpretó ese sencillo como... La entrada Una extraña fuerza se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "75a093de4f2441288867abd12100176e534c532d",
+      "title": "All Inside Aquarium",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bodega-all-inside-aquarium/",
+      "published": "2026-10-22T05:36:25.000Z",
+      "publishedTs": 1792647385000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Bodega-All-Inside-Aquarium.jpg",
+      "excerpt": "Después de pasearse por diversos terrenos musicales –desde lo bailable a lo post-punk, pasando por el art rock–, los neoyorquinos... La entrada All Inside Aquarium se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c5e9afcd3e8c58d7ebc896d6446ae4c188acbfe5",
+      "title": "Fever",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/graveyard-fever/",
+      "published": "2026-10-22T05:27:06.000Z",
+      "publishedTs": 1792646826000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/graveyard-fever.jpg",
+      "excerpt": "Tres años después del taciturno y sosegado \"6\", la banda sueca vuelve a subir el volumen de los amplificadores para... La entrada Fever se publicó primero en MondoSonoro ."
+    },
     {
       "id": "46c1349fb8698645b452a57d689bb6db0791e1b5",
       "title": "Hope Is A Heavy Thing",
@@ -124,48 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Troye-Sivan-She-s-The-Best.jpg",
       "excerpt": "En la crítica de “Something To Give To Each Other”, hablábamos de que “no es que haya aquí malas canciones,... La entrada She’s The Best se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "15ff86dbdf99476c84daa36b6a87f54091d04160",
-      "title": "Dopamine Chamber",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/fontaines-d-c-dopamine-chamber/",
-      "published": "2026-10-16T07:01:49.000Z",
-      "publishedTs": 1792134109000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Fontaines-D.C.-Dopamine-Chamber.jpg",
-      "excerpt": "Parece mentira, pero “Dogrel”, el debut de Fontaines D.C, se publicó en 2019. Casi antes de ayer. Lo alucinante de... La entrada Dopamine Chamber se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "2448bca9fd77761018b36c80653c8203d653fd47",
-      "title": "Tierra hostil",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/caballo-regalado-tierra-hostil/",
-      "published": "2026-10-15T18:37:40.000Z",
-      "publishedTs": 1792089460000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Caballo-regalado.jpg",
-      "excerpt": "El comportamiento de una banda musical, en su esencia, no dista demasiado al de cualquier organismo vivo, y como tal... La entrada Tierra hostil se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "7124ef21902a34377d6280935875f6141876573f",
-      "title": "Beire",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/beire/",
-      "published": "2026-10-15T18:28:45.000Z",
-      "publishedTs": 1792088925000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/beire.jpg",
-      "excerpt": "Bihotz hautsi batetik jaio da Beire. Zauriak, ordea, ez dira beti isilik geratzen; batzuetan, abesti bihurtzen dira, barruan korapilatuta dagoena... La entrada Beire se publicó primero en MondoSonoro ."
     },
     {
       "id": "063342687fafe1e2c344b2613cd66ec6225a920f",
@@ -464,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -524,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -632,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -668,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -680,7 +680,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
+      "image": "",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "image": "",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -740,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
+      "image": "",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -872,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -884,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
