@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:01:40.874Z",
+  "generatedAt": "2026-10-24T00:16:28.828Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
     }
   ],
   "items": [
@@ -488,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -548,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -584,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -860,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -956,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
@@ -968,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -1088,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
