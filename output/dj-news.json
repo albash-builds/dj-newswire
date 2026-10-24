@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:24:14.050Z",
+  "generatedAt": "2026-10-24T10:20:35.789Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
     }
   ],
   "items": [
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -488,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
+      "image": "",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -548,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -584,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -716,7 +716,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -764,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
+      "image": "",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -824,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -956,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_SG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=h9xvOW_xv9jTM2i6pYCgGCQ5gV-KfJwp5Ql0MrWjCH4",
+      "image": "",
       "excerpt": "In supplying weapons-grade club bangers to your favourite DJs and dancefloors alike, Sam Girling is finding his footing after a decade in music. He enters a sonic state of dark flux for his edition of The Mix, and speaks to Megan Townsen…"
     },
     {
