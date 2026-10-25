@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:09:08.227Z",
+  "generatedAt": "2026-10-25T21:26:43.804Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 403 Forbidden for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta http-e"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -168,6 +168,30 @@
       "excerpt": "¿Qué se puede decir de \"Second Song\", el 50º disco en solitario de uno de los mayores gigantes de la... La entrada Second Song se publicó primero en MondoSonoro ."
     },
     {
+      "id": "67f3f7785a44903ac2f700a2934067927bfb85fb",
+      "title": "New music on our radar this week: Blackhaine, Nabihah Iqbal, DNGDNGDNG",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-blackhaine-nabihah-iqbal-dngdngdng-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Round-Ups-Blackhaine.png?fit=cover&width=660&s=9E5Exi9ySJjrmmzHZDi9mTtakZiD-vl2NIC8cFBB8AA",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "12efcb86a38966a28db97eb7ccd14c92254ce18a",
+      "title": "Festival line-ups you might have missed: GALA, Pitch Arts & Music, Westival",
+      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-gala-pitch-arts-music-westival-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GALA-crip.png?fit=cover&width=660&s=xr2a3_cVMO-NX2pXBBTL-36ekN6vmOYqIErH-SwLk1A",
+      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
+    },
+    {
       "id": "3fa32d298776f01a3fc406171c44a08f91b3086b",
       "title": "Lost seeks 24-hour license for new London College of Fashion venue",
       "link": "https://mixmag.net/read/lost-seeks-24-hour-license-for-new-london-college-of-fashion-home-news",
@@ -200,7 +224,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -260,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
+      "image": "",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -320,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
+      "image": "",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -488,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -584,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -716,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -968,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
@@ -1088,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fiorito.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EIR-nMbJk51AnB9e9eLxbRGE22Z1Us443gLo25xLF8k",
+      "image": "",
       "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-press-shot.jpg?fit=cover&width=660&s=VgdMOvw0D5ykao74Y9C_e3Ibc6E0wFvcdqHvhj1dYIk",
       "excerpt": "He slammed artificially-made music, saying he’s felt “no pull whatsoever” to try using AI tech Continue reading..."
-    },
-    {
-      "id": "4cf207e4e3498eb28fb089a43a25809e8e705d1f",
-      "title": "Prime Minister Andy Burnham says he \"does not support\" personal use drug decriminalisation",
-      "link": "https://mixmag.net/read/prime-minister-andy-burnham-says-he-does-not-support-drug-decriminalisation-for-personal-use-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drugs.jpg?fit=cover&width=660&s=RvAs0dnP39Ujep2wBF8TscbJ1xzJFhbEg7lSGPBuVVA",
-      "excerpt": "The PM has insisted that he does not agree with the policy, which is supported by the SNP in efforts to reduce drug-related deaths in Scotland Continue reading..."
-    },
-    {
-      "id": "a4cab5494c629142dc1dd7bf1ef8a97ca3ec868a",
-      "title": "Massive Attack’s Robert Del Naja arrested again for supporting Palestine Action",
-      "link": "https://mixmag.net/read/massive-attack-robert-del-naja-arrested-again-supporting-palestine-action-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/del-naja-palestine-arrest.jpg?fit=cover&width=660&s=CjkvpJ_2RtuYmWVwxIV356is0gnh7u7l9Ympn1i__KE",
-      "excerpt": "The musician was arrested during a pro-Palestine protest outside the Labour Party&#039;s annual conference in Liverpool over the weekend Continue reading..."
     }
   ]
 }
