@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T09:44:41.017Z",
-  "total": 90,
+  "generatedAt": "2026-10-26T16:30:47.370Z",
+  "total": 110,
   "sources": [
     {
       "id": "decoded",
@@ -18,15 +18,69 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [
+  "errors": [],
+  "items": [
     {
+      "id": "59ecb64de41e8ac5b787d03d33cc375c098cb94f",
+      "title": "Disonancia",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lori-meyers-disonancia/",
+      "published": "2026-10-26T12:13:36.000Z",
+      "publishedTs": 1793016816000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/lori-meyers-disonancia.jpg",
+      "excerpt": "Cinco años después de “Espacios infinitos” (21), los granadinos Lori Meyers regresan con “Disonancia”, un disco que busca recuperar la... La entrada Disonancia se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "6fea9334bf0a6c3c21e3102e1bf185ef742359a8",
+      "title": "Un desierto de amapolas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-amenaza-constante-un-desierto-de-amapolas/",
+      "published": "2026-10-26T11:57:52.000Z",
+      "publishedTs": 1793015872000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Amenaza-Constante-Un-desierto-de-amapolas-1.jpg",
+      "excerpt": "¿Es posible tocar tantos palos en un álbum de debut y que en todos luzcas como maestro de la baraja?... La entrada Un desierto de amapolas se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "201851c311f6893099d07cf1d94295ed0c026124",
+      "title": "Cookie Happened",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/eels-cookie-happened/",
+      "published": "2026-10-26T09:46:16.000Z",
+      "publishedTs": 1793007976000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/eels-Cookie-Happened.jpg",
+      "excerpt": "Cierta inercia parece acompañar la carrera seguida por Mark Oliver Everett al frente de Eels a lo largo de la... La entrada Cookie Happened se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ea5486cdae4e5373358c1ff46b337f6d8c710405",
+      "title": "Want the Underground to Survive? Buy a Ticket!",
+      "link": "https://www.decodedmagazine.com/want-the-underground-to-survive-buy-a-ticket/",
+      "published": "2026-10-26T09:06:42.000Z",
+      "publishedTs": 1793005602000,
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
-      "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
-    }
-  ],
-  "items": [
+      "categories": [
+        "Feature Articles",
+        "Featured",
+        "Clubbing",
+        "Festival",
+        "raving",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/02/nightclub.jpg",
+      "excerpt": "A party only works if people commit to it. If you want the nights you love to keep happening, buy your ticket early, share the event and bring your friends. In 93, I put on my first rave in an abandoned house in the countryside. We hande…"
+    },
     {
       "id": "0e16727b1fc16751be8b3389d109167a6fc9a552",
       "title": "Plato Combinado",
@@ -57,7 +111,7 @@
     },
     {
       "id": "d15972296cb73a6bef2ae99fc27e876f7f80dd89",
-      "title": "Razones para ser mejores",
+      "title": "Razones para ser mejor",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/nepal-nepal-razones/",
       "published": "2026-10-25T11:41:03.000Z",
       "publishedTs": 1792928463000,
@@ -67,7 +121,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/nepal-nepal-razones.jpg",
-      "excerpt": "El trío madrileño presenta “Razones para ser mejor”, su primer trabajo de larga duración. Un disco que llega casi dos... La entrada Razones para ser mejores se publicó primero en MondoSonoro ."
+      "excerpt": "El trío madrileño presenta “Razones para ser mejor”, su primer trabajo de larga duración. Un disco que llega casi dos... La entrada Razones para ser mejor se publicó primero en MondoSonoro ."
     },
     {
       "id": "e76cc0aeb913abdc4263f026f98b5b4023f9f698",
@@ -112,6 +166,73 @@
       "excerpt": "Hemos vivido suficientes debuts prometedores como para saber que el entusiasmo por el advenedizo puede convertirse rápidamente en una insalvable... La entrada Reseñamos &#039;Nada puede hacernos mal&#039;, el debut en largo de La 126 se …"
     },
     {
+      "id": "3b7bd76cc97f4c9a9919e7809766e39c5e99d8d6",
+      "title": "DJing in spatial sound: inside Ambrio’s Spatial Performance Mixer",
+      "link": "https://www.decodedmagazine.com/ambrio-spm-djing-spatial-sound/",
+      "published": "2026-10-23T11:12:02.000Z",
+      "publishedTs": 1792753922000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Tech News",
+        "Ambrio Spatial Performance Mixer",
+        "Belgium",
+        "DJ Mixer",
+        "music production",
+        "Spatial Audio",
+        "tech"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/44680_492.jpg?resize=810%2C810",
+      "excerpt": "This week at Amsterdam Dance Event, a Brussels startup is asking DJs to work with a parameter most club mixers ignore. The Ambrio Spatial Performance Mixer , or SPM, is in use at Currents, FIBER’s spatial sound programme at Loods6, on Fr…"
+    },
+    {
+      "id": "53be066b6b5474f2ebb8fcd57d6233211bd41bd4",
+      "title": "Five on Friday with Fabrizio Mammarella",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-fabrizio-mammarella/",
+      "published": "2026-10-23T10:21:19.000Z",
+      "publishedTs": 1792750879000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Electro",
+        "Fabrizio Mammarella",
+        "Five on Friday",
+        "House Music",
+        "Italy",
+        "Tech House",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Fabrizio-Mammarella-02-scaled.jpeg",
+      "excerpt": "Fabrizio Mammarella is an Italian selector, producer and label owner whose work reaches into many corners of electronic music. His discography includes dozens of club tracks and remixes, alongside collaborations with Lauer as Black Spuma…"
+    },
+    {
+      "id": "f2bb71c5f5add08f8f4f2420486d5739f8629691",
+      "title": "What will it take to get Australian music back on Australian playlists?",
+      "link": "https://www.decodedmagazine.com/australians-listening-less-australian-music-apra-amcos-2026/",
+      "published": "2026-10-23T09:58:41.000Z",
+      "publishedTs": 1792749521000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "APRA AMCOS",
+        "Australian music",
+        "Australian music industry",
+        "commercial radio",
+        "community radio",
+        "Dance Music",
+        "Electronic music",
+        "Flume",
+        "live music venues",
+        "local content quotas",
+        "local music"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/APRA-AMCOS-resized-logo.webp",
+      "excerpt": "APRA AMCOS turned 100 this year and marked the occasion with the strongest financial result in its history. Group revenue reached $857.4 million and international income passed $100 million for the first time. Over the same year, Ninajir…"
+    },
+    {
       "id": "21a38935bb6a64011ddfece85a1e0b49f484e369",
       "title": "Gara",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/gara-duran-gara/",
@@ -126,46 +247,374 @@
       "excerpt": "Cuesta concentrarse para escribir sobre un disco que contiene \"Mi Loco Cowboy\". Cuando Gara Durán lanzó dicho tema, o más... La entrada Gara se publicó primero en MondoSonoro ."
     },
     {
-      "id": "d5543b12b8b1b7bf174422ee712b76daa332629a",
-      "title": "Una extraña fuerza",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/airbag-una-extrana-fuerza/",
-      "published": "2026-10-22T06:05:21.000Z",
-      "publishedTs": 1792649121000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
+      "id": "a582eac093084d446601bc59da21f68f28fd9204",
+      "title": "LEGO and Daft Punk announce partnership, with Alive tour pyramid set on the way",
+      "link": "https://www.decodedmagazine.com/lego-daft-punk-partnership-alive-pyramid-set/",
+      "published": "2026-10-23T07:15:02.000Z",
+      "publishedTs": 1792739702000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
       "categories": [
-        "Discos"
+        "News",
+        "Alive 2007",
+        "Daft Punk",
+        "Discovery",
+        "Electronica",
+        "Human After All",
+        "LEGO",
+        "LEGO Ideas",
+        "lifestyle",
+        "Techno",
+        "Thomas Bangalter"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Airbag-Una-extrana-fuerza.jpg",
-      "excerpt": "Los malagueños Airbag nos trolearon al publicar como primer adelanto “Gira de despedida”. Más de uno interpretó ese sencillo como... La entrada Una extraña fuerza se publicó primero en MondoSonoro ."
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/daft-punk-and-lego.png",
+      "excerpt": "The LEGO Group has announced a partnership with Daft Punk that will bring the duo&#8217;s robot personas into the LEGO universe across products, content and brand experiences. The collaboration was introduced with a short film in which t…"
     },
     {
-      "id": "75a093de4f2441288867abd12100176e534c532d",
-      "title": "All Inside Aquarium",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bodega-all-inside-aquarium/",
-      "published": "2026-10-22T05:36:25.000Z",
-      "publishedTs": 1792647385000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
+      "id": "cf908d0bb98263f264af184d8620b07643f36c35",
+      "title": "Throwback Thursday: Revisiting The Prodigy’s Debut Album, Experience",
+      "link": "https://www.decodedmagazine.com/throwback-thursday-the-prodigy-experience/",
+      "published": "2026-10-22T02:56:06.000Z",
+      "publishedTs": 1792637766000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
       "categories": [
-        "Discos"
+        "Featured",
+        "Throwback Thursdays",
+        "Big Beat",
+        "Charly",
+        "Criminal Justice Bill",
+        "DnB",
+        "Essex",
+        "Experience",
+        "Liam Howlett",
+        "Maxim",
+        "Rave",
+        "Techno"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Bodega-All-Inside-Aquarium.jpg",
-      "excerpt": "Después de pasearse por diversos terrenos musicales –desde lo bailable a lo post-punk, pasando por el art rock–, los neoyorquinos... La entrada All Inside Aquarium se publicó primero en MondoSonoro ."
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/the-prodigy-experience-vinyl-sleeve.jpg?resize=515%2C388",
+      "excerpt": "The Prodigy are closing out what has been billed as the biggest year of their 35-year career. Their April arena tour of the UK and Ireland sold out faster than any they have played, Warriors Dance returned to the Milton Keynes Bowl in Au…"
     },
     {
-      "id": "c5e9afcd3e8c58d7ebc896d6446ae4c188acbfe5",
-      "title": "Fever",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/graveyard-fever/",
-      "published": "2026-10-22T05:27:06.000Z",
-      "publishedTs": 1792646826000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
+      "id": "9d13f7150e32e1ef05ccb615c90d3df1d090a75e",
+      "title": "Technics introduces the SL-1210MKX",
+      "link": "https://www.decodedmagazine.com/technics-sl-1210mkx/",
+      "published": "2026-10-21T12:09:52.000Z",
+      "publishedTs": 1792584592000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
       "categories": [
-        "Discos"
+        "Featured",
+        "News",
+        "DJ",
+        "technics",
+        "Technics SL-1210MKX",
+        "Turntable",
+        "Vinyl"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/graveyard-fever.jpg",
-      "excerpt": "Tres años después del taciturno y sosegado \"6\", la banda sueca vuelve a subir el volumen de los amplificadores para... La entrada Fever se publicó primero en MondoSonoro ."
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Technics-SL-1210MKX-product-image-5-rights-unlimited.png?resize=810%2C810",
+      "excerpt": "Technics today announces the SL-1210MKX, a new professional direct-drive DJ turntable that opens the next chapter in the long and influential history of the SL-1200 Series. Developed with direct input from working DJs and Sound Engineers…"
+    },
+    {
+      "id": "bb98c11f425f2467e7545d1b1d5aba166bef23cc",
+      "title": "BICEP Live Confirmed as First Act for 2027 Series at Old Royal Naval College",
+      "link": "https://www.decodedmagazine.com/bicep-live-confirmed-as-first-act-for-2027-series-at-old-royal-naval-college/",
+      "published": "2026-10-21T11:52:17.000Z",
+      "publishedTs": 1792583537000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Bicep",
+        "Greenwhich",
+        "Labrynth",
+        "Old Royal Naval College",
+        "River Thames"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-092216.png?resize=480%2C602",
+      "excerpt": "Labyrinth on the Thames today announces BICEP as the first act for its 2027 series, with the Belfast-born, London-based duo bringing their acclaimed BICEP LIVE show to the beautiful and historic riverside setting of the Old Royal Naval C…"
+    },
+    {
+      "id": "8ba74f630db0699ec5db79015aa086fec989c2df",
+      "title": "Simon Dunmore acquires majority shareholding in House Culture",
+      "link": "https://www.decodedmagazine.com/simon-dunmore-acquires-majority-shareholding-in-house-culture/",
+      "published": "2026-10-21T08:17:17.000Z",
+      "publishedTs": 1792570637000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Industry",
+        "Defected Records",
+        "House Music",
+        "News",
+        "Simon Dummore"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Simon-Dunmore-Defected-Records.jpg",
+      "excerpt": "Simon Dunmore, founder of Defected Records, has acquired a majority shareholding in House Culture, the independent music platform that began as an Instagram page created by two friends who met on a London dancefloor. The acquisition brin…"
+    },
+    {
+      "id": "6aa0799e79c147248bf898faa2f5c2c3501ee891",
+      "title": "Underworld bring Crazy, Crazy to Australia in March 2027",
+      "link": "https://www.decodedmagazine.com/underworld-crazy-crazy-australian-tour-2027/",
+      "published": "2026-10-21T02:57:46.000Z",
+      "publishedTs": 1792551466000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "Adelaide",
+        "Brisbane",
+        "Crazy Crazy",
+        "Fortitude Music Hall",
+        "Golden Plains",
+        "Hordern Pavilion",
+        "Karl Hyde",
+        "Melbourne",
+        "PICA",
+        "Rick Smith",
+        "Sydney"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/underworld-crazy-crazy.jpg?resize=810%2C1013",
+      "excerpt": "Underworld return to Australia in March 2027 with Crazy, Crazy, the show Rick Smith and Karl Hyde premiered at New York&#8217;s Knockdown Center in September. There is no support act, just two Underworld sets across the night, opening at…"
+    },
+    {
+      "id": "0e72394acb4c0b2a1bee6f8398b98f820be812b9",
+      "title": "Danny Howells drops Godsexy via Selador",
+      "link": "https://www.decodedmagazine.com/danny-howells-drops-godsexy-via-selador/",
+      "published": "2026-10-20T11:36:14.000Z",
+      "publishedTs": 1792496174000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Danny Howells",
+        "Progressive House",
+        "Selador Records"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/danny-howells-god-sexy-selador.jpg",
+      "excerpt": "Danny Howells &#8211; Godsexy &#8211; Selador by Danny Howells You can’t keep a good man down. Or should that be, you can’t keep a God man shut down? Er, no it shouldn’t actually – we don’t need to resort to painful punnery or woeful wor…"
+    },
+    {
+      "id": "9ce5036fe16d6e08cb50bbbe2344e386f816aede",
+      "title": "Balance Croatia drops 2027 line-up for award-winning Tisno festival & announces final ticket release details",
+      "link": "https://www.decodedmagazine.com/balance-croatia-drops-2027-line-up/",
+      "published": "2026-10-20T09:12:22.000Z",
+      "publishedTs": 1792487542000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Featured",
+        "Festivals",
+        "Balance Festival",
+        "Bedrock",
+        "Croatia",
+        "Festival",
+        "House Music",
+        "Progressive House",
+        "Selador",
+        "SUDBEAT",
+        "The Soundgarden"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/BC27_lineupsocials_900x1200.jpg?resize=768%2C1024",
+      "excerpt": "The award-winning Balance Croatia has today unveiled its incredible 2027 festival line-up, plus details for the final release tickets, going on sale next Thursday, 29th October. Balance Croatia’s&nbsp;incredible line-up and magical atmos…"
+    },
+    {
+      "id": "ecdbe8eb379832b6b819389a6e5075e8b32e235d",
+      "title": "Blade Runner 2099: The Rain Returns",
+      "link": "https://www.decodedmagazine.com/blade-runner-2099-the-rain-returns/",
+      "published": "2026-10-20T07:25:58.000Z",
+      "publishedTs": 1792481158000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Lifestyle",
+        "Amazon Prime",
+        "Bladerunner",
+        "Hans zimmer",
+        "Sci-Fi",
+        "Series",
+        "Vangelis"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/images-8.jpg",
+      "excerpt": "Earlier this month, a second trailor for Blade Runner 2099 was unveiled at New York Comic Con, and the conversation has not let up since. All eight episodes arrive on Prime Video on 25 November, and for anyone who has spent decades insid…"
+    },
+    {
+      "id": "3840676e32ecc4bb0b2d84266350f2746076f12c",
+      "title": "Hackney is getting a new club",
+      "link": "https://www.decodedmagazine.com/hackney-is-getting-a-new-club/",
+      "published": "2026-10-20T06:54:29.000Z",
+      "publishedTs": 1792479269000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Empire Tavern",
+        "Funk",
+        "Hackney",
+        "House",
+        "London",
+        "Mare Street"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/disco-ball-600x800.jpg.webp?resize=600%2C800",
+      "excerpt": "A new weekly club concept is coming to Hackney. From Saturday 7 November, the Empire Tavern on Mare Street will become Club Empire every Friday and Saturday night, with a programme centred on underground music and local talent. At 10pm a…"
+    },
+    {
+      "id": "18795abd3f6bf340f66bb6b5132ba41f38c971aa",
+      "title": "Hot Chip announce new album & UK tour",
+      "link": "https://www.decodedmagazine.com/hot-chip-announce-new-album-uk-tour/",
+      "published": "2026-10-20T06:25:23.000Z",
+      "publishedTs": 1792477523000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "Electronica",
+        "Hot Chip",
+        "Indie electronic"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/unnamed-35.jpg?resize=810%2C810",
+      "excerpt": "Hot Chip announce their ninth album A Long Way From Kansas &#8211; set for release on January 8 th , it finds the band at their most primal. Paraphrasing The Wizard of Oz , the title is a nod towards Dorothy, her dog and the distance the…"
+    },
+    {
+      "id": "da7b3d73e7a7ba1e08fbcf8f94d045a8cf9c590e",
+      "title": "Nothing Headphone (1) Pro review: An incredible collaboration with Metropolis Studios",
+      "link": "https://www.decodedmagazine.com/nothing-headphone-1-pro-review/",
+      "published": "2026-10-19T09:05:54.000Z",
+      "publishedTs": 1792400754000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Tech Reviews",
+        "Headphone (1) Pro",
+        "Headphones",
+        "Metropolis Studios",
+        "Noise Cancelling",
+        "Nothing",
+        "Spatial Audio"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Headphone-1-Pro_Black_Right-Side.jpg?resize=810%2C456",
+      "excerpt": "Not a lot of people I’ve come across know the name Nothing. It’s almost a hushed word, one of those things where those who know, know, and I like that in a brand, but this London company, founded by Carl Pei in 2020, now describes itself…"
+    },
+    {
+      "id": "31d1709217d89a5f670e65dc4c4ab8fb4a527b52",
+      "title": "Booka Shade Announce Movements 20th Anniversary Digital and Vinyl Editions",
+      "link": "https://www.decodedmagazine.com/booka-shade-announce-movements-20th-anniversary-digital-and-vinyl-editions/",
+      "published": "2026-10-19T07:13:52.000Z",
+      "publishedTs": 1792394032000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Booka Shade",
+        "deep house",
+        "Electronica",
+        "House Music",
+        "Movements",
+        "Remixes",
+        "Techno",
+        "Vinyl"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Booka-Shade.webp",
+      "excerpt": "Twenty years after its original release, Booka Shade&#8217;s Movements returns on 27 November 2026 as Movements (20th Anniversary Super Deluxe Edition) , a 36-track digital collection, and Movements (20th Anniversary Edition) on 2LP. Dig…"
+    },
+    {
+      "id": "36e25514deec300bed30b96ba9d22ee842905ce8",
+      "title": "30 Years Of Freerange Volume Five",
+      "link": "https://www.decodedmagazine.com/30-years-of-freerange-volume-five/",
+      "published": "2026-10-19T06:50:10.000Z",
+      "publishedTs": 1792392610000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "deep house",
+        "Freerange Records",
+        "Jimpster",
+        "Soulful House",
+        "Vinyl"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/freerange-vol-5.jpg",
+      "excerpt": "30 Years Of Freerange Volume Five by Freerange Records “And that’s a wrap… the fifth and final volume of our 30 Years Of Freerange series is here! It’s been pretty special hearing all these new tracks come together over the last year, an…"
+    },
+    {
+      "id": "bb872e96950cd0decf7a0d9067aefddc67466346",
+      "title": "Review – Ministry of Sound at 35: The Club That Wrote The Manual",
+      "link": "https://www.decodedmagazine.com/review-ministry-of-sound-at-35-the-club-that-wrote-the-manual/",
+      "published": "2026-10-16T09:03:27.000Z",
+      "publishedTs": 1792141407000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Event Reviews",
+        "Andy C",
+        "Kerri Chandler",
+        "Loco Dice",
+        "London",
+        "Ministry of Sound",
+        "Moodymann",
+        "Review"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/KERRI-MOODY_-44.jpg?resize=684%2C1024",
+      "excerpt": "Elephant &amp; Castle has undergone major redevelopment in the last few years, but Ministry of Sound has proudly stood the test of time. Earlier this month, the club celebrated 35 years with a weekend-long birthday bash and a lineup that…"
+    },
+    {
+      "id": "f19e9194b813832a93555a052bcd3d4e22d17168",
+      "title": "Five on Friday with Luke Vandenberg",
+      "link": "https://www.decodedmagazine.com/five-on-friday-with-luke-vandenberg/",
+      "published": "2026-10-16T06:53:56.000Z",
+      "publishedTs": 1792133636000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Uncategorized",
+        "Disco",
+        "Electronica",
+        "House Music",
+        "Luke Vandenberg",
+        "Margate Arts Club",
+        "The Red Telephone"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Luke-Vandenberg-scaled-e1792133449594.jpg",
+      "excerpt": "This week we welcome Luke Vandenberg to our Five on Friday series, the founder and director of Margate Arts Club , an independent arts and music venue established in Cliftonville in 2015, his work centres on the development of inclusive,…"
+    },
+    {
+      "id": "829d7fd8bf7d308648542922440b2b29019f8929",
+      "title": "The changing face of The Warehouse Project: 20 years of WHP flyers",
+      "link": "https://mixmag.net/feature/the-warehouse-project-20-years-flyers-manchester-milestone-interview-founders",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
+    },
+    {
+      "id": "0445c985ee5c79e3bed396fbf6beabdca2c3e25f",
+      "title": "Nicki Minaj responds to White House Press Secretary rumours",
+      "link": "https://mixmag.net/read/nicki-minaj-reacts-to-rumours-of-white-house-press-secretary-role-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/White-House.jpg?fit=cover&width=660&s=8GITpT83NwCv5muusYRw0tZJnZyURdAM8iWpHABWBRU",
+      "excerpt": "The American-Trinidadian rapper made an appearance alongside US President Donald Trump at a mid-term Republican campaign rally in Michigan yesterday Continue reading..."
+    },
+    {
+      "id": "a18bd92a56b0e176124d7b08f209f87cbddc3f98",
+      "title": "1,000-strong illegal warehouse rave shut down by police in Bristol",
+      "link": "https://mixmag.net/read/1-000-strong-illegal-warehouse-rave-shut-down-by-police-in-bristol-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/City-Business-Park.jpg?fit=cover&width=660&s=qLZTSyMyvt1eRVBEc0aTPJ8h-buIwDQpYZNj0WTxrwk",
+      "excerpt": "Police arrived with riot gear and shields to the unlicensed event in Lawrence Hill, which reportedly raged on until Sunday morning Continue reading..."
     },
     {
       "id": "67f3f7785a44903ac2f700a2934067927bfb85fb",
@@ -205,7 +654,7 @@
     },
     {
       "id": "7988ff062e6cbe7c370c5d29a1c84ee06c8c5e04",
-      "title": "“Dance, do drugs and fuck”: In Newcastle, PULSE is leading the hedonistic charge for its lesbian and trans+ community",
+      "title": "In Newcastle, PULSE is leading the hedonistic charge for its lesbian and trans+ community",
       "link": "https://mixmag.net/feature/newcastle-pulse-leading-hedonistic-charge-lesbian-trans-community",
       "published": "",
       "publishedTs": 0,
@@ -344,7 +793,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -572,7 +1021,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -608,7 +1057,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -728,7 +1177,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -776,7 +1225,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1090,42 +1539,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/banksy-statue_2026-09-29-105111_aycg.jpg?fit=cover&width=660&s=P2NfHnpEbK7pWZQcu5--2VGzCO4RDydJ31IGQ437-ZY",
       "excerpt": "The council said it has spent £60,000 safeguarding the statue, which appeared in Central London earlier this year Continue reading..."
-    },
-    {
-      "id": "1452c8a5f103ee062aaf2bba3a1737c5ce69b678",
-      "title": "Apple Music to livestream sets from California's Head Trip Festival",
-      "link": "https://mixmag.net/read/apple-music-livestream-sets-california-head-trip-festival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/head-trip.jpg?fit=cover&width=660&s=M678Dq75I6nG2K0et8daunoxoyQHH8sWX3MrquEVELQ",
-      "excerpt": "Subscribers will be able to hear sets from Skrillex, Four Tet and more across the festival&#039;s two-day run via Apple Music Club Radio next month Continue reading..."
-    },
-    {
-      "id": "52dfb8ec7b281454bf9e2c7667dabfe12d399ac4",
-      "title": "Free like Fiorito: Alfredo's son Jaime reflects on the changing face of Ibiza",
-      "link": "https://mixmag.net/feature/jaime-fiorito-alfredo-ibiza-amnesia-interview-balearic-beat",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "From a childhood spent napping backstage at Amnesia to becoming a Balearic authority in adulthood, Jaime Fiorito has inarguably been shaped by the White Isle. He speaks to Megan Townsend about Ibiza&#039;s cultural shifts, being babysat …"
-    },
-    {
-      "id": "d8c942ad37c20891b31f644d4df90ddda31d1bc3",
-      "title": "Fred again.. on AI-generated music: “I’m not worried about the threat of AI”",
-      "link": "https://mixmag.net/read/fred-again-ai-generated-music-not-worried-about-threat-ai-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-press-shot.jpg?fit=cover&width=660&s=VgdMOvw0D5ykao74Y9C_e3Ibc6E0wFvcdqHvhj1dYIk",
-      "excerpt": "He slammed artificially-made music, saying he’s felt “no pull whatsoever” to try using AI tech Continue reading..."
     }
   ]
 }
