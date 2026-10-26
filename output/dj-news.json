@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:23:25.579Z",
+  "generatedAt": "2026-10-26T09:44:41.017Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,38 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Fetch failed 429 Too Many Requests for https://www.decodedmagazine.com/feed/: <!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n\t<meta charset=\"utf-8\"/>\n\t<title>Site Unavailable</title>\n\t<link rel="
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "0e16727b1fc16751be8b3389d109167a6fc9a552",
+      "title": "Plato Combinado",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/morreo-plato-combinado/",
+      "published": "2026-10-26T07:50:47.000Z",
+      "publishedTs": 1793001047000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/morreo-plato-combinado.jpg",
+      "excerpt": "Con la cabeza metida hasta el cuello en el eterno retorno del pop yeyé y a rebufo de la arqueología... La entrada Plato Combinado se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "54308bbd9ae96932e18117debc039920878ed12c",
+      "title": "Crítica de 'Mientras el Guadalquivir fluye y fluye y fluye' de Viva Belgrado",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/viva-belgrado-mientras-el-guadalquivir/",
+      "published": "2026-10-26T07:35:24.000Z",
+      "publishedTs": 1793000124000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/viva-belgrado-Mientras-el-Guadalquivir.jpg",
+      "excerpt": "Después del aclamado “Cancionero de los cielos” (24) que Viva Belgrado recuerda casi como un accidente feliz, un disco hecho... La entrada Crítica de &#039;Mientras el Guadalquivir fluye y fluye y fluye&#039; de Viva Belgrado se publicó …"
+    },
     {
       "id": "d15972296cb73a6bef2ae99fc27e876f7f80dd89",
       "title": "Razones para ser mejores",
@@ -138,34 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/graveyard-fever.jpg",
       "excerpt": "Tres años después del taciturno y sosegado \"6\", la banda sueca vuelve a subir el volumen de los amplificadores para... La entrada Fever se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "46c1349fb8698645b452a57d689bb6db0791e1b5",
-      "title": "Hope Is A Heavy Thing",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/joy-oladokum-hope-is-a-heavy-thing/",
-      "published": "2026-10-19T07:59:36.000Z",
-      "publishedTs": 1792396776000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Joy-Oladokum-Hope-Is-A-Heavy-Thing.jpg",
-      "excerpt": "A menudo se ha comparado a Joy Oladokum con Tracy Chapman y hay motivos sobrados para ello. No en vano... La entrada Hope Is A Heavy Thing se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "60ecd62d563f766c7b9880e58c8392869d497594",
-      "title": "Second Song",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/neil-young-and-the-chrome-hearts-second-song/",
-      "published": "2026-10-18T18:22:03.000Z",
-      "publishedTs": 1792347723000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Neil-Young-and-the-Chrome-Hearts-Second-Song.jpg",
-      "excerpt": "¿Qué se puede decir de \"Second Song\", el 50º disco en solitario de uno de los mayores gigantes de la... La entrada Second Song se publicó primero en MondoSonoro ."
     },
     {
       "id": "67f3f7785a44903ac2f700a2934067927bfb85fb",
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -776,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
