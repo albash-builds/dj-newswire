@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T01:10:07.293Z",
+  "generatedAt": "2026-10-27T07:20:27.897Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,85 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "198460ae9cbc5e5b1795eca05b8af01f82c8b363",
+      "title": "Just Beyond Endless Mountain",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-tallest-man-on-earth-just-beyond/",
+      "published": "2026-10-27T07:04:11.000Z",
+      "publishedTs": 1793084651000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/the-tallest-man-on-earth-Just-Beyond-Endless-Mountain.jpg",
+      "excerpt": "Hacer mención al nombre real que se oculta tras este proyecto musical, el sueco Kristian Matsson, trasciende en este caso... La entrada Just Beyond Endless Mountain se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f628ab056449833acb4195ba48278b254a866537",
+      "title": "Doomed Lover",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/doomed-lover/",
+      "published": "2026-10-27T07:02:48.000Z",
+      "publishedTs": 1793084568000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Twin-Temple-Doomed-Lover.jpg",
+      "excerpt": "Twin Temple fueron noticia este verano tras anunciar en sus redes sociales que habían sido expulsados de la gira del... La entrada Doomed Lover se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "eed9cdb8bef676dab1ea4f17a90147ffb7097046",
+      "title": "Palace For The People",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/greta-van-fleet-palace-for-the-people/",
+      "published": "2026-10-27T06:48:00.000Z",
+      "publishedTs": 1793083680000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Greta-Van-Fleet-Palace-For-The-People.jpg",
+      "excerpt": "Ya van cuatro discos de Greta Van Fleet y, por favor, es hora de reconocerles algo: su obstinación ante el... La entrada Palace For The People se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4c6c633d5ede14029b073f39c261bc8a35bff362",
+      "title": "ODF as he makes his Dansu Discs debut",
+      "link": "https://www.decodedmagazine.com/odf-as-he-makes-his-dansu-discs-debut/",
+      "published": "2026-10-27T06:46:40.000Z",
+      "publishedTs": 1793083600000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Dansu Discs",
+        "New Music",
+        "ODF"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/ODF.jpg",
+      "excerpt": "Don&#39;t Look Back by ODF Highly anticipated new music from ODF as he makes his Dansu Discs debut with ‘Don’t Look Back’. Built around a driving groove, punchy drums and a hypnotic club focused energy, ‘Don’t Look Back’ brings ODF’s sou…"
+    },
+    {
+      "id": "e8211a16f5b9a7a9fca8aff7cdd75ba40b7d7149",
+      "title": "Sasha & John Digweed Announce 6-Hour Headline Set at Tofte Manor Weekender 2027",
+      "link": "https://www.decodedmagazine.com/sasha-john-digweed-announce-6-hour-headline-set-at-tofte-manor-weekender-2027/",
+      "published": "2026-10-27T05:56:58.000Z",
+      "publishedTs": 1793080618000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Festivals",
+        "UK",
+        "John Digweed",
+        "Progressive House",
+        "Sasha",
+        "Tofte Manor"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-135007.png?resize=453%2C567&ssl=1",
+      "excerpt": "Labyrinth has revealed the first of a series of major announcements for its first ever weekender at Tofte Manor in summer 2027. Marking Labyrinth&#8217;s sixth summer at the venue, it brings must-see acts to an idyllic countryside settin…"
+    },
     {
       "id": "59ecb64de41e8ac5b787d03d33cc375c098cb94f",
       "title": "Disonancia",
@@ -78,7 +157,7 @@
         "raving",
         "Techno"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2021/02/nightclub.jpg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2021/02/nightclub.jpg?resize=1000%2C666&ssl=1",
       "excerpt": "A party only works if people commit to it. If you want the nights you love to keep happening, buy your ticket early, share the event and bring your friends. In 93, I put on my first rave in an abandoned house in the countryside. We hande…"
     },
     {
@@ -138,34 +217,6 @@
       "excerpt": "Podría rellenar diez páginas de esta crítica solo hablando de las circunstancias de este disco y de este artista en... La entrada Live At Carnegie Hall se publicó primero en MondoSonoro ."
     },
     {
-      "id": "00e8e83b5a54db76cfebbd840a8f31ea17f101bf",
-      "title": "D'aquesta aigua no en beuré",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mar-pujol-daquesta-aigua-no-en-beure/",
-      "published": "2026-10-23T16:36:54.000Z",
-      "publishedTs": 1792773414000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Mar-Pujol-D-aquesta-aigua-no-em-beure.jpg",
-      "excerpt": "A mayor reto, mayor son sus prestaciones. Desde la naturalidad de quien no tiene vértigo, Mar Pujol subraya con convicción... La entrada D&#039;aquesta aigua no en beuré se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "51ad77e2f2e114de71df87014ad9ce2e8d28081a",
-      "title": "Reseñamos 'Nada puede hacernos mal', el debut en largo de La 126",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-126-nada-puede-hacernos-mal/",
-      "published": "2026-10-23T16:07:53.000Z",
-      "publishedTs": 1792771673000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/LA-126-Nada-puede-hacernos-mal.jpg",
-      "excerpt": "Hemos vivido suficientes debuts prometedores como para saber que el entusiasmo por el advenedizo puede convertirse rápidamente en una insalvable... La entrada Reseñamos &#039;Nada puede hacernos mal&#039;, el debut en largo de La 126 se …"
-    },
-    {
       "id": "3b7bd76cc97f4c9a9919e7809766e39c5e99d8d6",
       "title": "DJing in spatial sound: inside Ambrio’s Spatial Performance Mixer",
       "link": "https://www.decodedmagazine.com/ambrio-spm-djing-spatial-sound/",
@@ -204,7 +255,7 @@
         "Tech House",
         "The Red Telephone"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Fabrizio-Mammarella-02-scaled.jpeg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Fabrizio-Mammarella-02-scaled.jpeg?resize=800%2C1200&ssl=1",
       "excerpt": "Fabrizio Mammarella is an Italian selector, producer and label owner whose work reaches into many corners of electronic music. His discography includes dozens of club tracks and remixes, alongside collaborations with Lauer as Black Spuma…"
     },
     {
@@ -229,22 +280,8 @@
         "local content quotas",
         "local music"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/APRA-AMCOS-resized-logo.webp",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/APRA-AMCOS-resized-logo.webp?resize=600%2C400&ssl=1",
       "excerpt": "APRA AMCOS turned 100 this year and marked the occasion with the strongest financial result in its history. Group revenue reached $857.4 million and international income passed $100 million for the first time. Over the same year, Ninajir…"
-    },
-    {
-      "id": "21a38935bb6a64011ddfece85a1e0b49f484e369",
-      "title": "Gara",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/gara-duran-gara/",
-      "published": "2026-10-23T08:13:45.000Z",
-      "publishedTs": 1792743225000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/gara-duran-gara.jpg",
-      "excerpt": "Cuesta concentrarse para escribir sobre un disco que contiene \"Mi Loco Cowboy\". Cuando Gara Durán lanzó dicho tema, o más... La entrada Gara se publicó primero en MondoSonoro ."
     },
     {
       "id": "a582eac093084d446601bc59da21f68f28fd9204",
@@ -267,7 +304,7 @@
         "Techno",
         "Thomas Bangalter"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/daft-punk-and-lego.png",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/daft-punk-and-lego.png?resize=429%2C241&ssl=1",
       "excerpt": "The LEGO Group has announced a partnership with Daft Punk that will bring the duo&#8217;s robot personas into the LEGO universe across products, content and brand experiences. The collaboration was introduced with a short film in which t…"
     },
     {
@@ -349,7 +386,7 @@
         "News",
         "Simon Dummore"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Simon-Dunmore-Defected-Records.jpg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Simon-Dunmore-Defected-Records.jpg?resize=1200%2C800&ssl=1",
       "excerpt": "Simon Dunmore, founder of Defected Records, has acquired a majority shareholding in House Culture, the independent music platform that began as an Instagram page created by two friends who met on a London dancefloor. The acquisition brin…"
     },
     {
@@ -391,7 +428,7 @@
         "Progressive House",
         "Selador Records"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/danny-howells-god-sexy-selador.jpg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/danny-howells-god-sexy-selador.jpg?resize=1200%2C1200&ssl=1",
       "excerpt": "Danny Howells &#8211; Godsexy &#8211; Selador by Danny Howells You can’t keep a good man down. Or should that be, you can’t keep a God man shut down? Er, no it shouldn’t actually – we don’t need to resort to painful punnery or woeful wor…"
     },
     {
@@ -436,7 +473,7 @@
         "Series",
         "Vangelis"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/images-8.jpg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/images-8.jpg?resize=693%2C288&ssl=1",
       "excerpt": "Earlier this month, a second trailor for Blade Runner 2099 was unveiled at New York Comic Con, and the conversation has not let up since. All eight episodes arrive on Prime Video on 25 November, and for anyone who has spent decades insid…"
     },
     {
@@ -517,7 +554,7 @@
         "Techno",
         "Vinyl"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Booka-Shade.webp",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Booka-Shade.webp?resize=1000%2C1000&ssl=1",
       "excerpt": "Twenty years after its original release, Booka Shade&#8217;s Movements returns on 27 November 2026 as Movements (20th Anniversary Super Deluxe Edition) , a 36-track digital collection, and Movements (20th Anniversary Edition) on 2LP. Dig…"
     },
     {
@@ -536,49 +573,8 @@
         "Soulful House",
         "Vinyl"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/freerange-vol-5.jpg",
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/freerange-vol-5.jpg?resize=1200%2C1200&ssl=1",
       "excerpt": "30 Years Of Freerange Volume Five by Freerange Records “And that’s a wrap… the fifth and final volume of our 30 Years Of Freerange series is here! It’s been pretty special hearing all these new tracks come together over the last year, an…"
-    },
-    {
-      "id": "bb872e96950cd0decf7a0d9067aefddc67466346",
-      "title": "Review – Ministry of Sound at 35: The Club That Wrote The Manual",
-      "link": "https://www.decodedmagazine.com/review-ministry-of-sound-at-35-the-club-that-wrote-the-manual/",
-      "published": "2026-10-16T09:03:27.000Z",
-      "publishedTs": 1792141407000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Event Reviews",
-        "Andy C",
-        "Kerri Chandler",
-        "Loco Dice",
-        "London",
-        "Ministry of Sound",
-        "Moodymann",
-        "Review"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/KERRI-MOODY_-44.jpg?resize=684%2C1024",
-      "excerpt": "Elephant &amp; Castle has undergone major redevelopment in the last few years, but Ministry of Sound has proudly stood the test of time. Earlier this month, the club celebrated 35 years with a weekend-long birthday bash and a lineup that…"
-    },
-    {
-      "id": "f19e9194b813832a93555a052bcd3d4e22d17168",
-      "title": "Five on Friday with Luke Vandenberg",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-luke-vandenberg/",
-      "published": "2026-10-16T06:53:56.000Z",
-      "publishedTs": 1792133636000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Uncategorized",
-        "Disco",
-        "Electronica",
-        "House Music",
-        "Luke Vandenberg",
-        "Margate Arts Club",
-        "The Red Telephone"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Luke-Vandenberg-scaled-e1792133449594.jpg",
-      "excerpt": "This week we welcome Luke Vandenberg to our Five on Friday series, the founder and director of Margate Arts Club , an independent arts and music venue established in Cliftonville in 2015, his work centres on the development of inclusive,…"
     },
     {
       "id": "829d7fd8bf7d308648542922440b2b29019f8929",
@@ -661,7 +657,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -769,7 +765,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
+      "image": "",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -817,7 +813,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
+      "image": "",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1201,7 +1197,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1465,7 +1461,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
+      "image": "",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     },
     {
