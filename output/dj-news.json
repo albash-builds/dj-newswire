@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T04:10:45.974Z",
+  "generatedAt": "2026-10-28T10:59:13.876Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,98 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "4f3f4aed8d1dc030778cd7bd92845f7cd8e4cd3e",
+      "title": "Ecch-Ode: Perspectives in Sound brings Dave Angel and Drivetrain back to Barcelona",
+      "link": "https://www.decodedmagazine.com/ecch-ode-perspectives-in-sound-brings-dave-angel-and-drivetrain-back-to-barcelona/",
+      "published": "2026-10-28T10:34:59.000Z",
+      "publishedTs": 1793183699000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Europe",
+        "Barcelona",
+        "Dave Angel",
+        "Ecch-Ode",
+        "House Music",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/07/Dave-Angel-scaled-e1785491614902.jpg",
+      "excerpt": "A new quarterly series launches at Village Underground Barcelona on Saturday 28 November in collaboration with Casa Drassanes, returning two of techno’s foundational figures to the city for the first time in over a decade. Barcelona is r…"
+    },
+    {
+      "id": "f58cb794cd7ef384ae1ec44f728c817599bcee05",
+      "title": "Getting There",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/getting-there-eli-paperboy/",
+      "published": "2026-10-28T09:52:02.000Z",
+      "publishedTs": 1793181122000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/EliPaperboyReedCD.jpg",
+      "excerpt": "No siempre basta con amar profundamente una música para mantener intacto el interés durante veinte años. Y menos cuando tu... La entrada Getting There se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bef8abffc528f0560f214347242baa9cbf6a8c57",
+      "title": "Reseñamos “Fudge”, el quinto álbum de Michael Kiwanuka",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/fudge-michael-kiwanuka/",
+      "published": "2026-10-28T08:45:48.000Z",
+      "publishedTs": 1793177148000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MichaelKiwanukaCD.jpg",
+      "excerpt": "El quinto disco de Michael Kiwanuka, “Fudge”, es uno muy especial en su carrera, no tanto porque sea el primero... La entrada Reseñamos “Fudge”, el quinto álbum de Michael Kiwanuka se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "bb20da3fc7673e922374d540385a8b997369d8f0",
+      "title": "What is Behringer up to? Open hardware, vibecoding and the $150 sampler",
+      "link": "https://www.decodedmagazine.com/what-is-behringer-up-to-open-hardware-vibecoding-and-the-150-sampler/",
+      "published": "2026-10-28T07:34:19.000Z",
+      "publishedTs": 1793172859000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Tech Reviews",
+        "AI",
+        "Behringer",
+        "DJ",
+        "Open Source",
+        "Opinion",
+        "Producer",
+        "Tech News",
+        "Thoughts"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Bold-Strategy-Cotton-GIF-by-MOODMAN-1.gif?resize=360%2C222&ssl=1",
+      "excerpt": "Behringer wants to sell you the hardware and let AI write the rest. A genuine shift in who controls music technology, or the fastest route yet to an expensive fish tank ornament? If you follow Behringer on social media, you will have not…"
+    },
+    {
+      "id": "522d2daa45006174694b99f5f4e75d0eded5213f",
+      "title": "Guy J returns to Sydney with Return to Rio for a 4 hour set at Ivy",
+      "link": "https://www.decodedmagazine.com/guy-j-returns-to-sydney-with-return-to-rio-for-a-4-hour-set-at-ivy/",
+      "published": "2026-10-28T05:19:19.000Z",
+      "publishedTs": 1793164759000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Australia",
+        "deep house",
+        "Guy J",
+        "House Music",
+        "Ivy",
+        "Progressive House",
+        "Return to Rio",
+        "Sydney",
+        "Techno"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/GU48-GUY-J-Cover-No-Text.png",
+      "excerpt": "Return to Rio will bring Guy J back to Sydney for an extended four-hour set at ivy on Sunday 21 February 2027, from 3pm to 10pm (AEDT). It is his first Sydney appearance in two years, and it follows the crew&#8217;s recent announcement t…"
+    },
     {
       "id": "84ab6f0ccb1c6f333c6e5108ec7659fc52139fe4",
       "title": "Token Records just announced Flux by Kr!z",
@@ -204,34 +296,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/viva-belgrado-Mientras-el-Guadalquivir.jpg",
       "excerpt": "Después del aclamado “Cancionero de los cielos” (24) que Viva Belgrado recuerda casi como un accidente feliz, un disco hecho... La entrada Crítica de &#039;Mientras el Guadalquivir fluye y fluye y fluye&#039; de Viva Belgrado se publicó …"
-    },
-    {
-      "id": "d15972296cb73a6bef2ae99fc27e876f7f80dd89",
-      "title": "Razones para ser mejor",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nepal-nepal-razones/",
-      "published": "2026-10-25T11:41:03.000Z",
-      "publishedTs": 1792928463000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/nepal-nepal-razones.jpg",
-      "excerpt": "El trío madrileño presenta “Razones para ser mejor”, su primer trabajo de larga duración. Un disco que llega casi dos... La entrada Razones para ser mejor se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "e76cc0aeb913abdc4263f026f98b5b4023f9f698",
-      "title": "Live At Carnegie Hall",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/cameron-winter-live-at-carnegie-hall/",
-      "published": "2026-10-25T09:23:33.000Z",
-      "publishedTs": 1792920213000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Cameron-Winter-Live-At-Carnegie-Hall-.jpg",
-      "excerpt": "Podría rellenar diez páginas de esta crítica solo hablando de las circunstancias de este disco y de este artista en... La entrada Live At Carnegie Hall se publicó primero en MondoSonoro ."
     },
     {
       "id": "3b7bd76cc97f4c9a9919e7809766e39c5e99d8d6",
@@ -514,67 +578,6 @@
       "excerpt": "A new weekly club concept is coming to Hackney. From Saturday 7 November, the Empire Tavern on Mare Street will become Club Empire every Friday and Saturday night, with a programme centred on underground music and local talent. At 10pm a…"
     },
     {
-      "id": "18795abd3f6bf340f66bb6b5132ba41f38c971aa",
-      "title": "Hot Chip announce new album & UK tour",
-      "link": "https://www.decodedmagazine.com/hot-chip-announce-new-album-uk-tour/",
-      "published": "2026-10-20T06:25:23.000Z",
-      "publishedTs": 1792477523000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Electronica",
-        "Hot Chip",
-        "Indie electronic"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/unnamed-35.jpg?resize=810%2C810",
-      "excerpt": "Hot Chip announce their ninth album A Long Way From Kansas &#8211; set for release on January 8 th , it finds the band at their most primal. Paraphrasing The Wizard of Oz , the title is a nod towards Dorothy, her dog and the distance the…"
-    },
-    {
-      "id": "da7b3d73e7a7ba1e08fbcf8f94d045a8cf9c590e",
-      "title": "Nothing Headphone (1) Pro review: An incredible collaboration with Metropolis Studios",
-      "link": "https://www.decodedmagazine.com/nothing-headphone-1-pro-review/",
-      "published": "2026-10-19T09:05:54.000Z",
-      "publishedTs": 1792400754000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "Headphone (1) Pro",
-        "Headphones",
-        "Metropolis Studios",
-        "Noise Cancelling",
-        "Nothing",
-        "Spatial Audio"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Headphone-1-Pro_Black_Right-Side.jpg?resize=810%2C456",
-      "excerpt": "Not a lot of people I’ve come across know the name Nothing. It’s almost a hushed word, one of those things where those who know, know, and I like that in a brand, but this London company, founded by Carl Pei in 2020, now describes itself…"
-    },
-    {
-      "id": "31d1709217d89a5f670e65dc4c4ab8fb4a527b52",
-      "title": "Booka Shade Announce Movements 20th Anniversary Digital and Vinyl Editions",
-      "link": "https://www.decodedmagazine.com/booka-shade-announce-movements-20th-anniversary-digital-and-vinyl-editions/",
-      "published": "2026-10-19T07:13:52.000Z",
-      "publishedTs": 1792394032000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Booka Shade",
-        "deep house",
-        "Electronica",
-        "House Music",
-        "Movements",
-        "Remixes",
-        "Techno",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Booka-Shade.webp?resize=1000%2C1000&ssl=1",
-      "excerpt": "Twenty years after its original release, Booka Shade&#8217;s Movements returns on 27 November 2026 as Movements (20th Anniversary Super Deluxe Edition) , a 36-track digital collection, and Movements (20th Anniversary Edition) on 2LP. Dig…"
-    },
-    {
       "id": "5bc4f00c241156ea843f1f9495e1a68c52ea0523",
       "title": "Hackney Council launches \"Night Map\" of borough-wide nightlife amenities",
       "link": "https://mixmag.net/read/hackney-council-launches-night-map-amenities-borough-news",
@@ -751,7 +754,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
+      "image": "",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -883,7 +886,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
+      "image": "",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1147,7 +1150,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
+      "image": "",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -1267,7 +1270,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1327,7 +1330,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
+      "image": "",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -1387,7 +1390,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
+      "image": "",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -1423,7 +1426,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
+      "image": "",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     },
     {
@@ -1471,7 +1474,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Shimza-Co_Pacha-Ibiza-Hero-Image-1.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=eh89GW3G6KKtw9BAyd1_Iou-rDrZIZk7_wHSg7b3bsc",
+      "image": "",
       "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     },
     {
@@ -1531,7 +1534,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/wink-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=rxxBsIHH9eJ_YKtqKLPTmo5zU5DbwEbZ_f-Wo5CCDFY",
       "excerpt": "The campaign aims to rescue and restore blurry, low-quality photos and videos from clubbers, DJs and promoters, with rewards up for grabs Continue reading..."
     }
   ]
