@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T02:06:42.579Z",
+  "generatedAt": "2026-10-29T09:23:50.867Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,66 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "917ec465bffcaffe7bcf19c35603efa42a819508",
+      "title": "El Final de Occidente",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-final-declive/",
+      "published": "2026-10-29T07:37:25.000Z",
+      "publishedTs": 1793259445000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/DecliveCDWEB.jpg",
+      "excerpt": "Sensacional debut largo, el del quinteto valenciano Declive. Se nota que han ido madurando su lenguaje (los dos EP’s previos)... La entrada El Final de Occidente se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "032dc03e64b1ed47147364bbbafaf29692c15e18",
+      "title": "Insomniac and ADE announce Map Point Summit for Las Vegas in 2027",
+      "link": "https://www.decodedmagazine.com/insomniac-ade-map-point-summit-las-vegas-2027/",
+      "published": "2026-10-29T03:21:20.000Z",
+      "publishedTs": 1793244080000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "Music Industry",
+        "North America and Canada",
+        "Conference",
+        "Insomniac",
+        "Las Vegas",
+        "Map Point Sunnit",
+        "music production"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/221026_Felix_PasqualeRotella_TomDoms_7303-1024x683.jpg?resize=810%2C540&ssl=1",
+      "excerpt": "Insomniac has announced Map Point Summit, a new electronic music and rave culture conference created in collaboration with Amsterdam Dance Event (ADE). Debuting May 2027 at Virgin Hotels Las Vegas between the Dusk (14-16 May) and Dawn (2…"
+    },
+    {
+      "id": "07271b7f8293b8f084fea878c7e308955cda56b2",
+      "title": "B2B Studio Lets DJs Play Back to Back Across Cities in Real Time",
+      "link": "https://www.decodedmagazine.com/b2b-studio-dj-back-to-back-real-time/",
+      "published": "2026-10-29T02:55:08.000Z",
+      "publishedTs": 1793242508000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Featured",
+        "News",
+        "Allen &amp; Heath",
+        "Alpha Theta",
+        "B2B",
+        "B2B Studio",
+        "back to back",
+        "CDJ",
+        "CDJ-3000X",
+        "DJ practice",
+        "DJ software",
+        "DJ technology"
+      ],
+      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/unit-v10-987x1024.webp?resize=810%2C840&ssl=1",
+      "excerpt": "Anyone who has spent time in a DJ booth knows that the back to back set is its own kind of conversation. Two selectors share one mixer, each reading the other and the room, and steer the night somewhere neither would have taken it alone.…"
+    },
     {
       "id": "833e2a86e1505d6ac4ab95947e037a302b7f5f76",
       "title": "Light and Shadow",
@@ -284,20 +344,6 @@
       "excerpt": "A party only works if people commit to it. If you want the nights you love to keep happening, buy your ticket early, share the event and bring your friends. In 93, I put on my first rave in an abandoned house in the countryside. We hande…"
     },
     {
-      "id": "0e16727b1fc16751be8b3389d109167a6fc9a552",
-      "title": "Plato Combinado",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/morreo-plato-combinado/",
-      "published": "2026-10-26T07:50:47.000Z",
-      "publishedTs": 1793001047000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/morreo-plato-combinado.jpg",
-      "excerpt": "Con la cabeza metida hasta el cuello en el eterno retorno del pop yeyé y a rebufo de la arqueología... La entrada Plato Combinado se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "3b7bd76cc97f4c9a9919e7809766e39c5e99d8d6",
       "title": "DJing in spatial sound: inside Ambrio’s Spatial Performance Mixer",
       "link": "https://www.decodedmagazine.com/ambrio-spm-djing-spatial-sound/",
@@ -536,46 +582,6 @@
       ],
       "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/BC27_lineupsocials_900x1200.jpg?resize=768%2C1024",
       "excerpt": "The award-winning Balance Croatia has today unveiled its incredible 2027 festival line-up, plus details for the final release tickets, going on sale next Thursday, 29th October. Balance Croatia’s&nbsp;incredible line-up and magical atmos…"
-    },
-    {
-      "id": "ecdbe8eb379832b6b819389a6e5075e8b32e235d",
-      "title": "Blade Runner 2099: The Rain Returns",
-      "link": "https://www.decodedmagazine.com/blade-runner-2099-the-rain-returns/",
-      "published": "2026-10-20T07:25:58.000Z",
-      "publishedTs": 1792481158000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Lifestyle",
-        "Amazon Prime",
-        "Bladerunner",
-        "Hans zimmer",
-        "Sci-Fi",
-        "Series",
-        "Vangelis"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/images-8.jpg?resize=693%2C288&ssl=1",
-      "excerpt": "Earlier this month, a second trailor for Blade Runner 2099 was unveiled at New York Comic Con, and the conversation has not let up since. All eight episodes arrive on Prime Video on 25 November, and for anyone who has spent decades insid…"
-    },
-    {
-      "id": "3840676e32ecc4bb0b2d84266350f2746076f12c",
-      "title": "Hackney is getting a new club",
-      "link": "https://www.decodedmagazine.com/hackney-is-getting-a-new-club/",
-      "published": "2026-10-20T06:54:29.000Z",
-      "publishedTs": 1792479269000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Empire Tavern",
-        "Funk",
-        "Hackney",
-        "House",
-        "London",
-        "Mare Street"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/disco-ball-600x800.jpg.webp?resize=600%2C800",
-      "excerpt": "A new weekly club concept is coming to Hackney. From Saturday 7 November, the Empire Tavern on Mare Street will become Club Empire every Friday and Saturday night, with a programme centred on underground music and local talent. At 10pm a…"
     },
     {
       "id": "fd893653924cc016e852cb7b88d7e285f754007c",
@@ -898,7 +904,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -1174,7 +1180,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1330,7 +1336,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1378,7 +1384,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
