@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:36:58.056Z",
+  "generatedAt": "2026-10-29T21:32:32.825Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,26 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "7b67ead645d6245c816fb28a88a0ab4cd5264dab",
+      "title": "Review – Funk D’Void – Diabla (Paul Nolan Remixes)",
+      "link": "https://www.decodedmagazine.com/review-funk-dvoid-diabla-paul-nolan-remixes/",
+      "published": "2026-10-29T18:38:48.000Z",
+      "publishedTs": 1793299128000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Armada Music",
+        "Funk D Void",
+        "New Music",
+        "Paul Nolan",
+        "Progressive House",
+        "Review"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Funk-dboid-diabla-paul-nolan-remix.jpg",
+      "excerpt": "Diabla (Paul James Nolan Remixes) by Funk D&#39;Void Few records capture the exuberant spirit of early-2000s club culture quite like Funk D’Void’s Diabla . When it landed in 2001, it blurred the lines between techno, house and progressiv…"
+    },
     {
       "id": "b9f44249839cbe7d049b38aa9b03bfd97e7849ee",
       "title": "Lekuko Bakarrak",
@@ -560,29 +580,16 @@
       "excerpt": "Simon Dunmore, founder of Defected Records, has acquired a majority shareholding in House Culture, the independent music platform that began as an Instagram page created by two friends who met on a London dancefloor. The acquisition brin…"
     },
     {
-      "id": "6aa0799e79c147248bf898faa2f5c2c3501ee891",
-      "title": "Underworld bring Crazy, Crazy to Australia in March 2027",
-      "link": "https://www.decodedmagazine.com/underworld-crazy-crazy-australian-tour-2027/",
-      "published": "2026-10-21T02:57:46.000Z",
-      "publishedTs": 1792551466000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "Adelaide",
-        "Brisbane",
-        "Crazy Crazy",
-        "Fortitude Music Hall",
-        "Golden Plains",
-        "Hordern Pavilion",
-        "Karl Hyde",
-        "Melbourne",
-        "PICA",
-        "Rick Smith",
-        "Sydney"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/underworld-crazy-crazy.jpg?resize=810%2C1013",
-      "excerpt": "Underworld return to Australia in March 2027 with Crazy, Crazy, the show Rick Smith and Karl Hyde premiered at New York&#8217;s Knockdown Center in September. There is no support act, just two Underworld sets across the night, opening at…"
+      "id": "c8d4e82fd702243b01f43125b8be7d1c29b63730",
+      "title": "Wales’ Madruga Festival will no longer go ahead after 2027",
+      "link": "https://mixmag.net/read/wales-madruga-festival-will-no-longer-go-ahead-after-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/madruga-festival.jpg?fit=cover&width=660&s=TR73lHdDwvikQMoUeWGrTk7lJYzf3QCNcis-vg-1FdI",
+      "excerpt": "The Hay-on-Wye festival will shut up shop next summer after four years Continue reading..."
     },
     {
       "id": "7eaa6f2d67751d51b5016a93f9f3b7548c630e71",
@@ -869,7 +876,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -941,7 +948,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
+      "image": "",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -1001,7 +1008,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1169,7 +1176,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
+      "image": "",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -1229,7 +1236,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1433,7 +1440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1493,7 +1500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
+      "image": "",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -1505,7 +1512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_SILVA_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=EB2gCW-8fl-dN6VigjKcE0VQqyl6lMqPHOeq9nqFFk8",
+      "image": "",
       "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
     },
     {
@@ -1531,18 +1538,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/olympia-london.jpg?fit=cover&width=660&s=KyvNh6WtE_aVRN-Zo9RsNScIwmxVGeIUUyXQYG_CzyY",
       "excerpt": "The 7,000-capacity venue was scheduled to host shows from Interpol, Bloc Party, and more Continue reading..."
-    },
-    {
-      "id": "82de221f1979769efc0fa80680e8a56658ad1a2a",
-      "title": "Who's playing The Mixmag Lab?",
-      "link": "https://mixmag.net/feature/lab-ldn",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
-      "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
     }
   ]
 }
