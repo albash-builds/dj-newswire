@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:23:50.867Z",
+  "generatedAt": "2026-10-29T16:36:58.056Z",
   "total": 110,
   "sources": [
     {
@@ -20,6 +20,77 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "b9f44249839cbe7d049b38aa9b03bfd97e7849ee",
+      "title": "Lekuko Bakarrak",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/somak-lekuko-bakarrak/",
+      "published": "2026-10-29T16:02:22.000Z",
+      "publishedTs": 1793289742000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Somak.jpg",
+      "excerpt": "Doinu gozoz osatutako estreinako diskoa plazaratu du aurten Somak talde bizkaitarrak. Konplikazio handirik gabe, baina xehetasun ugari dituen diskoa da... La entrada Lekuko Bakarrak se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "184e50c37db20216d4d28ae5ea28f834e9605abd",
+      "title": "Reseñamos “No Bad Memories”, viaje musical por la memoria de The Avalanches",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/no-bad-memories-avalanches/",
+      "published": "2026-10-29T12:54:21.000Z",
+      "publishedTs": 1793278461000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/TheAvalanchesCD.jpg",
+      "excerpt": "Menuda racha que llevamos. Uno que ya no es un niño, acaba de sobrevivir a películas como “Buddy” o el... La entrada Reseñamos “No Bad Memories”, viaje musical por la memoria de The Avalanches se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ed429ad766162eadb9588ecde8e69d2f3db94137",
+      "title": "Apple Music Club Live presents Carl Cox, Overmono, Andy C, 2 Many DJs and Chloé Caillet Live from The Warehouse Project this Autumn",
+      "link": "https://www.decodedmagazine.com/apple-music-club-live/",
+      "published": "2026-10-29T10:04:41.000Z",
+      "publishedTs": 1793268281000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "UK",
+        "2manydjs",
+        "Andy C",
+        "Apple Music",
+        "Carl Cox",
+        "DnB",
+        "Electronica",
+        "House Music",
+        "Music Industry",
+        "Overmono",
+        "Techno",
+        "Warehouse Project"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Apple-Music-scaled.png",
+      "excerpt": "Apple Music announces the first of their Club Live shows from The Warehouse Project. Taking place simultaneously at the iconic Manchester venue and broadcast globally on Apple Music Club Radio, no subscription is required. Club Live will…"
+    },
+    {
+      "id": "ad245c5fb049edd01ca6fc6848d7054c8a48c7d7",
+      "title": "Everything But The Girl return with a new album",
+      "link": "https://www.decodedmagazine.com/everything-but-the-girl-return-with-a-new-album/",
+      "published": "2026-10-29T09:38:19.000Z",
+      "publishedTs": 1793266699000,
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "categories": [
+        "Music Premieres",
+        "Ben Watt",
+        "Everything But The Girl",
+        "House Music",
+        "Tracey Thorn"
+      ],
+      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Everything-But-The-Girl-Photo-Credit-Edward-Bishop-scaled.jpg",
+      "excerpt": "Everything But The Girl &#8211; the best-selling UK duo formed in 1982 by singer-writer-musicians Tracey Thorn and Ben Watt &#8211; have announced their highly anticipated new album Blue Reservoir , out 19 February 2027 on Buzzin’ Fly, t…"
+    },
     {
       "id": "917ec465bffcaffe7bcf19c35603efa42a819508",
       "title": "El Final de Occidente",
@@ -129,7 +200,7 @@
     },
     {
       "id": "bef8abffc528f0560f214347242baa9cbf6a8c57",
-      "title": "Reseñamos “Fudge”, el quinto álbum de Michael Kiwanuka",
+      "title": "Fudge",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/fudge-michael-kiwanuka/",
       "published": "2026-10-28T08:45:48.000Z",
       "publishedTs": 1793177148000,
@@ -139,7 +210,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MichaelKiwanukaCD.jpg",
-      "excerpt": "El quinto disco de Michael Kiwanuka, “Fudge”, es uno muy especial en su carrera, no tanto porque sea el primero... La entrada Reseñamos “Fudge”, el quinto álbum de Michael Kiwanuka se publicó primero en MondoSonoro ."
+      "excerpt": "El quinto disco de Michael Kiwanuka, “Fudge”, es uno muy especial en su carrera, no tanto porque sea el primero... La entrada Fudge se publicó primero en MondoSonoro ."
     },
     {
       "id": "bb20da3fc7673e922374d540385a8b997369d8f0",
@@ -295,34 +366,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/lori-meyers-disonancia.jpg",
       "excerpt": "Cinco años después de “Espacios infinitos” (21), los granadinos Lori Meyers regresan con “Disonancia”, un disco que busca recuperar la... La entrada Disonancia se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "6fea9334bf0a6c3c21e3102e1bf185ef742359a8",
-      "title": "Un desierto de amapolas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-amenaza-constante-un-desierto-de-amapolas/",
-      "published": "2026-10-26T11:57:52.000Z",
-      "publishedTs": 1793015872000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/La-Amenaza-Constante-Un-desierto-de-amapolas-1.jpg",
-      "excerpt": "¿Es posible tocar tantos palos en un álbum de debut y que en todos luzcas como maestro de la baraja?... La entrada Un desierto de amapolas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "201851c311f6893099d07cf1d94295ed0c026124",
-      "title": "Cookie Happened",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/eels-cookie-happened/",
-      "published": "2026-10-26T09:46:16.000Z",
-      "publishedTs": 1793007976000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/eels-Cookie-Happened.jpg",
-      "excerpt": "Cierta inercia parece acompañar la carrera seguida por Mark Oliver Everett al frente de Eels a lo largo de la... La entrada Cookie Happened se publicó primero en MondoSonoro ."
     },
     {
       "id": "ea5486cdae4e5373358c1ff46b337f6d8c710405",
@@ -542,46 +585,52 @@
       "excerpt": "Underworld return to Australia in March 2027 with Crazy, Crazy, the show Rick Smith and Karl Hyde premiered at New York&#8217;s Knockdown Center in September. There is no support act, just two Underworld sets across the night, opening at…"
     },
     {
-      "id": "0e72394acb4c0b2a1bee6f8398b98f820be812b9",
-      "title": "Danny Howells drops Godsexy via Selador",
-      "link": "https://www.decodedmagazine.com/danny-howells-drops-godsexy-via-selador/",
-      "published": "2026-10-20T11:36:14.000Z",
-      "publishedTs": 1792496174000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Danny Howells",
-        "Progressive House",
-        "Selador Records"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/danny-howells-god-sexy-selador.jpg?resize=1200%2C1200&ssl=1",
-      "excerpt": "Danny Howells &#8211; Godsexy &#8211; Selador by Danny Howells You can’t keep a good man down. Or should that be, you can’t keep a God man shut down? Er, no it shouldn’t actually – we don’t need to resort to painful punnery or woeful wor…"
+      "id": "7eaa6f2d67751d51b5016a93f9f3b7548c630e71",
+      "title": "Justice share first-ever Gesaffelstein collab from Grand Theft Auto VI score album",
+      "link": "https://mixmag.net/read/justice-share-details-grand-theft-auto-vi-original-score-album-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/justice-score.png?fit=cover&width=660&s=TsEF6b9MYFIjiik1CVZoPnjTC4di-i6ypcYYS7Sc3zo",
+      "excerpt": "The new collaborative single is out now, which will feature in Rockstar Games&#039; highly-anticipated video game upon release next month Continue reading..."
     },
     {
-      "id": "9ce5036fe16d6e08cb50bbbe2344e386f816aede",
-      "title": "Balance Croatia drops 2027 line-up for award-winning Tisno festival & announces final ticket release details",
-      "link": "https://www.decodedmagazine.com/balance-croatia-drops-2027-line-up/",
-      "published": "2026-10-20T09:12:22.000Z",
-      "publishedTs": 1792487542000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Featured",
-        "Festivals",
-        "Balance Festival",
-        "Bedrock",
-        "Croatia",
-        "Festival",
-        "House Music",
-        "Progressive House",
-        "Selador",
-        "SUDBEAT",
-        "The Soundgarden"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/BC27_lineupsocials_900x1200.jpg?resize=768%2C1024",
-      "excerpt": "The award-winning Balance Croatia has today unveiled its incredible 2027 festival line-up, plus details for the final release tickets, going on sale next Thursday, 29th October. Balance Croatia’s&nbsp;incredible line-up and magical atmos…"
+      "id": "716163dcdb99b8fdb12abd17a053b43de150973d",
+      "title": "EXIT Festival to return to Serbia following Vučić election defeat",
+      "link": "https://mixmag.net/read/exit-festival-return-serbia-following-vucic-election-defeat-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/EXIT-Festival.png?fit=cover&width=660&s=oJMy7WBs9jBd8cO0-BGd1SwtxwDwvO8Sc_R5kNR3GSE",
+      "excerpt": "Director Dušan Kovačević said the festival could return to its home nation in 2028, or even if &quot;something is possible in 2027&quot; Continue reading..."
+    },
+    {
+      "id": "e5ac0643d46dd720c2065afc2c6edb7abe4496db",
+      "title": "Massive Attack’s Robert Del Naja soundtracks new Gaza-focused documentary",
+      "link": "https://mixmag.net/read/massive-attack-robert-del-naja-soundtracks-new-gaza-focused-documentary-palestine-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/robert-del-naja.jpg?fit=cover&width=660&s=jVkAVAgUv8KpJtnal82vtPG2B6glyNxfs59f-rSGF_Y",
+      "excerpt": "The 13-track score, which is curated by Del Naja, also features music Kneecap Continue reading..."
+    },
+    {
+      "id": "00281115017f240b57f968bebbf3f6f20bde5655",
+      "title": "Ministry of Sound’s long-standing soundsystem is going up for auction",
+      "link": "https://mixmag.net/read/ministry-of-sound-long-standing-soundsystem-auction-wax-poetics-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ministry-soundystem.jpg?fit=cover&width=660&s=qGhQOCS0_hpemZWkGsO4Sm3N3y5IM2ZE4TDil8en_aI",
+      "excerpt": "The legendary system was retired following a refurbishment of the venue in January Continue reading..."
     },
     {
       "id": "fd893653924cc016e852cb7b88d7e285f754007c",
@@ -820,7 +869,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
+      "image": "",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -892,7 +941,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -1120,7 +1169,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -1336,7 +1385,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1348,7 +1397,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1384,7 +1433,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1396,7 +1445,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
       "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     },
     {
@@ -1444,7 +1493,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_SILVABUMPA_WEB-2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1gs7MuKCo1E2Uaf2GnWrFLKQ2I3IwkDamPOQ4CgXK38",
       "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
     },
     {
@@ -1492,56 +1541,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/LabLondon_Whosplaying_08.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=vb0tq_9JKMmSN-QQRqbdPlUED77JiG2qnFYstG67zQI",
       "excerpt": "See who&#039;s playing The Mixmag Lab, our world famous party - and come through Continue reading..."
-    },
-    {
-      "id": "8bb965c12f82d342ffcdb3d34da0222a4aca1eb8",
-      "title": "New music on our radar this week: Blackhaine, horsegiirL, DJ HEARTSTRING",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-blackhaine-horsegiirl-dj-heartstring-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/release-round-up-oct-4.jpg?fit=cover&width=660&s=PGnNgDlE0k2DQPiV3n8h3D6ygW9TDIvMZ90S7sP17ls",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "3da3988b822eef41a444a1e7dbc26b374e903d76",
-      "title": "Festival line-ups you might have missed: Roskilde, Outlook Origins, Terminal V",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-roskilde-outlook-origins-terminal-v-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Roskilde-credit-Malthe-Ivarsson.jpg?fit=cover&width=660&s=lID1okXZY1C74iNRDiHUtMk4Pbx3dgXrJDj6EgW_PEE",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "45bec9dca30c6b70f4df7c331a87885002fe988e",
-      "title": "Fundraiser launched for Berlin record store Pleasure Patterns following break-in",
-      "link": "https://mixmag.net/read/fundraiser-launched-berlin-record-store-pleasure-patterns-following-break-in-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pleasure-patterns.jpg?fit=cover&width=660&s=ldoQKCL2esMvZqaMp6gyWSzgRSkRV8JixsWfeZxmf4c",
-      "excerpt": "Store owners said that half of their equipment was stolen by burglars Continue reading..."
-    },
-    {
-      "id": "8a7283f33daf9f89e701586529c2896a3bf757b4",
-      "title": "How Shimza’s Pacha residency is helping African dance music take root in Ibiza",
-      "link": "https://mixmag.net/feature/shimza-co-ibiza-pacha-closing-party-afro-house-tyla-review",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Shimza has long been a superstar in South Africa, but as his profile grows abroad, he feels like he&#039;s &quot;building from scratch&quot;. This year&#039;s major Ibiza residency marks a new career landmark. Bringing peers along with h…"
     }
   ]
 }
