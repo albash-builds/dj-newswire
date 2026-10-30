@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T08:05:38.032Z",
-  "total": 110,
+  "generatedAt": "2026-10-30T15:33:26.980Z",
+  "total": 90,
   "sources": [
     {
       "id": "decoded",
@@ -18,46 +18,28 @@
       "url": "https://www.mondosonoro.com/criticas/discos-musica/feed/"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "sourceId": "decoded",
+      "sourceName": "Decoded magazine",
+      "url": "https://www.decodedmagazine.com/feed/",
+      "error": "fetch failed"
+    }
+  ],
   "items": [
     {
-      "id": "92e4048062950281327da71001ec8e6abc61f354",
-      "title": "Five on Friday with Bunny Deville",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-bunny-deville/",
-      "published": "2026-10-30T06:39:49.000Z",
-      "publishedTs": 1793342389000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
+      "id": "f7e3cdf68d5def000f5c214bd5fe9853a7a5094d",
+      "title": "Crítica de 'Variaciones Pombo', el nuevo disco de Hidrogenesse",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/hidrogenesse-variaciones-pombo/",
+      "published": "2026-10-30T13:20:34.000Z",
+      "publishedTs": 1793366434000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
       "categories": [
-        "Music Premieres",
-        "acid",
-        "Bunny Deville",
-        "House Music",
-        "Tech House",
-        "Techno"
+        "Discos"
       ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Bunny-Deville-Press-Picture-scaled-e1793339836717.jpeg",
-      "excerpt": "This week&#8217;s selector is a relative new comer, UK based Bunny Deville , known for dirty leftfield house, electro, tech house, techno and acid, held together less by genre than by mood: dark, hypnotic and patient, with the odd record…"
-    },
-    {
-      "id": "7b67ead645d6245c816fb28a88a0ab4cd5264dab",
-      "title": "Review – Funk D’Void – Diabla (Paul Nolan Remixes)",
-      "link": "https://www.decodedmagazine.com/review-funk-dvoid-diabla-paul-nolan-remixes/",
-      "published": "2026-10-29T18:38:48.000Z",
-      "publishedTs": 1793299128000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Armada Music",
-        "Funk D Void",
-        "New Music",
-        "Paul Nolan",
-        "Progressive House",
-        "Review"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Funk-dboid-diabla-paul-nolan-remix.jpg",
-      "excerpt": "Diabla (Paul James Nolan Remixes) by Funk D&#39;Void Few records capture the exuberant spirit of early-2000s club culture quite like Funk D’Void’s Diabla . When it landed in 2001, it blurred the lines between techno, house and progressiv…"
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Hidrogenesse-variaciones-pombo.jpg",
+      "excerpt": "Si Serrat tuvo a Machado y Morente hizo suyo a Lorca, a Hidrogenesse le correspondía hacer lo propio con Álvaro... La entrada Crítica de &#039;Variaciones Pombo&#039;, el nuevo disco de Hidrogenesse se publicó primero en MondoSonoro ."
     },
     {
       "id": "b9f44249839cbe7d049b38aa9b03bfd97e7849ee",
@@ -75,7 +57,7 @@
     },
     {
       "id": "184e50c37db20216d4d28ae5ea28f834e9605abd",
-      "title": "Reseñamos “No Bad Memories”, viaje musical por la memoria de The Avalanches",
+      "title": "No Bad Memories",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/no-bad-memories-avalanches/",
       "published": "2026-10-29T12:54:21.000Z",
       "publishedTs": 1793278461000,
@@ -85,50 +67,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/TheAvalanchesCD.jpg",
-      "excerpt": "Menuda racha que llevamos. Uno que ya no es un niño, acaba de sobrevivir a películas como “Buddy” o el... La entrada Reseñamos “No Bad Memories”, viaje musical por la memoria de The Avalanches se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "ed429ad766162eadb9588ecde8e69d2f3db94137",
-      "title": "Apple Music Club Live presents Carl Cox, Overmono, Andy C, 2 Many DJs and Chloé Caillet Live from The Warehouse Project this Autumn",
-      "link": "https://www.decodedmagazine.com/apple-music-club-live/",
-      "published": "2026-10-29T10:04:41.000Z",
-      "publishedTs": 1793268281000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "2manydjs",
-        "Andy C",
-        "Apple Music",
-        "Carl Cox",
-        "DnB",
-        "Electronica",
-        "House Music",
-        "Music Industry",
-        "Overmono",
-        "Techno",
-        "Warehouse Project"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Apple-Music-scaled.png",
-      "excerpt": "Apple Music announces the first of their Club Live shows from The Warehouse Project. Taking place simultaneously at the iconic Manchester venue and broadcast globally on Apple Music Club Radio, no subscription is required. Club Live will…"
-    },
-    {
-      "id": "ad245c5fb049edd01ca6fc6848d7054c8a48c7d7",
-      "title": "Everything But The Girl return with a new album",
-      "link": "https://www.decodedmagazine.com/everything-but-the-girl-return-with-a-new-album/",
-      "published": "2026-10-29T09:38:19.000Z",
-      "publishedTs": 1793266699000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Ben Watt",
-        "Everything But The Girl",
-        "House Music",
-        "Tracey Thorn"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Everything-But-The-Girl-Photo-Credit-Edward-Bishop-scaled.jpg",
-      "excerpt": "Everything But The Girl &#8211; the best-selling UK duo formed in 1982 by singer-writer-musicians Tracey Thorn and Ben Watt &#8211; have announced their highly anticipated new album Blue Reservoir , out 19 February 2027 on Buzzin’ Fly, t…"
+      "excerpt": "Menuda racha que llevamos. Uno que ya no es un niño, acaba de sobrevivir a películas como “Buddy” o el... La entrada No Bad Memories se publicó primero en MondoSonoro ."
     },
     {
       "id": "917ec465bffcaffe7bcf19c35603efa42a819508",
@@ -145,52 +84,6 @@
       "excerpt": "Sensacional debut largo, el del quinteto valenciano Declive. Se nota que han ido madurando su lenguaje (los dos EP’s previos)... La entrada El Final de Occidente se publicó primero en MondoSonoro ."
     },
     {
-      "id": "032dc03e64b1ed47147364bbbafaf29692c15e18",
-      "title": "Insomniac and ADE announce Map Point Summit for Las Vegas in 2027",
-      "link": "https://www.decodedmagazine.com/insomniac-ade-map-point-summit-las-vegas-2027/",
-      "published": "2026-10-29T03:21:20.000Z",
-      "publishedTs": 1793244080000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Music Industry",
-        "North America and Canada",
-        "Conference",
-        "Insomniac",
-        "Las Vegas",
-        "Map Point Sunnit",
-        "music production"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/221026_Felix_PasqualeRotella_TomDoms_7303-1024x683.jpg?resize=810%2C540&ssl=1",
-      "excerpt": "Insomniac has announced Map Point Summit, a new electronic music and rave culture conference created in collaboration with Amsterdam Dance Event (ADE). Debuting May 2027 at Virgin Hotels Las Vegas between the Dusk (14-16 May) and Dawn (2…"
-    },
-    {
-      "id": "07271b7f8293b8f084fea878c7e308955cda56b2",
-      "title": "B2B Studio Lets DJs Play Back to Back Across Cities in Real Time",
-      "link": "https://www.decodedmagazine.com/b2b-studio-dj-back-to-back-real-time/",
-      "published": "2026-10-29T02:55:08.000Z",
-      "publishedTs": 1793242508000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "Allen &amp; Heath",
-        "Alpha Theta",
-        "B2B",
-        "B2B Studio",
-        "back to back",
-        "CDJ",
-        "CDJ-3000X",
-        "DJ practice",
-        "DJ software",
-        "DJ technology"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/unit-v10-987x1024.webp?resize=810%2C840&ssl=1",
-      "excerpt": "Anyone who has spent time in a DJ booth knows that the back to back set is its own kind of conversation. Two selectors share one mixer, each reading the other and the room, and steer the night somewhere neither would have taken it alone.…"
-    },
-    {
       "id": "833e2a86e1505d6ac4ab95947e037a302b7f5f76",
       "title": "Light and Shadow",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/light-and-shadow-saturna/",
@@ -203,25 +96,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/SaturnaCD.jpg",
       "excerpt": "El sexto álbum de Saturna confirma que la banda barcelonesa ha encontrado una manera propia de manejar el enorme legado... La entrada Light and Shadow se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "4f3f4aed8d1dc030778cd7bd92845f7cd8e4cd3e",
-      "title": "Ecch-Ode: Perspectives in Sound brings Dave Angel and Drivetrain back to Barcelona",
-      "link": "https://www.decodedmagazine.com/ecch-ode-perspectives-in-sound-brings-dave-angel-and-drivetrain-back-to-barcelona/",
-      "published": "2026-10-28T10:34:59.000Z",
-      "publishedTs": 1793183699000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Europe",
-        "Barcelona",
-        "Dave Angel",
-        "Ecch-Ode",
-        "House Music",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/07/Dave-Angel-scaled-e1785491614902.jpg",
-      "excerpt": "A new quarterly series launches at Village Underground Barcelona on Saturday 28 November in collaboration with Casa Drassanes, returning two of techno’s foundational figures to the city for the first time in over a decade. Barcelona is r…"
     },
     {
       "id": "f58cb794cd7ef384ae1ec44f728c817599bcee05",
@@ -250,68 +124,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MichaelKiwanukaCD.jpg",
       "excerpt": "El quinto disco de Michael Kiwanuka, “Fudge”, es uno muy especial en su carrera, no tanto porque sea el primero... La entrada Fudge se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bb20da3fc7673e922374d540385a8b997369d8f0",
-      "title": "What is Behringer up to? Open hardware, vibecoding and the $150 sampler",
-      "link": "https://www.decodedmagazine.com/what-is-behringer-up-to-open-hardware-vibecoding-and-the-150-sampler/",
-      "published": "2026-10-28T07:34:19.000Z",
-      "publishedTs": 1793172859000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech Reviews",
-        "AI",
-        "Behringer",
-        "DJ",
-        "Open Source",
-        "Opinion",
-        "Producer",
-        "Tech News",
-        "Thoughts"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Bold-Strategy-Cotton-GIF-by-MOODMAN-1.gif?resize=360%2C222&ssl=1",
-      "excerpt": "Behringer wants to sell you the hardware and let AI write the rest. A genuine shift in who controls music technology, or the fastest route yet to an expensive fish tank ornament? If you follow Behringer on social media, you will have not…"
-    },
-    {
-      "id": "522d2daa45006174694b99f5f4e75d0eded5213f",
-      "title": "Guy J returns to Sydney with Return to Rio for a 4 hour set at Ivy",
-      "link": "https://www.decodedmagazine.com/guy-j-returns-to-sydney-with-return-to-rio-for-a-4-hour-set-at-ivy/",
-      "published": "2026-10-28T05:19:19.000Z",
-      "publishedTs": 1793164759000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "deep house",
-        "Guy J",
-        "House Music",
-        "Ivy",
-        "Progressive House",
-        "Return to Rio",
-        "Sydney",
-        "Techno"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2025/09/GU48-GUY-J-Cover-No-Text.png",
-      "excerpt": "Return to Rio will bring Guy J back to Sydney for an extended four-hour set at ivy on Sunday 21 February 2027, from 3pm to 10pm (AEDT). It is his first Sydney appearance in two years, and it follows the crew&#8217;s recent announcement t…"
-    },
-    {
-      "id": "84ab6f0ccb1c6f333c6e5108ec7659fc52139fe4",
-      "title": "Token Records just announced Flux by Kr!z",
-      "link": "https://www.decodedmagazine.com/token-records-just-announced-flux-by-krz/",
-      "published": "2026-10-27T21:58:49.000Z",
-      "publishedTs": 1793138329000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Kr!z",
-        "Techno",
-        "Token Records"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/Kriz.jpg",
-      "excerpt": "Flux by Kr!z Kr!z returns with ‘Flux’, a four-track EP that continues his exploration of minimalism and how much can be drawn from rhythm and dissonant melody. The title track opens the EP with a scattered arpeggiated sequence that gradu…"
     },
     {
       "id": "198460ae9cbc5e5b1795eca05b8af01f82c8b363",
@@ -356,229 +168,52 @@
       "excerpt": "Ya van cuatro discos de Greta Van Fleet y, por favor, es hora de reconocerles algo: su obstinación ante el... La entrada Palace For The People se publicó primero en MondoSonoro ."
     },
     {
-      "id": "4c6c633d5ede14029b073f39c261bc8a35bff362",
-      "title": "ODF as he makes his Dansu Discs debut",
-      "link": "https://www.decodedmagazine.com/odf-as-he-makes-his-dansu-discs-debut/",
-      "published": "2026-10-27T06:46:40.000Z",
-      "publishedTs": 1793083600000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Dansu Discs",
-        "New Music",
-        "ODF"
-      ],
-      "image": "https://www.decodedmagazine.com/wp-content/uploads/2026/10/ODF.jpg",
-      "excerpt": "Don&#39;t Look Back by ODF Highly anticipated new music from ODF as he makes his Dansu Discs debut with ‘Don’t Look Back’. Built around a driving groove, punchy drums and a hypnotic club focused energy, ‘Don’t Look Back’ brings ODF’s sou…"
+      "id": "3beaa90a0e82aac9802c48e448e5fb5acbc655dd",
+      "title": "“Good practice” guide launched for new and independent music promoters",
+      "link": "https://mixmag.net/read/good-practice-guide-launched-new-independent-music-promoters-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/promoters-good-practice.jpg?fit=cover&width=660&s=UAyJM3DoCQ8rEirZxbKaM4LIxTfgVw1cctz0UsGIVss",
+      "excerpt": "The guide, which has been created by AFEM, lays out ethical approaches to ticketing, marketing, event insurance and more Continue reading..."
     },
     {
-      "id": "e8211a16f5b9a7a9fca8aff7cdd75ba40b7d7149",
-      "title": "Sasha & John Digweed Announce 6-Hour Headline Set at Tofte Manor Weekender 2027",
-      "link": "https://www.decodedmagazine.com/sasha-john-digweed-announce-6-hour-headline-set-at-tofte-manor-weekender-2027/",
-      "published": "2026-10-27T05:56:58.000Z",
-      "publishedTs": 1793080618000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Festivals",
-        "UK",
-        "John Digweed",
-        "Progressive House",
-        "Sasha",
-        "Tofte Manor"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-135007.png?resize=453%2C567&ssl=1",
-      "excerpt": "Labyrinth has revealed the first of a series of major announcements for its first ever weekender at Tofte Manor in summer 2027. Marking Labyrinth&#8217;s sixth summer at the venue, it brings must-see acts to an idyllic countryside settin…"
+      "id": "958d2562db12b26f017ddea9cb35446248c79397",
+      "title": "DC3 shares new track 'My Home' to mark launch of £1 million grant for UK youth clubs",
+      "link": "https://mixmag.net/read/dc3-shares-new-track-my-home-amid-launch-of-1-million-grant-for-uk-youth-clubs-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DC3.png?fit=cover&width=660&s=DMXzjNnE0_A5vIEjjCaIaRX1WCbjSykx_eC94VsxMH4",
+      "excerpt": "Funded by JD Sports and BBC Children in Need, the grant aims to support 10,000 young people across the country Continue reading..."
     },
     {
-      "id": "59ecb64de41e8ac5b787d03d33cc375c098cb94f",
-      "title": "Disonancia",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/lori-meyers-disonancia/",
-      "published": "2026-10-26T12:13:36.000Z",
-      "publishedTs": 1793016816000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/lori-meyers-disonancia.jpg",
-      "excerpt": "Cinco años después de “Espacios infinitos” (21), los granadinos Lori Meyers regresan con “Disonancia”, un disco que busca recuperar la... La entrada Disonancia se publicó primero en MondoSonoro ."
+      "id": "7109bbb21cca535fd82d39980c942826eb4ffd7c",
+      "title": "Unreleased Daft Punk mix from 1997 discovered by DJ Ralph Lawson",
+      "link": "https://mixmag.net/read/unreleased-daft-punk-mix-from-1997-discovered-dj-ralph-lawson-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Daft-Punk-Lawson.png?fit=cover&width=660&s=NItu7ex_VO-pkaZk-szccoxscj9BSHbRsgofOLHklyc",
+      "excerpt": "The 20/20 Vision founder discovered the &quot;mouldy&quot; tape, which was submitted by the French duo to his Kiss FM show, in a storage unit Continue reading..."
     },
     {
-      "id": "ea5486cdae4e5373358c1ff46b337f6d8c710405",
-      "title": "Want the Underground to Survive? Buy a Ticket!",
-      "link": "https://www.decodedmagazine.com/want-the-underground-to-survive-buy-a-ticket/",
-      "published": "2026-10-26T09:06:42.000Z",
-      "publishedTs": 1793005602000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Feature Articles",
-        "Featured",
-        "Clubbing",
-        "Festival",
-        "raving",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2021/02/nightclub.jpg?resize=1000%2C666&ssl=1",
-      "excerpt": "A party only works if people commit to it. If you want the nights you love to keep happening, buy your ticket early, share the event and bring your friends. In 93, I put on my first rave in an abandoned house in the countryside. We hande…"
-    },
-    {
-      "id": "3b7bd76cc97f4c9a9919e7809766e39c5e99d8d6",
-      "title": "DJing in spatial sound: inside Ambrio’s Spatial Performance Mixer",
-      "link": "https://www.decodedmagazine.com/ambrio-spm-djing-spatial-sound/",
-      "published": "2026-10-23T11:12:02.000Z",
-      "publishedTs": 1792753922000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Tech News",
-        "Ambrio Spatial Performance Mixer",
-        "Belgium",
-        "DJ Mixer",
-        "music production",
-        "Spatial Audio",
-        "tech"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/44680_492.jpg?resize=810%2C810",
-      "excerpt": "This week at Amsterdam Dance Event, a Brussels startup is asking DJs to work with a parameter most club mixers ignore. The Ambrio Spatial Performance Mixer , or SPM, is in use at Currents, FIBER’s spatial sound programme at Loods6, on Fr…"
-    },
-    {
-      "id": "53be066b6b5474f2ebb8fcd57d6233211bd41bd4",
-      "title": "Five on Friday with Fabrizio Mammarella",
-      "link": "https://www.decodedmagazine.com/five-on-friday-with-fabrizio-mammarella/",
-      "published": "2026-10-23T10:21:19.000Z",
-      "publishedTs": 1792750879000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Music Premieres",
-        "Electro",
-        "Fabrizio Mammarella",
-        "Five on Friday",
-        "House Music",
-        "Italy",
-        "Tech House",
-        "The Red Telephone"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Fabrizio-Mammarella-02-scaled.jpeg?resize=800%2C1200&ssl=1",
-      "excerpt": "Fabrizio Mammarella is an Italian selector, producer and label owner whose work reaches into many corners of electronic music. His discography includes dozens of club tracks and remixes, alongside collaborations with Lauer as Black Spuma…"
-    },
-    {
-      "id": "f2bb71c5f5add08f8f4f2420486d5739f8629691",
-      "title": "What will it take to get Australian music back on Australian playlists?",
-      "link": "https://www.decodedmagazine.com/australians-listening-less-australian-music-apra-amcos-2026/",
-      "published": "2026-10-23T09:58:41.000Z",
-      "publishedTs": 1792749521000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Australia",
-        "APRA AMCOS",
-        "Australian music",
-        "Australian music industry",
-        "commercial radio",
-        "community radio",
-        "Dance Music",
-        "Electronic music",
-        "Flume",
-        "live music venues",
-        "local content quotas",
-        "local music"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/APRA-AMCOS-resized-logo.webp?resize=600%2C400&ssl=1",
-      "excerpt": "APRA AMCOS turned 100 this year and marked the occasion with the strongest financial result in its history. Group revenue reached $857.4 million and international income passed $100 million for the first time. Over the same year, Ninajir…"
-    },
-    {
-      "id": "a582eac093084d446601bc59da21f68f28fd9204",
-      "title": "LEGO and Daft Punk announce partnership, with Alive tour pyramid set on the way",
-      "link": "https://www.decodedmagazine.com/lego-daft-punk-partnership-alive-pyramid-set/",
-      "published": "2026-10-23T07:15:02.000Z",
-      "publishedTs": 1792739702000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "News",
-        "Alive 2007",
-        "Daft Punk",
-        "Discovery",
-        "Electronica",
-        "Human After All",
-        "LEGO",
-        "LEGO Ideas",
-        "lifestyle",
-        "Techno",
-        "Thomas Bangalter"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/daft-punk-and-lego.png?resize=429%2C241&ssl=1",
-      "excerpt": "The LEGO Group has announced a partnership with Daft Punk that will bring the duo&#8217;s robot personas into the LEGO universe across products, content and brand experiences. The collaboration was introduced with a short film in which t…"
-    },
-    {
-      "id": "cf908d0bb98263f264af184d8620b07643f36c35",
-      "title": "Throwback Thursday: Revisiting The Prodigy’s Debut Album, Experience",
-      "link": "https://www.decodedmagazine.com/throwback-thursday-the-prodigy-experience/",
-      "published": "2026-10-22T02:56:06.000Z",
-      "publishedTs": 1792637766000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "Throwback Thursdays",
-        "Big Beat",
-        "Charly",
-        "Criminal Justice Bill",
-        "DnB",
-        "Essex",
-        "Experience",
-        "Liam Howlett",
-        "Maxim",
-        "Rave",
-        "Techno"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/the-prodigy-experience-vinyl-sleeve.jpg?resize=515%2C388",
-      "excerpt": "The Prodigy are closing out what has been billed as the biggest year of their 35-year career. Their April arena tour of the UK and Ireland sold out faster than any they have played, Warriors Dance returned to the Milton Keynes Bowl in Au…"
-    },
-    {
-      "id": "9d13f7150e32e1ef05ccb615c90d3df1d090a75e",
-      "title": "Technics introduces the SL-1210MKX",
-      "link": "https://www.decodedmagazine.com/technics-sl-1210mkx/",
-      "published": "2026-10-21T12:09:52.000Z",
-      "publishedTs": 1792584592000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "Featured",
-        "News",
-        "DJ",
-        "technics",
-        "Technics SL-1210MKX",
-        "Turntable",
-        "Vinyl"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Technics-SL-1210MKX-product-image-5-rights-unlimited.png?resize=810%2C810",
-      "excerpt": "Technics today announces the SL-1210MKX, a new professional direct-drive DJ turntable that opens the next chapter in the long and influential history of the SL-1200 Series. Developed with direct input from working DJs and Sound Engineers…"
-    },
-    {
-      "id": "bb98c11f425f2467e7545d1b1d5aba166bef23cc",
-      "title": "BICEP Live Confirmed as First Act for 2027 Series at Old Royal Naval College",
-      "link": "https://www.decodedmagazine.com/bicep-live-confirmed-as-first-act-for-2027-series-at-old-royal-naval-college/",
-      "published": "2026-10-21T11:52:17.000Z",
-      "publishedTs": 1792583537000,
-      "sourceId": "decoded",
-      "sourceName": "Decoded magazine",
-      "categories": [
-        "UK",
-        "Bicep",
-        "Greenwhich",
-        "Labrynth",
-        "Old Royal Naval College",
-        "River Thames"
-      ],
-      "image": "https://i0.wp.com/www.decodedmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-092216.png?resize=480%2C602",
-      "excerpt": "Labyrinth on the Thames today announces BICEP as the first act for its 2027 series, with the Belfast-born, London-based duo bringing their acclaimed BICEP LIVE show to the beautiful and historic riverside setting of the Old Royal Naval C…"
+      "id": "553d0bd123608c5b9116cd47dccec25a662fb215",
+      "title": "Minneapolis DJ school Slam Academy to shutter following misconduct concerns",
+      "link": "https://mixmag.net/read/minneapolis-dj-school-slam-academy-to-shutter-following-misconduct-concerns-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-school-academt.jpg?fit=cover&width=660&s=QiEd7z3D1Cga0LRfg1OxY8UjAC2ZiQmnxL5iTTefFnw",
+      "excerpt": "The academy said that “conduct fell short of the professional boundaries we expect” Continue reading..."
     },
     {
       "id": "c8d4e82fd702243b01f43125b8be7d1c29b63730",
@@ -630,7 +265,7 @@
     },
     {
       "id": "00281115017f240b57f968bebbf3f6f20bde5655",
-      "title": "Ministry of Sound’s long-standing soundsystem is going up for auction",
+      "title": "Ministry of Sound’s long-standing soundsystem is going up for sale",
       "link": "https://mixmag.net/read/ministry-of-sound-long-standing-soundsystem-auction-wax-poetics-news",
       "published": "",
       "publishedTs": 0,
@@ -649,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, amid shifting tides in the global landscape Continue reading..."
     },
     {
@@ -781,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -877,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -1009,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
+      "image": "",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1177,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -1237,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1297,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -1405,7 +1040,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1441,7 +1076,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1491,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/save-our-scene-birmingham.jpg?fit=cover&width=660&s=NzYtj3NXKGwxyOMcp0XLtXlLrtQYuJrOL4BgNfjel8U",
       "excerpt": "A proposed railway expansion threatens clubs including XOYO Birmingham, Mama Roux&#039;s and Club Colette Continue reading..."
-    },
-    {
-      "id": "e16f81bd13f906d12e8cdce20c6c1423558b9398",
-      "title": "Silva Bumpa in the Mixmag Lab",
-      "link": "https://mixmag.net/feature/silva-bumpa-mixmag-lab-cover-mix-dj-set",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Silva Bumpa&#039;s Cover Mix will be recorded live in the Mixmag Lab — sign up for pre-sale access below Continue reading..."
-    },
-    {
-      "id": "2826216b9ab6a547df8cead12256305850b2e2e1",
-      "title": "Silva Bumpa's full story is unfolding on the world's dancefloors",
-      "link": "https://mixmag.net/feature/silva-bumpa-cover-feature-interview-speed-garage-bassline-tech-house-crossover-dj",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "From Niche bassline to crossover tech-house via infectious UKG, Silva Bumpa is connecting the dots between worlds of dance music and becoming a global star in the process. Back where it all began, the gunfinger-slinging DJ, producer and …"
-    },
-    {
-      "id": "bd2c51960fefd0b17898b8d6231fb6db81a5312f",
-      "title": "New study claims that Ibiza’s club promoter tactics are negatively impacting small businesses",
-      "link": "https://mixmag.net/read/new-study-claims-ibiza-sophisticated-club-models-impacting-small-businesses-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ibiza-old-town.jpg?fit=cover&width=660&s=cTgOdxOZ87-jHjy41LrG6xw9T4--998iavkk3JwyDpE",
-      "excerpt": "It follows news that Ibiza’s venues raked in some €160 million in ticket sales last year Continue reading..."
-    },
-    {
-      "id": "3866be8f61c0c3b5670df6673bccc19cd00aee09",
-      "title": "Olympia London's Grand Hall cancels all December events, citing planning issues",
-      "link": "https://mixmag.net/read/olympia-london-cancels-all-december-music-events-citing-planning-issues-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/olympia-london.jpg?fit=cover&width=660&s=KyvNh6WtE_aVRN-Zo9RsNScIwmxVGeIUUyXQYG_CzyY",
-      "excerpt": "The 7,000-capacity venue was scheduled to host shows from Interpol, Bloc Party, and more Continue reading..."
     }
   ]
 }
