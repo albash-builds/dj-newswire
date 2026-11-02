@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T07:15:40.328Z",
+  "generatedAt": "2026-11-02T17:50:47.006Z",
   "total": 90,
   "sources": [
     {
@@ -23,13 +23,111 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 173\nChar: >"
     }
   ],
   "items": [
     {
+      "id": "cd85a31ae9b1e075f4f0f3b8c04f7ec0d338f3dd",
+      "title": "A man from the future",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/pet-shop-boys-a-man-from-the-future/",
+      "published": "2026-11-02T17:37:51.000Z",
+      "publishedTs": 1793641071000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Pet-Shop-Boys-A-man-from-the-future.jpg",
+      "excerpt": "A Pet Shop Boys no te los acabas. Son capaces de combinar dos conciertos radicalmente distintos, pero igual de convincentes:... La entrada A man from the future se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "3b1fb4bfdfc7d4a35eced09d9458ab5c00a25766",
+      "title": "Newly Sentient Being",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/swans-newly-sentient-being/",
+      "published": "2026-11-02T17:24:53.000Z",
+      "publishedTs": 1793640293000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Swans-Newly-Sentient-Being.jpg",
+      "excerpt": "Michael Gira se preguntaba, hace un puñado de años, dónde acababa un cuerpo; ahora te toca a ti responder dónde... La entrada Newly Sentient Being se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "f11ae4d61bfa7d434f1ac9b49dc05b22668d6375",
+      "title": "Wasteland",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/travo-wasteland/",
+      "published": "2026-11-02T10:50:33.000Z",
+      "publishedTs": 1793616633000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Travo-Wasteland.jpg",
+      "excerpt": "Pocas veces una banda consigue que las circunstancias de su propia creación queden tan marcadas en el resultado final. Tras... La entrada Wasteland se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "40cceee8ebc4e7fe5551f98d817aaa65323b6844",
+      "title": "The meaning of flowers",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-meaning-of-flowers/",
+      "published": "2026-11-02T10:01:48.000Z",
+      "publishedTs": 1793613708000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Agnes-Obel-The-meaning-of-flowers.jpg",
+      "excerpt": "El caso de Agnes Obel es paradigmático. Sin ánimo de hacerlo, ella se sitúa en tierra de nadie y, asimismo,... La entrada The meaning of flowers se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a09c8294ef56c9bb7e306e2271f820bdf8a532cd",
+      "title": "Día grande",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/dia-grande/",
+      "published": "2026-11-02T09:43:41.000Z",
+      "publishedTs": 1793612621000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Yo-Somos-dia-grande.jpg",
+      "excerpt": "La chispa del buen pop, ese que anida en nuestras cabezas durante semanas (o más), no necesita mucho: se las... La entrada Día grande se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "aa6e9857b1cdeae50846f92caedc236ea2965a28",
+      "title": "Somos Pequeño Mal",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/somos-pequeno-mal/",
+      "published": "2026-11-02T09:18:47.000Z",
+      "publishedTs": 1793611127000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/somos-pequenyo-mal.jpg",
+      "excerpt": "Desembarazarse de un proyecto previo, y más cuando este ha ocupado una década entera en tu vida, es una maniobra... La entrada Somos Pequeño Mal se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "19eed5ee9aaae014857d709a73fcd62262d3df54",
+      "title": "¿puede Martí bajar a jugar?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mucho-puede-marti-bajar-a-jugar/",
+      "published": "2026-11-02T08:12:29.000Z",
+      "publishedTs": 1793607149000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Mucho-puede-Marti-bajar-a-jugar.jpg",
+      "excerpt": "Anárquico, liberador, sin deberle nada a nadie. Hay algo admirable en la forma en la que Martí ha recuperado Mucho... La entrada ¿puede Martí bajar a jugar? se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "f7e3cdf68d5def000f5c214bd5fe9853a7a5094d",
-      "title": "Crítica de 'Variaciones Pombo', el nuevo disco de Hidrogenesse",
+      "title": "Variaciones Pombo",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/hidrogenesse-variaciones-pombo/",
       "published": "2026-10-30T13:20:34.000Z",
       "publishedTs": 1793366434000,
@@ -39,7 +137,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Hidrogenesse-variaciones-pombo.jpg",
-      "excerpt": "Si Serrat tuvo a Machado y Morente hizo suyo a Lorca, a Hidrogenesse le correspondía hacer lo propio con Álvaro... La entrada Crítica de &#039;Variaciones Pombo&#039;, el nuevo disco de Hidrogenesse se publicó primero en MondoSonoro ."
+      "excerpt": "Si Serrat tuvo a Machado y Morente hizo suyo a Lorca, a Hidrogenesse le correspondía hacer lo propio con Álvaro... La entrada Variaciones Pombo se publicó primero en MondoSonoro ."
     },
     {
       "id": "b9f44249839cbe7d049b38aa9b03bfd97e7849ee",
@@ -70,102 +168,28 @@
       "excerpt": "Menuda racha que llevamos. Uno que ya no es un niño, acaba de sobrevivir a películas como “Buddy” o el... La entrada No Bad Memories se publicó primero en MondoSonoro ."
     },
     {
-      "id": "917ec465bffcaffe7bcf19c35603efa42a819508",
-      "title": "El Final de Occidente",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/el-final-declive/",
-      "published": "2026-10-29T07:37:25.000Z",
-      "publishedTs": 1793259445000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/DecliveCDWEB.jpg",
-      "excerpt": "Sensacional debut largo, el del quinteto valenciano Declive. Se nota que han ido madurando su lenguaje (los dos EP’s previos)... La entrada El Final de Occidente se publicó primero en MondoSonoro ."
+      "id": "94360b3a0df0932d488e1467c1bc037035c3ee72",
+      "title": "Police arrest over 400 people following raid on Kuala Lumpur nightclub",
+      "link": "https://mixmag.net/read/police-arrest-over-400-people-following-raid-kuala-lumpur-nightclub-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/kuala-lumpur-night.jpg?fit=cover&width=660&s=v6qC-1lkH4BiQ6jCAkNCamHdtOf4uhI6-GfMEB2gBeA",
+      "excerpt": "A police chief said that all detainees were taken for drug testing Continue reading..."
     },
     {
-      "id": "833e2a86e1505d6ac4ab95947e037a302b7f5f76",
-      "title": "Light and Shadow",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/light-and-shadow-saturna/",
-      "published": "2026-10-28T14:01:19.000Z",
-      "publishedTs": 1793196079000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/SaturnaCD.jpg",
-      "excerpt": "El sexto álbum de Saturna confirma que la banda barcelonesa ha encontrado una manera propia de manejar el enorme legado... La entrada Light and Shadow se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f58cb794cd7ef384ae1ec44f728c817599bcee05",
-      "title": "Getting There",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/getting-there-eli-paperboy/",
-      "published": "2026-10-28T09:52:02.000Z",
-      "publishedTs": 1793181122000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/EliPaperboyReedCD.jpg",
-      "excerpt": "No siempre basta con amar profundamente una música para mantener intacto el interés durante veinte años. Y menos cuando tu... La entrada Getting There se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "bef8abffc528f0560f214347242baa9cbf6a8c57",
-      "title": "Fudge",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/fudge-michael-kiwanuka/",
-      "published": "2026-10-28T08:45:48.000Z",
-      "publishedTs": 1793177148000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/MichaelKiwanukaCD.jpg",
-      "excerpt": "El quinto disco de Michael Kiwanuka, “Fudge”, es uno muy especial en su carrera, no tanto porque sea el primero... La entrada Fudge se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "198460ae9cbc5e5b1795eca05b8af01f82c8b363",
-      "title": "Just Beyond Endless Mountain",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-tallest-man-on-earth-just-beyond/",
-      "published": "2026-10-27T07:04:11.000Z",
-      "publishedTs": 1793084651000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/the-tallest-man-on-earth-Just-Beyond-Endless-Mountain.jpg",
-      "excerpt": "Hacer mención al nombre real que se oculta tras este proyecto musical, el sueco Kristian Matsson, trasciende en este caso... La entrada Just Beyond Endless Mountain se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "f628ab056449833acb4195ba48278b254a866537",
-      "title": "Doomed Lover",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/doomed-lover/",
-      "published": "2026-10-27T07:02:48.000Z",
-      "publishedTs": 1793084568000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Twin-Temple-Doomed-Lover.jpg",
-      "excerpt": "Twin Temple fueron noticia este verano tras anunciar en sus redes sociales que habían sido expulsados de la gira del... La entrada Doomed Lover se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "eed9cdb8bef676dab1ea4f17a90147ffb7097046",
-      "title": "Palace For The People",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/greta-van-fleet-palace-for-the-people/",
-      "published": "2026-10-27T06:48:00.000Z",
-      "publishedTs": 1793083680000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Greta-Van-Fleet-Palace-For-The-People.jpg",
-      "excerpt": "Ya van cuatro discos de Greta Van Fleet y, por favor, es hora de reconocerles algo: su obstinación ante el... La entrada Palace For The People se publicó primero en MondoSonoro ."
+      "id": "8e4f4200eeb519dc8d851c3eb01e459c3517d69c",
+      "title": "Man arrested following stabbing at London nightclub Studio 338",
+      "link": "https://mixmag.net/read/man-arrested-following-stabbing-london-nightclub-studio-338-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/studio-338-crowd.jpg?fit=cover&width=660&s=orbP3X37wEACw4UbvdhP6-wybwNYckb7PDYct57yrdM",
+      "excerpt": "The incident occurred during a Halloween event on Friday night Continue reading..."
     },
     {
       "id": "b7e642d9f48892aecd4d0f32f4a9fdbf9c811e38",
@@ -190,6 +214,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-roza-mk.png?fit=cover&width=660&s=zqu3xzsNGOZIjIPkOxOx13juGWCqNQc4dO0dwFBFRx0",
       "excerpt": "All the biggest releases on our radar Continue reading..."
+    },
+    {
+      "id": "0720a68f2215c5fbdc7ce9975cd05b16f322df77",
+      "title": "Tech releases you might have missed: Roland TD-07, Native Instruments Massive XL, AudioFuse Studio Rev2",
+      "link": "https://mixmag.net/read/tech-releases-you-might-have-missed-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tech-round-up.png?fit=cover&width=660&s=AjW_mos3QIJEW24uyygnjT8xnOEnnbTYy7AMH6b77lQ",
+      "excerpt": "Whether you’re in the market for some new software or want to upgrade your studio — here are some of the biggest recent releases from the world of tech Continue reading..."
     },
     {
       "id": "7bf72f718bdf23583a55e80511a64f7834fbc210",
@@ -320,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, amid shifting tides in the global landscape Continue reading..."
     },
     {
@@ -332,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
+      "image": "",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -392,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
+      "image": "",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -452,7 +488,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -548,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -632,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -968,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -1064,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=YNWl_HAqVHSmJ1bSFax_9MogfZjZwK11coGOhClFV2M",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -1076,7 +1112,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=GcCnSxH4jDhQf0QH6JoRAQdZGqEldhKmy2Bk_w12DiI",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo",
       "excerpt": "Micheal Smith was found to have used bot accounts to generate &quot;billions&quot; of fake streams of AI music on platforms such as Spotify and Apple Music Continue reading..."
-    },
-    {
-      "id": "21833c5d01b58e20396d64d0bdcc0e5d3ce61ef3",
-      "title": "London listening bar Spiritland to open new site inside the Barbican",
-      "link": "https://mixmag.net/read/london-listening-bar-spiritland-open-new-site-inside-barbican-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spiritland-barbican.jpg?fit=cover&width=660&s=b4xJYc8NpVvn0Iqs6mk9Y2MpO5_3pfkl5kLH3QDdthU",
-      "excerpt": "The new hi-fi bar will be a temporary fixture, opening this month until July 2027 Continue reading..."
-    },
-    {
-      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
-      "title": "The Best Tracks Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/SEPTEMBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9xnQvd1GFIbxCfOy3pex4ChRJU4kLiH7INW4Q2CBY2k",
-      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
-    },
-    {
-      "id": "7756e4c7f8c000e3d6c0142eb544fb4736b02bca",
-      "title": "The Mix 126: Only Fire",
-      "link": "https://mixmag.net/feature/the-mix-126-only-fire-dj-interview-hoe-weekend",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_OF2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=_762P4piEAvy21ndq0yvcgc09tqHIAKzIyyCQxADLtE",
-      "excerpt": "Only Fire shares a &quot;wild, fun and dancey&quot; mix to see off summer and discusses his ascent from Croatian clubland provocateur to grown and global star Continue reading..."
     }
   ]
 }
