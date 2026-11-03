@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T15:50:26.258Z",
+  "generatedAt": "2026-11-03T21:30:13.749Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "52733154efc20b88b3cda7060c9b3edc4c53bbd3",
+      "title": "Carne con patatas",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-zigarros-carne-con-patatas/",
+      "published": "2026-11-03T16:35:47.000Z",
+      "publishedTs": 1793723747000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Los-Zigarros-Carne-con-patatas.jpg",
+      "excerpt": "Desde su misma creación, la banda valenciana ha escogido definirse a través de la invocación de los engranajes que agitan... La entrada Carne con patatas se publicó primero en MondoSonoro ."
+    },
     {
       "id": "30eef105fb6ff808514b4451f7400b505c290f58",
       "title": "Joy In Short Moments",
@@ -154,30 +168,16 @@
       "excerpt": "Anárquico, liberador, sin deberle nada a nadie. Hay algo admirable en la forma en la que Martí ha recuperado Mucho... La entrada ¿puede Martí bajar a jugar? se publicó primero en MondoSonoro ."
     },
     {
-      "id": "f7e3cdf68d5def000f5c214bd5fe9853a7a5094d",
-      "title": "Variaciones Pombo",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/hidrogenesse-variaciones-pombo/",
-      "published": "2026-10-30T13:20:34.000Z",
-      "publishedTs": 1793366434000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Hidrogenesse-variaciones-pombo.jpg",
-      "excerpt": "Si Serrat tuvo a Machado y Morente hizo suyo a Lorca, a Hidrogenesse le correspondía hacer lo propio con Álvaro... La entrada Variaciones Pombo se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "1dbb3ad8751ee7fd6a152fbbd164e0f2210ff914",
-      "title": "“Astronomical” amount of cocaine smuggled into UK in gouda cheese shipment",
-      "link": "https://mixmag.net/read/astronomical-amount-cocaine-smuggled-into-uk-gouda-cheese-chocolate-spreadshipment-news",
+      "id": "e91a403fe2543076eb7d3598da98207ad7605b88",
+      "title": "RIP Juan Atkins, the techno originator who changed the world",
+      "link": "https://mixmag.net/feature/rip-juan-atkins-detroit-techno-pioneer-legend-obituary-tribute",
       "published": "",
       "publishedTs": 0,
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gouda-cheese.jpg?fit=cover&width=660&s=v09IAqEChu1yVN-QcaVqx-1bkPYLRUySN1XfiyY0TiQ",
-      "excerpt": "Multiple tonnes of the drug was moved in shipments of chocolate spread, cheese and fish mince Continue reading..."
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
+      "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
       "id": "0b073139d7cba2ca2ed83712f6c75e9b11c15ccb",
@@ -226,6 +226,18 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins.png?fit=cover&width=660&s=-18ubvzCgtXP7PCCDlbvJ2GCoe19u1viH7sSIQ2inE0",
       "excerpt": "The Detroit pioneer was discovered unresponsive in a hotel room ahead of a performance in Mexico City, his management has confirmed Continue reading..."
+    },
+    {
+      "id": "1dbb3ad8751ee7fd6a152fbbd164e0f2210ff914",
+      "title": "“Astronomical” amount of cocaine smuggled into UK in gouda cheese shipment",
+      "link": "https://mixmag.net/read/astronomical-amount-cocaine-smuggled-into-uk-gouda-cheese-chocolate-spreadshipment-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gouda-cheese.jpg?fit=cover&width=660&s=v09IAqEChu1yVN-QcaVqx-1bkPYLRUySN1XfiyY0TiQ",
+      "excerpt": "Multiple tonnes of the drug was moved in shipments of chocolate spread, cheese and fish mince Continue reading..."
     },
     {
       "id": "bb68e7ff39c2c3400b9a1eb0c6d5e63e007a180d",
@@ -381,7 +393,7 @@
       "sourceName": "Mixmag",
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
-      "excerpt": "Generations of dance music collide at the San Francisco event, amid shifting tides in the global landscape Continue reading..."
+      "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
       "id": "0c8cde0efb4d3a1760299a19c77b1a9fb5dfa5c2",
@@ -452,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -500,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -680,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -692,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
+      "image": "",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -908,7 +920,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -1004,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -1028,7 +1040,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-jazzy-jeff-will-smith.jpg?fit=cover&width=660&s=nSv_SnZfEyOaobbwKN2HLxOejTCvWIkDloZLEzj07-4",
       "excerpt": "The scripted series, named 215, comes from Will Smith’s Westbrook Studios Continue reading..."
-    },
-    {
-      "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
-      "title": "The Best DJ Mixes Of The Year 2026 So Far",
-      "link": "https://mixmag.net/feature/best-dj-mixes-dance-electronic-club-radio-stream-2026",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     }
   ]
 }
