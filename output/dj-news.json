@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:33:44.830Z",
+  "generatedAt": "2026-11-03T07:35:25.922Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "30eef105fb6ff808514b4451f7400b505c290f58",
+      "title": "Joy In Short Moments",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-snuts-oy-in-short-moments/",
+      "published": "2026-11-03T07:16:40.000Z",
+      "publishedTs": 1793690200000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/The-Snuts-Joy-In-Short-Moments.jpg",
+      "excerpt": "The Snuts siguen a lo suyo, enrocados en esa empresa que no es otra que la de amasar una especie... La entrada Joy In Short Moments se publicó primero en MondoSonoro ."
+    },
     {
       "id": "cd85a31ae9b1e075f4f0f3b8c04f7ec0d338f3dd",
       "title": "A man from the future",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/Somak.jpg",
       "excerpt": "Doinu gozoz osatutako estreinako diskoa plazaratu du aurten Somak talde bizkaitarrak. Konplikazio handirik gabe, baina xehetasun ugari dituen diskoa da... La entrada Lekuko Bakarrak se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "184e50c37db20216d4d28ae5ea28f834e9605abd",
-      "title": "No Bad Memories",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/no-bad-memories-avalanches/",
-      "published": "2026-10-29T12:54:21.000Z",
-      "publishedTs": 1793278461000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/10/TheAvalanchesCD.jpg",
-      "excerpt": "Menuda racha que llevamos. Uno que ya no es un niño, acaba de sobrevivir a películas como “Buddy” o el... La entrada No Bad Memories se publicó primero en MondoSonoro ."
     },
     {
       "id": "94360b3a0df0932d488e1467c1bc037035c3ee72",
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
+      "image": "",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
+      "image": "",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -584,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
+      "image": "",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -944,7 +944,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1004,7 +1004,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
+      "image": "",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
