@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T16:51:39.880Z",
+  "generatedAt": "2026-11-04T22:25:31.407Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "3b1759663f44d8e711d2e25a2330facfd4e1ee02",
+      "title": "Ez Hil Inoiz",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/etxekalte-ez-hil-inoiz/",
+      "published": "2026-11-04T18:10:53.000Z",
+      "publishedTs": 1793815853000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/etxekalte.jpg",
+      "excerpt": "Rock alternatibotik zein post-hardcoretik abiatutako talde baten hamargarren urteurrena ez da soilik atzera begirako ariketa nostalgikoa izaten; maiz, norabide artistikoaren... La entrada Ez Hil Inoiz se publicó primero en MondoSonoro ."
+    },
     {
       "id": "52733154efc20b88b3cda7060c9b3edc4c53bbd3",
       "title": "Crítica de 'Carne con patatas' el nuevo álbum de Los Zigarros",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/somos-pequenyo-mal.jpg",
       "excerpt": "Desembarazarse de un proyecto previo, y más cuando este ha ocupado una década entera en tu vida, es una maniobra... La entrada Somos Pequeño Mal se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "19eed5ee9aaae014857d709a73fcd62262d3df54",
-      "title": "¿puede Martí bajar a jugar?",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mucho-puede-marti-bajar-a-jugar/",
-      "published": "2026-11-02T08:12:29.000Z",
-      "publishedTs": 1793607149000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Mucho-puede-Marti-bajar-a-jugar.jpg",
-      "excerpt": "Anárquico, liberador, sin deberle nada a nadie. Hay algo admirable en la forma en la que Martí ha recuperado Mucho... La entrada ¿puede Martí bajar a jugar? se publicó primero en MondoSonoro ."
     },
     {
       "id": "83a7a9ad8151b6925f309c136ca7f33c7b13be8a",
@@ -428,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -536,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
+      "image": "",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -548,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -620,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -644,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
+      "image": "",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -728,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
+      "image": "",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -932,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -992,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1028,7 +1028,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -1052,7 +1052,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
