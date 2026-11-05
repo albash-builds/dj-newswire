@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T11:53:08.976Z",
+  "generatedAt": "2026-11-05T19:31:45.123Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "a2391391ca73ad34b1d2364f80e94ff7d56fe8a7",
+      "title": "Clapping To Stay Alive",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/foreign-age-clapping-to-stay-alive/",
+      "published": "2026-11-05T18:49:53.000Z",
+      "publishedTs": 1793904593000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/foreign-age.jpg",
+      "excerpt": "Hay autores a los que cuesta arrancarles sus influencias y referencias. Otros sin embargo las exponen alegremente. Es el caso... La entrada Clapping To Stay Alive se publicó primero en MondoSonoro ."
+    },
     {
       "id": "80aa788bd021249ff28c1ea510300908fbcce880",
       "title": "Reseñamos \"Perfecth\", el esperado trabajo de QOTSA",
@@ -57,7 +71,7 @@
     },
     {
       "id": "52733154efc20b88b3cda7060c9b3edc4c53bbd3",
-      "title": "Crítica de 'Carne con patatas' el nuevo álbum de Los Zigarros",
+      "title": "Carne con patatas",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/los-zigarros-carne-con-patatas/",
       "published": "2026-11-03T16:35:47.000Z",
       "publishedTs": 1793723747000,
@@ -67,7 +81,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Los-Zigarros-Carne-con-patatas.jpg",
-      "excerpt": "Desde su misma creación, la banda valenciana ha escogido definirse a través de la invocación de los engranajes que agitan... La entrada Crítica de &#039;Carne con patatas&#039; el nuevo álbum de Los Zigarros se publicó primero en MondoSo…"
+      "excerpt": "Desde su misma creación, la banda valenciana ha escogido definirse a través de la invocación de los engranajes que agitan... La entrada Carne con patatas se publicó primero en MondoSonoro ."
     },
     {
       "id": "30eef105fb6ff808514b4451f7400b505c290f58",
@@ -154,18 +168,40 @@
       "excerpt": "El caso de Agnes Obel es paradigmático. Sin ánimo de hacerlo, ella se sitúa en tierra de nadie y, asimismo,... La entrada The meaning of flowers se publicó primero en MondoSonoro ."
     },
     {
-      "id": "a09c8294ef56c9bb7e306e2271f820bdf8a532cd",
-      "title": "Día grande",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/dia-grande/",
-      "published": "2026-11-02T09:43:41.000Z",
-      "publishedTs": 1793612621000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Yo-Somos-dia-grande.jpg",
-      "excerpt": "La chispa del buen pop, ese que anida en nuestras cabezas durante semanas (o más), no necesita mucho: se las... La entrada Día grande se publicó primero en MondoSonoro ."
+      "id": "d3256d7f5bf24190e14cc4c96a10e4c71c9b614a",
+      "title": "MPH is going full throttle to the dancefloor",
+      "link": "https://mixmag.net/feature/mph-cover-feature-interview-uk-garage-here-forever",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
+      "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
+    },
+    {
+      "id": "900c18f1a769eb8275fe119b117aac85e780564f",
+      "title": "The Cover Mix: MPH",
+      "link": "https://mixmag.net/feature/mph-mixmag-lab-dj-cover-mix-garage",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
+    },
+    {
+      "id": "914251cb9c2062448849623f5b62978dfe5aebed",
+      "title": "The Best Tracks Of The Year 2026 So Far",
+      "link": "https://mixmag.net/feature/best-dance-electronic-club-tracks-2026",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
+      "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
       "id": "83a7a9ad8151b6925f309c136ca7f33c7b13be8a",
@@ -416,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -536,7 +572,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
+      "image": "",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -548,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -620,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -728,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -776,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1028,7 +1064,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -1052,7 +1088,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Stephen-Jones.jpg?fit=cover&width=660&s=ys2QyqplDnjJpm_GvuHB3Q2xWkzg4EyjZacdbC8V3LU",
       "excerpt": "The renowned musician and video artist is alleged to have been attacked outside of his studio in Sydney last week Continue reading..."
-    },
-    {
-      "id": "d1b3ee3a11cf5e5270a45ef8be6d0dd8770dcd7d",
-      "title": "Tresor.West to close down at the end of 2026",
-      "link": "https://mixmag.net/read/tresor-west-to-close-down-at-the-end-of-2026-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Tresor-west-x.png?fit=cover&width=660&s=BK4Lo411gsTfGEBOfViLCK-a77M9RpxLRFVewaHzZxo",
-      "excerpt": "The Dortmund-based sister venue to Berlin&#039;s Tresor is seeking a new operator to take over the Phönixplatz space which it has occupied since 2020 Continue reading..."
-    },
-    {
-      "id": "20baf14d6addfb614272c94ea665970316e0d299",
-      "title": "Margate radio station is offering free DJ classes for *FLINTA young people",
-      "link": "https://mixmag.net/read/margate-radio-station-is-offering-free-dj-classes-for-flinta-young-people-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Red-Rebel.png?fit=cover&width=660&s=ou6Cw215zq5kQ9u-DtUIDRtvXsYXP0G_Ov4F_dt_3B4",
-      "excerpt": "Red Rebel FM will offer workshops to 18-25-year-olds as part of a new scheme backed by Youth Music and Beatport Continue reading..."
-    },
-    {
-      "id": "8f23a0f5bec613b35967b393e7a5e36c489adecf",
-      "title": "New music on our radar this week: Skin on Skin, ALUNA, Lorenzo Senni",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-skin-on-skin-aluna-lorenzo-senni-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/releases-images.png?fit=cover&width=660&s=xaBj1zHIF_OtezzpxG89SS4izY2ZhSduMh3gsnZVnOQ",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
