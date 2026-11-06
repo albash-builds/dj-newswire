@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:40:27.968Z",
+  "generatedAt": "2026-11-06T15:40:43.400Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "a853f18ffc75abb3ae8756950e46748151a2f592",
+      "title": "Bordell (Reedición)",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/bordell-reedicion/",
+      "published": "2026-11-06T08:24:14.000Z",
+      "publishedTs": 1793953454000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/umpah-pah-bordell.jpg",
+      "excerpt": "Aunque la suya fue una trayectoria breve, Umpah-pah tuvieron tiempo de escribir uno de los capítulos más brillantes de la... La entrada Bordell (Reedición) se publicó primero en MondoSonoro ."
+    },
     {
       "id": "a2391391ca73ad34b1d2364f80e94ff7d56fe8a7",
       "title": "Clapping To Stay Alive",
@@ -154,18 +168,16 @@
       "excerpt": "Pocas veces una banda consigue que las circunstancias de su propia creación queden tan marcadas en el resultado final. Tras... La entrada Wasteland se publicó primero en MondoSonoro ."
     },
     {
-      "id": "40cceee8ebc4e7fe5551f98d817aaa65323b6844",
-      "title": "The meaning of flowers",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-meaning-of-flowers/",
-      "published": "2026-11-02T10:01:48.000Z",
-      "publishedTs": 1793613708000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Agnes-Obel-The-meaning-of-flowers.jpg",
-      "excerpt": "El caso de Agnes Obel es paradigmático. Sin ánimo de hacerlo, ella se sitúa en tierra de nadie y, asimismo,... La entrada The meaning of flowers se publicó primero en MondoSonoro ."
+      "id": "ef261ec14f9da01175471ca922f4b2a1f4ab4f50",
+      "title": "Jeff Mills on Juan Atkins: “His legacy is not something that can be fully measured”",
+      "link": "https://mixmag.net/read/jeff-mills-juan-atkins-legacy-not-fully-measured-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/jeff-mills-pr.jpg?fit=cover&width=660&s=k52jA1y6OTnjJtdL2N0GO0PeIaSNHnmA5nAKTX8766s",
+      "excerpt": "Mills spoke on the legacy of his friend and fellow artist, who passed away last week Continue reading..."
     },
     {
       "id": "d3256d7f5bf24190e14cc4c96a10e4c71c9b614a",
@@ -452,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -524,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -680,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -752,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -812,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1064,7 +1076,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
       "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
     },
     {
@@ -1088,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
       "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/JD-Twitch.jpg?fit=cover&width=660&s=sKpLx76mNdJv61xwlucIUhgJ0YqeaqcpWXf6VvfBfeU",
       "excerpt": "Around 7/8,000 records from the late-DJ&#039;s extensive collection will be available to buy at World of Echo from November 14 Continue reading..."
-    },
-    {
-      "id": "af018740d08b75f0a5ac2af9ec3cf37d2563ac29",
-      "title": "Stephen Raoul Jones, former member of Australian electronic group Severed Heads, has died aged 75",
-      "link": "https://mixmag.net/read/stephen-raoul-jones-australian-video-synthesiser-artist-pioneer-severed-heads-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Stephen-Jones.jpg?fit=cover&width=660&s=ys2QyqplDnjJpm_GvuHB3Q2xWkzg4EyjZacdbC8V3LU",
-      "excerpt": "The renowned musician and video artist is alleged to have been attacked outside of his studio in Sydney last week Continue reading..."
     }
   ]
 }
