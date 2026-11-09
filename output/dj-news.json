@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:10:21.363Z",
+  "generatedAt": "2026-11-09T20:25:54.102Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Swans-Newly-Sentient-Being.jpg",
       "excerpt": "Michael Gira se preguntaba, hace un puñado de años, dónde acababa un cuerpo; ahora te toca a ti responder dónde... La entrada Newly Sentient Being se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "e3d064f2f6dc09daf1d023e2ccbf8733d6f78282",
+      "title": "The Loop to launch first-ever drug checking services in Birmingham",
+      "link": "https://mixmag.net/read/the-loop-launch-first-ever-drug-checking-services-birmingham-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/drrug-testing-birmingham.jpg?fit=cover&width=660&s=aBmH958gvccTFBnnKELm1W3i8DvkYTvkgeYP82ztKM8",
+      "excerpt": "The free services will operate fortnightly from locations in Digbeth and the city centre Continue reading..."
+    },
+    {
+      "id": "30b6f1848043583d73a999182af96670f05f953b",
+      "title": "Bristol bridge collapse could be linked to loud music, says councillor",
+      "link": "https://mixmag.net/read/bristol-bridge-collapse-linked-loud-music-says-councillor-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/peros-bridge-bristol.jpg?fit=cover&width=660&s=SH2IiH73caUc6WMbAmI-R70_bzHfMMmvp7XD_nZaILc",
+      "excerpt": "Music being played through speakers on the shore could be to blame, a Lib Dems councillor claims Continue reading..."
+    },
+    {
+      "id": "d1d1ce5278f17883f7d4539a7165a07f91b3c5eb",
+      "title": "Miami's Club Space to transform into GTA VI nightclub for game's launch",
+      "link": "https://mixmag.net/read/miami-club-space-transform-gta-vi-nightclub-games-launch-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Club-Space-Miami.jpg?fit=cover&width=660&s=ckEDQeg1mxPTRRYeRWKDKNNC9ET7TCn_w0JBERS19Ws",
+      "excerpt": "The venue will host three parties in collaboration with CircoLoco, inspired by the fictional Vice City nightspot The Vault Continue reading..."
     },
     {
       "id": "c6cadc4579635240069213147e4bc039bc4ec5a6",
@@ -560,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -608,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -692,7 +728,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -716,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -788,7 +824,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
+      "image": "",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -800,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -848,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/d-edge-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=pQxWg9lD18tBX8cH67QUWZ6smOxl_5YdXB3qB4N5-ZE",
       "excerpt": "From its humble beginnings in Campo Grande to the multi-site club empire standing today, D-EDGE has blossomed alongside the ever-changing dance music culture in Brazil for more than a quarter century. We speak to the DJs, programmers, ar…"
     },
     {
@@ -1004,7 +1040,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sos-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=F2IzGxLQ-04HtjhyPpobLFhO_x2v_NK7uQzPY40oP6o",
       "excerpt": "A £1.75 billion railway plan is threatening to leave nightclubs, bars and live music venues in Birmingham’s sole creative quarter without a home. We speak to the activists, DJs, and venue owners fighting against the proposed construction…"
     },
     {
@@ -1064,7 +1100,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
+      "image": "",
       "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Beatport-Next.png?fit=cover&width=660&s=xXY1wXjg2Dyf1Oyu4oONQ2CA_rea5Y4gwlbrTX_NZ_k",
       "excerpt": "Supporting up-and-coming artists in electronic music, former alumni of the year-long programme include Lou Nour, Ma Sha and D Stone Continue reading..."
-    },
-    {
-      "id": "e1584816750d476fc39792e41ea630f80902ff87",
-      "title": "Small nightclubs are still making a big impact in Ibiza",
-      "link": "https://mixmag.net/feature/ibiza-small-intimate-nightclubs-nocturna-tomodachi-akasha-underground",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Nocturna-credit-Ana-Sting_DSC7604.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=AbcfFlaRT-jASoPraPbxgUPpBEABmHKbMWTcWpQgZ9o",
-      "excerpt": "A wave of intimate venues opening in Ibiza are offering an alternative to the island’s superclubs, with a more cosy, locals-friendly and affordable experience that’s reconnecting the White Isle with its underground roots. Marcus Barnes r…"
-    },
-    {
-      "id": "0933dca36fcf2e681e71220eb195ee795067fb97",
-      "title": "Duane Davis sentenced to 40 years in prison for orchestrating Tupac’s murder",
-      "link": "https://mixmag.net/read/duane-davis-sentenced-40-years-prison-orchestrating-tupac-murder-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tupac-credit-Acwstler44.jpg?fit=cover&width=660&s=oK8NRWMKD-Y2Cr8Vgtwe0H9P_FvEUMwb5Thd9hinLWk",
-      "excerpt": "The sentencing comes three decades after the rapper was killed in a drive-by shooting in Las Vegas Continue reading..."
-    },
-    {
-      "id": "741e028fe86c331ea9e4a441b36887e91d6d19ae",
-      "title": "The Mix 127: Bae Blade",
-      "link": "https://mixmag.net/feature/the-mix-127-bae-blade-berlin-breaks-trance-techno-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2tYTPJL9x-p7uQtNFLu97jPbSCekTVDr9UKrG5ShNCk",
-      "excerpt": "The German breaks and techno visionary lets it rip with a blistering mix that’s “a little bit playful, a little bit filthy”, and chats about the launch of her new label, making instinctive choices, and how her queerness comes to the fron…"
     }
   ]
 }
