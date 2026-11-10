@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:08:04.396Z",
+  "generatedAt": "2026-11-10T20:14:03.470Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/The-Snuts-Joy-In-Short-Moments.jpg",
       "excerpt": "The Snuts siguen a lo suyo, enrocados en esa empresa que no es otra que la de amasar una especie... La entrada Joy In Short Moments se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "af24cbf2491f4314ec94cb923e047a33d325236f",
+      "title": "Carl Cox has been awarded an OBE",
+      "link": "https://mixmag.net/read/carl-cox-has-been-awarded-an-obe-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/carl-cox-obe.jpg?fit=cover&width=660&s=YaLXmd6KLBGmCIfHGp5dHMWit_82qTvYf82hv_xw8p0",
+      "excerpt": "He picked up the prestigious honour at Windsor Castle for his outstanding contribution to music Continue reading..."
+    },
+    {
+      "id": "502dbac15636002a7e43cacef41bd96172780491",
+      "title": "AlphaTheta unveils new four-channel mixer, DJM-A7",
+      "link": "https://mixmag.net/read/alphatheta-unveils-new-four-channel-mixer-djm-a7-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/djm-a7-alphatheta.jpg?fit=cover&width=660&s=tt8h7zMrZNTCdHW-a7wZATk4CECP5fdZnKupsRP5N3g",
+      "excerpt": "The mixer is designed for “a wide range of venues and environments”, the music tech giant says Continue reading..."
+    },
+    {
+      "id": "8f14f0be5499d205f55e2249b67a9eed93f0fd5a",
+      "title": "“I’m gutted”: Hannah Laing announces cancellation of doof in the Park 2027",
+      "link": "https://mixmag.net/read/hannah-laing-announces-cancellation-doof-in-the-park-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hannah-laing-doof.jpg?fit=cover&width=660&s=PVs3gkxGGMgNwr1j1EGvHiOOm5auajWLGUk6KVD6wYo",
+      "excerpt": "Laing said that “behind the scenes” issues are to blame for the Dundee festival’s cancellation next year Continue reading..."
     },
     {
       "id": "e3d064f2f6dc09daf1d023e2ccbf8733d6f78282",
@@ -524,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -596,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
+      "image": "",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -656,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -728,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -752,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -836,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Budots.jpg?fit=cover&width=660&s=9Mqg9Yex8sSgRXlPmItblg1VnEJ9SFyCjihI5X71UfI",
       "excerpt": "The budots pioneer took the legendary British travel writer to his &quot;lair&quot; in Davao City during filming for Michael Palin in the Philippines Continue reading..."
-    },
-    {
-      "id": "2bf8cfe9b9b365ada5922120994394a67b8e5615",
-      "title": "Alison Wonderland: \"I think people will attend electronic shows until they're 80\"",
-      "link": "https://mixmag.net/feature/alison-wonderland-interview-pokemon-night-out-30-anniversary-london-los-angeles",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Alison-Wonderland-credit-Jared-Tinetti.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xhTrNi1UKPWazzQuQ-llm_AI6GLqMclZW5rVom_4NME",
-      "excerpt": "Ahead of her appearance at Pokémon Night Out at The O2 London on November 10 with Marshmello, we caught up with Mixmag mainstay Alison Wonderland to find out what she’s got in store for the 30th celebrations, how she&#039;s going indepen…"
-    },
-    {
-      "id": "b864d54e8c5bb120c2285bc4d256096844da1a4a",
-      "title": "YouTube Music will now tag AI-generated content",
-      "link": "https://mixmag.net/read/youtube-music-now-tag-ai-generated-tracks-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/youtube-music-free.jpg?fit=cover&width=660&s=fzEczZ1BEAgdHe8r7FAMR9pgw7Gqy5KYr6SHWHiCEQI",
-      "excerpt": "It’s the latest music streaming platform to roll out AI tagging systems Continue reading..."
-    },
-    {
-      "id": "632a12e8d2ccf2ab912443ce7367a72901a518ce",
-      "title": "Applications open for Beatport Next Program 2027",
-      "link": "https://mixmag.net/read/applications-open-for-beatport-next-2027-development-programme-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Beatport-Next.png?fit=cover&width=660&s=xXY1wXjg2Dyf1Oyu4oONQ2CA_rea5Y4gwlbrTX_NZ_k",
-      "excerpt": "Supporting up-and-coming artists in electronic music, former alumni of the year-long programme include Lou Nour, Ma Sha and D Stone Continue reading..."
     }
   ]
 }
