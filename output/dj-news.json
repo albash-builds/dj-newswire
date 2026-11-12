@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T05:53:21.340Z",
+  "generatedAt": "2026-11-12T14:40:55.071Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,76 @@
     }
   ],
   "items": [
+    {
+      "id": "3e865aa4947f3f0870dec479708d4a213116fc14",
+      "title": "Nahiago bidea",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/mirail-nahiago-bidea/",
+      "published": "2026-11-12T10:35:59.000Z",
+      "publishedTs": 1794479759000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Mirail.jpg",
+      "excerpt": "Urnietako rock eszena berriz ere puri-purian dabilenaren adierazle garbia da Mirail taldea agertu izana. Aurretik hainbat proiektutan ibilitako musikariak elkartu... La entrada Nahiago bidea se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "c4d1bc3fe9cc8c8d78a7e7da7eba4a8f1efce0e5",
+      "title": "eder",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/amooma-eder/",
+      "published": "2026-11-12T10:27:49.000Z",
+      "publishedTs": 1794479269000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Amooma.jpg",
+      "excerpt": "El combo bilbaíno Amooma presenta esta reválida como un puñetazo sobre la mesa que mezcla funk, groove disco, narrativa hip-hop... La entrada eder se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ac479f28bb50f3a2ca88682ddc59e64039080b35",
+      "title": "Doveland",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/django-django-doveland/",
+      "published": "2026-11-12T08:02:55.000Z",
+      "publishedTs": 1794470575000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Django-Django-Doveland.jpg",
+      "excerpt": "Así como en la cocina hogareña o el deporte amateur, hacer magia en la música pop es una tarea loable.... La entrada Doveland se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "47ddc5c3a65e8671ea786efc66650336f6562976",
+      "title": "Los Espíritus",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/tortel-los-espiritus/",
+      "published": "2026-11-12T06:07:09.000Z",
+      "publishedTs": 1794463629000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/tortel-los-espiritus.jpg",
+      "excerpt": "Recordamos al instante que Jorge Pérez tiene callo en esto de la canción con entraña cuando le vemos desgranar, en... La entrada Los Espíritus se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ab2f51b3f456afbdcd2ff210114456e4e6d41f9c",
+      "title": "Autosmile",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/autosmile/",
+      "published": "2026-11-12T05:58:01.000Z",
+      "publishedTs": 1794463081000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/@-Autosmile.jpg",
+      "excerpt": "Tras el no poco enigmático nombre de @ –pronunciado ‘at’– se esconde el dúo formado por Stone Filipczak y Victoria... La entrada Autosmile se publicó primero en MondoSonoro ."
+    },
     {
       "id": "38c87c87de2f0b0e2435ff780fe832ed83b22ec1",
       "title": "Put A Smile On For Me",
@@ -98,74 +168,28 @@
       "excerpt": "Que las ligas dream pop y shoegaze están cada vez más pobladas de nuevos fieles lo demuestran proyectos tan sugerentes... La entrada Allí Donde No Alumbran Las Farolas se publicó primero en MondoSonoro ."
     },
     {
-      "id": "a853f18ffc75abb3ae8756950e46748151a2f592",
-      "title": "Bordell (Reedición)",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/bordell-reedicion/",
-      "published": "2026-11-06T08:24:14.000Z",
-      "publishedTs": 1793953454000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/umpah-pah-bordell.jpg",
-      "excerpt": "Aunque la suya fue una trayectoria breve, Umpah-pah tuvieron tiempo de escribir uno de los capítulos más brillantes de la... La entrada Bordell (Reedición) se publicó primero en MondoSonoro ."
+      "id": "ec896cde46e026d050bb0212e703b5de2383e992",
+      "title": "UK cultural organisations urge Andy Burnham to break EU touring deadlock",
+      "link": "https://mixmag.net/read/uk-cultural-organisations-urge-andy-burnham-break-eu-touring-deadlock-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/CEC-EU-Touring.jpg?fit=cover&width=660&s=oeXb7OFY1cSaXNtMvHb5Ro6vWGVn6xqayuHGUoTnXRQ",
+      "excerpt": "According to a survey from UK Music, 95% of touring musicians have reported a loss of earnings since Brexit Continue reading..."
     },
     {
-      "id": "a2391391ca73ad34b1d2364f80e94ff7d56fe8a7",
-      "title": "Clapping To Stay Alive",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/foreign-age-clapping-to-stay-alive/",
-      "published": "2026-11-05T18:49:53.000Z",
-      "publishedTs": 1793904593000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/foreign-age.jpg",
-      "excerpt": "Hay autores a los que cuesta arrancarles sus influencias y referencias. Otros sin embargo las exponen alegremente. Es el caso... La entrada Clapping To Stay Alive se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "80aa788bd021249ff28c1ea510300908fbcce880",
-      "title": "Perfecth",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/queens-of-the-stone-age-perfecth-disco/",
-      "published": "2026-11-05T09:28:35.000Z",
-      "publishedTs": 1793870915000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/QueensOfStoneAge.jpg",
-      "excerpt": "La vida, con sus inevitables catástrofes, sigue siendo el gran combustible del arte. Josh Homme vivió un divorcio doloroso con... La entrada Perfecth se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3b1759663f44d8e711d2e25a2330facfd4e1ee02",
-      "title": "Ez Hil Inoiz",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/etxekalte-ez-hil-inoiz/",
-      "published": "2026-11-04T18:10:53.000Z",
-      "publishedTs": 1793815853000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/etxekalte.jpg",
-      "excerpt": "Rock alternatibotik zein post-hardcoretik abiatutako talde baten hamargarren urteurrena ez da soilik atzera begirako ariketa nostalgikoa izaten; maiz, norabide artistikoaren... La entrada Ez Hil Inoiz se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "52733154efc20b88b3cda7060c9b3edc4c53bbd3",
-      "title": "Carne con patatas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-zigarros-carne-con-patatas/",
-      "published": "2026-11-03T16:35:47.000Z",
-      "publishedTs": 1793723747000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Los-Zigarros-Carne-con-patatas.jpg",
-      "excerpt": "Desde su misma creación, la banda valenciana ha escogido definirse a través de la invocación de los engranajes que agitan... La entrada Carne con patatas se publicó primero en MondoSonoro ."
+      "id": "7b20025a31ce9c928aa16d727bdb198e538c3a26",
+      "title": "Vinyl featuring music from Earth has travelled almost one light-day away, NASA says",
+      "link": "https://mixmag.net/read/vinyl-featuring-music-earth-travelled-almost-one-light-day-away-nasa-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nasa-record-space.jpg?fit=cover&width=660&s=5lcNXTbqCqs2NHBUpaXnlQvfUADNV-iyk0pr5Y66f2E",
+      "excerpt": "After almost 50 years, a spacecraft carrying the record is due to reach 16 billion miles from Earth next week Continue reading..."
     },
     {
       "id": "72bcae6b96c9404309606e17c7800df321208872",
@@ -332,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -356,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -416,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -632,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -644,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
+      "image": "",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -764,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -836,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -860,7 +884,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-1.jpg?fit=cover&width=660&s=m5gr_QHKtv4EkQlIFXlq37gSBlYRDrPq77oxaVhKFoY",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "13dda5acab1b2a70ee69344436f8b8ed4957cb1b",
-      "title": "Festival line-ups you might have missed: E-Fest, Primavera Sound, Circles",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-8-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Screenshot-2026-10-19-at-09.58.08.png?fit=cover&width=660&s=FvDtUWrNdoNdU2SazQF1l7-5n-NzuMff5Z5qYDK-nX4",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "7980d0df759e0810f9327473baec52a00a1eb18f",
-      "title": "Pokémon is celebrating 30 years with a Night Out at London's The O2",
-      "link": "https://mixmag.net/read/pokemon-night-out-30-years-london-party-electronic-music-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pno.jpg?fit=cover&width=660&s=DmHAXmUShVwgbw4eI-XEPEpHTzZ8KyHG5YtYCVZyZt0",
-      "excerpt": "Marshmello and Alison Wonderland DJing with a surprising collaborator: Pikachu. Here&#039;s everything you need to know about the Pokémon Night Out at London&#039;s The O2 in November Continue reading..."
     }
   ]
 }
