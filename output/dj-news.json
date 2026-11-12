@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:17:47.739Z",
+  "generatedAt": "2026-11-12T05:53:21.340Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "38c87c87de2f0b0e2435ff780fe832ed83b22ec1",
+      "title": "Put A Smile On For Me",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/keo-put-a-smile-on-for-me/",
+      "published": "2026-11-12T05:20:11.000Z",
+      "publishedTs": 1794460811000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/KEO-Put-A-Smile-On-For-Me.jpg",
+      "excerpt": "Por increíble que parezca, una de las últimas sensaciones en el Reino Unido no practica ni shoegaze ni post-punk, posiblemente... La entrada Put A Smile On For Me se publicó primero en MondoSonoro ."
+    },
     {
       "id": "db1a9eb26ca33d06e5a510dead8cc03dd3342648",
       "title": "How’s It Goin’",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Los-Zigarros-Carne-con-patatas.jpg",
       "excerpt": "Desde su misma creación, la banda valenciana ha escogido definirse a través de la invocación de los engranajes que agitan... La entrada Carne con patatas se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "30eef105fb6ff808514b4451f7400b505c290f58",
-      "title": "Joy In Short Moments",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-snuts-oy-in-short-moments/",
-      "published": "2026-11-03T07:16:40.000Z",
-      "publishedTs": 1793690200000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/The-Snuts-Joy-In-Short-Moments.jpg",
-      "excerpt": "The Snuts siguen a lo suyo, enrocados en esa empresa que no es otra que la de amasar una especie... La entrada Joy In Short Moments se publicó primero en MondoSonoro ."
     },
     {
       "id": "72bcae6b96c9404309606e17c7800df321208872",
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -332,7 +332,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -356,7 +356,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
+      "image": "",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -380,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -416,7 +416,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
+      "image": "",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -632,7 +632,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -752,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
+      "image": "",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -764,7 +764,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -836,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -944,7 +944,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
+      "image": "",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
