@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:24:00.839Z",
+  "generatedAt": "2026-11-13T10:33:40.566Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "7ad4bd708a8ead8b015023425abcb5a90c9fac0d",
+      "title": "Crítica de “Carnaval De Luz”, nuevo trabajo de los irlandeses U2",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/carnaval-de-luz-u2/",
+      "published": "2026-11-13T10:32:56.000Z",
+      "publishedTs": 1794565976000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/U2CD.jpg",
+      "excerpt": "Hubo un momento –no demasiado lejano en tiempo relativo, no vayan a pensarse– en el que daba cierto apuro seguir... La entrada Crítica de “Carnaval De Luz”, nuevo trabajo de los irlandeses U2 se publicó primero en MondoSonoro ."
+    },
     {
       "id": "3e865aa4947f3f0870dec479708d4a213116fc14",
       "title": "Nahiago bidea",
@@ -127,7 +141,7 @@
     },
     {
       "id": "016a75217be2237403c893c8f325af1c3e462d46",
-      "title": "Crítica de 'Pop! Magic! Tragedy!', el nuevo disco de Cariño",
+      "title": "Pop! Magic! Tragedy!",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/carino-pop/",
       "published": "2026-11-10T07:28:58.000Z",
       "publishedTs": 1794295738000,
@@ -137,7 +151,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Carino-Pop-Magic-Tragedy.jpg",
-      "excerpt": "La discografía de Cariño ha sido, en cierto modo, como la vida de cualquier adulto joven que transita sus veintitantos... La entrada Crítica de &#039;Pop! Magic! Tragedy!&#039;, el nuevo disco de Cariño se publicó primero en MondoSonoro ."
+      "excerpt": "La discografía de Cariño ha sido, en cierto modo, como la vida de cualquier adulto joven que transita sus veintitantos... La entrada Pop! Magic! Tragedy! se publicó primero en MondoSonoro ."
     },
     {
       "id": "d8733027c46468d624628acfbd295a8f560e893d",
@@ -152,20 +166,6 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Fountains-of-Youth.jpg",
       "excerpt": "La banda australiana tenía intención de sacar un doble vinilo en vivo antes de publicar “Sixteen Lovers Lane”, pero la... La entrada “Fountains of Youth: Live at the Town &#038; Country Club, London” se publicó primero en MondoSonoro ."
-    },
-    {
-      "id": "3279c525a242da20429ad96527343f49ab365abe",
-      "title": "Allí Donde No Alumbran Las Farolas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/me-acuerdo-de-todo-alli-donde-no-alumbran-las-farolas/",
-      "published": "2026-11-08T08:22:00.000Z",
-      "publishedTs": 1794126120000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Me-Acuerdo-de-Todo-Alli-Donde-No-Alumbran-Las-Farolas.jpg",
-      "excerpt": "Que las ligas dream pop y shoegaze están cada vez más pobladas de nuevos fieles lo demuestran proyectos tan sugerentes... La entrada Allí Donde No Alumbran Las Farolas se publicó primero en MondoSonoro ."
     },
     {
       "id": "e09e68f2eaf6ea3933f77dfa52f7b677e71ddc22",
@@ -248,7 +248,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -800,7 +800,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -872,7 +872,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -896,7 +896,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -968,7 +968,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVER_WEB_ALCHEMICALSISTERS_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=4khe9Ff-rJeTVXCWiz00RB2sSqfihb0sZRURlCeeC88",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     },
     {
@@ -980,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_ALCHEMICAL_ARTWORK_2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=gVpmV63EGP7Mzn_v8OLj7dm-0f8yqZiLKGp6wHW0VfI",
       "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
     },
     {
