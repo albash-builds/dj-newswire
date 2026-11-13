@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:33:40.566Z",
+  "generatedAt": "2026-11-13T18:23:01.193Z",
   "total": 90,
   "sources": [
     {
@@ -166,6 +166,42 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Fountains-of-Youth.jpg",
       "excerpt": "La banda australiana tenía intención de sacar un doble vinilo en vivo antes de publicar “Sixteen Lovers Lane”, pero la... La entrada “Fountains of Youth: Live at the Town &#038; Country Club, London” se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "4b043f56a9b93544cdf91ac2e8afe75bddffd490",
+      "title": "Independent record stores to host GTA VI album listening parties next week",
+      "link": "https://mixmag.net/read/independent-record-stores-to-host-gta-vi-album-listening-parties-next-week-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTA-VI-listening.jpg?fit=cover&width=660&s=PkprDB2ueZncskQKJsU-HdYCB2y81x2hsxzQmM4TuQ0",
+      "excerpt": "Stores across the US, UK, Germany, South Korea, France, Australia and more will play the record ahead of the game&#039;s release on November 19 Continue reading..."
+    },
+    {
+      "id": "101b2068594771b9cc89201dc3d843ab97cce607",
+      "title": "New nightclub and record store opens in Manchester, Resident",
+      "link": "https://mixmag.net/read/new-nightclub-record-store-opens-manchester-resident-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/resident-club-mcr.jpg?fit=cover&width=660&s=LkH6wA_tA77h36Tj3-jWBBhLbW-JNMBDBkNn1Pjq7k0",
+      "excerpt": "The venue also comprises a five-floor bar and kitchen Continue reading..."
+    },
+    {
+      "id": "38fb01620063a70b83ef8abb9c66cdec2a5ed78b",
+      "title": "12 DJs pay tribute to Juan Atkins",
+      "link": "https://mixmag.net/feature/12-djs-pay-tribute-to-juan-atkins",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
+      "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
       "id": "e09e68f2eaf6ea3933f77dfa52f7b677e71ddc22",
@@ -356,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -392,7 +428,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -404,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -740,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
+      "image": "",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     },
     {
@@ -800,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -896,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
+      "image": "",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vinyl-record_2026-10-19-124932_aphq.jpg?fit=cover&width=660&s=VITyFcsrvs7NMmVZ5bCj-eTXUUPbDGEudRcqnkcs6rE",
       "excerpt": "Spearheaded by Makbas Records, the plant will work with MENA-based and international artists to help circumvent rising global shipping costs Continue reading..."
-    },
-    {
-      "id": "3b686f9cd998f90e22281c710a22cada03478926",
-      "title": "Youth Music opens £2.4 million arts fund addressing industry-wide racial inequity",
-      "link": "https://mixmag.net/read/youth-music-opens-2-million-arts-fund-addressing-industry-wide-racial-inequity-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/youth-music-fund.jpg?fit=cover&width=660&s=Jq8WGviVqljdIdVufoRssSVyxy5oyEMC129PCSafXJI",
-      "excerpt": "20 organisations will receive grants of up to £120,000 over the coming years Continue reading..."
-    },
-    {
-      "id": "c8ab0e2909d5895681ca7d14373ec7c061aa936b",
-      "title": "Bus passengers in England could be fined £100 for playing loud music",
-      "link": "https://mixmag.net/read/uk-bus-passengers-could-be-fined-100-for-playing-loud-music-new-government-proposals-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/bus-Passengers.jpg?fit=cover&width=660&s=B1WJbIlKap3ddVTL99Yb1gfaosrjPgeSTVoPVO0xC7g",
-      "excerpt": "Prime Minister Andy Burnham said that &quot;blasting music or videos&quot; on public transport &quot;gets on your nerves and can quickly spoil your journey&quot; Continue reading..."
-    },
-    {
-      "id": "afb2f2a93beb0c1d83c2e61be0ca80b9c733eb28",
-      "title": "Police shut down 200-strong illegal rave at farm building in Cambridge",
-      "link": "https://mixmag.net/read/police-shut-down-200-strong-illegal-rave-farm-building-cambridge-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/farm-uk.jpg?fit=cover&width=660&s=zU3E8fXxCrnQuIoZHhH7StebvzxOAVjVhJXIBQ7YzJY",
-      "excerpt": "Three people were arrested at the unlicensed event in Litlington, South Cambridge Continue reading..."
     }
   ]
 }
