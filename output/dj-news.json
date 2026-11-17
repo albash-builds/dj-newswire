@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:41:18.055Z",
+  "generatedAt": "2026-11-17T23:44:46.788Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "99c59c1addf0b4d918ed6a4292774c1bd0c629be",
+      "title": "\"Fortuna Kid\" es el nuevo álbum de Barry B",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/barry-b-fortuna-kid/",
+      "published": "2026-11-17T20:00:32.000Z",
+      "publishedTs": 1794945632000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/barry-b-fortuna-kid.jpg",
+      "excerpt": "El nuevo disco de Barry B empieza con un artista en llamas que avanza arrasando con todo, priorizando sueños y... La entrada &quot;Fortuna Kid&quot; es el nuevo álbum de Barry B se publicó primero en MondoSonoro ."
+    },
     {
       "id": "402a0f1b9a0036f41e5f00b9322a41a2cef2dfb1",
       "title": "Old Flames",
@@ -154,18 +168,40 @@
       "excerpt": "Urnietako rock eszena berriz ere puri-purian dabilenaren adierazle garbia da Mirail taldea agertu izana. Aurretik hainbat proiektutan ibilitako musikariak elkartu... La entrada Nahiago bidea se publicó primero en MondoSonoro ."
     },
     {
-      "id": "c4d1bc3fe9cc8c8d78a7e7da7eba4a8f1efce0e5",
-      "title": "eder",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/amooma-eder/",
-      "published": "2026-11-12T10:27:49.000Z",
-      "publishedTs": 1794479269000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Amooma.jpg",
-      "excerpt": "El combo bilbaíno Amooma presenta esta reválida como un puñetazo sobre la mesa que mezcla funk, groove disco, narrativa hip-hop... La entrada eder se publicó primero en MondoSonoro ."
+      "id": "d7ac2b19b11c2b47593ab29b66e803645748d0ff",
+      "title": "As gentrification culls Reykjavik’s venues, Iceland Airwaves gives local music a stage",
+      "link": "https://mixmag.net/feature/gentrification-culls-reykjaviks-venues-iceland-airwaves-gives-local-music-stage-festival-review",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/iceland-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xjRu8FyJOFOX8kjbofBlemPQzvGQuFWEwildtpdVW-g",
+      "excerpt": "The gentrification that has followed tourism in Iceland is pushing music venues out. In a country where few nightlife spaces exist, we visited the annual showcase festival Iceland Airwaves to find out how its music scenes are thriving de…"
+    },
+    {
+      "id": "6a1c42da10a786729811a1ac02003390e9999613",
+      "title": "Vilnius Nights is an ambitious gateway into Lithuania's quality club scene",
+      "link": "https://mixmag.net/feature/vilnius-nights-lithuania-nightlife-club-scene-gallery-elastica-anna-mesha-cornercafe",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gallery1986_Tautvydas_Stukas25.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=tl2kT1c2nUOEEA5yA_M40dhc-o3Dg1TOphOGzGmAq0k",
+      "excerpt": "A marathon party organised by the Vilnius Night Office brings a new dimension to the capital city’s nightlife, hoping to attract fresh energy and spark positive progress within the scene. Across a whirlwind weekend of club-hopping, Patri…"
+    },
+    {
+      "id": "cfd3059b56a88d45d33263fb2429dddd59d4b291",
+      "title": "Inside Rossi.'s biggest-ever Leeds headline show at TESTBED",
+      "link": "https://mixmag.net/feature/inside-rossis-biggest-ever-leeds-headline-show-at-testbed",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rossi-testbed-000.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8Za9mrPMw1wO02RUhsBqkQbJobHWzDpHnYR5oKLmlgA",
+      "excerpt": "The warehouse venue, which relaunched in October following renovations, has shared details of an exciting plethora of acts coming up throughout the remainder of 2026 and into 2027 Continue reading..."
     },
     {
       "id": "61dd135cec41a475b70f0e0df17a335ea195c645",
@@ -404,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -512,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -524,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -548,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -560,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -572,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -824,7 +860,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -944,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -956,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -1028,7 +1064,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
@@ -1090,42 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/night-out-uk.jpg?fit=cover&width=660&s=gp0BwqtItzlfbr1tn7oK1zBZo66euprRyWDqSQF07Rg",
       "excerpt": "The study claims that socialising is the first thing people scale back on Continue reading..."
-    },
-    {
-      "id": "e283b4e01d70f48fe395aedc8aacbd3067a55d62",
-      "title": "Oversold Glastonbury 2027 tickets will still be valid, festival confirms",
-      "link": "https://mixmag.net/read/oversold-glastonbury-2027-tickets-still-be-valid-festival-confirms-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/glasto-oversold.jpg?fit=cover&width=660&s=SX117OzUJY0CFy4QaCJL1-exOpZDnsdNvUnASky06kw",
-      "excerpt": "See Tickets admitted that more coach tickets for next year’s festival were sold than seats available Continue reading..."
-    },
-    {
-      "id": "9e57033aa643ecebba5a3eedf6b0bb213723a041",
-      "title": "Wilkinson takes us to his Cotswolds getaway in latest episode of Mixmag x CUPRA's Making Tracks",
-      "link": "https://mixmag.net/read/wilkinson-takes-us-to-his-cotswolds-getaway-in-latest-episode-of-mixmag-x-cupras-making-tracks-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Wilkinson_2026-10-26-175109_hife.jpg?fit=cover&width=660&s=fVELVLq8uFVZwo207fZhDVWSsDjpAQgAvNRSLF6wTlI",
-      "excerpt": "The drum &#039;n&#039; bass mainstay shows us how he road tests new music after busy weekends performing around the world Continue reading..."
-    },
-    {
-      "id": "063342687fafe1e2c344b2613cd66ec6225a920f",
-      "title": "How Eris Drew and Octo Octa formed a band from a four-day psychedelic trip",
-      "link": "https://mixmag.net/feature/eris-drew-octo-octa-alchemical-sisters-cover-feature-interview",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
     }
   ]
 }
