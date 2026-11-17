@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T06:42:58.501Z",
+  "generatedAt": "2026-11-17T16:41:18.055Z",
   "total": 90,
   "sources": [
     {
@@ -28,8 +28,22 @@
   ],
   "items": [
     {
+      "id": "402a0f1b9a0036f41e5f00b9322a41a2cef2dfb1",
+      "title": "Old Flames",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-roux-old-flames/",
+      "published": "2026-11-17T06:42:24.000Z",
+      "publishedTs": 1794897744000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/la-roux-old-flames.jpg",
+      "excerpt": "Cómo asumir tras diecisiete años de relación que ha llegado el momento de cerrar esa etapa. “Old Flames” (Vertigo Records/Universal... La entrada Old Flames se publicó primero en MondoSonoro ."
+    },
+    {
       "id": "0eab1c56e83b996ec2a4bde1275d2681e8d3dc32",
-      "title": "'Un río de angustias desbocadas' es el nuevo disco de Los Punsetes",
+      "title": "'Un río de angustia desbocada' es el nuevo disco de Los Punsetes",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/los-punsetes-un-rio/",
       "published": "2026-11-17T06:16:58.000Z",
       "publishedTs": 1794896218000,
@@ -39,7 +53,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/los-punsetes-un-rio.jpg",
-      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada &#039;Un río de angustias desbocadas&#039; es el nuevo disco de Los Punsetes se publicó primero en Mond…"
+      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada &#039;Un río de angustia desbocada&#039; es el nuevo disco de Los Punsetes se publicó primero en MondoS…"
     },
     {
       "id": "7114adeea47b6ad8774be300384a00db0a22c8af",
@@ -71,7 +85,7 @@
     },
     {
       "id": "5b0273d2374ca3cd3077fe8cf35b712582f8a65c",
-      "title": "Crítica de 'Salto de fé', el nuevo disco de SFDK",
+      "title": "Salto de fé",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/sfdk-salto-de-fe/",
       "published": "2026-11-16T11:38:58.000Z",
       "publishedTs": 1794829138000,
@@ -81,7 +95,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/SFDK-Salto-de-fe.jpg",
-      "excerpt": "Tres años después de su álbum, “Inkebrantable” (23), la veterana dupla sevillana publica “Salto de fé” y continúa engrosando su... La entrada Crítica de &#039;Salto de fé&#039;, el nuevo disco de SFDK se publicó primero en MondoSonoro ."
+      "excerpt": "Tres años después de su álbum, “Inkebrantable” (23), la veterana dupla sevillana publica “Salto de fé” y continúa engrosando su... La entrada Salto de fé se publicó primero en MondoSonoro ."
     },
     {
       "id": "eb4a5107b6c4ccac73c48b558c9353b17278a26e",
@@ -154,18 +168,52 @@
       "excerpt": "El combo bilbaíno Amooma presenta esta reválida como un puñetazo sobre la mesa que mezcla funk, groove disco, narrativa hip-hop... La entrada eder se publicó primero en MondoSonoro ."
     },
     {
-      "id": "ac479f28bb50f3a2ca88682ddc59e64039080b35",
-      "title": "Doveland",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/django-django-doveland/",
-      "published": "2026-11-12T08:02:55.000Z",
-      "publishedTs": 1794470575000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Django-Django-Doveland.jpg",
-      "excerpt": "Así como en la cocina hogareña o el deporte amateur, hacer magia en la música pop es una tarea loable.... La entrada Doveland se publicó primero en MondoSonoro ."
+      "id": "61dd135cec41a475b70f0e0df17a335ea195c645",
+      "title": "72% of music streaming users want more transparency on AI music, study finds",
+      "link": "https://mixmag.net/read/72-percent-music-listeners-more-transparency-ai-music-streaming-platforms-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/AI-music-tablet.jpg?fit=cover&width=660&s=rMilCk7sPGcejc7T-8yHERrCu_N9tNAsOPN1n8hXwPM",
+      "excerpt": "In a survey from Deezer, almost three-quarters of listeners believed they had no AI-generated music on their playlist, despite the fact that 57% of respondents did Continue reading..."
+    },
+    {
+      "id": "d3481fea173bd637ae53f7e6eb7fd70c6eb9dc94",
+      "title": "New exhibition celebrating Fatboy Slim’s career to open in Brighton next year",
+      "link": "https://mixmag.net/read/new-exhibition-celebrating-fatboy-slim-career-open-brighton-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fatboy-slim-xhibition.jpg?fit=cover&width=660&s=fF_P-QprjKWWFYgd68TDaTaBu_wHwBivBP01YbOMmPI",
+      "excerpt": "Running from May 2027 at Brighton Museum &amp; Art Gallery, the exhibition features artefacts, personal pieces, photos and more Continue reading..."
+    },
+    {
+      "id": "0bb48dae8c8c2f4768e3ee874d714358f7bcc100",
+      "title": "New York Mayor Zohran Mamdani appoints new nightlife director",
+      "link": "https://mixmag.net/read/new-york-mayor-zohran-mamdani-appoints-new-nightlife-director-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/mamdani-nightlife.jpg?fit=cover&width=660&s=swvhoIGOTgxFeo5b-IXP13vBNkhN0Ny7titgkTgIIMU",
+      "excerpt": "Eric Thor has been made Director of the Office of Nightlife, aiming to support the industry from the “DJs and bartenders to security staff” Continue reading..."
+    },
+    {
+      "id": "fb1b155a3ff5ff441c5a647c364ad2135abc7a19",
+      "title": "AlphaTheta's DDJ-FLX2 will help you get your house party moving",
+      "link": "https://mixmag.net/feature/alphatheta-ddj-flx2-help-get-your-house-party-started",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DDJ-FLX2_Lifestyle-image-14_HR_6314x4212.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PORxCAJ05beEbsNihHkghzNPucMcD8ozeeCqL3KQxCQ",
+      "excerpt": "In our recent poll, 66% of you said that you had someone on the decks at your last house party – here&#039;s why AlphaTheta&#039;s compact DJ controller will make it even easier to get the crowd dancing on home turf Continue reading..."
     },
     {
       "id": "7cd421c4e78587befeb7ecc82e8c06720bed87cf",
@@ -272,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -356,7 +404,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
+      "image": "",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -464,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -500,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
+      "image": "",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -512,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -560,7 +608,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
+      "image": "",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -908,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
+      "image": "",
       "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     },
     {
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "",
       "excerpt": "Alchemical Sisters is the newest outcome of a powerful partnership between Eris Drew and Octo Octa, who&#039;ve been on a friends to lovers to now-bandmates arc. From their cabin in rural New Hampshire, they tell Delilah Friedler all abo…"
-    },
-    {
-      "id": "fbddca58485b912a46b2d489d9903a62505228a6",
-      "title": "The Cover Mix: Eris Drew and Octo Octa as Alchemical Sisters",
-      "link": "https://mixmag.net/feature/eris-drew-octo-octa-alchemical-sisters-mixmag-lab-cover-mix",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "To celebrate their appearance on the cover, Eris Drew and Octo Octa played their first-ever DJ set as Alchemical Sisters in the Mixmag Lab London Continue reading..."
-    },
-    {
-      "id": "c0d7e41d5214ae18157fbe9e8a3a1f907e361c86",
-      "title": "Samaʼ Abdulhadi withdraws from ADE citing booking of ex-IDF soldiers",
-      "link": "https://mixmag.net/read/sama-abdulhadi-withdraws-ade-citing-booking-ex-idf-soldiers-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sama-ade.jpg?fit=cover&width=660&s=NbhDQJ9EZaZpTSGUKJOwGtvd75UN6bW2_8mr9YpZ1K0",
-      "excerpt": "The Palestinian DJ claims that “several” artists booked have previously served in the Israeli military Continue reading..."
-    },
-    {
-      "id": "46c123f0462232c47ab49c17fcfd8c3e5902a4af",
-      "title": "Rockstar Games reportedly tried to reunite Daft Punk for GTA 6",
-      "link": "https://mixmag.net/read/rockstar-reportedly-tried-reunite-daft-punk-gta-6-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GTA-VI-1.jpg?fit=cover&width=660&s=0NDlDPReD8KO2BvgFBdN3PG4TwYABovnJB2EyBIXP-8",
-      "excerpt": "Reports claim that the former robots were offered an &quot;unlimited budget&quot; to create the video game&#039;s score for a &quot;final comeback&quot; Continue reading..."
-    },
-    {
-      "id": "da2bfafde58869cc941dbea00a743fd7530131d8",
-      "title": "Russian DJ removed from ADE line-up following threatening message to Ukrainian artist",
-      "link": "https://mixmag.net/read/russian-dj-removed-ade-line-up-following-threatening-message-ukrainian-artist-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/russian-dj-ade.jpg?fit=cover&width=660&s=uPhF_imqhvjs8WGhmzxOikfb04wUIIZwQ-vksmNIZJQ",
-      "excerpt": "Alexander Komarov was scheduled to play a show at party for record label Interplay Records Continue reading..."
     }
   ]
 }
