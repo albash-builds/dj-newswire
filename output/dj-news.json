@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:12:52.282Z",
+  "generatedAt": "2026-11-17T06:42:58.501Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "0eab1c56e83b996ec2a4bde1275d2681e8d3dc32",
+      "title": "'Un río de angustias desbocadas' es el nuevo disco de Los Punsetes",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-punsetes-un-rio/",
+      "published": "2026-11-17T06:16:58.000Z",
+      "publishedTs": 1794896218000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/los-punsetes-un-rio.jpg",
+      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada &#039;Un río de angustias desbocadas&#039; es el nuevo disco de Los Punsetes se publicó primero en Mond…"
+    },
     {
       "id": "7114adeea47b6ad8774be300384a00db0a22c8af",
       "title": "Reseña de 'Dejémoslo como estaba', el segundo álbum de Alcalá Norte",
@@ -154,20 +168,6 @@
       "excerpt": "Así como en la cocina hogareña o el deporte amateur, hacer magia en la música pop es una tarea loable.... La entrada Doveland se publicó primero en MondoSonoro ."
     },
     {
-      "id": "47ddc5c3a65e8671ea786efc66650336f6562976",
-      "title": "Los Espíritus",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/tortel-los-espiritus/",
-      "published": "2026-11-12T06:07:09.000Z",
-      "publishedTs": 1794463629000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/tortel-los-espiritus.jpg",
-      "excerpt": "Recordamos al instante que Jorge Pérez tiene callo en esto de la canción con entraña cuando le vemos desgranar, en... La entrada Los Espíritus se publicó primero en MondoSonoro ."
-    },
-    {
       "id": "7cd421c4e78587befeb7ecc82e8c06720bed87cf",
       "title": "Wigan-based radio station Alltrax is offering paid DJ residencies",
       "link": "https://mixmag.net/read/wigan-based-radio-station-alltrax-offer-paid-dj-residencies-news",
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
+      "image": "",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -476,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -512,7 +512,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -776,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -788,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
+      "image": "",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -896,7 +896,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
+      "image": "",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     },
     {
@@ -980,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/pulse-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=cTp1TnA-n-WBOUP1pgb4GTDhWPzGLMLBVWRwCuZObZM",
+      "image": "",
       "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
     },
     {
