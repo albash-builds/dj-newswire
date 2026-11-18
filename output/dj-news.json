@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:00:58.499Z",
+  "generatedAt": "2026-11-18T16:11:02.762Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "1af58e57aea2a5ff57375b83f36026eddf5744c9",
+      "title": "¿Quieres hacer el favor de callarte, por favor?",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/palomo-palomo-quieres-hacer-el-favor-de-callarte-por-favor/",
+      "published": "2026-11-18T13:51:46.000Z",
+      "publishedTs": 1795009906000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Palomo-Palomo-Quieres-hacer-el-favor-de-callarte-por-favor.jpg",
+      "excerpt": "Jugoso, muy jugoso se antoja el presente estreno en formato largo de Daniel V. Carrillo Palomo al frente de ese... La entrada ¿Quieres hacer el favor de callarte, por favor? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "ef4e42a875ea216625020b7fdc0320e26203a3d0",
+      "title": "En la casa",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/foyone-en-la-casa/",
+      "published": "2026-11-18T13:31:45.000Z",
+      "publishedTs": 1795008705000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Foyone-En-la-casa-.jpg",
+      "excerpt": "Hacía bastante tiempo, quizás desde el magno y operístico “Demoni”(24), que no se veía a Foyone con tanta hambre rapeando.... La entrada En la casa se publicó primero en MondoSonoro ."
+    },
     {
       "id": "99c59c1addf0b4d918ed6a4292774c1bd0c629be",
       "title": "\"Fortuna Kid\" es el nuevo álbum de Barry B",
@@ -71,7 +99,7 @@
     },
     {
       "id": "7114adeea47b6ad8774be300384a00db0a22c8af",
-      "title": "Reseña de 'Dejémoslo como estaba', el segundo álbum de Alcalá Norte",
+      "title": "Dejémoslo como estaba",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/alcala-norte-dejemoslo-como-estaba/",
       "published": "2026-11-16T15:26:51.000Z",
       "publishedTs": 1794842811000,
@@ -81,7 +109,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Alcala-Norte-Dejemoslo-como-estaba.jpg",
-      "excerpt": "La banda madrileña Alcalá Norte hizo realidad el cuento de hadas al que aspira cualquier formación de barrio: alcanzar el estrellato... La entrada Reseña de &#039;Dejémoslo como estaba&#039;, el segundo álbum de Alcalá Norte se publicó p…"
+      "excerpt": "La banda madrileña Alcalá Norte hizo realidad el cuento de hadas al que aspira cualquier formación de barrio: alcanzar el estrellato... La entrada Dejémoslo como estaba se publicó primero en MondoSonoro ."
     },
     {
       "id": "6745be4b2c9e5d8e30b47127ae6aafa6c9a48734",
@@ -140,32 +168,40 @@
       "excerpt": "Parte de la élite histórica del post metal, los suecos Cult Of Luna parecieran tener una gran responsabilidad sobre sus... La entrada In The Shadow Of Your Shadow se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7ad4bd708a8ead8b015023425abcb5a90c9fac0d",
-      "title": "Carnaval De Luz",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/carnaval-de-luz-u2/",
-      "published": "2026-11-13T10:32:56.000Z",
-      "publishedTs": 1794565976000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/U2CD.jpg",
-      "excerpt": "Hubo un momento –no demasiado lejano en tiempo relativo, no vayan a pensarse– en el que daba cierto apuro seguir... La entrada Carnaval De Luz se publicó primero en MondoSonoro ."
+      "id": "da5b2ce061268bb9611bb85436ea7d493d399cc7",
+      "title": "New York queer bar staff allegedly pepper-sprayed in homophobic attack",
+      "link": "https://mixmag.net/read/new-york-queer-bar-staff-allegedly-pepper-sprayed-homophobic-attack-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nyc-animal-bar.jpg?fit=cover&width=660&s=wNN8vax-41cXD9d4SGMqxGE8VDwWZ8fLC7rdf82D85Y",
+      "excerpt": "ANIMAL in Williamsburg claimed that three members of its team were victim to the attack Continue reading..."
     },
     {
-      "id": "3e865aa4947f3f0870dec479708d4a213116fc14",
-      "title": "Nahiago bidea",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/mirail-nahiago-bidea/",
-      "published": "2026-11-12T10:35:59.000Z",
-      "publishedTs": 1794479759000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Mirail.jpg",
-      "excerpt": "Urnietako rock eszena berriz ere puri-purian dabilenaren adierazle garbia da Mirail taldea agertu izana. Aurretik hainbat proiektutan ibilitako musikariak elkartu... La entrada Nahiago bidea se publicó primero en MondoSonoro ."
+      "id": "d40b84636c28e29bc34bf2f2a2243d15c0db6818",
+      "title": "Berlin venue Kraftwerk apologises for hosting exhibition for AI weapons manufacturer Helsing",
+      "link": "https://mixmag.net/read/berlins-kraftwerk-apologises-for-hosting-exhibition-for-ai-weapons-manufacturer-helsing-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kraftwerk-1.png?fit=cover&width=660&s=P_YsGOqmTgh6zdrvUKsoomaR8HEBBc3X95ArLM-3E4c",
+      "excerpt": "The venue was reportedly kitted out to resemble a &quot;military command post&quot; for the event Continue reading..."
+    },
+    {
+      "id": "24f2b721732ec1d79b566a220105d714dc44267b",
+      "title": "Kraftwerk, Massive Attack and The xx announced for Glastonbury Festival 2027",
+      "link": "https://mixmag.net/read/kraftwerk-massive-attack-the-xx-announced-glastonbury-festival-2027-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/glasto-2027-lineup.jpg?fit=cover&width=660&s=hcv-S_t8HzRYrpNFBwFkSgWWpNyi_LL1kO46An-spsU",
+      "excerpt": "The first wave of names for next year’s edition, including the Pyramid Stage headliners, have been revealed Continue reading..."
     },
     {
       "id": "d7ac2b19b11c2b47593ab29b66e803645748d0ff",
@@ -356,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -440,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -548,7 +584,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -584,7 +620,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -1088,44 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_ES2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=v_TijYRMXoKTt9h6k_nMa9OtI-so3ePnhvrV2XYBap8",
       "excerpt": "The Canadian multi-hyphenate ushers us into a sonic epiphany with her percussive club mix, and speaks to Megan Townsend about mythical energy, her refusal to shy away from difficult topics, and resisting the urge to disappear into the Ca…"
-    },
-    {
-      "id": "4ab0fd8cd405db60d3cd0846f5f1f767a6d55066",
-      "title": "Daft Punk announce official partnership with LEGO",
-      "link": "https://mixmag.net/read/daft-punk-announce-first-ever-official-partnership-with-lego-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DAFT-P.png?fit=cover&width=660&s=CAKli9NGMqU7qu5JrN2o0zKimZt7kN0QzPLYmMmDzzI",
-      "excerpt": "The robots will become &quot;LEGO After All&quot; with plans for an Alive Tour 2007-inspired set Continue reading..."
-    },
-    {
-      "id": "b5e5d2a766bd7a17cd49e95594eaa9f68c34a959",
-      "title": "Late DJ and label head Chris Stoker celebrated with new short film",
-      "link": "https://mixmag.net/read/watch-new-film-celebrating-late-dj-label-head-chris-stoker-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/chris-stoker.png?fit=cover&width=660&s=ra_aAHxuJ_Gbh06g3jdpqPJ3jNmAtNGGlg_5DzNr6J0",
-      "excerpt": "The film, produced by ACMH and Love International, pays tribute to the Not An Animal co-founder who passed away earlier this year Continue reading..."
-    },
-    {
-      "id": "cb19f8068f616eccc42a50f12ebfc555617b5e93",
-      "title": "Over a third of Brits cut down on nights out and gigs amid rising costs, study finds",
-      "link": "https://mixmag.net/read/over-third-brits-cut-down-nights-out-gigs-rising-costs-study-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/night-out-uk.jpg?fit=cover&width=660&s=gp0BwqtItzlfbr1tn7oK1zBZo66euprRyWDqSQF07Rg",
-      "excerpt": "The study claims that socialising is the first thing people scale back on Continue reading..."
     }
   ]
 }
