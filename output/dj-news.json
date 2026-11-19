@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:01:25.625Z",
+  "generatedAt": "2026-11-19T16:18:21.507Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,48 @@
     }
   ],
   "items": [
+    {
+      "id": "88502e7bbda1da07f107dd28af4fffad7b232ba5",
+      "title": "Galduta nabil eta ez dakit",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/txopet-galduta-nabil-eta-ez-dakit/",
+      "published": "2026-11-19T12:56:51.000Z",
+      "publishedTs": 1795093011000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Txopet.jpg",
+      "excerpt": "Eszenatoki gainean zaudenean eta disko berriaren aurkezpen biran murgilduta zaudenean, nahi duzun azken gauza frenatzea da. Are gutxiago, kolpe batez... La entrada Galduta nabil eta ez dakit se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "883e054bb7186f91093008c299636260807a123e",
+      "title": "Music For Empty Stadiums",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/or-music-for-empty-stadiums/",
+      "published": "2026-11-19T11:21:03.000Z",
+      "publishedTs": 1795087263000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/OR-Music-For-Empty-Stadiums.jpg",
+      "excerpt": "Catorce años después de “Fin” (12), uno de esos discos llamados a sobrevivir a las modas y a las estrecheces... La entrada Music For Empty Stadiums se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "fc33765be65be704909f04fb8e7009339e55ec68",
+      "title": "Latest Hits!",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/the-loved-ones-lastest-hits/",
+      "published": "2026-11-19T08:49:05.000Z",
+      "publishedTs": 1795078145000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/The-Loved-Ones-LATEST-HITS.jpg",
+      "excerpt": "Encabezados por el siempre encantador Bart Davenport, The Loved Ones regresan a escena treintaitrés años después de aquel delicioso “Better... La entrada Latest Hits! se publicó primero en MondoSonoro ."
+    },
     {
       "id": "1af58e57aea2a5ff57375b83f36026eddf5744c9",
       "title": "¿Quieres hacer el favor de callarte, por favor?",
@@ -85,7 +127,7 @@
     },
     {
       "id": "0eab1c56e83b996ec2a4bde1275d2681e8d3dc32",
-      "title": "'Un río de angustia desbocada' es el nuevo disco de Los Punsetes",
+      "title": "Un río de angustia desbocada",
       "link": "https://www.mondosonoro.com/criticas/discos-musica/los-punsetes-un-rio/",
       "published": "2026-11-17T06:16:58.000Z",
       "publishedTs": 1794896218000,
@@ -95,7 +137,7 @@
         "Discos"
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/los-punsetes-un-rio.jpg",
-      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada &#039;Un río de angustia desbocada&#039; es el nuevo disco de Los Punsetes se publicó primero en MondoS…"
+      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada Un río de angustia desbocada se publicó primero en MondoSonoro ."
     },
     {
       "id": "7114adeea47b6ad8774be300384a00db0a22c8af",
@@ -126,46 +168,52 @@
       "excerpt": "A estas alturas de la película, ya sabemos todos que Niña Bala es lo que ha ocurrido cuando se han... La entrada Niña Bala se publicó primero en MondoSonoro ."
     },
     {
-      "id": "5b0273d2374ca3cd3077fe8cf35b712582f8a65c",
-      "title": "Salto de fé",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/sfdk-salto-de-fe/",
-      "published": "2026-11-16T11:38:58.000Z",
-      "publishedTs": 1794829138000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/SFDK-Salto-de-fe.jpg",
-      "excerpt": "Tres años después de su álbum, “Inkebrantable” (23), la veterana dupla sevillana publica “Salto de fé” y continúa engrosando su... La entrada Salto de fé se publicó primero en MondoSonoro ."
+      "id": "0673943b57d79952ebc0684e0dd9797a1f794fd5",
+      "title": "Berlin Atonal \"strongly condemns\" Kraftwerk venue following AI military event",
+      "link": "https://mixmag.net/read/berlin-atonal-slams-kraftwerk-following-exhibition-for-ai-military-firm-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Atonal-Kraftwerk.jpg?fit=cover&width=660&s=6zxCndPgEVVWK2vPWHd_xf4tFBiPzrt2pVfCOExOaIc",
+      "excerpt": "The festival, which insisted it &quot;should not be housed in a space that goes against its values&quot;, will return to the former Mitte power station for its next edition Continue reading..."
     },
     {
-      "id": "eb4a5107b6c4ccac73c48b558c9353b17278a26e",
-      "title": "Para ser dos chicas",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/pinpilinpussies-para-ser-dos-chicas/",
-      "published": "2026-11-16T07:30:41.000Z",
-      "publishedTs": 1794814241000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Pinpilinpussies-Para-ser-dos-chicas-.jpg",
-      "excerpt": "Una guitarra, mucho fuzz, un bombo contundente, dos voces que se van alternando y una actitud heredada del movimiento riot... La entrada Para ser dos chicas se publicó primero en MondoSonoro ."
+      "id": "bb96cf68f74616c59d671566efabb7b8165e4657",
+      "title": "Spotify says it will “protect” artists from misattributed AI tracks",
+      "link": "https://mixmag.net/read/spotify-says-protect-artists-misattributed-ai-tracks-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/spotify-credit-Pew-Nguyen.jpg?fit=cover&width=660&s=f8ugrZ7DX0IlSaPYUG1lKjGMFtzImoAYCpdQwJhN5pw",
+      "excerpt": "The streaming giant continues to allow the use of AI on its platform however, as it prepares to launch an AI remix service in 2027 Continue reading..."
     },
     {
-      "id": "7d69ee5942be280dcf24db85da443d5dc6e1e06d",
-      "title": "In The Shadow Of Your Shadow",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/cult-of-luna-in-the-shadow-of-your-shadow/",
-      "published": "2026-11-15T08:22:08.000Z",
-      "publishedTs": 1794730928000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Cult-Of-Luna-In-The-Shadow-Of-Your-Shadow.jpg",
-      "excerpt": "Parte de la élite histórica del post metal, los suecos Cult Of Luna parecieran tener una gran responsabilidad sobre sus... La entrada In The Shadow Of Your Shadow se publicó primero en MondoSonoro ."
+      "id": "46fcee43f6b83966ad5d2302cd482749f00e2a39",
+      "title": "Grime stars unite for The AA Charitable Trust’s new seatbelt awareness campaign",
+      "link": "https://mixmag.net/read/grime-uk-rap-stars-unite-aa-seatbelt-awareness-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/The-AA-pic-sz.jpg?fit=cover&width=660&s=9F9jBykpJ_lHEaGNVtjSRmbKYR12EKwidRG5DjeHR2g",
+      "excerpt": "Tay Made, CSAY and Paul Stephan have created a new track, &#039;Clickbait&#039;, which encourages young drivers to &quot;click in&quot; Continue reading..."
+    },
+    {
+      "id": "b655f3a1a31790e6140759ed3eed8f49f6d8b485",
+      "title": "Far out: Way Out West brings superstars and spectacle to Gothenburg",
+      "link": "https://mixmag.net/feature/way-out-west-festival-gothenburg-sweden-the-xx-fcukers-gorillaz-moby",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Way-Out-West_2026-09-29-153214_ggin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=K4R9OTqWwUOHc1JnD_z5n_0DJgRamZGohh8r-D1g3dc",
+      "excerpt": "With a line-up rivalling some of Europe&#039;s biggest festivals with a comparatively intimate capacity, Way Out West&#039;s 18th edition served up a unique experience affirming the festival&#039;s quirky reputation, Megan Townsend expla…"
     },
     {
       "id": "4783b37daeed58a480b9100a13c2d7bf817da260",
@@ -224,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/iceland-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xjRu8FyJOFOX8kjbofBlemPQzvGQuFWEwildtpdVW-g",
+      "image": "",
       "excerpt": "The gentrification that has followed tourism in Iceland is pushing music venues out. In a country where few nightlife spaces exist, we visited the annual showcase festival Iceland Airwaves to find out how its music scenes are thriving de…"
     },
     {
@@ -296,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DDJ-FLX2_Lifestyle-image-14_HR_6314x4212.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PORxCAJ05beEbsNihHkghzNPucMcD8ozeeCqL3KQxCQ",
+      "image": "",
       "excerpt": "In our recent poll, 66% of you said that you had someone on the decks at your last house party – here&#039;s why AlphaTheta&#039;s compact DJ controller will make it even easier to get the crowd dancing on home turf Continue reading..."
     },
     {
@@ -452,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=O4aPeaDNfTUn8yFXpKJsxA9d_xCJ6aNO8uQDPc0G1ow",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -488,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -596,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -644,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -656,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -692,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -1078,54 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Round-Ups-Blackhaine.png?fit=cover&width=660&s=9E5Exi9ySJjrmmzHZDi9mTtakZiD-vl2NIC8cFBB8AA",
       "excerpt": "All the biggest releases on our radar Continue reading..."
-    },
-    {
-      "id": "12efcb86a38966a28db97eb7ccd14c92254ce18a",
-      "title": "Festival line-ups you might have missed: GALA, Pitch Arts & Music, Westival",
-      "link": "https://mixmag.net/read/festival-line-ups-you-might-have-missed-gala-pitch-arts-music-westival-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/GALA-crip.png?fit=cover&width=660&s=xr2a3_cVMO-NX2pXBBTL-36ekN6vmOYqIErH-SwLk1A",
-      "excerpt": "Rounding up festival news from across the dance and electronic world Continue reading..."
-    },
-    {
-      "id": "3fa32d298776f01a3fc406171c44a08f91b3086b",
-      "title": "Lost seeks 24-hour license for new London College of Fashion venue",
-      "link": "https://mixmag.net/read/lost-seeks-24-hour-license-for-new-london-college-of-fashion-home-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/UAL.png?fit=cover&width=660&s=ds2gk73Z3XCqdC5TcpBKTjcKNM-VrxNQo1FOcr5EXzY",
-      "excerpt": "The secretive party series is set take over the former UAL complex on Oxford Street following its departure from Shaftesbury Avenue Continue reading..."
-    },
-    {
-      "id": "7988ff062e6cbe7c370c5d29a1c84ee06c8c5e04",
-      "title": "In Newcastle, PULSE is leading the hedonistic charge for its lesbian and trans+ community",
-      "link": "https://mixmag.net/feature/newcastle-pulse-leading-hedonistic-charge-lesbian-trans-community",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "Bringing the fundamentals of dance music culture to the fore, PULSE is all about carnal queer raving. We spoke to founder Izzy about how it’s creating spaces that aren’t strictly dancefloor-focused, and why she doesn’t want to just “frol…"
-    },
-    {
-      "id": "dceb6aa64c2e4cb8e8620c6d5ef0f10643aa3db7",
-      "title": "Lancey Foux dissects his latest album on Making Tracks with Mixmag x CUPRA",
-      "link": "https://mixmag.net/read/lancey-foux-dissects-his-latest-album-on-making-tracks-with-mixmag-x-cupra-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Lancey-Foux.jpg?fit=cover&width=660&s=xshW_fMQqf00qQiKdW5SPyCwdf5bqkPFbZuqDZetOp0",
-      "excerpt": "The former Mixmag Cover Star heads across London in the all-electric CUPRA Raval, and reveals why the car is the ultimate test of whether a track is finished Continue reading..."
     }
   ]
 }
