@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T16:18:21.507Z",
+  "generatedAt": "2026-11-19T23:23:56.833Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 170\nChar: >"
     }
   ],
   "items": [
@@ -272,7 +272,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/iceland-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xjRu8FyJOFOX8kjbofBlemPQzvGQuFWEwildtpdVW-g",
       "excerpt": "The gentrification that has followed tourism in Iceland is pushing music venues out. In a country where few nightlife spaces exist, we visited the annual showcase festival Iceland Airwaves to find out how its music scenes are thriving de…"
     },
     {
@@ -284,7 +284,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gallery1986_Tautvydas_Stukas25.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=tl2kT1c2nUOEEA5yA_M40dhc-o3Dg1TOphOGzGmAq0k",
+      "image": "",
       "excerpt": "A marathon party organised by the Vilnius Night Office brings a new dimension to the capital city’s nightlife, hoping to attract fresh energy and spark positive progress within the scene. Across a whirlwind weekend of club-hopping, Patri…"
     },
     {
@@ -500,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=O4aPeaDNfTUn8yFXpKJsxA9d_xCJ6aNO8uQDPc0G1ow",
+      "image": "",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -536,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
+      "image": "",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -644,7 +644,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -656,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -692,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -704,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -740,7 +740,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
+      "image": "",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -956,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
