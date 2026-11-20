@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:56:14.883Z",
+  "generatedAt": "2026-11-20T22:08:01.310Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,20 @@
     }
   ],
   "items": [
+    {
+      "id": "de258bd5865c625a329995f5de04c80a60fc2379",
+      "title": "El detector de mentides",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/guillem-gisbert-el-detector-de-mentides/",
+      "published": "2026-11-20T15:35:50.000Z",
+      "publishedTs": 1795188950000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Guillem-Gisbert-El-detector-de-mentides.jpg",
+      "excerpt": "Con el esfuerzo tecnológico, literario y filosófico que le hemos puesto al tema de la mentira, al final resultará que... La entrada El detector de mentides se publicó primero en MondoSonoro ."
+    },
     {
       "id": "88502e7bbda1da07f107dd28af4fffad7b232ba5",
       "title": "Galduta nabil eta ez dakit",
@@ -154,18 +168,28 @@
       "excerpt": "La banda madrileña Alcalá Norte hizo realidad el cuento de hadas al que aspira cualquier formación de barrio: alcanzar el estrellato... La entrada Dejémoslo como estaba se publicó primero en MondoSonoro ."
     },
     {
-      "id": "6745be4b2c9e5d8e30b47127ae6aafa6c9a48734",
-      "title": "Niña Bala",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/nina-bala/",
-      "published": "2026-11-16T12:42:27.000Z",
-      "publishedTs": 1794832947000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/nina-bala.jpg",
-      "excerpt": "A estas alturas de la película, ya sabemos todos que Niña Bala es lo que ha ocurrido cuando se han... La entrada Niña Bala se publicó primero en MondoSonoro ."
+      "id": "dc5efe7163a4638fdcf0da8921600756d89f7112",
+      "title": "Sophia Stel is writing her way through the emotional whiplash of life changes",
+      "link": "https://mixmag.net/feature/sophia-stel-interview-the-greatest-album-of-all-time",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sophia-stel-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6KmkanVMEZq2QyBk4-AKgJbC0C4wY6Y5T66ouR8MvT0",
+      "excerpt": "Life hasn’t been the same for Canadian singer-songwriter and producer Sophia Stel since her rapid come-up. On her debut LP, ‘the greatest album of all time’, she tells the tale of her rise and the complexities that have come with it Cont…"
+    },
+    {
+      "id": "442298e65ee53fc1cad0760d644f5612961eb70d",
+      "title": "New book charts the history and impact of the UK's hard house scene",
+      "link": "https://mixmag.net/read/new-book-to-chart-history-of-hard-house-in-the-uk-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ravers.png?fit=cover&width=660&s=ZbBmcOcU1G8Gol0yc40-8TjWcKcwEmylwa0SK-sRyuo",
+      "excerpt": "Author Ed Jenkins traces the mid-&#039;90s rave origins of the sound through to its influence on modern-day artists Continue reading..."
     },
     {
       "id": "0673943b57d79952ebc0684e0dd9797a1f794fd5",
@@ -452,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -500,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=O4aPeaDNfTUn8yFXpKJsxA9d_xCJ6aNO8uQDPc0G1ow",
+      "image": "",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -536,7 +560,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=Hgta8g1-STyv1a2LRbifROrCongZY3kp4Lbdw7lYZ08",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -644,7 +668,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -680,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -692,7 +716,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -956,7 +980,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Credit_-Demian-Beccara-_-%40theholymountain14.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=-kGXQMJ8SsajFX6V2U2P_mMr1Uk-r8V6NAnuz0KSToQ",
+      "image": "",
       "excerpt": "Generations of dance music collide at the San Francisco event, shining a light on the US&#039; twisting relationship with electronic music and shifting tides in the global landscape Continue reading..."
     },
     {
@@ -968,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
+      "image": "",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/White-House.jpg?fit=cover&width=660&s=8GITpT83NwCv5muusYRw0tZJnZyURdAM8iWpHABWBRU",
       "excerpt": "The American-Trinidadian rapper made an appearance alongside US President Donald Trump at a mid-term Republican campaign rally in Michigan yesterday Continue reading..."
-    },
-    {
-      "id": "a18bd92a56b0e176124d7b08f209f87cbddc3f98",
-      "title": "1,000-strong illegal warehouse rave shut down by police in Bristol",
-      "link": "https://mixmag.net/read/1-000-strong-illegal-warehouse-rave-shut-down-by-police-in-bristol-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/City-Business-Park.jpg?fit=cover&width=660&s=qLZTSyMyvt1eRVBEc0aTPJ8h-buIwDQpYZNj0WTxrwk",
-      "excerpt": "Police arrived with riot gear and shields to the unlicensed event in Lawrence Hill, which reportedly raged on until Sunday morning Continue reading..."
-    },
-    {
-      "id": "67f3f7785a44903ac2f700a2934067927bfb85fb",
-      "title": "New music on our radar this week: Blackhaine, Nabihah Iqbal, DNGDNGDNG",
-      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-blackhaine-nabihah-iqbal-dngdngdng-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Round-Ups-Blackhaine.png?fit=cover&width=660&s=9E5Exi9ySJjrmmzHZDi9mTtakZiD-vl2NIC8cFBB8AA",
-      "excerpt": "All the biggest releases on our radar Continue reading..."
     }
   ]
 }
