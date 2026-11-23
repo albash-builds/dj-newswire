@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:50:35.948Z",
+  "generatedAt": "2026-11-23T23:25:18.003Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
     }
   ],
   "items": [
+    {
+      "id": "367d28c4c3271e0cbedf0d846a7c19403849bc27",
+      "title": "Feedback",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/river-newt-feedback/",
+      "published": "2026-11-23T21:26:18.000Z",
+      "publishedTs": 1795469178000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/river-newt.jpg",
+      "excerpt": "River Newt son una joven banda de Pamplona, formada en 2020, con unas cuantas cosas ya publicadas y bastantes kilómetros... La entrada Feedback se publicó primero en MondoSonoro ."
+    },
     {
       "id": "6ca843e818686252ac462f631cf80f4c004607e2",
       "title": "Lo volvería a hacer",
@@ -38,7 +52,7 @@
       "categories": [
         "Discos"
       ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Sean-Frutos-Lo-volveria-a-hacer.jpg",
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/SeanFrutosCDWEB.jpg",
       "excerpt": "Lanzar un álbum en solitario después de más de dos décadas formando parte de un proyecto tan consolidado en la... La entrada Lo volvería a hacer se publicó primero en MondoSonoro ."
     },
     {
@@ -154,18 +168,52 @@
       "excerpt": "Cómo asumir tras diecisiete años de relación que ha llegado el momento de cerrar esa etapa. “Old Flames” (Vertigo Records/Universal... La entrada Old Flames se publicó primero en MondoSonoro ."
     },
     {
-      "id": "0eab1c56e83b996ec2a4bde1275d2681e8d3dc32",
-      "title": "Un río de angustia desbocada",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/los-punsetes-un-rio/",
-      "published": "2026-11-17T06:16:58.000Z",
-      "publishedTs": 1794896218000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/los-punsetes-un-rio.jpg",
-      "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada Un río de angustia desbocada se publicó primero en MondoSonoro ."
+      "id": "527b8f0427e0c369d17f08f8a7e8b2a7c2b87044",
+      "title": "Legendary Detroit DJ and producer Delano Smith has died",
+      "link": "https://mixmag.net/read/legendary-detroit-dj-producer-delano-smith-rip-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Delano-Smith_2026-11-23-165742_ltiq.jpg?fit=cover&width=660&s=J8p_WCIW0MZ1bKd479rjRcCrfdul9N-0CZUPI2Cnwpg",
+      "excerpt": "Born in Chicago and raised in Detroit, Smith was a foundational figure in the Motor City underground scene alongside contemporaries Juan Atkins, Kevin Saunderson and Jeff Mills Continue reading..."
+    },
+    {
+      "id": "f0dd773aa992093b2f615d047b7d2e13ac513802",
+      "title": "Josh Baker headlines Aston Martin F1's I / AM event at the Las Vegas Grand Prix",
+      "link": "https://mixmag.net/feature/josh-baker-headlines-aston-martins-i-am-party-at-the-las-vegas-grand-prix",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Josh-Baker_2026-11-20-151642_bylq.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=lWx_0BbBC24G8qrGOKxZ1BUHlkCFHdgg6hytz7eCDTI",
+      "excerpt": "Bringing Formula 1 and dance music communities together, the rooftop event kicked off Vegas F1 week with unexpected style Continue reading..."
+    },
+    {
+      "id": "99b508342694f8bf0f518cd95e0e953a23690f48",
+      "title": "Chicago house pioneer and Hot Mix 5 member Kenny 'Jammin' Jason has died",
+      "link": "https://mixmag.net/read/chicago-house-pioneer-and-hot-mix-5-member-kenny-jammin-jason-has-died-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Kennt-Jammin.jpg?fit=cover&width=660&s=9PS29gMWuKtd72BQtOgx2qg_yDBBc-AzEtGYFFUnPc0",
+      "excerpt": "Fellow Hot Mix 5 member Farley &quot;Jackmaster&quot; Funk has paid tribute to his &quot;greatest musical mentor&quot; Continue reading..."
+    },
+    {
+      "id": "ced9c49a0fcdd69ecef70a89e02af6be15ddcd32",
+      "title": "Don Toliver show in Manchester evacuated after \"unknown substance\" released into crowd",
+      "link": "https://mixmag.net/read/don-toliver-co-op-live-show-manchester-evacuated-unknown-subs-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Co-op.jpg?fit=cover&width=660&s=mmjRWkLhgBn8bVoR2R8tq4i0uwdlE6pGRAjdoui5_uM",
+      "excerpt": "Greater Manchester Police evacuated 12,000 attendees from Co-op Live in a &quot;a major incident&quot; on Sunday evening, though no major injuries were reported Continue reading..."
     },
     {
       "id": "be403533d9866181324cf305cecdc5e2e6a67d08",
@@ -548,7 +596,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=O4aPeaDNfTUn8yFXpKJsxA9d_xCJ6aNO8uQDPc0G1ow",
+      "image": "",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -728,7 +776,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=FfQqasWf2MahA4Ymc-AqmT_yDhPUTJX4ZRBQY8k7k88",
+      "image": "",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -740,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
+      "image": "",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -788,7 +836,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=22E3N3p75lRnP4Iz2s2-jKx5KohPT8ifnc7vjXkXzNg",
+      "image": "",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -1016,7 +1064,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
+      "image": "",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -1076,56 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Mint-XL.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=QMz11LYn5gOqlDc8XV8lxQnQ4QOoU90PAjy4EI5aPHU",
+      "image": "",
       "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
-    },
-    {
-      "id": "faeddc05fdd7b330617868eb5da468bb146be195",
-      "title": "Nastia calls off all US shows until Trump administration “changes Ukraine policy”",
-      "link": "https://mixmag.net/read/nastia-calls-off-all-us-shows-until-trump-administration-changes-policy-towards-ukraine-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/nastia-credit-Kasia-Zacharko.jpg?fit=cover&width=660&s=Nbnft0JAQ9nVEMTSTlHa8-v2IIfI31yuMFOEFYcdYnE",
-      "excerpt": "The Ukrainian DJ said that she has stopped accepting bookings in the States and cancelled all forthcoming shows Continue reading..."
-    },
-    {
-      "id": "eb3b565a3d99c5cd8444ad3123a166738ae10cbd",
-      "title": "Horst cancels forthcoming club event, criticises \"unacceptable\" police conduct",
-      "link": "https://mixmag.net/read/horst-organisers-forced-cancel-club-event-unacceptable-policing-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/horst_2026-10-27-142352_getc.jpg?fit=cover&width=660&s=OWGxoP_gaw1FTZdhrGmw4PgTh-KkiBGdD2KUURLQf2s",
-      "excerpt": "The Belgian festival and club promoter condemned the policing of its recent party in Vilvoorde after two people were arrested Continue reading..."
-    },
-    {
-      "id": "3aa7eedb6b37f20fdf2fb69e86d2bf009dcbf90e",
-      "title": "Several tear gas attacks reported during Amsterdam Dance Event",
-      "link": "https://mixmag.net/read/several-tear-gas-attacks-reported-during-amsterdam-dance-event-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/gashouder.jpg?fit=cover&width=660&s=AN0HNPsjm1on6_uwMmcNB1676QE_NqtPGPDf4FPlCfE",
-      "excerpt": "Shows at Gashouder and RAW Factory were allegedly targeted, linked to a string of jewellery robberies Continue reading..."
-    },
-    {
-      "id": "bd54d430e20fe499c529b871201ba4cf07384bae",
-      "title": "Euphoric evolution: Inside Amnesia's 50th anniversary season closing party",
-      "link": "https://mixmag.net/feature/amnesias-50th-anniversary-season-closing-party-was-ibiza-history-in-the-making",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
-      "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
     }
   ]
 }
