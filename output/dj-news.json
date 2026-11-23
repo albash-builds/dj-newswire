@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:15:44.679Z",
+  "generatedAt": "2026-11-23T11:50:35.948Z",
   "total": 90,
   "sources": [
     {
@@ -23,10 +23,24 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 171\nChar: >"
+      "error": "fetch failed"
     }
   ],
   "items": [
+    {
+      "id": "6ca843e818686252ac462f631cf80f4c004607e2",
+      "title": "Lo volvería a hacer",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/lo-volveria-a-hacer/",
+      "published": "2026-11-23T06:49:23.000Z",
+      "publishedTs": 1795416563000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Sean-Frutos-Lo-volveria-a-hacer.jpg",
+      "excerpt": "Lanzar un álbum en solitario después de más de dos décadas formando parte de un proyecto tan consolidado en la... La entrada Lo volvería a hacer se publicó primero en MondoSonoro ."
+    },
     {
       "id": "de258bd5865c625a329995f5de04c80a60fc2379",
       "title": "El detector de mentides",
@@ -154,18 +168,16 @@
       "excerpt": "Quizás pensabas que, tras el greatest hits “España necesita conocer” (22) y el álbum de versiones propias en boca ajena... La entrada Un río de angustia desbocada se publicó primero en MondoSonoro ."
     },
     {
-      "id": "7114adeea47b6ad8774be300384a00db0a22c8af",
-      "title": "Dejémoslo como estaba",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/alcala-norte-dejemoslo-como-estaba/",
-      "published": "2026-11-16T15:26:51.000Z",
-      "publishedTs": 1794842811000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Alcala-Norte-Dejemoslo-como-estaba.jpg",
-      "excerpt": "La banda madrileña Alcalá Norte hizo realidad el cuento de hadas al que aspira cualquier formación de barrio: alcanzar el estrellato... La entrada Dejémoslo como estaba se publicó primero en MondoSonoro ."
+      "id": "be403533d9866181324cf305cecdc5e2e6a67d08",
+      "title": "New music on our radar this week: DJ Gigola, Skin on Skin, Hamdi",
+      "link": "https://mixmag.net/read/new-music-on-our-radar-this-week-9-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/round-ups-pic-111.png?fit=cover&width=660&s=tysVJ1xwWk-vMiWsETAdzTU_IUT7f--5YyszrutXzSI",
+      "excerpt": "All the biggest releases on our radar Continue reading..."
     },
     {
       "id": "0c3c995dd319ffd4f3cccff693fa7920b845391e",
@@ -488,7 +500,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=KqH93zGYcrYVOOJLhhS_ccabtQX-kCRn354X2c6NkNw",
+      "image": "",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -680,7 +692,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=MvjQj2jMO4UWPQ-SPTfRBeF649grH2FhMwtnFEewyBo",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -740,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=30ae6fxzVcSDYK3Hj1c1Z8YF-0q2gyWDohM22oguGvg",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -1004,7 +1016,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
     },
     {
@@ -1114,18 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Amnesia-car-Park.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=q8ovVFnfcFsq6xp64rDxpW8zHh8Cnha4lL-q2ydhj5I",
       "excerpt": "Inviting beloved favourites and newly-christened additions, the White Isle institution rounded off its milestone season with an unforgettable all-day-all-night extravaganza. Chris Cahillane travelled to Ibiza for an Amnesia experience un…"
-    },
-    {
-      "id": "829d7fd8bf7d308648542922440b2b29019f8929",
-      "title": "The changing face of The Warehouse Project: 20 years of WHP flyers",
-      "link": "https://mixmag.net/feature/the-warehouse-project-20-years-flyers-manchester-milestone-interview-founders",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/lead-WHP.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=X7Sr97LGTlshbyHiey0QSZW_J02-XoNmntAKU_wbjJQ",
-      "excerpt": "As the Manchester party series marks its 20th birthday this year, founders Sam Kandel and Richard McGinnis take a look back at some of the most iconic flyers and reflect on the shifting visual language of The Warehouse Project Continue r…"
     }
   ]
 }
