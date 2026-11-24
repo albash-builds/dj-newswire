@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:33:42.702Z",
+  "generatedAt": "2026-11-24T19:56:49.442Z",
   "total": 90,
   "sources": [
     {
@@ -27,6 +27,34 @@
     }
   ],
   "items": [
+    {
+      "id": "550698f380aee53a044cb73065187232e77453ec",
+      "title": "Reseñamos 'Alamo', el nuevo disco de Jake Bugg",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/jake-bugg-alamo/",
+      "published": "2026-11-24T16:53:39.000Z",
+      "publishedTs": 1795539219000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Jake-Bugg-Alamo.jpg",
+      "excerpt": "Jake Bugg se convirtió en el nuevo niño bonito de la prensa británica tras ver publicado, allá por 2012 y... La entrada Reseñamos &#039;Alamo&#039;, el nuevo disco de Jake Bugg se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "a0101c6413ff33fd988c567c467ffe18fb1f7647",
+      "title": "You made me / skin on linen",
+      "link": "https://www.mondosonoro.com/criticas/discos-musica/piss-you-made-me-skin-on-linen/",
+      "published": "2026-11-24T13:28:19.000Z",
+      "publishedTs": 1795526899000,
+      "sourceId": "mondosonoro",
+      "sourceName": "MondoSonoro",
+      "categories": [
+        "Discos"
+      ],
+      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Piss-you-made-me.jpg",
+      "excerpt": "PISS surgieron alrededor de 2023-2024 en Vancouver (Canadá). Sus cuatro integrantes —Taylor (voz), Tyler \"Wu\" (guitarra), Gavin (bajo) y Garreth... La entrada You made me / skin on linen se publicó primero en MondoSonoro ."
+    },
     {
       "id": "367d28c4c3271e0cbedf0d846a7c19403849bc27",
       "title": "Feedback",
@@ -140,32 +168,64 @@
       "excerpt": "Hacía bastante tiempo, quizás desde el magno y operístico “Demoni”(24), que no se veía a Foyone con tanta hambre rapeando.... La entrada En la casa se publicó primero en MondoSonoro ."
     },
     {
-      "id": "99c59c1addf0b4d918ed6a4292774c1bd0c629be",
-      "title": "Fortuna Kid",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/barry-b-fortuna-kid/",
-      "published": "2026-11-17T20:00:32.000Z",
-      "publishedTs": 1794945632000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/barry-b-fortuna-kid.jpg",
-      "excerpt": "El nuevo disco de Barry B empieza con un artista en llamas que avanza arrasando con todo, priorizando sueños y... La entrada Fortuna Kid se publicó primero en MondoSonoro ."
+      "id": "53940f6abd19f57dff0aa496959125e43b11040e",
+      "title": "TIDAL to ban AI-generated track “entirely” next month",
+      "link": "https://mixmag.net/read/tidal-ban-ai-generated-track-entirely-december-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/tidal-ai-music.jpg?fit=cover&width=660&s=XUDb6G2WiQFIPL7G_UohZRwR-iXAk_oiAvBqxJsriIs",
+      "excerpt": "The music streaming service says it has labelled and demonetised 100% of all AI tracks on the platform since July Continue reading..."
     },
     {
-      "id": "402a0f1b9a0036f41e5f00b9322a41a2cef2dfb1",
-      "title": "Old Flames",
-      "link": "https://www.mondosonoro.com/criticas/discos-musica/la-roux-old-flames/",
-      "published": "2026-11-17T06:42:24.000Z",
-      "publishedTs": 1794897744000,
-      "sourceId": "mondosonoro",
-      "sourceName": "MondoSonoro",
-      "categories": [
-        "Discos"
-      ],
-      "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/la-roux-old-flames.jpg",
-      "excerpt": "Cómo asumir tras diecisiete años de relación que ha llegado el momento de cerrar esa etapa. “Old Flames” (Vertigo Records/Universal... La entrada Old Flames se publicó primero en MondoSonoro ."
+      "id": "b1fdd223213bed6e929c58706c8dd650747c5387",
+      "title": "Unsound Festival: The best of times, in the worst of times",
+      "link": "https://mixmag.net/feature/unsound-festival-2026-review-krakow-warsaw-poland",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/UNS26_DAY8_FLUFF_MISC_261010_011158__SM_3296_fot_mmurawski.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=jSiLqLEWepT6932vZJG76gYoPhfwrRfUmgvXEjkwL_M",
+      "excerpt": "Merging though-provoking curation, unconventional venues and self-described “demented” ideas, Unsound Festival is an endlessly stimulating experience Continue reading..."
+    },
+    {
+      "id": "1014bd587744df15535f31b458d09f58599be69d",
+      "title": "Grand Theft Auto VI features a posthumous track from D'Angelo",
+      "link": "https://mixmag.net/read/posthumous-dangelo-track-featured-grand-theft-auto-vi-gta-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/D-angelo-111.jpg?fit=cover&width=660&s=vMeHhvU41LwPv3QB5pQhB6izUKtRX23ivMOQYHpLbvs",
+      "excerpt": "&#039;Kamikazi&#039;, a collaboration with Brooklyn musician Terry Slingbaum, features on Gilles Peterson&#039;s in-game radio station Worldwide FM Continue reading..."
+    },
+    {
+      "id": "48c245cdc399e51d3d281c0bb53cf8c19544c02d",
+      "title": "Berlin techno DJ and producer Jamaica Suk has died",
+      "link": "https://mixmag.net/read/berlin-techno-dj-producer-jamaica-suk-has-died-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/vv.jpg?fit=cover&width=660&s=lBH9SV5-4K034F6Kd-rUgcEuO5LVKJx18-jN7jwJvh8",
+      "excerpt": "The artist and label founder is described as a “wonderful, gentle soul” who uplifted those around her Continue reading..."
+    },
+    {
+      "id": "7370db34258c2fec7b7d501b3fcf1ee4324a3c6d",
+      "title": "Underground history: ISLA DEL TERROR is reawakening Puerto Rico's reggaeton and perreo scene",
+      "link": "https://mixmag.net/feature/isla-del-terror-functions-puerto-rico-san-juan-reggaeton-dembow-perreo",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/isla-functions.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=1P9evkQkdMzSSGSiB1oPYTI62VAszZDv5PH3RZQ6Vqg",
+      "excerpt": "While reggaeton artists dominate concert stadiums globally, the genre&#039;s birthplace withstands red tape and bureaucracy. Mithun Sundaresan speaks to the founder of San Juan club night ISLA DEL TERROR about cutting that tape, and crea…"
     },
     {
       "id": "527b8f0427e0c369d17f08f8a7e8b2a7c2b87044",
@@ -248,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sophia-stel-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6KmkanVMEZq2QyBk4-AKgJbC0C4wY6Y5T66ouR8MvT0",
       "excerpt": "Life hasn’t been the same for Canadian singer-songwriter and producer Sophia Stel since her rapid come-up. On her debut LP, ‘the greatest album of all time’, she tells the tale of her rise and the complexities that have come with it Cont…"
     },
     {
@@ -308,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Way-Out-West_2026-09-29-153214_ggin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=K4R9OTqWwUOHc1JnD_z5n_0DJgRamZGohh8r-D1g3dc",
       "excerpt": "With a line-up rivalling some of Europe&#039;s biggest festivals with a comparatively intimate capacity, Way Out West&#039;s 18th edition served up a unique experience affirming the festival&#039;s quirky reputation, Megan Townsend expla…"
     },
     {
@@ -320,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_mc22.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9j5hXRbigyHwhZCFmygQa8yW_my3tadwcsKNJW0yxn4",
       "excerpt": "The Austrian artist shares a free-flowing mix that feels like levitating in a digital breeze for listeners, and speaks to Martyn Pepperell about the “magic” of discovering DAWs, surviving the LA songwriting system, and creating formative…"
     },
     {
@@ -392,7 +452,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rossi-testbed-000.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8Za9mrPMw1wO02RUhsBqkQbJobHWzDpHnYR5oKLmlgA",
       "excerpt": "The warehouse venue, which relaunched in October following renovations, has shared details of an exciting plethora of acts coming up throughout the remainder of 2026 and into 2027 Continue reading..."
     },
     {
@@ -596,7 +656,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=O4aPeaDNfTUn8yFXpKJsxA9d_xCJ6aNO8uQDPc0G1ow",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -752,7 +812,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
+      "image": "",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -788,7 +848,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_COVERMIX_MPH_WEB2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=ob-Unuj4q8sR6392d8Ld0zzoWEF9XbF3T8MHGDlWJyU",
       "excerpt": "MPH turned the Mixmag Lab into one of the sweatiest dancefloors we&#039;ve ever been on Continue reading..."
     },
     {
@@ -1064,68 +1124,8 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_BC2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=2U2h_xW27zEqFnamK59k3orXCWZC0K1649SOR_HJAeM",
       "excerpt": "Braga Circuit gets deep in the mix and speaks to Patrick Hinton about emotional dance music and the Kent scene Continue reading..."
-    },
-    {
-      "id": "0b97366d93e5ad773521c9cb9505b9aa7ba1899e",
-      "title": "Goldie to curate room at London's Saatchi Gallery as part of forthcoming exhibition",
-      "link": "https://mixmag.net/read/goldie-to-curate-room-at-londons-saatchi-gallery-as-part-of-forthcoming-exhibition-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Goldie_2026-10-28-151458_qzes.png?fit=cover&width=660&s=x2rZ6WEW96SFcMn7wPTK0RoVN4AZW8oDnvpCgX2xfbc",
-      "excerpt": "The drum &#039;n&#039; bass legend will bring an &quot;immersive&quot; Metalheadz record store to the West London gallery for BEYOND THE STREETS II Continue reading..."
-    },
-    {
-      "id": "cadc6566c57374abe4c5802db12b2b778c8ed447",
-      "title": "David Bowie's 1978 concert to be subject of new \"immersive\" arena tour",
-      "link": "https://mixmag.net/read/david-bowie-1978-concert-subject-new-immersive-arena-tour-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/David-Bowie-1.png?fit=cover&width=660&s=DCaeDufqT-1LzLNgIdSerCo85Psx2T6JiQeHZs83YDc",
-      "excerpt": "Stage, which is due to premiere in Berlin next year, consists of an unearthed recording of the late musician&#039;s Isolar II &#039;Heroes&#039; world tour Continue reading..."
-    },
-    {
-      "id": "45581af1e1d5d9b136809f23cb5a25ebfffb98f8",
-      "title": "UK nightlife costs have increased by 34% since 2020, new study finds",
-      "link": "https://mixmag.net/read/uk-nightlife-costs-increased-34-percent-since-2020-new-study-finds-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/beers-night-out-ntia.jpg?fit=cover&width=660&s=Fq9HDhLVoVnpb6oLp9gn_AQ3RVHt9C2mseXZBzwSf4U",
-      "excerpt": "The Night Time Industries Association has warned the UK government that the price of a night out has &quot;reached its limit&quot; Continue reading..."
-    },
-    {
-      "id": "5bc4f00c241156ea843f1f9495e1a68c52ea0523",
-      "title": "Hackney Council launches \"Night Map\" of borough-wide nightlife amenities",
-      "link": "https://mixmag.net/read/hackney-council-launches-night-map-amenities-borough-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Hackney-Map.jpg?fit=cover&width=660&s=Sw5pd47-DK07lCBLZ_GZZRZR8dCMcVAv2Py3s_yPB_w",
-      "excerpt": "Hackney Nights features the locations of public use toilets, free drinking water, phone charging, public transport links and disability access throughout the East London borough Continue reading..."
-    },
-    {
-      "id": "b0776c7da6b5527b9294bbc9d2005a55ac0f9429",
-      "title": "Music you can feel: Inside Leeds' new 2,500-capacity nightclub, Mint XL",
-      "link": "https://mixmag.net/feature/leeds-mint-xl-venue-music-nightclub-yorkshire",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "",
-      "excerpt": "The new venue, which launched last month, has been kitted out with a custom Funktion-One Vero soundsystem and high-spec lighting Continue reading..."
     }
   ]
 }
