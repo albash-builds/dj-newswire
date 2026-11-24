@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:25:18.003Z",
+  "generatedAt": "2026-11-24T08:33:42.702Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "Unexpected close tag\nLine: 0\nColumn: 174\nChar: >"
+      "error": "fetch failed"
     }
   ],
   "items": [
@@ -248,7 +248,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/sophia-stel-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=6KmkanVMEZq2QyBk4-AKgJbC0C4wY6Y5T66ouR8MvT0",
+      "image": "",
       "excerpt": "Life hasn’t been the same for Canadian singer-songwriter and producer Sophia Stel since her rapid come-up. On her debut LP, ‘the greatest album of all time’, she tells the tale of her rise and the complexities that have come with it Cont…"
     },
     {
@@ -308,7 +308,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Way-Out-West_2026-09-29-153214_ggin.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=K4R9OTqWwUOHc1JnD_z5n_0DJgRamZGohh8r-D1g3dc",
+      "image": "",
       "excerpt": "With a line-up rivalling some of Europe&#039;s biggest festivals with a comparatively intimate capacity, Way Out West&#039;s 18th edition served up a unique experience affirming the festival&#039;s quirky reputation, Megan Townsend expla…"
     },
     {
@@ -320,7 +320,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_mc22.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=9j5hXRbigyHwhZCFmygQa8yW_my3tadwcsKNJW0yxn4",
+      "image": "",
       "excerpt": "The Austrian artist shares a free-flowing mix that feels like levitating in a digital breeze for listeners, and speaks to Martyn Pepperell about the “magic” of discovering DAWs, surviving the LA songwriting system, and creating formative…"
     },
     {
@@ -368,7 +368,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/iceland-lead.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=xjRu8FyJOFOX8kjbofBlemPQzvGQuFWEwildtpdVW-g",
+      "image": "",
       "excerpt": "The gentrification that has followed tourism in Iceland is pushing music venues out. In a country where few nightlife spaces exist, we visited the annual showcase festival Iceland Airwaves to find out how its music scenes are thriving de…"
     },
     {
@@ -380,7 +380,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gallery1986_Tautvydas_Stukas25.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=tl2kT1c2nUOEEA5yA_M40dhc-o3Dg1TOphOGzGmAq0k",
+      "image": "",
       "excerpt": "A marathon party organised by the Vilnius Night Office brings a new dimension to the capital city’s nightlife, hoping to attract fresh energy and spark positive progress within the scene. Across a whirlwind weekend of club-hopping, Patri…"
     },
     {
@@ -392,7 +392,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rossi-testbed-000.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8Za9mrPMw1wO02RUhsBqkQbJobHWzDpHnYR5oKLmlgA",
+      "image": "",
       "excerpt": "The warehouse venue, which relaunched in October following renovations, has shared details of an exciting plethora of acts coming up throughout the remainder of 2026 and into 2027 Continue reading..."
     },
     {
@@ -440,7 +440,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/DDJ-FLX2_Lifestyle-image-14_HR_6314x4212.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=PORxCAJ05beEbsNihHkghzNPucMcD8ozeeCqL3KQxCQ",
+      "image": "",
       "excerpt": "In our recent poll, 66% of you said that you had someone on the decks at your last house party – here&#039;s why AlphaTheta&#039;s compact DJ controller will make it even easier to get the crowd dancing on home turf Continue reading..."
     },
     {
@@ -752,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=CoAkobWsIcKcqwK0s08tM6xLDlzA9ipvrQaezvPxxp4",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
