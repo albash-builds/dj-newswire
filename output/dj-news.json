@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:43:28.459Z",
+  "generatedAt": "2026-11-26T23:29:22.447Z",
   "total": 90,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "sourceId": "decoded",
       "sourceName": "Decoded magazine",
       "url": "https://www.decodedmagazine.com/feed/",
-      "error": "fetch failed"
+      "error": "Unexpected close tag\nLine: 0\nColumn: 172\nChar: >"
     }
   ],
   "items": [
@@ -166,6 +166,30 @@
       ],
       "image": "https://www.mondosonoro.com/wp-content/uploads/2026/11/Palomo-Palomo-Quieres-hacer-el-favor-de-callarte-por-favor.jpg",
       "excerpt": "Jugoso, muy jugoso se antoja el presente estreno en formato largo de Daniel V. Carrillo Palomo al frente de ese... La entrada ¿Quieres hacer el favor de callarte, por favor? se publicó primero en MondoSonoro ."
+    },
+    {
+      "id": "678f06c866ba9dcfdacb235d80528bfd53b8a533",
+      "title": "The 10 most-played tracks at Hï Ibiza, [UNVRS] and Ushuaïa Ibiza this summer",
+      "link": "https://mixmag.net/feature/the-10-most-played-tracks-at-hi-ibiza-unvrs-and-ushuaia-ibiza-this-summer",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/hi-ibiza-2026.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=gG0I-xRoFCxzlpQzqGOLDVOscOCV2WTMie3WSLhe4dw",
+      "excerpt": "An analysis of more than 375 club nights between May and October reveals that these are the most-spun tunes at some of the White Isle’s beloved clubs Continue reading..."
+    },
+    {
+      "id": "6c2dda38e73db7e6ec77dd11a91af89765850962",
+      "title": "Duran Duran guitarist and producer Andy Taylor has died aged 65",
+      "link": "https://mixmag.net/read/duran-duran-guitarist-producer-andy-taylor-has-died-aged-65-news",
+      "published": "",
+      "publishedTs": 0,
+      "sourceId": "mixmag",
+      "sourceName": "Mixmag",
+      "categories": [],
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Duran-Duran_2026-11-26-144227_nlht.jpg?fit=cover&quality=82&width=660&s=S-wLFdlCycUhCShoWF_bQjbzRccQiqS4eyHy9BcEHUU",
+      "excerpt": "His Duran Duran bandmates have paid tribute to the indelible &quot;fire and swagger&quot; that the Tyneside-born musician brought to their music Continue reading..."
     },
     {
       "id": "077014e9ffd9b1553ff8ca94026c05c364bfafe5",
@@ -320,7 +344,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Josh-Baker_2026-11-20-151642_bylq.png?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=GyW5-MQxc8gG5l3YOFYPRq7iX4SFcyKXr98zaDwB8iI",
       "excerpt": "Bringing Formula 1 and dance music communities together, the rooftop event kicked off Vegas F1 week with unexpected style Continue reading..."
     },
     {
@@ -440,7 +464,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Way-Out-West_2026-09-29-153214_ggin.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=VDyvaY5qw1w2I_ydJe6G-gp3u3FuPna4TCHLDbAK04E",
       "excerpt": "With a line-up rivalling some of Europe&#039;s biggest festivals with a comparatively intimate capacity, Way Out West&#039;s 18th edition served up a unique experience affirming the festival&#039;s quirky reputation, Megan Townsend expla…"
     },
     {
@@ -452,7 +476,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_mc22.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=VDJnt0okeLLwKrnwZYWgkzUOGSKbKcIxDDrU4ag5r8M",
       "excerpt": "The Austrian artist shares a free-flowing mix that feels like levitating in a digital breeze for listeners, and speaks to Martyn Pepperell about the “magic” of discovering DAWs, surviving the LA songwriting system, and creating formative…"
     },
     {
@@ -500,7 +524,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/iceland-lead.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=xLeAD1JEZSiVXN_OJHKlPWsq9PXe2U3dXLekb6gOdb4",
       "excerpt": "The gentrification that has followed tourism in Iceland is pushing music venues out. In a country where few nightlife spaces exist, we visited the annual showcase festival Iceland Airwaves to find out how its music scenes are thriving de…"
     },
     {
@@ -512,7 +536,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Gallery1986_Tautvydas_Stukas25.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=8sjwsqof-TJzRURNc0zN-n7do9LeuzHYpIUux-AJ560",
       "excerpt": "A marathon party organised by the Vilnius Night Office brings a new dimension to the capital city’s nightlife, hoping to attract fresh energy and spark positive progress within the scene. Across a whirlwind weekend of club-hopping, Patri…"
     },
     {
@@ -524,7 +548,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Rossi-testbed-000.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=7_Ys-yA3k_WD3zGVUawWhoVuwJz4sMqiENZnB4cbHCg",
       "excerpt": "The warehouse venue, which relaunched in October following renovations, has shared details of an exciting plethora of acts coming up throughout the remainder of 2026 and into 2027 Continue reading..."
     },
     {
@@ -680,7 +704,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/juan-atkins-lead.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=paSFTGvBNRnbE04FFh36sRaqJEQcPgaI0cSQzyXu1no",
       "excerpt": "The late techno originator seeded influence across the very breadth of dance music, inspiring DJs all over the globe. We ask 12 artists what Juan Atkins meant to them. Continue reading..."
     },
     {
@@ -728,7 +752,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/THE_MIX_JG2.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=-VH38RIffebznZ5xFC21A5FOYGCyVzbxUrUAV3fF50Q",
       "excerpt": "The Montreal DJ and producer highlights the club obsessions that have informed his latest album &#039;jg&#039;, and speaks to Megan Townsend about post-COVID dancefloors, the Tiga DJ sets that rewired his brain, and the parallels between…"
     },
     {
@@ -764,7 +788,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/ironworks-lead_2026-11-10-110340_erfr.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=sv4TBLn_4TDOLUo0nsC4mvgaWymILvT6c8WVrz5nGIw",
+      "image": "",
       "excerpt": "Since opening its doors last month, the riverside warehouse space has welcomed global stars including Charlotte de Witte, Jamie Jones and Eric Prydz. Here’s what went down at the first run of shows Continue reading..."
     },
     {
@@ -872,7 +896,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Mixes2.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=8DW_GfobVZ7jqG4ouo1JcfI4166qp2-JWPrshzAmjag",
       "excerpt": "Mixmag&#039;s guide to the best DJ mixes of 2026 Continue reading..."
     },
     {
@@ -884,7 +908,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Albums2.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=1cafsj2n-pmBIdUYvpVhg-mME1OycG00NqP69U3_CWA",
       "excerpt": "Mixmag&#039;s guide to the best albums, EPs and mixtapes of 2026 Continue reading..."
     },
     {
@@ -908,7 +932,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/MM_MPH_WEB_02.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=W84q7shbwwtIg1DHmFu4gwbQvqlfrucy0DKwfJRRtrQ",
+      "image": "",
       "excerpt": "One of the biggest stars of the UKG and speed garage resurgence, MPH is about to release his most club-focused album yet, made on-the-move amid a relentless tour schedule. Between gigs, he spoke to Felicity Martin about conquering Americ…"
     },
     {
@@ -932,7 +956,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/OCTOBER_Best_Of_Tracks2.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=zpGRm4hhrnsMqf4PwkFFEhU_MngLTRYnTtPLV1Xd3aE",
       "excerpt": "Mixmag&#039;s guide to the best tracks of the year 2026 Continue reading..."
     },
     {
@@ -968,7 +992,7 @@
       "sourceId": "mixmag",
       "sourceName": "Mixmag",
       "categories": [],
-      "image": "",
+      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Juan-Atkins-obituary-tribute-RIP.jpg?fit=cover&format=baseline-jpeg&quality=60&height=630&width=1200&s=jzAjDUANby785LyMvneHrZ7Pf0PlmBKTaW5gooQAF9A",
       "excerpt": "Juan Atkins was the pioneer whose foundational influence has inspired everyone. Not just an all-time titan of dance music, but of music full stop. Marcus Barnes pays tribute to the innovator who never stopped looking forwards Continue re…"
     },
     {
@@ -1102,30 +1126,6 @@
       "categories": [],
       "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/Daft-Punk-Lawson.png?fit=cover&quality=82&width=660&s=ak3ojXvKTfpi0GK9-bpzcUPhPaoOIteQ6SeGgNIwp64",
       "excerpt": "The 20/20 Vision founder discovered the &quot;mouldy&quot; tape, which was submitted by the French duo to his Kiss FM show, in a storage unit Continue reading..."
-    },
-    {
-      "id": "553d0bd123608c5b9116cd47dccec25a662fb215",
-      "title": "Minneapolis DJ school Slam Academy to shutter following misconduct concerns",
-      "link": "https://mixmag.net/read/minneapolis-dj-school-slam-academy-to-shutter-following-misconduct-concerns-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/dj-school-academt.jpg?fit=cover&quality=82&width=660&s=6rK1X-1xUSShPqRpPcqmjvC7vDgv011NkTHqrQ2r6gM",
-      "excerpt": "The academy said that “conduct fell short of the professional boundaries we expect” Continue reading..."
-    },
-    {
-      "id": "c8d4e82fd702243b01f43125b8be7d1c29b63730",
-      "title": "2027 edition of Wales' Madruga will be its last, festival confirms",
-      "link": "https://mixmag.net/read/wales-madruga-festival-will-no-longer-go-ahead-after-2027-news",
-      "published": "",
-      "publishedTs": 0,
-      "sourceId": "mixmag",
-      "sourceName": "Mixmag",
-      "categories": [],
-      "image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/madruga-festival.jpg?fit=cover&quality=82&width=660&s=aZ47pzCI_V3pWyLjNMZBzQlWRa_xHYCD-4wnDDUI370",
-      "excerpt": "The Hay-on-Wye festival will shut up shop after five years following its next edition Continue reading..."
     }
   ]
 }
